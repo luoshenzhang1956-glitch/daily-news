@@ -44,8 +44,9 @@ async function loadNews() {
     try {
         const feedUrl = RSS_FEEDS[currentSource];
 
-        // Use CodeTabs proxy - usually very reliable for raw content
-        const apiUrl = `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(feedUrl)}`;
+        // Use AllOrigins CORS proxy
+        // Add timestamp to prevent caching
+        const apiUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(feedUrl)}&_t=${new Date().getTime()}`;
 
         const response = await fetch(apiUrl);
         const content = await response.text();
