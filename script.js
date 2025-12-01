@@ -104,6 +104,12 @@ async function loadNews() {
             });
         }
 
+        // Save to cache
+        localStorage.setItem(`news_cache_${currentSource}`, JSON.stringify({
+            timestamp: new Date().getTime(),
+            items: newsItems
+        }));
+
         // Hide loading
         loading.style.display = 'none';
 
@@ -112,6 +118,22 @@ async function loadNews() {
 
     } catch (error) {
         console.error(error);
+
+        // Try fallback to cache
+        const cachedData = localStorage.getItem(`news_cache_${currentSource}`);
+        if (cachedData) {
+            const { items } = JSON.parse(cachedData);
+            loading.style.display = 'none';
+            displayNews(items);
+
+            // Add notice
+            const notice = document.createElement('div');
+            notice.style.cssText = 'font-size: 12px; color: #666; text-align: center; margin-bottom: 10px; font-style: italic;';
+            notice.textContent = 'Network error. Showing saved news.';
+            newsList.insertBefore(notice, newsList.firstChild);
+            return;
+        }
+
         loading.style.display = 'none';
         newsList.innerHTML = `
             <div class="error">
