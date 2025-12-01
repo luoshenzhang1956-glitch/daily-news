@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily News Brief</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>Daily News Brief</h1>
+            <p class="last-updated">Last Updated: <span id="updateTime">Loading...</span></p>
+        </header>
+
+        <!-- Tabs -->
+        <div class="tabs">
+            <button class="tab active" data-source="cnn">CNN</button>
+            <button class="tab" data-source="fox">Fox</button>
+            <button class="tab" data-source="msnbc">MSNBC</button>
+            <button class="tab" data-source="abc">ABC</button>
+        </div>
+
+        <!-- Loading Indicator -->
+        <div id="loading" class="loading">
+            <p>Loading news...</p>
+        </div>
+
+        <!-- News List -->
+        <div id="newsList" class="news-list"></div>
+
+        <!-- Footer -->
+        <footer>
+            <p>Powered by RSS Feeds</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

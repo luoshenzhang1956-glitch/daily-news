@@ -1,0 +1,203 @@
+// RSS Feed URLs
+const RSS_FEEDS = {
+    cnn: 'https://rss.cnn.com/rss/cnn_topstories.rss',
+    fox: 'https://moxie.foxnews.com/google-publisher/latest.xml',
+    msnbc: 'https://www.msnbc.com/feeds/latest',
+    abc: 'https://abcnews.go.com/abcnews/topstories'
+};
+
+// Current active source
+let currentSource = 'cnn';
+
+// Initialize on page load
+document.addEventListener('DOMContentLoaded', () => {
+    setupTabs();
+    loadNews();
+    updateTimestamp();
+});
+
+// Setup tab switching
+function setupTabs() {
+    const tabs = document.querySelectorAll('.tab');
+    tabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            // Update active tab
+            tabs.forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+
+            // Load news for selected source
+            currentSource = tab.dataset.source;
+            loadNews();
+        });
+    });
+}
+
+// Load news from RSS feed
+async function loadNews() {
+    const newsList = document.getElementById('newsList');
+    const loading = document.getElementById('loading');
+
+    // Show loading
+    loading.style.display = 'block';
+    newsList.innerHTML = '';
+
+    try {
+        const feedUrl = RSS_FEEDS[currentSource];
+
+        // Use CodeTabs proxy - usually very reliable for raw content
+        const apiUrl = `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(feedUrl)}`;
+
+        const response = await fetch(apiUrl);
+        const content = await response.text();
+
+        const newsItems = [];
+
+        // Regex to find all <item> blocks
+        // [\s\S] matches any character including newlines
+        const itemRegex = /<item[\s\S]*?>([\s\S]*?)<\/item>/gi;
+        let match;
+
+        while ((match = itemRegex.exec(content)) !== null) {
+            if (newsItems.length >= 20) break;
+
+            const itemContent = match[1];
+
+            // Helper to extract tag content
+            const getTagContent = (tag) => {
+                const regex = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\/${tag}>`, 'i');
+                const tagMatch = regex.exec(itemContent);
+                if (!tagMatch) return '';
+
+                let text = tagMatch[1];
+                // Remove CDATA wrapper if present
+                text = text.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi, '$1');
+                return text.trim();
+            };
+
+            const title = getTagContent('title') || 'No title';
+            let link = getTagContent('link');
+            const pubDate = getTagContent('pubDate');
+            const guid = getTagContent('guid');
+
+            // Fallback to guid if link is empty and guid looks like a URL
+            if (!link && guid && guid.startsWith('http')) {
+                link = guid;
+            }
+
+            // If still no link, try to find http url in the whole item content
+            if (!link) {
+                const urlMatch = itemContent.match(/https?:\/\/[^"'\s<]+/);
+                if (urlMatch) link = urlMatch[0];
+            }
+
+            newsItems.push({
+                title: title,
+                link: link || '#',
+                pubDate: pubDate || new Date().toISOString()
+            });
+        }
+
+        // Hide loading
+        loading.style.display = 'none';
+
+        // Display news items
+        displayNews(newsItems);
+
+    } catch (error) {
+        console.error(error);
+        loading.style.display = 'none';
+        newsList.innerHTML = `
+            <div class="error">
+                <p>Unable to load news.</p>
+                <p style="font-size: 14px; margin-top: 8px;">${error.message}</p>
+            </div>
+        `;
+    }
+}
+
+// Fallback method removed as we are using robust regex parsing now
+
+// Display news items
+function displayNews(items) {
+    const newsList = document.getElementById('newsList');
+
+    if (!items || items.length === 0) {
+        newsList.innerHTML = '<div class="error">No news available.</div>';
+        return;
+    }
+
+    // Filter for news from the past 24 hours only
+    const now = new Date();
+    const twentyFourHoursAgo = new Date(now.getTime() - (24 * 60 * 60 * 1000));
+
+    const recentItems = items.filter(item => {
+        const pubDate = new Date(item.pubDate);
+        return pubDate >= twentyFourHoursAgo;
+    });
+
+    if (recentItems.length === 0) {
+        newsList.innerHTML = '<div class="error">No news from the past 24 hours available.</div>';
+        return;
+    }
+
+    // Display only top 10 from past 24 hours
+    const topTen = recentItems.slice(0, 10);
+
+    topTen.forEach((item, index) => {
+        const newsItem = document.createElement('div');
+        newsItem.className = 'news-item';
+
+        const pubDate = new Date(item.pubDate);
+        const timeAgo = getTimeAgo(pubDate);
+
+        newsItem.innerHTML = `
+            <span class="news-number">${index + 1}</span>
+            <div class="news-content">
+                <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="news-link">
+                    <div class="news-title">${item.title}</div>
+                    <div class="news-time">${timeAgo}</div>
+                    <div style="font-size: 10px; color: #9ca3af; margin-top: 4px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">${item.link}</div>
+                </a>
+            </div>
+        `;
+
+        newsItem.addEventListener('click', () => {
+            window.open(item.link, '_blank');
+        });
+
+        newsList.appendChild(newsItem);
+    });
+}
+
+// Calculate time ago
+function getTimeAgo(date) {
+    const now = new Date();
+    const seconds = Math.floor((now - date) / 1000);
+
+    if (seconds < 60) return 'Just now';
+
+    const minutes = Math.floor(seconds / 60);
+    if (minutes < 60) return `${minutes} minute${minutes > 1 ? 's' : ''} ago`;
+
+    const hours = Math.floor(minutes / 60);
+    if (hours < 24) return `${hours} hour${hours > 1 ? 's' : ''} ago`;
+
+    const days = Math.floor(hours / 24);
+    return `${days} day${days > 1 ? 's' : ''} ago`;
+}
+
+// Update timestamp
+function updateTimestamp() {
+    const updateTime = document.getElementById('updateTime');
+    const now = new Date();
+    const options = {
+        month: 'short',
+        day: 'numeric',
+        year: 'numeric',
+        hour: 'numeric',
+        minute: '2-digit',
+        hour12: true,
+        timeZoneName: 'short'
+    };
+    updateTime.textContent = now.toLocaleString('en-US', options);
+}

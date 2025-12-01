@@ -1,0 +1,24 @@
+name: Daily News Update
+
+on:
+  schedule:
+    # Run at 6:00 AM PST (14:00 UTC) every day
+    - cron: '0 14 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Update timestamp
+        run: |
+          echo "News updated at $(date)" > last-update.txt
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          git add last-update.txt
+          git commit -m "Auto-update: $(date)" || echo "No changes to commit"
+          git push || echo "Nothing to push"
