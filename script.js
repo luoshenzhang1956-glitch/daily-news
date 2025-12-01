@@ -1,6 +1,6 @@
 // RSS Feed URLs
 const RSS_FEEDS = {
-    cnn: 'http://rss.cnn.com/rss/cnn_latest.rss',
+    cnn: 'https://news.google.com/rss/search?q=site:cnn.com&ceid=US:en&hl=en-US&gl=US',
     fox: 'https://moxie.foxnews.com/google-publisher/latest.xml',
     msnbc: 'https://feeds.nbcnews.com/nbcnews/public/news', // NBC News (MSNBC content)
     abc: 'https://abcnews.go.com/abcnews/usheadlines'
@@ -42,15 +42,20 @@ async function loadNews() {
     newsList.innerHTML = '';
 
     try {
-        // Add timestamp to feed URL to prevent caching by the proxy
-        const timestamp = new Date().getTime();
-        const feedUrlWithCacheBuster = `${RSS_FEEDS[currentSource]}?t=${timestamp}`;
+        const feedUrl = RSS_FEEDS[currentSource];
 
-        // Use CodeTabs proxy - reliable for raw XML
-        const apiUrl = `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(feedUrlWithCacheBuster)}`;
+        // Use AllOrigins CORS proxy (returns JSON)
+        // Add timestamp to prevent caching
+        const apiUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(feedUrl)}&_t=${new Date().getTime()}`;
 
         const response = await fetch(apiUrl);
-        const content = await response.text();
+        const data = await response.json();
+
+        if (!data.contents) {
+            throw new Error('Failed to fetch news content');
+        }
+
+        const content = data.contents;
 
         const newsItems = [];
 
