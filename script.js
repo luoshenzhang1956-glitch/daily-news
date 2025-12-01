@@ -49,7 +49,13 @@ async function loadNews() {
         const apiUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(feedUrl)}&_t=${new Date().getTime()}`;
 
         const response = await fetch(apiUrl);
-        const content = await response.text();
+        const data = await response.json();
+
+        if (!data.contents) {
+            throw new Error('Failed to fetch news content');
+        }
+
+        const content = data.contents;
 
         const newsItems = [];
 
