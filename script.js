@@ -41,21 +41,48 @@ async function loadNews() {
     loading.style.display = 'block';
     newsList.innerHTML = '';
 
-    try {
-        const feedUrl = RSS_FEEDS[currentSource];
+    const feedUrl = RSS_FEEDS[currentSource];
+    const timestamp = new Date().getTime();
 
-        // Use AllOrigins CORS proxy (returns JSON)
-        // Add timestamp to prevent caching
-        const apiUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(feedUrl)}&_t=${new Date().getTime()}`;
-
-        const response = await fetch(apiUrl);
-        const data = await response.json();
-
-        if (!data.contents) {
-            throw new Error('Failed to fetch news content');
+    // Define proxy strategies
+    const strategies = [
+        {
+            name: 'AllOrigins',
+            url: `https://api.allorigins.win/get?url=${encodeURIComponent(feedUrl)}&_t=${timestamp}`,
+            parse: async (res) => {
+                const data = await res.json();
+                if (!data.contents) throw new Error('No content');
+                return data.contents;
+            }
+        },
+        {
+            name: 'CodeTabs',
+            url: `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(feedUrl)}&t=${timestamp}`,
+            parse: async (res) => res.text()
         }
+    ];
 
-        const content = data.contents;
+    let content = null;
+    let lastError = null;
+
+    // Try proxies in order
+    for (const strategy of strategies) {
+        try {
+            console.log(`Trying proxy: ${strategy.name}`);
+            const response = await fetch(strategy.url);
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            content = await strategy.parse(response);
+            if (content) break; // Success!
+        } catch (e) {
+            console.warn(`${strategy.name} failed:`, e);
+            lastError = e;
+        }
+    }
+
+    try {
+        if (!content) {
+            throw lastError || new Error('All proxies failed');
+        }
 
         const newsItems = [];
 
