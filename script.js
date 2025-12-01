@@ -42,20 +42,15 @@ async function loadNews() {
     newsList.innerHTML = '';
 
     try {
-        const feedUrl = RSS_FEEDS[currentSource];
+        // Add timestamp to feed URL to prevent caching by the proxy
+        const timestamp = new Date().getTime();
+        const feedUrlWithCacheBuster = `${RSS_FEEDS[currentSource]}?t=${timestamp}`;
 
-        // Use AllOrigins CORS proxy
-        // Add timestamp to prevent caching
-        const apiUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(feedUrl)}&_t=${new Date().getTime()}`;
+        // Use CodeTabs proxy - reliable for raw XML
+        const apiUrl = `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(feedUrlWithCacheBuster)}`;
 
         const response = await fetch(apiUrl);
-        const data = await response.json();
-
-        if (!data.contents) {
-            throw new Error('Failed to fetch news content');
-        }
-
-        const content = data.contents;
+        const content = await response.text();
 
         const newsItems = [];
 
