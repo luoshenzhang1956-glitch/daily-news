@@ -1,9 +1,9 @@
 // RSS Feed URLs
 const RSS_FEEDS = {
-    cnn: 'https://rss.cnn.com/rss/cnn_topstories.rss',
+    cnn: 'http://rss.cnn.com/rss/cnn_latest.rss',
     fox: 'https://moxie.foxnews.com/google-publisher/latest.xml',
-    msnbc: 'https://www.msnbc.com/feeds/latest',
-    abc: 'https://abcnews.go.com/abcnews/topstories'
+    msnbc: 'https://feeds.nbcnews.com/nbcnews/public/news', // NBC News (MSNBC content)
+    abc: 'https://abcnews.go.com/abcnews/usheadlines'
 };
 
 // Current active source
@@ -126,22 +126,37 @@ function displayNews(items) {
         return;
     }
 
-    // Filter for news from the past 24 hours only
+    // Sort items by date (newest first)
+    items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+    // Filter for news from the past 24 hours
     const now = new Date();
     const twentyFourHoursAgo = new Date(now.getTime() - (24 * 60 * 60 * 1000));
 
-    const recentItems = items.filter(item => {
+    let displayItems = items.filter(item => {
         const pubDate = new Date(item.pubDate);
         return pubDate >= twentyFourHoursAgo;
     });
 
-    if (recentItems.length === 0) {
-        newsList.innerHTML = '<div class="error">No news from the past 24 hours available.</div>';
+    // If we have fewer than 10 recent items, fill with older ones
+    if (displayItems.length < 10) {
+        const olderItems = items.filter(item => {
+            const pubDate = new Date(item.pubDate);
+            return pubDate < twentyFourHoursAgo;
+        });
+
+        // Add older items until we reach 10 or run out
+        const needed = 10 - displayItems.length;
+        displayItems = displayItems.concat(olderItems.slice(0, needed));
+    }
+
+    if (displayItems.length === 0) {
+        newsList.innerHTML = '<div class="error">No news available.</div>';
         return;
     }
 
-    // Display only top 10 from past 24 hours
-    const topTen = recentItems.slice(0, 10);
+    // Display top 10
+    const topTen = displayItems.slice(0, 10);
 
     topTen.forEach((item, index) => {
         const newsItem = document.createElement('div');
