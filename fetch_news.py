@@ -1,4 +1,5 @@
 import urllib.request
+import urllib.parse
 import json
 import re
 from datetime import datetime, timedelta
@@ -11,14 +12,17 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
+# Proxy base for difficult feeds
+PROXY_BASE = "https://api.allorigins.win/raw?url="
+
 RSS_SOURCES = {
     'ap': {
-        'top': 'https://www.bing.com/news/search?q=site:apnews.com&format=rss',
-        'world': 'https://www.bing.com/news/search?q=site:apnews.com+world&format=rss',
-        'us': 'https://www.bing.com/news/search?q=site:apnews.com+us&format=rss',
-        'business': 'https://www.bing.com/news/search?q=site:apnews.com+business&format=rss',
-        'tech': 'https://www.bing.com/news/search?q=site:apnews.com+technology&format=rss',
-        'health': 'https://www.bing.com/news/search?q=site:apnews.com+health&format=rss'
+        'top': PROXY_BASE + 'https://www.bing.com/news/search?q=site:apnews.com&format=rss',
+        'world': PROXY_BASE + 'https://www.bing.com/news/search?q=site:apnews.com+world&format=rss',
+        'us': PROXY_BASE + 'https://www.bing.com/news/search?q=site:apnews.com+us&format=rss',
+        'business': PROXY_BASE + 'https://www.bing.com/news/search?q=site:apnews.com+business&format=rss',
+        'tech': PROXY_BASE + 'https://www.bing.com/news/search?q=site:apnews.com+technology&format=rss',
+        'health': PROXY_BASE + 'https://www.bing.com/news/search?q=site:apnews.com+health&format=rss'
     },
     'npr': {
         'top': 'https://feeds.npr.org/1001/rss.xml',
@@ -37,20 +41,20 @@ RSS_SOURCES = {
         'health': 'https://feeds.bbci.co.uk/news/health/rss.xml'
     },
     'reuters': {
-        'top': 'https://www.bing.com/news/search?q=site:reuters.com&format=rss',
-        'world': 'https://www.bing.com/news/search?q=site:reuters.com+world&format=rss',
-        'us': 'https://www.bing.com/news/search?q=site:reuters.com+us&format=rss',
-        'business': 'https://www.bing.com/news/search?q=site:reuters.com+business&format=rss',
-        'tech': 'https://www.bing.com/news/search?q=site:reuters.com+technology&format=rss',
-        'health': 'https://www.bing.com/news/search?q=site:reuters.com+health&format=rss'
+        'top': PROXY_BASE + 'https://www.bing.com/news/search?q=site:reuters.com&format=rss',
+        'world': PROXY_BASE + 'https://www.bing.com/news/search?q=site:reuters.com+world&format=rss',
+        'us': PROXY_BASE + 'https://www.bing.com/news/search?q=site:reuters.com+us&format=rss',
+        'business': PROXY_BASE + 'https://www.bing.com/news/search?q=site:reuters.com+business&format=rss',
+        'tech': PROXY_BASE + 'https://www.bing.com/news/search?q=site:reuters.com+technology&format=rss',
+        'health': PROXY_BASE + 'https://www.bing.com/news/search?q=site:reuters.com+health&format=rss'
     },
     'markets': {
-        'top': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664', # Finance
-        'world': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362', # World
-        'us': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069', # US Economy
-        'business': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147', # Business
-        'tech': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910', # Tech
-        'health': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000108' # Health
+        'top': PROXY_BASE + 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664', # Finance
+        'world': PROXY_BASE + 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362', # World
+        'us': PROXY_BASE + 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069', # US Economy
+        'business': PROXY_BASE + 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147', # Business
+        'tech': PROXY_BASE + 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910', # Tech
+        'health': PROXY_BASE + 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000108' # Health
     }
 }
 
@@ -76,7 +80,20 @@ def fetch_feed(url):
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.9'
         }
-        req = urllib.request.Request(url, headers=headers)
+        
+        # If using proxy, we need to ensure the target URL is encoded if it wasn't already
+        # But here we are manually constructing it, so we should be careful.
+        # Actually, urllib.request handles spaces in URLs automatically usually, but for the proxy query param it might be tricky.
+        # Let's just use the URL as is, assuming the dictionary values are correct.
+        # The PROXY_BASE is "https://api.allorigins.win/raw?url="
+        # We need to quote the part AFTER the base.
+        
+        final_url = url
+        if "api.allorigins.win" in url:
+            base, target = url.split("?url=", 1)
+            final_url = base + "?url=" + urllib.parse.quote(target)
+            
+        req = urllib.request.Request(final_url, headers=headers)
         with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
             return response.read().decode('utf-8')
     except Exception as e:
