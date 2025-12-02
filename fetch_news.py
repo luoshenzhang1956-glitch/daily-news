@@ -13,12 +13,12 @@ ctx.verify_mode = ssl.CERT_NONE
 
 RSS_SOURCES = {
     'ap': {
-        'top': 'https://news.yahoo.com/rss/',
-        'world': 'https://news.yahoo.com/rss/world',
-        'us': 'https://news.yahoo.com/rss/us',
-        'business': 'https://news.yahoo.com/rss/business',
-        'tech': 'https://news.yahoo.com/rss/tech',
-        'health': 'https://news.yahoo.com/rss/health'
+        'top': 'https://www.bing.com/news/search?q=site:apnews.com&format=rss',
+        'world': 'https://www.bing.com/news/search?q=site:apnews.com+world&format=rss',
+        'us': 'https://www.bing.com/news/search?q=site:apnews.com+us&format=rss',
+        'business': 'https://www.bing.com/news/search?q=site:apnews.com+business&format=rss',
+        'tech': 'https://www.bing.com/news/search?q=site:apnews.com+technology&format=rss',
+        'health': 'https://www.bing.com/news/search?q=site:apnews.com+health&format=rss'
     },
     'npr': {
         'top': 'https://feeds.npr.org/1001/rss.xml',
@@ -37,20 +37,20 @@ RSS_SOURCES = {
         'health': 'https://feeds.bbci.co.uk/news/health/rss.xml'
     },
     'reuters': {
-        'top': 'https://news.yahoo.com/rss/',
-        'world': 'https://news.yahoo.com/rss/world',
-        'us': 'https://news.yahoo.com/rss/us',
-        'business': 'https://news.yahoo.com/rss/business',
-        'tech': 'https://news.yahoo.com/rss/tech',
-        'health': 'https://news.yahoo.com/rss/health'
+        'top': 'https://www.bing.com/news/search?q=site:reuters.com&format=rss',
+        'world': 'https://www.bing.com/news/search?q=site:reuters.com+world&format=rss',
+        'us': 'https://www.bing.com/news/search?q=site:reuters.com+us&format=rss',
+        'business': 'https://www.bing.com/news/search?q=site:reuters.com+business&format=rss',
+        'tech': 'https://www.bing.com/news/search?q=site:reuters.com+technology&format=rss',
+        'health': 'https://www.bing.com/news/search?q=site:reuters.com+health&format=rss'
     },
     'markets': {
-        'top': 'https://finance.yahoo.com/news/rssindex',
-        'world': 'https://news.yahoo.com/rss/world',
-        'us': 'https://news.yahoo.com/rss/us',
-        'business': 'https://finance.yahoo.com/news/rssindex',
-        'tech': 'https://news.yahoo.com/rss/tech',
-        'health': 'https://news.yahoo.com/rss/health'
+        'top': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664', # Finance
+        'world': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362', # World
+        'us': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069', # US Economy
+        'business': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147', # Business
+        'tech': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910', # Tech
+        'health': 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000108' # Health
     }
 }
 
