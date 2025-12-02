@@ -70,7 +70,12 @@ def parse_date(date_str):
 
 def fetch_feed(url):
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'}
+        # Use a full, modern User-Agent to avoid bot detection
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9'
+        }
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
             return response.read().decode('utf-8')
@@ -116,6 +121,13 @@ def smart_select(source_feeds):
         print(f"  Fetching {category}...")
         content = fetch_feed(url)
         items = extract_items(content)
+        
+        if not items:
+            print(f"    WARNING: No items found for {category}!")
+            if content:
+                print(f"    Response snippet: {content[:200]}...")
+            else:
+                print("    Response was empty.")
         
         # Filter 24h
         now = datetime.now(items[0]['timestamp'].tzinfo if items and items[0]['timestamp'] else None)
