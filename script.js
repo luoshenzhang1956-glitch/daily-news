@@ -65,11 +65,19 @@ async function loadNews() {
         displayNews(newsItems);
 
         // Update "Last Updated" text to show when the FILE was generated
+        // Update "Last Updated" text to show when the FILE was generated
         if (data.updated_at) {
-            const updateTime = new Date(data.updated_at);
+            // Force UTC interpretation by appending 'Z' if not present
+            let dateStr = data.updated_at;
+            if (!dateStr.endsWith('Z') && !dateStr.includes('+')) {
+                dateStr += 'Z';
+            }
+
+            const updateTime = new Date(dateStr);
             const options = {
                 month: 'short', day: 'numeric', year: 'numeric',
-                hour: 'numeric', minute: '2-digit', hour12: true
+                hour: 'numeric', minute: '2-digit', hour12: true,
+                timeZoneName: 'short'
             };
             document.getElementById('updateTime').textContent = updateTime.toLocaleString('en-US', options);
         }
