@@ -11,15 +11,14 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-# 5 Sources x 6 Categories = 30 Feeds
 RSS_SOURCES = {
     'ap': {
-        'top': 'https://news.google.com/rss/search?q=site:apnews.com&ceid=US:en&hl=en-US&gl=US',
-        'world': 'https://news.google.com/rss/search?q=site:apnews.com+world&ceid=US:en&hl=en-US&gl=US',
-        'us': 'https://news.google.com/rss/search?q=site:apnews.com+us&ceid=US:en&hl=en-US&gl=US',
-        'business': 'https://news.google.com/rss/search?q=site:apnews.com+business&ceid=US:en&hl=en-US&gl=US',
-        'tech': 'https://news.google.com/rss/search?q=site:apnews.com+technology&ceid=US:en&hl=en-US&gl=US',
-        'health': 'https://news.google.com/rss/search?q=site:apnews.com+health&ceid=US:en&hl=en-US&gl=US'
+        'top': 'https://www.bing.com/news/search?q=site:apnews.com&format=rss',
+        'world': 'https://www.bing.com/news/search?q=site:apnews.com+world&format=rss',
+        'us': 'https://www.bing.com/news/search?q=site:apnews.com+us&format=rss',
+        'business': 'https://www.bing.com/news/search?q=site:apnews.com+business&format=rss',
+        'tech': 'https://www.bing.com/news/search?q=site:apnews.com+technology&format=rss',
+        'health': 'https://www.bing.com/news/search?q=site:apnews.com+health&format=rss'
     },
     'npr': {
         'top': 'https://feeds.npr.org/1001/rss.xml',
@@ -30,28 +29,28 @@ RSS_SOURCES = {
         'health': 'https://feeds.npr.org/1128/rss.xml'
     },
     'bbc': {
-        'top': 'http://feeds.bbci.co.uk/news/rss.xml',
-        'world': 'http://feeds.bbci.co.uk/news/world/rss.xml',
-        'us': 'http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml',
-        'business': 'http://feeds.bbci.co.uk/news/business/rss.xml',
-        'tech': 'http://feeds.bbci.co.uk/news/technology/rss.xml',
-        'health': 'http://feeds.bbci.co.uk/news/health/rss.xml'
+        'top': 'https://feeds.bbci.co.uk/news/rss.xml',
+        'world': 'https://feeds.bbci.co.uk/news/world/rss.xml',
+        'us': 'https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml',
+        'business': 'https://feeds.bbci.co.uk/news/business/rss.xml',
+        'tech': 'https://feeds.bbci.co.uk/news/technology/rss.xml',
+        'health': 'https://feeds.bbci.co.uk/news/health/rss.xml'
     },
     'reuters': {
-        'top': 'https://news.google.com/rss/search?q=site:reuters.com&ceid=US:en&hl=en-US&gl=US',
-        'world': 'https://news.google.com/rss/search?q=site:reuters.com+world&ceid=US:en&hl=en-US&gl=US',
-        'us': 'https://news.google.com/rss/search?q=site:reuters.com+us&ceid=US:en&hl=en-US&gl=US',
-        'business': 'https://news.google.com/rss/search?q=site:reuters.com+business&ceid=US:en&hl=en-US&gl=US',
-        'tech': 'https://news.google.com/rss/search?q=site:reuters.com+technology&ceid=US:en&hl=en-US&gl=US',
-        'health': 'https://news.google.com/rss/search?q=site:reuters.com+health&ceid=US:en&hl=en-US&gl=US'
+        'top': 'https://www.bing.com/news/search?q=site:reuters.com&format=rss',
+        'world': 'https://www.bing.com/news/search?q=site:reuters.com+world&format=rss',
+        'us': 'https://www.bing.com/news/search?q=site:reuters.com+us&format=rss',
+        'business': 'https://www.bing.com/news/search?q=site:reuters.com+business&format=rss',
+        'tech': 'https://www.bing.com/news/search?q=site:reuters.com+technology&format=rss',
+        'health': 'https://www.bing.com/news/search?q=site:reuters.com+health&format=rss'
     },
     'markets': {
-        'top': 'https://news.google.com/rss/search?q=site:reuters.com+markets&ceid=US:en&hl=en-US&gl=US',
-        'world': 'https://news.google.com/rss/search?q=site:reuters.com+global+markets&ceid=US:en&hl=en-US&gl=US',
-        'us': 'https://news.google.com/rss/search?q=site:reuters.com+us+markets&ceid=US:en&hl=en-US&gl=US',
-        'business': 'https://news.google.com/rss/search?q=site:reuters.com+finance&ceid=US:en&hl=en-US&gl=US',
-        'tech': 'https://news.google.com/rss/search?q=site:reuters.com+fintech&ceid=US:en&hl=en-US&gl=US',
-        'health': 'https://news.google.com/rss/search?q=site:reuters.com+pharma&ceid=US:en&hl=en-US&gl=US'
+        'top': 'https://www.bing.com/news/search?q=site:reuters.com+markets&format=rss',
+        'world': 'https://www.bing.com/news/search?q=site:reuters.com+global+markets&format=rss',
+        'us': 'https://www.bing.com/news/search?q=site:reuters.com+us+markets&format=rss',
+        'business': 'https://www.bing.com/news/search?q=site:reuters.com+finance&format=rss',
+        'tech': 'https://www.bing.com/news/search?q=site:reuters.com+fintech&format=rss',
+        'health': 'https://www.bing.com/news/search?q=site:reuters.com+pharma&format=rss'
     }
 }
 
