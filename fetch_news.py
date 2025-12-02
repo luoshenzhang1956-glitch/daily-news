@@ -13,12 +13,12 @@ ctx.verify_mode = ssl.CERT_NONE
 
 RSS_SOURCES = {
     'ap': {
-        'top': 'https://www.bing.com/news/search?q=site:apnews.com&format=rss',
-        'world': 'https://www.bing.com/news/search?q=site:apnews.com+world&format=rss',
-        'us': 'https://www.bing.com/news/search?q=site:apnews.com+us&format=rss',
-        'business': 'https://www.bing.com/news/search?q=site:apnews.com+business&format=rss',
-        'tech': 'https://www.bing.com/news/search?q=site:apnews.com+technology&format=rss',
-        'health': 'https://www.bing.com/news/search?q=site:apnews.com+health&format=rss'
+        'top': 'https://news.yahoo.com/rss/',
+        'world': 'https://news.yahoo.com/rss/world',
+        'us': 'https://news.yahoo.com/rss/us',
+        'business': 'https://news.yahoo.com/rss/business',
+        'tech': 'https://news.yahoo.com/rss/tech',
+        'health': 'https://news.yahoo.com/rss/health'
     },
     'npr': {
         'top': 'https://feeds.npr.org/1001/rss.xml',
@@ -37,20 +37,20 @@ RSS_SOURCES = {
         'health': 'https://feeds.bbci.co.uk/news/health/rss.xml'
     },
     'reuters': {
-        'top': 'https://www.bing.com/news/search?q=site:reuters.com&format=rss',
-        'world': 'https://www.bing.com/news/search?q=site:reuters.com+world&format=rss',
-        'us': 'https://www.bing.com/news/search?q=site:reuters.com+us&format=rss',
-        'business': 'https://www.bing.com/news/search?q=site:reuters.com+business&format=rss',
-        'tech': 'https://www.bing.com/news/search?q=site:reuters.com+technology&format=rss',
-        'health': 'https://www.bing.com/news/search?q=site:reuters.com+health&format=rss'
+        'top': 'https://news.yahoo.com/rss/',
+        'world': 'https://news.yahoo.com/rss/world',
+        'us': 'https://news.yahoo.com/rss/us',
+        'business': 'https://news.yahoo.com/rss/business',
+        'tech': 'https://news.yahoo.com/rss/tech',
+        'health': 'https://news.yahoo.com/rss/health'
     },
     'markets': {
-        'top': 'https://www.bing.com/news/search?q=site:reuters.com+markets&format=rss',
-        'world': 'https://www.bing.com/news/search?q=site:reuters.com+global+markets&format=rss',
-        'us': 'https://www.bing.com/news/search?q=site:reuters.com+us+markets&format=rss',
-        'business': 'https://www.bing.com/news/search?q=site:reuters.com+finance&format=rss',
-        'tech': 'https://www.bing.com/news/search?q=site:reuters.com+fintech&format=rss',
-        'health': 'https://www.bing.com/news/search?q=site:reuters.com+pharma&format=rss'
+        'top': 'https://finance.yahoo.com/news/rssindex',
+        'world': 'https://news.yahoo.com/rss/world',
+        'us': 'https://news.yahoo.com/rss/us',
+        'business': 'https://finance.yahoo.com/news/rssindex',
+        'tech': 'https://news.yahoo.com/rss/tech',
+        'health': 'https://news.yahoo.com/rss/health'
     }
 }
 
