@@ -7,7 +7,7 @@ const RSS_FEEDS = {
 };
 
 // Current active source
-let currentSource = 'cnn';
+let currentSource = 'ap';
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', () => {

@@ -13,37 +13,13 @@ ctx.verify_mode = ssl.CERT_NONE
 
 # 5 Sources x 6 Categories = 30 Feeds
 RSS_SOURCES = {
-    'cnn': {
-        'top': 'https://news.google.com/rss/search?q=site:cnn.com&ceid=US:en&hl=en-US&gl=US',
-        'world': 'https://news.google.com/rss/search?q=site:cnn.com+world&ceid=US:en&hl=en-US&gl=US',
-        'us': 'https://news.google.com/rss/search?q=site:cnn.com+us&ceid=US:en&hl=en-US&gl=US',
-        'business': 'https://news.google.com/rss/search?q=site:cnn.com+business&ceid=US:en&hl=en-US&gl=US',
-        'tech': 'https://news.google.com/rss/search?q=site:cnn.com+technology&ceid=US:en&hl=en-US&gl=US',
-        'health': 'https://news.google.com/rss/search?q=site:cnn.com+health&ceid=US:en&hl=en-US&gl=US'
-    },
-    'fox': {
-        'top': 'https://moxie.foxnews.com/google-publisher/latest.xml',
-        'world': 'https://moxie.foxnews.com/google-publisher/world.xml',
-        'us': 'https://moxie.foxnews.com/google-publisher/us.xml',
-        'business': 'http://feeds.foxnews.com/foxnews/business', # Moxie business often fails
-        'tech': 'https://moxie.foxnews.com/google-publisher/tech.xml',
-        'health': 'https://moxie.foxnews.com/google-publisher/health.xml'
-    },
-    'msnbc': { # NBC News
-        'top': 'https://feeds.nbcnews.com/nbcnews/public/news',
-        'world': 'https://feeds.nbcnews.com/nbcnews/public/world',
-        'us': 'https://feeds.nbcnews.com/nbcnews/public/us',
-        'business': 'https://feeds.nbcnews.com/nbcnews/public/business',
-        'tech': 'https://feeds.nbcnews.com/nbcnews/public/tech',
-        'health': 'https://feeds.nbcnews.com/nbcnews/public/health'
-    },
-    'abc': {
-        'top': 'https://abcnews.go.com/abcnews/usheadlines',
-        'world': 'https://abcnews.go.com/abcnews/internationalheadlines',
-        'us': 'https://abcnews.go.com/abcnews/usheadlines',
-        'business': 'https://abcnews.go.com/abcnews/moneyheadlines',
-        'tech': 'https://abcnews.go.com/abcnews/technologyheadlines',
-        'health': 'https://abcnews.go.com/abcnews/healthheadlines'
+    'ap': {
+        'top': 'https://news.google.com/rss/search?q=site:apnews.com&ceid=US:en&hl=en-US&gl=US',
+        'world': 'https://news.google.com/rss/search?q=site:apnews.com+world&ceid=US:en&hl=en-US&gl=US',
+        'us': 'https://news.google.com/rss/search?q=site:apnews.com+us&ceid=US:en&hl=en-US&gl=US',
+        'business': 'https://news.google.com/rss/search?q=site:apnews.com+business&ceid=US:en&hl=en-US&gl=US',
+        'tech': 'https://news.google.com/rss/search?q=site:apnews.com+technology&ceid=US:en&hl=en-US&gl=US',
+        'health': 'https://news.google.com/rss/search?q=site:apnews.com+health&ceid=US:en&hl=en-US&gl=US'
     },
     'npr': {
         'top': 'https://feeds.npr.org/1001/rss.xml',
@@ -52,6 +28,30 @@ RSS_SOURCES = {
         'business': 'https://feeds.npr.org/1006/rss.xml',
         'tech': 'https://feeds.npr.org/1019/rss.xml',
         'health': 'https://feeds.npr.org/1128/rss.xml'
+    },
+    'bbc': {
+        'top': 'http://feeds.bbci.co.uk/news/rss.xml',
+        'world': 'http://feeds.bbci.co.uk/news/world/rss.xml',
+        'us': 'http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml',
+        'business': 'http://feeds.bbci.co.uk/news/business/rss.xml',
+        'tech': 'http://feeds.bbci.co.uk/news/technology/rss.xml',
+        'health': 'http://feeds.bbci.co.uk/news/health/rss.xml'
+    },
+    'reuters': {
+        'top': 'https://news.google.com/rss/search?q=site:reuters.com&ceid=US:en&hl=en-US&gl=US',
+        'world': 'https://news.google.com/rss/search?q=site:reuters.com+world&ceid=US:en&hl=en-US&gl=US',
+        'us': 'https://news.google.com/rss/search?q=site:reuters.com+us&ceid=US:en&hl=en-US&gl=US',
+        'business': 'https://news.google.com/rss/search?q=site:reuters.com+business&ceid=US:en&hl=en-US&gl=US',
+        'tech': 'https://news.google.com/rss/search?q=site:reuters.com+technology&ceid=US:en&hl=en-US&gl=US',
+        'health': 'https://news.google.com/rss/search?q=site:reuters.com+health&ceid=US:en&hl=en-US&gl=US'
+    },
+    'markets': {
+        'top': 'https://news.google.com/rss/search?q=site:reuters.com+markets&ceid=US:en&hl=en-US&gl=US',
+        'world': 'https://news.google.com/rss/search?q=site:reuters.com+global+markets&ceid=US:en&hl=en-US&gl=US',
+        'us': 'https://news.google.com/rss/search?q=site:reuters.com+us+markets&ceid=US:en&hl=en-US&gl=US',
+        'business': 'https://news.google.com/rss/search?q=site:reuters.com+finance&ceid=US:en&hl=en-US&gl=US',
+        'tech': 'https://news.google.com/rss/search?q=site:reuters.com+fintech&ceid=US:en&hl=en-US&gl=US',
+        'health': 'https://news.google.com/rss/search?q=site:reuters.com+pharma&ceid=US:en&hl=en-US&gl=US'
     }
 }
 
