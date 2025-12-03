@@ -1,67 +1,60 @@
 {
-  "updated_at": "2025-12-03T08:58:18.585095",
+  "updated_at": "2025-12-03T10:52:49.801540",
   "news": {
-    "ap": [
-      {
-        "title": "Trump-backed Republican Matt Van Epps wins US House special election in Tennessee",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=692ffba603224fb2ac592430b7cc5fdf&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftennessee-special-election-congress-van-epps-behn-246e101692e3dd002d43a4cdb467164b&amp;c=3649778730800246328&amp;mkt=en-us",
-        "pubDate": "Tue, 02 Dec 2025 23:57:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Belgium rejects EU plan to use frozen Russian assets for Ukraine",
+        "link": "https://www.npr.org/2025/12/03/g-s1-100225/belgium-rejects-plan-frozen-russian-assets",
+        "pubDate": "Wed, 03 Dec 2025 05:19:02 -0500",
+        "category": "world"
+      },
+      {
+        "title": "50 years after the birth of special education, some fear for its future under Trump",
+        "link": "https://www.npr.org/2025/12/03/nx-s1-5591152/trump-special-education-disabilties-schools",
+        "pubDate": "Wed, 03 Dec 2025 05:00:00 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Doctors warn delaying hepatitis B shot for newborns could revive a deadly threat",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/12/03/nx-s1-5629005/acip-hepatitis-b-rfk-jr-childhood-vaccine-schedule-liver-failure-newborns",
+        "pubDate": "Wed, 03 Dec 2025 05:00:00 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Democrats seek limits on who can serve as immigration judges amid mass layoffs",
+        "link": "https://www.npr.org/2025/12/03/g-s1-100085/immigration-judges-congress-democrats",
+        "pubDate": "Wed, 03 Dec 2025 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "The use and misuse of the word &apos;ideology&apos;",
+        "link": "https://www.npr.org/2025/12/03/nx-s1-5607271/word-of-week-ideology",
+        "pubDate": "Wed, 03 Dec 2025 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Missouri&apos;s redistricting drama renews focus on direct democracy \u2026 and &apos;Air Bud&apos;",
+        "link": "https://www.npr.org/2025/12/03/nx-s1-5629217/missouris-redistricting-air-bud",
+        "pubDate": "Wed, 03 Dec 2025 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Costco sues the Trump administration over tariffs",
+        "link": "https://www.npr.org/2025/12/03/nx-s1-5628405/costco-sues-the-trump-administration-over-tariffs",
+        "pubDate": "Wed, 03 Dec 2025 04:43:29 -0500",
+        "category": "business"
+      },
       {
         "title": "Belarus weather balloons force repeated closures of Lithuania&apos;s main airport",
         "link": "https://www.npr.org/2025/12/03/nx-s1-5630000/belarus-weather-balloons-lithuania-airport",
         "pubDate": "Wed, 03 Dec 2025 03:04:20 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump administration halts immigration applications for migrants from 19 nations",
         "link": "https://www.npr.org/2025/12/03/g-s1-100218/trump-administration-halts-immigration-19-nations",
         "pubDate": "Wed, 03 Dec 2025 02:14:26 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Deep-sea search for Malaysia Airlines Flight 370 to resume Dec. 30",
-        "link": "https://www.npr.org/2025/12/03/nx-s1-5629996/malaysia-airlines-flight-search",
-        "pubDate": "Wed, 03 Dec 2025 01:48:54 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "San Francisco sues nation&apos;s top food manufacturers over ultraprocessed foods",
-        "link": "https://www.npr.org/2025/12/03/g-s1-100212/san-francisco-sues-manufacturers-ultraprocessed-foods",
-        "pubDate": "Wed, 03 Dec 2025 01:42:20 -0500",
-        "category": "health"
-      },
-      {
-        "title": "Trump says he doesn&apos;t want Somalis in the U.S., urges them to go back to their homeland and fix it",
-        "link": "https://www.npr.org/2025/12/02/nx-s1-5629305/trump-says-he-doesnt-want-somalis-in-the-u-s-urges-them-to-go-back-to-their-homeland-and-fix-it",
-        "pubDate": "Tue, 02 Dec 2025 23:05:44 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "White House justifies strikes on boat survivors, but it&apos;s unclear where buck stops",
-        "link": "https://www.npr.org/2025/12/02/nx-s1-5628308/trump-hegseth-boat-strikes",
-        "pubDate": "Tue, 02 Dec 2025 20:25:48 -0500",
-        "category": "us"
-      },
-      {
-        "title": "Michael and Susan Dell commit $6.25 billion for investment accounts for kids",
-        "link": "https://www.npr.org/2025/12/02/nx-s1-5628412/michael-susan-dell-trump-account-children-investment-saving",
-        "pubDate": "Tue, 02 Dec 2025 17:12:46 -0500",
-        "category": "business"
-      },
-      {
-        "title": "Costco sues the Trump administration over tariffs, joining a refund queue",
-        "link": "https://www.npr.org/2025/12/02/nx-s1-5629011/costco-sues-trump-tariffs-refunds",
-        "pubDate": "Tue, 02 Dec 2025 16:03:32 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "A major winter storm is pummeling the Northeast with ice and snow",
-        "link": "https://www.npr.org/2025/12/02/nx-s1-5629010/northeast-winter-snow-storm",
-        "pubDate": "Tue, 02 Dec 2025 15:06:35 -0500",
         "category": "Top News"
       },
       {
@@ -73,21 +66,45 @@
     ],
     "bbc": [
       {
+        "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
+        "link": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 03 Dec 2025 10:39:33 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Trump says he does not want Somalis in US as ICE plans Minnesota operation",
+        "link": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 03 Dec 2025 10:32:27 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Warning over cosmetic face fillers as scans reveal new details of risks",
+        "link": "https://www.bbc.com/news/articles/c773n331055o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 03 Dec 2025 10:16:53 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Water bill rises push troubled Thames back into profit",
+        "link": "https://www.bbc.com/news/articles/clyx179pvgno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 03 Dec 2025 09:40:45 GMT",
+        "category": "business"
+      },
+      {
         "title": "'Carspreading' is on the rise - and not everyone is happy about it",
         "link": "https://www.bbc.com/news/articles/cy7vdvl2531o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 03 Dec 2025 08:37:07 GMT",
         "category": "Top News"
       },
       {
-        "title": "Thames Water running out of time to secure rescue as debt swells",
-        "link": "https://www.bbc.com/news/articles/clyx179pvgno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 03 Dec 2025 08:23:04 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Racism, rape and death threats: One weekend of abuse in football",
+        "title": "Racism, rape and death threats: One weekend of social media abuse in football",
         "link": "https://www.bbc.com/sport/football/articles/c4g98zkx518o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 03 Dec 2025 06:22:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Remains of rare seven-arm octopus wash up on Scottish beach",
+        "link": "https://www.bbc.com/news/articles/c5yjgv3l63ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 03 Dec 2025 06:14:42 GMT",
         "category": "Top News"
       },
       {
@@ -97,27 +114,9 @@
         "category": "Top News"
       },
       {
-        "title": "Higher proportion of patients in England now contacting GPs online, figures show",
-        "link": "https://www.bbc.com/news/articles/c4g47gvy7wjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 03 Dec 2025 05:49:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says he doesn't want Somalis in US as ICE plans Minnesota operation",
-        "link": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 03 Dec 2025 03:08:59 GMT",
-        "category": "world"
-      },
-      {
         "title": "Government racks up \u00a3100m bill responding to Covid inquiry",
         "link": "https://www.bbc.com/news/articles/cj9yepzl1rjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 03 Dec 2025 01:07:14 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Catherine sends Christmas message of love in 'uncertain times'",
-        "link": "https://www.bbc.com/news/articles/cly359r7vkvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Dec 2025 22:00:08 GMT",
         "category": "Top News"
       },
       {
@@ -125,22 +124,35 @@
         "link": "https://www.bbc.com/news/articles/ckglx77mplgo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 02 Dec 2025 20:19:08 GMT",
         "category": "us"
-      },
-      {
-        "title": "Bank of England warns of AI bubble risk",
-        "link": "https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Dec 2025 12:11:17 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "The Best Hair Transplant Clinics in the World for 2026",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=692ffba9304c4044a6f4632532b2e258&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fbest-hair-transplant-clinics-2026-2025-12-02%2f&amp;c=9428192352401299472&amp;mkt=en-us",
-        "pubDate": "Tue, 02 Dec 2025 13:38:00 GMT",
-        "category": "world"
+        "title": "\u2018If you aren\u2019t lying, you aren\u2019t flying.\u2019 Airline pilots hide mental health struggles",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6930167e54dd408c8e682ed32f033b24&amp;url=https%3a%2f%2fwww.reuters.com%2finvestigations%2fif-you-arent-lying-you-arent-flying-airline-pilots-hide-mental-health-struggles-2025-12-03%2f&amp;c=12686278923077590243&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 00:07:00 GMT",
+        "category": "health"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Musk&apos;s Starlink rival Eutelsat shares plummet 7% after report of SoftBank cutting its stake",
+        "link": "https://www.cnbc.com/2025/12/03/musks-starlink-rival-eutelsat-shares-softbank.html",
+        "pubDate": "Wed, 03 Dec 2025 10:01:18 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: CrowdStrike, American Eagle Outfitters, Marvell Technology, GitLab and more",
+        "link": "https://www.cnbc.com/2025/12/02/stocks-making-the-biggest-moves-after-hours-crwd-aeo-mrvl-gtlb.html",
+        "pubDate": "Tue, 02 Dec 2025 22:27:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "As regime change looms at the Fed, one candidate emerges as front-runner for chair",
+        "link": "https://www.cnbc.com/2025/12/01/as-regime-change-looms-at-the-fed-one-candidate-emerges-as-frontrunner-for-chair.html",
+        "pubDate": "Tue, 02 Dec 2025 14:12:17 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
