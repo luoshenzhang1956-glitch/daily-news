@@ -1,13 +1,32 @@
 {
-  "updated_at": "2025-12-03T06:58:29.712760",
+  "updated_at": "2025-12-03T08:58:18.585095",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Trump-backed Republican Matt Van Epps wins US House special election in Tennessee",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=692ffba603224fb2ac592430b7cc5fdf&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftennessee-special-election-congress-van-epps-behn-246e101692e3dd002d43a4cdb467164b&amp;c=3649778730800246328&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Dec 2025 23:57:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "Belarus weather balloons force repeated closures of Lithuania&apos;s main airport",
+        "link": "https://www.npr.org/2025/12/03/nx-s1-5630000/belarus-weather-balloons-lithuania-airport",
+        "pubDate": "Wed, 03 Dec 2025 03:04:20 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Trump administration halts immigration applications for migrants from 19 nations",
+        "link": "https://www.npr.org/2025/12/03/g-s1-100218/trump-administration-halts-immigration-19-nations",
+        "pubDate": "Wed, 03 Dec 2025 02:14:26 -0500",
+        "category": "Top News"
+      },
       {
         "title": "Deep-sea search for Malaysia Airlines Flight 370 to resume Dec. 30",
         "link": "https://www.npr.org/2025/12/03/nx-s1-5629996/malaysia-airlines-flight-search",
         "pubDate": "Wed, 03 Dec 2025 01:48:54 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "San Francisco sues nation&apos;s top food manufacturers over ultraprocessed foods",
@@ -46,18 +65,6 @@
         "category": "Top News"
       },
       {
-        "title": "Trump pardons Honduran ex-president who was convicted of drug crimes",
-        "link": "https://www.npr.org/2025/12/02/nx-s1-5628382/trump-pardons-honduran-ex-president-juan-orlando-hernandez",
-        "pubDate": "Tue, 02 Dec 2025 12:07:03 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;Franklin&apos; publisher slams Hegseth for his post of the turtle firing on drug boats",
-        "link": "https://www.npr.org/2025/12/02/nx-s1-5628269/hegseth-boat-strikes-franklin-turtle",
-        "pubDate": "Tue, 02 Dec 2025 11:57:03 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Metroid Prime 4: Beyond is a technical marvel and game design nightmare",
         "link": "https://www.npr.org/2025/12/02/nx-s1-5627515/metroid-prime-4-beyond-review",
         "pubDate": "Tue, 02 Dec 2025 10:00:00 -0500",
@@ -66,40 +73,46 @@
     ],
     "bbc": [
       {
+        "title": "'Carspreading' is on the rise - and not everyone is happy about it",
+        "link": "https://www.bbc.com/news/articles/cy7vdvl2531o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 03 Dec 2025 08:37:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thames Water running out of time to secure rescue as debt swells",
+        "link": "https://www.bbc.com/news/articles/clyx179pvgno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 03 Dec 2025 08:23:04 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Racism, rape and death threats: One weekend of abuse in football",
+        "link": "https://www.bbc.com/sport/football/articles/c4g98zkx518o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 03 Dec 2025 06:22:31 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Crisis looms in Israel over ultra-Orthodox conscription bill",
         "link": "https://www.bbc.com/news/articles/cly580gkd9ro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 03 Dec 2025 06:06:49 GMT",
         "category": "Top News"
       },
       {
-        "title": "Airbus to inspect some planes over 'quality issue' with panels",
-        "link": "https://www.bbc.com/news/articles/c3v19q3r31ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 03 Dec 2025 02:35:32 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Kremlin signals no Ukraine breakthrough after Putin talks with US",
-        "link": "https://www.bbc.com/news/articles/cwyv0ex7v8ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 03 Dec 2025 01:57:20 GMT",
-        "category": "world"
-      },
-      {
-        "title": "MPs warn China spy trial failures could happen again",
-        "link": "https://www.bbc.com/news/articles/cp84kdzm83ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 03 Dec 2025 01:24:05 GMT",
+        "title": "Higher proportion of patients in England now contacting GPs online, figures show",
+        "link": "https://www.bbc.com/news/articles/c4g47gvy7wjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 03 Dec 2025 05:49:21 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Trump says he doesn't want Somalis in US as ICE plans Minnesota operation",
+        "link": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 03 Dec 2025 03:08:59 GMT",
+        "category": "world"
       },
       {
         "title": "Government racks up \u00a3100m bill responding to Covid inquiry",
         "link": "https://www.bbc.com/news/articles/cj9yepzl1rjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 03 Dec 2025 01:07:14 GMT",
         "category": "health"
-      },
-      {
-        "title": "'Carspreading' is on the rise - and not everyone is happy about it",
-        "link": "https://www.bbc.com/news/articles/cy7vdvl2531o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 03 Dec 2025 00:37:11 GMT",
-        "category": "Top News"
       },
       {
         "title": "Catherine sends Christmas message of love in 'uncertain times'",
@@ -114,19 +127,20 @@
         "category": "us"
       },
       {
-        "title": "YouTuber Marques Brownlee shutting down phone wallpaper app",
-        "link": "https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Dec 2025 17:37:59 GMT",
+        "title": "Bank of England warns of AI bubble risk",
+        "link": "https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 02 Dec 2025 12:11:17 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Ukrainians in war-ravaged Donbas weigh prospects of peace deal",
-        "link": "https://www.bbc.com/news/articles/cpq47derx2vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Dec 2025 17:00:23 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "The Best Hair Transplant Clinics in the World for 2026",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=692ffba9304c4044a6f4632532b2e258&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fbest-hair-transplant-clinics-2026-2025-12-02%2f&amp;c=9428192352401299472&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Dec 2025 13:38:00 GMT",
+        "category": "world"
+      }
+    ],
     "markets": []
   }
 }
