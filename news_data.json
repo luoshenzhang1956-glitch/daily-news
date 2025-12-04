@@ -1,7 +1,32 @@
 {
-  "updated_at": "2025-12-04T04:53:17.969517",
+  "updated_at": "2025-12-04T06:59:04.537713",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "NY attorney general challenges authority of acting US attorney investigating her Trump lawsuits",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931311ab2394a3e83281375eb8c990a&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-letitia-james-halligan-sarcone-subpoenas-4308a5f7927d9eecc2c139ee604ef4d6&amp;c=13201792214209474566&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 21:05:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang visits Republicans as debate over intensifying AI race rages",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931311b1c6e4bb3a1235c966898a06c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-nvidia-jensen-huang-computer-chips-691556d07fc35364903eab25e428a285&amp;c=11334229903564755056&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 17:14:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Salesforce CEO vies to overcome investors\u2019 AI skepticism while touting company\u2019s quarterly numbers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931311b35fa4d8f9e9ce45ea8da075d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsalesforce-artificial-intelligence-skepticism-bubble-marc-benioff-0a28ca70c9fb00816b3e5cc4c416a68e&amp;c=12915140780996020241&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 15:22:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Delayed care to 2 Black pregnant women highlights maternal health disparities",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931311c14c944578bb084a2c19334d3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fblack-women-maternal-mortality-inequality-ac14c2ac360b71cb6ddf75cadd9f03b4&amp;c=4490194783566283378&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 09:05:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
         "title": "Steve Cropper, guitarist and member of Stax Records&apos; Booker T and the M.G.&apos;s, dies",
@@ -66,6 +91,24 @@
     ],
     "bbc": [
       {
+        "title": "Investigation into pre-Budget leaks is under way, MPs told",
+        "link": "https://www.bbc.com/news/articles/c4g9e7wp79zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 04 Dec 2025 06:57:37 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Police accused of 'homophobic assumptions' over victims of blackmail on Grindr",
+        "link": "https://www.bbc.com/news/articles/c20k1zzr415o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 04 Dec 2025 06:02:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'The apprehension is palpable': Minnesota's Somali community braces for immigration crackdown",
+        "link": "https://www.bbc.com/news/articles/c8dy1613j2ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 04 Dec 2025 05:22:42 GMT",
+        "category": "us"
+      },
+      {
         "title": "Streeting orders review into mental health and ADHD diagnosis",
         "link": "https://www.bbc.com/news/articles/ce8q26q2r75o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 04 Dec 2025 03:51:55 GMT",
@@ -90,34 +133,16 @@
         "category": "Top News"
       },
       {
-        "title": "Investigation into pre-Budget leaks is under way, MPs told",
-        "link": "https://www.bbc.com/news/articles/c4g9e7wp79zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Dec 2025 00:12:53 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Oil, defence and geopolitics: Why Putin is visiting Modi in Delhi",
         "link": "https://www.bbc.com/news/articles/cj4q2vpggr9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 04 Dec 2025 00:07:17 GMT",
         "category": "Top News"
       },
       {
-        "title": "A speeding driver killed my parents - there needs to be a cultural change",
-        "link": "https://www.bbc.com/news/articles/c4g9ez9p4y7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Dec 2025 00:05:23 GMT",
-        "category": "business"
-      },
-      {
         "title": "Royals lay out festive greeting at glittering state banquet",
         "link": "https://www.bbc.com/news/articles/c9d9jwvqyx8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 03 Dec 2025 22:16:27 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "'No excuse' - California doctor sentenced to 30 months in Matthew Perry overdose case",
-        "link": "https://www.bbc.com/news/articles/cy7v0gpv2pgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 03 Dec 2025 21:55:48 GMT",
-        "category": "us"
       },
       {
         "title": "New homes delayed by 'energy-hungry' data centres",
@@ -128,66 +153,103 @@
     ],
     "reuters": [
       {
+        "title": "Rio Tinto lifts 2025 copper production forecast on Oyu Tolgoi ramp-up",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931311fb406489fb699347025992d2e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2frio-tinto-lifts-2025-copper-production-forecast-2025-12-04%2f&amp;c=13448278470943925022&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 21:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exxon to permanently shut one steam cracker in Singapore from March, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931311fb406489fb699347025992d2e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fexxon-permanently-shut-one-steam-cracker-singapore-march-sources-say-2025-12-04%2f&amp;c=4887775114770896660&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 21:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine stares down the barrel of population collapse",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931311fb406489fb699347025992d2e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fukraine-stares-down-barrel-population-collapse-2025-12-04%2f&amp;c=11278253506882371122&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 21:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning Bid: Day off for dollar debasement trade",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931311fb406489fb699347025992d2e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-view-europe-2025-12-04%2f&amp;c=858813459459691459&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 20:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Child deaths will rise this year as aid cuts reverse progress, says Gates",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931312b639e40b88a6575cb68b2c733&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fchild-deaths-will-rise-this-year-aid-cuts-reverse-progress-says-gates-2025-12-04%2f&amp;c=16221709391274492858&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 20:02:00 GMT",
+        "category": "health"
+      },
+      {
         "title": "Australia says the world will follow social media ban as Meta starts blocking teens",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113ba978b4906a7fe6db66d9d3dd7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2faustralia-says-world-will-follow-social-media-ban-meta-starts-blocking-teens-2025-12-04%2f&amp;c=10177953733068724237&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 19:22:00 GMT",
-        "category": "world"
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931311fb406489fb699347025992d2e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2faustralia-says-world-will-follow-social-media-ban-meta-starts-blocking-teens-2025-12-04%2f&amp;c=10177953733068724237&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 19:30:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Flanked by business leaders, Macron meets Xi as EU prepares tougher trade rules",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinas-president-xi-jinping-met-french-president-emmanual-macron-beijing-2025-12-04%2f&amp;c=920466644584635584&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693131227f7d490c976e62882360af9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinas-president-xi-jinping-met-french-president-emmanual-macron-beijing-2025-12-04%2f&amp;c=920466644584635584&amp;mkt=en-us",
         "pubDate": "Wed, 03 Dec 2025 18:51:00 GMT",
-        "category": "Top News"
+        "category": "business"
       },
       {
-        "title": "China should focus on economy not 'territorial expansion', Taiwan president says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchina-should-focus-economy-not-territorial-expansion-taiwan-president-says-2025-12-04%2f&amp;c=13590480554340048447&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 16:36:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump proposes slashing fuel economy rules in boost for gas vehicles",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2ftrump-propose-sharp-rollback-us-vehicle-fuel-economy-rules-2025-12-03%2f&amp;c=6264277702428516140&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 15:44:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: Trump administration orders enhanced vetting for applicants of H-1B visa",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-administration-orders-enhanced-vetting-applicants-h-1b-visa-2025-12-04%2f&amp;c=10246456511933845959&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 15:14:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US lawmakers want war powers vote after Trump pledges Venezuela attack 'soon'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113ba42204df2945c9e69eb5f90dc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-lawmakers-want-war-powers-vote-after-trump-pledges-venezuela-attack-soon-2025-12-03%2f&amp;c=4979829539226562649&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 13:46:00 GMT",
+        "title": "Chevron to spend up to $19 billion next year in focus on US, Guyana oil production",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693131217c414ca4a4fca3ad7cad7230&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fchevron-spend-up-19-billion-next-year-focus-us-guyana-oil-production-2025-12-03%2f&amp;c=12491676077396173800&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 14:02:00 GMT",
         "category": "us"
       },
       {
-        "title": "Doctor in Matthew Perry overdose case sentenced to 2-1/2 years in prison",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdoctor-matthew-perry-overdose-case-sentenced-2-12-years-prison-2025-12-03%2f&amp;c=8982474376545427999&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 12:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's Ukraine peace effort tests his unconventional diplomacy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrumps-ukraine-peace-effort-tests-his-unconventional-diplomacy-2025-12-03%2f&amp;c=10050545166307146008&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 09:54:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Narrower Republican win in Tennessee House race lifts Democrats' midterm spirits",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fnarrower-republican-win-tennessee-house-race-lifts-democrats-midterm-spirits-2025-12-03%2f&amp;c=2827618010465993895&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 09:27:00 GMT",
-        "category": "Top News"
+        "title": "Tom Brady, Shaquille O'Neal to assist World Cup draw",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931312021b147ca985961d262670bf5&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ftom-brady-shaquille-oneal-assist-world-cup-draw--flm-2025-12-03%2f&amp;c=15886405933701560733&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 13:16:00 GMT",
+        "category": "world"
       },
       {
         "title": "Micron to exit consumer memory business amid global supply shortage",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113bbbac7401cb4821e147e8388b5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmicron-exit-crucial-consumer-memory-business-2025-12-03%2f&amp;c=169761020572801004&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931312a601a49a08fed62360c908038&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmicron-exit-crucial-consumer-memory-business-2025-12-03%2f&amp;c=169761020572801004&amp;mkt=en-us",
         "pubDate": "Wed, 03 Dec 2025 08:37:00 GMT",
         "category": "tech"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Software startup deploys Singapore\u2019s first quantum computer for commercial use",
+        "link": "https://www.cnbc.com/2025/12/04/horizon-quantum-software-startup-deploys-singapores-first-quantum-computer-for-commercial-use.html",
+        "pubDate": "Thu, 04 Dec 2025 06:19:44 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Taking on China from Russia\u2019s border: Inside Europe\u2019s biggest rare earths factory",
+        "link": "https://www.cnbc.com/2025/12/04/taking-on-china-from-russias-border-inside-neos-rare-earths-factory.html",
+        "pubDate": "Thu, 04 Dec 2025 06:00:01 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Salesforce, Five Below, C3. ai and more",
+        "link": "https://www.cnbc.com/2025/12/03/stocks-making-the-biggest-moves-after-hours-crm-five-ai.html",
+        "pubDate": "Wed, 03 Dec 2025 22:08:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dan Niles says his best idea right now is cash. Here&apos;s what else he likes",
+        "link": "https://www.cnbc.com/2025/12/03/dan-niles-says-best-investment-idea-now-is-cash-what-else-he-likes.html",
+        "pubDate": "Wed, 03 Dec 2025 21:02:03 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Beyonce, Sydney Sweeney and a fight for relevance: How American Eagle, Gap and Levi sparked a new &apos;denim war&apos;",
+        "link": "https://www.cnbc.com/2025/12/03/american-eagle-gap-levi-beyonce-sydney-sweeney-denim-ads.html",
+        "pubDate": "Wed, 03 Dec 2025 16:44:19 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Buyer beware? Increasingly complex ETFs may burn investors due to market backdrop",
+        "link": "https://www.cnbc.com/2025/12/03/complex-etfs-offering-big-rewards-amp-up-market-risks.html",
+        "pubDate": "Wed, 03 Dec 2025 12:00:01 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
