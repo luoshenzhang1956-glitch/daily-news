@@ -1,32 +1,7 @@
 {
-  "updated_at": "2025-12-04T03:47:54.855848",
+  "updated_at": "2025-12-04T04:53:17.969517",
   "news": {
-    "ap": [
-      {
-        "title": "Salesforce CEO vies to overcome investors\u2019 AI skepticism while touting company\u2019s quarterly numbers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931045217624f25b1b3893224f005b2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsalesforce-artificial-intelligence-skepticism-bubble-marc-benioff-0a28ca70c9fb00816b3e5cc4c416a68e&amp;c=12915140780996020241&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 15:22:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Swiss ski racer Niels Hintermann returns to World Cup circuit after cancer-free diagnosis",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931044e982b44129ded997cd9518c6d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fski-racing-hintermann-1da32ae736f89a3db23b365e8aac63bc&amp;c=9531406867906621384&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 14:21:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Europeans accuse Putin of feigning interest in peace after talks with US envoys",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69310450e35f43a48aeee684d0524fb3&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussia-ukraine-war-peace-talks-putin-witkoff-aa639c6ba85c4fc6d5a07c65e72e96d8&amp;c=12342812998936311801&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 14:02:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "It\u2019s time to unpack Spotify Wrapped. Here\u2019s how the music streamer compiled your 2025 recap",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69310453905d42d6bb1489221c1f4fab&amp;url=https%3a%2f%2fapnews.com%2farticle%2fspotify-wrapped-2025-release-music-tracking-8a7a7f08150eefd3a26020a4a9d046e1&amp;c=7240544740252068699&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 05:10:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Steve Cropper, guitarist and member of Stax Records&apos; Booker T and the M.G.&apos;s, dies",
@@ -91,6 +66,12 @@
     ],
     "bbc": [
       {
+        "title": "Streeting orders review into mental health and ADHD diagnosis",
+        "link": "https://www.bbc.com/news/articles/ce8q26q2r75o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 04 Dec 2025 03:51:55 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
         "link": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 04 Dec 2025 01:51:38 GMT",
@@ -127,12 +108,6 @@
         "category": "business"
       },
       {
-        "title": "Previously unseen images of Epstein's island released",
-        "link": "https://www.bbc.com/news/articles/c4g5rrlve33o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Dec 2025 00:02:54 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Royals lay out festive greeting at glittering state banquet",
         "link": "https://www.bbc.com/news/articles/c9d9jwvqyx8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 03 Dec 2025 22:16:27 GMT",
@@ -153,55 +128,66 @@
     ],
     "reuters": [
       {
+        "title": "Australia says the world will follow social media ban as Meta starts blocking teens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113ba978b4906a7fe6db66d9d3dd7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2faustralia-says-world-will-follow-social-media-ban-meta-starts-blocking-teens-2025-12-04%2f&amp;c=10177953733068724237&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 19:22:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Flanked by business leaders, Macron meets Xi as EU prepares tougher trade rules",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinas-president-xi-jinping-met-french-president-emmanual-macron-beijing-2025-12-04%2f&amp;c=920466644584635584&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 18:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China should focus on economy not 'territorial expansion', Taiwan president says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchina-should-focus-economy-not-territorial-expansion-taiwan-president-says-2025-12-04%2f&amp;c=13590480554340048447&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 16:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump proposes slashing fuel economy rules in boost for gas vehicles",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2ftrump-propose-sharp-rollback-us-vehicle-fuel-economy-rules-2025-12-03%2f&amp;c=6264277702428516140&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 15:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: Trump administration orders enhanced vetting for applicants of H-1B visa",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-administration-orders-enhanced-vetting-applicants-h-1b-visa-2025-12-04%2f&amp;c=10246456511933845959&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 15:14:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "US lawmakers want war powers vote after Trump pledges Venezuela attack 'soon'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693104615c3a4c6286c9c551bc6cfe20&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-lawmakers-want-war-powers-vote-after-trump-pledges-venezuela-attack-soon-2025-12-03%2f&amp;c=4979829539226562649&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113ba42204df2945c9e69eb5f90dc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-lawmakers-want-war-powers-vote-after-trump-pledges-venezuela-attack-soon-2025-12-03%2f&amp;c=4979829539226562649&amp;mkt=en-us",
         "pubDate": "Wed, 03 Dec 2025 13:46:00 GMT",
         "category": "us"
       },
       {
-        "title": "US FDA removes longtime director of over-the-counter drugs office",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931046534e24749929c750c9a72e709&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-fda-removes-longtime-director-over-the-counter-drugs-office-2025-12-03%2f&amp;c=4651309814017858002&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 13:36:00 GMT",
-        "category": "health"
+        "title": "Doctor in Matthew Perry overdose case sentenced to 2-1/2 years in prison",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdoctor-matthew-perry-overdose-case-sentenced-2-12-years-prison-2025-12-03%2f&amp;c=8982474376545427999&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 12:06:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Tom Brady, Shaquille O'Neal to assist World Cup draw",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69310460c3954c4ea8fe974515be8017&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ftom-brady-shaquille-oneal-assist-world-cup-draw--flm-2025-12-03%2f&amp;c=15886405933701560733&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Dec 2025 13:16:00 GMT",
-        "category": "world"
+        "title": "Trump's Ukraine peace effort tests his unconventional diplomacy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrumps-ukraine-peace-effort-tests-his-unconventional-diplomacy-2025-12-03%2f&amp;c=10050545166307146008&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 09:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Narrower Republican win in Tennessee House race lifts Democrats' midterm spirits",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113b9121b4a4d937d2b2a45a86e56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fnarrower-republican-win-tennessee-house-race-lifts-democrats-midterm-spirits-2025-12-03%2f&amp;c=2827618010465993895&amp;mkt=en-us",
+        "pubDate": "Wed, 03 Dec 2025 09:27:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Micron to exit consumer memory business amid global supply shortage",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6931046445304b999064ea677958fcf6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmicron-exit-crucial-consumer-memory-business-2025-12-03%2f&amp;c=169761020572801004&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693113bbbac7401cb4821e147e8388b5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmicron-exit-crucial-consumer-memory-business-2025-12-03%2f&amp;c=169761020572801004&amp;mkt=en-us",
         "pubDate": "Wed, 03 Dec 2025 08:37:00 GMT",
         "category": "tech"
       }
     ],
-    "markets": [
-      {
-        "title": "Stocks making the biggest moves after hours: Salesforce, Five Below, C3. ai and more",
-        "link": "https://www.cnbc.com/2025/12/03/stocks-making-the-biggest-moves-after-hours-crm-five-ai.html",
-        "pubDate": "Wed, 03 Dec 2025 22:08:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dan Niles says his best idea right now is cash. Here&apos;s what else he likes",
-        "link": "https://www.cnbc.com/2025/12/03/dan-niles-says-best-investment-idea-now-is-cash-what-else-he-likes.html",
-        "pubDate": "Wed, 03 Dec 2025 21:02:03 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Buyer beware? Increasingly complex ETFs may burn investors due to market backdrop",
-        "link": "https://www.cnbc.com/2025/12/03/complex-etfs-offering-big-rewards-amp-up-market-risks.html",
-        "pubDate": "Wed, 03 Dec 2025 12:00:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "CNBC&apos;s The China Connection newsletter: Three economic flashpoints for 2026",
-        "link": "https://www.cnbc.com/2025/12/03/cnbc-china-connection-newsletter-three-economic-flashpoints-2026-property-consumption-deflation.html",
-        "pubDate": "Wed, 03 Dec 2025 07:28:44 GMT",
-        "category": "world"
-      }
-    ]
+    "markets": []
   }
 }
