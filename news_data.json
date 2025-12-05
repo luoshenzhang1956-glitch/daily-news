@@ -1,7 +1,20 @@
 {
-  "updated_at": "2025-12-05T04:51:54.897141",
+  "updated_at": "2025-12-05T06:59:34.658596",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Czech populist billionaire Andrej Babi\u0161 to move business to a trust to become prime minister",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6932829a06e54f3d87725b403431c3c2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fczech-billionaire-babis-new-government-5c6296a49230ea6c8f724cbb947cfeec&amp;c=14249077419425672972&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 12:20:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US push for an end to the war in Ukraine sets off a flurry of shuttle diplomacy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6932829ad073448891ef3b88febd2385&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussia-ukraine-war-peace-talks-timeline-f588b009209c06d458571aab8d69fd90&amp;c=1533482449430285393&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 10:23:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
       {
         "title": "Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James",
@@ -66,6 +79,12 @@
     ],
     "bbc": [
       {
+        "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
+        "link": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Dec 2025 06:12:19 GMT",
+        "category": "world"
+      },
+      {
         "title": "Top UK scientist says research visa restrictions endanger economy",
         "link": "https://www.bbc.com/news/articles/ckgl4vrlk7do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 05 Dec 2025 01:20:51 GMT",
@@ -102,12 +121,6 @@
         "category": "Top News"
       },
       {
-        "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
-        "link": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Dec 2025 22:20:21 GMT",
-        "category": "world"
-      },
-      {
         "title": "Netherlands, Spain, Ireland and Slovenia boycott Eurovision after Israel allowed to compete",
         "link": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 04 Dec 2025 19:52:32 GMT",
@@ -126,7 +139,51 @@
         "category": "tech"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Indonesia backpedals on retiring Cirebon coal power plant early",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693282bfddd7483fafa7bfb17f4bbdb9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2findonesia-backpedals-retiring-cirebon-coal-power-plant-early-2025-12-05%2f&amp;c=874240413713294666&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 21:29:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Kennedy advisers delay vote to drop hepatitis B vaccine recommendation, a major policy shift",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693282c05fb24e088f68a80db0b6f042&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fkennedys-vaccine-advisers-weigh-hepatitis-b-vaccine-timing-consequential-policy-2025-12-04%2f&amp;c=16262329997030572435&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 12:19:00 GMT",
+        "category": "health"
+      }
+    ],
+    "markets": [
+      {
+        "title": "&apos;China&apos;s Nvidia&apos; Moore Threads surges over 400% on trading debut after $1.1 billion listing",
+        "link": "https://www.cnbc.com/2025/12/05/china-nvidia-moore-threads-trading-debut-1-billion-listing-ipo-shanghai-gpu-enflame-biren.html",
+        "pubDate": "Fri, 05 Dec 2025 05:09:24 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Docusign, SoFi Technologies, Ulta, Hewlett Packard Enterprises and more",
+        "link": "https://www.cnbc.com/2025/12/04/stocks-making-the-biggest-moves-after-hours-docu-sofi-ulta-hpe.html",
+        "pubDate": "Fri, 05 Dec 2025 02:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Some AI stocks that trade at a reasonable price, according to Citigroup",
+        "link": "https://www.cnbc.com/2025/12/04/some-ai-stocks-that-trade-at-a-reasonable-price-according-to-citigroup.html",
+        "pubDate": "Fri, 05 Dec 2025 00:51:21 GMT",
+        "category": "us"
+      },
+      {
+        "title": "SoFi&apos;s stock drops on $1.5 billion share sale announcement",
+        "link": "https://www.cnbc.com/2025/12/04/sofi-stock-drops-on-1point5-billion-stock-offering.html",
+        "pubDate": "Thu, 04 Dec 2025 23:05:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "RFK Jr.&apos;s vaccine panel defers vote on hepatitis B shot for babies until Friday",
+        "link": "https://www.cnbc.com/2025/12/04/rfk-jr-vaccine-vote-hepatitis-b-babies.html",
+        "pubDate": "Thu, 04 Dec 2025 20:48:16 GMT",
+        "category": "health"
+      }
+    ]
   }
 }
