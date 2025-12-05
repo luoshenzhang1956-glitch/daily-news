@@ -1,26 +1,56 @@
 {
-  "updated_at": "2025-12-05T06:59:34.658596",
+  "updated_at": "2025-12-05T08:55:00.593524",
   "news": {
     "ap": [
       {
-        "title": "Czech populist billionaire Andrej Babi\u0161 to move business to a trust to become prime minister",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6932829a06e54f3d87725b403431c3c2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fczech-billionaire-babis-new-government-5c6296a49230ea6c8f724cbb947cfeec&amp;c=14249077419425672972&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Dec 2025 12:20:00 GMT",
-        "category": "business"
+        "title": "US appeals court rejects Trump administration bid to halt grants for school mental health workers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329db90a0d40b4adf934981eb98323&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-education-mental-health-grants-emergency-stay-eced41bc4954d480123c7a9a82a48f7b&amp;c=15215208720188039130&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 22:29:00 GMT",
+        "category": "health"
       },
       {
-        "title": "US push for an end to the war in Ukraine sets off a flurry of shuttle diplomacy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6932829ad073448891ef3b88febd2385&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussia-ukraine-war-peace-talks-timeline-f588b009209c06d458571aab8d69fd90&amp;c=1533482449430285393&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Dec 2025 10:23:00 GMT",
+        "title": "US raid allegedly killed Syrian undercover agent instead of Islamic State group official",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329db69f164af8ba342045e4595c81&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsyria-islamic-state-coalition-raid-undercover-agent-46befcce20bb548ce590523270192983&amp;c=11516448119131582755&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 22:06:00 GMT",
         "category": "us"
+      },
+      {
+        "title": "Dodgers re-sign World Series hero Miguel Rojas to 1-year, $5.5 million deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329db42a474bb2a40a04a8c287e44a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdodgers-rojas-5b34f2998854335a78d486e13cbd5efa&amp;c=7386590731335509895&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 17:07:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US health department unveils strategy to expand its adoption of AI technology",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329db9b7164d71bc7890efc441d8c7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08&amp;c=14893208977076510309&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 13:46:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Czech populist billionaire Andrej Babi\u0161 to move business to a trust to become prime minister",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329db7279d45cfa78d7419c6321ee4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fczech-billionaire-babis-new-government-5c6296a49230ea6c8f724cbb947cfeec&amp;c=14249077419425672972&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 12:34:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
       {
+        "title": "At least 4 countries pull out of 2026 Eurovision contest over Israel&apos;s participation",
+        "link": "https://www.npr.org/2025/12/05/nx-s1-5634466/eurovision-contest-israel",
+        "pubDate": "Fri, 05 Dec 2025 03:34:50 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Video shows Luigi Mangione says he didn&apos;t want to talk. Police kept asking questions",
+        "link": "https://www.npr.org/2025/12/05/nx-s1-5634463/luigi-mangione-police-questioning",
+        "pubDate": "Fri, 05 Dec 2025 02:19:04 -0500",
+        "category": "us"
+      },
+      {
         "title": "Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James",
         "link": "https://www.npr.org/2025/12/04/nx-s1-5634017/grand-jury-rejects-new-mortgage-fraud-indictment-against-new-york-attorney-general-letitia-james",
         "pubDate": "Thu, 04 Dec 2025 22:07:17 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Supreme Court lets Texas use gerrymandered map that could give GOP 5 more House seats",
@@ -32,7 +62,7 @@
         "title": "State Department to deny visas to fact checkers and others, citing &apos;censorship&apos;",
         "link": "https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship",
         "pubDate": "Thu, 04 Dec 2025 17:22:06 -0500",
-        "category": "world"
+        "category": "tech"
       },
       {
         "title": "Libraries and museums get federal funding back after Trump cuts",
@@ -59,36 +89,30 @@
         "category": "Top News"
       },
       {
-        "title": "How old is your music taste? Spotify will tell you, though you may not like it",
-        "link": "https://www.npr.org/2025/12/04/nx-s1-5632595/spotify-wrapped-listening-age",
-        "pubDate": "Thu, 04 Dec 2025 14:05:25 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "&apos;New York Times&apos; lawsuit creates a new headache for Pentagon chief Hegseth",
         "link": "https://www.npr.org/2025/12/04/nx-s1-5631838/new-york-times-pentagon-defense-hegseth-lawsuit",
         "pubDate": "Thu, 04 Dec 2025 05:29:36 -0500",
         "category": "business"
-      },
-      {
-        "title": "In an era of rising prices, computers have gotten cheaper. (And why that may end)",
-        "link": "https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers",
-        "pubDate": "Thu, 04 Dec 2025 05:00:00 -0500",
-        "category": "tech"
       }
     ],
     "bbc": [
+      {
+        "title": "Government pledges to end children living in B&Bs",
+        "link": "https://www.bbc.com/news/articles/c0l9nrkd4z6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Dec 2025 08:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The World Cup draw is here - this is how it will work",
+        "link": "https://www.bbc.com/sport/football/articles/c997y4l20jgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Dec 2025 07:49:20 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
         "link": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 05 Dec 2025 06:12:19 GMT",
         "category": "world"
-      },
-      {
-        "title": "Top UK scientist says research visa restrictions endanger economy",
-        "link": "https://www.bbc.com/news/articles/ckgl4vrlk7do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Dec 2025 01:20:51 GMT",
-        "category": "Top News"
       },
       {
         "title": "Turkey breeder supplying luxury stores investigated over welfare",
@@ -103,6 +127,12 @@
         "category": "Top News"
       },
       {
+        "title": "Why I'm terrified of motorways even though I've been driving for 20 years",
+        "link": "https://www.bbc.com/news/articles/c5ylnw9g994o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Dec 2025 00:19:11 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "My husband would still be alive if he'd got Post Office compensation",
         "link": "https://www.bbc.com/news/articles/cy0p50ej0w2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 05 Dec 2025 00:05:01 GMT",
@@ -113,18 +143,6 @@
         "link": "https://www.bbc.com/news/articles/c62d8v6jpwzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 04 Dec 2025 23:48:18 GMT",
         "category": "us"
-      },
-      {
-        "title": "We'll end children living in B&Bs, government says in child poverty pledge",
-        "link": "https://www.bbc.com/news/articles/c0l9nrkd4z6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Dec 2025 22:32:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Netherlands, Spain, Ireland and Slovenia boycott Eurovision after Israel allowed to compete",
-        "link": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Dec 2025 19:52:32 GMT",
-        "category": "Top News"
       },
       {
         "title": "Hospitals facing unprecedented flu season, say NHS bosses",
@@ -141,24 +159,72 @@
     ],
     "reuters": [
       {
-        "title": "Indonesia backpedals on retiring Cirebon coal power plant early",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693282bfddd7483fafa7bfb17f4bbdb9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2findonesia-backpedals-retiring-cirebon-coal-power-plant-early-2025-12-05%2f&amp;c=874240413713294666&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Dec 2025 21:29:00 GMT",
+        "title": "Partners in resilience: How Japan and the world are redefining economic security",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329ddcb325436f9d11b1b6a6508b26&amp;url=https%3a%2f%2fwww.reuters.com%2fplus%2fpartners-in-resilience-how-japan-and-the-world-are-redefining-economic-security&amp;c=11143876279025805990&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 00:44:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Kennedy advisers delay vote to drop hepatitis B vaccine recommendation, a major policy shift",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693282c05fb24e088f68a80db0b6f042&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fkennedys-vaccine-advisers-weigh-hepatitis-b-vaccine-timing-consequential-policy-2025-12-04%2f&amp;c=16262329997030572435&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Dec 2025 12:19:00 GMT",
-        "category": "health"
+        "title": "France seeks three-month suspension of Shein website in court hearing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329dbdcb814faeb51d1f98e4ce26c7&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsociety-equity%2ffrance-seeks-three-month-suspension-shein-website-court-hearing-2025-12-05%2f&amp;c=3446867624048715477&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 23:47:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: India weighs greater phone-location surveillance; Apple, Google and Samsung protest",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329dbdcb814faeb51d1f98e4ce26c7&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2findia-weighs-greater-phone-location-surveillance-apple-google-samsung-protest-2025-12-05%2f&amp;c=5011685446623415297&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 23:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "India grants one-time exemption to IndiGo from pilot night duty rules",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329dbdcb814faeb51d1f98e4ce26c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findia-grants-one-time-exemption-indigo-pilot-night-duty-rules-2025-12-05%2f&amp;c=9864682681633284936&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 22:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Airbus confirms 72 November deliveries after industrial glitch",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329dbdcb814faeb51d1f98e4ce26c7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fairbus-confirms-72-november-deliveries-after-industrial-glitch-2025-12-05%2f&amp;c=3258282490167759733&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 22:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "IKEA to ramp up US production as tariffs bite",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329dbdcb814faeb51d1f98e4ce26c7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fikea-ramp-up-us-production-tariffs-bite-2025-12-05%2f&amp;c=13391060428887754414&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 21:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Indian shares edge higher after RBI rate cut, led by financials",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329dbdcb814faeb51d1f98e4ce26c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findias-stock-benchmarks-set-open-higher-ahead-rbi-policy-decision-2025-12-05%2f&amp;c=11509417512703725159&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 20:20:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Putin's India visit live: Talks with Modi on oil, trade and arms",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329dbdcb814faeb51d1f98e4ce26c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fputins-india-visit-live-talks-with-modi-oil-trade-arms-2025-12-05%2f&amp;c=4715797354742127048&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 19:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "In Japan, Prime Minister Takaichi tries to avoid a 'Truss shock'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329dbdcb814faeb51d1f98e4ce26c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapan-prime-minister-takaichi-tries-avoid-truss-shock-2025-12-05%2f&amp;c=7520836757179869570&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 17:47:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US weekly jobless claims dive to a more than three-year low",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69329dbdcb814faeb51d1f98e4ce26c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-weekly-jobless-claims-drop-lowest-level-more-than-three-years-2025-12-04%2f&amp;c=13032213592037535594&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 10:46:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "&apos;China&apos;s Nvidia&apos; Moore Threads surges over 400% on trading debut after $1.1 billion listing",
-        "link": "https://www.cnbc.com/2025/12/05/china-nvidia-moore-threads-trading-debut-1-billion-listing-ipo-shanghai-gpu-enflame-biren.html",
-        "pubDate": "Fri, 05 Dec 2025 05:09:24 GMT",
-        "category": "tech"
+        "title": "European stocks open higher as global investors look ahead to Fed meeting",
+        "link": "https://www.cnbc.com/2025/12/05/stoxx-600-ftse-100-on-dec-5-fed-meeting-ukraine-deal-in-focus.html",
+        "pubDate": "Fri, 05 Dec 2025 08:44:09 GMT",
+        "category": "world"
       },
       {
         "title": "Stocks making the biggest moves after hours: Docusign, SoFi Technologies, Ulta, Hewlett Packard Enterprises and more",
@@ -179,10 +245,10 @@
         "category": "Top News"
       },
       {
-        "title": "RFK Jr.&apos;s vaccine panel defers vote on hepatitis B shot for babies until Friday",
-        "link": "https://www.cnbc.com/2025/12/04/rfk-jr-vaccine-vote-hepatitis-b-babies.html",
-        "pubDate": "Thu, 04 Dec 2025 20:48:16 GMT",
-        "category": "health"
+        "title": "Ulta shares pop as beauty retailer hikes sales and earnings outlook for second straight quarter",
+        "link": "https://www.cnbc.com/2025/12/04/ulta-ulta-earnings-q3-2025.html",
+        "pubDate": "Thu, 04 Dec 2025 22:31:51 GMT",
+        "category": "business"
       }
     ]
   }
