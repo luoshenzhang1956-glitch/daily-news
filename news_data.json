@@ -1,20 +1,37 @@
 {
-  "updated_at": "2025-12-05T16:55:20.598464",
+  "updated_at": "2025-12-05T18:54:37.697659",
   "news": {
-    "ap": [
-      {
-        "title": "Putin and Modi held talks and announce expansion of Russia-India trade ties amid US pressure",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69330e34ca964bbcb26962d34fdcf78e&amp;url=https%3a%2f%2fapnews.com%2farticle%2findia-russia-putin-visit-summit-talks-85e7605435edad8e141740ea9d84fb79&amp;c=14532511952481660458&amp;mkt=en-us",
-        "pubDate": "Fri, 05 Dec 2025 06:08:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "For the first time this century, child deaths under age 5 will likely rise. Why?",
+        "link": "https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100881/child-mortality-aid-cuts",
+        "pubDate": "Fri, 05 Dec 2025 13:12:55 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Appeals court hands Trump a victory, OK&apos;ing firings of two independent agency heads",
+        "link": "https://www.npr.org/2025/12/05/nx-s1-5634705/trump-nlrb-mspb-firing-appeal",
+        "pubDate": "Fri, 05 Dec 2025 13:05:23 -0500",
+        "category": "us"
+      },
+      {
+        "title": "EU hits Elon Musk&apos;s X with $140 million fine over business practices",
+        "link": "https://www.npr.org/2025/12/05/nx-s1-5634694/x-musk-eu-fines",
+        "pubDate": "Fri, 05 Dec 2025 13:01:17 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Trump&apos;s security strategy slams European allies and asserts U.S. power in the Americas",
+        "link": "https://www.npr.org/2025/12/05/g-s1-100893/trump-national-security-strategy-foreign-policy",
+        "pubDate": "Fri, 05 Dec 2025 12:06:30 -0500",
+        "category": "Top News"
+      },
       {
         "title": "CDC advisers vote to overturn decades-long policy on hepatitis B vaccine for infants",
         "link": "https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting",
         "pubDate": "Fri, 05 Dec 2025 11:20:06 -0500",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Are you a swing voter? We want to hear how you&apos;re feeling about politics",
@@ -38,30 +55,6 @@
         "title": "Has hope survived the war? We asked Israelis and Palestinians we spoke to in 2023",
         "link": "https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100428/gaza-israel-hamas-war-ceasefire-peace-compassion",
         "pubDate": "Fri, 05 Dec 2025 08:00:49 -0500",
-        "category": "world"
-      },
-      {
-        "title": "Who is the Jan. 6 pipe bomb suspect? And, lawmakers see video of deadly boat strike",
-        "link": "https://www.npr.org/2025/12/05/g-s1-100868/up-first-newsletter-pete-hegseth-signal-january-6-pipe-bomber-texas-gerrymandering",
-        "pubDate": "Fri, 05 Dec 2025 07:02:15 -0500",
-        "category": "us"
-      },
-      {
-        "title": "China in diplomatic push to isolate Japan in feud over Taiwan issue",
-        "link": "https://www.npr.org/2025/12/05/g-s1-100860/china-japan-feud-over-taiwan",
-        "pubDate": "Fri, 05 Dec 2025 06:47:19 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Who sued Defense Secretary Pete Hegseth this week? Find out in the quiz",
-        "link": "https://www.npr.org/2025/12/05/g-s1-100622/trump-franklin-nuns-youtube-hegseth-spotify-news-quiz",
-        "pubDate": "Fri, 05 Dec 2025 05:01:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "NPR battles Trump executive order in court",
-        "link": "https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court",
-        "pubDate": "Fri, 05 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
       {
@@ -73,9 +66,15 @@
     ],
     "bbc": [
       {
+        "title": "US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X",
+        "link": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Dec 2025 17:58:27 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Doctor charged with sex assaults of 38 patients",
         "link": "https://www.bbc.com/news/articles/cdd5z3qdjv4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Dec 2025 16:34:08 GMT",
+        "pubDate": "Fri, 05 Dec 2025 17:14:07 GMT",
         "category": "Top News"
       },
       {
@@ -91,10 +90,10 @@
         "category": "Top News"
       },
       {
-        "title": "US hits out at EU for fining Elon Musk's X",
-        "link": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Dec 2025 15:21:05 GMT",
-        "category": "tech"
+        "title": "'I don't want to be part of this war machine': Young Germans protest against military service plans",
+        "link": "https://www.bbc.com/news/videos/cx25031x23ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Dec 2025 15:35:40 GMT",
+        "category": "Top News"
       },
       {
         "title": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
@@ -103,9 +102,9 @@
         "category": "business"
       },
       {
-        "title": "How a 'fertility gap' is fuelling the rise of one-child families",
-        "link": "https://www.bbc.com/news/articles/cwyv7211jljo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Dec 2025 14:39:45 GMT",
+        "title": "Kim Cattrall marries fianc\u00e9 she met on BBC radio show",
+        "link": "https://www.bbc.com/news/articles/cdd5zelp7v6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Dec 2025 13:55:36 GMT",
         "category": "Top News"
       },
       {
@@ -121,12 +120,6 @@
         "category": "us"
       },
       {
-        "title": "LGBT survivors tell of 'barbaric' NHS shock therapy",
-        "link": "https://www.bbc.com/news/articles/c4g6348qegxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Dec 2025 06:19:03 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Streeting orders review into mental health and ADHD diagnoses",
         "link": "https://www.bbc.com/news/articles/ce8q26q2r75o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 04 Dec 2025 20:41:56 GMT",
@@ -135,42 +128,54 @@
     ],
     "reuters": [
       {
-        "title": "India central bank asks banks to ringfence non-core business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69330e55595b461c99354246fb5dd970&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findia-central-bank-asks-banks-ringfence-non-core-business-2025-12-05%2f&amp;c=14305749577163999681&amp;mkt=en-us",
-        "pubDate": "Fri, 05 Dec 2025 03:30:00 GMT",
-        "category": "business"
+        "title": "Friday's World Cup draw to reveal only half the story",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69332a27ae054244b5ac5dbcc3c6aac3&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffridays-world-cup-draw-reveal-only-half-story-2025-12-05%2f&amp;c=10036472287537747750&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 07:08:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Health Rounds: Shingles vaccine reduces risk of death from dementia, study finds",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69332a4f6bb64726885915d2be448dc3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-shingles-vaccine-reduces-risk-death-dementia-study-finds-2025-12-05%2f&amp;c=14560948509994895115&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 03:15:00 GMT",
+        "category": "health"
       },
       {
         "title": "Exclusive: Saab and Airbus co-operate on unmanned fighter technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69330e579a1849c9ba63ba5bf939169d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fsaab-airbus-co-operate-unmanned-fighter-technology-2025-12-05%2f&amp;c=5774229268745098793&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69332a42265347f0868d19bca6d1685f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fsaab-airbus-co-operate-unmanned-fighter-technology-2025-12-05%2f&amp;c=5774229268745098793&amp;mkt=en-us",
         "pubDate": "Fri, 05 Dec 2025 01:28:00 GMT",
         "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Will the Netflix-Warner Bros. deal go through? Using options to trade the uncertainty",
-        "link": "https://www.cnbc.com/2025/12/05/will-the-netflix-warner-bros-deal-go-through-using-options-to-trade-the-uncertainty.html",
-        "pubDate": "Fri, 05 Dec 2025 16:48:25 GMT",
+        "title": "Josh Brown dramatically cuts Netflix stock holdings after proposed Warner Bros. buy. Here\u2019s why",
+        "link": "https://www.cnbc.com/2025/12/05/josh-brown-dramatically-cuts-netflix-position-after-proposed-warner-bros-buy-heres-why.html",
+        "pubDate": "Fri, 05 Dec 2025 18:53:43 GMT",
         "category": "us"
       },
       {
-        "title": "RFK Jr.\u2019s vaccine panel weakens recommendation on hepatitis B shot for babies, scrapping universal guidance",
-        "link": "https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html",
-        "pubDate": "Fri, 05 Dec 2025 16:42:11 GMT",
-        "category": "health"
+        "title": "David Ellison&apos;s hunt for WBD made David Zaslav richer \u2014 and it may not be over",
+        "link": "https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html",
+        "pubDate": "Fri, 05 Dec 2025 18:27:56 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Netflix to buy Warner Bros. film and streaming assets in $72 billion deal",
+        "link": "https://www.cnbc.com/2025/12/05/neflix-warner-bros-discovery-deal.html",
+        "pubDate": "Fri, 05 Dec 2025 17:42:15 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Paramount Skydance, Rubrik, Netflix, Parsons, Albemarle and more",
+        "link": "https://www.cnbc.com/2025/12/05/stocks-making-the-biggest-moves-midday-psky-rbrk-nflx-psn-alb-and-more-.html",
+        "pubDate": "Fri, 05 Dec 2025 17:04:47 GMT",
+        "category": "Top News"
       },
       {
         "title": "Is bitcoin really digital gold? In 2025, the leading crypto has failed to answer that question",
         "link": "https://www.cnbc.com/2025/12/05/bitcoin-digital-gold-crypto-store-of-value.html",
         "pubDate": "Fri, 05 Dec 2025 15:34:25 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Netflix to buy Warner Bros. film and streaming assets in $72 billion deal",
-        "link": "https://www.cnbc.com/2025/12/05/neflix-warner-bros-discovery-deal.html",
-        "pubDate": "Fri, 05 Dec 2025 14:53:46 GMT",
-        "category": "world"
       },
       {
         "title": "London&apos;s answer to Wall Street gains momentum as major firms sign on",
@@ -182,12 +187,6 @@
         "title": "$208 million wiped out: Yieldstreet investors rack up more losses as firm rebrands to Willow Wealth",
         "link": "https://www.cnbc.com/2025/12/05/yieldstreet-investors-losses-willow-wealth-rebrand.html",
         "pubDate": "Fri, 05 Dec 2025 13:15:57 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Rubrik, Netflix, Victoria&apos;s Secret, Sofi, Ulta and more",
-        "link": "https://www.cnbc.com/2025/12/05/stocks-making-the-biggest-moves-premarket-rbrk-nflx-vsco-sofi-ulta.html",
-        "pubDate": "Fri, 05 Dec 2025 12:34:35 GMT",
         "category": "Top News"
       },
       {
