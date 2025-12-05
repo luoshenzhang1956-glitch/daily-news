@@ -1,8 +1,33 @@
 {
-  "updated_at": "2025-12-05T18:54:37.697659",
+  "updated_at": "2025-12-05T20:44:16.496326",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Visiting Harvard instructor leaves US after BB-gun incident DHS labeled antisemitic",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343be05ae45c597faca76a0f4bd81&amp;url=https%3a%2f%2fapnews.com%2farticle%2fharvard-professor-brazil-antisemitism-yom-kippur-e05208fb596d2759e438b983f4ce3c9c&amp;c=15439054344666366510&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 11:22:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Netflix to acquire Warner Bros. studio and streaming business for $72 billion",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343c828ed4eeb9be79f083800e792&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnetflix-warner-acquisition-studio-hbo-streaming-f4884402cadfd07a99af0c8e4353bd83&amp;c=12250461813548934320&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 10:07:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US appeals court rejects Trump administration bid to halt grants for school mental health workers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cbb1394a3f8a6567e43cf1581b&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-education-mental-health-grants-emergency-stay-eced41bc4954d480123c7a9a82a48f7b&amp;c=15215208720188039130&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Dec 2025 22:40:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Putin and Modi expand India-Russia economic ties in talks in New Delhi",
+        "link": "https://www.npr.org/2025/12/05/g-s1-100899/putin-modi-india-visit-russia-trade-oil",
+        "pubDate": "Fri, 05 Dec 2025 14:37:49 -0500",
+        "category": "world"
+      },
       {
         "title": "For the first time this century, child deaths under age 5 will likely rise. Why?",
         "link": "https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100881/child-mortality-aid-cuts",
@@ -19,7 +44,7 @@
         "title": "EU hits Elon Musk&apos;s X with $140 million fine over business practices",
         "link": "https://www.npr.org/2025/12/05/nx-s1-5634694/x-musk-eu-fines",
         "pubDate": "Fri, 05 Dec 2025 13:01:17 -0500",
-        "category": "world"
+        "category": "business"
       },
       {
         "title": "Trump&apos;s security strategy slams European allies and asserts U.S. power in the Americas",
@@ -43,18 +68,12 @@
         "title": "Netflix will buy Warner Bros&apos; studio and streaming businesses for $72 billion",
         "link": "https://www.npr.org/2025/12/05/g-s1-100873/netflix-buys-warner-bros-discovery-studio-streaming",
         "pubDate": "Fri, 05 Dec 2025 10:19:11 -0500",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "The Kennedy Center Honors are coming up. This year&apos;s event will be different",
         "link": "https://www.npr.org/2025/12/05/nx-s1-5607173/kennedy-center-honors-trump",
         "pubDate": "Fri, 05 Dec 2025 09:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Has hope survived the war? We asked Israelis and Palestinians we spoke to in 2023",
-        "link": "https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100428/gaza-israel-hamas-war-ceasefire-peace-compassion",
-        "pubDate": "Fri, 05 Dec 2025 08:00:49 -0500",
         "category": "Top News"
       },
       {
@@ -65,6 +84,18 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Legendary architect Frank Gehry dead aged 96",
+        "link": "https://www.bbc.com/news/articles/c5y2p22z9gno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Dec 2025 20:29:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US Supreme Court agrees to hear case challenging birthright citizenship",
+        "link": "https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Dec 2025 20:29:17 GMT",
+        "category": "us"
+      },
       {
         "title": "US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X",
         "link": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&amp;at_campaign=rss",
@@ -78,7 +109,7 @@
         "category": "Top News"
       },
       {
-        "title": "Catherine's Christmas carol concert honours charity helpers",
+        "title": "Catherine joined by stars and charity heroes for Christmas carol concert",
         "link": "https://www.bbc.com/news/articles/cn41lqjlw3wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 05 Dec 2025 16:25:50 GMT",
         "category": "Top News"
@@ -112,52 +143,88 @@
         "link": "https://www.bbc.com/news/articles/c4g482m3yyzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 05 Dec 2025 12:50:31 GMT",
         "category": "world"
-      },
-      {
-        "title": "Trump administration says Europe faces 'civilisational erasure'",
-        "link": "https://www.bbc.com/news/articles/c04vdengk3do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Dec 2025 12:07:34 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Streeting orders review into mental health and ADHD diagnoses",
-        "link": "https://www.bbc.com/news/articles/ce8q26q2r75o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Dec 2025 20:41:56 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Friday's World Cup draw to reveal only half the story",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69332a27ae054244b5ac5dbcc3c6aac3&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffridays-world-cup-draw-reveal-only-half-story-2025-12-05%2f&amp;c=10036472287537747750&amp;mkt=en-us",
-        "pubDate": "Fri, 05 Dec 2025 07:08:00 GMT",
-        "category": "world"
+        "title": "US judge clears Justice Department to release Epstein grand jury transcripts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cfa8e1402492df32b0cb372f52&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-judge-clears-justice-department-release-epstein-grand-jury-transcripts-2025-12-05%2f&amp;c=12788517611340984409&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 11:16:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Health Rounds: Shingles vaccine reduces risk of death from dementia, study finds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69332a4f6bb64726885915d2be448dc3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-shingles-vaccine-reduces-risk-death-dementia-study-finds-2025-12-05%2f&amp;c=14560948509994895115&amp;mkt=en-us",
-        "pubDate": "Fri, 05 Dec 2025 03:15:00 GMT",
-        "category": "health"
+        "title": "American architect Frank Gehry dies at age 96",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cfa8e1402492df32b0cb372f52&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2famerican-architect-frank-gehry-dies-age-96-new-york-times-reports-2025-12-05%2f&amp;c=7315249045916653997&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 11:06:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Exclusive: Saab and Airbus co-operate on unmanned fighter technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69332a42265347f0868d19bca6d1685f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fsaab-airbus-co-operate-unmanned-fighter-technology-2025-12-05%2f&amp;c=5774229268745098793&amp;mkt=en-us",
-        "pubDate": "Fri, 05 Dec 2025 01:28:00 GMT",
-        "category": "tech"
+        "title": "Indiana Republicans advance Trump-backed congressional map, fate in Senate unclear",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cfa8e1402492df32b0cb372f52&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2findiana-republicans-advance-trump-backed-congressional-map-fate-senate-unclear-2025-12-05%2f&amp;c=16783068529762768942&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 11:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "From 'Icarus bug' to flawed panels: Airbus counts cost of relying on single model",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cfa8e1402492df32b0cb372f52&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ficarus-bug-flawed-panels-airbus-counts-cost-relying-single-model-2025-12-05%2f&amp;c=13193089700212918261&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 10:12:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Supreme Court to decide legality of Trump move to limit birthright citizenship",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cfa8e1402492df32b0cb372f52&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fsupreme-court-decide-legality-trump-move-limit-birthright-citizenship-2025-12-05%2f&amp;c=3333105155407944987&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 10:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Meta acquires AI-wearables startup Limitless",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cfa8e1402492df32b0cb372f52&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmeta-acquires-ai-wearables-startup-limitless-2025-12-05%2f&amp;c=16191824532000604616&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 10:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "SpaceX in talks for share sale that would boost valuation to $800 billion, WSJ reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cfa8e1402492df32b0cb372f52&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fspacex-talks-share-sale-that-would-boost-valuation-800-billion-wsj-reports-2025-12-05%2f&amp;c=611842557348993201&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 09:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bolsonaro supports eldest son's presidential run next year",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cfa8e1402492df32b0cb372f52&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbolsonaro-supports-eldest-sons-presidential-run-next-year-2025-12-05%2f&amp;c=1688982867396581169&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 09:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Netflix-Warner Bros deal faces antitrust pushback even as company touts benefits",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cfa8e1402492df32b0cb372f52&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fnetflix-warner-bros-deal-faces-antitrust-pushback-even-company-touts-benefits-2025-12-05%2f&amp;c=6926186883402117190&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 06:23:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US consumer sentiment improves in early December",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693343cfa8e1402492df32b0cb372f52&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-consumer-sentiment-improves-early-december-2025-12-05%2f&amp;c=7379879488395614134&amp;mkt=en-us",
+        "pubDate": "Fri, 05 Dec 2025 06:18:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Josh Brown dramatically cuts Netflix stock holdings after proposed Warner Bros. buy. Here\u2019s why",
-        "link": "https://www.cnbc.com/2025/12/05/josh-brown-dramatically-cuts-netflix-position-after-proposed-warner-bros-buy-heres-why.html",
-        "pubDate": "Fri, 05 Dec 2025 18:53:43 GMT",
+        "title": "The regulatory path ahead for a Netflix and Warner Bros. deal could get dicey",
+        "link": "https://www.cnbc.com/2025/12/05/netflix-warner-bros-deal-regulatory-questions.html",
+        "pubDate": "Fri, 05 Dec 2025 20:41:56 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Shares of this old school manufacturer are turning around. Carter Worth says it&apos;s a buy",
+        "link": "https://www.cnbc.com/2025/12/05/shares-of-this-old-school-manufacturer-are-turning-around-carter-worth-says-its-a-buy.html",
+        "pubDate": "Fri, 05 Dec 2025 19:17:50 GMT",
         "category": "us"
       },
       {
-        "title": "David Ellison&apos;s hunt for WBD made David Zaslav richer \u2014 and it may not be over",
-        "link": "https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html",
-        "pubDate": "Fri, 05 Dec 2025 18:27:56 GMT",
-        "category": "business"
+        "title": "RFK Jr.\u2019s vaccine panel weakens recommendation on hepatitis B shot for babies, scrapping universal guidance",
+        "link": "https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html",
+        "pubDate": "Fri, 05 Dec 2025 18:04:31 GMT",
+        "category": "health"
       },
       {
         "title": "Netflix to buy Warner Bros. film and streaming assets in $72 billion deal",
