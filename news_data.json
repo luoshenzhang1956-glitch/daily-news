@@ -1,13 +1,44 @@
 {
-  "updated_at": "2025-12-07T04:53:50.131691",
+  "updated_at": "2025-12-07T06:53:00.946494",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Robinson races to 2nd straight World Cup GS victory. Shiffrin finishes 6th.",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6935241ccea04372a4730e393517c091&amp;url=https%3a%2f%2fapnews.com%2farticle%2fshiffrin-giant-slalom-robinson-tremblant-a7df018fe2e03bf2b6fe74070dcb4c73&amp;c=3467472975728062361&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 18:00:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Pounds\u2019 21 help Tennessee Tech take down West Georgia 87-59",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6935242fe8274573b0deefbe54d507a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdani-pounds-josh-smith-tennessee-georgia-college-basketball-e5d9404288b349658812322529acb625&amp;c=1767287346684971628&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 13:35:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "California officials warn against foraging wild mushrooms after deadly poisoning outbreak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69352433cbac433fa17fe1baf346eff2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpoisonous-wild-mushrooms-california-monterey-san-francisco-cba09ed69bdd26450ee24cb5518efaba&amp;c=10033903068316793248&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 10:37:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Malinin lands 7 quadruple jumps, US skaters win 3 gold medals on last day of Grand Prix Final",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69352421cf45437ca581675f4ae90445&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgrand-prix-final-skating-68676e718860762a0bc344425a97ffc1&amp;c=10131923278902386565&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 06:54:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
       {
         "title": "At least 18 migrants die after boat sinks near Greek island of Crete",
         "link": "https://www.npr.org/2025/12/06/g-s1-101092/migrants-shipwreck-crete-greece",
         "pubDate": "Sat, 06 Dec 2025 21:02:15 -0500",
         "category": "world"
+      },
+      {
+        "title": "Putin finds a warm welcome in India",
+        "link": "https://www.npr.org/2025/12/06/nx-s1-5634765/putin-finds-a-warm-welcome-in-india",
+        "pubDate": "Sat, 06 Dec 2025 17:42:14 -0500",
+        "category": "Top News"
       },
       {
         "title": "How NPR keeps reporting on the Pentagon after being barred from the building",
@@ -60,21 +91,27 @@
     ],
     "bbc": [
       {
-        "title": "Staff and tourists among 25 killed in Goa nightclub fire",
-        "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 07 Dec 2025 04:23:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Young people on benefits to be offered construction and hospitality work",
-        "link": "https://www.bbc.com/news/articles/cqlke33rzplo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 07 Dec 2025 04:18:41 GMT",
+        "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude",
+        "link": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 07 Dec 2025 05:32:09 GMT",
         "category": "Top News"
       },
       {
         "title": "The Papers: Starmer to 'fight on' and 'Dad's plea to Meghan'",
         "link": "https://www.bbc.com/news/articles/c4g4q3p9xy3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 07 Dec 2025 02:48:18 GMT",
+        "pubDate": "Sun, 07 Dec 2025 05:31:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Staff and tourists among 25 killed in Goa nightclub fire",
+        "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 07 Dec 2025 04:23:22 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Young people on benefits to be offered construction and hospitality work",
+        "link": "https://www.bbc.com/news/articles/cqlke33rzplo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 07 Dec 2025 04:18:41 GMT",
         "category": "Top News"
       },
       {
@@ -102,12 +139,6 @@
         "category": "Top News"
       },
       {
-        "title": "Zelensky signals progress in talks with US on peace plan",
-        "link": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 06 Dec 2025 20:18:07 GMT",
-        "category": "world"
-      },
-      {
         "title": "Can you ban kids from social media? Australia is about to, but some teens are a step ahead",
         "link": "https://www.bbc.com/news/articles/crk7xgzj8y8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 06 Dec 2025 18:58:09 GMT",
@@ -122,12 +153,43 @@
     ],
     "reuters": [
       {
-        "title": "Soccer - World Cup match schedule",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6935085cda894ab591e89efe9dcf9c8e&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fsoccer-world-cup-match-schedule-2025-12-06%2f&amp;c=14749295986317799222&amp;mkt=en-us",
-        "pubDate": "Sat, 06 Dec 2025 10:54:00 GMT",
-        "category": "world"
+        "title": "Senior US diplomat calls EU policies bad for trans-Atlantic partnership",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6935243a47be482a8290c84c01721e06&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fsenior-us-diplomat-calls-eu-policies-bad-trans-atlantic-partnership-2025-12-06%2f&amp;c=6588613225059433831&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 13:57:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "U.S. aggressively investigating virus threat: health chief",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6935243d836f40e68107672d601fd85b&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fus-aggressively-investigating-virus-thre-idOVC2J83XB%2f&amp;c=11971508250215504299&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 11:43:00 GMT",
+        "category": "health"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Senior US diplomat calls EU policies bad for trans-Atlantic partnership",
+        "link": "https://www.cnbc.com/2025/12/06/senior-us-diplomat-calls-eu-policies-bad-for-trans-atlantic-partnership-.html",
+        "pubDate": "Sat, 06 Dec 2025 22:56:12 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Week in review: Stocks rise, Meta gets real on metaverse, and Salesforce bounces",
+        "link": "https://www.cnbc.com/2025/12/06/week-in-review-stocks-rise-meta-gets-real-on-metaverse-and-salesforce-bounces.html",
+        "pubDate": "Sat, 06 Dec 2025 15:32:49 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Goldman Sachs says these five stocks, including Nvidia and Wynn Resorts, have room to run",
+        "link": "https://www.cnbc.com/2025/12/06/goldman-says-buy-stocks-like-nvidia-wynn-and-dicks-sporting-goods.html",
+        "pubDate": "Sat, 06 Dec 2025 13:44:53 GMT",
+        "category": "us"
+      },
+      {
+        "title": "From the California gold rush to Sydney Sweeney: How denim became the most enduring garment in American fashion",
+        "link": "https://www.cnbc.com/2025/12/06/the-history-of-denim-and-how-jeans-were-created.html",
+        "pubDate": "Sat, 06 Dec 2025 13:00:01 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
