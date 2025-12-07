@@ -1,19 +1,92 @@
 {
-  "updated_at": "2025-12-07T13:18:19.026618",
+  "updated_at": "2025-12-07T14:36:50.995802",
   "news": {
-    "ap": [],
-    "npr": [
+    "ap": [
       {
-        "title": "Air traffic control is stressful. This former controller describes the reality of the job",
-        "link": "https://www.npr.org/2025/12/07/nx-s1-5630388/air-traffic-control-is-stressful-this-former-controller-describes-the-reality-of-the-job",
-        "pubDate": "Sun, 07 Dec 2025 08:11:25 -0500",
+        "title": "Benin\u2019s interior minister says a coup announced earlier has been foiled",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590e588f443249ef4ccc6091681f9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbenin-coup-soldiers-66ac8edf0e5acf6ebfa37c46131713c8&amp;c=7365723705958245461&amp;mkt=en-us",
+        "pubDate": "Sun, 07 Dec 2025 06:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Netanyahu says Israel and Hamas will soon begin second phase of Gaza ceasefire",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590e588f443249ef4ccc6091681f9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-hamas-gaza-war-news-12-07-2025-1dc3f566e5b8c1062c07bc8344e1286e&amp;c=897289545220355613&amp;mkt=en-us",
+        "pubDate": "Sun, 07 Dec 2025 06:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Russian strikes kill 1 as US and Ukraine officials wrap up third day of diplomatic talks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590e736514cc8be60bd6b915a26de&amp;url=https%3a%2f%2fapnews.com%2farticle%2fukraine-russia-war-kellogg-trump-zelenskyy-cf7422dc54d0f2415d164824c9d389a3&amp;c=2875385118622234273&amp;mkt=en-us",
+        "pubDate": "Sun, 07 Dec 2025 05:49:00 GMT",
         "category": "us"
       },
       {
-        "title": "UN official says war-torn Darfur, Sudan, is the &apos;epicenter of suffering&apos;",
-        "link": "https://www.npr.org/2025/12/07/nx-s1-5634741/un-official-says-war-torn-darfur-sudan-is-the-epicenter-of-suffering",
-        "pubDate": "Sun, 07 Dec 2025 08:07:20 -0500",
+        "title": "AI-powered police body cameras, once taboo, get tested on Canadian city\u2019s \u2018watch list\u2019 of faces",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590e89cda4ad68e3d774e92e442cb&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e&amp;c=13616148967384334834&amp;mkt=en-us",
+        "pubDate": "Sun, 07 Dec 2025 04:19:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Alabama, Notre Dame, Miami on edge ahead of College Football Playoff bracket announcement",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590e588f443249ef4ccc6091681f9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcollege-football-playoff-bracket-7ea3841a2f3309d0f4eb0b5dbc835ee5&amp;c=8785985749525054246&amp;mkt=en-us",
+        "pubDate": "Sun, 07 Dec 2025 03:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Duke beats No. 16 Virginia 27-20 in overtime for first outright ACC championship since 1962",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590e588f443249ef4ccc6091681f9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fduke-virginia-acc-championship-score-3e227f54f7fa36cfc51a92b179917fc3&amp;c=18187213212495191065&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 23:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Soon no Pearl Harbor survivors will be alive. People turn to other ways to learn about the bombing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590e588f443249ef4ccc6091681f9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpearl-harbor-remembrance-survivors-anniversary-3af82c6f72a979412f77cf31023608a7&amp;c=6442540608610288902&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 21:34:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "No. 2 Indiana beats No. 1 Ohio St. 13-10 to end Big Ten title drought, lock up top playoff seed",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590e588f443249ef4ccc6091681f9&amp;url=https%3a%2f%2fapnews.com%2farticle%2findiana-ohio-state-football-big-ten-championship-score-53974c9f265721c0b2e8c6df470e10fa&amp;c=12649769125424109611&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 21:28:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Japan protests after a Chinese military aircraft locks its radar on Japanese jets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590e588f443249ef4ccc6091681f9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjapan-china-military-fighter-jets-pacific-25017ddbec3afd6bf9e6da4b8516b90a&amp;c=14613633545555584854&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 18:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The heat could be on at next year\u2019s World Cup, although indoor games should mitigate that",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590e6f09543b2ac3a105586b85587&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-2026-schedule-heat-travel-add4b3e60f79ae6d50a189d0857b81f4&amp;c=5078696552089206224&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 14:40:00 GMT",
         "category": "world"
+      }
+    ],
+    "npr": [
+      {
+        "title": "Tensions mount between the U.S. and Venezuela as President Trump continues military pressure in the region",
+        "link": "https://www.npr.org/2025/12/07/nx-s1-5632648/tensions-mount-between-the-u-s-and-venezuela-as-president-trump-continues-military-pressure-in-the-region",
+        "pubDate": "Sun, 07 Dec 2025 08:42:17 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Move over, Pizza Rat. Idaho raises you acrobatic Roof Rats.",
+        "link": "https://www.npr.org/2025/12/07/nx-s1-5633384/move-over-pizza-rat-idaho-raises-you-acrobatic-roof-rats",
+        "pubDate": "Sun, 07 Dec 2025 08:29:06 -0500",
+        "category": "us"
+      },
+      {
+        "title": "A ban on feeding pigeons ruffles lots of feathers in Mumbai",
+        "link": "https://www.npr.org/sections/goats-and-soda/2025/12/07/g-s1-100390/pigeons-mumbai-india-public-health-jains",
+        "pubDate": "Sun, 07 Dec 2025 08:18:09 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Do Waymo self-driving vehicles need way more driving ettiquete?",
+        "link": "https://www.npr.org/2025/12/07/nx-s1-5630888/do-waymo-self-driving-vehicles-need-way-more-driving-ettiquete",
+        "pubDate": "Sun, 07 Dec 2025 08:17:55 -0500",
+        "category": "tech"
       },
       {
         "title": "From 400-year-old globes to cosmic shrouds: A Maine library brings maps to life",
@@ -46,30 +119,36 @@
         "category": "Top News"
       },
       {
-        "title": "National parks fee-free calendar drops MLK Day, Juneteenth and adds Trump&apos;s birthday",
-        "link": "https://www.npr.org/2025/12/06/g-s1-101090/national-parks-fee-free-calendar-mlk-juneteenth",
-        "pubDate": "Sat, 06 Dec 2025 17:20:24 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Waymo will recall software after its self-driving cars passed stopped school buses",
         "link": "https://www.npr.org/2025/12/06/nx-s1-5635614/waymo-school-buses-recall",
         "pubDate": "Sat, 06 Dec 2025 14:53:42 -0500",
         "category": "business"
-      },
-      {
-        "title": "7 deaths and hundreds of injuries are linked to faulty Abbott glucose monitors",
-        "link": "https://www.npr.org/2025/12/06/g-s1-101082/abbott-glucose-monitor-deaths-recall-freestyle-libre",
-        "pubDate": "Sat, 06 Dec 2025 12:26:13 -0500",
-        "category": "health"
       }
     ],
     "bbc": [
       {
+        "title": "British photographer Martin Parr dies aged 73",
+        "link": "https://www.bbc.com/news/articles/cg5m0mnvnvmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 07 Dec 2025 14:24:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rayner will make return to cabinet, says Starmer",
+        "link": "https://www.bbc.com/news/articles/c7vmlmm9343o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 07 Dec 2025 14:23:12 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Benin coup attempt foiled by loyalist troops, interior minister says",
         "link": "https://www.bbc.com/news/articles/c62v7n9wzkyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 07 Dec 2025 13:07:40 GMT",
+        "pubDate": "Sun, 07 Dec 2025 14:11:51 GMT",
         "category": "world"
+      },
+      {
+        "title": "Man arrested after people sprayed with pepper spray at Heathrow",
+        "link": "https://www.bbc.com/news/articles/c0q5l77qjd8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 07 Dec 2025 13:30:41 GMT",
+        "category": "Top News"
       },
       {
         "title": "Young people to lose benefits if they turn down work, says minister",
@@ -90,105 +169,39 @@
         "category": "Top News"
       },
       {
-        "title": "Nightclub fire in India's Goa kills 25 people including staff and tourists",
-        "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 07 Dec 2025 11:01:25 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Ketamine Queen' spiralled before Matthew Perry death, friends tell BBC",
-        "link": "https://www.bbc.com/news/articles/cjrjl1gy8r5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 07 Dec 2025 00:37:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Can a new song really become Christmas number one?",
-        "link": "https://www.bbc.com/news/articles/cd9z7j57qnjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 07 Dec 2025 00:17:29 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Don't panic if you get a message about tax after selling 30 items on Vinted",
         "link": "https://www.bbc.com/news/articles/c0mxe7l7wp1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 07 Dec 2025 00:14:59 GMT",
         "category": "Top News"
       },
       {
-        "title": "Can you ban kids from social media? Australia is about to, but some teens are a step ahead",
-        "link": "https://www.bbc.com/news/articles/crk7xgzj8y8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 06 Dec 2025 18:58:09 GMT",
+        "title": "Netflix deal puts Gary Lineker in podcast super league - but can he succeed?",
+        "link": "https://www.bbc.com/news/articles/c773vvmr5peo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 07 Dec 2025 00:07:33 GMT",
         "category": "Top News"
       },
       {
-        "title": "National Guardsman 'slowly healing' after being shot in Washington DC",
-        "link": "https://www.bbc.com/news/articles/c0q5lejppeno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 06 Dec 2025 17:20:51 GMT",
+        "title": "US National Park Service removes free entry on MLK Day and Juneteenth",
+        "link": "https://www.bbc.com/news/articles/cr7l4n89lr1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 06 Dec 2025 19:32:41 GMT",
         "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "Marathon-Kenyans Korir and Jepkosgei win Valencia Marathon, triathlete Yee impresses",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69357e8541b04cf7a7f9d3db394d1641&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fmarathon-kenyans-korir-jepkosgei-win-valencia-marathon-triathlete-yee-impresses-2025-12-07%2f&amp;c=8167777462441104883&amp;mkt=en-us",
-        "pubDate": "Sun, 07 Dec 2025 04:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Israeli PM says he will meet Trump, second phase of Gaza plan 'close'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69357e8541b04cf7a7f9d3db394d1641&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fisraeli-pm-says-he-will-meet-trump-second-phase-gaza-plan-close-2025-12-07%2f&amp;c=16300978705299563049&amp;mkt=en-us",
-        "pubDate": "Sun, 07 Dec 2025 03:26:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Australia captain Smith laughs off fiery exchange with Archer",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69357e8541b04cf7a7f9d3db394d1641&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2faustralia-captain-smith-laughs-off-fiery-exchange-with-archer-2025-12-07%2f&amp;c=16649734832685789381&amp;mkt=en-us",
-        "pubDate": "Sun, 07 Dec 2025 03:24:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hawaii's Kilauea volcano erupts, knocking out remote camera",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69357e8541b04cf7a7f9d3db394d1641&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW797607122025RP1%2f&amp;c=18070976152983114776&amp;mkt=en-us",
-        "pubDate": "Sun, 07 Dec 2025 02:47:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "German foreign minister to discuss rare earths, steel in China visit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69357e8541b04cf7a7f9d3db394d1641&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fgerman-foreign-minister-discuss-rare-earths-steel-china-visit-2025-12-07%2f&amp;c=8799634733984169007&amp;mkt=en-us",
-        "pubDate": "Sun, 07 Dec 2025 02:47:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UBS may cut further 10,000 jobs by 2027, SonntagsBlick reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69357e8541b04cf7a7f9d3db394d1641&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fubs-may-cut-further-10000-jobs-by-2027-sonntagsblick-reports-2025-12-07%2f&amp;c=4944317292730638874&amp;mkt=en-us",
-        "pubDate": "Sun, 07 Dec 2025 00:27:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Chinese jets direct weapons radar on Japanese aircraft, Japan says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69357e8541b04cf7a7f9d3db394d1641&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinese-fighter-jets-directed-radar-japanese-aircraft-japan-says-2025-12-06%2f&amp;c=3147986751509488377&amp;mkt=en-us",
-        "pubDate": "Sat, 06 Dec 2025 21:42:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US federal judge temporarily blocks evidence use in dismissed Comey case",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69357e868e9046c787e53824e1ce0cf9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-judge-temporarily-bars-prosecutors-use-evidence-key-figure-comey-case-2025-12-07%2f&amp;c=3353000044907242996&amp;mkt=en-us",
-        "pubDate": "Sat, 06 Dec 2025 18:06:00 GMT",
+        "title": "US envoy Kellogg says Ukraine peace deal is really close",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693590f6622f4294a9b4618b6c6f7f02&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-envoy-kellogg-says-ukraine-peace-deal-is-really-close-2025-12-07%2f&amp;c=5636092883421867798&amp;mkt=en-us",
+        "pubDate": "Sat, 06 Dec 2025 23:49:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "Hong Kong election turnout in focus amid anger over deadly fire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69357e8541b04cf7a7f9d3db394d1641&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fhong-kong-election-turnout-focus-amid-anger-over-deadly-fire-2025-12-06%2f&amp;c=8271268754800089762&amp;mkt=en-us",
-        "pubDate": "Sat, 06 Dec 2025 16:50:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hegseth says he would have ordered second strike on Caribbean vessel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69357e8541b04cf7a7f9d3db394d1641&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fhegseth-says-he-would-have-ordered-second-strike-caribbean-vessel-2025-12-06%2f&amp;c=17220416688971498267&amp;mkt=en-us",
-        "pubDate": "Sat, 06 Dec 2025 13:47:00 GMT",
-        "category": "Top News"
       }
     ],
     "markets": [
+      {
+        "title": "Married millennials, here comes the crypto divorce cliff",
+        "link": "https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html",
+        "pubDate": "Sun, 07 Dec 2025 14:26:53 GMT",
+        "category": "tech"
+      },
       {
         "title": "Top Wall Street analysts favor these 3 stocks for their growth potential",
         "link": "https://www.cnbc.com/2025/12/07/top-wall-street-analysts-favor-these-3-stocks-for-their-growth-potential.html",
@@ -212,12 +225,6 @@
         "link": "https://www.cnbc.com/2025/12/05/netflix-warner-bros-deal-regulatory-questions.html",
         "pubDate": "Sun, 07 Dec 2025 03:47:58 GMT",
         "category": "business"
-      },
-      {
-        "title": "Week in review: Stocks rise, Meta gets real on metaverse, and Salesforce bounces",
-        "link": "https://www.cnbc.com/2025/12/06/week-in-review-stocks-rise-meta-gets-real-on-metaverse-and-salesforce-bounces.html",
-        "pubDate": "Sat, 06 Dec 2025 15:32:49 GMT",
-        "category": "tech"
       }
     ]
   }
