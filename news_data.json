@@ -1,23 +1,47 @@
 {
-  "updated_at": "2025-12-08T20:46:07.921900",
+  "updated_at": "2025-12-08T22:42:07.055013",
   "news": {
     "ap": [
       {
-        "title": "IBM buys data streaming platform Confluent in $11 billion deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693738ce3e704ddfa01df6335347a94d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fibm-confluent-ai-ma-72afdcda8a105b916e73fcb5a42f6a2a&amp;c=11199429108599305536&amp;mkt=en-us",
-        "pubDate": "Mon, 08 Dec 2025 06:07:00 GMT",
-        "category": "tech"
+        "title": "Wrexham\u2019s owners add US-based private equity firm Apollo Sports Capital to boost rising soccer club",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69375412307349d2bb4ab63740d91fdf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwrexham-private-equity-investor-a5b8773cde588977556c7b12ea396e1d&amp;c=2647832822894612486&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 12:25:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Golden Globes enter the world of podcasts and tread carefully, avoiding controversy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937540353774d9ea5ee0a363ac91af8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgolden-globes-podcast-category-a9a56d6302aa99e20b753b76e2df35c1&amp;c=18162230224574879912&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 12:18:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "New vision for passenger rail in southeastern Wisconsin could open job, business markets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937541c72034aa792f8f39ea191a52d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fracine-kenosha-wisconsin-milwaukee-general-news-d66c9506b1493bc125a40e9e02304a6b&amp;c=1751754345283440463&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 11:55:00 GMT",
+        "category": "business"
       },
       {
         "title": "Swing district Republicans brace for political fallout if health care subsidies expire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693738d05b0e45858806488741106aad&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealth-care-tax-credits-congress-trump-swing-districts-e030d7a0dd61ca8815fe4722ddbe94b7&amp;c=6478572787738704269&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69375429fb854d73ae3267a1151208e3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealth-care-tax-credits-congress-trump-swing-districts-e030d7a0dd61ca8815fe4722ddbe94b7&amp;c=6478572787738704269&amp;mkt=en-us",
         "pubDate": "Mon, 08 Dec 2025 04:01:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
       {
-        "title": "Trump administration announcing $12 billion in one-time payments to farmers",
+        "title": "Syria marks a year since Assad fled, but struggles to heal",
+        "link": "https://www.npr.org/2025/12/08/g-s1-101202/syria-anniversary-assad-deposed",
+        "pubDate": "Mon, 08 Dec 2025 16:21:24 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Former Trump attorney Alina Habba resigns as top federal prosecutor in New Jersey",
+        "link": "https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey-habba",
+        "pubDate": "Mon, 08 Dec 2025 16:10:29 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Trump administration announces $12 billion in one-time payments to farmers",
         "link": "https://www.npr.org/2025/12/08/nx-s1-5637476/trump-administration-announcing-12-billion-in-one-time-payments-to-farmers",
         "pubDate": "Mon, 08 Dec 2025 14:17:03 -0500",
         "category": "Top News"
@@ -26,7 +50,7 @@
         "title": "FBI agents sue after being fired for kneeling during racial justice protest",
         "link": "https://www.npr.org/2025/12/08/g-s1-100970/fbi-agents-kneel-protest-lawsuit",
         "pubDate": "Mon, 08 Dec 2025 12:39:02 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery",
@@ -50,7 +74,7 @@
         "title": "SCOTUS case could expand presidential powers. And, Dems pitch plan for ACA subsidies",
         "link": "https://www.npr.org/2025/12/08/g-s1-101146/up-first-newsletter-supreme-court-rebecca-slaughter-aca-extensions-ukraine-russia",
         "pubDate": "Mon, 08 Dec 2025 07:10:57 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "After Texas ruling, Trump and Republicans head to 2026 with a redistricting edge",
@@ -59,29 +83,29 @@
         "category": "Top News"
       },
       {
-        "title": "How China, not the U.S., became the main climate solution story in 2025",
-        "link": "https://www.npr.org/2025/12/08/nx-s1-5615257/china-us-renewable-wind-solar-climate",
-        "pubDate": "Mon, 08 Dec 2025 05:30:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Republicans push high deductible plans and health savings accounts",
-        "link": "https://www.npr.org/sections/shots-health-news/2025/12/08/nx-s1-5629249/hsa-high-deductible-health-plan",
+        "title": "Does one drink make you dizzy? Why alcohol hits us harder as we age",
+        "link": "https://www.npr.org/2025/12/08/nx-s1-5610478/alcohol-age-drink",
         "pubDate": "Mon, 08 Dec 2025 05:00:00 -0500",
         "category": "health"
-      },
-      {
-        "title": "Zelenskyy heads to London for more Ukraine peace talks. Here&apos;s what to know",
-        "link": "https://www.npr.org/2025/12/08/nx-s1-5636699/zelenskyy-ukraine-uk-russia-france-germany-europe-peace-trump",
-        "pubDate": "Mon, 08 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Pioneering new treatment reverses incurable blood cancer in some patients",
+        "link": "https://www.bbc.com/news/articles/cj38ymeyg4mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 21:30:18 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Why has Paramount launched a hostile bid for Warner Bros Discovery?",
+        "link": "https://www.bbc.com/news/articles/cm21z4zgkx7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 21:19:07 GMT",
+        "category": "business"
+      },
+      {
         "title": "Paramount launches rival bid for Warner Bros Discovery",
         "link": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 20:29:38 GMT",
+        "pubDate": "Mon, 08 Dec 2025 21:14:41 GMT",
         "category": "us"
       },
       {
@@ -115,22 +139,10 @@
         "category": "Top News"
       },
       {
-        "title": "Rebrand for golf course named after former prince Andrew",
-        "link": "https://www.bbc.com/news/articles/cq8deqv8e74o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 16:15:23 GMT",
-        "category": "business"
-      },
-      {
         "title": "Leonardo DiCaprio's One Battle After Another leads Golden Globe nominations",
         "link": "https://www.bbc.com/news/articles/cly312nyq49o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 08 Dec 2025 15:52:21 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "New mpox strain identified in England",
-        "link": "https://www.bbc.com/news/articles/cm2087g0z9po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 14:13:27 GMT",
-        "category": "health"
       },
       {
         "title": "Elon Musk's X bans European Commission from making ads after \u20ac120m fine",
@@ -141,42 +153,96 @@
     ],
     "reuters": [
       {
-        "title": "Frankie Muniz puts off Trucks retirement for 'unfinished business'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693738da297745f4bdfb7edbb6c7be03&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ffrankie-muniz-puts-off-trucks-retirement-unfinished-business--flm-2025-12-08%2f&amp;c=11726314636156014131&amp;mkt=en-us",
-        "pubDate": "Mon, 08 Dec 2025 11:16:00 GMT",
-        "category": "business"
+        "title": "US to allow Nvidia H200 chip shipments to China, Trump says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937542ee6674ed6907e7ee34e398c73&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-open-up-exports-nvidia-h200-chips-china-semafor-reports-2025-12-08%2f&amp;c=16409213269780525914&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 13:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jimmy Kimmel extends ABC contract through May 2027, source says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937542ee6674ed6907e7ee34e398c73&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fjimmy-kimmel-extends-abc-contract-through-may-2027-source-says-2025-12-08%2f&amp;c=17405566624819209926&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 12:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Netflix, Paramount fight for Warner Bros Discovery in Hollywood power tussle",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937542ee6674ed6907e7ee34e398c73&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fnetflix-paramount-fight-warner-bros-discovery-hollywood-power-tussle-2025-12-08%2f&amp;c=3795850700611060266&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 12:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US to allow Nvida to ship H200 chips to China, Trump says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937542ee6674ed6907e7ee34e398c73&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-allow-nvida-ship-h200-chips-china-trump-says-2025-12-08%2f&amp;c=18065953553138717608&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 12:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US lawmakers may withold Hegseth travel funds to force boat video release",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937542fe60a42ae8f304e2dea50df57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-lawmakers-may-withold-hegseth-travel-funds-force-boat-video-release-2025-12-08%2f&amp;c=16052536105248491032&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 12:22:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Cuba denies contacts with the United States over Venezuela's future",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937542ee6674ed6907e7ee34e398c73&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcuba-denies-contacts-with-united-states-over-venezuelas-future-2025-12-08%2f&amp;c=16202549511763120450&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 12:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump administration wants airlines, airports to offer healthier food, exercise options",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937542ee6674ed6907e7ee34e398c73&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2ftrump-administration-wants-airlines-airports-offer-healthier-food-exercise-2025-12-08%2f&amp;c=16179756459597985495&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 12:00:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Dutch arrange World Cup warm-up games with Norway, Ecuador in March",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693738d7058540ae9c80e835d5be7a07&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fdutch-arrange-world-cup-warm-up-games-with-norway-ecuador-march-2025-12-08%2f&amp;c=14727693526105174267&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937542eddc146d98db5612ce7ae4328&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fdutch-arrange-world-cup-warm-up-games-with-norway-ecuador-march-2025-12-08%2f&amp;c=14727693526105174267&amp;mkt=en-us",
         "pubDate": "Mon, 08 Dec 2025 10:00:00 GMT",
         "category": "world"
       },
       {
         "title": "Mediating disputes in the age of algorithmic hiring",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693738dc999a4c32a9f26c3e3da75c19&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2fmediating-disputes-age-algorithmic-hiring--pracin-2025-12-08%2f&amp;c=16084559765761062246&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693754349549438b8e81d7dd47b271cd&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2fmediating-disputes-age-algorithmic-hiring--pracin-2025-12-08%2f&amp;c=16084559765761062246&amp;mkt=en-us",
         "pubDate": "Mon, 08 Dec 2025 06:45:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Fed could find itself in a bind as it sets the stage for Powell's successor",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6937542ee6674ed6907e7ee34e398c73&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffed-could-find-itself-bind-it-sets-stage-powells-successor-2025-12-08%2f&amp;c=9461119930701894653&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 02:09:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Investors can lock in yield in these unique assets as Fed likely lowers rates",
-        "link": "https://www.cnbc.com/2025/12/08/investors-can-lock-in-yield-in-these-unique-assets-as-fed-likely-lowers-rates.html",
-        "pubDate": "Mon, 08 Dec 2025 20:24:38 GMT",
-        "category": "us"
+        "title": "China&apos;s AI wearables market is already booming: From the practical to peculiar",
+        "link": "https://www.cnbc.com/2025/12/08/video-china-ai-wearables.html",
+        "pubDate": "Mon, 08 Dec 2025 22:31:20 GMT",
+        "category": "tech"
       },
       {
-        "title": "Paramount Skydance launches hostile bid for WBD &apos;to finish what we started,&apos; CEO Ellison tells CNBC",
-        "link": "https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html",
-        "pubDate": "Mon, 08 Dec 2025 20:09:02 GMT",
+        "title": "Here&apos;s what to expect in Paramount&apos;s quest to elbow out Netflix and buy Warner Bros. Discovery",
+        "link": "https://www.cnbc.com/2025/12/08/paramount-wbd-netflix-hostile-bid-what-to-expect.html",
+        "pubDate": "Mon, 08 Dec 2025 22:01:46 GMT",
         "category": "world"
+      },
+      {
+        "title": "Investors can lock in yield in these unique assets as Fed likely lowers rates",
+        "link": "https://www.cnbc.com/2025/12/08/investors-can-lock-in-yield-in-these-unique-assets-as-fed-likely-lowers-rates.html",
+        "pubDate": "Mon, 08 Dec 2025 21:55:38 GMT",
+        "category": "us"
       },
       {
         "title": "Can AI make you the next Warren Buffett? One bank is working to find out",
         "link": "https://www.cnbc.com/2025/12/08/deutsche-bank-ai-model-investing.html",
         "pubDate": "Mon, 08 Dec 2025 18:27:56 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Comcast president outlines unsuccessful WBD offer and future of NBC&apos;s Peacock",
+        "link": "https://www.cnbc.com/2025/12/08/comcast-president-unsuccessful-wbd-offer-future-of-peacock.html",
+        "pubDate": "Mon, 08 Dec 2025 18:26:01 GMT",
+        "category": "business"
       },
       {
         "title": "Stocks making the biggest moves midday: Paramount Skydance, Wave Lifesciences, Confluent &amp; more",
