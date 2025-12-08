@@ -1,15 +1,27 @@
 {
-  "updated_at": "2025-12-08T18:56:55.892295",
+  "updated_at": "2025-12-08T20:46:07.921900",
   "news": {
     "ap": [
       {
+        "title": "IBM buys data streaming platform Confluent in $11 billion deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693738ce3e704ddfa01df6335347a94d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fibm-confluent-ai-ma-72afdcda8a105b916e73fcb5a42f6a2a&amp;c=11199429108599305536&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 06:07:00 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Swing district Republicans brace for political fallout if health care subsidies expire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69371f3015674a3586327f234637a8a4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealth-care-tax-credits-congress-trump-swing-districts-e030d7a0dd61ca8815fe4722ddbe94b7&amp;c=6478572787738704269&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693738d05b0e45858806488741106aad&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealth-care-tax-credits-congress-trump-swing-districts-e030d7a0dd61ca8815fe4722ddbe94b7&amp;c=6478572787738704269&amp;mkt=en-us",
         "pubDate": "Mon, 08 Dec 2025 04:01:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Trump administration announcing $12 billion in one-time payments to farmers",
+        "link": "https://www.npr.org/2025/12/08/nx-s1-5637476/trump-administration-announcing-12-billion-in-one-time-payments-to-farmers",
+        "pubDate": "Mon, 08 Dec 2025 14:17:03 -0500",
+        "category": "Top News"
+      },
       {
         "title": "FBI agents sue after being fired for kneeling during racial justice protest",
         "link": "https://www.npr.org/2025/12/08/g-s1-100970/fbi-agents-kneel-protest-lawsuit",
@@ -63,15 +75,33 @@
         "link": "https://www.npr.org/2025/12/08/nx-s1-5636699/zelenskyy-ukraine-uk-russia-france-germany-europe-peace-trump",
         "pubDate": "Mon, 08 Dec 2025 05:00:00 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Supreme Court appears poised to vastly expand presidential powers",
-        "link": "https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive",
-        "pubDate": "Mon, 08 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Paramount launches rival bid for Warner Bros Discovery",
+        "link": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 20:29:38 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Why Sandie Peggie ruling could lead to big changes for employers",
+        "link": "https://www.bbc.com/news/articles/c0mp41jlre7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 20:22:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Partial victory for nurse in NHS trans changing room row",
+        "link": "https://www.bbc.com/news/articles/c36zk0p7xlgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 20:17:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Critical moment to ramp up support for Ukraine, European allies say",
+        "link": "https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 20:00:28 GMT",
+        "category": "world"
+      },
       {
         "title": "Prince Harry's security in UK under review",
         "link": "https://www.bbc.com/news/articles/cx25nk0kx58o?at_medium=RSS&amp;at_campaign=rss",
@@ -79,34 +109,16 @@
         "category": "Top News"
       },
       {
-        "title": "Paramount launches rival bid for Warner Bros Discovery",
-        "link": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 18:00:27 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Ukraine's European allies press for more security guarantees",
-        "link": "https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 17:55:43 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Partial victory for nurse in NHS trans changing room row",
-        "link": "https://www.bbc.com/news/articles/c36zk0p7xlgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 17:38:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Two more arrested after suspected Heathrow pepper spray attack",
-        "link": "https://www.bbc.com/news/articles/czxg0k9qrddo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 17:02:09 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "European leaders walk tightrope between backing Ukraine and keeping US on board",
         "link": "https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 08 Dec 2025 17:01:30 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Rebrand for golf course named after former prince Andrew",
+        "link": "https://www.bbc.com/news/articles/cq8deqv8e74o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 16:15:23 GMT",
+        "category": "business"
       },
       {
         "title": "Leonardo DiCaprio's One Battle After Another leads Golden Globe nominations",
@@ -125,29 +137,41 @@
         "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 08 Dec 2025 12:19:21 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
-        "link": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 10:44:44 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "US to open up exports of Nvidia H200 chips to China, Semafor reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69371f41637d43e1b981e647231cbb45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-open-up-exports-nvidia-h200-chips-china-semafor-reports-2025-12-08%2f&amp;c=16409213269780525914&amp;mkt=en-us",
-        "pubDate": "Mon, 08 Dec 2025 09:16:00 GMT",
-        "category": "us"
+        "title": "Frankie Muniz puts off Trucks retirement for 'unfinished business'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693738da297745f4bdfb7edbb6c7be03&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ffrankie-muniz-puts-off-trucks-retirement-unfinished-business--flm-2025-12-08%2f&amp;c=11726314636156014131&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 11:16:00 GMT",
+        "category": "business"
       },
       {
-        "title": "Global leaders commit $1.9 billion to eradicate polio amid funding cuts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69371f60789343bf89675de7e464d99c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fglobal-leaders-commit-19-billion-eradicate-polio-amid-funding-cuts-2025-12-08%2f&amp;c=13154487962768353885&amp;mkt=en-us",
-        "pubDate": "Mon, 08 Dec 2025 02:18:00 GMT",
-        "category": "health"
+        "title": "Dutch arrange World Cup warm-up games with Norway, Ecuador in March",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693738d7058540ae9c80e835d5be7a07&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fdutch-arrange-world-cup-warm-up-games-with-norway-ecuador-march-2025-12-08%2f&amp;c=14727693526105174267&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 10:00:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Mediating disputes in the age of algorithmic hiring",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693738dc999a4c32a9f26c3e3da75c19&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2fmediating-disputes-age-algorithmic-hiring--pracin-2025-12-08%2f&amp;c=16084559765761062246&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 06:45:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
+      {
+        "title": "Investors can lock in yield in these unique assets as Fed likely lowers rates",
+        "link": "https://www.cnbc.com/2025/12/08/investors-can-lock-in-yield-in-these-unique-assets-as-fed-likely-lowers-rates.html",
+        "pubDate": "Mon, 08 Dec 2025 20:24:38 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Paramount Skydance launches hostile bid for WBD &apos;to finish what we started,&apos; CEO Ellison tells CNBC",
+        "link": "https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html",
+        "pubDate": "Mon, 08 Dec 2025 20:09:02 GMT",
+        "category": "world"
+      },
       {
         "title": "Can AI make you the next Warren Buffett? One bank is working to find out",
         "link": "https://www.cnbc.com/2025/12/08/deutsche-bank-ai-model-investing.html",
@@ -159,6 +183,12 @@
         "link": "https://www.cnbc.com/2025/12/08/stocks-making-the-biggest-moves-midday-paramount-skydance-wave-lifesciences-confluent-more.html",
         "pubDate": "Mon, 08 Dec 2025 17:46:08 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "CEO who used ChatGPT to talk to AI clones of business icons: &apos;Advice was so good&apos;",
+        "link": "https://www.cnbc.com/2025/12/02/chatgpt-uses-business-icons-ceos-advice.html",
+        "pubDate": "Mon, 08 Dec 2025 14:19:05 GMT",
+        "category": "health"
       }
     ]
   }
