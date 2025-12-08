@@ -1,14 +1,7 @@
 {
-  "updated_at": "2025-12-08T13:51:34.466562",
+  "updated_at": "2025-12-08T14:51:58.093301",
   "news": {
-    "ap": [
-      {
-        "title": "Ground Game: Swing district Republicans brace for political fallout over health care",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6936d77b337a4e90bb3ee8429ab2bfab&amp;url=https%3a%2f%2fapnews.com%2fnewsletter%2fground-game%2fdecember-8-2025&amp;c=10950884828727247845&amp;mkt=en-us",
-        "pubDate": "Mon, 08 Dec 2025 05:11:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "SCOTUS case could expand presidential powers. And, Dems pitch plan for ACA subsidies",
@@ -73,33 +66,51 @@
     ],
     "bbc": [
       {
+        "title": "Paramount launches rival bid for Warner Brothers Discovery",
+        "link": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 14:38:47 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Joey Barton given suspended jail sentence over 'grossly offensive' social media posts",
+        "link": "https://www.bbc.com/news/articles/c04vqldn42go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 14:15:06 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New mpox strain identified in England",
+        "link": "https://www.bbc.com/news/articles/cm2087g0z9po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 14:13:27 GMT",
+        "category": "health"
+      },
+      {
         "title": "Prince Harry's security in UK under review",
         "link": "https://www.bbc.com/news/articles/cx25nk0kx58o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 08 Dec 2025 13:40:54 GMT",
         "category": "Top News"
       },
       {
-        "title": "Joey Barton given suspended jail sentence over 'grossly offensive' social media posts",
-        "link": "https://www.bbc.com/news/articles/c04vqldn42go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 13:33:44 GMT",
+        "title": "Police assess claims Reform overspent on Farage election campaign",
+        "link": "https://www.bbc.com/news/articles/cy4xrn0z0r0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 13:25:59 GMT",
         "category": "Top News"
       },
       {
         "title": "Elon Musk's X bans European Commission from making ads after \u20ac120m fine",
         "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 08 Dec 2025 12:19:21 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Thousands flee Thai-Cambodia border after deadly clashes",
-        "link": "https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 11:10:30 GMT",
-        "category": "Top News"
+        "category": "tech"
       },
       {
         "title": "Storm Bram named with severe weather warnings for damaging winds and heavy rain",
         "link": "https://www.bbc.com/weather/articles/c3w7nw3nylqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 08 Dec 2025 11:07:01 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Is it a cold, 'super flu' or Covid? How to tell the difference",
+        "link": "https://www.bbc.com/news/articles/cly1rryv2ryo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 11:02:31 GMT",
         "category": "Top News"
       },
       {
@@ -109,49 +120,44 @@
         "category": "us"
       },
       {
-        "title": "'Life being stressful is not an illness' - GPs on mental health over-diagnosis",
-        "link": "https://www.bbc.com/news/articles/cx2pvxdn9v4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 07:49:01 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Ex-Labour councillor known as poverty champion ran secret hate mail campaign",
-        "link": "https://www.bbc.com/news/articles/c741z7z1k81o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 06:05:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Zelensky due at Downing Street for high-level Ukraine talks",
-        "link": "https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 04:03:33 GMT",
+        "title": "Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems",
+        "link": "https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Dec 2025 06:00:48 GMT",
         "category": "world"
+      }
+    ],
+    "reuters": [
+      {
+        "title": "US stocks open higher as investors await Fed rate cut decision",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6936e5c595654671bca5ea294d34999a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-edge-up-fed-interest-rate-cut-decision-nears-2025-12-08%2f&amp;c=16265357256758780554&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 05:37:00 GMT",
+        "category": "us"
       },
       {
-        "title": "Japan is facing a dementia crisis \u2013 can technology help?",
-        "link": "https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 08 Dec 2025 00:49:01 GMT",
+        "title": "China funnelled $80 billion into overseas cleantech in past year, report says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6936e5e0e689487da200600563bf51d8&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fclimate-energy%2fchina-funnelled-80-billion-into-overseas-cleantech-past-year-report-says-2025-12-08%2f&amp;c=14578892463318320238&amp;mkt=en-us",
+        "pubDate": "Mon, 08 Dec 2025 04:03:00 GMT",
         "category": "tech"
       }
     ],
-    "reuters": [],
     "markets": [
       {
-        "title": "S&amp;P 500 win streak, Berkshire&apos;s leadership changes, Netflix&apos;s regulatory path and more in Morning Squawk",
-        "link": "https://www.cnbc.com/2025/12/08/5-things-to-know-before-the-stock-market-opens.html",
-        "pubDate": "Mon, 08 Dec 2025 13:33:17 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Rising stocks and IPOs helped create 287 new billionaires this year",
-        "link": "https://www.cnbc.com/2025/12/08/rising-stocks-ipos-new-billionaires-2025.html",
-        "pubDate": "Mon, 08 Dec 2025 13:15:01 GMT",
+        "title": "United maintains elite status requirements for 2027, but here&apos;s what&apos;s changing",
+        "link": "https://www.cnbc.com/2025/12/08/united-airlines-mileage-plus-frequent-flyer-changes.html",
+        "pubDate": "Mon, 08 Dec 2025 14:00:01 GMT",
         "category": "business"
       },
       {
         "title": "Stocks making the biggest moves premarket: Broadcom, Confluent, Carvana &amp; more",
         "link": "https://www.cnbc.com/2025/12/08/stocks-making-the-biggest-moves-premarket-avgo-cflt-cvna.html",
-        "pubDate": "Mon, 08 Dec 2025 12:47:04 GMT",
+        "pubDate": "Mon, 08 Dec 2025 13:52:04 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "S&amp;P 500 win streak, Berkshire&apos;s leadership changes, Netflix&apos;s regulatory path and more in Morning Squawk",
+        "link": "https://www.cnbc.com/2025/12/08/5-things-to-know-before-the-stock-market-opens.html",
+        "pubDate": "Mon, 08 Dec 2025 13:33:17 GMT",
+        "category": "tech"
       },
       {
         "title": "Netflix gets a downgrade after announcing Warner Bros. film and streaming acquisition",
@@ -160,9 +166,9 @@
         "category": "us"
       },
       {
-        "title": "The operator of India&apos;s largest airline sees shares tumble after thousands of cancelations",
-        "link": "https://www.cnbc.com/2025/12/08/indigo-operator-interglobe-aviation-shares-fall-after-cancelations.html",
-        "pubDate": "Mon, 08 Dec 2025 11:46:12 GMT",
+        "title": "Trump says Zelenskyy &apos;hasn&apos;t read U.S. peace proposal&apos; as tensions mount",
+        "link": "https://www.cnbc.com/2025/12/08/trump-says-zelenskyy-hasnt-read-us-peace-proposal-talks-move-to-london.html",
+        "pubDate": "Mon, 08 Dec 2025 11:11:21 GMT",
         "category": "world"
       }
     ]
