@@ -1,13 +1,32 @@
 {
-  "updated_at": "2025-12-09T18:57:01.276791",
+  "updated_at": "2025-12-09T20:36:54.807688",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "French lawmakers narrowly approve health care budget, suspending Macron\u2019s flagship pension reform",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6938883895c94967b8f35d98cd97b3b1&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffrance-pension-reform-suspended-health-care-budget-63eed2ffe11ecd9103f3954d8befd6b8&amp;c=11903770372195914490&amp;mkt=en-us",
+        "pubDate": "Tue, 09 Dec 2025 12:05:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Millions of borrowers in Biden&apos;s SAVE plan would start paying under new settlement",
+        "link": "https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement",
+        "pubDate": "Tue, 09 Dec 2025 15:14:19 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Rising temperatures could have a chilling impact on young children",
+        "link": "https://www.npr.org/sections/goats-and-soda/2025/12/09/g-s1-101446/climate-change-heat-children-development",
+        "pubDate": "Tue, 09 Dec 2025 14:30:47 -0500",
+        "category": "health"
+      },
       {
         "title": "Believe it or not, this book makes taxes fascinating",
         "link": "https://www.npr.org/2025/12/09/nx-s1-5634506/taxes-the-price-of-democracy",
         "pubDate": "Tue, 09 Dec 2025 13:01:47 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Ukraine&apos;s last eastern strongholds hang on as Russia fights to take Donbas",
@@ -40,42 +59,36 @@
         "category": "Top News"
       },
       {
-        "title": "After NIH grant cuts, breast cancer research at Harvard slowed, and lab workers left",
-        "link": "https://www.npr.org/sections/shots-health-news/2025/12/09/nx-s1-5630892/nih-nci-breast-cancer-research-harvard-joan-brugge",
-        "pubDate": "Tue, 09 Dec 2025 05:00:00 -0500",
-        "category": "health"
-      },
-      {
         "title": "A 101-year-old runs the largest nutcracker museum in the U.S. Here&apos;s a look inside",
         "link": "https://www.npr.org/2025/12/09/nx-s1-5629014/nutcracker-museum-washington-leavenworth",
         "pubDate": "Tue, 09 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
       {
-        "title": "The GOP has allowed Trump to expand his authority. Here&apos;s where they&apos;re pushing back",
-        "link": "https://www.npr.org/2025/12/09/g-s1-101183/gop-authority-trump-pushback",
+        "title": "After NIH grant cuts, breast cancer research at Harvard slowed, and lab workers left",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/12/09/nx-s1-5630892/nih-nci-breast-cancer-research-harvard-joan-brugge",
         "pubDate": "Tue, 09 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Machado to accept Nobel as fight against Venezuelan regime intensifies",
-        "link": "https://www.npr.org/2025/12/09/nx-s1-5634832/machado-venezuela-nobel-peace-prize",
-        "pubDate": "Tue, 09 Dec 2025 04:45:28 -0500",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
+        "link": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Dec 2025 20:29:28 GMT",
+        "category": "world"
+      },
+      {
         "title": "Member of UK armed forces dies in accident in Ukraine",
         "link": "https://www.bbc.com/news/articles/c3e07kxey74o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 18:22:28 GMT",
+        "pubDate": "Tue, 09 Dec 2025 19:16:33 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
-        "link": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 18:11:11 GMT",
-        "category": "world"
+        "title": "MI5 under more scrutiny after multiple criticisms",
+        "link": "https://www.bbc.com/news/articles/cy5g0d64k0qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Dec 2025 19:02:31 GMT",
+        "category": "Top News"
       },
       {
         "title": "Storm Bram brings flooding and travel disruption to UK",
@@ -94,12 +107,6 @@
         "link": "https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 09 Dec 2025 16:34:53 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Some schools disrupted and Covid-like measures brought in amid rise in flu cases",
-        "link": "https://www.bbc.com/news/articles/c0r90xg5wwqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 15:52:04 GMT",
-        "category": "Top News"
       },
       {
         "title": "Much of \u00a311bn Covid scheme fraud 'beyond recovery', report says",
@@ -126,31 +133,68 @@
         "category": "health"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "US Senate to hold vote Thursday on Republican healthcare plan",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69388851efc84595b1889ec78cb5fa81&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-senate-hold-vote-thursday-republican-healthcare-plan-2025-12-09%2f&amp;c=1088144793263034683&amp;mkt=en-us",
+        "pubDate": "Tue, 09 Dec 2025 10:49:00 GMT",
+        "category": "health"
+      }
+    ],
     "markets": [
       {
-        "title": "Take a look inside Target&apos;s new fashion-focused store in New York&apos;s SoHo neighborhood",
-        "link": "https://www.cnbc.com/2025/12/09/new-target-store-soho-new-york-fashion.html",
-        "pubDate": "Tue, 09 Dec 2025 18:54:34 GMT",
+        "title": "Eli Lilly to build $6 billion manufacturing plant in Alabama to help make upcoming obesity pill, other drugs",
+        "link": "https://www.cnbc.com/2025/12/09/eli-lilly-6-billion-alabama-manufacturing-plant-obesity-pill.html",
+        "pubDate": "Tue, 09 Dec 2025 20:30:01 GMT",
         "category": "business"
       },
       {
-        "title": "Walmart&apos;s move to Nasdaq is part of a wider plan to build an AI and e-commerce powerhouse, investors say",
-        "link": "https://www.cnbc.com/2025/12/09/walmart-move-to-nasdaq-part-of-plan-to-build-an-ai-e-commerce-powerhouse-investors-say.html",
-        "pubDate": "Tue, 09 Dec 2025 18:34:15 GMT",
+        "title": "The Fed decision is expected to feature a rate cut and a lot more. Here&apos;s what to expect",
+        "link": "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html",
+        "pubDate": "Tue, 09 Dec 2025 20:29:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fifth Third signs deal making fintech firm Brex the provider of its commercial cards",
+        "link": "https://www.cnbc.com/2025/12/09/fifth-third-bank-brex-commercial-cards-agreement.html",
+        "pubDate": "Tue, 09 Dec 2025 20:26:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The five biggest stock moves Todd Gordon has made to prepare his portfolio for 2026",
+        "link": "https://www.cnbc.com/2025/12/09/the-five-biggest-stock-moves-todd-gordon-has-made-to-prepare-his-portfolio-for-2026.html",
+        "pubDate": "Tue, 09 Dec 2025 20:24:09 GMT",
         "category": "us"
       },
       {
-        "title": "FDA approves Merck drug for decimated U.S. cattle herds to stop screwworm",
-        "link": "https://www.cnbc.com/2025/12/09/fda-merck-screwworm-treatment-cattle-herd-decline.html",
-        "pubDate": "Tue, 09 Dec 2025 17:14:38 GMT",
-        "category": "health"
+        "title": "Teachers&apos; union AFT slams crypto market bill, warns of &apos;profound risks&apos; for America&apos;s retirement plans",
+        "link": "https://www.cnbc.com/2025/12/09/aft-slams-crypto-market-bill-warns-of-profound-risks-for-retirement.html",
+        "pubDate": "Tue, 09 Dec 2025 20:01:28 GMT",
+        "category": "tech"
       },
       {
-        "title": "Cramer: I may need to reevaluate our Costco position. Plus, a good sign for Linde",
-        "link": "https://www.cnbc.com/2025/12/09/cramer-i-may-need-to-reevaluate-costco-plus-a-good-sign-for-linde.html",
-        "pubDate": "Tue, 09 Dec 2025 17:05:37 GMT",
-        "category": "tech"
+        "title": "Stocks making the biggest moves midday: Exxon, SLM, CVS, AutoZone, Ares, Campbell&apos;s and more",
+        "link": "https://www.cnbc.com/2025/12/09/stocks-making-the-biggest-moves-midday-xom-staa-cvs-azo-ares.html",
+        "pubDate": "Tue, 09 Dec 2025 17:59:48 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "There&apos;s no Dow or S&amp;P 500 for cryptocurrencies yet. Bitwise is getting a step closer with new ETF",
+        "link": "https://www.cnbc.com/2025/12/09/theres-no-dow-or-sp-500-for-cryptocurrencies-yet-bitwise-is-getting-a-step-closer-with-new-etf.html",
+        "pubDate": "Tue, 09 Dec 2025 17:57:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump&apos;s pivot on Nvidia chips gives China a leg up over the U.S. in AI race, analysts say",
+        "link": "https://www.cnbc.com/2025/12/09/trump-nvidia-chips-h200-china-us-ai-race.html",
+        "pubDate": "Tue, 09 Dec 2025 15:41:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bill Gates on why AI will become &apos;hyper competitive&apos;",
+        "link": "https://www.cnbc.com/2025/12/09/bill-gates-on-why-ai-will-become-hyper-competitive.html",
+        "pubDate": "Tue, 09 Dec 2025 14:01:10 GMT",
+        "category": "world"
       }
     ]
   }
