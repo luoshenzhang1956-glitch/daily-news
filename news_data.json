@@ -1,15 +1,14 @@
 {
-  "updated_at": "2025-12-09T16:57:31.385109",
+  "updated_at": "2025-12-09T18:57:01.276791",
   "news": {
-    "ap": [
-      {
-        "title": "How a rare drug made from scientists\u2019 blood saves babies from botulism",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854ba17e545eab31ed8dbc3a355d3&amp;url=https%3a%2f%2fapnews.com%2farticle%2finfant-botulism-babybig-byheart-cd5f396324e5d636ed3fae805955acbe&amp;c=4535469208889157158&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 06:13:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Believe it or not, this book makes taxes fascinating",
+        "link": "https://www.npr.org/2025/12/09/nx-s1-5634506/taxes-the-price-of-democracy",
+        "pubDate": "Tue, 09 Dec 2025 13:01:47 -0500",
+        "category": "us"
+      },
       {
         "title": "Ukraine&apos;s last eastern strongholds hang on as Russia fights to take Donbas",
         "link": "https://www.npr.org/2025/12/09/nx-s1-5634738/russia-ukraine-war-donetsk-region",
@@ -38,7 +37,7 @@
         "title": "Black bear populations are bouncing back. Here&apos;s how these Texas towns are coping",
         "link": "https://www.npr.org/2025/12/09/nx-s1-5504109/texas-black-bear-population",
         "pubDate": "Tue, 09 Dec 2025 06:00:00 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "After NIH grant cuts, breast cancer research at Harvard slowed, and lab workers left",
@@ -63,44 +62,38 @@
         "link": "https://www.npr.org/2025/12/09/nx-s1-5634832/machado-venezuela-nobel-peace-prize",
         "pubDate": "Tue, 09 Dec 2025 04:45:28 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Sen. Van Hollen urges Democrats to stand for something \u2014 not just be anti-Trump",
-        "link": "https://www.npr.org/2025/12/09/nx-s1-5629032/sen-chris-van-hollen-says-democrats-need-to-fight-back-at-every-juncture",
-        "pubDate": "Tue, 09 Dec 2025 04:42:05 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Member of UK armed forces dies in accident in Ukraine",
+        "link": "https://www.bbc.com/news/articles/c3e07kxey74o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Dec 2025 18:22:28 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
         "link": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 16:51:05 GMT",
+        "pubDate": "Tue, 09 Dec 2025 18:11:11 GMT",
         "category": "world"
+      },
+      {
+        "title": "Storm Bram brings flooding and travel disruption to UK",
+        "link": "https://www.bbc.com/news/articles/c23e7z9dek8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Dec 2025 17:59:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "MI5 closely involved in handling of IRA spy Stakeknife, says report",
+        "link": "https://www.bbc.com/news/articles/cx2g05g3r7xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Dec 2025 17:19:50 GMT",
+        "category": "Top News"
       },
       {
         "title": "Google unveils plans to try again with smart glasses in 2026",
         "link": "https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 09 Dec 2025 16:34:53 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Grooming gangs inquiry to be led by former children's commissioner Anne Longfield",
-        "link": "https://www.bbc.com/news/articles/ckgk2pj2ygko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 16:33:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "MI5 closely involved in handling of IRA spy Stakeknife, says report",
-        "link": "https://www.bbc.com/news/articles/cx2g05g3r7xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 16:30:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Starbucks workers and unions to join UK protests in support of striking US baristas",
-        "link": "https://www.bbc.com/news/articles/c62lqv3mvmjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 16:15:30 GMT",
-        "category": "Top News"
       },
       {
         "title": "Some schools disrupted and Covid-like measures brought in amid rise in flu cases",
@@ -133,110 +126,31 @@
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Nobel Institute calls off Machado press conference ahead of Peace Prize ceremony",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854cafbf448d19440de597f213bb3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fnobel-institute-calls-off-press-conference-ahead-peace-prize-ceremony-news-2025-12-09%2f&amp;c=6340530437693285629&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 06:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US seeks to lift block on evidence in probe of ex-FBI chief Comey",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854cafbf448d19440de597f213bb3&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-seeks-lift-block-evidence-probe-ex-fbi-chief-comey-2025-12-09%2f&amp;c=7632102885834828975&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 06:36:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US job openings increase modestly in October",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854cafbf448d19440de597f213bb3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-job-openings-increase-modestly-october-2025-12-09%2f&amp;c=11120727266208792663&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 06:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US court in NY allows release of Epstein-related grand jury documents",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854dd0f33460f8e6d9a63a4b87ee5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-court-ny-allows-release-epstein-related-grand-jury-documents-2025-12-09%2f&amp;c=11375431797057740933&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 05:43:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Exclusive: Wikipedia operator taps former US Ambassador to Chile for CEO role",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854cafbf448d19440de597f213bb3&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fwikipedia-operator-taps-former-us-ambassador-chile-ceo-role-2025-12-09%2f&amp;c=1144451015965564659&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 05:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Passengers disrupted by A320 software update not entitled to airline compensation, USDOT says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854cafbf448d19440de597f213bb3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fpassengers-disrupted-by-a320-software-update-not-entitled-airline-compensation-2025-12-09%2f&amp;c=3176730631940477217&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 05:29:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "CVS forecasts 2026 profit above estimates on strong performance",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854e03b444cfba41f50c87b1c52b8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fcvs-forecasts-2026-profit-above-estimates-strong-performance-2025-12-09%2f&amp;c=15350983490857508244&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 02:37:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Democrat favored to win Miami mayor race in latest test of US voter sentiment",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854cafbf448d19440de597f213bb3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fdemocrat-favored-win-miami-mayor-race-latest-test-us-voter-sentiment-2025-12-09%2f&amp;c=14443852506272067863&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 02:14:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Business is booming for defense contractors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854de482546a68e302b2d0159c69b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fbusiness-is-booming-defense-contractors-2025-12-09%2f&amp;c=4593578450437216417&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 02:01:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Ford to use Renault technology, plants for cheaper European EVs to fend off Chinese rivals",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693854df2c2042b199e1c8b98e9f9126&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fford-use-renault-technology-plants-cheaper-european-evs-fend-off-chinese-rivals-2025-12-09%2f&amp;c=16865444325542815125&amp;mkt=en-us",
-        "pubDate": "Mon, 08 Dec 2025 21:04:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
-      {
-        "title": "There&apos;s no Dow or S&amp;P 500 for cryptocurrencies yet. Bitwise is getting a step closer with new ETF",
-        "link": "https://www.cnbc.com/2025/12/09/theres-no-dow-or-sp-500-for-cryptocurrencies-yet-bitwise-is-getting-a-step-closer-with-new-etf.html",
-        "pubDate": "Tue, 09 Dec 2025 16:53:47 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Trump&apos;s pivot on Nvidia chips gives China a leg up over the U.S. in AI race, analysts say",
-        "link": "https://www.cnbc.com/2025/12/09/trump-nvidia-chips-h200-china-us-ai-race.html",
-        "pubDate": "Tue, 09 Dec 2025 15:41:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fifth Third signs deal making fintech firm Brex the provider of its commercial cards",
-        "link": "https://www.cnbc.com/2025/12/09/fifth-third-bank-brex-commercial-cards-agreement.html",
-        "pubDate": "Tue, 09 Dec 2025 15:02:41 GMT",
-        "category": "tech"
-      },
       {
         "title": "Take a look inside Target&apos;s new fashion-focused store in New York&apos;s SoHo neighborhood",
         "link": "https://www.cnbc.com/2025/12/09/new-target-store-soho-new-york-fashion.html",
-        "pubDate": "Tue, 09 Dec 2025 14:45:20 GMT",
+        "pubDate": "Tue, 09 Dec 2025 18:54:34 GMT",
         "category": "business"
       },
       {
-        "title": "Bill Gates on why AI will become &apos;hyper competitive&apos;",
-        "link": "https://www.cnbc.com/2025/12/09/bill-gates-on-why-ai-will-become-hyper-competitive.html",
-        "pubDate": "Tue, 09 Dec 2025 14:01:10 GMT",
-        "category": "world"
+        "title": "Walmart&apos;s move to Nasdaq is part of a wider plan to build an AI and e-commerce powerhouse, investors say",
+        "link": "https://www.cnbc.com/2025/12/09/walmart-move-to-nasdaq-part-of-plan-to-build-an-ai-e-commerce-powerhouse-investors-say.html",
+        "pubDate": "Tue, 09 Dec 2025 18:34:15 GMT",
+        "category": "us"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Home Depot, Ares, Viking, CVS, Nvidia &amp; more",
-        "link": "https://www.cnbc.com/2025/12/09/stocks-making-the-biggest-moves-premarket-hd-ares-vik-tol.html",
-        "pubDate": "Tue, 09 Dec 2025 12:32:41 GMT",
-        "category": "Top News"
+        "title": "FDA approves Merck drug for decimated U.S. cattle herds to stop screwworm",
+        "link": "https://www.cnbc.com/2025/12/09/fda-merck-screwworm-treatment-cattle-herd-decline.html",
+        "pubDate": "Tue, 09 Dec 2025 17:14:38 GMT",
+        "category": "health"
       },
       {
-        "title": "Can AI make you the next Warren Buffett? One bank is working to find out",
-        "link": "https://www.cnbc.com/2025/12/08/deutsche-bank-ai-model-investing.html",
-        "pubDate": "Mon, 08 Dec 2025 18:27:56 GMT",
-        "category": "Top News"
+        "title": "Cramer: I may need to reevaluate our Costco position. Plus, a good sign for Linde",
+        "link": "https://www.cnbc.com/2025/12/09/cramer-i-may-need-to-reevaluate-costco-plus-a-good-sign-for-linde.html",
+        "pubDate": "Tue, 09 Dec 2025 17:05:37 GMT",
+        "category": "tech"
       }
     ]
   }
