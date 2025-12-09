@@ -1,26 +1,50 @@
 {
-  "updated_at": "2025-12-09T20:36:54.807688",
+  "updated_at": "2025-12-09T22:37:00.895302",
   "news": {
     "ap": [
       {
-        "title": "French lawmakers narrowly approve health care budget, suspending Macron\u2019s flagship pension reform",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6938883895c94967b8f35d98cd97b3b1&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffrance-pension-reform-suspended-health-care-budget-63eed2ffe11ecd9103f3954d8befd6b8&amp;c=11903770372195914490&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 12:05:00 GMT",
-        "category": "health"
+        "title": "Mike Trout remains in the mix for Team USA in the World Baseball Classic, but questions linger",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6938a45305484a6db5fb8ed0f35b8d68&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-baseball-classic-mike-trout-team-usa-03513997d9a5868772248ae1650b8032&amp;c=11802198261569351842&amp;mkt=en-us",
+        "pubDate": "Tue, 09 Dec 2025 13:25:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Pope criticizes US bid to \u2018break apart\u2019 US-Europe alliance, insists on Europe role in Ukraine peace",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6938a4549d0f40cba0800d27f9d3c21a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvatican-russia-ukraine-trump-pope-leo-60c898afe3241ff67552f417a06900b0&amp;c=4149162295029690943&amp;mkt=en-us",
+        "pubDate": "Tue, 09 Dec 2025 12:45:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
       {
+        "title": "Scientists use AI to help make bionic hands work better for people who need them",
+        "link": "https://www.npr.org/2025/12/09/nx-s1-5637570/scientists-use-ai-to-help-make-bionic-hands-work-better-for-people-who-need-them",
+        "pubDate": "Tue, 09 Dec 2025 16:05:41 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Farmers&apos; reactions are mixed after Trump announces one-time relief payments",
+        "link": "https://www.npr.org/2025/12/09/nx-s1-5637409/farmers-reactions-are-mixed-after-trump-announces-one-time-relief-payments",
+        "pubDate": "Tue, 09 Dec 2025 16:05:35 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Hong Kong&apos;s deadly fire prompts calls for transparent investigation \u2014 and a crackdown",
+        "link": "https://www.npr.org/2025/12/09/nx-s1-5637316/hong-kongs-deadly-fire-prompts-calls-for-transparent-investigation-and-a-crackdown",
+        "pubDate": "Tue, 09 Dec 2025 16:05:32 -0500",
+        "category": "world"
+      },
+      {
         "title": "Millions of borrowers in Biden&apos;s SAVE plan would start paying under new settlement",
         "link": "https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement",
         "pubDate": "Tue, 09 Dec 2025 15:14:19 -0500",
-        "category": "us"
+        "category": "business"
       },
       {
         "title": "Rising temperatures could have a chilling impact on young children",
         "link": "https://www.npr.org/sections/goats-and-soda/2025/12/09/g-s1-101446/climate-change-heat-children-development",
         "pubDate": "Tue, 09 Dec 2025 14:30:47 -0500",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Believe it or not, this book makes taxes fascinating",
@@ -32,13 +56,13 @@
         "title": "Ukraine&apos;s last eastern strongholds hang on as Russia fights to take Donbas",
         "link": "https://www.npr.org/2025/12/09/nx-s1-5634738/russia-ukraine-war-donetsk-region",
         "pubDate": "Tue, 09 Dec 2025 08:28:29 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump to address affordability. And, the significance of Indiana&apos;s redistricting fight",
         "link": "https://www.npr.org/2025/12/09/g-s1-101285/up-first-newsletter-trump-affordability-problem-scotus-rebecca-slaughter-indiana-redistricting",
         "pubDate": "Tue, 09 Dec 2025 06:47:44 -0500",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "President Trump expected to address affordability at Pennsylvania rally",
@@ -51,49 +75,37 @@
         "link": "https://www.npr.org/sections/planet-money/2025/12/09/g-s1-101130/are-we-in-a-recession-maybe-professional-santas-can-tell-us",
         "pubDate": "Tue, 09 Dec 2025 06:30:00 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Black bear populations are bouncing back. Here&apos;s how these Texas towns are coping",
-        "link": "https://www.npr.org/2025/12/09/nx-s1-5504109/texas-black-bear-population",
-        "pubDate": "Tue, 09 Dec 2025 06:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "A 101-year-old runs the largest nutcracker museum in the U.S. Here&apos;s a look inside",
-        "link": "https://www.npr.org/2025/12/09/nx-s1-5629014/nutcracker-museum-washington-leavenworth",
-        "pubDate": "Tue, 09 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "After NIH grant cuts, breast cancer research at Harvard slowed, and lab workers left",
-        "link": "https://www.npr.org/sections/shots-health-news/2025/12/09/nx-s1-5630892/nih-nci-breast-cancer-research-harvard-joan-brugge",
-        "pubDate": "Tue, 09 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Storm Bram brings flooding and travel disruption to UK",
+        "link": "https://www.bbc.com/news/articles/c23e7z9dek8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Dec 2025 22:27:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Major talks on changes to ECHR migration rules set to start",
+        "link": "https://www.bbc.com/news/articles/cx2g03gv2z6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Dec 2025 22:18:06 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
         "link": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 20:29:28 GMT",
+        "pubDate": "Tue, 09 Dec 2025 22:12:04 GMT",
         "category": "world"
       },
       {
         "title": "Member of UK armed forces dies in accident in Ukraine",
         "link": "https://www.bbc.com/news/articles/c3e07kxey74o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 19:16:33 GMT",
+        "pubDate": "Tue, 09 Dec 2025 21:44:13 GMT",
         "category": "Top News"
       },
       {
-        "title": "MI5 under more scrutiny after multiple criticisms",
-        "link": "https://www.bbc.com/news/articles/cy5g0d64k0qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 19:02:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Storm Bram brings flooding and travel disruption to UK",
-        "link": "https://www.bbc.com/news/articles/c23e7z9dek8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 17:59:10 GMT",
+        "title": "Artist Nnena Kalu earns 'historic' Turner Prize win",
+        "link": "https://www.bbc.com/news/articles/c5yqvz9wljqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Dec 2025 21:00:39 GMT",
         "category": "Top News"
       },
       {
@@ -115,12 +127,6 @@
         "category": "business"
       },
       {
-        "title": "TV faithful Claudia Winkleman made MBE by King at Windsor Castle",
-        "link": "https://www.bbc.com/news/articles/cx2g0117qgpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Dec 2025 15:32:40 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Congress ups pressure to release boat strike video with threat to Hegseth's travel budget",
         "link": "https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 09 Dec 2025 12:41:57 GMT",
@@ -133,49 +139,36 @@
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "US Senate to hold vote Thursday on Republican healthcare plan",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69388851efc84595b1889ec78cb5fa81&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-senate-hold-vote-thursday-republican-healthcare-plan-2025-12-09%2f&amp;c=1088144793263034683&amp;mkt=en-us",
-        "pubDate": "Tue, 09 Dec 2025 10:49:00 GMT",
-        "category": "health"
-      }
-    ],
+    "reuters": [],
     "markets": [
+      {
+        "title": "Stocks making the biggest moves after hours: AeroVironment, GE Vernova, Cracker Barrel and more",
+        "link": "https://www.cnbc.com/2025/12/09/stocks-making-the-biggest-moves-after-hours-avav-gev-cbrl.html",
+        "pubDate": "Tue, 09 Dec 2025 21:55:20 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Eli Lilly to build $6 billion manufacturing plant in Alabama to help make upcoming obesity pill, other drugs",
         "link": "https://www.cnbc.com/2025/12/09/eli-lilly-6-billion-alabama-manufacturing-plant-obesity-pill.html",
-        "pubDate": "Tue, 09 Dec 2025 20:30:01 GMT",
+        "pubDate": "Tue, 09 Dec 2025 21:02:55 GMT",
         "category": "business"
       },
       {
         "title": "The Fed decision is expected to feature a rate cut and a lot more. Here&apos;s what to expect",
         "link": "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html",
-        "pubDate": "Tue, 09 Dec 2025 20:29:09 GMT",
+        "pubDate": "Tue, 09 Dec 2025 20:36:45 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Oracle&apos;s AI-fueled debt load has investors on edge ahead of quarterly earnings",
+        "link": "https://www.cnbc.com/2025/12/09/oracles-ai-fueled-debt-load-has-investors-on-edge-ahead-of-earnings.html",
+        "pubDate": "Tue, 09 Dec 2025 20:33:05 GMT",
+        "category": "tech"
       },
       {
         "title": "Fifth Third signs deal making fintech firm Brex the provider of its commercial cards",
         "link": "https://www.cnbc.com/2025/12/09/fifth-third-bank-brex-commercial-cards-agreement.html",
         "pubDate": "Tue, 09 Dec 2025 20:26:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The five biggest stock moves Todd Gordon has made to prepare his portfolio for 2026",
-        "link": "https://www.cnbc.com/2025/12/09/the-five-biggest-stock-moves-todd-gordon-has-made-to-prepare-his-portfolio-for-2026.html",
-        "pubDate": "Tue, 09 Dec 2025 20:24:09 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Teachers&apos; union AFT slams crypto market bill, warns of &apos;profound risks&apos; for America&apos;s retirement plans",
-        "link": "https://www.cnbc.com/2025/12/09/aft-slams-crypto-market-bill-warns-of-profound-risks-for-retirement.html",
-        "pubDate": "Tue, 09 Dec 2025 20:01:28 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Exxon, SLM, CVS, AutoZone, Ares, Campbell&apos;s and more",
-        "link": "https://www.cnbc.com/2025/12/09/stocks-making-the-biggest-moves-midday-xom-staa-cvs-azo-ares.html",
-        "pubDate": "Tue, 09 Dec 2025 17:59:48 GMT",
         "category": "Top News"
       },
       {
@@ -189,12 +182,6 @@
         "link": "https://www.cnbc.com/2025/12/09/trump-nvidia-chips-h200-china-us-ai-race.html",
         "pubDate": "Tue, 09 Dec 2025 15:41:36 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Bill Gates on why AI will become &apos;hyper competitive&apos;",
-        "link": "https://www.cnbc.com/2025/12/09/bill-gates-on-why-ai-will-become-hyper-competitive.html",
-        "pubDate": "Tue, 09 Dec 2025 14:01:10 GMT",
-        "category": "world"
       }
     ]
   }
