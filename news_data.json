@@ -1,20 +1,26 @@
 {
-  "updated_at": "2025-12-10T18:58:58.710820",
+  "updated_at": "2025-12-10T20:50:17.625328",
   "news": {
     "ap": [
       {
-        "title": "Biotech: South Dakota revs up for the future in a young, growing industry",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6939c27c83a34e11ad0a20f7232c18f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsouth-dakota-biotechnology-ryan-oines-engineering-general-news-e5299d62c3a6a29ce433835df3f5475d&amp;c=13617569030706555538&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 10:46:00 GMT",
-        "category": "tech"
+        "title": "New York Times, after Trump post, says it won\u2019t be deterred from writing about his health",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6939dcecc3374f96886d8c5f80b5fe33&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-health-press-new-york-times-5ce0a4571528453f3b3cea79f4320f69&amp;c=13340705828334717365&amp;mkt=en-us",
+        "pubDate": "Wed, 10 Dec 2025 11:31:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
       {
+        "title": "Egypt and Iran object to playing in a Seattle &apos;Pride&apos; match in next year&apos;s World Cup",
+        "link": "https://www.npr.org/2025/12/10/nx-s1-5639958/egypt-iran-seattle-pride-match-fifa-world-cup",
+        "pubDate": "Wed, 10 Dec 2025 14:01:27 -0500",
+        "category": "us"
+      },
+      {
         "title": "Judge blocks Trump&apos;s National Guard deployment in LA with sharp rebuke",
         "link": "https://www.npr.org/2025/12/10/nx-s1-5639822/national-guard-la-court-judge-trump",
         "pubDate": "Wed, 10 Dec 2025 13:28:27 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "What to know about death cap mushrooms, blamed for poisonings in California",
@@ -47,7 +53,7 @@
         "category": "world"
       },
       {
-        "title": "Machado&apos;s daughter accepts Nobel Peace Prize in Venezuelan opposition leader&apos;s absence",
+        "title": "The daughter of Venezuela&apos;s Machado accepts the Nobel Peace Prize in her absence",
         "link": "https://www.npr.org/2025/12/10/nx-s1-5639764/machado-nobel-peace-prize-ceremony",
         "pubDate": "Wed, 10 Dec 2025 08:03:12 -0500",
         "category": "Top News"
@@ -63,26 +69,44 @@
         "link": "https://www.npr.org/2025/12/10/nx-s1-5588384/save-voting-data-us-citizens",
         "pubDate": "Wed, 10 Dec 2025 05:00:00 -0500",
         "category": "tech"
-      },
-      {
-        "title": "Border Patrol left Charlotte. The damage stayed behind.",
-        "link": "https://www.npr.org/2025/12/10/g-s1-101471/border-patrol-left-charlotte-the-damage-stayed-behind",
-        "pubDate": "Wed, 10 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
         "title": "Ex-Olympic swimmer Sharron Davies and Iceland boss Richard Walker among new peers",
         "link": "https://www.bbc.com/news/articles/cx23pxxl7yno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 18:16:37 GMT",
+        "pubDate": "Wed, 10 Dec 2025 19:53:46 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "British paratrooper killed in Ukraine 'lived life of courage'",
+        "link": "https://www.bbc.com/news/articles/c4gpkr83p73o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Dec 2025 19:53:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Race across the world has shown us we can get through anything together",
+        "link": "https://www.bbc.com/news/articles/cd9zy545dxwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Dec 2025 19:36:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Leon to close 20 stores and cut jobs in restructure",
+        "link": "https://www.bbc.com/news/articles/c33mp5rem05o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Dec 2025 19:34:29 GMT",
+        "category": "business"
       },
       {
         "title": "Iceland becomes fifth country to boycott Eurovision",
         "link": "https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 18:13:02 GMT",
+        "pubDate": "Wed, 10 Dec 2025 19:02:13 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Last minute offer may avert strike by resident doctors",
+        "link": "https://www.bbc.com/news/articles/c4gk3d72mvzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Dec 2025 19:00:08 GMT",
+        "category": "health"
       },
       {
         "title": "Author Sophie Kinsella remembered as a 'wonderful, warm woman'",
@@ -91,34 +115,10 @@
         "category": "Top News"
       },
       {
-        "title": "Last minute offer may avert strike by resident doctors",
-        "link": "https://www.bbc.com/news/articles/c4gk3d72mvzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 17:25:15 GMT",
-        "category": "health"
-      },
-      {
-        "title": "British paratrooper killed in Ukraine named",
-        "link": "https://www.bbc.com/news/articles/c4gpkr83p73o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 17:18:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Leon to close stores and cut jobs in restructure",
-        "link": "https://www.bbc.com/news/articles/c33mp5rem05o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 17:02:39 GMT",
-        "category": "business"
-      },
-      {
         "title": "US could ask foreign tourists for five-year social media history before entry",
         "link": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 10 Dec 2025 16:48:56 GMT",
         "category": "world"
-      },
-      {
-        "title": "US could ask UK tourists for five-year social media history before entry",
-        "link": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 16:48:56 GMT",
-        "category": "Top News"
       },
       {
         "title": "Porn company starts new age checks after \u00a31m Ofcom fine",
@@ -133,25 +133,26 @@
         "category": "us"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "US dollar slides after Fed cuts rates, as expected",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6939dcf98cb9454eaa860d042f8f9024&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fus-dollar-slides-after-fed-cuts-rates-expected-2025-12-10%2f&amp;c=8291430378452824498&amp;mkt=en-us",
+        "pubDate": "Wed, 10 Dec 2025 11:42:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Australia begins enforcing world-first teen social media ban",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6939dcf7312c4525875be20974031d44&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2faustralia-social-media-ban-takes-effect-world-first-2025-12-09%2f&amp;c=7717870017586226103&amp;mkt=en-us",
+        "pubDate": "Tue, 09 Dec 2025 23:10:00 GMT",
+        "category": "world"
+      }
+    ],
     "markets": [
       {
-        "title": "Trump to start final Fed chair interviews beginning with Kevin Warsh",
-        "link": "https://www.cnbc.com/2025/12/10/trump-to-start-final-fed-chair-interviews-beginning-with-kevin-warsh.html",
-        "pubDate": "Wed, 10 Dec 2025 18:13:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Photronics, AeroVironment, Maplebear, GE Vernova &amp; more",
-        "link": "https://www.cnbc.com/2025/12/10/stocks-making-the-biggest-moves-midday-plab-avav-cart-gev.html",
-        "pubDate": "Wed, 10 Dec 2025 18:10:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The Fed meeting is likely to feature a rate cut and a lot more. Here&apos;s what to expect",
-        "link": "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html",
-        "pubDate": "Wed, 10 Dec 2025 18:08:52 GMT",
-        "category": "Top News"
+        "title": "Southwest CEO says airline &apos;actively pursuing&apos; network of airport lounges",
+        "link": "https://www.cnbc.com/2025/12/10/southwest-airlines-airport-lounges-ceo-bob-jordan.html",
+        "pubDate": "Wed, 10 Dec 2025 18:53:49 GMT",
+        "category": "business"
       },
       {
         "title": "Oracle set to report quarterly results after the bell",
@@ -160,28 +161,10 @@
         "category": "tech"
       },
       {
-        "title": "IMF&apos;s Georgieva urges China to speed up &apos;long-overdue&apos; shift away from relying on exports for growth, so as &apos;not to provoke&apos; other countries",
-        "link": "https://www.cnbc.com/2025/12/10/imfs-georgieva-urges-china-to-speed-up-shift-from-exports.html",
-        "pubDate": "Wed, 10 Dec 2025 10:44:25 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Supply chain diversification away from China is progressing from talks to action, EU chamber says",
-        "link": "https://www.cnbc.com/2025/12/10/supply-chain-diversification-away-from-china-is-progressing-from-talks-to-action-eu-chamber-says.html",
-        "pubDate": "Wed, 10 Dec 2025 06:32:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump&apos;s pivot on Nvidia chips gives China a leg up over the U.S. in AI race, analysts say",
-        "link": "https://www.cnbc.com/2025/12/09/trump-nvidia-chips-h200-china-us-ai-race.html",
-        "pubDate": "Tue, 09 Dec 2025 23:34:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fifth Third signs deal making fintech firm Brex the provider of its commercial cards",
-        "link": "https://www.cnbc.com/2025/12/09/fifth-third-bank-brex-commercial-cards-agreement.html",
-        "pubDate": "Tue, 09 Dec 2025 20:26:43 GMT",
-        "category": "Top News"
+        "title": "Eli Lilly to build $6 billion manufacturing plant in Alabama to help make upcoming obesity pill, other drugs",
+        "link": "https://www.cnbc.com/2025/12/09/eli-lilly-6-billion-alabama-manufacturing-plant-obesity-pill.html",
+        "pubDate": "Tue, 09 Dec 2025 21:02:55 GMT",
+        "category": "health"
       }
     ]
   }
