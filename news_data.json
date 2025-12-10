@@ -1,15 +1,27 @@
 {
-  "updated_at": "2025-12-10T16:58:51.032118",
+  "updated_at": "2025-12-10T18:58:58.710820",
   "news": {
     "ap": [
       {
-        "title": "Don\u2019t Settle for a Subpar Health Savings Account",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6939a692096b4eea9dddcf78a3cd3f44&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealth-savings-account-morningstar-personal-finance-b6dd1d476914251c208b20743a52d0ef&amp;c=4918390031120738905&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 03:05:00 GMT",
-        "category": "health"
+        "title": "Biotech: South Dakota revs up for the future in a young, growing industry",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6939c27c83a34e11ad0a20f7232c18f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsouth-dakota-biotechnology-ryan-oines-engineering-general-news-e5299d62c3a6a29ce433835df3f5475d&amp;c=13617569030706555538&amp;mkt=en-us",
+        "pubDate": "Wed, 10 Dec 2025 10:46:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
+      {
+        "title": "Judge blocks Trump&apos;s National Guard deployment in LA with sharp rebuke",
+        "link": "https://www.npr.org/2025/12/10/nx-s1-5639822/national-guard-la-court-judge-trump",
+        "pubDate": "Wed, 10 Dec 2025 13:28:27 -0500",
+        "category": "us"
+      },
+      {
+        "title": "What to know about death cap mushrooms, blamed for poisonings in California",
+        "link": "https://www.npr.org/2025/12/10/nx-s1-5639775/death-cap-mushrooms-california",
+        "pubDate": "Wed, 10 Dec 2025 12:36:18 -0500",
+        "category": "health"
+      },
       {
         "title": "Can the lessons of 1929 help us avert another economic crisis?",
         "link": "https://www.npr.org/2025/12/10/nx-s1-5639795/can-the-lessons-of-1929-help-us-avert-another-economic-crisis",
@@ -26,7 +38,7 @@
         "title": "The fight to beat neglected tropical diseases was going well. 2025 could change that",
         "link": "https://www.npr.org/sections/goats-and-soda/2025/12/10/g-s1-101411/neglected-tropical-diseases-usaid-cuts",
         "pubDate": "Wed, 10 Dec 2025 08:39:03 -0500",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Greetings from Andhra Pradesh, India, where a fragrant food stand feeds working women",
@@ -47,41 +59,53 @@
         "category": "Top News"
       },
       {
-        "title": "Border Patrol left Charlotte. The damage stayed behind.",
-        "link": "https://www.npr.org/2025/12/10/g-s1-101471/border-patrol-left-charlotte-the-damage-stayed-behind",
-        "pubDate": "Wed, 10 Dec 2025 05:00:00 -0500",
-        "category": "us"
-      },
-      {
         "title": "Trump&apos;s SAVE tool is looking for noncitizen voters. But it&apos;s flagging U.S. citizens too",
         "link": "https://www.npr.org/2025/12/10/nx-s1-5588384/save-voting-data-us-citizens",
         "pubDate": "Wed, 10 Dec 2025 05:00:00 -0500",
         "category": "tech"
       },
       {
-        "title": "How Trump is remaking one agency to aid his deportation push",
-        "link": "https://www.npr.org/2025/12/10/nx-s1-5611495/trump-citizenship-immigration-services-changes",
-        "pubDate": "Wed, 10 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Education Department recalls fired attorneys amid civil rights complaint backlog",
-        "link": "https://www.npr.org/2025/12/10/nx-s1-5637464/education-department-layoffs-civil-rights",
+        "title": "Border Patrol left Charlotte. The damage stayed behind.",
+        "link": "https://www.npr.org/2025/12/10/g-s1-101471/border-patrol-left-charlotte-the-damage-stayed-behind",
         "pubDate": "Wed, 10 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "British paratrooper who died in Ukraine named",
+        "title": "Ex-Olympic swimmer Sharron Davies and Iceland boss Richard Walker among new peers",
+        "link": "https://www.bbc.com/news/articles/cx23pxxl7yno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Dec 2025 18:16:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iceland becomes fifth country to boycott Eurovision",
+        "link": "https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Dec 2025 18:13:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Author Sophie Kinsella remembered as a 'wonderful, warm woman'",
+        "link": "https://www.bbc.com/news/articles/ce91d2m1gg7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Dec 2025 17:53:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Last minute offer may avert strike by resident doctors",
+        "link": "https://www.bbc.com/news/articles/c4gk3d72mvzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Dec 2025 17:25:15 GMT",
+        "category": "health"
+      },
+      {
+        "title": "British paratrooper killed in Ukraine named",
         "link": "https://www.bbc.com/news/articles/c4gpkr83p73o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 16:52:25 GMT",
+        "pubDate": "Wed, 10 Dec 2025 17:18:14 GMT",
         "category": "Top News"
       },
       {
         "title": "Leon to close stores and cut jobs in restructure",
         "link": "https://www.bbc.com/news/articles/c33mp5rem05o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 16:50:45 GMT",
+        "pubDate": "Wed, 10 Dec 2025 17:02:39 GMT",
         "category": "business"
       },
       {
@@ -97,67 +121,43 @@
         "category": "Top News"
       },
       {
-        "title": "Iceland becomes fifth country to boycott Eurovision",
-        "link": "https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 16:38:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Sophie Kinsella, author of the bestselling Shopaholic series, dies aged 55",
-        "link": "https://www.bbc.com/news/articles/ce91d2m1gg7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 15:47:45 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Porn company starts new age checks after \u00a31m Ofcom fine",
         "link": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 10 Dec 2025 14:05:23 GMT",
         "category": "tech"
       },
       {
-        "title": "Man guilty of murdering ex-girlfriend's sister and three children in house fire",
-        "link": "https://www.bbc.com/news/articles/c7vm7dm589do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 13:43:27 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "US jets tracked circling Gulf of Venezuela as tensions mount",
         "link": "https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 10 Dec 2025 12:34:44 GMT",
         "category": "us"
-      },
-      {
-        "title": "Sperm from donor with cancer-causing gene was used to conceive almost 200 children",
-        "link": "https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 05:06:53 GMT",
-        "category": "health"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "The Fed meeting is likely to feature a rate cut and a lot more. Here&apos;s what to expect",
-        "link": "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html",
-        "pubDate": "Wed, 10 Dec 2025 15:16:33 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Nvidia refutes report that China&apos;s DeepSeek is using its banned Blackwell AI chips",
-        "link": "https://www.cnbc.com/2025/12/10/nvidia-report-china-deepseek-ai-blackwell-chips.html",
-        "pubDate": "Wed, 10 Dec 2025 14:46:09 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Trump to start final Fed chair interviews beginning with Kevin Warsh",
         "link": "https://www.cnbc.com/2025/12/10/trump-to-start-final-fed-chair-interviews-beginning-with-kevin-warsh.html",
-        "pubDate": "Wed, 10 Dec 2025 14:09:01 GMT",
+        "pubDate": "Wed, 10 Dec 2025 18:13:31 GMT",
         "category": "Top News"
       },
       {
-        "title": "Stocks making the biggest moves premarket: GameStop, AeroVironment, Cracker Barrel &amp; more",
-        "link": "https://www.cnbc.com/2025/12/10/stocks-making-the-biggest-moves-premarket-gme-avav-cbrl.html",
-        "pubDate": "Wed, 10 Dec 2025 11:53:50 GMT",
+        "title": "Stocks making the biggest moves midday: Photronics, AeroVironment, Maplebear, GE Vernova &amp; more",
+        "link": "https://www.cnbc.com/2025/12/10/stocks-making-the-biggest-moves-midday-plab-avav-cart-gev.html",
+        "pubDate": "Wed, 10 Dec 2025 18:10:46 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "The Fed meeting is likely to feature a rate cut and a lot more. Here&apos;s what to expect",
+        "link": "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html",
+        "pubDate": "Wed, 10 Dec 2025 18:08:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oracle set to report quarterly results after the bell",
+        "link": "https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html",
+        "pubDate": "Wed, 10 Dec 2025 17:10:09 GMT",
+        "category": "tech"
       },
       {
         "title": "IMF&apos;s Georgieva urges China to speed up &apos;long-overdue&apos; shift away from relying on exports for growth, so as &apos;not to provoke&apos; other countries",
@@ -178,21 +178,9 @@
         "category": "Top News"
       },
       {
-        "title": "Eli Lilly to build $6 billion manufacturing plant in Alabama to help make upcoming obesity pill, other drugs",
-        "link": "https://www.cnbc.com/2025/12/09/eli-lilly-6-billion-alabama-manufacturing-plant-obesity-pill.html",
-        "pubDate": "Tue, 09 Dec 2025 21:02:55 GMT",
-        "category": "health"
-      },
-      {
         "title": "Fifth Third signs deal making fintech firm Brex the provider of its commercial cards",
         "link": "https://www.cnbc.com/2025/12/09/fifth-third-bank-brex-commercial-cards-agreement.html",
         "pubDate": "Tue, 09 Dec 2025 20:26:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "There&apos;s no Dow or S&amp;P 500 for cryptocurrencies yet. Bitwise is getting a step closer with new ETF",
-        "link": "https://www.cnbc.com/2025/12/09/theres-no-dow-or-sp-500-for-cryptocurrencies-yet-bitwise-is-getting-a-step-closer-with-new-etf.html",
-        "pubDate": "Tue, 09 Dec 2025 17:57:17 GMT",
         "category": "Top News"
       }
     ]
