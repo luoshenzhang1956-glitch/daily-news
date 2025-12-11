@@ -1,18 +1,30 @@
 {
-  "updated_at": "2025-12-11T07:03:39.425444",
+  "updated_at": "2025-12-11T08:59:07.064069",
   "news": {
     "ap": [
       {
-        "title": "Without affirmative action, elite colleges are prioritizing economic diversity in admissions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693a6c7e7a23402cacb4cbe3efe7b3ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcollege-admissions-affirmative-action-scholarships-pell-0cdef1e68ccc2c6d743dcd26817e73ee&amp;c=5110049253338419922&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 21:19:00 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Senate poised to reject extension of health care subsidies as costs rise for many",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693a6c8cfa30485980773c4d80c73404&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealth-care-vote-affordable-care-act-obamacare-6ffc1ea9f878c6b3da995589ef8a012c&amp;c=13187338825612808620&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693a87a5d4464196b77c0f1631e2d772&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealth-care-vote-affordable-care-act-obamacare-6ffc1ea9f878c6b3da995589ef8a012c&amp;c=13187338825612808620&amp;mkt=en-us",
         "pubDate": "Wed, 10 Dec 2025 21:08:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "Trump says US has seized an oil tanker off the coast of Venezuela",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693a8795322541fea7da7d1907c022ad&amp;url=https%3a%2f%2fapnews.com%2flive%2fdonald-trump-news-updates-12-10-2025&amp;c=9227710819229125223&amp;mkt=en-us",
+        "pubDate": "Wed, 10 Dec 2025 21:01:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "The painting that introduced \u2018Star Wars\u2019 to the world fetches $3.9M at auction",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693a879485d748d1b2f09be81d63a94e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstar-wars-movie-poster-painting-auction-sale-74eb3324163bb2c9d6a036c3c2e94f68&amp;c=5662685699474889471&amp;mkt=en-us",
+        "pubDate": "Wed, 10 Dec 2025 20:04:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trump\u2019s \u2018gold card\u2019 program goes live, offering US visas starting at $1 million per person",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693a87965fdd4fbea5d74475d232279a&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-gold-card-website-live-us-visa-22edbd7e65d188bbf6c8ec1d5f78d11a&amp;c=10522107672287560432&amp;mkt=en-us",
+        "pubDate": "Wed, 10 Dec 2025 14:45:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
@@ -79,27 +91,39 @@
     ],
     "bbc": [
       {
+        "title": "Sports Personality of the Year shortlist announced",
+        "link": "https://www.bbc.com/sport/articles/cx2d33y4gzwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 07:52:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Banks to tell you where you might put your money",
+        "link": "https://www.bbc.com/news/articles/clydzglm5e1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 07:18:39 GMT",
+        "category": "business"
+      },
+      {
         "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
         "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 03:52:00 GMT",
+        "pubDate": "Thu, 11 Dec 2025 07:08:49 GMT",
         "category": "tech"
       },
       {
-        "title": "Venezuelan opposition leader makes first public appearance after months in hiding",
+        "title": "US seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'",
+        "link": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 07:08:35 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Venezuelan Nobel winner emerges to collect prize in Oslo after months in hiding",
         "link": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 11 Dec 2025 03:36:40 GMT",
         "category": "world"
       },
       {
-        "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
-        "link": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 03:30:51 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Exiled Hong Kong activist target of sexually explicit harassment campaign",
-        "link": "https://www.bbc.com/news/articles/cq8d34en0yzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 02:10:03 GMT",
+        "title": "Campaigners question ethics of puberty-blocker trial in legal letter to Streeting",
+        "link": "https://www.bbc.com/news/articles/cyvg6l5nypgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 00:25:00 GMT",
         "category": "Top News"
       },
       {
@@ -109,105 +133,38 @@
         "category": "Top News"
       },
       {
-        "title": "Banks to tell you where you might put your money",
-        "link": "https://www.bbc.com/news/articles/clydzglm5e1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 00:01:38 GMT",
-        "category": "business"
-      },
-      {
         "title": "Why so many people break 20mph speed limits (it's more complicated than you think)",
         "link": "https://www.bbc.com/news/articles/c8e94pe6w9ro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 11 Dec 2025 00:01:30 GMT",
         "category": "Top News"
       },
       {
-        "title": "The reality facing England's busiest A&E unit as flu wave hits",
+        "title": "Flu wave hits England's busiest A&E - hundreds of patients are arriving a day",
         "link": "https://www.bbc.com/news/articles/crmdxky3p9wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 11 Dec 2025 00:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: Video shows US military seizing oil tanker",
-        "link": "https://www.bbc.com/news/videos/c9vj1jnmekko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Dec 2025 22:35:53 GMT",
-        "category": "Top News"
+        "category": "health"
       },
       {
         "title": "Last minute offer may avert strike by resident doctors",
         "link": "https://www.bbc.com/news/articles/c4gk3d72mvzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 10 Dec 2025 22:00:51 GMT",
-        "category": "health"
+        "category": "Top News"
       }
     ],
     "reuters": [
       {
+        "title": "Donovan hits back at Australia coach Popovic over World Cup draw reaction",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693a87af1f044724b2313fa3d0af268f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fdonovan-hits-back-australia-coach-popovic-over-world-cup-draw-reaction-2025-12-11%2f&amp;c=1072678413440596438&amp;mkt=en-us",
+        "pubDate": "Wed, 10 Dec 2025 22:05:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "US seizes sanctioned oil tanker off coast of Venezuela, Trump says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693a6c9307da408396ea824ccefc96dc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2ftrump-administration-seizes-oil-tanker-off-venezuela-coast-us-officials-say-2025-12-10%2f&amp;c=2543194597806147419&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693a87b021fa4b7ba53e3699e8395599&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2ftrump-administration-seizes-oil-tanker-off-venezuela-coast-us-officials-say-2025-12-10%2f&amp;c=2543194597806147419&amp;mkt=en-us",
         "pubDate": "Wed, 10 Dec 2025 18:44:00 GMT",
         "category": "us"
       }
     ],
-    "markets": [
-      {
-        "title": "AI defense booms in UK and Germany as new wave of billion-dollar startups emerge",
-        "link": "https://www.cnbc.com/2025/12/11/ai-defense-boom-in-uk-and-germany-as-new-wave-of-companies-emerge.html",
-        "pubDate": "Thu, 11 Dec 2025 06:00:01 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Night owl bitcoin traders: Soon there&apos;ll be an ETF just for you",
-        "link": "https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html",
-        "pubDate": "Wed, 10 Dec 2025 22:49:06 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Here are the five big takeaways from Wednesday&apos;s Fed rate decision",
-        "link": "https://www.cnbc.com/2025/12/10/here-are-the-five-big-takeaways-from-wednesdays-fed-rate-decision.html",
-        "pubDate": "Wed, 10 Dec 2025 22:23:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What DoubleLine\u2019s Jeffrey Gundlach is betting on after the Fed decision",
-        "link": "https://www.cnbc.com/2025/12/10/what-doublelines-jeffrey-gundlach-is-betting-on-after-the-fed-decision.html",
-        "pubDate": "Wed, 10 Dec 2025 21:30:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The Fed is the most divided it&apos;s been in more than six years",
-        "link": "https://www.cnbc.com/2025/12/10/the-fed-is-the-most-divided-its-been-in-more-than-a-decade.html",
-        "pubDate": "Wed, 10 Dec 2025 20:56:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Divided Fed approves third rate cut this year, sees slower pace ahead",
-        "link": "https://www.cnbc.com/2025/12/10/fed-interest-rate-decision-december-2025-.html",
-        "pubDate": "Wed, 10 Dec 2025 20:53:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Here&apos;s what changed in the new Fed statement",
-        "link": "https://www.cnbc.com/2025/12/10/fed-december-meeting-heres-what-changed-in-the-new-statement.html",
-        "pubDate": "Wed, 10 Dec 2025 19:59:53 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fed still forecasts just one rate cut for next year",
-        "link": "https://www.cnbc.com/2025/12/10/feds-dot-plot-shows-one-rate-cut-for-next-year.html",
-        "pubDate": "Wed, 10 Dec 2025 19:44:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Photronics, AeroVironment, Maplebear, GE Vernova &amp; more",
-        "link": "https://www.cnbc.com/2025/12/10/stocks-making-the-biggest-moves-midday-plab-avav-cart-gev.html",
-        "pubDate": "Wed, 10 Dec 2025 19:24:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump to start final Fed chair interviews beginning with Kevin Warsh",
-        "link": "https://www.cnbc.com/2025/12/10/trump-to-start-final-fed-chair-interviews-beginning-with-kevin-warsh.html",
-        "pubDate": "Wed, 10 Dec 2025 18:13:31 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
