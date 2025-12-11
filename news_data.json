@@ -1,36 +1,54 @@
 {
-  "updated_at": "2025-12-11T10:54:18.563415",
+  "updated_at": "2025-12-11T13:55:48.922711",
   "news": {
     "ap": [
       {
-        "title": "Without affirmative action, elite colleges are prioritizing economic diversity in admissions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693aa297ea8443b6b900c33387b0d9b5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcollege-admissions-affirmative-action-scholarships-pell-0cdef1e68ccc2c6d743dcd26817e73ee&amp;c=5110049253338419922&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 21:19:00 GMT",
-        "category": "tech"
+        "title": "Open AI, Microsoft face lawsuit over ChatGPT\u2019s alleged role in Connecticut murder-suicide",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd1ceba7455ba40fa6bde492a7ed&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-chatgpt-wrongful-death-lawsuit-greenwich-97fd7da31c0fa08f3d3ea9efd6713151&amp;c=15579796955127388989&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 02:12:00 GMT",
+        "category": "business"
       },
       {
-        "title": "Senate poised to reject extension of health care subsidies as costs rise for many",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693aa298b60d4c89a366d607cc7a1aed&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealth-care-vote-affordable-care-act-obamacare-6ffc1ea9f878c6b3da995589ef8a012c&amp;c=13187338825612808620&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 21:08:00 GMT",
-        "category": "health"
+        "title": "Trump says US has seized an oil tanker off the coast of Venezuela",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd12c04449ebb1b996ff73396a21&amp;url=https%3a%2f%2fapnews.com%2flive%2fdonald-trump-news-updates-12-10-2025&amp;c=9227710819229125223&amp;mkt=en-us",
+        "pubDate": "Wed, 10 Dec 2025 21:01:00 GMT",
+        "category": "us"
       },
       {
         "title": "The painting that introduced \u2018Star Wars\u2019 to the world fetches $3.9M at auction",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693aa285c6184d8abe648b340d6892fd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstar-wars-movie-poster-painting-auction-sale-74eb3324163bb2c9d6a036c3c2e94f68&amp;c=5662685699474889471&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd10c8344d50b578bf843bdb5454&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstar-wars-movie-poster-painting-auction-sale-74eb3324163bb2c9d6a036c3c2e94f68&amp;c=5662685699474889471&amp;mkt=en-us",
         "pubDate": "Wed, 10 Dec 2025 20:04:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "Trump\u2019s \u2018gold card\u2019 program goes live, offering US visas starting at $1 million per person",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693aa295adf74ab79fddea1e9ab15b2b&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-gold-card-website-live-us-visa-22edbd7e65d188bbf6c8ec1d5f78d11a&amp;c=10522107672287560432&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 14:45:00 GMT",
-        "category": "business"
       }
     ],
     "npr": [
       {
-        "title": "This refugee&apos;s family faced persecution in Bhutan. Now, he could be deported there",
-        "link": "https://www.npr.org/2025/12/11/nx-s1-5640174/asian-refugee-deportation-ice-bhutan",
+        "title": "Senate to vote on 2 health care proposals. And, the latest U.S. move against Venezuela",
+        "link": "https://www.npr.org/2025/12/11/g-s1-101694/up-first-newsletter-aca-vote-federal-reserve-interest-rates-venezuela",
+        "pubDate": "Thu, 11 Dec 2025 07:14:51 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Sen. Jeanne Shaheen warns millions could lose coverage as ACA votes near defeat",
+        "link": "https://www.npr.org/2025/12/11/nx-s1-5639818/senator-jeanne-shaheen-affordable-health-care-act-vote",
+        "pubDate": "Thu, 11 Dec 2025 06:50:46 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "I hate getting Pap smears. Is there a safe alternative?",
+        "link": "https://www.npr.org/2025/12/11/nx-s1-5639221/pap-smear-hpv-test-cervical-cancer",
+        "pubDate": "Thu, 11 Dec 2025 06:00:00 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire",
+        "link": "https://www.npr.org/2025/12/11/nx-s1-5640109/early-humans-fire-making-oldest-discovery-archaeology",
+        "pubDate": "Thu, 11 Dec 2025 06:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Will U.S. military strikes slow drug overdose deaths? Experts say no",
+        "link": "https://www.npr.org/2025/12/11/nx-s1-5639205/drug-cartels-will-shrug-off-u-s-military-strikes-on-smuggling-boats",
         "pubDate": "Thu, 11 Dec 2025 05:00:00 -0500",
         "category": "us"
       },
@@ -41,8 +59,14 @@
         "category": "business"
       },
       {
-        "title": "Trump calls affordability crisis a &quot;hoax,&quot; touts the economy ahead of midterms",
+        "title": "Trump calls affordability crisis a &apos;hoax.&apos; The data tells a different story",
         "link": "https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms",
+        "pubDate": "Thu, 11 Dec 2025 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "This refugee&apos;s family faced persecution in Bhutan. Now, he could be deported there",
+        "link": "https://www.npr.org/2025/12/11/nx-s1-5640174/asian-refugee-deportation-ice-bhutan",
         "pubDate": "Thu, 11 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
@@ -53,90 +77,60 @@
         "category": "Top News"
       },
       {
-        "title": "Will U.S. military strikes slow drug overdose deaths? Experts say no",
-        "link": "https://www.npr.org/2025/12/11/nx-s1-5639205/drug-cartels-will-shrug-off-u-s-military-strikes-on-smuggling-boats",
-        "pubDate": "Thu, 11 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration says the U.S. seized an oil tanker off the Venezuelan coast",
-        "link": "https://www.npr.org/2025/12/11/nx-s1-5639960/trump-administration-says-the-u-s-seized-an-oil-tanker-off-the-venezuelan-coast",
-        "pubDate": "Thu, 11 Dec 2025 04:43:05 -0500",
-        "category": "world"
-      },
-      {
         "title": "Venezuelan opposition leader Machado reappears in Oslo as a Nobel laureate",
         "link": "https://www.npr.org/2025/12/11/g-s1-101678/venezuelan-machado-reappears-oslo",
         "pubDate": "Thu, 11 Dec 2025 04:11:05 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Botulism outbreak sickens more than 50 babies and expands to all ByHeart products",
-        "link": "https://www.npr.org/2025/12/11/nx-s1-5640625/botulism-outbreak-expands-byheart",
-        "pubDate": "Thu, 11 Dec 2025 01:50:17 -0500",
-        "category": "health"
-      },
-      {
-        "title": "Former Michigan football coach Sherrone Moore jailed, hours after his firing",
-        "link": "https://www.npr.org/2025/12/11/g-s1-101673/michigan-football-coach-sherrone-moore-jailed",
-        "pubDate": "Thu, 11 Dec 2025 01:41:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says the U.S. has seized an oil tanker off the coast of Venezuela",
-        "link": "https://www.npr.org/2025/12/11/g-s1-101668/seized-oil-tanker-off-the-coast-venezuela",
-        "pubDate": "Thu, 11 Dec 2025 00:08:55 -0500",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Banks to tell you where you might invest your money",
-        "link": "https://www.bbc.com/news/articles/clydzglm5e1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 10:05:16 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Sports Personality of the Year shortlist announced",
-        "link": "https://www.bbc.com/sport/articles/cx2d33y4gzwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 07:52:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
-        "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 07:08:49 GMT",
+        "title": "'Architects of AI' named Time Magazine's Person of the Year",
+        "link": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 13:52:11 GMT",
         "category": "tech"
       },
       {
-        "title": "US seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'",
-        "link": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 07:08:35 GMT",
-        "category": "us"
+        "title": "Hundreds of items taken in 'high value' Bristol Museum archive raid",
+        "link": "https://www.bbc.com/news/articles/c8dyr37qzrno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 13:50:32 GMT",
+        "category": "Top News"
       },
       {
         "title": "Panic in France as children fall victim to lethal violence of Marseille drug gangs",
         "link": "https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 06:03:16 GMT",
+        "pubDate": "Thu, 11 Dec 2025 13:05:12 GMT",
         "category": "Top News"
       },
       {
-        "title": "Venezuelan Nobel winner emerges to collect prize in Oslo after months in hiding",
-        "link": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 03:36:40 GMT",
+        "title": "An elite Coast Guard squad and a 'dark fleet' ship - what we know about US seizure of oil tanker off Venezuela",
+        "link": "https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 11:34:28 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Elite Coast Guard squad and 'dark fleet' ship - what we know about US seizure of oil tanker",
+        "link": "https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 11:34:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'",
+        "link": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 11:23:53 GMT",
         "category": "world"
       },
       {
-        "title": "Rolling Stones finally approve Fatboy Slim sample after 25 years",
-        "link": "https://www.bbc.com/news/articles/c2dzre3z96go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 00:01:52 GMT",
+        "title": "Sir Chris Hoy breaks leg in 'worst' crash of his life while riding mountain bike",
+        "link": "https://www.bbc.com/sport/cycling/articles/cp845e5ev1eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 11:00:09 GMT",
         "category": "Top News"
       },
       {
-        "title": "Why so many people break 20mph speed limits (it's more complicated than you think)",
-        "link": "https://www.bbc.com/news/articles/c8e94pe6w9ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Dec 2025 00:01:30 GMT",
-        "category": "Top News"
+        "title": "Banks to tell you where you might invest your money",
+        "link": "https://www.bbc.com/news/articles/clydzglm5e1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 11 Dec 2025 10:05:16 GMT",
+        "category": "business"
       },
       {
         "title": "Flu wave hits England's busiest A&E - hundreds of patients are arriving a day",
@@ -153,42 +147,108 @@
     ],
     "reuters": [
       {
+        "title": "EU antitrust regulators erred in clearing Broadcom's VMware deal, cloud industry lobby says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2feu-antitrust-regulators-erred-clearing-broadcoms-vmware-deal-cloud-industry-2025-12-11%2f&amp;c=7829874851676312928&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 04:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US weekly jobless claims surge amid seasonal adjustment challenges",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-weekly-jobless-claims-surge-amid-seasonal-adjustment-challenges-2025-12-11%2f&amp;c=16394768192432830898&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 04:40:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: Lukoil leans towards Xtellus' cashless bid for its foreign assets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2flukoil-leans-towards-xtellus-cashless-bid-its-foreign-assets-2025-12-11%2f&amp;c=15104205884155204139&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 04:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bessent to propose major overhaul of Financial Stability Oversight Council, CNBC reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fbessent-propose-major-overhaul-financial-stability-oversight-council-cnbc-2025-12-11%2f&amp;c=12908425943057676539&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 04:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US FDA approves first at-home device for depression",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-fda-approves-first-at-home-device-depression-2025-12-11%2f&amp;c=13130409265502892939&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 02:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump's push for new Indiana congressional map faces uncertain vote in state Senate",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-push-new-indiana-congressional-map-faces-uncertain-vote-state-senate-2025-12-11%2f&amp;c=12372926704849769457&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 02:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Investors say Elon Musk's SpaceX trading debut will be 'craziest IPO' ever",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2finvestors-say-elon-musks-spacex-trading-debut-will-be-craziest-ipo-ever-2025-12-11%2f&amp;c=15715006157385437233&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 02:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "South African business confidence index surges in November, mainly on tourism",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd53f4344a8aacad9cd9806e9469&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fsouth-african-business-confidence-index-surges-november-mainly-tourism-2025-12-11%2f&amp;c=10329943053793543548&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 00:34:00 GMT",
+        "category": "business"
+      },
+      {
         "title": "Kenyan court suspends health pact with US to hear data privacy case",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693aa2b811ec43d7af3961779b5bb8ae&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fkenyan-court-suspends-health-pact-with-us-hear-data-privacy-case-2025-12-11%2f&amp;c=7993299689137581284&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd558bf0418d9b2dd23eb1eeb3ac&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fkenyan-court-suspends-health-pact-with-us-hear-data-privacy-case-2025-12-11%2f&amp;c=7993299689137581284&amp;mkt=en-us",
         "pubDate": "Thu, 11 Dec 2025 00:02:00 GMT",
         "category": "health"
       },
       {
-        "title": "Asian equities see biggest foreign outflows in nearly six years on tech valuation fears",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693aa2b79bfb4a9faa6b9f06b8ea4f7e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fasian-equities-see-biggest-foreign-outflows-nearly-six-years-tech-valuation-2025-12-11%2f&amp;c=10045835626739914556&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 22:55:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Donovan hits back at Australia coach Popovic over World Cup draw reaction",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693aa29c8b374f7c84d2c4e28dc07261&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fdonovan-hits-back-australia-coach-popovic-over-world-cup-draw-reaction-2025-12-11%2f&amp;c=1072678413440596438&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 22:05:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "US seizes sanctioned oil tanker off coast of Venezuela, Trump says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693aa2a7578046bdbc2731215641474e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2ftrump-administration-seizes-oil-tanker-off-venezuela-coast-us-officials-say-2025-12-10%2f&amp;c=2543194597806147419&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 18:44:00 GMT",
-        "category": "us"
+        "title": "US House backs massive defense policy bill, Senate next",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fmajority-us-house-backs-massive-defense-policy-bill-voting-continues-2025-12-10%2f&amp;c=736398812118297266&amp;mkt=en-us",
+        "pubDate": "Wed, 10 Dec 2025 23:52:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Coca-Cola taps COO Henrique Braun to replace James Quincey as CEO in 2026",
-        "link": "https://www.cnbc.com/2025/12/10/coca-cola-coo-henrique-braun-ceo-.html",
-        "pubDate": "Wed, 10 Dec 2025 23:08:32 GMT",
+        "title": "Goldman Sachs leads investment in software delivery startup Harness at $5.5 billion valuation",
+        "link": "https://www.cnbc.com/2025/12/11/harness-is-worth-5point5-billion-in-round-led-by-goldman-sachs.html",
+        "pubDate": "Thu, 11 Dec 2025 13:37:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oracle shares plummet 13% in premarket, dragging down AI stocks",
+        "link": "https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html",
+        "pubDate": "Thu, 11 Dec 2025 13:33:50 GMT",
+        "category": "world"
+      },
+      {
+        "title": "JetBlue unveils first ever airport lounge, BlueHouse. Here&apos;s what&apos;s inside",
+        "link": "https://www.cnbc.com/2025/12/11/jetblue-jfk-airport-lounge-bluehouse.html",
+        "pubDate": "Thu, 11 Dec 2025 13:00:01 GMT",
         "category": "business"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Oracle, Oxford Industries, Adobe, Gemini Space Station &amp; more",
+        "link": "https://www.cnbc.com/2025/12/11/stocks-making-the-biggest-moves-premarket-orcl-oxm-adbe-gemi.html",
+        "pubDate": "Thu, 11 Dec 2025 12:51:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Danish weight loss drug maker outlines ambitious 2030 strategy, ramping up pressure on Novo, Lilly",
+        "link": "https://www.cnbc.com/2025/12/11/zealand-pharma-unveils-2030-plan-as-weight-loss-competition-heats-up.html",
+        "pubDate": "Thu, 11 Dec 2025 12:39:46 GMT",
+        "category": "health"
+      },
+      {
+        "title": "The Fed is the most divided it&apos;s been in more than six years",
+        "link": "https://www.cnbc.com/2025/12/10/the-fed-is-the-most-divided-its-been-in-more-than-a-decade.html",
+        "pubDate": "Thu, 11 Dec 2025 12:14:34 GMT",
+        "category": "Top News"
       },
       {
         "title": "Night owl bitcoin traders: Soon there&apos;ll be an ETF just for you",
         "link": "https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html",
         "pubDate": "Wed, 10 Dec 2025 22:49:06 GMT",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Here are the five big takeaways from Wednesday&apos;s Fed rate decision",
@@ -203,39 +263,9 @@
         "category": "Top News"
       },
       {
-        "title": "The Fed is the most divided it&apos;s been in more than six years",
-        "link": "https://www.cnbc.com/2025/12/10/the-fed-is-the-most-divided-its-been-in-more-than-a-decade.html",
-        "pubDate": "Wed, 10 Dec 2025 20:56:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Divided Fed approves third rate cut this year, sees slower pace ahead",
-        "link": "https://www.cnbc.com/2025/12/10/fed-interest-rate-decision-december-2025-.html",
-        "pubDate": "Wed, 10 Dec 2025 20:53:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Here&apos;s what changed in the new Fed statement",
-        "link": "https://www.cnbc.com/2025/12/10/fed-december-meeting-heres-what-changed-in-the-new-statement.html",
-        "pubDate": "Wed, 10 Dec 2025 19:59:53 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Fed still forecasts just one rate cut for next year",
         "link": "https://www.cnbc.com/2025/12/10/feds-dot-plot-shows-one-rate-cut-for-next-year.html",
         "pubDate": "Wed, 10 Dec 2025 19:44:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Photronics, AeroVironment, Maplebear, GE Vernova &amp; more",
-        "link": "https://www.cnbc.com/2025/12/10/stocks-making-the-biggest-moves-midday-plab-avav-cart-gev.html",
-        "pubDate": "Wed, 10 Dec 2025 19:24:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump to start final Fed chair interviews beginning with Kevin Warsh",
-        "link": "https://www.cnbc.com/2025/12/10/trump-to-start-final-fed-chair-interviews-beginning-with-kevin-warsh.html",
-        "pubDate": "Wed, 10 Dec 2025 18:13:31 GMT",
         "category": "Top News"
       }
     ]
