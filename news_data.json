@@ -1,26 +1,7 @@
 {
-  "updated_at": "2025-12-11T13:55:48.922711",
+  "updated_at": "2025-12-11T14:47:50.357500",
   "news": {
-    "ap": [
-      {
-        "title": "Open AI, Microsoft face lawsuit over ChatGPT\u2019s alleged role in Connecticut murder-suicide",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd1ceba7455ba40fa6bde492a7ed&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-chatgpt-wrongful-death-lawsuit-greenwich-97fd7da31c0fa08f3d3ea9efd6713151&amp;c=15579796955127388989&amp;mkt=en-us",
-        "pubDate": "Thu, 11 Dec 2025 02:12:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Trump says US has seized an oil tanker off the coast of Venezuela",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd12c04449ebb1b996ff73396a21&amp;url=https%3a%2f%2fapnews.com%2flive%2fdonald-trump-news-updates-12-10-2025&amp;c=9227710819229125223&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 21:01:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "The painting that introduced \u2018Star Wars\u2019 to the world fetches $3.9M at auction",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd10c8344d50b578bf843bdb5454&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstar-wars-movie-poster-painting-auction-sale-74eb3324163bb2c9d6a036c3c2e94f68&amp;c=5662685699474889471&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 20:04:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Senate to vote on 2 health care proposals. And, the latest U.S. move against Venezuela",
@@ -47,8 +28,8 @@
         "category": "Top News"
       },
       {
-        "title": "Will U.S. military strikes slow drug overdose deaths? Experts say no",
-        "link": "https://www.npr.org/2025/12/11/nx-s1-5639205/drug-cartels-will-shrug-off-u-s-military-strikes-on-smuggling-boats",
+        "title": "This refugee&apos;s family faced persecution in Bhutan. Now, he could be deported there",
+        "link": "https://www.npr.org/2025/12/11/nx-s1-5640174/asian-refugee-deportation-ice-bhutan",
         "pubDate": "Thu, 11 Dec 2025 05:00:00 -0500",
         "category": "us"
       },
@@ -65,14 +46,14 @@
         "category": "Top News"
       },
       {
-        "title": "This refugee&apos;s family faced persecution in Bhutan. Now, he could be deported there",
-        "link": "https://www.npr.org/2025/12/11/nx-s1-5640174/asian-refugee-deportation-ice-bhutan",
+        "title": "Senate to vote on dueling health care proposals as ACA premium hikes loom",
+        "link": "https://www.npr.org/2025/12/11/g-s1-101655/senate-aca-premium-vote",
         "pubDate": "Thu, 11 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
       {
-        "title": "Senate to vote on dueling health care proposals as ACA premium hikes loom",
-        "link": "https://www.npr.org/2025/12/11/g-s1-101655/senate-aca-premium-vote",
+        "title": "Will U.S. military strikes slow drug overdose deaths? Experts say no",
+        "link": "https://www.npr.org/2025/12/11/nx-s1-5639205/drug-cartels-will-shrug-off-u-s-military-strikes-on-smuggling-boats",
         "pubDate": "Thu, 11 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
@@ -147,84 +128,96 @@
     ],
     "reuters": [
       {
-        "title": "EU antitrust regulators erred in clearing Broadcom's VMware deal, cloud industry lobby says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2feu-antitrust-regulators-erred-clearing-broadcoms-vmware-deal-cloud-industry-2025-12-11%2f&amp;c=7829874851676312928&amp;mkt=en-us",
-        "pubDate": "Thu, 11 Dec 2025 04:43:00 GMT",
+        "title": "US September trade deficit lowest in more than five years as goods exports soar",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ad95c540648ecae819caac56d35a0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-september-trade-deficit-lowest-more-than-five-years-goods-exports-soar-2025-12-11%2f&amp;c=1050589977851281913&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 05:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trial of Chinese crime gangs in Italian fashion stalls amid sabotage fears",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ad95c540648ecae819caac56d35a0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftrial-chinese-crime-gangs-italian-fashion-stalls-amid-sabotage-fears-2025-12-11%2f&amp;c=2208869119537307854&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 04:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Architects of AI named Time's 'Person of the Year'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ad95c540648ecae819caac56d35a0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2farchitects-ai-named-times-person-year-2025-12-11%2f&amp;c=10748541688728753071&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 04:55:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US weekly jobless claims surge amid seasonal adjustment challenges",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-weekly-jobless-claims-surge-amid-seasonal-adjustment-challenges-2025-12-11%2f&amp;c=16394768192432830898&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ad95c540648ecae819caac56d35a0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-weekly-jobless-claims-surge-amid-seasonal-adjustment-challenges-2025-12-11%2f&amp;c=16394768192432830898&amp;mkt=en-us",
         "pubDate": "Thu, 11 Dec 2025 04:40:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Exclusive: Lukoil leans towards Xtellus' cashless bid for its foreign assets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2flukoil-leans-towards-xtellus-cashless-bid-its-foreign-assets-2025-12-11%2f&amp;c=15104205884155204139&amp;mkt=en-us",
-        "pubDate": "Thu, 11 Dec 2025 04:26:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Bessent to propose major overhaul of Financial Stability Oversight Council, CNBC reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fbessent-propose-major-overhaul-financial-stability-oversight-council-cnbc-2025-12-11%2f&amp;c=12908425943057676539&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ad95c540648ecae819caac56d35a0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fbessent-propose-major-overhaul-financial-stability-oversight-council-cnbc-2025-12-11%2f&amp;c=12908425943057676539&amp;mkt=en-us",
         "pubDate": "Thu, 11 Dec 2025 04:26:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US FDA approves first at-home device for depression",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-fda-approves-first-at-home-device-depression-2025-12-11%2f&amp;c=13130409265502892939&amp;mkt=en-us",
-        "pubDate": "Thu, 11 Dec 2025 02:45:00 GMT",
+        "title": "Lukashenko meets Venezuela envoy again as Trump seeks Maduro's removal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ad95c540648ecae819caac56d35a0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbelarus-lukashenko-meets-venezuela-envoy-again-trump-seeks-maduros-removal-2025-12-11%2f&amp;c=10310209738562158691&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 02:34:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Trump's push for new Indiana congressional map faces uncertain vote in state Senate",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-push-new-indiana-congressional-map-faces-uncertain-vote-state-senate-2025-12-11%2f&amp;c=12372926704849769457&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ad95c540648ecae819caac56d35a0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-push-new-indiana-congressional-map-faces-uncertain-vote-state-senate-2025-12-11%2f&amp;c=12372926704849769457&amp;mkt=en-us",
         "pubDate": "Thu, 11 Dec 2025 02:19:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Investors say Elon Musk's SpaceX trading debut will be 'craziest IPO' ever",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2finvestors-say-elon-musks-spacex-trading-debut-will-be-craziest-ipo-ever-2025-12-11%2f&amp;c=15715006157385437233&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ad95c540648ecae819caac56d35a0&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2finvestors-say-elon-musks-spacex-trading-debut-will-be-craziest-ipo-ever-2025-12-11%2f&amp;c=15715006157385437233&amp;mkt=en-us",
         "pubDate": "Thu, 11 Dec 2025 02:04:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "South African business confidence index surges in November, mainly on tourism",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd53f4344a8aacad9cd9806e9469&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fsouth-african-business-confidence-index-surges-november-mainly-tourism-2025-12-11%2f&amp;c=10329943053793543548&amp;mkt=en-us",
-        "pubDate": "Thu, 11 Dec 2025 00:34:00 GMT",
-        "category": "business"
+        "title": "AI startup Serval valued at $1 billion after Sequoia-led round to expand IT automation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ad97a3aa6482ab83f1505caff473f&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fai-startup-serval-valued-1-billion-after-sequoia-led-round-expand-it-automation-2025-12-11%2f&amp;c=8979758507205259783&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Dec 2025 02:01:00 GMT",
+        "category": "tech"
       },
       {
-        "title": "Kenyan court suspends health pact with US to hear data privacy case",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd558bf0418d9b2dd23eb1eeb3ac&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fkenyan-court-suspends-health-pact-with-us-hear-data-privacy-case-2025-12-11%2f&amp;c=7993299689137581284&amp;mkt=en-us",
-        "pubDate": "Thu, 11 Dec 2025 00:02:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "US House backs massive defense policy bill, Senate next",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693acd2ea297414fba7fa220d86285b0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fmajority-us-house-backs-massive-defense-policy-bill-voting-continues-2025-12-10%2f&amp;c=736398812118297266&amp;mkt=en-us",
-        "pubDate": "Wed, 10 Dec 2025 23:52:00 GMT",
+        "title": "US seizes sanctioned oil tanker off coast of Venezuela, Trump says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ad95c540648ecae819caac56d35a0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2ftrump-administration-seizes-oil-tanker-off-venezuela-coast-us-officials-say-2025-12-10%2f&amp;c=2543194597806147419&amp;mkt=en-us",
+        "pubDate": "Wed, 10 Dec 2025 18:44:00 GMT",
         "category": "Top News"
       }
     ],
     "markets": [
       {
+        "title": "Disney making $1 billion investment in OpenAI, will allow characters on Sora AI video generator",
+        "link": "https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html",
+        "pubDate": "Thu, 11 Dec 2025 14:46:20 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Oracle shares tank 15%, dragging down Nvidia, AMD, CoreWeave",
+        "link": "https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html",
+        "pubDate": "Thu, 11 Dec 2025 14:41:39 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Walton family fortune: How American&apos;s richest family manages their wealth",
+        "link": "https://www.cnbc.com/2025/12/11/walton-fortune-family-offices.html",
+        "pubDate": "Thu, 11 Dec 2025 14:30:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "&apos;Big Short&apos; Steve Eisman is getting worried about the AI trade",
+        "link": "https://www.cnbc.com/2025/12/11/big-short-steve-eisman-is-getting-worried-about-the-ai-trade.html",
+        "pubDate": "Thu, 11 Dec 2025 14:12:15 GMT",
+        "category": "us"
+      },
+      {
         "title": "Goldman Sachs leads investment in software delivery startup Harness at $5.5 billion valuation",
         "link": "https://www.cnbc.com/2025/12/11/harness-is-worth-5point5-billion-in-round-led-by-goldman-sachs.html",
         "pubDate": "Thu, 11 Dec 2025 13:37:02 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Oracle shares plummet 13% in premarket, dragging down AI stocks",
-        "link": "https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html",
-        "pubDate": "Thu, 11 Dec 2025 13:33:50 GMT",
-        "category": "world"
-      },
-      {
-        "title": "JetBlue unveils first ever airport lounge, BlueHouse. Here&apos;s what&apos;s inside",
-        "link": "https://www.cnbc.com/2025/12/11/jetblue-jfk-airport-lounge-bluehouse.html",
-        "pubDate": "Thu, 11 Dec 2025 13:00:01 GMT",
-        "category": "business"
       },
       {
         "title": "Stocks making the biggest moves premarket: Oracle, Oxford Industries, Adobe, Gemini Space Station &amp; more",
@@ -237,12 +230,6 @@
         "link": "https://www.cnbc.com/2025/12/11/zealand-pharma-unveils-2030-plan-as-weight-loss-competition-heats-up.html",
         "pubDate": "Thu, 11 Dec 2025 12:39:46 GMT",
         "category": "health"
-      },
-      {
-        "title": "The Fed is the most divided it&apos;s been in more than six years",
-        "link": "https://www.cnbc.com/2025/12/10/the-fed-is-the-most-divided-its-been-in-more-than-a-decade.html",
-        "pubDate": "Thu, 11 Dec 2025 12:14:34 GMT",
-        "category": "Top News"
       },
       {
         "title": "Night owl bitcoin traders: Soon there&apos;ll be an ETF just for you",
@@ -260,12 +247,6 @@
         "title": "What DoubleLine\u2019s Jeffrey Gundlach is betting on after the Fed decision",
         "link": "https://www.cnbc.com/2025/12/10/what-doublelines-jeffrey-gundlach-is-betting-on-after-the-fed-decision.html",
         "pubDate": "Wed, 10 Dec 2025 21:30:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fed still forecasts just one rate cut for next year",
-        "link": "https://www.cnbc.com/2025/12/10/feds-dot-plot-shows-one-rate-cut-for-next-year.html",
-        "pubDate": "Wed, 10 Dec 2025 19:44:37 GMT",
         "category": "Top News"
       }
     ]
