@@ -1,15 +1,14 @@
 {
-  "updated_at": "2025-12-12T13:50:51.886440",
+  "updated_at": "2025-12-12T14:40:26.931650",
   "news": {
-    "ap": [
-      {
-        "title": "Remarkable Lindsey Vonn wins World Cup downhill at age 41 to start her Olympic season",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c1d40347340bcabbbe5eacfdb8767&amp;url=https%3a%2f%2fapnews.com%2farticle%2fskiing-world-cup-downhill-vonn-a79f4093d72941f8c60096d13777ad1b&amp;c=326492636827596466&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 03:36:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Trial starts for a Wisconsin judge accused of obstructing ICE",
+        "link": "https://www.npr.org/2025/12/12/nx-s1-5641969/trial-starts-for-a-wisconsin-judge-accused-of-obstructing-ice",
+        "pubDate": "Fri, 12 Dec 2025 08:55:37 -0500",
+        "category": "us"
+      },
       {
         "title": "Germany&apos;s train service is one of Europe&apos;s worst. How did it get so bad?",
         "link": "https://www.npr.org/2025/12/12/g-s1-100794/germany-train-rail-deutsche-bahn",
@@ -17,7 +16,7 @@
         "category": "world"
       },
       {
-        "title": "CNN has endured turmoil for years. With Warner Bros. sale, things will get bumpier",
+        "title": "CNN has endured turmoil for years. Now Trump wants role in its fate",
         "link": "https://www.npr.org/2025/12/12/nx-s1-5640900/cnn-trump-warner-bros-netflix-paramount",
         "pubDate": "Fri, 12 Dec 2025 07:28:31 -0500",
         "category": "business"
@@ -26,7 +25,7 @@
         "title": "Kilmar Abrego Garcia released from ICE custody. And, Indiana rejects redistricting",
         "link": "https://www.npr.org/2025/12/12/g-s1-101843/up-first-newsletter-ukraine-russia-peace-promises-kilmar-abrego-garcia-indiana-redistricting",
         "pubDate": "Fri, 12 Dec 2025 06:54:28 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Amputees often feel disconnected from their bionic hands. AI could bridge the gap",
@@ -59,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Trump struggles to find his economic messaging amid voter skepticism",
-        "link": "https://www.npr.org/2025/12/12/nx-s1-5639903/trump-economic-messaging",
-        "pubDate": "Fri, 12 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Trump&apos;s AI adviser faces questions over use of position to advance his own interests",
         "link": "https://www.npr.org/2025/12/12/nx-s1-5631823/trumps-ai-adviser-faces-questions-over-use-of-position-to-advance-his-own-interests",
         "pubDate": "Fri, 12 Dec 2025 04:50:48 -0500",
@@ -73,15 +66,15 @@
     ],
     "bbc": [
       {
-        "title": "'Double whammy' of flu and strikes a risk to patients, Streeting says",
-        "link": "https://www.bbc.com/news/articles/c8r30787e76o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Dec 2025 13:47:29 GMT",
+        "title": "Man previously cleared of killing wife convicted after child gives new evidence",
+        "link": "https://www.bbc.com/news/articles/cz0n8elm50go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Dec 2025 14:15:30 GMT",
         "category": "Top News"
       },
       {
-        "title": "Man previously cleared of killing wife convicted after child gives new evidence",
-        "link": "https://www.bbc.com/news/articles/cz0n8elm50go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Dec 2025 13:32:48 GMT",
+        "title": "Russia hits back at Europe's plan to loan Ukraine \u20ac90bn of Moscow's frozen assets",
+        "link": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Dec 2025 13:55:51 GMT",
         "category": "Top News"
       },
       {
@@ -133,24 +126,79 @@
         "category": "health"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "SEAT says EU's reversal of combustion-engine ban would help EV transition",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c2916e14e40c98c6afcbf0635de45&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fseat-says-eus-reversal-combustion-engine-ban-would-help-ev-transition-2025-12-12%2f&amp;c=758171259307316429&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 05:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "White House will work with Congress on single framework for AI, adviser says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c2916e14e40c98c6afcbf0635de45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fwhite-house-will-work-with-congress-single-framework-ai-adviser-says-2025-12-12%2f&amp;c=16752066272635093893&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 05:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Lululemon sparks hopes of reset with CEO exit, back-to-basics focus",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c2916e14e40c98c6afcbf0635de45&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2flululemon-sparks-hopes-reset-with-ceo-exit-back-to-basics-focus-2025-12-12%2f&amp;c=15270564066114160873&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 05:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Universal submits remedy to EU's objections over Downtown deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c2916e14e40c98c6afcbf0635de45&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2funiversal-submits-remedy-eus-objections-over-downtown-deal-2025-12-12%2f&amp;c=2610229767385207712&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 04:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China's Changan Automobile adds Italy and Spain to its European markets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c2916e14e40c98c6afcbf0635de45&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fchinas-changan-automobile-adds-italy-spain-its-european-markets-2025-12-12%2f&amp;c=5677358706126333936&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 04:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US admiral leading US troops in Latin America to step down",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c2916e14e40c98c6afcbf0635de45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fus-admiral-leading-us-troops-latin-america-step-down-2025-12-12%2f&amp;c=950753134534982608&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 04:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Scores of migrants cross into Poland through hidden Belarus border tunnel",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c2916e14e40c98c6afcbf0635de45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fscores-migrants-cross-into-poland-through-hidden-belarus-border-tunnel-2025-12-12%2f&amp;c=2214725241642186193&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 03:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Venezuela's Nobel laureate Machado says she aims for peaceful transition after Maduro",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c2916e14e40c98c6afcbf0635de45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fvenezuelas-machado-aims-peaceful-transition-after-maduro-2025-12-12%2f&amp;c=4656469748233526662&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 03:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Less New York, more Nashville: Europeans head to smaller US cities",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c2916e14e40c98c6afcbf0635de45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fless-new-york-more-nashville-europeans-head-smaller-us-cities-2025-12-12%2f&amp;c=7906567192623237033&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 02:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cuba on edge as US seizure of oil tanker puts supply at risk",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693c2916e14e40c98c6afcbf0635de45&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fcuba-edge-us-seizure-oil-tanker-puts-supply-risk-2025-12-12%2f&amp;c=17672630097285838181&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 02:03:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "markets": [
       {
-        "title": "JPMorgan upgrades Citigroup as profitability improves",
-        "link": "https://www.cnbc.com/2025/12/12/jpmorgan-upgrades-citigroup-as-profitability-improves.html",
-        "pubDate": "Fri, 12 Dec 2025 12:59:05 GMT",
-        "category": "us"
+        "title": "Broadcom earnings, Lululemon CEO steps down, &apos;fibermaxxing&apos; and more in Morning Squawk",
+        "link": "https://www.cnbc.com/2025/12/12/5-things-to-know-before-the-stock-market-opens.html",
+        "pubDate": "Fri, 12 Dec 2025 13:07:03 GMT",
+        "category": "tech"
       },
       {
-        "title": "AI shopping could drive $263 billion in holiday sales. Walmart and Target are racing to get in",
-        "link": "https://www.cnbc.com/2025/12/12/ai-chatgpt-holiday-shopping-sales-walmart-target.html",
-        "pubDate": "Fri, 12 Dec 2025 12:00:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "AI-led tech slide extends into third day as Oracle, Nvidia, fall in premarket trading",
-        "link": "https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html",
-        "pubDate": "Fri, 12 Dec 2025 10:36:36 GMT",
+        "title": "Putin can fund Ukraine war for years to come, ex-official says as Trump&apos;s resolve is tested",
+        "link": "https://www.cnbc.com/2025/12/12/ukraine-war-trump-frustrated-amid-warning-putin-can-escalate-conflict.html",
+        "pubDate": "Fri, 12 Dec 2025 10:09:54 GMT",
         "category": "world"
       }
     ]
