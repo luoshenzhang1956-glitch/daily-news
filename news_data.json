@@ -1,50 +1,55 @@
 {
-  "updated_at": "2025-12-13T10:41:24.712880",
+  "updated_at": "2025-12-13T13:34:29.983310",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Texas Tech Lady Raiders and the Abilene Christian Wildcats meet in Odessa, Texas",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b16213442b9fe782fc2eb362cf&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftexas-texas-tech-red-raiders-college-sports-womens-college-basketball-college-basketball-68ec30fd716e42f98e57146884b66c86&amp;c=3946343442677289426&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Dec 2025 01:46:00 GMT",
-        "category": "tech"
+        "title": "King Charles III says early diagnosis allows his cancer treatment to be reduced",
+        "link": "https://www.npr.org/2025/12/13/nx-s1-5643510/king-charles-cancer-treatment",
+        "pubDate": "Sat, 13 Dec 2025 08:22:19 -0500",
+        "category": "world"
       },
       {
-        "title": "Speaker Johnson unveils health care plan as divided Republicans scramble for alternative",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b2101e4e20b06982b1044770a4&amp;url=https%3a%2f%2fapnews.com%2farticle%2frepublican-house-health-care-plan-obamacare-subsidies-208b30670d0486c8d27ceb59c59003e0&amp;c=3409664995763943293&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Dec 2025 00:01:00 GMT",
+        "title": "It&apos;s Christmastime \u2014\u2013 and if you live in the Alps, watch out! Krampus is coming",
+        "link": "https://www.npr.org/2025/12/13/nx-s1-5638388/its-christmastime-and-if-you-live-in-the-alps-watch-out-krampus-is-coming",
+        "pubDate": "Sat, 13 Dec 2025 08:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "The latest updates on the flooding in Washington state",
+        "link": "https://www.npr.org/2025/12/13/nx-s1-5643064/the-latest-updates-on-the-flooding-in-washington-state",
+        "pubDate": "Sat, 13 Dec 2025 07:43:21 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Exploring the underlying causes of corporate bankruptcies in the U.S.",
+        "link": "https://www.npr.org/2025/12/13/nx-s1-5640132/exploring-the-underlying-causes-of-corporate-bankruptcies-in-the-u-s",
+        "pubDate": "Sat, 13 Dec 2025 07:43:00 -0500",
+        "category": "business"
+      },
+      {
+        "title": "Fewer characters on TV had abortions this year \u2014 and more stories reinforced shame",
+        "link": "https://www.npr.org/2025/12/13/nx-s1-5639998/abortion-tv-2025-trends-the-pitt-call-the-midwife",
+        "pubDate": "Sat, 13 Dec 2025 07:00:00 -0500",
         "category": "health"
       },
       {
-        "title": "A new federal report scrutinizes Puerto Rico\u2019s tax incentives luring wealthy Americans",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b015344dea8cc4a6bf4300dd7f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpuerto-rico-gao-report-incentives-9961bb81680c10fbfcc4958282bb42d8&amp;c=17777278140676205810&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 14:36:00 GMT",
-        "category": "business"
-      }
-    ],
-    "npr": [
+        "title": "Is The Washington Post&apos;s new AI podcast a hallmark of the future?",
+        "link": "https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast",
+        "pubDate": "Sat, 13 Dec 2025 06:01:00 -0500",
+        "category": "tech"
+      },
       {
         "title": "Should you use buy now, pay later? Experts share 4 tips to know",
         "link": "https://www.npr.org/2025/12/13/nx-s1-5640011/buy-now-pay-later-holiday-shopping",
         "pubDate": "Sat, 13 Dec 2025 05:00:00 -0500",
-        "category": "business"
-      },
-      {
-        "title": "One U.S. diplomat describes being laid off amid sweeping cuts",
-        "link": "https://www.npr.org/2025/12/12/nx-s1-5604417/one-u-s-diplomat-describes-being-laid-off-amid-sweeping-cuts",
-        "pubDate": "Fri, 12 Dec 2025 18:06:12 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "&apos;She&apos;s awesome&apos;: How U.S. veterans helped Venezuela&apos;s Machado escape",
         "link": "https://www.npr.org/2025/12/12/nx-s1-5642538/machados-escape-from-venezuela",
         "pubDate": "Fri, 12 Dec 2025 17:33:47 -0500",
-        "category": "world"
-      },
-      {
-        "title": "Why one trauma doctor sees self-driving cars as a &apos;public health breakthrough&apos;",
-        "link": "https://www.npr.org/2025/12/12/nx-s1-5634879/why-one-trauma-doctor-sees-self-driving-cars-as-a-public-health-breakthrough",
-        "pubDate": "Fri, 12 Dec 2025 17:27:25 -0500",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "A momentous week as Syria celebrates lifting U.S. sanctions and a year without Assad",
@@ -57,43 +62,31 @@
         "link": "https://www.npr.org/2025/12/12/nx-s1-5642610/doj-voter-data-lawsuits-colorado-hawaii-massachusetts-nevada",
         "pubDate": "Fri, 12 Dec 2025 13:43:56 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "In photos: Flooding in Western Washington state forces thousands to evacuate",
-        "link": "https://www.npr.org/sections/the-picture-show/2025/12/12/nx-s1-5642641/washington-state-flooding",
-        "pubDate": "Fri, 12 Dec 2025 13:38:11 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33 sweeps The Game Awards \u2014 analysis and full winners list",
-        "link": "https://www.npr.org/2025/12/12/nx-s1-5640839/game-awards-2025-winners-clair-obscur-expedition-33",
-        "pubDate": "Fri, 12 Dec 2025 13:19:08 -0500",
-        "category": "tech"
-      },
-      {
-        "title": "If the holidays are stressing you out, remember: everything is optional",
-        "link": "https://www.npr.org/2025/12/12/nx-s1-5604684/if-the-holidays-are-stressing-you-out-remember-everything-is-optional",
-        "pubDate": "Fri, 12 Dec 2025 09:51:11 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Trial starts for a Wisconsin judge accused of obstructing ICE",
-        "link": "https://www.npr.org/2025/12/12/nx-s1-5641969/trial-starts-for-a-wisconsin-judge-accused-of-obstructing-ice",
-        "pubDate": "Fri, 12 Dec 2025 08:55:37 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Angry fans throw chairs and bottles at Messi event in India",
-        "link": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Dec 2025 10:22:24 GMT",
+        "title": "Cambodia shuts border crossings with Thailand as fighting continues",
+        "link": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Dec 2025 12:48:55 GMT",
+        "category": "world"
+      },
+      {
+        "title": "BMA warns of flu 'scaremongering' ahead of doctor strikes",
+        "link": "https://www.bbc.com/news/articles/c5y22yzl6y6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Dec 2025 12:22:15 GMT",
         "category": "Top News"
       },
       {
-        "title": "King praised for 'powerful' early cancer detection message",
+        "title": "Angry fans throw chairs and bottles at Messi event in India",
+        "link": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Dec 2025 11:59:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "King praised for 'powerful' message on early cancer detection",
         "link": "https://www.bbc.com/news/articles/crl99y91jn0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Dec 2025 09:35:14 GMT",
+        "pubDate": "Sat, 13 Dec 2025 10:43:18 GMT",
         "category": "Top News"
       },
       {
@@ -103,22 +96,16 @@
         "category": "Top News"
       },
       {
-        "title": "Thailand-Cambodia fighting continues after Trump says countries agree to ceasefire",
-        "link": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Dec 2025 07:05:17 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Doctor strike during flu outbreak would be 'reckless', says Starmer",
-        "link": "https://www.bbc.com/news/articles/cvg114jd3gdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Dec 2025 02:20:44 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "New photos from Epstein estate show Trump, Andrew and Bill Clinton",
         "link": "https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 13 Dec 2025 02:16:51 GMT",
         "category": "us"
+      },
+      {
+        "title": "A backstreet abortion nearly killed her. It became a story that shaped the rest of her life",
+        "link": "https://www.bbc.com/news/articles/cp34n0v6rggo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Dec 2025 00:34:33 GMT",
+        "category": "Top News"
       },
       {
         "title": "US TikTok investors in limbo as deal set to be delayed again",
@@ -137,89 +124,23 @@
         "link": "https://www.bbc.com/news/articles/cvg8mge23leo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 13 Dec 2025 00:09:51 GMT",
         "category": "health"
-      },
-      {
-        "title": "The making of a WWE legend: John Cena faces his final fight",
-        "link": "https://www.bbc.com/news/articles/cx2dp15zglxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Dec 2025 00:05:31 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
         "title": "US Veterans Affairs agency plans health care job cuts, WaPo reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42c9da52479d9d6f5d9c83922edc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-veterans-affairs-agency-plans-health-care-job-cuts-wapo-reports-2025-12-13%2f&amp;c=8650296268521301968&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Dec 2025 01:28:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d6b63a220451dbd302c08d5ecc70e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-veterans-affairs-agency-plans-health-care-job-cuts-wapo-reports-2025-12-13%2f&amp;c=8650296268521301968&amp;mkt=en-us",
+        "pubDate": "Sat, 13 Dec 2025 04:15:00 GMT",
         "category": "health"
       },
       {
-        "title": "Pinched by higher prices, many Trump voters say: Don't blame the president",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b914b548e7967ed942e99aada1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpinched-by-higher-prices-many-trump-voters-say-dont-blame-president-2025-12-13%2f&amp;c=1547652310790517201&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Dec 2025 01:09:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Thailand vows to keep fighting Cambodia, despite Trump's ceasefire claim",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b914b548e7967ed942e99aada1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ffighting-continues-between-thailand-cambodia-after-trump-claim-ceasefire-2025-12-13%2f&amp;c=3638744860391934901&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Dec 2025 00:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Gu wins opening halfpipe World Cup at Secret Garden",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b914b548e7967ed942e99aada1&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgu-wins-opening-halfpipe-world-cup-secret-garden-2025-12-13%2f&amp;c=11600851737384028116&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 23:48:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Philippines says fishermen hurt, boats damaged by China in South China Sea",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b914b548e7967ed942e99aada1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fphilippines-says-fishermen-hurt-boats-damaged-by-china-south-china-sea-2025-12-13%2f&amp;c=5628866734203354898&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 21:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "North Korean leader Kim hails troops returning from Russia mission, state media says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b914b548e7967ed942e99aada1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fnorth-korean-leader-kim-hails-troops-returning-russia-mission-state-media-says-2025-12-12%2f&amp;c=8140094182114081959&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 18:50:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US seized tanker near Venezuela just as warrant was set to expire, court document shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42c4e04244bc80c4adc50e785639&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-seized-tanker-near-venezuela-just-warrant-was-set-expire-court-document-shows-2025-12-13%2f&amp;c=11439293303175808592&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 17:43:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Flood-stricken towns in Washington state brace for potential levee failures",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b914b548e7967ed942e99aada1&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fclimate-energy%2fflood-stricken-towns-washington-state-brace-potential-levee-failures-2025-12-12%2f&amp;c=16602811770453794321&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 17:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US invalidates union contract covering 47,000 TSA officers, AFGE vows to challenge",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b914b548e7967ed942e99aada1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-invalidates-union-contract-covering-47000-tsa-officers-2025-12-12%2f&amp;c=4823380931604366295&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 14:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Americans skeptical of Trump on Epstein, but Republican doubts ease, Reuters/Ipsos poll finds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d42b914b548e7967ed942e99aada1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2famericans-skeptical-trump-epstein-republican-doubts-ease-reutersipsos-poll-finds-2025-12-12%2f&amp;c=3807963137086752175&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 10:50:00 GMT",
-        "category": "Top News"
+        "title": "Exclusive: Nvidia considers increasing H200 chip output due to robust China demand, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d6b62c13c42328551dca1d39a92fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fnvidia-considers-increasing-h200-chip-output-due-robust-china-demand-sources-say-2025-12-12%2f&amp;c=13902196441770463471&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 23:50:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
-      {
-        "title": "Healthy Returns: FDA may add its strongest safety warning to Covid vaccines. Here\u2019s what to know",
-        "link": "https://www.cnbc.com/2025/12/12/healthy-returns-fda-may-add-strongest-safety-warning-to-covid-shots.html",
-        "pubDate": "Fri, 12 Dec 2025 22:16:10 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Broadcom tumbles 11% despite blockbuster earnings as &apos;AI angst&apos; weighs on Oracle, Nvidia",
-        "link": "https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html",
-        "pubDate": "Fri, 12 Dec 2025 22:02:22 GMT",
-        "category": "world"
-      },
       {
         "title": "Coinbase to soon unveil prediction markets powered by Kalshi, source says",
         "link": "https://www.cnbc.com/2025/12/12/coinbase-to-soon-unveil-prediction-markets-powered-by-kalshi-source-says.html",
@@ -231,18 +152,6 @@
         "link": "https://www.cnbc.com/2025/12/12/hassett-fed-chair-odds-fall-warsh-chances-surge-on-kalshi-after-trump-comments.html",
         "pubDate": "Fri, 12 Dec 2025 21:54:59 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Oracle says there have been &apos;no delays&apos; in OpenAI arrangement after stock slide",
-        "link": "https://www.cnbc.com/2025/12/12/oracle-says-there-have-been-no-delays-in-openai-arrangement.html",
-        "pubDate": "Fri, 12 Dec 2025 21:08:23 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Disney&apos;s &apos;Zootopia 2&apos; to hit $1 billion box office, only the second Hollywood film to do so this year",
-        "link": "https://www.cnbc.com/2025/12/12/disney-zootopia-2-1-billion-global-box-office.html",
-        "pubDate": "Fri, 12 Dec 2025 19:34:17 GMT",
-        "category": "business"
       },
       {
         "title": "Stocks making the biggest moves midday: Tilray Brands, Allegiant Travel, Broadcom &amp; more",
