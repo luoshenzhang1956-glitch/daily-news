@@ -1,7 +1,26 @@
 {
-  "updated_at": "2025-12-13T04:48:37.676251",
+  "updated_at": "2025-12-13T06:55:50.426714",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "A new federal report scrutinizes Puerto Rico\u2019s tax incentives luring wealthy Americans",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d0de28cf34135923fd4c2bb1bd374&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpuerto-rico-gao-report-incentives-9961bb81680c10fbfcc4958282bb42d8&amp;c=17777278140676205810&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 14:36:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Remarkable Lindsey Vonn wins World Cup downhill at age 41 to start her Olympic season",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d0ddc3c8248cdba77062a53890f76&amp;url=https%3a%2f%2fapnews.com%2farticle%2fskiing-world-cup-downhill-vonn-a79f4093d72941f8c60096d13777ad1b&amp;c=326492636827596466&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 11:54:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "A Chinese official exposed his boss. Now in Texas, he\u2019s hunted by Beijing - with help from US tech",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d0de300a5488a8a5a97750b97c133&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwhistleblower-china-surveillance-tech-silicon-valley-adbd0bcfbb0892bfcb85948acb3f515f%3fuser_email%3d3f57fb4fd1afc081a39a740135bbd5ac566c615503fb40774a540851f1798880&amp;c=5257671385703701400&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 10:25:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
         "title": "One U.S. diplomat describes being laid off amid sweeping cuts",
@@ -66,6 +85,12 @@
     ],
     "bbc": [
       {
+        "title": "Witkoff to meet Zelensky for latest Ukraine war talks",
+        "link": "https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Dec 2025 05:09:11 GMT",
+        "category": "world"
+      },
+      {
         "title": "Thailand-Cambodia fighting continues after Trump says countries agree to ceasefire",
         "link": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 13 Dec 2025 03:11:57 GMT",
@@ -102,22 +127,16 @@
         "category": "health"
       },
       {
-        "title": "Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
-        "link": "https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Dec 2025 00:05:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "King says he can 'share the good news' his cancer treatment will be reduced",
+        "title": "King says plan to reduce cancer treatment a 'personal blessing'",
         "link": "https://www.bbc.com/news/articles/c14vvv8pnpmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 12 Dec 2025 21:10:56 GMT",
         "category": "Top News"
       },
       {
-        "title": "EU backs indefinite freeze on Russia's frozen cash ahead of loan plan for Ukraine",
-        "link": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Dec 2025 19:14:51 GMT",
-        "category": "world"
+        "title": "Nobel laureate Narges Mohammadi arrested in Iran, supporters say",
+        "link": "https://www.bbc.com/news/articles/cly559exm87o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Dec 2025 18:21:44 GMT",
+        "category": "Top News"
       },
       {
         "title": "Robert Rhodes plotted and killed his wife - years later, his child's evidence convicted him",
@@ -126,7 +145,14 @@
         "category": "Top News"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Analysts flag risks for Strategy at Nasdaq 100 index reshuffle",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693d0dec3c9645d7a5c211bb491647f1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fanalysts-flag-risks-strategy-nasdaqs-100-index-reshuffle-2025-12-12%2f&amp;c=8825143292712314146&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Dec 2025 07:24:00 GMT",
+        "category": "business"
+      }
+    ],
     "markets": []
   }
 }
