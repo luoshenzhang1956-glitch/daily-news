@@ -1,14 +1,7 @@
 {
-  "updated_at": "2025-12-13T03:41:17.278602",
+  "updated_at": "2025-12-13T04:48:37.676251",
   "news": {
-    "ap": [
-      {
-        "title": "Caitlin Clark says CBA negotiations are the \u2018biggest moment in the history of the WNBA\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ce05226124c0db503459d3275f503&amp;url=https%3a%2f%2fapnews.com%2farticle%2fclark-cba-wnba-066e1331d2e12766712ccfc2f92bcb64&amp;c=1870025350462857639&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 11:49:00 GMT",
-        "category": "business"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "One U.S. diplomat describes being laid off amid sweeping cuts",
@@ -73,7 +66,13 @@
     ],
     "bbc": [
       {
-        "title": "Doctor strike during flu outbreak would be 'beyond belief', says Starmer",
+        "title": "Thailand-Cambodia fighting continues after Trump says countries agree to ceasefire",
+        "link": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Dec 2025 03:11:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Doctor strike during flu outbreak would be 'reckless', says Starmer",
         "link": "https://www.bbc.com/news/articles/cvg114jd3gdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 13 Dec 2025 02:20:44 GMT",
         "category": "Top News"
@@ -121,38 +120,13 @@
         "category": "world"
       },
       {
-        "title": "Nobel laureate Narges Mohammadi arrested in Iran, supporters say",
-        "link": "https://www.bbc.com/news/articles/cly559exm87o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Dec 2025 18:21:44 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Robert Rhodes plotted and killed his wife - years later, his child's evidence convicted him",
         "link": "https://www.bbc.com/news/articles/cgl6ewdr2nyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 12 Dec 2025 15:37:55 GMT",
         "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "US seized tanker near Venezuela just as warrant was set to expire, court document shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ce0592b9f4749b279d389d661f82f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-seized-tanker-near-venezuela-just-warrant-was-set-expire-court-document-shows-2025-12-13%2f&amp;c=11439293303175808592&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 17:43:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "European health regulator recommends approval for GSK's twice-yearly asthma drug",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ce05c02c14c9da38a695542d3db68&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2feuropean-health-regulator-recommends-approval-gsks-twice-yearly-asthma-drug-2025-12-12%2f&amp;c=4615582786143472279&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 05:26:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Dutch report calls for $176 billion tech spend, jobless benefit cuts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693ce05bebc1468fa40ba41bcd9b43c4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fdutch-report-calls-176-billion-tech-spend-jobless-benefit-cuts-2025-12-12%2f&amp;c=13150819525566720482&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Dec 2025 04:14:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": []
   }
 }
