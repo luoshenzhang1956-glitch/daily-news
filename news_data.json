@@ -1,14 +1,7 @@
 {
-  "updated_at": "2025-12-14T16:47:48.024858",
+  "updated_at": "2025-12-14T18:52:01.854634",
   "news": {
-    "ap": [
-      {
-        "title": "New Zealand skier Alice Robinson wins World Cup super-G; Lindsey Vonn 4th",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693eea073d374f4188c3d7756b469058&amp;url=https%3a%2f%2fapnews.com%2farticle%2flindsey-vonn-mikaela-shiffrin-skiing-moritz-44ca226ec61fbdf6f2e4b13bb77b54e2&amp;c=11179736667983246246&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 06:47:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Want to hear about a cool job? This New Zealander plays French horn in Antarctica",
@@ -59,8 +52,8 @@
         "category": "Top News"
       },
       {
-        "title": "At least 12 dead, including 1 gunman, in attack on Jewish holiday event on Sydney&apos;s Bondi Beach",
-        "link": "https://www.npr.org/2025/12/14/g-s1-102220/gunmen-kill-people-at-bondi-beach",
+        "title": "At least 12 dead, including 1 gunman, in mass shooting at Hanukkah event on Sydney&apos;s Bondi Beach",
+        "link": "https://www.npr.org/2025/12/14/g-s1-102220/sydney-bondi-beach-hanukkah-shooting",
         "pubDate": "Sun, 14 Dec 2025 06:01:05 -0500",
         "category": "Top News"
       },
@@ -73,27 +66,33 @@
     ],
     "bbc": [
       {
-        "title": "King 'appalled and saddened' by Bondi attack on Jewish community",
-        "link": "https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 15:50:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'It was pandemonium': Jewish community targeted in Australia's deadliest shooting in decades",
-        "link": "https://www.bbc.com/news/articles/c3r711lnr8zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 14:57:34 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'Person of interest' detained over Brown University shooting, police say",
         "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 14:08:37 GMT",
+        "pubDate": "Sun, 14 Dec 2025 18:39:52 GMT",
         "category": "us"
       },
       {
-        "title": "What we know so far about Bondi Beach Hanukkah shooting",
+        "title": "King 'appalled and saddened' by Bondi attack on Jewish community",
+        "link": "https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Dec 2025 17:46:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What we know about Bondi Beach Hanukkah shooting",
         "link": "https://www.bbc.com/news/articles/cqjg22rey0lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 13:41:33 GMT",
+        "pubDate": "Sun, 14 Dec 2025 17:13:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Drone footage shows Bondi Beach gunmen on bridge",
+        "link": "https://www.bbc.com/news/videos/cgl68d8yjwzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Dec 2025 15:45:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'It was pandemonium': Jewish community in shock after deadly Bondi Beach attack",
+        "link": "https://www.bbc.com/news/articles/c3r711lnr8zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Dec 2025 14:57:34 GMT",
         "category": "Top News"
       },
       {
@@ -121,19 +120,74 @@
         "category": "Top News"
       },
       {
-        "title": "Red post box sent to Antarctica - on King's orders",
-        "link": "https://www.bbc.com/news/articles/cdrnnze3mepo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 08:56:39 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'A nightmare' - The battle over Warner Bros is turning Hollywood upside down",
         "link": "https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 14 Dec 2025 00:37:15 GMT",
         "category": "business"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Police hold person of interest after Brown University shooting leaves two dead",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f074fbcac4122b39da44364540c47&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fprovidence-police-detain-person-interest-after-brown-university-shooting-nbc-10-2025-12-14%2f&amp;c=7212772494782250466&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 09:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bears WR Rome Odunze scratched just before kickoff vs. Browns",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f074fbcac4122b39da44364540c47&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbears-wr-rome-odunze-foot-active-vs-browns--flm-2025-12-14%2f&amp;c=15364413334864140855&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 09:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cavs standout Evan Mobley to miss 2-4 weeks with calf strain",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f074fbcac4122b39da44364540c47&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcavs-standout-evan-mobley-miss-2-4-weeks-with-calf-strain--flm-2025-12-14%2f&amp;c=11368021070401283749&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 09:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Gunmen kill 11 at Australia's Bondi Beach Jewish holiday event",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f074fbcac4122b39da44364540c47&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2faustralia-police-responding-after-gunshots-reported-bondi-beach-2025-12-14%2f&amp;c=13683217333314803841&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 08:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chile votes in presidential race expected to lurch country to the right",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f074fbcac4122b39da44364540c47&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fchile-votes-presidential-race-expected-lurch-country-right-2025-12-14%2f&amp;c=10846982512315642476&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 08:30:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bondi Beach shooting: As it happened",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f074fbcac4122b39da44364540c47&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2faustralia-incident-live-media-reports-gunfire-bondi-beach-2025-12-14%2f&amp;c=3151477246458051469&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 08:30:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jimmy Lai's supporters queue in Hong Kong overnight for verdict",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f074fbcac4122b39da44364540c47&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fjimmy-lais-supporters-queue-hong-kong-overnight-verdict-2025-12-14%2f&amp;c=4382204245618226581&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 08:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine's Zelenskiy drops NATO ambition as Berlin peace talks begin",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f074fbcac4122b39da44364540c47&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fzelenskiy-demands-dignified-peace-us-ukraine-officials-meet-berlin-2025-12-14%2f&amp;c=17324047863512278499&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 07:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bystander who tackled armed man at Bondi Beach shooting hailed as hero",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f074fbcac4122b39da44364540c47&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fbystander-who-tackled-armed-man-bondi-beach-shooting-hailed-hero-2025-12-14%2f&amp;c=18391403289395377893&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 06:22:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Insight: How the US freight rail industry got dirtier than coal power plants",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f074fbcac4122b39da44364540c47&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fclimate-energy%2fhow-us-freight-rail-industry-got-dirtier-than-coal-power-plants-2025-12-14%2f&amp;c=15842976942073057&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 02:42:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "markets": []
   }
 }
