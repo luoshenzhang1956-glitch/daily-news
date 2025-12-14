@@ -1,13 +1,32 @@
 {
-  "updated_at": "2025-12-14T20:39:39.819072",
+  "updated_at": "2025-12-14T22:39:28.397686",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Braden Sparks, Brandon Benjamin lead Fairfield over Monmouth 73-65",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f3c96840c41879d14b584dd3ccc55&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbrandon-benjamin-college-basketball-college-sports-mens-college-basketball-fairfield-cf05bbf4c2144adb89fcae05d811539f&amp;c=16395874177371381451&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 14:03:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
-        "title": "Want to hear about a cool job? This New Zealander plays French horn in Antarctica",
-        "link": "https://www.npr.org/2025/12/14/nx-s1-5634469/want-to-hear-about-a-cool-job-this-new-zealander-plays-french-horn-in-antarctica",
-        "pubDate": "Sun, 14 Dec 2025 09:15:00 -0500",
+        "title": "Ukraine&apos;s ceasefire talks hinge on security promises Russia once broke",
+        "link": "https://www.npr.org/2025/12/14/nx-s1-5641097/ukraines-ceasefire-talks-hinge-on-security-promises-russia-once-broke",
+        "pubDate": "Sun, 14 Dec 2025 17:23:08 -0500",
         "category": "world"
+      },
+      {
+        "title": "What we know so far about the Brown University shooting investigation",
+        "link": "https://www.npr.org/2025/12/14/nx-s1-5644099/what-we-know-so-far-about-the-brown-university-shooting-investigation",
+        "pubDate": "Sun, 14 Dec 2025 17:18:06 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Bystander hailed as a hero for disarming Sydney gunman",
+        "link": "https://www.npr.org/2025/12/14/nx-s1-5644092/sydney-bondi-beach-hanukkah-shooting-bystander-video-hero",
+        "pubDate": "Sun, 14 Dec 2025 17:13:04 -0500",
+        "category": "Top News"
       },
       {
         "title": "Car prices hit a record high",
@@ -20,12 +39,6 @@
         "link": "https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina",
         "pubDate": "Sun, 14 Dec 2025 08:23:09 -0500",
         "category": "health"
-      },
-      {
-        "title": "Police say they have arrested a person of interest in yesterday&apos;s Brown University shooting",
-        "link": "https://www.npr.org/2025/12/14/nx-s1-5643609/police-say-they-have-arrested-a-person-of-interest-in-yesterdays-brown-university-shooting",
-        "pubDate": "Sun, 14 Dec 2025 08:01:30 -0500",
-        "category": "us"
       },
       {
         "title": "The cookies that fueled votes for women",
@@ -56,25 +69,37 @@
         "link": "https://www.npr.org/2025/12/14/g-s1-102220/sydney-bondi-beach-hanukkah-shooting",
         "pubDate": "Sun, 14 Dec 2025 06:01:05 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "US envoys arrive in Berlin for latest round of Ukraine peace talks with Zelenskyy",
-        "link": "https://www.npr.org/2025/12/14/g-s1-102218/us-envoys-arrive-in-berlin-for-more-ukraine-peace-talks",
-        "pubDate": "Sun, 14 Dec 2025 05:48:15 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Drone footage shows Bondi Beach gunmen on bridge",
-        "link": "https://www.bbc.com/news/videos/cgl68d8yjwzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 20:24:23 GMT",
+        "title": "'It was pandemonium': Jewish community in shock after deadly Bondi Beach attack",
+        "link": "https://www.bbc.com/news/articles/c3r711lnr8zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Dec 2025 21:56:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What we know about Bondi Beach Hanukkah shooting",
+        "link": "https://www.bbc.com/news/articles/cqjg22rey0lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Dec 2025 21:41:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Everyone says it'll never be me' - Brown University student on surviving two mass shootings",
+        "link": "https://www.bbc.com/news/articles/crrknvqn97no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Dec 2025 21:13:22 GMT",
         "category": "Top News"
       },
       {
         "title": "UK events remember Bondi victims as police step up security in Jewish communities",
         "link": "https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 20:15:13 GMT",
+        "pubDate": "Sun, 14 Dec 2025 20:55:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Drone footage shows Bondi Beach gunmen on bridge",
+        "link": "https://www.bbc.com/news/videos/cgl68d8yjwzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Dec 2025 20:24:23 GMT",
         "category": "Top News"
       },
       {
@@ -84,28 +109,10 @@
         "category": "Top News"
       },
       {
-        "title": "What we know about Bondi Beach Hanukkah shooting",
-        "link": "https://www.bbc.com/news/articles/cqjg22rey0lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 20:03:02 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'Person of interest' detained over Brown University shooting, police say",
         "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 14 Dec 2025 18:39:52 GMT",
         "category": "us"
-      },
-      {
-        "title": "Historic rail bridge collapses into River Spey",
-        "link": "https://www.bbc.com/news/articles/c1m87jlv97ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 17:35:55 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'It was pandemonium': Jewish community in shock after deadly Bondi Beach attack",
-        "link": "https://www.bbc.com/news/articles/c3r711lnr8zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 14:57:34 GMT",
-        "category": "Top News"
       },
       {
         "title": "Violence against women is a national emergency, Mahmood says",
@@ -127,31 +134,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "AI tools could drive $263 billion in holiday sales. Walmart and Target are racing to get in",
-        "link": "https://www.cnbc.com/2025/12/12/ai-chatgpt-holiday-shopping-sales-walmart-target.html",
-        "pubDate": "Sun, 14 Dec 2025 15:53:25 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Top Wall Street analysts are upbeat on these 3 dividend stocks for enhanced returns",
-        "link": "https://www.cnbc.com/2025/12/14/top-wall-street-analysts-are-upbeat-on-these-3-dividend-stocks-for-enhanced-returns.html",
-        "pubDate": "Sun, 14 Dec 2025 12:56:25 GMT",
-        "category": "us"
-      },
-      {
-        "title": "U.S.-China soybean tussle reveals Beijing\u2019s food security strategy. Goldman Sachs on how to invest",
-        "link": "https://www.cnbc.com/2025/12/14/us-china-soybeans-reveals-food-security-goals-goldman-sachs-plays.html",
-        "pubDate": "Sun, 14 Dec 2025 12:53:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Global week ahead: Europe under fire",
-        "link": "https://www.cnbc.com/2025/12/14/global-week-ahead-europe-under-fire.html",
-        "pubDate": "Sun, 14 Dec 2025 07:07:22 GMT",
-        "category": "world"
-      }
-    ]
+    "markets": []
   }
 }
