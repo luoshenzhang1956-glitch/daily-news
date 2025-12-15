@@ -1,19 +1,25 @@
 {
-  "updated_at": "2025-12-15T10:57:28.481210",
+  "updated_at": "2025-12-15T13:56:00.489914",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2025/12/15/nx-s1-5637215/morning-news-brief",
-        "pubDate": "Mon, 15 Dec 2025 05:09:49 -0500",
+        "title": "15 killed in mass shooting in Sydney. And, Rob Reiner and his wife found dead",
+        "link": "https://www.npr.org/2025/12/15/g-s1-102270/up-first-newsletter-hanukkah-sydney-bondi-beach-brown-university-shooting-rob-michele-reiner",
+        "pubDate": "Mon, 15 Dec 2025 07:12:46 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Police to release &apos;person of interest&apos; in Brown University mass shooting",
+        "link": "https://www.npr.org/2025/12/15/nx-s1-5644119/police-to-release-person-of-interest-in-brown-university-mass-shooting",
+        "pubDate": "Mon, 15 Dec 2025 06:53:57 -0500",
         "category": "us"
       },
       {
-        "title": "Ukrainian president to meet with U.S. envoys in Berlin to continue peace talks",
-        "link": "https://www.npr.org/2025/12/15/nx-s1-5642536/ukrainian-president-to-meet-with-u-s-envoys-in-berlin-to-continue-peace-talks",
-        "pubDate": "Mon, 15 Dec 2025 05:09:44 -0500",
-        "category": "world"
+        "title": "Hollywood pays tribute to filmmaker Rob Reiner and wife Michele",
+        "link": "https://www.npr.org/2025/12/15/g-s1-102262/rob-reiner-wife-found-dead-in-los-angeles",
+        "pubDate": "Mon, 15 Dec 2025 05:58:44 -0500",
+        "category": "Top News"
       },
       {
         "title": "FDA commissioner on public&apos;s growing mistrust in the government&apos;s health advice",
@@ -22,14 +28,14 @@
         "category": "health"
       },
       {
-        "title": "Houses floated away in this Alaska Native village. Now residents want to move",
-        "link": "https://www.npr.org/2025/12/15/nx-s1-5596136/alaska-storm-native-climate-change",
+        "title": "For Americans, the love for chain restaurants runs deep",
+        "link": "https://www.npr.org/2025/12/15/nx-s1-5598325/chain-restaurants-nostalgia",
         "pubDate": "Mon, 15 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
       {
-        "title": "For Americans, the love for chain restaurants runs deep",
-        "link": "https://www.npr.org/2025/12/15/nx-s1-5598325/chain-restaurants-nostalgia",
+        "title": "Houses floated away in this Alaska Native village. Now residents want to move",
+        "link": "https://www.npr.org/2025/12/15/nx-s1-5596136/alaska-storm-native-climate-change",
         "pubDate": "Mon, 15 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
@@ -40,7 +46,7 @@
         "category": "Top News"
       },
       {
-        "title": "Hong Kong court convicts pro-democracy activist and mogul\u00a0Jimmy\u00a0Lai",
+        "title": "Hong Kong court convicts pro-democracy activist and mogul Jimmy Lai",
         "link": "https://www.npr.org/2025/12/15/nx-s1-5642545/hong-kong-pro-democracy-activist-jimmy-lai-sentenced",
         "pubDate": "Mon, 15 Dec 2025 02:54:51 -0500",
         "category": "Top News"
@@ -52,54 +58,60 @@
         "category": "Top News"
       },
       {
-        "title": "Car prices hit a record high",
-        "link": "https://www.npr.org/2025/12/14/nx-s1-5639955/car-prices-hit-a-record-high",
-        "pubDate": "Sun, 14 Dec 2025 08:39:59 -0500",
-        "category": "business"
-      },
-      {
-        "title": "On online prediction markets, people place bets on the outcomes of real-life wars",
-        "link": "https://www.npr.org/2025/12/14/nx-s1-5640035/on-online-prediction-markets-people-place-bets-on-the-outcomes-of-real-life-wars",
-        "pubDate": "Sun, 14 Dec 2025 08:01:13 -0500",
-        "category": "tech"
+        "title": "Gunman remains at large two days after deadly shooting at Brown University",
+        "link": "https://www.npr.org/2025/12/14/nx-s1-5644153/brown-university-shooting-man-identified",
+        "pubDate": "Sun, 14 Dec 2025 20:19:55 -0500",
+        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
+        "link": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 13:52:12 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Doctors vote to go ahead with this week's five-day strike in England",
+        "link": "https://www.bbc.com/news/articles/c246dnyjylqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 13:25:16 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Resident doctors vote to go ahead with strike in England as hospitals battle flu wave",
+        "link": "https://www.bbc.com/news/articles/c246dnyjylqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 13:25:16 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?",
         "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 10:53:25 GMT",
+        "pubDate": "Mon, 15 Dec 2025 13:22:57 GMT",
         "category": "world"
+      },
+      {
+        "title": "'We don't blame dad for killing mum, he was ill'",
+        "link": "https://www.bbc.com/news/articles/c87l4nrvrdvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 12:33:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Airbnb fined \u00a356m by Spain for advertising unlicensed properties",
+        "link": "https://www.bbc.com/news/articles/cgke2x6vz66o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 12:14:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'I've grown up in fear': Jewish Australians say rising antisemitism made attack predictable",
+        "link": "https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 11:28:37 GMT",
+        "category": "Top News"
       },
       {
         "title": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
         "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 10:15:58 GMT",
+        "pubDate": "Mon, 15 Dec 2025 11:23:44 GMT",
         "category": "us"
-      },
-      {
-        "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
-        "link": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 10:15:23 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Sir Cliff Richard reveals prostate cancer treatment",
-        "link": "https://www.bbc.com/news/articles/c5yj6m0g2vyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 08:13:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pro-democracy Hong Kong tycoon Jimmy Lai convicted in high-profile national security trial",
-        "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 08:03:55 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'More victims in NHS child abuse probe' - police",
-        "link": "https://www.bbc.com/news/articles/cm2083j0q07o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 06:03:27 GMT",
-        "category": "health"
       },
       {
         "title": "'Throw the parcel at the door' - Evri couriers cutting corners to earn a decent wage",
@@ -108,37 +120,56 @@
         "category": "business"
       },
       {
-        "title": "Can I just check - are my emails holding me back at work?!",
-        "link": "https://www.bbc.com/news/articles/cvg118dqj2no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 00:38:09 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "What it would take to stop Putin fighting in Ukraine",
         "link": "https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 15 Dec 2025 00:21:59 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "How shooting unfolded minute by minute",
-        "link": "https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 00:02:53 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Roomba maker iRobot files for bankruptcy, pursues manufacturer buyout",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69401363f2bf4c4fb24e33e986ebc135&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2firobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15%2f&amp;c=12566138297675963174&amp;mkt=en-us",
+        "pubDate": "Mon, 15 Dec 2025 04:13:00 GMT",
+        "category": "tech"
+      }
+    ],
     "markets": [
       {
-        "title": "AI tools could drive $263 billion in holiday sales. Walmart and Target are racing to get in",
-        "link": "https://www.cnbc.com/2025/12/12/ai-chatgpt-holiday-shopping-sales-walmart-target.html",
-        "pubDate": "Sun, 14 Dec 2025 15:53:25 GMT",
-        "category": "business"
+        "title": "Palantir CIO Jim Siders leaves to become head of Thrive Capital&apos;s new IT services business",
+        "link": "https://www.cnbc.com/2025/12/15/palantir-cio-jim-siders-leaves-for-thrive-capitals-shield-technology.html",
+        "pubDate": "Mon, 15 Dec 2025 13:30:01 GMT",
+        "category": "tech"
       },
       {
-        "title": "U.S.-China soybean tussle reveals Beijing\u2019s food security strategy. Goldman Sachs on how to invest",
-        "link": "https://www.cnbc.com/2025/12/14/us-china-soybeans-reveals-food-security-goals-goldman-sachs-plays.html",
-        "pubDate": "Sun, 14 Dec 2025 12:53:30 GMT",
+        "title": "FDA approved a $250,000 Singapore work trip during government shutdown, records show",
+        "link": "https://www.cnbc.com/2025/12/15/fda-staff-trip-singapore-government-shutdown.html",
+        "pubDate": "Mon, 15 Dec 2025 13:00:01 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: iRobot, Las Vegas Sands, Tilray &amp; more",
+        "link": "https://www.cnbc.com/2025/12/15/stocks-making-the-biggest-moves-premarket-irbt-lvs-tlry.html",
+        "pubDate": "Mon, 15 Dec 2025 12:50:38 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "This casino stock is beating the market in 2025. Why Goldman thinks the new year will bring more gains",
+        "link": "https://www.cnbc.com/2025/12/15/this-casino-stock-is-beating-the-market-goldman-sachs-says-more-gains-to-come.html",
+        "pubDate": "Mon, 15 Dec 2025 12:39:50 GMT",
+        "category": "us"
+      },
+      {
+        "title": "European defense stocks slide as Zelenskyy ditches Ukraine NATO membership bid",
+        "link": "https://www.cnbc.com/2025/12/15/european-defense-stocks-slide-as-zelenskyy-ditches-ukraine-nato-bid.html",
+        "pubDate": "Mon, 15 Dec 2025 11:57:41 GMT",
+        "category": "world"
+      },
+      {
+        "title": "&apos;Stranger Things&apos; ushered in a new era for Netflix",
+        "link": "https://www.cnbc.com/2025/12/13/stranger-things-netflix.html",
+        "pubDate": "Mon, 15 Dec 2025 11:13:35 GMT",
+        "category": "business"
       }
     ]
   }
