@@ -1,20 +1,7 @@
 {
-  "updated_at": "2025-12-15T05:03:17.408699",
+  "updated_at": "2025-12-15T07:04:07.597948",
   "news": {
-    "ap": [
-      {
-        "title": "Zelenskyy offers to drop NATO bid for security guarantees but rejects US push to cede territory",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f966e77ad489da2e69d9b72067595&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussia-ukraine-war-berlin-talks-zelenskyy-05c363add7a4a3583f3beada7b1fb775&amp;c=7850977121426339760&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 18:05:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Like many holiday traditions, lighting candles and fireplaces is best done in moderation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693f966ed49948b998de7e7c9de9ec30&amp;url=https%3a%2f%2fapnews.com%2farticle%2fholiday-scents-candles-air-quality-a2d8835990ac954da6e8a4f32ff2261d&amp;c=694931886799567125&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 08:11:00 GMT",
-        "category": "business"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Deadly attack on Bondi Beach follows rise in antisemitic incidents in Australia",
@@ -79,15 +66,51 @@
     ],
     "bbc": [
       {
-        "title": "LA police investigate 'apparent homicide' at Rob Reiner's home",
+        "title": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
         "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 04:45:46 GMT",
+        "pubDate": "Mon, 15 Dec 2025 07:01:44 GMT",
         "category": "Top News"
       },
       {
-        "title": "'Hero' who wrestled gun from Bondi shooter named as Ahmed al Ahmed",
-        "link": "https://www.bbc.com/news/articles/ce3wkey5p33o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 00:45:41 GMT",
+        "title": "Roomba vacuum cleaner firm files for bankruptcy",
+        "link": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 06:57:41 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?",
+        "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 06:51:01 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces",
+        "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 06:41:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Throw the parcel at the back door' - Evri couriers tell of pressure to earn a decent wage",
+        "link": "https://www.bbc.com/news/articles/ceq107yxxjyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 06:01:35 GMT",
+        "category": "business"
+      },
+      {
+        "title": "'Person of interest' detained over Brown University shooting to be released, officials say",
+        "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 05:33:08 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Can I just check - are my emails holding me back at work?! Xx",
+        "link": "https://www.bbc.com/news/articles/cvg118dqj2no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 00:38:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The difficult question of what it would take to stop Putin fighting in Ukraine",
+        "link": "https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 00:21:59 GMT",
         "category": "Top News"
       },
       {
@@ -97,60 +120,37 @@
         "category": "Top News"
       },
       {
-        "title": "'Person of interest' detained over Brown University shooting, police say",
-        "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 00:14:27 GMT",
-        "category": "us"
-      },
-      {
         "title": "How Bondi Beach shooting unfolded minute by minute",
         "link": "https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 15 Dec 2025 00:02:53 GMT",
         "category": "Top News"
+      }
+    ],
+    "reuters": [
+      {
+        "title": "Australia plans tougher gun laws after father and son kill 15 at Bondi Beach",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fb2b73c7c4b86af7bc6b9ca5c71eb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdeath-toll-climbs-16-after-mass-shooting-sydneys-bondi-beach-2025-12-14%2f&amp;c=8098360862283879711&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 21:20:00 GMT",
+        "category": "health"
       },
       {
-        "title": "'It was pandemonium': Jewish community in shock after deadly Bondi Beach attack",
-        "link": "https://www.bbc.com/news/articles/c3r711lnr8zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 21:56:31 GMT",
-        "category": "Top News"
+        "title": "US security experts say Ukraine's abandonment of NATO goal will not alter peace talks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fb2a1104c43c296ab789abc222d3e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-security-experts-say-ukraines-abandonment-nato-goal-will-not-alter-peace-2025-12-14%2f&amp;c=14454647404016117493&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 20:56:00 GMT",
+        "category": "us"
       },
       {
-        "title": "What we know about Bondi Beach Hanukkah shooting",
-        "link": "https://www.bbc.com/news/articles/cqjg22rey0lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 21:41:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK events remember Bondi victims as police step up security in Jewish communities",
-        "link": "https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 20:55:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Eyewitness captures moment man tackles and disarms Bondi shooter",
-        "link": "https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 11:24:21 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Train timetable revamp takes effect with more services promised",
-        "link": "https://www.bbc.com/news/articles/cd9zek4e493o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Dec 2025 10:54:54 GMT",
+        "title": "Japan business mood hits 4-year high, keeps BOJ rate-hike view alive",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fb2a4e48d4cd19dc5c98cb0a81860&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapan-business-mood-hits-4-year-high-keeps-boj-rate-hike-view-alive-2025-12-15%2f&amp;c=4286462087495932399&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Dec 2025 15:17:00 GMT",
         "category": "business"
       }
     ],
-    "reuters": [],
     "markets": [
-      {
-        "title": "China&apos;s retail sales growth sharply misses estimates in November, deepening consumption worries",
-        "link": "https://www.cnbc.com/2025/12/15/chinas-november-retail-sales-industrial-production-fixed-asset-investment.html",
-        "pubDate": "Mon, 15 Dec 2025 03:45:59 GMT",
-        "category": "world"
-      },
       {
         "title": "CNBC Daily Open: Investors sell off tech despite steady Broadcom numbers",
         "link": "https://www.cnbc.com/2025/12/15/cnbc-daily-open-investors-sell-off-tech-despite-steady-broadcom-numbers.html",
-        "pubDate": "Mon, 15 Dec 2025 01:25:09 GMT",
+        "pubDate": "Mon, 15 Dec 2025 07:02:30 GMT",
         "category": "tech"
       },
       {
@@ -158,18 +158,6 @@
         "link": "https://www.cnbc.com/2025/12/12/ai-chatgpt-holiday-shopping-sales-walmart-target.html",
         "pubDate": "Sun, 14 Dec 2025 15:53:25 GMT",
         "category": "business"
-      },
-      {
-        "title": "Top Wall Street analysts are upbeat on these 3 dividend stocks for enhanced returns",
-        "link": "https://www.cnbc.com/2025/12/14/top-wall-street-analysts-are-upbeat-on-these-3-dividend-stocks-for-enhanced-returns.html",
-        "pubDate": "Sun, 14 Dec 2025 12:56:25 GMT",
-        "category": "us"
-      },
-      {
-        "title": "U.S.-China soybean tussle reveals Beijing\u2019s food security strategy. Goldman Sachs on how to invest",
-        "link": "https://www.cnbc.com/2025/12/14/us-china-soybeans-reveals-food-security-goals-goldman-sachs-plays.html",
-        "pubDate": "Sun, 14 Dec 2025 12:53:30 GMT",
-        "category": "Top News"
       }
     ]
   }
