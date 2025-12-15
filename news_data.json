@@ -1,7 +1,14 @@
 {
-  "updated_at": "2025-12-15T13:56:00.489914",
+  "updated_at": "2025-12-15T14:59:35.427192",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Spain fines Airbnb $75 million for unlicensed tourist rentals",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694021d1fe574a5ebe97fafe093daf94&amp;url=https%3a%2f%2fapnews.com%2farticle%2fspain-airbnb-fine-overtourism-crackdown-fa2bdc048a63aa5632f2c59373b70b46&amp;c=5697420223215034579&amp;mkt=en-us",
+        "pubDate": "Mon, 15 Dec 2025 06:12:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
       {
         "title": "15 killed in mass shooting in Sydney. And, Rob Reiner and his wife found dead",
@@ -66,6 +73,18 @@
     ],
     "bbc": [
       {
+        "title": "Airbnb fined \u00a356m by Spain for advertising unlicensed properties",
+        "link": "https://www.bbc.com/news/articles/cgke2x6vz66o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 14:19:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What to delete from your emails to be taken more seriously at work",
+        "link": "https://www.bbc.com/news/articles/cvg118dqj2no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 13:53:45 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
         "link": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 15 Dec 2025 13:52:12 GMT",
@@ -90,21 +109,9 @@
         "category": "world"
       },
       {
-        "title": "'We don't blame dad for killing mum, he was ill'",
-        "link": "https://www.bbc.com/news/articles/c87l4nrvrdvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 12:33:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Airbnb fined \u00a356m by Spain for advertising unlicensed properties",
-        "link": "https://www.bbc.com/news/articles/cgke2x6vz66o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 12:14:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'I've grown up in fear': Jewish Australians say rising antisemitism made attack predictable",
-        "link": "https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 11:28:37 GMT",
+        "title": "Kylie leads three-way race for Christmas number one",
+        "link": "https://www.bbc.com/news/articles/cm20rl4j1nmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 11:26:46 GMT",
         "category": "Top News"
       },
       {
@@ -114,7 +121,7 @@
         "category": "us"
       },
       {
-        "title": "'Throw the parcel at the door' - Evri couriers cutting corners to earn a decent wage",
+        "title": "'Throw the parcel at the door' - Evri couriers cutting corners to earn a better wage",
         "link": "https://www.bbc.com/news/articles/ceq107yxxjyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 15 Dec 2025 06:01:35 GMT",
         "category": "business"
@@ -126,20 +133,13 @@
         "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "Roomba maker iRobot files for bankruptcy, pursues manufacturer buyout",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69401363f2bf4c4fb24e33e986ebc135&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2firobot-enters-chapter-11-lender-acquire-roomba-maker-2025-12-15%2f&amp;c=12566138297675963174&amp;mkt=en-us",
-        "pubDate": "Mon, 15 Dec 2025 04:13:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Palantir CIO Jim Siders leaves to become head of Thrive Capital&apos;s new IT services business",
-        "link": "https://www.cnbc.com/2025/12/15/palantir-cio-jim-siders-leaves-for-thrive-capitals-shield-technology.html",
-        "pubDate": "Mon, 15 Dec 2025 13:30:01 GMT",
-        "category": "tech"
+        "title": "European defense stocks slide as Zelenskyy ditches Ukraine NATO membership bid",
+        "link": "https://www.cnbc.com/2025/12/15/european-defense-stocks-slide-as-zelenskyy-ditches-ukraine-nato-bid.html",
+        "pubDate": "Mon, 15 Dec 2025 14:53:22 GMT",
+        "category": "world"
       },
       {
         "title": "FDA approved a $250,000 Singapore work trip during government shutdown, records show",
@@ -152,24 +152,6 @@
         "link": "https://www.cnbc.com/2025/12/15/stocks-making-the-biggest-moves-premarket-irbt-lvs-tlry.html",
         "pubDate": "Mon, 15 Dec 2025 12:50:38 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "This casino stock is beating the market in 2025. Why Goldman thinks the new year will bring more gains",
-        "link": "https://www.cnbc.com/2025/12/15/this-casino-stock-is-beating-the-market-goldman-sachs-says-more-gains-to-come.html",
-        "pubDate": "Mon, 15 Dec 2025 12:39:50 GMT",
-        "category": "us"
-      },
-      {
-        "title": "European defense stocks slide as Zelenskyy ditches Ukraine NATO membership bid",
-        "link": "https://www.cnbc.com/2025/12/15/european-defense-stocks-slide-as-zelenskyy-ditches-ukraine-nato-bid.html",
-        "pubDate": "Mon, 15 Dec 2025 11:57:41 GMT",
-        "category": "world"
-      },
-      {
-        "title": "&apos;Stranger Things&apos; ushered in a new era for Netflix",
-        "link": "https://www.cnbc.com/2025/12/13/stranger-things-netflix.html",
-        "pubDate": "Mon, 15 Dec 2025 11:13:35 GMT",
-        "category": "business"
       }
     ]
   }
