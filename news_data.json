@@ -1,13 +1,49 @@
 {
-  "updated_at": "2025-12-15T09:03:15.332462",
+  "updated_at": "2025-12-15T10:57:28.481210",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "Hong Kong pro-democracy activist and mogul Jimmy Lai sentenced",
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2025/12/15/nx-s1-5637215/morning-news-brief",
+        "pubDate": "Mon, 15 Dec 2025 05:09:49 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Ukrainian president to meet with U.S. envoys in Berlin to continue peace talks",
+        "link": "https://www.npr.org/2025/12/15/nx-s1-5642536/ukrainian-president-to-meet-with-u-s-envoys-in-berlin-to-continue-peace-talks",
+        "pubDate": "Mon, 15 Dec 2025 05:09:44 -0500",
+        "category": "world"
+      },
+      {
+        "title": "FDA commissioner on public&apos;s growing mistrust in the government&apos;s health advice",
+        "link": "https://www.npr.org/2025/12/15/nx-s1-5642516/fda-commissioner-on-publics-growing-mistrust-in-the-governments-health-advice",
+        "pubDate": "Mon, 15 Dec 2025 05:08:38 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Houses floated away in this Alaska Native village. Now residents want to move",
+        "link": "https://www.npr.org/2025/12/15/nx-s1-5596136/alaska-storm-native-climate-change",
+        "pubDate": "Mon, 15 Dec 2025 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "For Americans, the love for chain restaurants runs deep",
+        "link": "https://www.npr.org/2025/12/15/nx-s1-5598325/chain-restaurants-nostalgia",
+        "pubDate": "Mon, 15 Dec 2025 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "What&apos;s behind the wellness claims for the synthetic dye methylene blue?",
+        "link": "https://www.npr.org/2025/12/15/nx-s1-5634680/methylene-blue-supplement-safety",
+        "pubDate": "Mon, 15 Dec 2025 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Hong Kong court convicts pro-democracy activist and mogul\u00a0Jimmy\u00a0Lai",
         "link": "https://www.npr.org/2025/12/15/nx-s1-5642545/hong-kong-pro-democracy-activist-jimmy-lai-sentenced",
         "pubDate": "Mon, 15 Dec 2025 02:54:51 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Deadly attack on Bondi Beach follows rise in antisemitic incidents in Australia",
@@ -16,46 +52,10 @@
         "category": "Top News"
       },
       {
-        "title": "What to know about the Brown University shooting",
-        "link": "https://www.npr.org/2025/12/14/nx-s1-5644153/brown-university-shooting-man-identified",
-        "pubDate": "Sun, 14 Dec 2025 20:19:55 -0500",
-        "category": "us"
-      },
-      {
-        "title": "Chile shifts sharply right as Jos\u00e9 Antonio Kast wins Presidency",
-        "link": "https://www.npr.org/2025/12/14/nx-s1-5644074/chile-kast-right",
-        "pubDate": "Sun, 14 Dec 2025 19:18:14 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "What we know so far about the Brown University shooting investigation",
-        "link": "https://www.npr.org/2025/12/14/nx-s1-5644099/what-we-know-so-far-about-the-brown-university-shooting-investigation",
-        "pubDate": "Sun, 14 Dec 2025 17:18:06 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Bystander hailed as a hero for disarming Sydney gunman",
-        "link": "https://www.npr.org/2025/12/14/nx-s1-5644092/sydney-bondi-beach-hanukkah-shooting-bystander-video-hero",
-        "pubDate": "Sun, 14 Dec 2025 17:13:04 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Car prices hit a record high",
         "link": "https://www.npr.org/2025/12/14/nx-s1-5639955/car-prices-hit-a-record-high",
         "pubDate": "Sun, 14 Dec 2025 08:39:59 -0500",
         "category": "business"
-      },
-      {
-        "title": "Measles cases spike in South Carolina",
-        "link": "https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina",
-        "pubDate": "Sun, 14 Dec 2025 08:23:09 -0500",
-        "category": "health"
-      },
-      {
-        "title": "The cookies that fueled votes for women",
-        "link": "https://www.npr.org/2025/12/14/nx-s1-5640107/the-cookies-that-fueled-votes-for-women",
-        "pubDate": "Sun, 14 Dec 2025 08:01:26 -0500",
-        "category": "Top News"
       },
       {
         "title": "On online prediction markets, people place bets on the outcomes of real-life wars",
@@ -66,34 +66,34 @@
     ],
     "bbc": [
       {
+        "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?",
+        "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 10:53:25 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
+        "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 10:15:58 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
+        "link": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Dec 2025 10:15:23 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Sir Cliff Richard reveals prostate cancer treatment",
         "link": "https://www.bbc.com/news/articles/c5yj6m0g2vyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 15 Dec 2025 08:13:22 GMT",
         "category": "Top News"
       },
       {
-        "title": "Pro-democracy Hong Kong tycoon Jimmy Lai convicted in landmark national security trial",
+        "title": "Pro-democracy Hong Kong tycoon Jimmy Lai convicted in high-profile national security trial",
         "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 15 Dec 2025 08:03:55 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?",
-        "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 07:59:36 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Roomba vacuum cleaner firm files for bankruptcy",
-        "link": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 07:47:31 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
-        "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Dec 2025 07:31:32 GMT",
-        "category": "us"
       },
       {
         "title": "'More victims in NHS child abuse probe' - police",
@@ -114,7 +114,7 @@
         "category": "Top News"
       },
       {
-        "title": "The difficult question of what it would take to stop Putin fighting in Ukraine",
+        "title": "What it would take to stop Putin fighting in Ukraine",
         "link": "https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 15 Dec 2025 00:21:59 GMT",
         "category": "Top News"
@@ -126,86 +126,13 @@
         "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "Weed stocks higher in Europe as Trump seen pushing looser rules",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fce70f99c46ac839fb82200bef755&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fweed-stocks-higher-europe-trump-seen-pushing-looser-rules-2025-12-15%2f&amp;c=12248633591586317605&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 23:39:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Acciona Energia to sell assets to MIP in US and Mexico for $1 billion",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fce7d673548ab8cc2a8bfa73acd87&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2facciona-energia-sell-assets-mip-us-mexico-1-billion-2025-12-15%2f&amp;c=13174344680811781065&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 23:32:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Korea Zinc to build $7.4 bln smelter in US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fce70f99c46ac839fb82200bef755&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fkorea-zinc-build-74-bln-smelter-us-2025-12-15%2f&amp;c=16706465247406210995&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 23:32:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: 'For all I know, she could be dead' says son of Myanmar's Suu Kyi",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fcea3cbf94091872fea5857a152c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ffor-all-i-know-she-could-be-dead-says-son-myanmars-suu-kyi-2025-12-15%2f&amp;c=8561663849607920055&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 23:04:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Neighbours of alleged Bondi gunmen shocked by deadly rampage",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fce70f99c46ac839fb82200bef755&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fneighbours-alleged-bondi-gunmen-shocked-by-deadly-rampage-2025-12-15%2f&amp;c=17823723695370421865&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 22:41:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Australia PM Albanese faces Israel pressure after Bondi Beach attack",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fce70f99c46ac839fb82200bef755&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2faustralia-pm-albanese-faces-israel-pressure-after-bondi-beach-attack-2025-12-15%2f&amp;c=9173189691395499285&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 22:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "STMicro has shipped 5 billion chips for Starlink in past decade; that could double by 2027",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fce70f99c46ac839fb82200bef755&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fstmicro-has-shipped-5-billion-chips-starlink-past-decade-that-could-double-by-2025-12-15%2f&amp;c=10004397829602716688&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 22:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK MI6 spy chief warns of 'aggressive' Russia threat in first speech",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fce70f99c46ac839fb82200bef755&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fuk-mi6-spy-chief-warns-aggressive-russia-threat-first-speech-2025-12-15%2f&amp;c=16166875049835488249&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 21:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Morning Bid: China's property pain sours year-end mood",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fce70f99c46ac839fb82200bef755&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-view-europe-2025-12-15%2f&amp;c=18017750010220486304&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 20:36:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Police to release man detained over Brown University mass shooting",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=693fce70f99c46ac839fb82200bef755&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fprovidence-police-detain-person-interest-after-brown-university-shooting-nbc-10-2025-12-14%2f&amp;c=7212772494782250466&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Dec 2025 20:04:00 GMT",
-        "category": "Top News"
-      }
-    ],
+    "reuters": [],
     "markets": [
-      {
-        "title": "CNBC Daily Open: U.S. stocks retreat from highs as Broadcom leads tech sell-off",
-        "link": "https://www.cnbc.com/2025/12/15/cnbc-daily-open-us-stocks-retreat-from-highs-as-broadcom-leads-tech-sell-off.html",
-        "pubDate": "Mon, 15 Dec 2025 07:30:01 GMT",
-        "category": "tech"
-      },
       {
         "title": "AI tools could drive $263 billion in holiday sales. Walmart and Target are racing to get in",
         "link": "https://www.cnbc.com/2025/12/12/ai-chatgpt-holiday-shopping-sales-walmart-target.html",
         "pubDate": "Sun, 14 Dec 2025 15:53:25 GMT",
         "category": "business"
-      },
-      {
-        "title": "Top Wall Street analysts are upbeat on these 3 dividend stocks for enhanced returns",
-        "link": "https://www.cnbc.com/2025/12/14/top-wall-street-analysts-are-upbeat-on-these-3-dividend-stocks-for-enhanced-returns.html",
-        "pubDate": "Sun, 14 Dec 2025 12:56:25 GMT",
-        "category": "us"
       },
       {
         "title": "U.S.-China soybean tussle reveals Beijing\u2019s food security strategy. Goldman Sachs on how to invest",
