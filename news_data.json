@@ -1,15 +1,14 @@
 {
-  "updated_at": "2025-12-16T13:53:53.554192",
+  "updated_at": "2025-12-16T14:58:23.424366",
   "news": {
-    "ap": [
-      {
-        "title": "LED technology brings strawberries to Christmas table in UK",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69416432363d4120beb7c8564683b953&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fled-technology-brings-strawberries-to-christmas-table-in-uk-df95bf8e927c4de4be9811e8c6ceac3a&amp;c=10158872873541899306&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Dec 2025 00:56:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing",
+        "link": "https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market",
+        "pubDate": "Tue, 16 Dec 2025 09:01:09 -0500",
+        "category": "business"
+      },
       {
         "title": "Rob Reiner&apos;s son Nick arrested. And, Brown University shooting suspect image released",
         "link": "https://www.npr.org/2025/12/16/g-s1-102417/up-first-newsletter-rob-reiner-michele-nick-brown-shooting-bondi-beach-shooting",
@@ -26,19 +25,13 @@
         "title": "The Warner Bros. Curse",
         "link": "https://www.npr.org/sections/planet-money/2025/12/16/g-s1-102314/the-warner-bros-curse",
         "pubDate": "Tue, 16 Dec 2025 06:30:00 -0500",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Teachers are using software to see if students used AI. What happens when it&apos;s wrong?",
         "link": "https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students",
         "pubDate": "Tue, 16 Dec 2025 05:00:00 -0500",
         "category": "tech"
-      },
-      {
-        "title": "Built to spill: The life of a crash test dummy",
-        "link": "https://www.npr.org/2025/12/16/nx-s1-5556934/crash-test-dummy-manufacturing",
-        "pubDate": "Tue, 16 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
       },
       {
         "title": "Republicans are divided on Afghan immigrant policy after the National Guard shooting",
@@ -53,15 +46,15 @@
         "category": "Top News"
       },
       {
-        "title": "Mahmood Mamdani on how Uganda&apos;s history shaped his belonging \u2014 and his son&apos;s moment",
-        "link": "https://www.npr.org/2025/12/16/nx-s1-5600099/mahmood-mamdani-father-zohran-uganda-new-york",
+        "title": "Built to spill: The life of a crash test dummy",
+        "link": "https://www.npr.org/2025/12/16/nx-s1-5556934/crash-test-dummy-manufacturing",
         "pubDate": "Tue, 16 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2025/12/16/nx-s1-5637216/morning-news-brief",
-        "pubDate": "Tue, 16 Dec 2025 04:30:08 -0500",
+        "title": "Mahmood Mamdani on how Uganda&apos;s history shaped his belonging \u2014 and his son&apos;s moment",
+        "link": "https://www.npr.org/2025/12/16/nx-s1-5600099/mahmood-mamdani-father-zohran-uganda-new-york",
+        "pubDate": "Tue, 16 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
       {
@@ -72,6 +65,18 @@
       }
     ],
     "bbc": [
+      {
+        "title": "BBC says it will defend Trump defamation lawsuit over Panorama speech edit",
+        "link": "https://www.bbc.com/news/articles/cpvd81470v1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 14:45:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Foreign interference in UK politics to be investigated after jailing of ex-Welsh Reform leader",
+        "link": "https://www.bbc.com/news/articles/c87l5nq93wno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 14:29:45 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Negotiations over US-UK tech deal stall",
         "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&amp;at_campaign=rss",
@@ -85,9 +90,9 @@
         "category": "Top News"
       },
       {
-        "title": "Thousands of drivers wrongly fined for speeding since 2021",
-        "link": "https://www.bbc.com/news/articles/c70rk80p9eqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 13:04:48 GMT",
+        "title": "I stopped Paul Doyle from ploughing car into more Liverpool fans - but I'm not a hero",
+        "link": "https://www.bbc.com/news/articles/cd0kyr880mvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 13:14:36 GMT",
         "category": "Top News"
       },
       {
@@ -115,56 +120,61 @@
         "category": "health"
       },
       {
-        "title": "BBC says it will defend Trump defamation lawsuit over Panorama speech edit",
-        "link": "https://www.bbc.com/news/articles/cpvd81470v1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 11:08:41 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
         "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Dec 2025 11:07:53 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Trump repeats criticism of killed Hollywood director Rob Reiner",
-        "link": "https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 09:49:57 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "World Bank, Vakifbank to mobilise up to $1.7 billion for Turkey's small businesses",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941643d4e144f7c828ed8c771c29ff4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fworld-bank-vakifbank-mobilise-up-17-billion-turkeys-small-businesses-2025-12-16%2f&amp;c=5043381064008408158&amp;mkt=en-us",
-        "pubDate": "Mon, 15 Dec 2025 22:54:00 GMT",
-        "category": "world"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Jobs data, Tesla&apos;s rally, tariff revenue hits $200 billion and more in Morning Squawk",
-        "link": "https://www.cnbc.com/2025/12/16/5-things-to-know-before-the-stock-market-opens.html",
-        "pubDate": "Tue, 16 Dec 2025 13:48:18 GMT",
+        "title": "Databricks raises capital at $134 billion valuation in latest funding round",
+        "link": "https://www.cnbc.com/2025/12/16/databricks-funding-valuation.html",
+        "pubDate": "Tue, 16 Dec 2025 14:57:29 GMT",
         "category": "tech"
       },
       {
-        "title": "Bank of America says this hotel stock will be a winner because of the World Cup",
-        "link": "https://www.cnbc.com/2025/12/16/bank-of-america-says-this-hotel-stock-will-be-a-winner-because-of-the-world-cup.html",
-        "pubDate": "Tue, 16 Dec 2025 12:55:05 GMT",
-        "category": "us"
+        "title": "Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon",
+        "link": "https://www.cnbc.com/2025/12/16/slope-sam-altman-jpmorgan-amazon.html",
+        "pubDate": "Tue, 16 Dec 2025 14:56:19 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Consumers are feeling gloomy about the economy. Here&apos;s why they&apos;re spending anyway",
-        "link": "https://www.cnbc.com/2025/12/16/consumer-sentiment-retail-sales-holiday-walmart-tjx.html",
-        "pubDate": "Tue, 16 Dec 2025 12:00:01 GMT",
-        "category": "business"
+        "title": "Kevin Warsh moves ahead in Fed chief race on Kalshi after Hassett pushback",
+        "link": "https://www.cnbc.com/2025/12/16/kevin-warsh-moves-ahead-in-fed-chief-race-on-kalshi-after-hassett-pushback.html",
+        "pubDate": "Tue, 16 Dec 2025 14:48:59 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Payrolls rose by 64,000 in November after falling by 105,000 in October, delayed jobs numbers show",
+        "link": "https://www.cnbc.com/2025/12/16/jobs-report-november-2025-.html",
+        "pubDate": "Tue, 16 Dec 2025 14:47:21 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Pfizer, Roku, Kraft Heinz &amp; more",
+        "link": "https://www.cnbc.com/2025/12/16/stocks-making-the-biggest-moves-premarket-pfe-roku-khc.html",
+        "pubDate": "Tue, 16 Dec 2025 12:59:21 GMT",
+        "category": "Top News"
       },
       {
         "title": "Trump says he&apos;s &apos;strongly&apos; considering reclassifying pot via executive order",
         "link": "https://www.cnbc.com/2025/12/15/trump-pot-executive-order-reclassification.html",
         "pubDate": "Mon, 15 Dec 2025 21:46:30 GMT",
         "category": "health"
+      },
+      {
+        "title": "Hassett&apos;s Fed chair candidacy received pushback from high-level people close to Trump, sources say",
+        "link": "https://www.cnbc.com/2025/12/15/hassetts-fed-chair-candidacy-received-pushback-from-high-level-people-close-to-trump-sources-say.html",
+        "pubDate": "Mon, 15 Dec 2025 18:57:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "SpaceX could be the biggest IPO ever next year. How investors can play it right now",
+        "link": "https://www.cnbc.com/2025/12/15/spacex-may-be-the-biggest-ipo-ever-next-year-how-to-play-it-right-now.html",
+        "pubDate": "Mon, 15 Dec 2025 18:24:14 GMT",
+        "category": "Top News"
       }
     ]
   }
