@@ -1,20 +1,38 @@
 {
-  "updated_at": "2025-12-16T19:00:18.872420",
+  "updated_at": "2025-12-16T20:47:33.158868",
   "news": {
     "ap": [
       {
+        "title": "The US labels another Latin American cartel a terrorist group as the anti-drug war escalates",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c53e731244269a7b18189ce4d512&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcolombia-state-department-trump-terrorist-designation-ff7d8f2027b080fa4d77daa5fc399820&amp;c=3319330660068211383&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 12:16:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Hyundai and Kia will repair millions of vehicles under a deal to fix anti-theft technology",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c54ace4c41edb9c8b14e963bf440&amp;url=https%3a%2f%2fapnews.com%2farticle%2fminnesota-kia-hyundai-theft-settlement-d2dc13dcee3fa65494d4df9f089dd386&amp;c=1518881111249920339&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 10:51:00 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Retail sales unchanged in October hurt in part by a decline in auto sales",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941ac018c064386b1b9fecbc2e7df94&amp;url=https%3a%2f%2fapnews.com%2farticle%2fretail-industry-inflation-cd9c68bb96ea0f1bfc6a3c0be6be1a90&amp;c=9379732592210089362&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c54a38af4cddaf562b1e9d761f97&amp;url=https%3a%2f%2fapnews.com%2farticle%2fretail-industry-inflation-cd9c68bb96ea0f1bfc6a3c0be6be1a90&amp;c=9379732592210089362&amp;mkt=en-us",
         "pubDate": "Tue, 16 Dec 2025 07:41:00 GMT",
         "category": "business"
       }
     ],
     "npr": [
       {
+        "title": "Psychologists are increasingly using \u2014 and worrying about \u2014 AI tools, poll finds",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/12/16/nx-s1-5645840/american-psychological-association-artificial-intelligence-ai",
+        "pubDate": "Tue, 16 Dec 2025 14:27:04 -0500",
+        "category": "us"
+      },
+      {
         "title": "Her 1951 walkout helped end school segregation. Now her statue is in the U.S. Capitol",
         "link": "https://www.npr.org/2025/12/16/nx-s1-5645727/barbara-rose-johns-capitol-statue",
         "pubDate": "Tue, 16 Dec 2025 13:07:59 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "New report finds the Arctic continues to warm faster than the planet as a whole",
@@ -53,12 +71,6 @@
         "category": "tech"
       },
       {
-        "title": "Built to spill: The life of a crash test dummy",
-        "link": "https://www.npr.org/2025/12/16/nx-s1-5556934/crash-test-dummy-manufacturing",
-        "pubDate": "Tue, 16 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Republicans are divided on Afghan immigrant policy after the National Guard shooting",
         "link": "https://www.npr.org/2025/12/16/g-s1-102301/trump-republicans-division-afghanistan-immigration",
         "pubDate": "Tue, 16 Dec 2025 05:00:00 -0500",
@@ -73,6 +85,18 @@
     ],
     "bbc": [
       {
+        "title": "Erasmus scheme to return for UK students",
+        "link": "https://www.bbc.com/news/articles/cg4ng7ee9vwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 19:46:11 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Only some US lawmakers to see full video of controversial boat strike, Hegseth says",
+        "link": "https://www.bbc.com/news/articles/cdxwglkpdw7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 19:41:40 GMT",
+        "category": "us"
+      },
+      {
         "title": "Employment Rights Bill clears last parliamentary hurdle",
         "link": "https://www.bbc.com/news/articles/c2dz16jxjp1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Dec 2025 18:27:02 GMT",
@@ -82,18 +106,6 @@
         "title": "The two sides of Paul Doyle",
         "link": "https://www.bbc.com/news/articles/c33mpgr81zro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Dec 2025 17:54:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's chief of staff Susie Wiles hits back at Vanity Fair 'hit piece'",
-        "link": "https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 17:36:07 GMT",
-        "category": "us"
-      },
-      {
-        "title": "BBC declares it will fight Donald Trump's defamation claim - but should it?",
-        "link": "https://www.bbc.com/news/articles/cx2przgvdyeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 16:45:34 GMT",
         "category": "Top News"
       },
       {
@@ -115,16 +127,16 @@
         "category": "Top News"
       },
       {
-        "title": "Ukraine struggling to keep lights on under Russian attack, says energy boss",
-        "link": "https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 12:54:00 GMT",
-        "category": "world"
-      },
-      {
         "title": "Dentists to prioritise urgent care and save some patients more than \u00a3200 under plans",
         "link": "https://www.bbc.com/news/articles/cm20r9r1j48o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Dec 2025 11:19:42 GMT",
         "category": "health"
+      },
+      {
+        "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
+        "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 11:07:53 GMT",
+        "category": "world"
       },
       {
         "title": "Couple tried to stop Bondi gunman before they were killed, dashcam video shows",
@@ -135,24 +147,96 @@
     ],
     "reuters": [
       {
-        "title": "Ford\u2019s EV retreat highlights industry dilemma: Build for the US or the world?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941ac2182034f889d783eabff8ba253&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2ffords-ev-retreat-highlights-industry-dilemma-build-us-or-world-2025-12-16%2f&amp;c=2348708528093799975&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Dec 2025 07:34:00 GMT",
+        "title": "US will not release full Venezuela boat strike video, Hegseth says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c55769f44c48a1a7b4300fcefd77&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-not-planning-release-unedited-boat-strike-video-public-hegseth-says-2025-12-16%2f&amp;c=7995469364559251818&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 11:32:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "FIFA launches $60 ticket tier amid criticism of 2026 World Cup pricing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c556b8a44c12b1cf0aea008dbfae&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffifa-launches-60-ticket-tier-amid-criticism-2026-world-cup-pricing-2025-12-16%2f&amp;c=12454276254316922350&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 10:45:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "In Vanity Fair interview, top Trump aide Wiles reveals White House tensions, points to missteps",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c55555354cf0874d1637b2bcc7e3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ftop-trump-aide-wiles-reveals-white-house-tensions-points-missteps-vanity-fair-2025-12-16%2f&amp;c=11663241896350992219&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 10:20:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump's approval rating slips to 39%, economy weighs, Reuters/Ipsos poll finds",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c55555354cf0874d1637b2bcc7e3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-approval-rating-slips-39-economy-weighs-reutersipsos-poll-finds-2025-12-16%2f&amp;c=10986823967300831415&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 10:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "JD Vance asks for patience in Pennsylvania on US cost of living",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c55555354cf0874d1637b2bcc7e3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fjd-vance-tours-pennsylvania-make-economic-case-amid-inflation-concerns-2025-12-16%2f&amp;c=6902863731119034424&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 09:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Explainer: How strong is Trump's defamation case against the BBC?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c55555354cf0874d1637b2bcc7e3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdoes-trump-have-defamation-case-against-bbc-2025-11-12%2f&amp;c=17493468990857267554&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 08:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Consumer goods firms cut CEO tenures short in push for growth",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c55555354cf0874d1637b2bcc7e3&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fconsumer-goods-firms-cut-ceo-tenures-short-push-growth-2025-12-16%2f&amp;c=9636709599675897084&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 08:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US pauses implementation of $40 billion technology deal with Britain",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c5595ed640aeba0c2c90e7c330da&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-suspends-technology-deal-with-uk-ft-says-2025-12-16%2f&amp;c=1077600174665370579&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 08:38:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "No news on whereabouts or health of Iranian Nobel laureate Narges Mohammadi, supporters say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c55a33d94a37b408d6f7cfff68f0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fno-news-whereabouts-or-health-iranian-nobel-laureate-narges-mohammadi-supporters-2025-12-16%2f&amp;c=10839797200315616319&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 07:05:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "US business inventories increase slightly more than expected in September",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941c5592ed34ec2b5f2b24fcb145087&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-business-inventories-increase-slightly-more-than-expected-september-2025-12-16%2f&amp;c=1680587787450646748&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 06:29:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
+      {
+        "title": "Tesla stock hits record as Wall Street rallies around robotaxi hype despite slow EV sales",
+        "link": "https://www.cnbc.com/2025/12/16/tesla-stock-hits-record-on-robotaxi-hype-despite-drop-in-ev-sales.html",
+        "pubDate": "Tue, 16 Dec 2025 20:42:38 GMT",
+        "category": "world"
+      },
+      {
+        "title": "What Harvard researchers learned about use of AI in white-collar work at top companies",
+        "link": "https://www.cnbc.com/2025/12/16/harvard-research-ai-office-work-job-risks.html",
+        "pubDate": "Tue, 16 Dec 2025 20:25:14 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "How Costco may soon make investors happy again \u2014 with a special dividend",
+        "link": "https://www.cnbc.com/2025/12/16/how-costco-may-be-about-to-make-investors-happy.html",
+        "pubDate": "Tue, 16 Dec 2025 20:10:22 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon",
+        "link": "https://www.cnbc.com/2025/12/16/slope-sam-altman-jpmorgan-amazon.html",
+        "pubDate": "Tue, 16 Dec 2025 19:07:07 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Nasdaq moves to make trading nearly 24 hours. Why some on Wall Street say that&apos;s a bad idea",
         "link": "https://www.cnbc.com/2025/12/16/nasdaq-moves-to-near-24-hour-trading-some-say-thats-a-bad-idea.html",
         "pubDate": "Tue, 16 Dec 2025 18:47:39 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Here&apos;s an unusual AI play for 2026: Glasses",
-        "link": "https://www.cnbc.com/2025/12/16/heres-an-unusual-ai-play-for-2026-glasses-.html",
-        "pubDate": "Tue, 16 Dec 2025 18:38:58 GMT",
-        "category": "us"
       },
       {
         "title": "Kevin Hassett retakes lead in Fed chief race on Kalshi after being briefly overtaken by Warsh",
@@ -170,24 +254,6 @@
         "title": "Stocks making the biggest moves premarket: Pfizer, Roku, Kraft Heinz &amp; more",
         "link": "https://www.cnbc.com/2025/12/16/stocks-making-the-biggest-moves-premarket-pfe-roku-khc.html",
         "pubDate": "Tue, 16 Dec 2025 16:52:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Vibe coding startup Lovable&apos;s latest funding round values it at $6.6 billion, sources say",
-        "link": "https://www.cnbc.com/2025/12/16/ai-startup-lovables-round-values-it-at-6point6-billion-sources.html",
-        "pubDate": "Tue, 16 Dec 2025 16:50:40 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Consumers are feeling gloomy about the economy. Here&apos;s why they&apos;re spending anyway",
-        "link": "https://www.cnbc.com/2025/12/16/consumer-sentiment-retail-sales-holiday-walmart-tjx.html",
-        "pubDate": "Tue, 16 Dec 2025 16:17:22 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon",
-        "link": "https://www.cnbc.com/2025/12/16/slope-sam-altman-jpmorgan-amazon.html",
-        "pubDate": "Tue, 16 Dec 2025 14:56:19 GMT",
         "category": "Top News"
       }
     ]
