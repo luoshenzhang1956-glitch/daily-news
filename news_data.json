@@ -1,8 +1,21 @@
 {
-  "updated_at": "2025-12-16T14:58:23.424366",
+  "updated_at": "2025-12-16T17:01:36.827090",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "The US gained 64,000 jobs in November but lost 105,000 in October; unemployment rate at 4.6%",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941900acff74be6897cbb796ed79000&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjobs-economy-trump-unemployment-federal-reserve-cf1280a8466d92fbbc1b5ace7b80bffc&amp;c=6741753072712363406&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 06:00:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "Search for body of last hostage held by Hamas in Gaza is delayed due to bad weather",
+        "link": "https://www.npr.org/2025/12/16/g-s1-102430/gaza-rain-israel-hostage",
+        "pubDate": "Tue, 16 Dec 2025 11:31:28 -0500",
+        "category": "world"
+      },
       {
         "title": "The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing",
         "link": "https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market",
@@ -13,7 +26,7 @@
         "title": "Rob Reiner&apos;s son Nick arrested. And, Brown University shooting suspect image released",
         "link": "https://www.npr.org/2025/12/16/g-s1-102417/up-first-newsletter-rob-reiner-michele-nick-brown-shooting-bondi-beach-shooting",
         "pubDate": "Tue, 16 Dec 2025 07:32:12 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Parts of Washington state are still recovering from flooding. More rain is on the way",
@@ -52,12 +65,6 @@
         "category": "Top News"
       },
       {
-        "title": "Mahmood Mamdani on how Uganda&apos;s history shaped his belonging \u2014 and his son&apos;s moment",
-        "link": "https://www.npr.org/2025/12/16/nx-s1-5600099/mahmood-mamdani-father-zohran-uganda-new-york",
-        "pubDate": "Tue, 16 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "How to spot signs of holiday heart trouble",
         "link": "https://www.npr.org/2025/12/16/nx-s1-5639776/how-to-spot-signs-of-holiday-heart-trouble",
         "pubDate": "Tue, 16 Dec 2025 04:29:31 -0500",
@@ -66,27 +73,33 @@
     ],
     "bbc": [
       {
-        "title": "BBC says it will defend Trump defamation lawsuit over Panorama speech edit",
-        "link": "https://www.bbc.com/news/articles/cpvd81470v1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 14:45:49 GMT",
+        "title": "Downing Street insists negotiations over US-UK tech deal still live",
+        "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 16:26:18 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Teenage boy arrested on suspicion of murdering girl, 9",
+        "link": "https://www.bbc.com/news/articles/c62d0vezjw3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 16:25:39 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Eight killed in latest strikes on alleged drug boats, US military says",
+        "link": "https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 16:04:54 GMT",
+        "category": "us"
       },
       {
         "title": "Foreign interference in UK politics to be investigated after jailing of ex-Welsh Reform leader",
         "link": "https://www.bbc.com/news/articles/c87l5nq93wno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 14:29:45 GMT",
+        "pubDate": "Tue, 16 Dec 2025 15:41:59 GMT",
         "category": "Top News"
       },
       {
-        "title": "Negotiations over US-UK tech deal stall",
-        "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 13:42:57 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Stephen Lawrence killer David Norris denied parole",
-        "link": "https://www.bbc.com/news/articles/c208zd92780o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 13:42:22 GMT",
+        "title": "Liverpool parade attacker Paul Doyle sentenced to 21 years and 6 months in prison",
+        "link": "https://www.bbc.com/news/articles/c208zyv8r4wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 14:51:01 GMT",
         "category": "Top News"
       },
       {
@@ -100,12 +113,6 @@
         "link": "https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Dec 2025 12:54:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "Eight killed in latest strikes on alleged drug boats, US military says",
-        "link": "https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 12:44:43 GMT",
-        "category": "us"
       },
       {
         "title": "Young workers hit hard as UK unemployment rate rises to 5.1%",
@@ -126,43 +133,56 @@
         "category": "Top News"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Gold inches up as US unemployment rate rises in November",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69419041c9924acbab71b2c9879b4ef7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fgold-edges-higher-dollar-eases-ahead-year-end-us-jobs-data-2025-12-16%2f&amp;c=11748158184621593553&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 05:51:00 GMT",
+        "category": "us"
+      }
+    ],
     "markets": [
       {
-        "title": "Databricks raises capital at $134 billion valuation in latest funding round",
-        "link": "https://www.cnbc.com/2025/12/16/databricks-funding-valuation.html",
-        "pubDate": "Tue, 16 Dec 2025 14:57:29 GMT",
+        "title": "Stocks making the biggest moves premarket: Pfizer, Roku, Kraft Heinz &amp; more",
+        "link": "https://www.cnbc.com/2025/12/16/stocks-making-the-biggest-moves-premarket-pfe-roku-khc.html",
+        "pubDate": "Tue, 16 Dec 2025 16:52:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Vibe coding startup Lovable&apos;s latest funding round values it at $6.6 billion, sources say",
+        "link": "https://www.cnbc.com/2025/12/16/ai-startup-lovables-round-values-it-at-6point6-billion-sources.html",
+        "pubDate": "Tue, 16 Dec 2025 16:50:40 GMT",
+        "category": "world"
+      },
+      {
+        "title": "AI future: Big Tech faces key House vote on reforming permit process",
+        "link": "https://www.cnbc.com/2025/12/16/ai-congres-permitting-speed-act.html",
+        "pubDate": "Tue, 16 Dec 2025 16:34:30 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Kevin Warsh moves ahead in Fed chief race on Kalshi after Hassett pushback",
+        "link": "https://www.cnbc.com/2025/12/16/kevin-warsh-moves-ahead-in-fed-chief-race-on-kalshi-after-hassett-pushback.html",
+        "pubDate": "Tue, 16 Dec 2025 16:23:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bank of America&apos;s top chip stocks to play AI in 2026",
+        "link": "https://www.cnbc.com/2025/12/16/bank-of-americas-top-chip-stocks-to-play-ai-in-2026.html",
+        "pubDate": "Tue, 16 Dec 2025 16:03:28 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Pfizer\u2019s modest 2026 outlook shows its big investments will take time to pay off",
+        "link": "https://www.cnbc.com/2025/12/16/pfizer-2026-guidance-metsera-seagen-deals.html",
+        "pubDate": "Tue, 16 Dec 2025 15:51:30 GMT",
+        "category": "health"
       },
       {
         "title": "Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon",
         "link": "https://www.cnbc.com/2025/12/16/slope-sam-altman-jpmorgan-amazon.html",
         "pubDate": "Tue, 16 Dec 2025 14:56:19 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Kevin Warsh moves ahead in Fed chief race on Kalshi after Hassett pushback",
-        "link": "https://www.cnbc.com/2025/12/16/kevin-warsh-moves-ahead-in-fed-chief-race-on-kalshi-after-hassett-pushback.html",
-        "pubDate": "Tue, 16 Dec 2025 14:48:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Payrolls rose by 64,000 in November after falling by 105,000 in October, delayed jobs numbers show",
-        "link": "https://www.cnbc.com/2025/12/16/jobs-report-november-2025-.html",
-        "pubDate": "Tue, 16 Dec 2025 14:47:21 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Pfizer, Roku, Kraft Heinz &amp; more",
-        "link": "https://www.cnbc.com/2025/12/16/stocks-making-the-biggest-moves-premarket-pfe-roku-khc.html",
-        "pubDate": "Tue, 16 Dec 2025 12:59:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says he&apos;s &apos;strongly&apos; considering reclassifying pot via executive order",
-        "link": "https://www.cnbc.com/2025/12/15/trump-pot-executive-order-reclassification.html",
-        "pubDate": "Mon, 15 Dec 2025 21:46:30 GMT",
-        "category": "health"
       },
       {
         "title": "Hassett&apos;s Fed chair candidacy received pushback from high-level people close to Trump, sources say",
