@@ -1,7 +1,14 @@
 {
-  "updated_at": "2025-12-17T03:49:14.888400",
+  "updated_at": "2025-12-17T04:58:57.106595",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Hyundai and Kia will repair millions of vehicles under a deal to fix anti-theft technology",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6942385e3df94ea9b58781a268c1f4c8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fminnesota-kia-hyundai-theft-settlement-d2dc13dcee3fa65494d4df9f089dd386&amp;c=1518881111249920339&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 14:15:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
         "title": "Nick Reiner will be charged with first degree murder in his parents&apos; killing",
@@ -129,28 +136,22 @@
     "reuters": [],
     "markets": [
       {
+        "title": "OpenAI in talks with Amazon about investment that could exceed $10 billion",
+        "link": "https://www.cnbc.com/2025/12/16/openai-in-talks-with-amazon-about-investment-could-top-10-billion.html",
+        "pubDate": "Wed, 17 Dec 2025 04:42:44 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Shares of Chinese chipmaker MetaX soar nearly 700% in blockbuster Shanghai debut",
         "link": "https://www.cnbc.com/2025/12/17/chinese-chipmaker-metax-shares-soar-shanghai-debut.html",
         "pubDate": "Wed, 17 Dec 2025 03:47:14 GMT",
         "category": "world"
       },
       {
-        "title": "Robinhood is rolling out NFL parlay and prop bets on prediction markets platform",
-        "link": "https://www.cnbc.com/2025/12/16/robinhood-is-rolling-out-nfl-parlay-and-prop-bets-on-prediction-markets-platform.html",
-        "pubDate": "Wed, 17 Dec 2025 02:30:01 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Healthy Returns: 2026 will be the year of obesity pills\u00a0from Novo Nordisk, Eli Lilly",
         "link": "https://www.cnbc.com/2025/12/16/healthy-returns-obesity-pills-from-novo-nordisk-eli-lilly-are-coming.html",
         "pubDate": "Wed, 17 Dec 2025 01:38:35 GMT",
         "category": "health"
-      },
-      {
-        "title": "Alphabet-owned Waymo in talks to raise $15 billion in funding",
-        "link": "https://www.cnbc.com/2025/12/16/alphabet-owned-waymo-in-talks-to-raise-15-billion-in-funding.html",
-        "pubDate": "Wed, 17 Dec 2025 01:16:43 GMT",
-        "category": "tech"
       },
       {
         "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
@@ -163,30 +164,6 @@
         "link": "https://www.cnbc.com/2025/12/16/consumer-sentiment-retail-sales-holiday-walmart-tjx.html",
         "pubDate": "Tue, 16 Dec 2025 20:54:58 GMT",
         "category": "business"
-      },
-      {
-        "title": "Nasdaq moves to make trading nearly 24 hours. Why some on Wall Street say that&apos;s a bad idea",
-        "link": "https://www.cnbc.com/2025/12/16/nasdaq-moves-to-near-24-hour-trading-some-say-thats-a-bad-idea.html",
-        "pubDate": "Tue, 16 Dec 2025 18:47:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kevin Hassett retakes lead in Fed chief race on Kalshi after being briefly overtaken by Warsh",
-        "link": "https://www.cnbc.com/2025/12/16/kevin-warsh-moves-ahead-in-fed-chief-race-on-kalshi-after-hassett-pushback.html",
-        "pubDate": "Tue, 16 Dec 2025 18:00:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Investors are all in on stocks: Bank of America survey shows record low cash level",
-        "link": "https://www.cnbc.com/2025/12/16/investors-are-all-in-on-stocks-bank-of-america-survey-shows-record-low-cash-level.html",
-        "pubDate": "Tue, 16 Dec 2025 16:58:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Pfizer, Roku, Kraft Heinz &amp; more",
-        "link": "https://www.cnbc.com/2025/12/16/stocks-making-the-biggest-moves-premarket-pfe-roku-khc.html",
-        "pubDate": "Tue, 16 Dec 2025 16:52:42 GMT",
-        "category": "Top News"
       }
     ]
   }
