@@ -1,8 +1,33 @@
 {
-  "updated_at": "2025-12-17T07:02:39.855316",
+  "updated_at": "2025-12-17T09:01:07.489368",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Japan\u2019s exports rise 6% in November as shipments to the US bounce back",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69427111ba7a4a5898af0f8f182a475f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjapan-trade-exports-tariffs-trump-dbb661b135bda8b4c7f9ee57a4d8a233&amp;c=15027044987951439025&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 22:35:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Ford scraps fully-electric F-150 Lightning as mounting losses and falling demand hits EV plans",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69427114b6d64720872f8cf17fff7d66&amp;url=https%3a%2f%2fapnews.com%2farticle%2fford-electric-vehicles-trump-f150-a1fcdec9c76cde5d2d6852360d9d42c4&amp;c=16234837888296443230&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 10:06:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Suspected gunman in Bondi Beach shooting charged with 15 counts of murder",
+        "link": "https://www.npr.org/2025/12/17/g-s1-102571/gunman-bondi-beach-charged-murder",
+        "pubDate": "Wed, 17 Dec 2025 02:59:43 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Trump expands travel ban and restrictions to include an additional 20 countries",
+        "link": "https://www.npr.org/2025/12/17/g-s1-102569/trump-expands-travel-ban-restrictions",
+        "pubDate": "Wed, 17 Dec 2025 02:42:27 -0500",
+        "category": "Top News"
+      },
       {
         "title": "Nick Reiner will be charged with first degree murder in his parents&apos; killing",
         "link": "https://www.npr.org/2025/12/16/nx-s1-5646666/rob-reiner-michele-singer-reiner-dead-son-nick-charges-first-degree-murder",
@@ -31,7 +56,7 @@
         "title": "Bondi Beach attack casts a shadow on Hanukkah celebrations in Israel",
         "link": "https://www.npr.org/2025/12/16/g-s1-102420/israel-hanukkah-bondi-beach-attack",
         "pubDate": "Tue, 16 Dec 2025 16:27:47 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Psychologists are increasingly using \u2014 and worrying about \u2014 AI tools, poll finds",
@@ -46,18 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "Orange rivers and melting glaciers: federal report shows rapid change in the Arctic",
-        "link": "https://www.npr.org/2025/12/16/nx-s1-5639224/arctic-climate-change-noaa-report",
-        "pubDate": "Tue, 16 Dec 2025 12:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Search for body of last hostage held by Hamas in Gaza is delayed due to bad weather",
-        "link": "https://www.npr.org/2025/12/16/g-s1-102430/gaza-rain-israel-hostage",
-        "pubDate": "Tue, 16 Dec 2025 11:31:28 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Teachers are using software to see if students used AI. What happens when it&apos;s wrong?",
         "link": "https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students",
         "pubDate": "Tue, 16 Dec 2025 05:00:00 -0500",
@@ -66,21 +79,39 @@
     ],
     "bbc": [
       {
-        "title": "Doctors start five-day strike as hospital bosses warn of disruption",
-        "link": "https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 07:00:12 GMT",
+        "title": "Lower clothing and food prices help inflation fall by more than expected",
+        "link": "https://www.bbc.com/news/articles/cy7vjz3ngy7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 08:58:38 GMT",
+        "category": "business"
+      },
+      {
+        "title": "UK to rejoin Erasmus exchange programme for students",
+        "link": "https://www.bbc.com/news/articles/cg4ng7ee9vwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 08:23:53 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Nick Reiner charged with murder of his parents Rob and Michele",
+        "link": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 08:04:58 GMT",
+        "category": "us"
       },
       {
         "title": "Alleged Bondi gunman charged with 15 counts of murder",
         "link": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 06:45:24 GMT",
+        "pubDate": "Wed, 17 Dec 2025 07:49:25 GMT",
         "category": "world"
       },
       {
         "title": "Naveed Akram charged with 15 counts of murder over Bondi shooting",
         "link": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 06:45:24 GMT",
+        "pubDate": "Wed, 17 Dec 2025 07:49:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Doctors start five-day strike as hospital bosses warn of disruption",
+        "link": "https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 07:00:12 GMT",
         "category": "Top News"
       },
       {
@@ -90,34 +121,16 @@
         "category": "Top News"
       },
       {
-        "title": "Timeline: Paul Doyle's Liverpool parade attack",
-        "link": "https://www.bbc.com/news/articles/c1e49x686e6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 00:10:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Learner drivers face 24-week wait as backlog continues for two more years",
-        "link": "https://www.bbc.com/news/articles/cqlkg11d5gxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 00:02:02 GMT",
-        "category": "business"
-      },
-      {
         "title": "Downing Street insists negotiations over US-UK tech deal still live",
         "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Dec 2025 22:39:14 GMT",
         "category": "tech"
       },
       {
-        "title": "UK to rejoin Erasmus exchange programme for students",
-        "link": "https://www.bbc.com/news/articles/cg4ng7ee9vwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 21:05:54 GMT",
+        "title": "The two sides of Liverpool parade attacker Paul Doyle",
+        "link": "https://www.bbc.com/news/articles/c33mpgr81zro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Dec 2025 17:54:20 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Only some US lawmakers to see full video of controversial boat strike, Hegseth says",
-        "link": "https://www.bbc.com/news/articles/cdxwglkpdw7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 19:41:40 GMT",
-        "category": "us"
       },
       {
         "title": "Dentists to prioritise urgent care and save some patients more than \u00a3200 under plans",
@@ -126,38 +139,19 @@
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Indonesian employers group says proposed minimum wage rise is too high",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694255670be142768cfb05ef0eae8529&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2findonesian-employers-group-says-proposed-minimum-wage-rise-is-too-high-2025-12-17%2f&amp;c=768120209590331960&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Dec 2025 18:30:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Athletics-Amazing world championships can't disperse the doping cloud",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694255569af84f1a92202c91c526feac&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fathletics-amazing-world-championships-cant-disperse-doping-cloud-2025-12-17%2f&amp;c=6099247761867676278&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Dec 2025 17:04:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "US pauses implementation of $40 billion technology deal with Britain",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694255683c734c939cada6ed48adf4ab&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-suspends-technology-deal-with-uk-ft-says-2025-12-16%2f&amp;c=1077600174665370579&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Dec 2025 08:38:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "OpenAI in talks with Amazon about investment that could exceed $10 billion",
-        "link": "https://www.cnbc.com/2025/12/16/openai-in-talks-with-amazon-about-investment-could-top-10-billion.html",
-        "pubDate": "Wed, 17 Dec 2025 04:42:44 GMT",
+        "title": "CNBC Daily Open: Beauty is in the eye of the U.S. jobs report beholder",
+        "link": "https://www.cnbc.com/2025/12/17/cnbc-daily-open-beauty-is-in-the-eye-of-the-us-jobs-report-beholder.html",
+        "pubDate": "Wed, 17 Dec 2025 07:30:02 GMT",
         "category": "tech"
       },
       {
-        "title": "Shares of Chinese chipmaker MetaX soar nearly 700% in blockbuster Shanghai debut",
-        "link": "https://www.cnbc.com/2025/12/17/chinese-chipmaker-metax-shares-soar-shanghai-debut.html",
-        "pubDate": "Wed, 17 Dec 2025 03:47:14 GMT",
-        "category": "world"
+        "title": "Robinhood is rolling out NFL parlay and prop bets on prediction markets platform",
+        "link": "https://www.cnbc.com/2025/12/16/robinhood-is-rolling-out-nfl-parlay-and-prop-bets-on-prediction-markets-platform.html",
+        "pubDate": "Wed, 17 Dec 2025 02:30:01 GMT",
+        "category": "Top News"
       },
       {
         "title": "Healthy Returns: 2026 will be the year of obesity pills\u00a0from Novo Nordisk, Eli Lilly",
@@ -172,10 +166,34 @@
         "category": "us"
       },
       {
-        "title": "Consumers are feeling gloomy about the economy. Here&apos;s why they&apos;re spending anyway",
-        "link": "https://www.cnbc.com/2025/12/16/consumer-sentiment-retail-sales-holiday-walmart-tjx.html",
-        "pubDate": "Tue, 16 Dec 2025 20:54:58 GMT",
-        "category": "business"
+        "title": "Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon",
+        "link": "https://www.cnbc.com/2025/12/16/slope-sam-altman-jpmorgan-amazon.html",
+        "pubDate": "Tue, 16 Dec 2025 19:07:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nasdaq moves to make trading nearly 24 hours. Why some on Wall Street say that&apos;s a bad idea",
+        "link": "https://www.cnbc.com/2025/12/16/nasdaq-moves-to-near-24-hour-trading-some-say-thats-a-bad-idea.html",
+        "pubDate": "Tue, 16 Dec 2025 18:47:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Kevin Hassett retakes lead in Fed chief race on Kalshi after being briefly overtaken by Warsh",
+        "link": "https://www.cnbc.com/2025/12/16/kevin-warsh-moves-ahead-in-fed-chief-race-on-kalshi-after-hassett-pushback.html",
+        "pubDate": "Tue, 16 Dec 2025 18:00:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Investors are all in on stocks: Bank of America survey shows record low cash level",
+        "link": "https://www.cnbc.com/2025/12/16/investors-are-all-in-on-stocks-bank-of-america-survey-shows-record-low-cash-level.html",
+        "pubDate": "Tue, 16 Dec 2025 16:58:04 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Pfizer, Roku, Kraft Heinz &amp; more",
+        "link": "https://www.cnbc.com/2025/12/16/stocks-making-the-biggest-moves-premarket-pfe-roku-khc.html",
+        "pubDate": "Tue, 16 Dec 2025 16:52:42 GMT",
+        "category": "Top News"
       }
     ]
   }
