@@ -1,8 +1,14 @@
 {
-  "updated_at": "2025-12-16T22:42:40.349602",
+  "updated_at": "2025-12-17T03:49:14.888400",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Nick Reiner will be charged with first degree murder in his parents&apos; killing",
+        "link": "https://www.npr.org/2025/12/16/nx-s1-5646666/rob-reiner-michele-singer-reiner-dead-son-nick-charges-first-degree-murder",
+        "pubDate": "Tue, 16 Dec 2025 18:11:04 -0500",
+        "category": "us"
+      },
       {
         "title": "After outcry over prices, FIFA to sell $60 tickets for the World Cup -- with a catch",
         "link": "https://www.npr.org/2025/12/16/nx-s1-5646548/fifa-world-cup-ticket-prices",
@@ -10,10 +16,10 @@
         "category": "business"
       },
       {
-        "title": "Millions of immigrants are now in legal limbo amid the asylum freeze",
-        "link": "https://www.npr.org/2025/12/16/nx-s1-5645150/millions-of-immigrants-are-now-in-legal-limbo-amid-the-asylum-freeze",
-        "pubDate": "Tue, 16 Dec 2025 17:25:13 -0500",
-        "category": "us"
+        "title": "What to know from Susie Wiles&apos; interviews with &apos;Vanity Fair,&apos; according to the writer",
+        "link": "https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair",
+        "pubDate": "Tue, 16 Dec 2025 17:05:51 -0500",
+        "category": "Top News"
       },
       {
         "title": "Beware the Christmas coronary effect. How to spot signs of holiday heart trouble",
@@ -40,7 +46,7 @@
         "category": "Top News"
       },
       {
-        "title": "New report finds the Arctic continues to warm faster than the planet as a whole",
+        "title": "Orange rivers and melting glaciers: federal report shows rapid change in the Arctic",
         "link": "https://www.npr.org/2025/12/16/nx-s1-5639224/arctic-climate-change-noaa-report",
         "pubDate": "Tue, 16 Dec 2025 12:00:00 -0500",
         "category": "Top News"
@@ -52,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing",
-        "link": "https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market",
-        "pubDate": "Tue, 16 Dec 2025 09:01:09 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Teachers are using software to see if students used AI. What happens when it&apos;s wrong?",
         "link": "https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students",
         "pubDate": "Tue, 16 Dec 2025 05:00:00 -0500",
@@ -66,16 +66,40 @@
     ],
     "bbc": [
       {
+        "title": "Trump orders blockade of sanctioned oil tankers in and out of Venezuela",
+        "link": "https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 03:40:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rob and Michele Reiner's son Nick charged with murder in parents' deaths",
+        "link": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 01:00:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Doctors start five-day strike as hospitals grapple with flu wave",
+        "link": "https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 00:34:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Timeline: Paul Doyle's journey to causing Liverpool parade horror",
+        "link": "https://www.bbc.com/news/articles/c1e49x686e6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 00:10:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Learner drivers face 24-week wait as backlog continues for two more years",
+        "link": "https://www.bbc.com/news/articles/cqlkg11d5gxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 00:02:02 GMT",
+        "category": "business"
+      },
+      {
         "title": "Downing Street insists negotiations over US-UK tech deal still live",
         "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Dec 2025 22:39:14 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Rob and Michele Reiner's son Nick to face murder charges in parents' deaths",
-        "link": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 21:58:31 GMT",
-        "category": "Top News"
       },
       {
         "title": "Erasmus scheme to return for UK students",
@@ -90,24 +114,6 @@
         "category": "us"
       },
       {
-        "title": "Employment Rights Bill clears last parliamentary hurdle",
-        "link": "https://www.bbc.com/news/articles/c2dz16jxjp1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 18:27:02 GMT",
-        "category": "business"
-      },
-      {
-        "title": "The two sides of Paul Doyle",
-        "link": "https://www.bbc.com/news/articles/c33mpgr81zro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 17:54:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Liverpool parade attacker Paul Doyle sentenced to 21 years and 6 months in prison",
-        "link": "https://www.bbc.com/news/articles/c208zyv8r4wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 14:51:01 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Dentists to prioritise urgent care and save some patients more than \u00a3200 under plans",
         "link": "https://www.bbc.com/news/articles/cm20r9r1j48o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Dec 2025 11:19:42 GMT",
@@ -118,40 +124,70 @@
         "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Dec 2025 11:07:53 GMT",
         "category": "world"
-      },
-      {
-        "title": "Couple tried to stop Bondi gunman before they were killed, dashcam video shows",
-        "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 11:07:53 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "Swift Anglo-Teck merger approval shows Canada's pro-business shift, dealmakers say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941e0574419483199f56509cb76b4c5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fswift-anglo-teck-merger-approval-shows-canadas-pro-business-shift-dealmakers-say-2025-12-16%2f&amp;c=13575493863882675603&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Dec 2025 13:17:00 GMT",
-        "category": "business"
+        "title": "Shares of Chinese chipmaker MetaX soar nearly 700% in blockbuster Shanghai debut",
+        "link": "https://www.cnbc.com/2025/12/17/chinese-chipmaker-metax-shares-soar-shanghai-debut.html",
+        "pubDate": "Wed, 17 Dec 2025 03:47:14 GMT",
+        "category": "world"
       },
       {
-        "title": "US Justice Department sues Virgin Islands over 'unconstitutional' gun rights practices",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941e056193f4b77b39bec4f486edb77&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-justice-department-sues-virgin-islands-over-unconstitutional-gun-rights-2025-12-16%2f&amp;c=16312858543274086499&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Dec 2025 12:37:00 GMT",
-        "category": "us"
+        "title": "Robinhood is rolling out NFL parlay and prop bets on prediction markets platform",
+        "link": "https://www.cnbc.com/2025/12/16/robinhood-is-rolling-out-nfl-parlay-and-prop-bets-on-prediction-markets-platform.html",
+        "pubDate": "Wed, 17 Dec 2025 02:30:01 GMT",
+        "category": "Top News"
       },
       {
-        "title": "US pauses implementation of $40 billion technology deal with Britain",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941e05ae8564179a9b9746ea3c7697c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-suspends-technology-deal-with-uk-ft-says-2025-12-16%2f&amp;c=1077600174665370579&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Dec 2025 08:38:00 GMT",
+        "title": "Healthy Returns: 2026 will be the year of obesity pills\u00a0from Novo Nordisk, Eli Lilly",
+        "link": "https://www.cnbc.com/2025/12/16/healthy-returns-obesity-pills-from-novo-nordisk-eli-lilly-are-coming.html",
+        "pubDate": "Wed, 17 Dec 2025 01:38:35 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Alphabet-owned Waymo in talks to raise $15 billion in funding",
+        "link": "https://www.cnbc.com/2025/12/16/alphabet-owned-waymo-in-talks-to-raise-15-billion-in-funding.html",
+        "pubDate": "Wed, 17 Dec 2025 01:16:43 GMT",
         "category": "tech"
       },
       {
-        "title": "No news on whereabouts or health of Iranian Nobel laureate Narges Mohammadi, supporters say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6941e05b75124618887528b76aeb9a4e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fno-news-whereabouts-or-health-iranian-nobel-laureate-narges-mohammadi-supporters-2025-12-16%2f&amp;c=10839797200315616319&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Dec 2025 07:05:00 GMT",
-        "category": "health"
+        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2025/12/16/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Wed, 17 Dec 2025 00:01:16 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Consumers are feeling gloomy about the economy. Here&apos;s why they&apos;re spending anyway",
+        "link": "https://www.cnbc.com/2025/12/16/consumer-sentiment-retail-sales-holiday-walmart-tjx.html",
+        "pubDate": "Tue, 16 Dec 2025 20:54:58 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Nasdaq moves to make trading nearly 24 hours. Why some on Wall Street say that&apos;s a bad idea",
+        "link": "https://www.cnbc.com/2025/12/16/nasdaq-moves-to-near-24-hour-trading-some-say-thats-a-bad-idea.html",
+        "pubDate": "Tue, 16 Dec 2025 18:47:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Kevin Hassett retakes lead in Fed chief race on Kalshi after being briefly overtaken by Warsh",
+        "link": "https://www.cnbc.com/2025/12/16/kevin-warsh-moves-ahead-in-fed-chief-race-on-kalshi-after-hassett-pushback.html",
+        "pubDate": "Tue, 16 Dec 2025 18:00:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Investors are all in on stocks: Bank of America survey shows record low cash level",
+        "link": "https://www.cnbc.com/2025/12/16/investors-are-all-in-on-stocks-bank-of-america-survey-shows-record-low-cash-level.html",
+        "pubDate": "Tue, 16 Dec 2025 16:58:04 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Pfizer, Roku, Kraft Heinz &amp; more",
+        "link": "https://www.cnbc.com/2025/12/16/stocks-making-the-biggest-moves-premarket-pfe-roku-khc.html",
+        "pubDate": "Tue, 16 Dec 2025 16:52:42 GMT",
+        "category": "Top News"
       }
-    ],
-    "markets": []
+    ]
   }
 }
