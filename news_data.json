@@ -1,32 +1,38 @@
 {
-  "updated_at": "2025-12-17T10:53:23.832587",
+  "updated_at": "2025-12-17T13:48:09.450741",
   "news": {
     "ap": [
       {
-        "title": "Hyundai and Kia will repair millions of vehicles under a deal to fix anti-theft technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69428b598c1541cc867a693ff5ee65b2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fminnesota-kia-hyundai-theft-settlement-d2dc13dcee3fa65494d4df9f089dd386&amp;c=1518881111249920339&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Dec 2025 14:15:00 GMT",
+        "title": "China exploits US-funded research on nuclear technology, a congressional report says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6942b473215e44c58c8ddce2a73b6284&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-nuclear-energy-department-research-congressional-report-470549567520c89c04be1b30b218fe33&amp;c=16570956299794917867&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Dec 2025 04:01:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "House Speaker Johnson rebuffs efforts to extend health care subsidies, pushing ahead with GOP plan",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6942b47483a047808572363244e79d08&amp;url=https%3a%2f%2fapnews.com%2farticle%2faca-obamacare-health-subsidies-congress-expires-42a7a5b9e2aaf5bc84991629dda20108&amp;c=13131283635195380774&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Dec 2025 14:40:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Trump&apos;s economic approval at new low. And, Congress set to let ACA subsidies expire",
+        "link": "https://www.npr.org/2025/12/17/g-s1-102604/up-first-newsletter-aca-vote-trump-nuclear-npr-pbs-marist-poll",
+        "pubDate": "Wed, 17 Dec 2025 07:11:27 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Trump&apos;s BBC lawsuit: A botched report, BritBox, and porn",
+        "link": "https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn",
+        "pubDate": "Wed, 17 Dec 2025 06:00:00 -0500",
+        "category": "business"
+      },
       {
         "title": "Recent attacks have been &apos;inspired&apos; by Islamic State. What does that mean?",
         "link": "https://www.npr.org/2025/12/17/nx-s1-5645825/isis-islamic-australia-syria",
         "pubDate": "Wed, 17 Dec 2025 05:01:00 -0500",
         "category": "world"
-      },
-      {
-        "title": "Thousands of guns are found at crime scenes. What do they tell us?",
-        "link": "https://www.npr.org/2025/12/17/nx-s1-5641154/crime-guns-database-everytown-report",
-        "pubDate": "Wed, 17 Dec 2025 05:00:00 -0500",
-        "category": "us"
-      },
-      {
-        "title": "Trump&apos;s economic approval hits a new low at 36%, poll finds",
-        "link": "https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval",
-        "pubDate": "Wed, 17 Dec 2025 05:00:00 -0500",
-        "category": "business"
       },
       {
         "title": "Trump&apos;s rush to build nuclear reactors across the U.S. raises safety worries",
@@ -41,8 +47,8 @@
         "category": "health"
       },
       {
-        "title": "How the long-running Obamacare fight came to thwart enhanced subsidies in Congress",
-        "link": "https://www.npr.org/2025/12/17/nx-s1-5645846/congress-health-care-subsidies",
+        "title": "Thousands of guns are found at crime scenes. What do they tell us?",
+        "link": "https://www.npr.org/2025/12/17/nx-s1-5641154/crime-guns-database-everytown-report",
         "pubDate": "Wed, 17 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
@@ -59,35 +65,53 @@
         "category": "Top News"
       },
       {
-        "title": "U.S. Santas becoming more diverse as families look to see themselves in Christmas",
-        "link": "https://www.npr.org/2025/12/17/nx-s1-5640052/u-s-santas-becoming-more-diverse-as-families-look-to-see-themselves-in-christmas",
-        "pubDate": "Wed, 17 Dec 2025 04:53:13 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Suspected gunman in Bondi Beach shooting charged with 15 counts of murder",
-        "link": "https://www.npr.org/2025/12/17/g-s1-102571/gunman-bondi-beach-charged-murder",
-        "pubDate": "Wed, 17 Dec 2025 02:59:43 -0500",
+        "title": "How the long-running Obamacare fight came to thwart enhanced subsidies in Congress",
+        "link": "https://www.npr.org/2025/12/17/nx-s1-5645846/congress-health-care-subsidies",
+        "pubDate": "Wed, 17 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Doctors start five-day strike as NHS bosses warn flu wave will cause extra disruption",
-        "link": "https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 10:45:36 GMT",
+        "title": "Warner Bros urges investors to reject $108bn Paramount bid",
+        "link": "https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 13:38:44 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Police forces will make arrests over 'globalise the intifada' chants",
+        "link": "https://www.bbc.com/news/articles/cde65de81jgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 13:32:58 GMT",
         "category": "Top News"
       },
       {
-        "title": "Lower clothing and food prices help inflation fall by more than expected",
-        "link": "https://www.bbc.com/news/articles/cy7vjz3ngy7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 10:34:44 GMT",
+        "title": "Starmer calls doctors' strike 'dangerous' as five-day walkout begins in England",
+        "link": "https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 13:29:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Abramovich must pay money from Chelsea FC sale to Ukraine fund or face court, Starmer says",
+        "link": "https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 13:22:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Why this month's inflation figure may be good news for you",
+        "link": "https://www.bbc.com/news/articles/c0r9x1xx0x7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 13:06:14 GMT",
         "category": "business"
       },
       {
-        "title": "Boy, 15, charged with murder of girl, 9",
+        "title": "Duke of Marlborough charged with intentional strangulation",
+        "link": "https://www.bbc.com/news/articles/cd9zv78dqzgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 12:36:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Boy, 15, charged with murder of girl, 9, as police name victim",
         "link": "https://www.bbc.com/news/articles/cvgj05x91yxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 10:15:45 GMT",
+        "pubDate": "Wed, 17 Dec 2025 12:13:04 GMT",
         "category": "Top News"
       },
       {
@@ -97,80 +121,55 @@
         "category": "world"
       },
       {
-        "title": "Naveed Akram charged with 15 counts of murder over Bondi shooting",
-        "link": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 09:46:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nick Reiner charged with murder of his parents Rob and Michele",
-        "link": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 08:04:58 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Timoth\u00e9e Chalamet on table tennis, his twenties and his love of... Susan Boyle",
-        "link": "https://www.bbc.com/news/articles/clyd1m47rkro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 00:21:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Essay cheating at universities an 'open secret'",
-        "link": "https://www.bbc.com/news/articles/cn8er32715do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 00:04:27 GMT",
-        "category": "Top News"
+        "title": "Why are resident doctors striking and how much are they paid?",
+        "link": "https://www.bbc.com/news/articles/cn0qyl4ljjko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Dec 2025 08:06:44 GMT",
+        "category": "health"
       },
       {
         "title": "Downing Street insists negotiations over US-UK tech deal still live",
         "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Dec 2025 22:39:14 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Dentists to prioritise urgent care and save some patients more than \u00a3200 under plans",
-        "link": "https://www.bbc.com/news/articles/cm20r9r1j48o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Dec 2025 11:19:42 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "German business sentiment unexpectedly falls in December, Ifo survey finds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69428b7419694fbcaec167622e20d8bc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fgerman-business-sentiment-unexpectedly-falls-december-ifo-survey-finds-2025-12-17%2f&amp;c=8515502765472312505&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Dec 2025 00:59:00 GMT",
+        "title": "WBD tells shareholders Netflix deal is superior to Paramount offer: &apos;It was not a hard choice,&apos; chairman tells CNBC",
+        "link": "https://www.cnbc.com/2025/12/17/wbd-board-paramount-skydance-reject-value.html",
+        "pubDate": "Wed, 17 Dec 2025 13:44:42 GMT",
         "category": "business"
       },
       {
-        "title": "England unhappy with review technology after Carey reprieved in Adelaide test",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69428b83afa5400fad1ef400b3be35c2&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fengland-unhappy-with-review-technology-after-carey-reprieved-adelaide-test-2025-12-17%2f&amp;c=260362408704944068&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Dec 2025 00:19:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "markets": [
+        "title": "Defense stocks rally as Germany set to approve $60 billion defense splurge",
+        "link": "https://www.cnbc.com/2025/12/17/defense-stocks-rally-as-germany-set-to-pass-60-billion-package.html",
+        "pubDate": "Wed, 17 Dec 2025 13:10:41 GMT",
+        "category": "world"
+      },
       {
-        "title": "CNBC Daily Open: Beauty is in the eye of the U.S. jobs report beholder",
-        "link": "https://www.cnbc.com/2025/12/17/cnbc-daily-open-beauty-is-in-the-eye-of-the-us-jobs-report-beholder.html",
-        "pubDate": "Wed, 17 Dec 2025 07:30:02 GMT",
-        "category": "tech"
+        "title": "Stocks making the biggest moves premarket: Netflix, Amazon, Lennar, General Mills &amp; more",
+        "link": "https://www.cnbc.com/2025/12/17/stocks-making-the-biggest-moves-premarket-.html",
+        "pubDate": "Wed, 17 Dec 2025 12:54:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Baird upgrades Gap, says brand reinvigoration and turnaround are gaining traction with consumers",
+        "link": "https://www.cnbc.com/2025/12/17/baird-upgrades-gap-says-brand-reinvigoration-and-turnaround-are-gaining-traction.html",
+        "pubDate": "Wed, 17 Dec 2025 12:43:23 GMT",
+        "category": "us"
       },
       {
         "title": "Robinhood is rolling out NFL parlay and prop bets on prediction markets platform",
         "link": "https://www.cnbc.com/2025/12/16/robinhood-is-rolling-out-nfl-parlay-and-prop-bets-on-prediction-markets-platform.html",
-        "pubDate": "Wed, 17 Dec 2025 02:30:01 GMT",
+        "pubDate": "Wed, 17 Dec 2025 12:27:21 GMT",
         "category": "Top News"
       },
       {
-        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2025/12/16/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Wed, 17 Dec 2025 00:01:16 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Consumers are feeling gloomy about the economy. Here&apos;s why they&apos;re spending anyway",
-        "link": "https://www.cnbc.com/2025/12/16/consumer-sentiment-retail-sales-holiday-walmart-tjx.html",
-        "pubDate": "Tue, 16 Dec 2025 20:54:58 GMT",
-        "category": "business"
+        "title": "Healthy Returns: 2026 will be the year of obesity pills\u00a0from Novo Nordisk, Eli Lilly",
+        "link": "https://www.cnbc.com/2025/12/16/healthy-returns-obesity-pills-from-novo-nordisk-eli-lilly-are-coming.html",
+        "pubDate": "Wed, 17 Dec 2025 01:38:35 GMT",
+        "category": "health"
       },
       {
         "title": "Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon",
@@ -194,12 +193,6 @@
         "title": "Investors are all in on stocks: Bank of America survey shows record low cash level",
         "link": "https://www.cnbc.com/2025/12/16/investors-are-all-in-on-stocks-bank-of-america-survey-shows-record-low-cash-level.html",
         "pubDate": "Tue, 16 Dec 2025 16:58:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Pfizer, Roku, Kraft Heinz &amp; more",
-        "link": "https://www.cnbc.com/2025/12/16/stocks-making-the-biggest-moves-premarket-pfe-roku-khc.html",
-        "pubDate": "Tue, 16 Dec 2025 16:52:42 GMT",
         "category": "Top News"
       }
     ]
