@@ -1,20 +1,50 @@
 {
-  "updated_at": "2025-12-18T08:59:37.571462",
+  "updated_at": "2025-12-18T10:52:02.961080",
   "news": {
     "ap": [
       {
-        "title": "4 Republicans defy Speaker Johnson to force House vote on extending ACA subsidies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943c24d15b8435c93ba582f94467242&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealth-care-subsidies-aca-speaker-johnson-1087a9f64168d66b2acf9082af16c253&amp;c=14996963239910119999&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Dec 2025 16:23:00 GMT",
-        "category": "health"
+        "title": "Modest but steady economic growth lets Europe get by without an interest rate cut",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dc9cbad24aa9bbc41acb5eca50a3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fecb-eurozone-economy-inflation-growth-lagarde-8f28abe4f22da1ccef4b75c1c2c32f91&amp;c=6296477546806492698&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 01:18:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "China exploits US-funded research on nuclear technology, a congressional report says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dc9eefb04afda54b356b39f3ad0f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-nuclear-energy-department-research-congressional-report-470549567520c89c04be1b30b218fe33&amp;c=16570956299794917867&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Dec 2025 10:53:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "Where we went: NPR&apos;s U.S. travel guide for the curious",
+        "link": "https://www.npr.org/2025/12/18/nx-s1-5615255/travel-guide-odd-weird-america-vacations",
+        "pubDate": "Thu, 18 Dec 2025 05:00:00 -0500",
+        "category": "us"
+      },
+      {
+        "title": "These federal workers proudly served the American people. Then came Trump&apos;s upheaval",
+        "link": "https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants",
+        "pubDate": "Thu, 18 Dec 2025 05:00:00 -0500",
+        "category": "business"
+      },
+      {
+        "title": "Trump administration approves $10B arms sale to Taiwan",
+        "link": "https://www.npr.org/2025/12/18/nx-s1-5647860/trump-administration-approves-10b-arms-sale-to-taiwan",
+        "pubDate": "Thu, 18 Dec 2025 04:43:54 -0500",
+        "category": "world"
+      },
+      {
+        "title": "ICE is reopening shuttered prisons as detention centers. Many have a troubled past",
+        "link": "https://www.npr.org/2025/12/18/nx-s1-5591459/ice-is-reopening-shuttered-prisons-as-detention-centers-many-have-a-troubled-past",
+        "pubDate": "Thu, 18 Dec 2025 04:43:18 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Mourners grieve 10-year-old slain in Bondi mass shooting as Australia&apos;s leader pledges new hate laws",
         "link": "https://www.npr.org/2025/12/18/nx-s1-5648082/10-year-old-killed-bondi-mass-shooting-hate-laws",
         "pubDate": "Thu, 18 Dec 2025 02:44:58 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "US announces massive package of arms sales to Taiwan valued at more than $10 billion",
@@ -32,37 +62,13 @@
         "title": "FBI Deputy Director Dan Bongino says he will step down in January",
         "link": "https://www.npr.org/2025/12/17/nx-s1-5647821/fbi-deputy-director-dan-bongino-stepping-down",
         "pubDate": "Wed, 17 Dec 2025 19:06:29 -0500",
-        "category": "us"
-      },
-      {
-        "title": "Are Americans letting go of &apos;slop bowls?&apos;",
-        "link": "https://www.npr.org/2025/12/17/nx-s1-5645077/are-americans-letting-go-of-slop-bowls",
-        "pubDate": "Wed, 17 Dec 2025 16:41:16 -0500",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Simple tricks to spot AI-generated videos in your social media feed",
         "link": "https://www.npr.org/2025/12/17/nx-s1-5640108/spotting-ai-in-your-feeds",
         "pubDate": "Wed, 17 Dec 2025 16:41:06 -0500",
         "category": "tech"
-      },
-      {
-        "title": "Federal court says troops can stay in D.C., and hints at prolonged deployment",
-        "link": "https://www.npr.org/2025/12/17/nx-s1-5647680/federal-court-says-troops-can-stay-in-d-c-and-hints-at-prolonged-deployment",
-        "pubDate": "Wed, 17 Dec 2025 15:42:39 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Jack Smith defends his prosecutions of Trump in closed-door session in Congress",
-        "link": "https://www.npr.org/2025/12/17/g-s1-102630/jack-smith-congress",
-        "pubDate": "Wed, 17 Dec 2025 15:10:53 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "A Chinese man who filmed secret footage in Xinjiang risks deportation from the U.S.",
-        "link": "https://www.npr.org/2025/12/17/g-s1-102229/china-xinjiang-uyghurs-us-deportation",
-        "pubDate": "Wed, 17 Dec 2025 15:05:42 -0500",
-        "category": "Top News"
       },
       {
         "title": "Why I volunteered to be infected with dengue fever",
@@ -73,34 +79,40 @@
     ],
     "bbc": [
       {
-        "title": "Teachers to be trained to spot early signs of misogyny in boys",
+        "title": "William and Catherine release annual Christmas card portrait",
+        "link": "https://www.bbc.com/news/articles/c9975zk98kyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 18 Dec 2025 10:48:06 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Parents of sextortion victim sue Instagram owner Meta",
+        "link": "https://www.bbc.com/news/articles/cdj87z42gv4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 18 Dec 2025 10:25:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Boys to be sent on courses to tackle misogyny in schools",
         "link": "https://www.bbc.com/news/articles/c9qednjzwv1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 18 Dec 2025 08:47:12 GMT",
         "category": "Top News"
       },
       {
-        "title": "'Maybe she's an angel now' says aunt of Bondi victim, 10, at funeral",
+        "title": "Don't let Matilda's death fuel anger, say family of Bondi victim, 10, at funeral",
         "link": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 18 Dec 2025 08:29:56 GMT",
         "category": "world"
-      },
-      {
-        "title": "Parents of sextortion victim sue Instagram owner Meta",
-        "link": "https://www.bbc.com/news/articles/cdj87z42gv4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Dec 2025 07:28:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "England's Ashes hopes vanishing after batters fold again",
-        "link": "https://www.bbc.com/sport/cricket/articles/ce91m5plxepo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Dec 2025 07:16:41 GMT",
-        "category": "Top News"
       },
       {
         "title": "The surprising truth about the generations that suffer loneliness the most",
         "link": "https://www.bbc.com/news/articles/cn0kz1wpnq5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 18 Dec 2025 06:44:16 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Parents told to lead by example and turn off phones this Christmas",
+        "link": "https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 18 Dec 2025 02:28:22 GMT",
+        "category": "tech"
       },
       {
         "title": "Bank of England expected to cut interest rates",
@@ -121,12 +133,6 @@
         "category": "us"
       },
       {
-        "title": "Fifa video game to return after four years in Netflix exclusive",
-        "link": "https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Dec 2025 18:20:44 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Starmer calls doctors' strike 'dangerous' as five-day walkout begins",
         "link": "https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 17 Dec 2025 13:29:14 GMT",
@@ -135,49 +141,67 @@
     ],
     "reuters": [
       {
-        "title": "US approves $11.1 billion arms package for Taiwan, largest ever",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943c25bf02a4b5d9c80427370f376e0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftaiwan-says-us-has-initiated-111-billion-arms-sale-procedure-2025-12-18%2f&amp;c=3527943863138873351&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Dec 2025 23:47:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Review technology under fire again in Adelaide Ashes test",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943c25e8ce54c32a86a9a1ee37afe27&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2faustralia-board-chief-condemns-drs-clanger-ashes-test-2025-12-18%2f&amp;c=8393656179169441063&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Dec 2025 21:24:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Nigeria allege DR Congo fielded ineligible players in World Cup playoff",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943c251fce84624bc9a4d1a9cc17dd6&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnigeria-allege-dr-congo-fielded-ineligible-players-world-cup-playoff-2025-12-18%2f&amp;c=14806120809721362725&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Dec 2025 19:05:00 GMT",
+        "title": "Canada's world champion Brearley out of Olympics after knee surgery",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dca8660e4bce9050cbae7e3cc091&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcanadas-world-champion-brearley-out-olympics-after-knee-surgery-2025-12-18%2f&amp;c=9064915015699494346&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 01:30:00 GMT",
         "category": "world"
       },
       {
-        "title": "Pentagon awards Humana a $7.3 billion health care deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943c25f66d24bec9b6e5d3465b98e57&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fpentagon-awards-humana-73-billion-health-care-deal-2025-12-17%2f&amp;c=14577779282111823090&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Dec 2025 13:30:00 GMT",
+        "title": "Ukraine says 180,000 consumers were left without power after Russian overnight attack",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dca4764743808e897f57420ca459&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fukraine-says-180000-consumers-were-left-without-power-after-russian-overnight-2025-12-18%2f&amp;c=13762221952414077754&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 00:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "In holiday speech, Trump highlights victories amid sinking approval ratings",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dca4764743808e897f57420ca459&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fprime-time-speech-trump-highlight-victories-amid-low-economic-approval-2025-12-17%2f&amp;c=18336133352702729939&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Dec 2025 22:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "BoE needs to rein in rising real rates",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dca4764743808e897f57420ca459&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2feurope%2fboe-needs-rein-rising-real-rates-2025-12-18%2f&amp;c=18331111240827064109&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Dec 2025 22:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Return of 'Make Europe Great Again' trades hinges on German comeback",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dca4764743808e897f57420ca459&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2freturn-make-europe-great-again-trades-hinges-german-comeback-2025-12-18%2f&amp;c=13171134508748324288&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Dec 2025 20:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: How China built its \u2018Manhattan Project\u2019 to rival the West in AI chips",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dca4764743808e897f57420ca459&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fhow-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17%2f&amp;c=12506800267554156511&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Dec 2025 19:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Despite tariffs, China consumer giants push into the US as domestic market stalls",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dca964c74e50ab41570a846d43b7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fdespite-tariffs-china-consumer-giants-push-into-us-domestic-market-stalls-2025-12-18%2f&amp;c=4846309129770995223&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Dec 2025 18:34:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Bank of England set to cut rates as inflation and economy slow",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dca4764743808e897f57420ca459&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fbank-england-set-cut-rates-inflation-economy-slow-2025-12-18%2f&amp;c=3036029806850026071&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Dec 2025 15:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US Health Department cancels millions of dollars in grants to American Academy of Pediatrics",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dcad22fe4db98d9d39d3043da2bb&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-health-department-cancels-millions-dollars-grants-american-academy-pediatrics-2025-12-17%2f&amp;c=5041091333217756416&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Dec 2025 14:07:00 GMT",
         "category": "health"
       },
       {
         "title": "Rheinmetall to sell civil business, takes 350 million euro impairment",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943c25b06034231b5aa226b06112fe7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2frheinmetall-sell-civil-business-takes-350-million-euro-impairment-2025-12-17%2f&amp;c=2059160408340061854&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6943dcaa11074ef2af6c9e1b1040af50&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2frheinmetall-sell-civil-business-takes-350-million-euro-impairment-2025-12-17%2f&amp;c=2059160408340061854&amp;mkt=en-us",
         "pubDate": "Wed, 17 Dec 2025 11:12:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
-      {
-        "title": "BP names new CEO \u2014 its fourth in 6 years",
-        "link": "https://www.cnbc.com/2025/12/18/woodside-energys-meg-oneill-to-replace-murray-auchincloss-as-bp-ceo.html",
-        "pubDate": "Thu, 18 Dec 2025 08:51:27 GMT",
-        "category": "world"
-      },
-      {
-        "title": "CNBC Daily Open: Oracle&apos;s debt seems to be affecting data center funding",
-        "link": "https://www.cnbc.com/2025/12/18/cnbc-daily-open-oracles-debt-is-starting-to-affect-its-data-center-funding.html",
-        "pubDate": "Thu, 18 Dec 2025 07:38:20 GMT",
-        "category": "tech"
-      },
       {
         "title": "Medical supply firm Medline jumps more than 40% in debut after biggest IPO of 2025",
         "link": "https://www.cnbc.com/2025/12/17/medline-debuts-nasdaq-biggest-ipo-2025.html",
