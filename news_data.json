@@ -1,8 +1,33 @@
 {
-  "updated_at": "2025-12-18T17:01:39.730386",
+  "updated_at": "2025-12-18T18:59:32.264424",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "World Series champion Dodgers\u2019 full share is $484,748, up from 2024 but below 2022 record",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444edf7cf84cffa63cec7684ffa8cf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmlb-postseason-shares-dodgers-blue-jays-fa75f7c07a4f8182202a9b89d66c033d&amp;c=4858370797641199084&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 09:00:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US says price increases eased last month but data may be distorted and Americans aren\u2019t feeling it",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444eec34f140669611f51241f79df2&amp;url=https%3a%2f%2fapnews.com%2farticle%2finflation-consumer-prices-economy-trump-tariffs-e26c4b6ee05533fd6686555e125b2e53&amp;c=12060446516064611632&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 09:00:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "A business jet crashed while landing at an airport in North Carolina, erupting in a large fire",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444ef0a0ce42f28e242412ecc5806c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fplane-crash-north-carolina-c39536433cb423432dd140e6b067d73a&amp;c=515457747875368398&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 09:00:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Austrian nuns await word from the Vatican on whether they can stay in their convent",
+        "link": "https://www.npr.org/2025/12/18/g-s1-102772/austria-nuns-convent-vatican",
+        "pubDate": "Thu, 18 Dec 2025 12:01:28 -0500",
+        "category": "world"
+      },
       {
         "title": "Inflation cools slightly in November as worries about affordability grip Americans",
         "link": "https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability",
@@ -19,7 +44,7 @@
         "title": "Could international troops be sent to Gaza? Here&apos;s why Trump&apos;s plan hinges on it",
         "link": "https://www.npr.org/2025/12/18/nx-s1-5647733/gaza-next-phase-israel-hamas",
         "pubDate": "Thu, 18 Dec 2025 07:24:34 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "RFK Jr. and Dr. Oz announce moves to ban gender-affirming care for young people",
@@ -40,21 +65,15 @@
         "category": "Top News"
       },
       {
-        "title": "Under Trump, 317,000 workers are out of the government. Here are 3 of their stories",
-        "link": "https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants",
-        "pubDate": "Thu, 18 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Where we went: NPR&apos;s U.S. travel guide for the curious",
         "link": "https://www.npr.org/2025/12/18/nx-s1-5615255/travel-guide-odd-weird-america-vacations",
         "pubDate": "Thu, 18 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
       {
-        "title": "ICE is reopening shuttered prisons as detention centers. Many have a troubled past",
-        "link": "https://www.npr.org/2025/12/15/nx-s1-5591459/former-prison-ice-detention-centers-conditions",
-        "pubDate": "Thu, 18 Dec 2025 04:43:18 -0500",
+        "title": "Under Trump, 317,000 workers are out of the government. Here are 3 of their stories",
+        "link": "https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants",
+        "pubDate": "Thu, 18 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
       {
@@ -66,7 +85,43 @@
     ],
     "bbc": [
       {
-        "title": "Zelensky gives stark warning as EU leaders hold crunch talks on Russia's frozen assets",
+        "title": "Kennedy Center to be renamed Trump-Kennedy Center, White House says",
+        "link": "https://www.bbc.com/news/articles/cp84pxvp87eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 18 Dec 2025 18:54:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK names Christian Turner as US ambassador, replacing Peter Mandelson",
+        "link": "https://www.bbc.com/news/articles/ckgmpnr4ex2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 18 Dec 2025 18:47:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Multiple deaths reported after small aircraft crashes in North Carolina",
+        "link": "https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 18 Dec 2025 18:29:53 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Faisal Islam: Will 'Santa rate cut' have enough festive spirit to boost the economy?",
+        "link": "https://www.bbc.com/news/articles/c1kp2722399o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 18 Dec 2025 18:15:56 GMT",
+        "category": "business"
+      },
+      {
+        "title": "UK to ban deepfake AI 'nudification' apps",
+        "link": "https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 18 Dec 2025 17:43:14 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Children hurt in Manchester Arena bombing to get \u00a320m in payouts",
+        "link": "https://www.bbc.com/news/articles/czj0wjper44o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 18 Dec 2025 17:35:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Zelensky gives stark warning as EU leaders decide on Russia's frozen assets",
         "link": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 18 Dec 2025 16:46:22 GMT",
         "category": "world"
@@ -81,30 +136,6 @@
         "title": "Interest rates cut to 3.75% but further reductions to be 'closer call'",
         "link": "https://www.bbc.com/news/articles/cj01v7z73q1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 18 Dec 2025 16:05:10 GMT",
-        "category": "business"
-      },
-      {
-        "title": "King Charles pours 'perfect pint' at new brewery",
-        "link": "https://www.bbc.com/news/articles/c2k431v7klko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Dec 2025 15:42:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Price increases in the US ease unexpectedly in November",
-        "link": "https://www.bbc.com/news/articles/ckg9rgll310o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Dec 2025 15:19:27 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Waterloo Road actor William Rush dies aged 31",
-        "link": "https://www.bbc.com/news/articles/cvg10gx4qe7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Dec 2025 14:52:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Boys to be sent on courses to tackle misogyny in schools",
-        "link": "https://www.bbc.com/news/articles/c9qednjzwv1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Dec 2025 14:40:55 GMT",
         "category": "Top News"
       },
       {
@@ -112,22 +143,89 @@
         "link": "https://www.bbc.com/news/articles/c3v160g7n23o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 18 Dec 2025 12:40:41 GMT",
         "category": "Top News"
+      }
+    ],
+    "reuters": [
+      {
+        "title": "Democrats release dozens more new images from Epstein estate",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444ef76fc64bd08ca85f6b1de7158d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fdemocrats-release-dozens-more-new-images-epstein-estate-2025-12-18%2f&amp;c=9689772930187922188&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 09:50:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "One in three using AI for emotional support and conversation, UK says",
-        "link": "https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Dec 2025 12:37:46 GMT",
+        "title": "Citi clears another regulatory hurdle to fix longstanding problems",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444ef76fc64bd08ca85f6b1de7158d&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fciti-clears-another-regulatory-hurdle-fix-longstanding-problems-2025-12-18%2f&amp;c=2622051974367264947&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 09:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US Democrats shelve report on 2024 loss to Trump, eye midterm comeback",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444ef9a2ed406ca208ace0e049d385&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-democrats-shelve-report-2024-loss-trump-eye-midterm-comeback-2025-12-18%2f&amp;c=11195869825169014913&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 09:34:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "US annual consumer inflation moderates in November amid missing data",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444ef76fc64bd08ca85f6b1de7158d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-annual-consumer-prices-increase-less-than-expected-november-2025-12-18%2f&amp;c=6141340596081348228&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 09:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "They quit government to protest Trump. Now they are running for Congress to stop him.",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444ef76fc64bd08ca85f6b1de7158d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fthey-quit-government-protest-trump-now-they-are-running-congress-stop-him-2025-12-18%2f&amp;c=2191178550427302259&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 09:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "In holiday speech, Trump highlights victories amid sinking approval ratings",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444ef76fc64bd08ca85f6b1de7158d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fprime-time-speech-trump-highlight-victories-amid-low-economic-approval-2025-12-17%2f&amp;c=18336133352702729939&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 08:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US House panel votes to pay air traffic controllers during future government shutdowns",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444ef76fc64bd08ca85f6b1de7158d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-house-panel-votes-pay-air-traffic-controllers-during-future-government-2025-12-18%2f&amp;c=1889288326378261854&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 08:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Why Canada's hottest shale play is catching the eye of US producers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444ef76fc64bd08ca85f6b1de7158d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fwhy-canadas-hottest-shale-play-is-catching-eye-us-producers-2025-12-18%2f&amp;c=2584227565252883491&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 07:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How Technology Is Changing the World\u2019s Food Monitoring Systems",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444f0aba8b4156b6696bc9cce15b5c&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2ftechnology-changing-worlds-food-monitoring-systems-2025-12-18%2f&amp;c=5472975032462635133&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 01:44:00 GMT",
         "category": "tech"
       },
       {
-        "title": "The surprising truth about the generations that suffer loneliness the most",
-        "link": "https://www.bbc.com/news/articles/cn0kz1wpnq5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Dec 2025 06:44:16 GMT",
-        "category": "Top News"
+        "title": "Canada's world champion Brearley out of Olympics after knee surgery",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69444ef892654ffdaae5e74f9a5a4a80&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcanadas-world-champion-brearley-out-olympics-after-knee-surgery-2025-12-18%2f&amp;c=9064915015699494346&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Dec 2025 01:30:00 GMT",
+        "category": "world"
       }
     ],
-    "reuters": [],
     "markets": [
+      {
+        "title": "Friday could be a wild day of trading on Wall Street. Here&apos;s why",
+        "link": "https://www.cnbc.com/2025/12/18/friday-could-be-a-wild-day-of-trading-on-wall-street-heres-why.html",
+        "pubDate": "Thu, 18 Dec 2025 18:32:04 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Here are the biggest IPOs of 2025 and how they performed",
+        "link": "https://www.cnbc.com/2025/12/18/here-are-the-biggest-ipos-of-2025-and-how-they-performed.html",
+        "pubDate": "Thu, 18 Dec 2025 18:20:11 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Rocket Lab, Trump Media, Lululemon, Micron Technology &amp; more",
+        "link": "https://www.cnbc.com/2025/12/18/stocks-making-the-biggest-moves-midday-rklb-djt-lulu-gev-mu.html",
+        "pubDate": "Thu, 18 Dec 2025 17:24:32 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Nike is set to report earnings after the bell. Here&apos;s what Wall Street expects",
         "link": "https://www.cnbc.com/2025/12/18/nike-nke-q2-2026-earnings.html",
@@ -141,10 +239,22 @@
         "category": "world"
       },
       {
-        "title": "Eli Lilly says obesity pill helps maintain weight loss after patients switch from Wegovy, Zepbound",
-        "link": "https://www.cnbc.com/2025/12/18/eli-lilly-obesity-pill-maintains-weight-loss-after-wegovy-zepbound-.html",
-        "pubDate": "Thu, 18 Dec 2025 16:22:58 GMT",
-        "category": "health"
+        "title": "Nvidia and Alphabet VC arms back vibe coding startup Lovable at $6.6 billion valuation",
+        "link": "https://www.cnbc.com/2025/12/18/google-and-n.html",
+        "pubDate": "Thu, 18 Dec 2025 16:12:07 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Visa says new AI shopping tool has helped customers with hundreds of transactions",
+        "link": "https://www.cnbc.com/2025/12/18/visa-ai-payments.html",
+        "pubDate": "Thu, 18 Dec 2025 14:27:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Billionaire fund manager Ron Baron praises beaten-up financial stock whose new CEO he compares to Jamie Dimon",
+        "link": "https://www.cnbc.com/2025/12/17/billionaire-investor-ron-baron-buy-financial-stocks.html",
+        "pubDate": "Thu, 18 Dec 2025 12:20:04 GMT",
+        "category": "Top News"
       }
     ]
   }
