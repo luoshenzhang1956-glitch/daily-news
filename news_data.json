@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-20T06:38:07.439044",
+  "updated_at": "2025-12-20T08:33:49.759029",
   "news": {
     "ap": [],
     "npr": [
@@ -66,19 +66,25 @@
     ],
     "bbc": [
       {
+        "title": "US carries out 'massive' strike against IS in Syria",
+        "link": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Dec 2025 08:26:54 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Jake Paul goes to hospital with suspected broken jaw after Anthony Joshua defeat",
+        "link": "https://www.bbc.com/sport/boxing/articles/cj9yp9erg23o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Dec 2025 06:32:11 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Who and what is in the Epstein files?",
         "link": "https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Dec 2025 04:52:44 GMT",
         "category": "Top News"
       },
       {
-        "title": "US carries out 'massive' strike against IS in Syria",
-        "link": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Dec 2025 01:07:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What's really going on with flu this winter?",
+        "title": "What's really going on with flu this winter",
         "link": "https://www.bbc.com/news/articles/cr7lpmkl9r1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Dec 2025 00:06:36 GMT",
         "category": "Top News"
@@ -88,12 +94,6 @@
         "link": "https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Dec 2025 00:00:19 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Putin vows no more wars if West treats Russia with respect",
-        "link": "https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Dec 2025 21:43:18 GMT",
-        "category": "world"
       },
       {
         "title": "David Walliams denies inappropriate behaviour after publisher drops him",
@@ -126,7 +126,68 @@
         "category": "tech"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Ukraine says it hit Russian oil rig, patrol ship in Caspian Sea",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69465f2ed8dd4a11bd28d5f7c788af57&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fukraine-says-it-hit-russian-oil-rig-patrol-ship-caspian-sea-2025-12-20%2f&amp;c=4232390185311195501&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Dec 2025 22:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Elise Stefanik, loyal Trump ally, ends New York governor bid and will leave politics",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69465f2ed8dd4a11bd28d5f7c788af57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2felise-stefanik-loyal-trump-ally-ends-new-york-governor-bid-will-leave-politics-2025-12-20%2f&amp;c=12715091865123871392&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Dec 2025 20:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Google warns staff with US visas against international travel due to embassy delays, Business Insider says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69465f2ed8dd4a11bd28d5f7c788af57&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fgoogle-warns-staff-with-us-visas-against-international-travel-due-embassy-delays-2025-12-20%2f&amp;c=17962518974995021453&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Dec 2025 19:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Conviction overturned for one man found guilty in Jam Master Jay's murder",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69465f2ed8dd4a11bd28d5f7c788af57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fconviction-overturned-one-man-found-guilty-jam-master-jays-murder-2025-12-20%2f&amp;c=8866207892129110413&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Dec 2025 19:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US investigators study Brown University shooter's failed past in academia",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69465f2ed8dd4a11bd28d5f7c788af57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-investigators-study-brown-university-shooters-failed-past-academia-2025-12-19%2f&amp;c=3030297406994447852&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Dec 2025 17:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Musk wins appeal that restores 2018 Tesla pay deal now worth about $139 billion",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69465f2ed8dd4a11bd28d5f7c788af57&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fmusk-wins-appeal-restores-2018-tesla-pay-deal-worth-56-billion-2025-12-19%2f&amp;c=1472407467815172542&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Dec 2025 16:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "USDA confirms bird flu case in Wisconsin dairy herd as new wildlife spillover",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69465f2ed8dd4a11bd28d5f7c788af57&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fusda-confirms-bird-flu-case-wisconsin-dairy-herd-new-wildlife-spillover-2025-12-20%2f&amp;c=16591060262073223110&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Dec 2025 15:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine welcomes 90 billion-euro EU loan, despite lack of deal on Russian assets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69465f2ed8dd4a11bd28d5f7c788af57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraine-welcomes-90-billion-euro-eu-loan-despite-lack-deal-russian-assets-2025-12-19%2f&amp;c=4671565149605026385&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Dec 2025 15:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UnitedHealth pledges operational changes after external audits",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69465f2ed8dd4a11bd28d5f7c788af57&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2funitedhealth-pledges-operational-changes-after-external-audits-2025-12-19%2f&amp;c=11508511608700283608&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Dec 2025 15:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US intelligence indicates Putin's war aims in Ukraine are unchanged",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69465f2ed8dd4a11bd28d5f7c788af57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-intelligence-indicates-putins-war-aims-ukraine-are-unchanged-2025-12-19%2f&amp;c=13633015506018117971&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Dec 2025 11:13:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "markets": [
       {
         "title": "Former Trump advisor Dina Powell McCormick leaves Meta board after eight-month stint",
