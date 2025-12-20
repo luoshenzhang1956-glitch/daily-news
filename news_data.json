@@ -1,26 +1,37 @@
 {
-  "updated_at": "2025-12-20T20:26:11.493829",
+  "updated_at": "2025-12-20T22:23:29.391690",
   "news": {
-    "ap": [
-      {
-        "title": "US tech enabled China\u2019s surveillance empire. Now Tibetan refugees in Nepal are paying the price",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6947065f5db14d29b79745fe6a6d3956&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-tibet-nepal-surveillance-technology-silicon-valley-eadac8211c5d0ca88374afecfbba00d5&amp;c=4635010212899838566&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 22:09:00 GMT",
-        "category": "business"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "North Carolina&apos;s Lumbee Tribe receives full federal recognition after 137-year effort",
+        "link": "https://www.npr.org/2025/12/20/g-s1-103223/lumbee-tribe-federal-recognition-137-years",
+        "pubDate": "Sat, 20 Dec 2025 15:57:24 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Pope Leo summons cardinals for a key assembly to help him govern Catholic Church",
+        "link": "https://www.npr.org/2025/12/20/nx-s1-5650788/pope-leo-summons-cardinals-meeting-consistory",
+        "pubDate": "Sat, 20 Dec 2025 15:24:56 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Bowen Yang leaves &apos;SNL&apos; midway through his 8th season",
+        "link": "https://www.npr.org/2025/12/20/nx-s1-5650772/bowen-yang-exits-snl",
+        "pubDate": "Sat, 20 Dec 2025 15:21:45 -0500",
+        "category": "Top News"
+      },
       {
         "title": "Available to download Friday, some Epstein files no longer there Saturday afternoon",
         "link": "https://www.npr.org/2025/12/20/nx-s1-5650758/epstein-files-doj-trump-photo",
         "pubDate": "Sat, 20 Dec 2025 14:57:48 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "U.S. forces stop a 2nd merchant vessel off Venezuela coast, officials say",
         "link": "https://www.npr.org/2025/12/20/nx-s1-5650779/venezuela-merchant-vessel-stopped-us-military",
         "pubDate": "Sat, 20 Dec 2025 14:21:31 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Special elections ordered for Mississippi Supreme Court after voting rights violation",
@@ -41,12 +52,6 @@
         "category": "tech"
       },
       {
-        "title": "U.S. launches strikes in Syria targeting Islamic State fighters after American deaths",
-        "link": "https://www.npr.org/2025/12/19/g-s1-103194/u-s-launches-strikes-syria",
-        "pubDate": "Fri, 19 Dec 2025 23:18:30 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "White House announces new round of drug-price deals",
         "link": "https://www.npr.org/sections/shots-health-news/2025/12/19/nx-s1-5649920/trump-drug-prices",
         "pubDate": "Fri, 19 Dec 2025 17:55:14 -0500",
@@ -57,32 +62,26 @@
         "link": "https://www.npr.org/2025/12/19/nx-s1-5649605/tiktok-signs-a-deal-to-spin-off-its-u-s-operation",
         "pubDate": "Fri, 19 Dec 2025 17:39:45 -0500",
         "category": "business"
-      },
-      {
-        "title": "Trump&apos;s push to end transgender care for young people opposed by pediatricians",
-        "link": "https://www.npr.org/sections/shots-health-news/2025/12/19/nx-s1-5649891/transgender-pediatrician-trump-rfk-jr-ban",
-        "pubDate": "Fri, 19 Dec 2025 17:15:52 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "It was called the Kennedy Center, but 3 different presidents shaped it",
-        "link": "https://www.npr.org/2025/12/19/nx-s1-5648599/kennedy-center-president-history",
-        "pubDate": "Fri, 19 Dec 2025 16:18:13 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Survivors and lawmakers voice frustration over partial Epstein file release",
-        "link": "https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Dec 2025 19:47:21 GMT",
-        "category": "world"
-      },
-      {
         "title": "US seizes vessel off Venezuela's coast, officials say",
         "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Dec 2025 19:27:31 GMT",
+        "pubDate": "Sat, 20 Dec 2025 22:10:56 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Strictly winners crowned in glitzy live final",
+        "link": "https://www.bbc.com/news/articles/cwyplq7zeqzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Dec 2025 21:39:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Survivors 'nervous and sceptical' about release of remaining Epstein files",
+        "link": "https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Dec 2025 20:33:04 GMT",
+        "category": "world"
       },
       {
         "title": "Engineer becomes first wheelchair user to go to space",
@@ -91,15 +90,15 @@
         "category": "Top News"
       },
       {
-        "title": "William takes George to homeless charity he visited as a child with Diana",
-        "link": "https://www.bbc.com/news/articles/cm20pn2llzyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Dec 2025 16:02:04 GMT",
+        "title": "Paul has titanium plates fitted after Joshua breaks his jaw",
+        "link": "https://www.bbc.com/sport/boxing/articles/cj9yp9erg23o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Dec 2025 18:17:18 GMT",
         "category": "Top News"
       },
       {
-        "title": "Famous faces, court documents and redacted pages - what's in the Epstein files",
-        "link": "https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Dec 2025 14:42:43 GMT",
+        "title": "William takes George to homeless charity he visited as a child with Diana",
+        "link": "https://www.bbc.com/news/articles/cm20pn2llzyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Dec 2025 16:02:04 GMT",
         "category": "Top News"
       },
       {
@@ -118,12 +117,6 @@
         "title": "When roads will be busiest and supermarket hours: How to navigate the Christmas break",
         "link": "https://www.bbc.com/news/articles/cwyld08qzgno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Dec 2025 00:51:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What's really going on with flu this winter",
-        "link": "https://www.bbc.com/news/articles/cr7lpmkl9r1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Dec 2025 00:06:36 GMT",
         "category": "Top News"
       },
       {
