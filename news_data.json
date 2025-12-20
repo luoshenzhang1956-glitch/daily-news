@@ -1,32 +1,31 @@
 {
-  "updated_at": "2025-12-19T22:26:10.956224",
+  "updated_at": "2025-12-20T01:56:44.261641",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "PHOTO ESSAY: Seeing the invisible - how AP photographers captured infrared technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0e5cd0540f6921a283d113c28b8&amp;url=https%3a%2f%2fapnews.com%2fphoto-essay%2fchinese-surveillance-silicon-valley-tech-photo-essay-2da6d9ae5c29d973955e761fa42f7798&amp;c=15927901388433484908&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 12:31:00 GMT",
-        "category": "tech"
+        "title": "White House announces new round of drug-price deals",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/12/19/nx-s1-5649920/trump-drug-prices",
+        "pubDate": "Fri, 19 Dec 2025 17:55:14 -0500",
+        "category": "health"
       },
       {
-        "title": "These are Americans\u2019 biggest priorities for the government in 2026, according to a new AP-NORC poll",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0e6b9d8442f94cf1e2a2fa81d3a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpoll-government-priorities-health-care-costs-trump-9426742bd09273ec9b67c7321dae8a02&amp;c=3956198874897152821&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 06:48:00 GMT",
-        "category": "health"
-      }
-    ],
-    "npr": [
+        "title": "TikTok signs a deal to spin off its U.S. operation",
+        "link": "https://www.npr.org/2025/12/19/nx-s1-5649605/tiktok-signs-a-deal-to-spin-off-its-u-s-operation",
+        "pubDate": "Fri, 19 Dec 2025 17:39:45 -0500",
+        "category": "business"
+      },
+      {
+        "title": "Detained migrant children aren&apos;t being reunited with family, government sources say",
+        "link": "https://www.npr.org/2025/12/19/nx-s1-5648778/detained-migrant-children-arent-being-reunited-with-family-government-sources-say",
+        "pubDate": "Fri, 19 Dec 2025 17:39:32 -0500",
+        "category": "us"
+      },
       {
         "title": "Trump&apos;s push to end transgender care for young people opposed by pediatricians",
         "link": "https://www.npr.org/sections/shots-health-news/2025/12/19/nx-s1-5649891/transgender-pediatrician-trump-rfk-jr-ban",
         "pubDate": "Fri, 19 Dec 2025 17:15:52 -0500",
-        "category": "us"
-      },
-      {
-        "title": "Parent volunteers help other parents through a pediatric cancer diagnosis",
-        "link": "https://www.npr.org/2025/12/19/nx-s1-5599184/parent-volunteers-help-other-parents-through-a-pediatric-cancer-diagnosis",
-        "pubDate": "Fri, 19 Dec 2025 16:53:23 -0500",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Where ISIS is still active today",
@@ -41,7 +40,7 @@
         "category": "Top News"
       },
       {
-        "title": "Justice Department begins the release of the Epstein files",
+        "title": "DOJ releases Epstein files and the first batch is short on new information",
         "link": "https://www.npr.org/2025/12/19/nx-s1-5615152/epstein-files-release-trump-pam-bondi-democrats",
         "pubDate": "Fri, 19 Dec 2025 16:04:15 -0500",
         "category": "Top News"
@@ -59,18 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "A Reddit post helped find MIT and Brown shooting suspect. Here&apos;s what we know",
-        "link": "https://www.npr.org/2025/12/19/nx-s1-5649528/brown-mit-shooter-what-we-know",
-        "pubDate": "Fri, 19 Dec 2025 12:14:22 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "4 common scams to watch out for this holiday season",
-        "link": "https://www.npr.org/2025/12/19/nx-s1-5613431/4-common-scams-to-watch-out-for-this-holiday-season",
-        "pubDate": "Fri, 19 Dec 2025 08:12:19 -0500",
-        "category": "business"
-      },
-      {
         "title": "In the shadow of U.S. export controls, China rallies its own chip industry",
         "link": "https://www.npr.org/2025/12/19/nx-s1-5637428/china-chip-industry-trade-restrictions",
         "pubDate": "Fri, 19 Dec 2025 05:00:00 -0500",
@@ -78,6 +65,24 @@
       }
     ],
     "bbc": [
+      {
+        "title": "US carries out 'massive' strike against IS in Syria",
+        "link": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Dec 2025 01:07:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What's really going on with flu this winter?",
+        "link": "https://www.bbc.com/news/articles/cr7lpmkl9r1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Dec 2025 00:06:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rosenberg: Was Putin's response to my question about war in Europe an olive branch?",
+        "link": "https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Dec 2025 00:00:19 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Putin vows no more wars if West treats Russia with respect",
         "link": "https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&amp;at_campaign=rss",
@@ -91,9 +96,9 @@
         "category": "Top News"
       },
       {
-        "title": "Putin tells BBC Western leaders deceived Russia",
-        "link": "https://www.bbc.com/news/videos/cj01pdve7rpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Dec 2025 18:15:04 GMT",
+        "title": "Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality",
+        "link": "https://www.bbc.com/news/articles/cqxql12317qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Dec 2025 19:04:13 GMT",
         "category": "Top News"
       },
       {
@@ -103,28 +108,10 @@
         "category": "health"
       },
       {
-        "title": "Kylie is Christmas number one - she'll do a jigsaw to celebrate",
-        "link": "https://www.bbc.com/news/articles/c3w7290wl5xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Dec 2025 17:40:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Family of stabbed girl say 'our hearts are broken'",
-        "link": "https://www.bbc.com/news/articles/c33m2j4nnkro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Dec 2025 17:07:22 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Millions head off for Christmas on busiest day of festive getaway",
         "link": "https://www.bbc.com/news/articles/c5yjvnr655po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 19 Dec 2025 17:01:49 GMT",
         "category": "business"
-      },
-      {
-        "title": "Harry and Meghan embrace their children in Christmas message",
-        "link": "https://www.bbc.com/news/articles/c865dvn2l92o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Dec 2025 16:54:45 GMT",
-        "category": "Top News"
       },
       {
         "title": "How a Reddit tipster cracked the Brown University shooting case",
@@ -139,111 +126,7 @@
         "category": "tech"
       }
     ],
-    "reuters": [
-      {
-        "title": "U.S. investigators study Brown University shooter's failed past in academia",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0e859b445e98e6996b4d1a4410f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-investigators-study-brown-university-shooters-failed-past-academia-2025-12-19%2f&amp;c=3030297406994447852&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 12:48:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration imposes restrictions on Mexican train crews operating inside US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0e859b445e98e6996b4d1a4410f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-administration-imposes-restrictions-mexican-train-crews-operating-inside-2025-12-19%2f&amp;c=5381006950138611759&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 12:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Four died in ICE custody this week as 2025 deaths reach 20-year high",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0e859b445e98e6996b4d1a4410f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffour-died-ice-custody-this-week-2025-deaths-reach-20-year-high-2025-12-19%2f&amp;c=1284234673499160199&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 11:51:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: BofA bonuses will jump for investment bankers this year, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0e859b445e98e6996b4d1a4410f&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fbofa-bonuses-will-jump-investment-bankers-this-year-sources-say-2025-12-19%2f&amp;c=7752673722169729157&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 11:33:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US intelligence indicates Putin's war aims in Ukraine are unchanged",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0e859b445e98e6996b4d1a4410f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-intelligence-indicates-putins-war-aims-ukraine-are-unchanged-2025-12-19%2f&amp;c=13633015506018117971&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 11:13:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Starbucks taps Amazon's Anand Varadarajan as new chief technology officer",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0f935f3418b991449f5e3b8bb42&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fstarbucks-taps-amazons-anand-varadarajan-new-chief-technology-officer-2025-12-19%2f&amp;c=12149319067625411562&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 10:31:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Ukraine welcomes 90 billion-euro EU loan, despite lack of deal on Russian assets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0e859b445e98e6996b4d1a4410f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraine-welcomes-90-billion-euro-eu-loan-despite-lack-deal-russian-assets-2025-12-19%2f&amp;c=4671565149605026385&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 09:44:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kennedy Center wastes no time adding Trump's name to the building",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0e859b445e98e6996b4d1a4410f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fkennedy-center-wastes-no-time-adding-trumps-name-building-2025-12-19%2f&amp;c=447274270414907465&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 09:27:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US existing home sales edge up in November as mortgage rates ease",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0e9c9bc49f690b001dd0ed6f60b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-existing-home-sales-increase-moderately-november-2025-12-19%2f&amp;c=2716354568377841910&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 08:54:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Language in health research grants is changing under political pressure",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6945d0facfe74aa5b1fa9628caff4307&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2flanguage-health-research-grants-is-changing-under-political-pressure-2025-12-19%2f&amp;c=13886635984239023299&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Dec 2025 03:14:00 GMT",
-        "category": "health"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Elon Musk&apos;s 2018 Tesla pay package must be restored, Delaware Supreme Court rules",
-        "link": "https://www.cnbc.com/2025/12/19/musk-tesla-pay-delaware-supreme-court.html",
-        "pubDate": "Fri, 19 Dec 2025 22:21:17 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Inside the dealmaking that pushed Trump to reclassify pot, expand access",
-        "link": "https://www.cnbc.com/2025/12/19/trump-pot-executive-order-medicare-cbd-lobbying-donors.html",
-        "pubDate": "Fri, 19 Dec 2025 22:20:41 GMT",
-        "category": "business"
-      },
-      {
-        "title": "S&amp;P 500 posts back-to-back gains Friday as AI trade makes a comeback: Live updates",
-        "link": "https://www.cnbc.com/2025/12/18/stock-market-today-live-updates.html",
-        "pubDate": "Fri, 19 Dec 2025 21:47:45 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Robinhood is in the midst of a bearish reversal, says Carter Worth",
-        "link": "https://www.cnbc.com/2025/12/19/robinhood-is-in-the-midst-of-a-bearish-reversal-says-carter-worth.html",
-        "pubDate": "Fri, 19 Dec 2025 19:19:03 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Lamb Weston, KB Home, Carnival, Oracle, CoreWeave &amp; more",
-        "link": "https://www.cnbc.com/2025/12/19/stocks-making-the-biggest-moves-midday-lw-kbh-ccl-orcl-crwv.html",
-        "pubDate": "Fri, 19 Dec 2025 18:26:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Waller had a &apos;strong interview&apos; for Fed chair with Trump as president appears to turn focus to job market",
-        "link": "https://www.cnbc.com/2025/12/19/waller-had-a-strong-interview-for-fed-chair-with-trump.html",
-        "pubDate": "Fri, 19 Dec 2025 15:51:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UnitedHealth Group commits to improvements\u00a0after independent audit, patient backlash",
-        "link": "https://www.cnbc.com/2025/12/19/unitedhealth-group-results-independent-audit-investigation.html",
-        "pubDate": "Fri, 19 Dec 2025 14:25:37 GMT",
-        "category": "health"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
