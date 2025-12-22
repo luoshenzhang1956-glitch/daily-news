@@ -1,15 +1,21 @@
 {
-  "updated_at": "2025-12-22T16:35:47.852182",
+  "updated_at": "2025-12-22T18:40:51.463549",
   "news": {
     "ap": [
       {
-        "title": "Singer-songwriter Chris Rea, known for \u2018Driving Home for Christmas,\u2019 dies at 74",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694972faeb634d93b5dab82244eeb927&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchris-rea-singer-dies-64d904bc37d9099c821e18fb69d8e6c4&amp;c=7330503731789269240&amp;mkt=en-us",
-        "pubDate": "Mon, 22 Dec 2025 07:42:00 GMT",
-        "category": "health"
+        "title": "2026 world sports calendar",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949901b353240ab9e51a74613bda5fe&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftennis-boxing-new-zealand-billie-jean-king-italy-8f1ee6aab0f74c02745b4639b18d77ed&amp;c=3273801090187363626&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 09:31:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
+      {
+        "title": "The Trump administration pauses wind projects off New England, New York and Virginia",
+        "link": "https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security",
+        "pubDate": "Mon, 22 Dec 2025 12:09:42 -0500",
+        "category": "business"
+      },
       {
         "title": "DOJ releases more Epstein files. And, immigration court &apos;no-shows&apos; surged, NPR finds",
         "link": "https://www.npr.org/2025/12/22/g-s1-103305/up-first-newsletter-us-venezuela-oil-tankers-epstein-files-immigration-court",
@@ -21,12 +27,6 @@
         "link": "https://www.npr.org/2025/12/22/nx-s1-5647793/music-therapy-vinyl-healing-palliative-care",
         "pubDate": "Mon, 22 Dec 2025 06:00:00 -0500",
         "category": "us"
-      },
-      {
-        "title": "Can Americans learn to love tiny, cheap kei cars?",
-        "link": "https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles",
-        "pubDate": "Mon, 22 Dec 2025 05:00:00 -0500",
-        "category": "business"
       },
       {
         "title": "How systemic failures turn state mental hospitals into prisons",
@@ -47,6 +47,12 @@
         "category": "Top News"
       },
       {
+        "title": "Can Americans learn to love tiny, cheap kei cars?",
+        "link": "https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles",
+        "pubDate": "Mon, 22 Dec 2025 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Some patients face hurdles getting HIV prevention drugs. Here&apos;s what to know",
         "link": "https://www.npr.org/2025/12/22/nx-s1-5645054/hiv-prevention-drug-prep-billing",
         "pubDate": "Mon, 22 Dec 2025 05:00:00 -0500",
@@ -59,12 +65,6 @@
         "category": "Top News"
       },
       {
-        "title": "How President Trump reshaped capitalism in 2025",
-        "link": "https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market",
-        "pubDate": "Mon, 22 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "How a power outage in Colorado caused U.S. official time to be 4.8 microseconds off",
         "link": "https://www.npr.org/2025/12/21/nx-s1-5651317/colorado-us-official-time-microseconds-nist-clocks",
         "pubDate": "Sun, 21 Dec 2025 19:11:07 -0500",
@@ -73,9 +73,39 @@
     ],
     "bbc": [
       {
+        "title": "Post Office had deal with Fujitsu to fix Horizon errors 19 years ago",
+        "link": "https://www.bbc.com/news/articles/cqlkx6n15ero?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Dec 2025 18:25:38 GMT",
+        "category": "business"
+      },
+      {
         "title": "Canal boats swallowed by giant hole as major incident declared",
         "link": "https://www.bbc.com/news/articles/c2lvq0yk9dko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Dec 2025 15:53:54 GMT",
+        "pubDate": "Mon, 22 Dec 2025 18:14:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Two identical Banksy murals appear in London",
+        "link": "https://www.bbc.com/news/articles/c62d16q93x4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Dec 2025 18:05:04 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Husband and five other men charged with sex offences against ex-wife",
+        "link": "https://www.bbc.com/news/articles/c78vgm0e3zzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Dec 2025 17:58:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US pursuing third oil tanker linked to Venezuela, official says",
+        "link": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Dec 2025 16:59:47 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Baby followed by BBC back in Gaza hospital after treatment abroad",
+        "link": "https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Dec 2025 16:59:47 GMT",
         "category": "Top News"
       },
       {
@@ -83,24 +113,6 @@
         "link": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 22 Dec 2025 15:49:12 GMT",
         "category": "world"
-      },
-      {
-        "title": "Two identical Banksy murals appear in London",
-        "link": "https://www.bbc.com/news/articles/c62d16q93x4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Dec 2025 15:44:07 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: Dramatic aerial footage shows scale of damage",
-        "link": "https://www.bbc.com/news/videos/c62n9694lgxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Dec 2025 14:56:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Petrol and diesel profit margins still persistently high, says watchdog",
-        "link": "https://www.bbc.com/news/articles/c2dzk4kz722o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Dec 2025 14:29:52 GMT",
-        "category": "business"
       },
       {
         "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
@@ -115,39 +127,51 @@
         "category": "Top News"
       },
       {
-        "title": "US pursuing third oil tanker linked to Venezuela, official says",
-        "link": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Dec 2025 12:56:19 GMT",
-        "category": "us"
-      },
-      {
         "title": "Hospitals working to get patients home for Christmas after five-day doctor strike",
         "link": "https://www.bbc.com/news/articles/c36zdpng7gro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 22 Dec 2025 09:25:33 GMT",
         "category": "health"
-      },
-      {
-        "title": "I bought two pairs of leggings - but accidental subscription meant they cost me \u00a35,000",
-        "link": "https://www.bbc.com/news/articles/cy952p9pev7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Dec 2025 05:51:48 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "US pauses leases for five offshore wind projects over radar concerns",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949731b90384ea3967d268c81697633&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-pausing-five-offshore-wind-projects-over-national-security-concerns-burgum-2025-12-22%2f&amp;c=6946377945903248660&amp;mkt=en-us",
-        "pubDate": "Mon, 22 Dec 2025 06:08:00 GMT",
+        "title": "US freezes five big offshore wind projects, shares dive",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949905efff0425aa49962444a4757c8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-pausing-five-offshore-wind-projects-over-national-security-concerns-burgum-2025-12-22%2f&amp;c=6946377945903248660&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 08:56:00 GMT",
         "category": "us"
       },
       {
-        "title": "CACI expands space, defense footprint with $2.6 billion ARKA buy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949731d0aae41f5a9d3dad8cbf0b5e7&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fcaci-expands-space-defense-footprint-with-26-billion-arka-buy-2025-12-22%2f&amp;c=9420137434655683049&amp;mkt=en-us",
-        "pubDate": "Mon, 22 Dec 2025 04:28:00 GMT",
+        "title": "Alphabet to buy clean energy developer Intersect in $4.75 billion deal amid AI push",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694990725f96400a882f6911e19da58a&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2falphabet-buy-data-center-infrastructure-firm-intersect-475-billion-deal-2025-12-22%2f&amp;c=15051927430768721402&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 08:32:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "US bobsledder Humphries celebrates first World Cup win since 2023",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949905d888441bca46bb77d9c4e419a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fus-bobsledder-humphries-celebrates-first-world-cup-win-since-2023-2025-12-22%2f&amp;c=5115484386568097807&amp;mkt=en-us",
+        "pubDate": "Sun, 21 Dec 2025 22:22:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
+      {
+        "title": "Why Warner Bros. Discovery shareholders might opt for Paramount&apos;s offer \u2014 and why they might not",
+        "link": "https://www.cnbc.com/2025/12/22/paramount-wbd-tender-offer-arguments.html",
+        "pubDate": "Mon, 22 Dec 2025 18:09:08 GMT",
+        "category": "business"
+      },
+      {
+        "title": "We&apos;re putting an AI giant in the Bullpen \u2014 not letting a mistake cloud our judgment",
+        "link": "https://www.cnbc.com/2025/12/22/were-putting-an-ai-giant-in-the-bullpen-not-letting-a-mistake-cloud-our-judgment.html",
+        "pubDate": "Mon, 22 Dec 2025 17:54:31 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "A look at two industrial names on our Best Stocks list, including one that&apos;s a buy right now",
+        "link": "https://www.cnbc.com/2025/12/22/a-look-at-two-industrial-names-on-our-best-stocks-list-including-one-thats-a-buy-right-now.html",
+        "pubDate": "Mon, 22 Dec 2025 16:23:07 GMT",
+        "category": "us"
+      },
       {
         "title": "Denmark to summon U.S. ambassador as Trump&apos;s Greenland special envoy appointment stirs tensions",
         "link": "https://www.cnbc.com/2025/12/22/denamark-to-summon-us-ambassador-over-trumps-greenland-special-envoy.html",
