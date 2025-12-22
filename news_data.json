@@ -1,26 +1,68 @@
 {
-  "updated_at": "2025-12-22T20:31:28.295985",
+  "updated_at": "2025-12-22T22:28:09.199946",
   "news": {
     "ap": [
       {
+        "title": "How major US stock indexes fared Monday, 12/22/2025",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5858f4642b98a3581e0f2e88936&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwall-street-stocks-dow-nasdaq-385d7805e3de153b5da6744e1bbde79c&amp;c=14299259623787865115&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 13:27:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Neymar has minor left knee surgery and hopes to reach the World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949aa2119074adf90686d5361ee8df8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fneymar-surgery-knee-brazil-1a0d4246f2bb34ff3a3772d8f4bf8ae8&amp;c=15109933888458815278&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c584f3f54a71880c6f9f491021db&amp;url=https%3a%2f%2fapnews.com%2farticle%2fneymar-surgery-knee-brazil-1a0d4246f2bb34ff3a3772d8f4bf8ae8&amp;c=15109933888458815278&amp;mkt=en-us",
         "pubDate": "Mon, 22 Dec 2025 12:09:00 GMT",
         "category": "world"
       },
       {
-        "title": "Google\u2019s parent buys data center energy specialist Intersect for $4.75 billion to help power AI",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949aa416cec4c74a0b495b4de5724c7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgoogle-alphabet-artificial-intelligence-energy-acquisition-e1eda1fb34b345e4e92ee0010be59f71&amp;c=12310388509326138255&amp;mkt=en-us",
-        "pubDate": "Mon, 22 Dec 2025 10:12:00 GMT",
-        "category": "tech"
+        "title": "Aetna to cover IVF treatments for same-sex couples in national settlement",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5a686a54e86b4ad1675d9f33ae7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fphillip-blando-assisted-reproductive-technology-infertility-legal-proceedings-lawsuits-17371b4b0f7125ed4fdae16c87bb94dd&amp;c=5126383127639885880&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 11:19:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Takeaways from AP\u2019s report on a beef plant closure that threatens to unravel a small Nebraska town",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5885cc04b8e80058e3695065799&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftyson-closure-workers-lexington-nebraska-beef-plant-ad4deb5066d426724e881d7619155757&amp;c=12638354969588889250&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 09:59:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
       {
+        "title": "Bari Weiss halts &apos;60 Minutes&apos; story, sparking an outrage",
+        "link": "https://www.npr.org/2025/12/22/nx-s1-5651994/bari-weiss-halts-60-minutes-story-sparking-an-outrage",
+        "pubDate": "Mon, 22 Dec 2025 17:21:25 -0500",
+        "category": "business"
+      },
+      {
+        "title": "Nearly two dozen states sue the Trump administration over funding for CFPB",
+        "link": "https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit",
+        "pubDate": "Mon, 22 Dec 2025 16:52:45 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Limiting migration led to 1.6 million losing legal status in 2025",
+        "link": "https://www.npr.org/2025/12/22/nx-s1-5641022/limiting-migration-led-to-1-6-million-losing-legal-status-in-2025",
+        "pubDate": "Mon, 22 Dec 2025 16:34:18 -0500",
+        "category": "us"
+      },
+      {
+        "title": "GLP-1s don&apos;t always work for weight loss. Researchers are trying to figure out why",
+        "link": "https://www.npr.org/2025/12/22/nx-s1-5630071-e1/glp-1s-dont-always-work-for-weight-loss-researchers-are-trying-to-figure-out-why",
+        "pubDate": "Mon, 22 Dec 2025 16:16:54 -0500",
+        "category": "health"
+      },
+      {
+        "title": "A rift in MAGA has top Heritage Foundation officials leaving to join with Mike Pence",
+        "link": "https://www.npr.org/2025/12/22/nx-s1-5651990/heritage-foundation-mike-pence",
+        "pubDate": "Mon, 22 Dec 2025 16:06:51 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "The Trump administration pauses wind projects off New England, New York and Virginia",
         "link": "https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security",
         "pubDate": "Mon, 22 Dec 2025 12:09:42 -0500",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "DOJ releases more Epstein files. And, immigration court &apos;no-shows&apos; surged, NPR finds",
@@ -38,36 +80,6 @@
         "title": "&apos;Music makes everything better&apos;: A Texas doctor spins vinyl to give patients relief",
         "link": "https://www.npr.org/2025/12/22/nx-s1-5647793/music-therapy-vinyl-healing-palliative-care",
         "pubDate": "Mon, 22 Dec 2025 06:00:00 -0500",
-        "category": "us"
-      },
-      {
-        "title": "How systemic failures turn state mental hospitals into prisons",
-        "link": "https://www.npr.org/sections/shots-health-news/2025/12/22/nx-s1-5644745/serious-mental-illness-psychosis-psychiatric-hospital-schizophrenia-crime-prison-ohio",
-        "pubDate": "Mon, 22 Dec 2025 05:00:00 -0500",
-        "category": "health"
-      },
-      {
-        "title": "Here are some of the NPR stories that had a big impact in 2025",
-        "link": "https://www.npr.org/2025/12/22/g-s1-99098/impact-journalism",
-        "pubDate": "Mon, 22 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Can Americans learn to love tiny, cheap kei cars?",
-        "link": "https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles",
-        "pubDate": "Mon, 22 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "NPR analysis shows skyrocketing number of &apos;no-shows&apos; in immigration court",
-        "link": "https://www.npr.org/2025/12/22/nx-s1-5583971/trump-ice-immigration-arrests-deportation-no-shows",
-        "pubDate": "Mon, 22 Dec 2025 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Some patients face hurdles getting HIV prevention drugs. Here&apos;s what to know",
-        "link": "https://www.npr.org/2025/12/22/nx-s1-5645054/hiv-prevention-drug-prep-billing",
-        "pubDate": "Mon, 22 Dec 2025 05:00:00 -0500",
         "category": "Top News"
       },
       {
@@ -79,9 +91,21 @@
     ],
     "bbc": [
       {
+        "title": "Carney names ex-Blackrock executive as new US ambassador",
+        "link": "https://www.bbc.com/news/articles/ceq1z9llng8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Dec 2025 21:48:36 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Driving Home for Christmas singer Chris Rea dies aged 74",
+        "link": "https://www.bbc.com/news/articles/c8r3ne23e4go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Dec 2025 21:46:33 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Two men jailed for Grindr targeted thefts",
         "link": "https://www.bbc.com/news/articles/cqlkx2z4zgwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Dec 2025 20:20:07 GMT",
+        "pubDate": "Mon, 22 Dec 2025 21:27:13 GMT",
         "category": "Top News"
       },
       {
@@ -109,18 +133,6 @@
         "category": "Top News"
       },
       {
-        "title": "US lawmakers threaten legal action over unreleased Epstein files",
-        "link": "https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Dec 2025 17:35:52 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Driving Home for Christmas singer Chris Rea dies aged 74",
-        "link": "https://www.bbc.com/news/articles/c8r3ne23e4go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Dec 2025 17:07:09 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "New Trump envoy says he will serve to make Greenland part of US",
         "link": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 22 Dec 2025 15:49:12 GMT",
@@ -141,36 +153,84 @@
     ],
     "reuters": [
       {
-        "title": "US adds DJI, other foreign drones to national security list",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949aa61e5d9443ebcf6542198fac4b5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-adds-dji-other-foreign-drones-national-security-list-2025-12-22%2f&amp;c=15350054255920843394&amp;mkt=en-us",
-        "pubDate": "Mon, 22 Dec 2025 10:32:00 GMT",
-        "category": "us"
+        "title": "US Justice Department handling of Epstein file release sparks backlash",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5a8d8b74e50ab5c33cfc38d695e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-justice-department-handling-epstein-file-release-sparks-backlash-2025-12-22%2f&amp;c=7849667105525820617&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 13:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US freezes five big offshore wind projects, shares dive",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5a8d8b74e50ab5c33cfc38d695e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-pausing-five-offshore-wind-projects-over-national-security-concerns-burgum-2025-12-22%2f&amp;c=6946377945903248660&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 12:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Could a group of women veteran \u2018Hellcats\u2019 help Democrats flip the House in 2026?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5a8d8b74e50ab5c33cfc38d695e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fcould-group-women-veteran-hellcats-help-democrats-flip-house-2026-2025-12-22%2f&amp;c=15027275146811005288&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 12:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Democratic-led states sue to block US consumer watchdog's defunding under Trump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5a8d8b74e50ab5c33cfc38d695e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdemocratic-led-states-sue-block-us-consumer-watchdogs-defunding-under-trump-2025-12-22%2f&amp;c=2350126863113897980&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 12:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US farm agency lost 20,000 staff in first five months of Trump administration",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5a8d8b74e50ab5c33cfc38d695e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fus-farm-agency-lost-20000-staff-first-five-months-trump-administration-2025-12-22%2f&amp;c=2372918225008673945&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 12:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US business equipment borrowings down more than 4% y/y in November, ELFA says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5c6f23d4ca8b4785586592b17d8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-business-equipment-borrowings-down-more-than-4-yy-november-elfa-says-2025-12-22%2f&amp;c=7938377280253396896&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 11:05:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Barry Manilow shares cancer diagnosis as surgery prompts concert cancellations",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5a8d8b74e50ab5c33cfc38d695e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fbarry-manilow-shares-cancer-diagnosis-surgery-prompts-concert-cancellations-2025-12-22%2f&amp;c=1351677681534832210&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 09:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Waymo resumes San Francisco service after power outage pause",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5a8d8b74e50ab5c33cfc38d695e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fwaymo-resumes-san-francisco-service-after-power-outage-pause-2025-12-22%2f&amp;c=11721386847252281676&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 08:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed's Miran says he will likely stay after term ends until his seat is filled",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5a8d8b74e50ab5c33cfc38d695e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2ffeds-miran-says-hell-likely-stay-after-term-ends-until-his-seat-is-filled-2025-12-22%2f&amp;c=5125181573862782436&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 08:43:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Alphabet to buy clean energy developer Intersect in $4.75 billion deal amid AI push",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949aa7c14b74604a27d51c921c6d068&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2falphabet-buy-data-center-infrastructure-firm-intersect-475-billion-deal-2025-12-22%2f&amp;c=15051927430768721402&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949c5c7cac144f5a250595ceebdaf05&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2falphabet-buy-data-center-infrastructure-firm-intersect-475-billion-deal-2025-12-22%2f&amp;c=15051927430768721402&amp;mkt=en-us",
         "pubDate": "Mon, 22 Dec 2025 08:32:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "US bobsledder Humphries celebrates first World Cup win since 2023",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949aa5e6a014ff6b66e11b9e1b9c3d3&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fus-bobsledder-humphries-celebrates-first-world-cup-win-since-2023-2025-12-22%2f&amp;c=5115484386568097807&amp;mkt=en-us",
-        "pubDate": "Sun, 21 Dec 2025 22:22:00 GMT",
-        "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Denmark to summon U.S. ambassador as Trump&apos;s Greenland special envoy appointment stirs tensions",
-        "link": "https://www.cnbc.com/2025/12/22/denamark-to-summon-us-ambassador-over-trumps-greenland-special-envoy.html",
-        "pubDate": "Mon, 22 Dec 2025 19:49:55 GMT",
-        "category": "world"
+        "title": "Tuesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2025/12/22/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Mon, 22 Dec 2025 21:53:35 GMT",
+        "category": "us"
       },
       {
         "title": "Stocks making the biggest moves midday: Dominion Energy, Paramount, Rocket Lab, Stanley Black &amp; Decker and more",
         "link": "https://www.cnbc.com/2025/12/22/stocks-making-the-biggest-moves-midday-d-psky-rklb-swk.html",
         "pubDate": "Mon, 22 Dec 2025 18:34:28 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Why Warner Bros. Discovery shareholders might opt for Paramount&apos;s offer \u2014 and why they might not",
+        "link": "https://www.cnbc.com/2025/12/22/paramount-wbd-tender-offer-arguments.html",
+        "pubDate": "Mon, 22 Dec 2025 18:09:08 GMT",
+        "category": "business"
       },
       {
         "title": "Asset manager Janus Henderson gets bought by Trian, General Catalyst for $7.4 billion",
