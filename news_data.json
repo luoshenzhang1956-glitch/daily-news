@@ -1,8 +1,21 @@
 {
-  "updated_at": "2025-12-23T18:40:24.801846",
+  "updated_at": "2025-12-23T20:31:23.019049",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Colombia declares an economic emergency in a criticized effort to raise more taxes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694afba9a6184e759427e4434e84dd35&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcolombia-economy-emergency-taxes-4aa37af8e01f9f638d3117106df5e25b&amp;c=14592665361428216966&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 08:19:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "A diplomat&apos;s tears, 200 snake bites, drone pix: Goats and Soda&apos;s top stories in 2025",
+        "link": "https://www.npr.org/sections/goats-and-soda/2025/12/23/g-s1-102421/popular-global-health-drone-photos-ancient-disease-lead-pollution",
+        "pubDate": "Tue, 23 Dec 2025 13:58:32 -0500",
+        "category": "health"
+      },
       {
         "title": "Student loan borrowers in default may soon see their wages garnished",
         "link": "https://www.npr.org/2025/12/23/nx-s1-5653312/student-loans-default-education-department",
@@ -25,7 +38,7 @@
         "title": "Scientists learn more about how human embryos implant using artificial wombs",
         "link": "https://www.npr.org/2025/12/23/nx-s1-5646649/human-embryos-implantation-artificial-womb",
         "pubDate": "Tue, 23 Dec 2025 11:00:00 -0500",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "2025: The images that stayed with us",
@@ -56,17 +69,23 @@
         "link": "https://www.npr.org/2025/12/23/g-s1-103424/us-approve-pill-for-weight-loss",
         "pubDate": "Tue, 23 Dec 2025 05:27:45 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "American journalist injured in Israeli attack wants answers from Washington",
-        "link": "https://www.npr.org/2025/12/23/g-s1-103310/dylan-collins-lebanon-israel-attack-washington-congress",
-        "pubDate": "Tue, 23 Dec 2025 05:02:00 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Russell Brand charged with new rape and sexual assault offences",
+        "title": "Libya's army chief killed in air crash in Turkey",
+        "link": "https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Dec 2025 20:18:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump travelled on Epstein's plane more than previously thought, prosecutor says",
+        "link": "https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Dec 2025 19:46:42 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Russell Brand charged with new offences of rape and sexual assault",
         "link": "https://www.bbc.com/news/articles/clyd5ynxvqxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Dec 2025 17:55:44 GMT",
         "category": "Top News"
@@ -84,12 +103,6 @@
         "category": "Top News"
       },
       {
-        "title": "Husband in court charged with drugging and repeatedly raping ex-wife",
-        "link": "https://www.bbc.com/news/articles/cdrnvvyy8kzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 17:01:05 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Men guilty of gun attack plot targeting Manchester's Jewish community",
         "link": "https://www.bbc.com/news/articles/c7vmyv5vmm2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Dec 2025 16:13:23 GMT",
@@ -100,12 +113,6 @@
         "link": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Dec 2025 15:56:57 GMT",
         "category": "us"
-      },
-      {
-        "title": "Three killed after Russia launches 'massive' attack across Ukraine",
-        "link": "https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 15:45:07 GMT",
-        "category": "world"
       },
       {
         "title": "Boaters stranded for Christmas after canal collapse",
@@ -128,29 +135,17 @@
     ],
     "reuters": [
       {
-        "title": "Measles cases in South Carolina rise by nine to 153, state health department says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694ae2053ca64f98bd5fbd3facf672f0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmeasles-cases-south-carolina-rise-by-nine-153-state-health-department-says-2025-12-23%2f&amp;c=8484703542361797116&amp;mkt=en-us",
-        "pubDate": "Tue, 23 Dec 2025 08:30:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "US delays announcement of China chip tariffs until 2027",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694ae20466854e9b8be1257d653a9d10&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-impose-tariffs-chips-china-2025-12-23%2f&amp;c=17751475121329221082&amp;mkt=en-us",
-        "pubDate": "Tue, 23 Dec 2025 07:50:00 GMT",
-        "category": "tech"
+        "title": "Punjab power hitter Connolly targeting Australia T20 World Cup spot",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694afbbbf4d54b95b48326cd046adde1&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fpunjab-power-hitter-connolly-targeting-australia-t20-world-cup-spot-2025-12-23%2f&amp;c=528866082171869030&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 23:34:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Eli Lilly investors shouldn\u2019t sweat rival Novo Nordisk having the first obesity pill on sale",
-        "link": "https://www.cnbc.com/2025/12/23/eli-lilly-investors-shouldnt-sweat-rival-novo-nordisk-having-the-first-obesity-pill-on-sale.html",
-        "pubDate": "Tue, 23 Dec 2025 17:49:54 GMT",
-        "category": "health"
-      },
-      {
-        "title": "U.S. pushes additional tariffs on Chinese chips to June 2027",
-        "link": "https://www.cnbc.com/2025/12/23/us-china-chip-tariffs.html",
-        "pubDate": "Tue, 23 Dec 2025 17:31:40 GMT",
+        "title": "Why an analyst sees Meta shares getting back to record highs \u2013 plus, another tariff reprieve",
+        "link": "https://www.cnbc.com/2025/12/23/why-an-analyst-sees-meta-shares-getting-back-to-record-highs-plus-another-tariff-reprieve.html",
+        "pubDate": "Tue, 23 Dec 2025 20:10:37 GMT",
         "category": "tech"
       },
       {
