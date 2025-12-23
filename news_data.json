@@ -1,7 +1,14 @@
 {
-  "updated_at": "2025-12-23T02:04:57.157064",
+  "updated_at": "2025-12-23T04:44:27.291637",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Swartz\u2019s 19 lead Creighton past Utah Tech 92-69",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1dabf3fb4787953b683e965ba28f&amp;url=https%3a%2f%2fapnews.com%2farticle%2faustin-swartz-utah-creighton-bluejays-college-basketball-college-sports-6623ae29bea74f5a92837c4f18e5f5ec&amp;c=12794751565698957369&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 20:09:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
         "title": "Trump announces plans for new Navy &apos;battleship&apos; as part of a &apos;Golden Fleet&apos;",
@@ -66,16 +73,16 @@
     ],
     "bbc": [
       {
+        "title": "US regulator approves pill form of Wegovy weight-loss drug",
+        "link": "https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Dec 2025 01:29:07 GMT",
+        "category": "us"
+      },
+      {
         "title": "Call of Duty co-creator Vince Zampella dies in California car crash",
         "link": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Dec 2025 00:48:58 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Trump unveils plans for 'Golden Fleet' battleships named after himself",
-        "link": "https://www.bbc.com/news/articles/c2084nq2npjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 00:36:38 GMT",
-        "category": "us"
       },
       {
         "title": "What the underwhelming Epstein files release means for Trump and Maga",
@@ -128,30 +135,78 @@
     ],
     "reuters": [
       {
-        "title": "Novo Nordisk wins US approval for weight-loss pill",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949f8b4c482499598a36f48ab91a398&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fnovo-nordisk-wins-us-approval-weight-loss-pill-2025-12-22%2f&amp;c=15021265845188339447&amp;mkt=en-us",
-        "pubDate": "Mon, 22 Dec 2025 13:59:00 GMT",
-        "category": "us"
+        "title": "Japan's fiscal woes may cause more yen falls, yield rises, says ex-BOJ policymaker",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1dbb55d640eb9e8b9ef830705757&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapans-fiscal-woes-may-cause-more-yen-falls-yield-rises-says-ex-boj-policymaker-2025-12-23%2f&amp;c=12584987075223281598&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 19:34:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "CACI expands space, defense footprint with $2.6 billion ARKA buy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949f8bb799f4551a42450500948f3f0&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fcaci-expands-space-defense-footprint-with-26-billion-arka-buy-2025-12-22%2f&amp;c=9420137434655683049&amp;mkt=en-us",
-        "pubDate": "Mon, 22 Dec 2025 13:47:00 GMT",
-        "category": "tech"
+        "title": "Chiefs leaving Arrowhead for Kansas, to open dome stadium in 2031",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1dbb55d640eb9e8b9ef830705757&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fchiefs-crossing-border-kansas-new-stadium--flm-2025-12-23%2f&amp;c=14280137204447690687&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 19:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Vietnam's Communist Party selects next leadership candidates as January congress nears",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1dbb55d640eb9e8b9ef830705757&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2furgent-vietnams-communist-party-selects-top-leaders-january-congress-nears-2025-12-23%2f&amp;c=14415392355168843809&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 19:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Maple Leafs fire assistant coach Marc Savard",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1dbb55d640eb9e8b9ef830705757&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fmaple-leafs-fire-assistant-coach-marc-savard--flm-2025-12-23%2f&amp;c=15459756219062327522&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 18:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Japan issues sternest intervention warning, says yen deviating from fundamentals",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1dbb55d640eb9e8b9ef830705757&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapan-has-free-hand-dealing-with-excessive-yen-moves-finance-minister-tells-2025-12-22%2f&amp;c=8157889418684227754&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 18:14:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks, precious metals rise; yen on intervention watch",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1dbb55d640eb9e8b9ef830705757&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2025-12-23%2f&amp;c=15222799274278537926&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 17:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump unveils 'Trump-class' battleships, pressures defense contractors on overruns",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1dbb55d640eb9e8b9ef830705757&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-press-defense-giants-delays-mulls-curbs-executive-pay-2025-12-22%2f&amp;c=7769925299742268051&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 16:52:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Could a group of women veteran \u2018Hellcats\u2019 help Democrats flip the House in 2026?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1dbb55d640eb9e8b9ef830705757&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fcould-group-women-veteran-hellcats-help-democrats-flip-house-2026-2025-12-22%2f&amp;c=15027275146811005288&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 12:21:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "US business equipment borrowings down more than 4% y/y in November, ELFA says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6949f8b582d844f6854ed96468d5c2db&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-business-equipment-borrowings-down-more-than-4-yy-november-elfa-says-2025-12-22%2f&amp;c=7938377280253396896&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1de9cf2e490da78ed8aa6af4bf60&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-business-equipment-borrowings-down-more-than-4-yy-november-elfa-says-2025-12-22%2f&amp;c=7938377280253396896&amp;mkt=en-us",
         "pubDate": "Mon, 22 Dec 2025 11:05:00 GMT",
         "category": "business"
+      },
+      {
+        "title": "Syrians emptied Assad\u2019s prisons. They\u2019re filling up again, and abuse is rife",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694a1dbb55d640eb9e8b9ef830705757&amp;url=https%3a%2f%2fwww.reuters.com%2finvestigations%2fsyrians-emptied-assads-prisons-theyre-filling-up-again-abuse-is-rife-2025-12-22%2f&amp;c=3903974239693106262&amp;mkt=en-us",
+        "pubDate": "Mon, 22 Dec 2025 06:08:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
+        "title": "Asia\u2019s worst-performing currency is set for a rocky start to 2026",
+        "link": "https://www.cnbc.com/2025/12/22/asia-worst-performing-currency-rupee-trade-deal-outflows.html",
+        "pubDate": "Tue, 23 Dec 2025 04:36:38 GMT",
+        "category": "world"
+      },
+      {
         "title": "FDA approves first GLP-1 pill for obesity from Wegovy maker Novo Nordisk",
         "link": "https://www.cnbc.com/2025/12/22/fda-approves-first-glp-1-pill-for-obesity-from-novo-nordisk.html",
-        "pubDate": "Tue, 23 Dec 2025 00:52:55 GMT",
-        "category": "business"
+        "pubDate": "Tue, 23 Dec 2025 03:09:27 GMT",
+        "category": "health"
       },
       {
         "title": "Tuesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
@@ -166,22 +221,10 @@
         "category": "Top News"
       },
       {
-        "title": "We&apos;re putting an AI giant in the Bullpen \u2014 not letting a mistake cloud our judgment",
-        "link": "https://www.cnbc.com/2025/12/22/were-putting-an-ai-giant-in-the-bullpen-not-letting-a-mistake-cloud-our-judgment.html",
-        "pubDate": "Mon, 22 Dec 2025 17:54:31 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Asset manager Janus Henderson gets bought by Trian, General Catalyst for $7.4 billion",
         "link": "https://www.cnbc.com/2025/12/22/asset-manager-janus-henderson-gets-bought-by-trian-general-catalyst-for-7point4-billion.html",
         "pubDate": "Mon, 22 Dec 2025 15:46:25 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Asia\u2019s worst-performing currency is set for a rocky start to 2026",
-        "link": "https://www.cnbc.com/2025/12/22/asia-worst-performing-currency-rupee-trade-deal-outflows.html",
-        "pubDate": "Mon, 22 Dec 2025 09:26:05 GMT",
-        "category": "world"
       }
     ]
   }
