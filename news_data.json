@@ -1,26 +1,62 @@
 {
-  "updated_at": "2025-12-23T20:31:23.019049",
+  "updated_at": "2025-12-23T22:27:01.360630",
   "news": {
     "ap": [
       {
-        "title": "Colombia declares an economic emergency in a criticized effort to raise more taxes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694afba9a6184e759427e4434e84dd35&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcolombia-economy-emergency-taxes-4aa37af8e01f9f638d3117106df5e25b&amp;c=14592665361428216966&amp;mkt=en-us",
-        "pubDate": "Tue, 23 Dec 2025 08:19:00 GMT",
-        "category": "business"
+        "title": "Venezuelan National Assembly passes law against piracy and blockades amid escalating US campaign",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b16dfc9d240cda1979f7f900df271&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fvenezuelan-national-assembly-passes-law-against-piracy-and-blockades-amid-escalating-us-campaign-d496f7b7d1f0425dae4c1c3361de9099&amp;c=9692830949547323582&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 14:24:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "How AP photographers capture infrared technology used in surveillance",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b16e5342a4afb848ec5a1b1d018a7&amp;url=https%3a%2f%2fapnews.com%2fvideo%2finvisible-infrared-surveillance-technology-and-those-caught-in-its-digital-cage-9d60acef35404875b33be5c0d73cffca&amp;c=4989119608315919734&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 12:29:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "In Israel, some Jews and Christians seek to build trust between their communities",
+        "link": "https://www.npr.org/2025/12/23/nx-s1-5613384/some-jews-and-christians-in-israel-seek-to-build-trust-between-their-communities",
+        "pubDate": "Tue, 23 Dec 2025 17:00:02 -0500",
+        "category": "world"
+      },
+      {
+        "title": "The Trump administration is recalling about 30 career diplomats",
+        "link": "https://www.npr.org/2025/12/23/nx-s1-5653271/the-trump-administration-is-recalling-about-30-career-diplomats",
+        "pubDate": "Tue, 23 Dec 2025 16:58:43 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Will the U.S. copy Denmark&apos;s vaccine schedule?",
+        "link": "https://www.npr.org/2025/12/23/nx-s1-5652033/will-the-u-s-copy-denmarks-vaccine-schedule",
+        "pubDate": "Tue, 23 Dec 2025 16:39:52 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Supreme Court rules against Trump in National Guard case",
+        "link": "https://www.npr.org/2025/12/23/nx-s1-5641959/supreme-court-chicago-national-guard",
+        "pubDate": "Tue, 23 Dec 2025 16:06:40 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Baking cookbooks boomed in 2025",
+        "link": "https://www.npr.org/2025/12/23/nx-s1-5629187/baking-cookbooks-boomed-in-2025",
+        "pubDate": "Tue, 23 Dec 2025 15:57:26 -0500",
+        "category": "business"
+      },
+      {
         "title": "A diplomat&apos;s tears, 200 snake bites, drone pix: Goats and Soda&apos;s top stories in 2025",
         "link": "https://www.npr.org/sections/goats-and-soda/2025/12/23/g-s1-102421/popular-global-health-drone-photos-ancient-disease-lead-pollution",
         "pubDate": "Tue, 23 Dec 2025 13:58:32 -0500",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Student loan borrowers in default may soon see their wages garnished",
         "link": "https://www.npr.org/2025/12/23/nx-s1-5653312/student-loans-default-education-department",
         "pubDate": "Tue, 23 Dec 2025 13:17:40 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Justice Department releases more Epstein files and some mention Trump",
@@ -39,50 +75,26 @@
         "link": "https://www.npr.org/2025/12/23/nx-s1-5646649/human-embryos-implantation-artificial-womb",
         "pubDate": "Tue, 23 Dec 2025 11:00:00 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "2025: The images that stayed with us",
-        "link": "https://www.npr.org/sections/the-picture-show/2025/12/23/g-s1-102909/2025-npr-network-images-that-stayed-with-us",
-        "pubDate": "Tue, 23 Dec 2025 10:47:55 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "The U.S. economy grew robustly as Americans continued to spend",
-        "link": "https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs",
-        "pubDate": "Tue, 23 Dec 2025 09:22:07 -0500",
-        "category": "business"
-      },
-      {
-        "title": "Trump&apos;s plans for warship fleet. And, deported Venezuelans must receive due process",
-        "link": "https://www.npr.org/2025/12/23/g-s1-103442/up-first-newsletter-caribbean-oil-tankers-venezuelan-due-process-heritage-due-process",
-        "pubDate": "Tue, 23 Dec 2025 07:32:09 -0500",
-        "category": "world"
-      },
-      {
-        "title": "It&apos;s the &apos;gold standard&apos; in autism care. Why are states reining it in?",
-        "link": "https://www.npr.org/sections/shots-health-news/2025/12/23/nx-s1-5643014/autism-aba-therapy-medicaid-costs",
-        "pubDate": "Tue, 23 Dec 2025 06:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. regulators approve Wegovy pill for weight loss",
-        "link": "https://www.npr.org/2025/12/23/g-s1-103424/us-approve-pill-for-weight-loss",
-        "pubDate": "Tue, 23 Dec 2025 05:27:45 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Libya's army chief killed in air crash in Turkey",
-        "link": "https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 20:18:23 GMT",
+        "title": "King's Christmas speech to come from Westminster Abbey",
+        "link": "https://www.bbc.com/news/articles/c0mp73p7310o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Dec 2025 22:01:56 GMT",
         "category": "Top News"
       },
       {
         "title": "Trump travelled on Epstein's plane more than previously thought, prosecutor says",
         "link": "https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 19:46:42 GMT",
+        "pubDate": "Tue, 23 Dec 2025 21:56:51 GMT",
         "category": "world"
+      },
+      {
+        "title": "Ukraine loses embattled eastern town",
+        "link": "https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Dec 2025 18:53:43 GMT",
+        "category": "Top News"
       },
       {
         "title": "Russell Brand charged with new offences of rape and sexual assault",
@@ -115,12 +127,6 @@
         "category": "us"
       },
       {
-        "title": "Boaters stranded for Christmas after canal collapse",
-        "link": "https://www.bbc.com/news/articles/cj013m3q0mlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 11:31:07 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "TikTok removes AI weight loss ads from fake Boots account",
         "link": "https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Dec 2025 09:23:51 GMT",
@@ -135,8 +141,20 @@
     ],
     "reuters": [
       {
+        "title": "US health agency to expand access to GLP-1 weight-loss drugs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b1725e77e45edbb882afd43bd37de&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-health-agency-expand-access-glp-1-weight-loss-drugs-2025-12-23%2f&amp;c=16614257779838822352&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 12:56:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Robust consumer spending, rising exports fuel US economic growth in third quarter",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b1703d92b41eb8f9cdc888e87303d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-economic-growth-likely-remained-strong-third-quarter-2025-12-23%2f&amp;c=4804661355731616251&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 10:30:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Punjab power hitter Connolly targeting Australia T20 World Cup spot",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694afbbbf4d54b95b48326cd046adde1&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fpunjab-power-hitter-connolly-targeting-australia-t20-world-cup-spot-2025-12-23%2f&amp;c=528866082171869030&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b1700ae5d4870bb76787d317097b2&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fpunjab-power-hitter-connolly-targeting-australia-t20-world-cup-spot-2025-12-23%2f&amp;c=528866082171869030&amp;mkt=en-us",
         "pubDate": "Mon, 22 Dec 2025 23:34:00 GMT",
         "category": "world"
       }
@@ -149,10 +167,46 @@
         "category": "tech"
       },
       {
+        "title": "Nvidia and this athleisure maker saw big insider selling last week",
+        "link": "https://www.cnbc.com/2025/12/23/nvidia-and-this-athleisure-maker-saw-big-insider-selling-last-week.html",
+        "pubDate": "Tue, 23 Dec 2025 19:40:03 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Tanger CEO says retailers are &apos;discounting to meet the consumer&apos; this holiday season",
+        "link": "https://www.cnbc.com/2025/12/23/tanger-ceo-stephen-yalof-holiday-shopping-consumer-spending-confidence.html",
+        "pubDate": "Tue, 23 Dec 2025 18:27:35 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Eli Lilly investors shouldn\u2019t sweat rival Novo Nordisk having the first obesity pill on sale",
+        "link": "https://www.cnbc.com/2025/12/23/eli-lilly-investors-shouldnt-sweat-rival-novo-nordisk-having-the-first-obesity-pill-on-sale.html",
+        "pubDate": "Tue, 23 Dec 2025 17:49:54 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Novo Nordisk, ServiceNow, Freeport-McMoRan, Structure Therapeutics &amp; more",
+        "link": "https://www.cnbc.com/2025/12/23/stocks-making-the-biggest-moves-midday-nvo-now-fcx-gpcr.html",
+        "pubDate": "Tue, 23 Dec 2025 17:25:13 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "The next AI pivot will be toward efficiency and lowering costs, ex-Facebook privacy chief says",
         "link": "https://www.cnbc.com/2025/12/23/ai-cost-efficiency-facebook-privacy.html",
         "pubDate": "Tue, 23 Dec 2025 17:24:59 GMT",
         "category": "world"
+      },
+      {
+        "title": "Citadel to return $5 billion in profit to investors, source says",
+        "link": "https://www.cnbc.com/2025/12/23/citadel-to-return-5-billion-in-profit-to-investors-source-says.html",
+        "pubDate": "Tue, 23 Dec 2025 17:24:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Here&apos;s how AI could influence the Fed&apos;s economic outlook",
+        "link": "https://www.cnbc.com/2025/12/23/ais-machine-learning-may-net-productivity-gains-and-influence-fed.html",
+        "pubDate": "Tue, 23 Dec 2025 15:47:11 GMT",
+        "category": "Top News"
       }
     ]
   }
