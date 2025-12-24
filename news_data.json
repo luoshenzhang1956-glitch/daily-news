@@ -1,7 +1,68 @@
 {
-  "updated_at": "2025-12-24T12:57:23.572946",
+  "updated_at": "2025-12-24T14:26:40.763615",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US unemployment claims fall again last week, remain at historically healthy level",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7ceec684fe7aa68666c25cb03c8&amp;url=https%3a%2f%2fapnews.com%2farticle%2funemployment-benefits-jobless-claims-layoffs-labor-ba15107bd53911c23c1a694c3dd09f18&amp;c=14391920396403880931&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 05:46:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Tears of joy as Nigerian families reunite with kidnapped schoolchildren",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7cc93564affae5730c59e1b12b6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnigeria-school-abduction-reunion-fe26823165505fc94a1568716d2f2f62&amp;c=10181120872676050487&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 05:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Zelenskyy says he\u2019s open to a free economic zone in Ukraine\u2019s east but it must be put to a vote",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7cc93564affae5730c59e1b12b6&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussia-ukraine-war-zelenskyy-peace-plan-d0c476bfa9ec218da5c8d5ff0c1d25c9&amp;c=5692934731159574476&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 05:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How a fast-moving $50 cash relief program buoyed needy families when SNAP payments were paused",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7cc93564affae5730c59e1b12b6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgivedirectly-propel-snap-payments-b8d815334131e18767553ae26859d862&amp;c=7964287116984528495&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 05:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thousands flock to Bethlehem to revive Christmas spirit after 2 years of war in Gaza",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7cc93564affae5730c59e1b12b6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchristmas-bethlehem-christians-war-israel-gaza-tourism-ffa3e7842d1843899d580322d97a7e9c&amp;c=640508456375739647&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 04:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chelsea boosted by return of Delap and Estevao ahead of Villa test",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7cc93564affae5730c59e1b12b6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchelsea-maresca-delap-estevao-villa-e01337a3aba367c31d54d6f7cf97eb23&amp;c=5694300121315960355&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 04:38:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "EU warns of possible action after the US bars 5 Europeans accused of censorship",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7ce47464d019e0ba1d9dc39a6f1&amp;url=https%3a%2f%2fapnews.com%2farticle%2feurope-breton-tech-visa-ban-censorship-rubio-8608c3781b67958abb92e4781d73aed9&amp;c=12970799664855499566&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 03:54:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "World markets are mixed after the S&amp;P 500 hits a record high, buoyed by strong US economic data",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7cdf27849328444270cd1816124&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-rates-trump-inflation-5f45b74c3fa380ead5251e63f854e651&amp;c=11881780374108689503&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 01:50:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "California farmer arrested on suspicion of murder in wife\u2019s death in Arizona",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7cc93564affae5730c59e1b12b6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcalifornia-farmer-arrested-wife-killed-4273deb7188e9853cdcb67293933fad0&amp;c=13212746134486217737&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 21:28:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "More than a third of states sue HHS over a move that could curtail youth gender-affirming care",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7cf20f64a789fcd216813a01097&amp;url=https%3a%2f%2fapnews.com%2farticle%2flawsuit-hhs-transgender-health-care-children-015b2e5df026c9d69da7eadbdf6647ae&amp;c=16706419046331069932&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 19:40:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
         "title": "When porch pirates steal medicine instead of holiday gifts",
@@ -66,6 +127,18 @@
     ],
     "bbc": [
       {
+        "title": "Busiest ever Christmas Eve for air travel, says civil aviation body",
+        "link": "https://www.bbc.com/news/articles/c2dzw06g1ydo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 24 Dec 2025 14:21:57 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Boat stranded on canal hole edge pulled to safety",
+        "link": "https://www.bbc.com/news/articles/c79x0vqvnq4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 24 Dec 2025 13:12:06 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
         "link": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 24 Dec 2025 12:48:38 GMT",
@@ -78,7 +151,7 @@
         "category": "tech"
       },
       {
-        "title": "British boy, 13, fatally stabbed in Portugal, reports say",
+        "title": "British boy, 13, fatally stabbed in Portugal",
         "link": "https://www.bbc.com/news/articles/c62ve5ek7reo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 24 Dec 2025 11:21:45 GMT",
         "category": "Top News"
@@ -102,12 +175,6 @@
         "category": "Top News"
       },
       {
-        "title": "Canal collapse will massively affect business, says owner of narrowboat hire firm",
-        "link": "https://www.bbc.com/news/articles/c9w709nx07go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 24 Dec 2025 06:51:10 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Stranger Things: What could happen next as the show's finale looms?",
         "link": "https://www.bbc.com/news/articles/c997lrzl4m2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 24 Dec 2025 01:31:05 GMT",
@@ -117,22 +184,101 @@
         "title": "Christmas can be a nightmare for misophonia sufferers like me",
         "link": "https://www.bbc.com/news/articles/c04vx47gx91o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 24 Dec 2025 00:24:28 GMT",
+        "category": "health"
+      }
+    ],
+    "reuters": [
+      {
+        "title": "EU, France, Germany slam US visa bans as 'censorship' dispute deepens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7df7eb746968d1a0d14866214af&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ffrance-condemns-us-visa-ban-imposed-ex-eu-commissioner-breton-2025-12-24%2f&amp;c=13765159144415186938&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 05:11:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Two police officers killed by bomb in Moscow near site of Russian general's killing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7de9bfe46178c99038046251c45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fexplosions-heard-southern-moscow-site-generals-killing-russias-telegram-channels-2025-12-23%2f&amp;c=1524109265608700111&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 03:00:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US economy grows at fastest pace in two years",
-        "link": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 15:56:57 GMT",
-        "category": "business"
+        "title": "How a Silicon Valley dealmaker charmed Trump and gave Intel a lifeline",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7de9bfe46178c99038046251c45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fhow-silicon-valley-dealmaker-charmed-trump-gave-intel-lifeline-2025-12-24%2f&amp;c=8712742441916900079&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 02:12:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "As crypto and private credit hit the mainstream, investor risk seen multiplying",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7de9bfe46178c99038046251c45&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fcrypto-private-credit-hit-mainstream-investor-risk-seen-multiplying-2025-12-24%2f&amp;c=1596933022806771603&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 02:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine unveils 20-point peace proposal under discussion with US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7de9bfe46178c99038046251c45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fukraine-unveils-20-point-peace-proposal-under-discussion-with-us-2025-12-24%2f&amp;c=9077747991232235436&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 01:40:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How Israel's hilltop settlers coordinate attacks to expel Palestinians",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7de9bfe46178c99038046251c45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fhow-israels-hilltop-settlers-coordinate-attacks-expel-palestinians-2025-12-24%2f&amp;c=9496435729181689006&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 01:22:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Australian state passes tougher gun, protest law after Bondi Beach shooting",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7de9bfe46178c99038046251c45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2faustralian-state-passes-tougher-gun-anti-terror-laws-after-bondi-beach-shooting-2025-12-23%2f&amp;c=13992817351275293273&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 22:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: U.S. eyes additional Coast Guard assets to seize fleeing tanker, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7de9bfe46178c99038046251c45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fus-eyes-additional-coast-guard-assets-seize-fleeing-tanker-sources-say-2025-12-24%2f&amp;c=7306466083710998420&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 17:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US Supreme Court rejects Trump's military deployment in Chicago area, for now",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7de9bfe46178c99038046251c45&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-supreme-court-rejects-trumps-military-deployment-chicago-area-now-2025-12-23%2f&amp;c=3725369357457033206&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 16:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fleet management firm Motive Technologies reveals revenue growth in US IPO paperwork",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694bf7e0c62946dc97e1c08677d9b1e0&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fmotive-technologies-files-us-ipo-2025-12-23%2f&amp;c=17050817430625248072&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 15:05:00 GMT",
+        "category": "tech"
       }
     ],
-    "reuters": [],
     "markets": [
       {
-        "title": "These stocks are expected to see impressive returns while maintaining low volatility, Citi says",
-        "link": "https://www.cnbc.com/2025/12/24/these-stocks-are-expected-to-see-impressive-returns-while-maintaining-low-volatility-citi-says.html",
-        "pubDate": "Wed, 24 Dec 2025 11:58:46 GMT",
-        "category": "us"
+        "title": "These 5 infrastructure stocks have more than tripled this year on the AI trade",
+        "link": "https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html",
+        "pubDate": "Wed, 24 Dec 2025 13:25:23 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Nike, Dynavax Technologies, UiPath &amp; more",
+        "link": "https://www.cnbc.com/2025/12/24/stocks-making-the-biggest-moves-premarket-nke-dvax-path.html",
+        "pubDate": "Wed, 24 Dec 2025 12:32:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Emerging markets had a bumper year \u2014 here\u2019s what could be in store in 2026",
+        "link": "https://www.cnbc.com/2025/12/24/emerging-markets-can-outperformance-continue-in-2026.html",
+        "pubDate": "Tue, 23 Dec 2025 23:12:10 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Citadel to return $5 billion in profit to investors, source says",
+        "link": "https://www.cnbc.com/2025/12/23/citadel-to-return-5-billion-in-profit-to-investors-source-says.html",
+        "pubDate": "Tue, 23 Dec 2025 17:24:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Here&apos;s how AI could influence the Fed&apos;s economic outlook",
+        "link": "https://www.cnbc.com/2025/12/23/ais-machine-learning-may-net-productivity-gains-and-influence-fed.html",
+        "pubDate": "Tue, 23 Dec 2025 15:47:11 GMT",
+        "category": "Top News"
       }
     ]
   }
