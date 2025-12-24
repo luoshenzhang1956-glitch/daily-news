@@ -1,32 +1,32 @@
 {
-  "updated_at": "2025-12-23T22:27:01.360630",
+  "updated_at": "2025-12-24T02:03:07.503839",
   "news": {
     "ap": [
       {
-        "title": "Venezuelan National Assembly passes law against piracy and blockades amid escalating US campaign",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b16dfc9d240cda1979f7f900df271&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fvenezuelan-national-assembly-passes-law-against-piracy-and-blockades-amid-escalating-us-campaign-d496f7b7d1f0425dae4c1c3361de9099&amp;c=9692830949547323582&amp;mkt=en-us",
-        "pubDate": "Tue, 23 Dec 2025 14:24:00 GMT",
-        "category": "us"
+        "title": "Bolivia lifts restrictions on satellite companies like Starlink to upgrade its internet connectivity",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b49b407a04d6c903ce4c60e6d3e43&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbolivia-paz-internet-starlink-kuiper-spacex-ecbce966d029117126eaae9ed81d4317&amp;c=9596886785765539881&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 16:09:00 GMT",
+        "category": "tech"
       },
       {
-        "title": "How AP photographers capture infrared technology used in surveillance",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b16e5342a4afb848ec5a1b1d018a7&amp;url=https%3a%2f%2fapnews.com%2fvideo%2finvisible-infrared-surveillance-technology-and-those-caught-in-its-digital-cage-9d60acef35404875b33be5c0d73cffca&amp;c=4989119608315919734&amp;mkt=en-us",
-        "pubDate": "Tue, 23 Dec 2025 12:29:00 GMT",
-        "category": "tech"
+        "title": "Colombia declares an economic emergency in a criticized effort to raise more taxes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b49b25c5e4762999d3ac2aa814d58&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcolombia-economy-emergency-taxes-4aa37af8e01f9f638d3117106df5e25b&amp;c=14592665361428216966&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 08:19:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "Explosion at a Pennsylvania nursing home kills at least 2, governor says",
+        "link": "https://www.npr.org/2025/12/23/g-s1-103588/deadly-explosion-bristol-nursing-home-pennsylvania",
+        "pubDate": "Tue, 23 Dec 2025 20:08:07 -0500",
+        "category": "us"
+      },
       {
         "title": "In Israel, some Jews and Christians seek to build trust between their communities",
         "link": "https://www.npr.org/2025/12/23/nx-s1-5613384/some-jews-and-christians-in-israel-seek-to-build-trust-between-their-communities",
         "pubDate": "Tue, 23 Dec 2025 17:00:02 -0500",
         "category": "world"
-      },
-      {
-        "title": "The Trump administration is recalling about 30 career diplomats",
-        "link": "https://www.npr.org/2025/12/23/nx-s1-5653271/the-trump-administration-is-recalling-about-30-career-diplomats",
-        "pubDate": "Tue, 23 Dec 2025 16:58:43 -0500",
-        "category": "us"
       },
       {
         "title": "Will the U.S. copy Denmark&apos;s vaccine schedule?",
@@ -79,6 +79,30 @@
     ],
     "bbc": [
       {
+        "title": "Rivalries and rumours: How the new order of the Murdoch dynasty is playing out",
+        "link": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 24 Dec 2025 01:25:13 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump trips, a fake video and 10 possible co-conspirators - Takeaways from new Epstein files",
+        "link": "https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 24 Dec 2025 01:08:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US denies visas to ex-EU commissioner and others over social media rules",
+        "link": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 24 Dec 2025 00:45:28 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Email by 'A' from 'Balmoral' asked Ghislaine Maxwell for 'inappropriate friends', Epstein files show",
+        "link": "https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Dec 2025 22:48:09 GMT",
+        "category": "world"
+      },
+      {
         "title": "King's Christmas speech to come from Westminster Abbey",
         "link": "https://www.bbc.com/news/articles/c0mp73p7310o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Dec 2025 22:01:56 GMT",
@@ -88,13 +112,7 @@
         "title": "Trump travelled on Epstein's plane more than previously thought, prosecutor says",
         "link": "https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Dec 2025 21:56:51 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Ukraine loses embattled eastern town",
-        "link": "https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 18:53:43 GMT",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "Russell Brand charged with new offences of rape and sexual assault",
@@ -103,73 +121,43 @@
         "category": "Top News"
       },
       {
-        "title": "Government waters down inheritance tax plan for farms",
-        "link": "https://www.bbc.com/news/articles/c8e9n3y28g1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 17:29:09 GMT",
-        "category": "business"
-      },
-      {
         "title": "Inheritance tax plan for farms watered down after backlash",
         "link": "https://www.bbc.com/news/articles/c8e9n3y28g1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Dec 2025 17:29:09 GMT",
         "category": "Top News"
       },
       {
-        "title": "Men guilty of gun attack plot targeting Manchester's Jewish community",
-        "link": "https://www.bbc.com/news/articles/c7vmyv5vmm2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 16:13:23 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "US economy grows at fastest pace in two years",
         "link": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Dec 2025 15:56:57 GMT",
-        "category": "us"
+        "category": "business"
       },
       {
         "title": "TikTok removes AI weight loss ads from fake Boots account",
         "link": "https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Dec 2025 09:23:51 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "US regulator approves pill form of Wegovy weight-loss drug",
-        "link": "https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Dec 2025 01:29:07 GMT",
         "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "US health agency to expand access to GLP-1 weight-loss drugs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b1725e77e45edbb882afd43bd37de&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-health-agency-expand-access-glp-1-weight-loss-drugs-2025-12-23%2f&amp;c=16614257779838822352&amp;mkt=en-us",
-        "pubDate": "Tue, 23 Dec 2025 12:56:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Robust consumer spending, rising exports fuel US economic growth in third quarter",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b1703d92b41eb8f9cdc888e87303d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-economic-growth-likely-remained-strong-third-quarter-2025-12-23%2f&amp;c=4804661355731616251&amp;mkt=en-us",
-        "pubDate": "Tue, 23 Dec 2025 10:30:00 GMT",
+        "title": "US judge rejects business group's challenge to Trump's $100,000 H-1B visa fee",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b49bf4aa3447ca1a6a2bda2071caa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-judge-rejects-business-groups-challenge-trumps-100000-h-1b-visa-fee-2025-12-24%2f&amp;c=4501200932626805114&amp;mkt=en-us",
+        "pubDate": "Tue, 23 Dec 2025 16:48:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "Punjab power hitter Connolly targeting Australia T20 World Cup spot",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694b1700ae5d4870bb76787d317097b2&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fpunjab-power-hitter-connolly-targeting-australia-t20-world-cup-spot-2025-12-23%2f&amp;c=528866082171869030&amp;mkt=en-us",
-        "pubDate": "Mon, 22 Dec 2025 23:34:00 GMT",
-        "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Why an analyst sees Meta shares getting back to record highs \u2013 plus, another tariff reprieve",
-        "link": "https://www.cnbc.com/2025/12/23/why-an-analyst-sees-meta-shares-getting-back-to-record-highs-plus-another-tariff-reprieve.html",
-        "pubDate": "Tue, 23 Dec 2025 20:10:37 GMT",
-        "category": "tech"
+        "title": "Asia\u2019s year in review: Who had it best \u2014 and who had it worst \u2014 in 2025",
+        "link": "https://www.cnbc.com/2025/12/24/asias-year-in-review-who-had-it-best-and-who-had-it-worst-in-2025.html",
+        "pubDate": "Wed, 24 Dec 2025 00:58:59 GMT",
+        "category": "world"
       },
       {
-        "title": "Nvidia and this athleisure maker saw big insider selling last week",
-        "link": "https://www.cnbc.com/2025/12/23/nvidia-and-this-athleisure-maker-saw-big-insider-selling-last-week.html",
-        "pubDate": "Tue, 23 Dec 2025 19:40:03 GMT",
+        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2025/12/23/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Wed, 24 Dec 2025 00:16:33 GMT",
         "category": "us"
       },
       {
@@ -189,12 +177,6 @@
         "link": "https://www.cnbc.com/2025/12/23/stocks-making-the-biggest-moves-midday-nvo-now-fcx-gpcr.html",
         "pubDate": "Tue, 23 Dec 2025 17:25:13 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "The next AI pivot will be toward efficiency and lowering costs, ex-Facebook privacy chief says",
-        "link": "https://www.cnbc.com/2025/12/23/ai-cost-efficiency-facebook-privacy.html",
-        "pubDate": "Tue, 23 Dec 2025 17:24:59 GMT",
-        "category": "world"
       },
       {
         "title": "Citadel to return $5 billion in profit to investors, source says",
