@@ -1,16 +1,16 @@
 {
-  "updated_at": "2025-12-25T18:38:19.863196",
+  "updated_at": "2025-12-25T20:30:35.172587",
   "news": {
     "ap": [
       {
         "title": "A Venezuelan family\u2019s Christmas: From the American dream to poverty",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694d846ec0e04a88900150e5a3021545&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvenezuela-migrants-christmas-us-trump-maduro-7a711863ce30f97924e25132a4c11172&amp;c=16788169452138190766&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694d9ec6f9fb443186f25bbc3e9377a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvenezuela-migrants-christmas-us-trump-maduro-7a711863ce30f97924e25132a4c11172&amp;c=16788169452138190766&amp;mkt=en-us",
         "pubDate": "Thu, 25 Dec 2025 10:15:00 GMT",
         "category": "health"
       },
       {
         "title": "Virtual reality opens doors for older people to build closer connections in real life",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694d846e37984b77892fb490c00f6898&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvirtual-reality-senior-living-social-isolation-b20dc156f4aa0735d7f0cc7558de9bfc&amp;c=17312444217161382425&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694d9ec686ff4ce6a5c7e861d4fa85b7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvirtual-reality-senior-living-social-isolation-b20dc156f4aa0735d7f0cc7558de9bfc&amp;c=17312444217161382425&amp;mkt=en-us",
         "pubDate": "Wed, 24 Dec 2025 21:08:00 GMT",
         "category": "tech"
       }
@@ -33,6 +33,12 @@
         "link": "https://www.npr.org/2025/12/25/nx-s1-5647691/morning-news-brief",
         "pubDate": "Thu, 25 Dec 2025 04:58:58 -0500",
         "category": "us"
+      },
+      {
+        "title": "In Belgium, a group of volunteers makes drones for Ukraine in special workshops",
+        "link": "https://www.npr.org/2025/12/25/nx-s1-5649486/a-group-of-belgians-make-drones-in-a-secret-volunteer-workshop-to-send-to-ukraine",
+        "pubDate": "Thu, 25 Dec 2025 04:58:35 -0500",
+        "category": "Top News"
       },
       {
         "title": "A holiday tradition: David Sedaris reads from &apos;The Santaland Diaries&apos;",
@@ -65,12 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "Trump-backed candidate Nasry Asfura declared winner of Honduras&apos; presidential vote",
-        "link": "https://www.npr.org/2025/12/25/g-s1-103680/nasry-asfura-winner-honduras-presidential-vote",
-        "pubDate": "Thu, 25 Dec 2025 01:30:46 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "ADHD drugs work indirectly to improve attention",
         "link": "https://www.npr.org/2025/12/24/nx-s1-5651878/adhd-drugs-work-indirectly-to-improve-attention",
         "pubDate": "Wed, 24 Dec 2025 17:21:06 -0500",
@@ -79,9 +79,15 @@
     ],
     "bbc": [
       {
-        "title": "Two men 'missing' as coastguard search called off",
+        "title": "Two men still missing after Christmas swim as coastguard calls off search",
         "link": "https://www.bbc.com/news/articles/c4g41v0dekgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Dec 2025 18:22:52 GMT",
+        "pubDate": "Thu, 25 Dec 2025 19:52:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Last dance for Tess and Claudia as Strictly hosts sign off",
+        "link": "https://www.bbc.com/news/articles/cj4qzvy48g5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 25 Dec 2025 19:35:48 GMT",
         "category": "Top News"
       },
       {
@@ -95,12 +101,6 @@
         "link": "https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 25 Dec 2025 16:21:18 GMT",
         "category": "world"
-      },
-      {
-        "title": "Cold health alert as parts of UK set to freeze on Christmas Day",
-        "link": "https://www.bbc.com/news/articles/cr4dvgkvveyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Dec 2025 16:20:08 GMT",
-        "category": "Top News"
       },
       {
         "title": "King's Christmas message urges communities to pull together in times of uncertainty",
@@ -141,10 +141,16 @@
     ],
     "reuters": [
       {
-        "title": "Jair Bolsonaro backs son's Brazil presidential bid, undergoes hernia surgery",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694d8482d6d644c4b8f5fe262c5395c6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbrazils-bolsonaro-endorses-son-presidency-before-more-surgery-2025-12-25%2f&amp;c=5608550282274069683&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Dec 2025 08:47:00 GMT",
-        "category": "health"
+        "title": "China accuses US of trying to thwart improved China-India ties",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694d9edf120a44a387981670e5b816ef&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-accuses-us-distorting-its-defence-policy-relation-india-ties-2025-12-25%2f&amp;c=4237713330460236476&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 23:28:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Foreign-branded phone shipments in China more than doubled on year in Nov, CAICT data shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=694d9ee050ec43508800c87315cf7c5b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fforeign-branded-phone-shipments-china-more-than-doubled-year-nov-caict-data-2025-12-25%2f&amp;c=8142400139296163358&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Dec 2025 21:50:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
@@ -153,6 +159,12 @@
         "link": "https://www.cnbc.com/2025/12/25/palantir-retail-investors-valuation-karp.html",
         "pubDate": "Thu, 25 Dec 2025 13:00:01 GMT",
         "category": "us"
+      },
+      {
+        "title": "Tariffs hit boots, bags and more as leather prices jump \u2014 and relief could be years away",
+        "link": "https://www.cnbc.com/2025/12/25/leather-prices-tariffs-trump-boots-handbags-furniture-twisted-x.html",
+        "pubDate": "Thu, 25 Dec 2025 13:00:01 GMT",
+        "category": "business"
       },
       {
         "title": "Exclusive: Nvidia buying AI chip startup Groq&apos;s assets for about $20 billion in its largest deal on record",
