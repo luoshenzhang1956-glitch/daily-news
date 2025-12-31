@@ -1,7 +1,20 @@
 {
-  "updated_at": "2025-12-31T16:36:11.297179",
+  "updated_at": "2025-12-31T18:40:00.289338",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Trump made lots of tariff threats in 2025. Here are some that never materialized",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d55a3c94a419641d37d72155847&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftariffs-trump-trade-economy-3096dec0bb6bc49f3b965f64fce70bfa&amp;c=8204001712982454454&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 06:40:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US applications for jobless benefits fell below 200,000 last week with layoffs historically low",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d557078474fabc2486dcf095472&amp;url=https%3a%2f%2fapnews.com%2farticle%2funemployment-benefits-jobless-claims-layoffs-labor-5e0ab36c477fdb0e4924c3851b852725&amp;c=7494012049664534447&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 05:52:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
       {
         "title": "Greetings from Vienna, where an imperial palace hosts a holiday market for all",
@@ -66,6 +79,18 @@
     ],
     "bbc": [
       {
+        "title": "UK prepares for New Year celebrations as cold weather warnings issued",
+        "link": "https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 31 Dec 2025 17:07:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Finnish police seize ship suspected of sabotaging undersea cable",
+        "link": "https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 31 Dec 2025 16:48:43 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "EU's top diplomat rejects Russian claims of Ukrainian attack on government sites",
         "link": "https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 31 Dec 2025 16:06:41 GMT",
@@ -78,22 +103,16 @@
         "category": "world"
       },
       {
-        "title": "Bottled water from Waitrose recalled over risk it contains glass",
-        "link": "https://www.bbc.com/news/articles/c62wrn17295o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 31 Dec 2025 15:00:20 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Nurse 'lucky to be alive' after crowbar attack at hospital",
         "link": "https://www.bbc.com/news/articles/c86vl5d8w47o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 31 Dec 2025 14:20:38 GMT",
         "category": "Top News"
       },
       {
-        "title": "UK prepares for New Year celebrations as cold weather warnings issued",
-        "link": "https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 31 Dec 2025 13:52:42 GMT",
-        "category": "Top News"
+        "title": "US stock market ends 2025 on a high note after volatile year",
+        "link": "https://www.bbc.com/news/articles/clyd8r1xgjko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 31 Dec 2025 11:02:31 GMT",
+        "category": "us"
       },
       {
         "title": "Eurostar services return to normal after major Channel Tunnel disruption",
@@ -108,83 +127,77 @@
         "category": "Top News"
       },
       {
+        "title": "A wave paralysed me but AI could help me walk again",
+        "link": "https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 31 Dec 2025 05:59:35 GMT",
+        "category": "tech"
+      },
+      {
         "title": "My son was given world's most expensive gene therapy drug - now he can walk",
         "link": "https://www.bbc.com/news/articles/czj0wr012dxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 31 Dec 2025 00:03:29 GMT",
         "category": "health"
-      },
-      {
-        "title": "Trump administration says it's withholding childcare funds from Minnesota amid fraud allegations",
-        "link": "https://www.bbc.com/news/articles/c75xnndvlyko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 30 Dec 2025 23:54:11 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Meta buys Chinese-founded AI start-up Manus",
-        "link": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 30 Dec 2025 17:30:36 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "US crude stockpiles fall, fuel inventories rise on strong refining, EIA says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955506c93b04f3185689f507356d126&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-crude-stockpiles-fall-fuel-inventories-rise-strong-refining-eia-says-2025-12-31%2f&amp;c=4443246323361785856&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 07:29:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Oil prices set for biggest annual drop since 2020",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955506c93b04f3185689f507356d126&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-slips-brent-heads-longest-stretch-annual-losses-2025-2025-12-31%2f&amp;c=15176049094596428215&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 07:19:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Banks tap record liquidity from New York Fed's Standing Repo Facility",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955506c93b04f3185689f507356d126&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fbanks-tap-record-liquidity-new-york-feds-standing-repo-facility-2025-12-31%2f&amp;c=8775215324430759888&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 07:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump Media unveils plan to distribute new cryptocurrency to shareholders",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955506c93b04f3185689f507356d126&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftrump-media-distribute-new-digital-token-shareholders-2025-12-31%2f&amp;c=11274480993019145104&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 07:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Brookfield to start cloud business amid AI frenzy, The Information reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955506c93b04f3185689f507356d126&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fbrookfield-start-cloud-business-amid-ai-frenzy-information-reports-2025-12-31%2f&amp;c=1142879107379224274&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 06:53:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Wall Street slips as tech continues to weigh, but nears annual gains",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955506c93b04f3185689f507356d126&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-inch-down-thin-trading-wall-street-eyes-yearly-gains-2025-12-31%2f&amp;c=5617865559776596406&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 06:52:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d75fcf841ef88b287f58bbbf01a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-inch-down-thin-trading-wall-street-eyes-yearly-gains-2025-12-31%2f&amp;c=5617865559776596406&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 08:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Flu cases rise across US as holiday travel fuels spread",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d75fcf841ef88b287f58bbbf01a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fflu-cases-rise-across-us-holiday-travel-fuels-spread-2025-12-31%2f&amp;c=7024512365674787373&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 08:30:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US jobless claims slide to cap a bumpy year for job market",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d78dbf14e4abb4863c3252b3e3b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-weekly-jobless-claims-fall-1-month-low-2025-12-31%2f&amp;c=216226662867625144&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 08:22:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Porsche to recall over 173,000 US vehicles over rearview camera image issue",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d75fcf841ef88b287f58bbbf01a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fporsche-recall-over-173000-us-vehicles-over-rearview-camera-image-issue-2025-12-31%2f&amp;c=4934102352525448813&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 07:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US DOJ to review 5.2 million pages of Epstein files, document shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d75fcf841ef88b287f58bbbf01a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-doj-review-52-million-pages-epstein-files-document-shows-2025-12-31%2f&amp;c=9514828498596346310&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 07:48:00 GMT",
         "category": "Top News"
       },
       {
         "title": "World begins to bid goodbye to 2025 with fireworks and icy plunges",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955506c93b04f3185689f507356d126&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsydney-brings-new-year-with-nod-victims-bondi-attack-2025-12-31%2f&amp;c=112412053169808608&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 06:34:00 GMT",
-        "category": "Top News"
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d779f384bcbb82c128f17208055&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsydney-brings-new-year-with-nod-victims-bondi-attack-2025-12-31%2f&amp;c=112412053169808608&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 07:31:00 GMT",
+        "category": "world"
       },
       {
         "title": "Taiwan stays on high alert as Chinese ships pull back after massive drills",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955506c93b04f3185689f507356d126&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftaiwan-stays-high-alert-chinese-ships-pull-back-after-massive-drills-2025-12-31%2f&amp;c=8602605485079554997&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d75fcf841ef88b287f58bbbf01a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftaiwan-stays-high-alert-chinese-ships-pull-back-after-massive-drills-2025-12-31%2f&amp;c=8602605485079554997&amp;mkt=en-us",
         "pubDate": "Wed, 31 Dec 2025 06:15:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Exclusive: Drugmakers raise US prices on 350 medicines despite pressure from Trump",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955506c93b04f3185689f507356d126&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fdrugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31%2f&amp;c=5610712992784993014&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d75fcf841ef88b287f58bbbf01a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fdrugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31%2f&amp;c=5610712992784993014&amp;mkt=en-us",
         "pubDate": "Wed, 31 Dec 2025 05:46:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US weekly jobless claims fall to 1-month low",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955506c93b04f3185689f507356d126&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-weekly-jobless-claims-fall-1-month-low-2025-12-31%2f&amp;c=216226662867625144&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 04:40:00 GMT",
+        "title": "Mamdani's inauguration: New York, new year, new mayor",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d75fcf841ef88b287f58bbbf01a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmamdanis-inauguration-new-york-new-year-new-mayor-2025-12-31%2f&amp;c=17262066168206467433&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 03:40:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thieves drill into German bank vault and make off with millions",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69556d75fcf841ef88b287f58bbbf01a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fthieves-drill-into-german-bank-vault-make-off-with-millions-2025-12-30%2f&amp;c=968651241463584542&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 02:12:00 GMT",
         "category": "Top News"
       }
     ],
