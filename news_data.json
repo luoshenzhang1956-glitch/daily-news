@@ -1,33 +1,14 @@
 {
-  "updated_at": "2025-12-31T20:30:17.608947",
+  "updated_at": "2025-12-31T22:26:14.284416",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Average US long-term mortgage rate falls to the lowest level of the year at 6.15%",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69558791d3bd4b48b8e016b3917d872d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmortgage-interest-rates-housing-2eac9ad6dbc581760cb0b47e61e77766&amp;c=14596286967223482169&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 10:13:00 GMT",
+        "title": "In Mt. Olive, N.C., a ball doesn&apos;t drop for New Year&apos;s \u2014 a giant pickle does",
+        "link": "https://www.npr.org/2025/12/31/nx-s1-5639938-e1/in-mt-olive-n-c-a-ball-doesnt-drop-for-new-years-a-giant-pickle-does",
+        "pubDate": "Wed, 31 Dec 2025 16:09:27 -0500",
         "category": "us"
       },
-      {
-        "title": "Wall Street is slipping in light trading on the final day of 2025",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955879367ad4effbebe6f11ee059f12&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-2026-inflation-rates-fed-tariffs-fccc61b72ed242f62000add1575707d0&amp;c=15177667740264542243&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 09:36:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Trump made lots of tariff threats in 2025. Here are some that never materialized",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695587927dee44b8a8fab5adda5d7169&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftariffs-trump-trade-economy-3096dec0bb6bc49f3b965f64fce70bfa&amp;c=8204001712982454454&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 06:40:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Pakistan\u2019s polio cases fell by half in 2025 despite attacks on vaccination teams",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69558793add74c91acb286d8142eedfc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpakistan-polio-vaccination-de0d2b300ddbaa38abb3344b6575eb99&amp;c=4851897055559894586&amp;mkt=en-us",
-        "pubDate": "Tue, 30 Dec 2025 23:59:00 GMT",
-        "category": "health"
-      }
-    ],
-    "npr": [
       {
         "title": "Meet five new species discovered in 2025",
         "link": "https://www.npr.org/2025/12/31/nx-s1-5662605/five-new-species-discovered-2025",
@@ -35,10 +16,10 @@
         "category": "Top News"
       },
       {
-        "title": "What to know about Nick Shirley, the YouTuber alleging daycare fraud in Minnesota",
+        "title": "What to know about Nick Shirley, the YouTuber alleging day care fraud in Minnesota",
         "link": "https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud",
         "pubDate": "Wed, 31 Dec 2025 14:05:27 -0500",
-        "category": "us"
+        "category": "business"
       },
       {
         "title": "Greetings from Vienna, where an imperial palace hosts a holiday market for all",
@@ -81,25 +62,25 @@
         "link": "https://www.npr.org/2025/12/31/nx-s1-5660684/hope-foster-daughter",
         "pubDate": "Wed, 31 Dec 2025 05:00:00 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "It was a rough year for nightclubs",
-        "link": "https://www.npr.org/2025/12/30/nx-s1-5658263/it-was-a-rough-year-for-nightclubs",
-        "pubDate": "Tue, 30 Dec 2025 16:59:28 -0500",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "Iran protesters try to break into government building as unrest continues",
-        "link": "https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 31 Dec 2025 19:47:14 GMT",
+        "title": "Trump says he is withdrawing National Guard troops from some US cities",
+        "link": "https://www.bbc.com/news/articles/c9dv1200j44o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 31 Dec 2025 22:11:25 GMT",
+        "category": "us"
+      },
+      {
+        "title": "UK gears up for new year celebrations as thousands gather in London",
+        "link": "https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 31 Dec 2025 22:03:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "UK prepares for New Year celebrations as cold weather warnings issued",
-        "link": "https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 31 Dec 2025 18:53:23 GMT",
+        "title": "Iran protesters try to break into government building as unrest continues",
+        "link": "https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 31 Dec 2025 19:47:14 GMT",
         "category": "Top News"
       },
       {
@@ -127,12 +108,6 @@
         "category": "Top News"
       },
       {
-        "title": "US stock market ends 2025 on a high note after volatile year",
-        "link": "https://www.bbc.com/news/articles/clyd8r1xgjko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 31 Dec 2025 11:02:31 GMT",
-        "category": "us"
-      },
-      {
         "title": "Eurostar services return to normal after major Channel Tunnel disruption",
         "link": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 31 Dec 2025 09:55:07 GMT",
@@ -153,109 +128,66 @@
     ],
     "reuters": [
       {
-        "title": "Wall Street drops on tech, set to see annual gains",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955879552a948b8bc624b0bf25e1d86&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-inch-down-thin-trading-wall-street-eyes-yearly-gains-2025-12-31%2f&amp;c=5617865559776596406&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 10:17:00 GMT",
-        "category": "Top News"
+        "title": "US Coast Guard searches for survivors after strike on suspected drug vessels",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955a305886540398bf0e289986b8271&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fus-military-says-three-people-killed-strikes-suspected-drug-convoy-2025-12-31%2f&amp;c=4936734304734461211&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 13:21:00 GMT",
+        "category": "us"
       },
       {
-        "title": "US judge blocks Trump move to end protected status for thousands from Honduras, Nepal and Nicaragua",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955879552a948b8bc624b0bf25e1d86&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-judge-blocks-trump-move-end-protected-status-thousands-honduras-nepal-2025-12-31%2f&amp;c=17156742404068695798&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 10:01:00 GMT",
+        "title": "Ukraine, EU officials dismiss alleged attack on Putin residence",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955a303e3b84f1db0306bd44bda0348&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraine-eu-officials-dismiss-alleged-attack-putin-residence-2025-12-31%2f&amp;c=10259220415597124946&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 12:55:00 GMT",
         "category": "Top News"
       },
       {
         "title": "World bids goodbye to 2025 with fireworks and icy plunges",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69558796e8764ede951700fbc2cda0fb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsydney-brings-new-year-with-nod-victims-bondi-attack-2025-12-31%2f&amp;c=112412053169808608&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 09:34:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955a304f56343869c5484cbcdfa7474&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsydney-brings-new-year-with-nod-victims-bondi-attack-2025-12-31%2f&amp;c=112412053169808608&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 11:57:00 GMT",
         "category": "world"
       },
       {
-        "title": "Flu cases rise across US as holiday travel fuels spread",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695587a701984790bf40df130a30d10c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fflu-cases-rise-across-us-holiday-travel-fuels-spread-2025-12-31%2f&amp;c=7024512365674787373&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 08:30:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "US jobless claims slide to cap a bumpy year for job market",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955879552a948b8bc624b0bf25e1d86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-weekly-jobless-claims-fall-1-month-low-2025-12-31%2f&amp;c=216226662867625144&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 08:22:00 GMT",
+        "title": "Report: Clayton Keller among newcomers on Team USA",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955a303e3b84f1db0306bd44bda0348&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2freport-clayton-keller-among-newcomers-team-usa--flm-2025-12-31%2f&amp;c=978576460287975344&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 11:46:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Brookfield to start cloud business amid AI frenzy, The Information reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69558797f64b401292a1fae3491ae282&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fbrookfield-start-cloud-business-amid-ai-frenzy-information-reports-2025-12-31%2f&amp;c=1142879107379224274&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 06:53:00 GMT",
-        "category": "business"
+        "title": "US issues fresh sanctions targeting Venezuela's oil sector",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955a303e3b84f1db0306bd44bda0348&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-targets-crude-oil-tankers-firms-new-venezuela-related-sanctions-treasury-2025-12-31%2f&amp;c=8900359330137683812&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 11:30:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Taiwan stays on high alert as Chinese ships pull back after massive drills",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955879552a948b8bc624b0bf25e1d86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftaiwan-stays-high-alert-chinese-ships-pull-back-after-massive-drills-2025-12-31%2f&amp;c=8602605485079554997&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 06:15:00 GMT",
+        "title": "US grants annual approval to TSMC for chipmaking tool exports to China",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955a303e3b84f1db0306bd44bda0348&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-grants-annual-approval-tsmc-chipmaking-tool-exports-china-2025-12-31%2f&amp;c=4164114960078781505&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 11:27:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Exclusive: Drugmakers raise US prices on 350 medicines despite pressure from Trump",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69558797a6ec4e56be7ac0002c42e30f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fdrugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31%2f&amp;c=5610712992784993014&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 05:46:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Mamdani's inauguration: New York, new year, new mayor",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955879552a948b8bc624b0bf25e1d86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmamdanis-inauguration-new-york-new-year-new-mayor-2025-12-31%2f&amp;c=17262066168206467433&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 03:40:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955a303e3b84f1db0306bd44bda0348&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fdrugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31%2f&amp;c=5610712992784993014&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 11:25:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Thieves drill into German bank vault and make off with millions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955879552a948b8bc624b0bf25e1d86&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fthieves-drill-into-german-bank-vault-make-off-with-millions-2025-12-30%2f&amp;c=968651241463584542&amp;mkt=en-us",
-        "pubDate": "Wed, 31 Dec 2025 02:12:00 GMT",
+        "title": "US judge blocks Trump move to end protected status for thousands from Honduras, Nepal and Nicaragua",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955a303e3b84f1db0306bd44bda0348&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-judge-blocks-trump-move-end-protected-status-thousands-honduras-nepal-2025-12-31%2f&amp;c=17156742404068695798&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 10:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Finland seizes ship sailing from Russia after suspected cable sabotage in Baltic Sea",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955a303e3b84f1db0306bd44bda0348&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ffinland-suspects-ship-causing-undersea-cable-damage-president-says-2025-12-31%2f&amp;c=16091888826013108727&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 09:40:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US DOJ to review 5.2 million pages of Epstein files, document shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6955a303e3b84f1db0306bd44bda0348&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-doj-review-52-million-pages-epstein-files-document-shows-2025-12-31%2f&amp;c=9514828498596346310&amp;mkt=en-us",
+        "pubDate": "Wed, 31 Dec 2025 07:48:00 GMT",
         "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "Stocks making the biggest moves midday: Nike, Corcept Therapeutics, Taiwan Semiconductor &amp; more",
-        "link": "https://www.cnbc.com/2025/12/31/stocks-making-the-biggest-moves-midday-nke-cort-tsm.html",
-        "pubDate": "Wed, 31 Dec 2025 17:22:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "European markets close mixed on last trading day of 2025; Defense stocks rose",
-        "link": "https://www.cnbc.com/2025/12/31/european-markets-on-december-31-stoxx-600-ftse-dax-cac.html",
-        "pubDate": "Wed, 31 Dec 2025 13:47:04 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Warren Buffett\u2019s exit leaves open question: Who runs Berkshire\u2019s $300 billion equity portfolio?",
-        "link": "https://www.cnbc.com/2025/12/31/warren-buffetts-exit-leaves-open-question-who-runs-berkshires-300-billion-equity-portfolio.html",
-        "pubDate": "Wed, 31 Dec 2025 11:28:34 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Europe\u2019s banks have had a stellar year. Now they face one big question in 2026",
-        "link": "https://www.cnbc.com/2025/12/31/the-big-question-facing-europes-banks-in-2026-following-strong-year.html",
-        "pubDate": "Wed, 31 Dec 2025 06:45:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China to restrict silver exports, echoing rare earths playbook",
-        "link": "https://www.cnbc.com/2025/12/31/china-silver-export-controls-2026-us-economy-prices-rare-earths-critical-minerals-xag-metals.html",
-        "pubDate": "Wed, 31 Dec 2025 04:09:34 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China EVs in 2026 look less like a boom and more like a survival test as global expansion ramps up",
-        "link": "https://www.cnbc.com/2025/12/30/china-electric-car-2026-price-war-evs-sales-global-expansion-slowdown-price-war-2025.html",
-        "pubDate": "Tue, 30 Dec 2025 23:59:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fed minutes show officials were in tight split over December rate cut",
-        "link": "https://www.cnbc.com/2025/12/30/fed-minutes-december-2025.html",
-        "pubDate": "Tue, 30 Dec 2025 21:37:46 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
