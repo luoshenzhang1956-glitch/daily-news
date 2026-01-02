@@ -1,32 +1,7 @@
 {
-  "updated_at": "2026-01-02T16:34:57.291511",
+  "updated_at": "2026-01-02T18:41:11.945008",
   "news": {
-    "ap": [
-      {
-        "title": "US hockey picks 4 Nations-heavy roster for the Winter Olympics, adding Keller, Thompson and Jones",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6957f334432548f3beb02f0fd6937df0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmilan-olympics-us-hockey-roster-25c7f857eee2ecdb509554ece86c1ee6&amp;c=5357013236554217051&amp;mkt=en-us",
-        "pubDate": "Fri, 02 Jan 2026 07:53:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Tesla loses title as world\u2019s biggest electric vehicle maker as sales fall for second year in a row",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6957f32a3e9d407694b29d9b39b83d00&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftesla-sales-musk-trump-deliveries-robotaxi-6d60715babde97b3b1a8e2416f4065ca&amp;c=13290829381929925254&amp;mkt=en-us",
-        "pubDate": "Fri, 02 Jan 2026 06:21:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Director of Swiss hospital describes the rush to treat the injured from Alpine resort bar fire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6957f34624d649b58ec6af5180204100&amp;url=https%3a%2f%2fapnews.com%2farticle%2fswitzerland-crans-montana-bar-fire-hospital-973802e916bd906bdfb947de46400c60&amp;c=1355158786088779086&amp;mkt=en-us",
-        "pubDate": "Fri, 02 Jan 2026 06:18:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "No. 15 Texas Tech hosts Roy and Oklahoma State",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6957f3435ee442e09aa9fc485962926b&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftexas-tech-red-raiders-oklahoma-state-cowboys-anthony-roy-texas-mens-college-basketball-3960030d59b64f1090177492ab3256b0&amp;c=6510201206443808755&amp;mkt=en-us",
-        "pubDate": "Fri, 02 Jan 2026 01:51:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "George Clooney gets French citizenship \u2014 and another dust-up with Trump",
@@ -47,20 +22,26 @@
         "category": "us"
       },
       {
+        "title": "Slow Epstein files release not as concerning as docs DOJ has withheld, says Ro Khanna",
+        "link": "https://www.npr.org/2026/01/02/nx-s1-5664083/rep-ro-khanna-d-calif-talks-about-the-dojs-release-of-the-epstein-files",
+        "pubDate": "Fri, 02 Jan 2026 06:45:47 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Brain organoids are helping researchers, but their use also creates unease",
         "link": "https://www.npr.org/sections/shots-health-news/2026/01/02/nx-s1-5658576/brain-organoids-research-ethics",
         "pubDate": "Fri, 02 Jan 2026 06:00:00 -0500",
         "category": "health"
       },
       {
-        "title": "With few Epstein files released, conspiracy theories flourish and questions remain",
-        "link": "https://www.npr.org/2026/01/02/nx-s1-5662638/epstein-files-release-trump-conspiracy-2026",
+        "title": "U.S. interventions in Latin America and the Caribbean haven&apos;t always gone as planned",
+        "link": "https://www.npr.org/2026/01/02/nx-s1-5652133/us-venezuela-interventionism-caribbean-latin-america-history-trump",
         "pubDate": "Fri, 02 Jan 2026 05:00:00 -0500",
         "category": "Top News"
       },
       {
-        "title": "U.S. interventions in Latin America and the Caribbean haven&apos;t always gone as planned",
-        "link": "https://www.npr.org/2026/01/02/nx-s1-5652133/us-venezuela-interventionism-caribbean-latin-america-history-trump",
+        "title": "With few Epstein files released, conspiracy theories flourish and questions remain",
+        "link": "https://www.npr.org/2026/01/02/nx-s1-5662638/epstein-files-release-trump-conspiracy-2026",
         "pubDate": "Fri, 02 Jan 2026 05:00:00 -0500",
         "category": "Top News"
       },
@@ -77,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "How the Trump administration&apos;s freeze on child care funding will affect families",
-        "link": "https://www.npr.org/2026/01/02/nx-s1-5664081/how-the-trump-administrations-freeze-on-childcare-funding-will-affect-families",
-        "pubDate": "Fri, 02 Jan 2026 04:50:07 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Small business owner shares how Trump&apos;s tariffs affected sales",
         "link": "https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales",
         "pubDate": "Fri, 02 Jan 2026 04:49:59 -0500",
@@ -91,52 +66,52 @@
     ],
     "bbc": [
       {
-        "title": "Anthony Joshua's driver charged over Nigeria crash that killed two",
-        "link": "https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Jan 2026 16:24:49 GMT",
+        "title": "Swiss bar fire likely started by sparklers on champagne bottles",
+        "link": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 02 Jan 2026 18:31:58 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Sparklers on champagne bottles likely cause of deadly Swiss bar fire",
+        "link": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 02 Jan 2026 18:31:58 GMT",
         "category": "Top News"
       },
       {
-        "title": "Young Italian golfer feared dead and 100 in critical condition - what we know so far",
-        "link": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Jan 2026 16:11:51 GMT",
+        "title": "Major search for people 'in difficulty' in sea",
+        "link": "https://www.bbc.com/news/articles/ce3ewqew4weo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 02 Jan 2026 18:23:42 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Elon Musk's Grok AI alters images of women to digitally remove their clothes",
-        "link": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Jan 2026 16:00:55 GMT",
-        "category": "tech"
       },
       {
         "title": "FTSE 100 hits 10,000 mark for first time",
         "link": "https://www.bbc.com/news/articles/c87r05143dzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Jan 2026 15:37:42 GMT",
+        "pubDate": "Fri, 02 Jan 2026 17:34:43 GMT",
         "category": "business"
-      },
-      {
-        "title": "'Living a nightmare': Families of teens missing after ski resort fire desperate for news",
-        "link": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Jan 2026 15:18:56 GMT",
-        "category": "world"
       },
       {
         "title": "Trump warns US will intervene if Iran kills protesters",
         "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Jan 2026 15:05:00 GMT",
+        "pubDate": "Fri, 02 Jan 2026 17:22:17 GMT",
         "category": "us"
+      },
+      {
+        "title": "Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes",
+        "link": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 02 Jan 2026 17:12:25 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Anthony Joshua's driver charged over Nigeria crash that killed two",
+        "link": "https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 02 Jan 2026 17:01:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Hospital flu cases drop as NHS on cold weather alert",
         "link": "https://www.bbc.com/news/articles/cly5z0jz4k4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 02 Jan 2026 12:02:16 GMT",
         "category": "health"
-      },
-      {
-        "title": "Politicians have given away too much power to deliver pledges, says PM's ex-aide",
-        "link": "https://www.bbc.com/news/articles/c75x6ew929po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Jan 2026 11:59:12 GMT",
-        "category": "Top News"
       },
       {
         "title": "Record year for wind and solar power - but is it enough to stay on track for 2030 targets?",
@@ -151,21 +126,7 @@
         "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "Vietnamese Technology Sends Shockwaves Around the World",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6957f36817734f67a8b108824a50ba10&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fvietnamese-technology-shockwaves-world-ct-group-2026-01-02%2f&amp;c=11893006095073254532&amp;mkt=en-us",
-        "pubDate": "Fri, 02 Jan 2026 00:37:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Tesla reports 418,227 deliveries for the fourth quarter, down 16%",
-        "link": "https://www.cnbc.com/2026/01/02/tesla-tsla-q4-2025-vehicle-deliveries.html",
-        "pubDate": "Fri, 02 Jan 2026 15:28:34 GMT",
-        "category": "world"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
