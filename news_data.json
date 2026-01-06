@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-01-06T14:31:32.266785",
+  "updated_at": "2026-01-06T16:39:33.130454",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Marjorie Taylor Greene&apos;s puzzling political transformation, explained",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5668142/marjorie-taylor-greenes-puzzling-political-transformation-explained",
+        "pubDate": "Tue, 06 Jan 2026 11:22:44 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Attempting to predict the economy in 2026",
+        "link": "https://www.npr.org/sections/planet-money/2026/01/06/g-s1-104281/attempting-to-predict-the-economy-in-2026",
+        "pubDate": "Tue, 06 Jan 2026 10:04:07 -0500",
+        "category": "business"
+      },
       {
         "title": "Lawmakers split over Maduro&apos;s seizure. And, CDC cuts childhood vaccine schedule",
         "link": "https://www.npr.org/2026/01/06/g-s1-104740/up-first-newsletter-nicolas-maduro-court-venezuela-congress-vaccine-schedule",
@@ -13,6 +25,12 @@
         "title": "After devastating LA fires, California is drafting nation&apos;s toughest rules for homes",
         "link": "https://www.npr.org/2026/01/06/nx-s1-5577155/california-law-la-wildfires-zone-zero-vegetation",
         "pubDate": "Tue, 06 Jan 2026 07:24:27 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Venezuela strategy remains &apos;vague&apos; after Trump admin briefing, says Rep. Adam Smith",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667047/rep-adam-smith-shares-what-lawmakers-have-learned-about-u-s-actions-in-venezuela",
+        "pubDate": "Tue, 06 Jan 2026 06:48:42 -0500",
         "category": "Top News"
       },
       {
@@ -40,60 +58,48 @@
         "category": "Top News"
       },
       {
-        "title": "Trump says the U.S. plans to &quot;take back&quot; Venezuela&apos;s oil. But what does that mean",
-        "link": "https://www.npr.org/2026/01/06/nx-s1-5667055/trump-says-the-u-s-plans-to-take-back-venezuelas-oil-but-what-does-that-mean",
-        "pubDate": "Tue, 06 Jan 2026 04:47:50 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Once an industry top dog, Intel hopes to regain dominance with chip made in the U.S.",
         "link": "https://www.npr.org/2026/01/06/nx-s1-5667545/once-an-industry-top-dog-intel-hopes-to-regain-dominance-with-chip-made-in-the-u-s",
         "pubDate": "Tue, 06 Jan 2026 04:47:43 -0500",
         "category": "tech"
-      },
-      {
-        "title": "Progress for Ukraine talks in Paris uncertain with U.S. focus shifting to Venezuela",
-        "link": "https://www.npr.org/2026/01/06/g-s1-104730/progress-ukraine-talks-paris-uncertain",
-        "pubDate": "Tue, 06 Jan 2026 02:28:41 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Danish prime minister says a US takeover of Greenland would mark the end of NATO",
-        "link": "https://www.npr.org/2026/01/06/nx-s1-5668080/danish-prime-minister-us-takeover-greenland-end-of-nato",
-        "pubDate": "Tue, 06 Jan 2026 02:26:02 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Iran anti-government protests spread to majority of provinces, videos show",
-        "link": "https://www.bbc.com/news/articles/cre28d2j2zxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 14:07:08 GMT",
-        "category": "world"
-      },
-      {
-        "title": "European allies back Denmark over Trump's threat to annex Greenland",
-        "link": "https://www.bbc.com/news/articles/c07xkeee2k3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 13:43:10 GMT",
+        "title": "The painful questions for Nato and the EU as Trump threatens Greenland",
+        "link": "https://www.bbc.com/news/articles/cpwn2wjzwndo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Jan 2026 16:25:01 GMT",
         "category": "Top News"
       },
       {
         "title": "Swiss ski bar not inspected for five years before deadly fire, mayor says",
         "link": "https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 12:24:11 GMT",
+        "pubDate": "Tue, 06 Jan 2026 16:16:53 GMT",
         "category": "Top News"
       },
       {
-        "title": "Drivers over 70 to face eye tests every three years",
-        "link": "https://www.bbc.com/news/articles/c205nxy0p31o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 10:49:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
-        "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 10:30:23 GMT",
+        "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
+        "link": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Jan 2026 15:54:14 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Elon Musk's X should deal with 'appalling' Grok AI deepfakes, government demands",
+        "link": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Jan 2026 15:54:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran anti-government protests spread to majority of provinces, videos show",
+        "link": "https://www.bbc.com/news/articles/cre28d2j2zxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Jan 2026 15:35:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Venezuelan security forces detain journalists as armed police patrol streets",
+        "link": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Jan 2026 13:24:44 GMT",
+        "category": "world"
       },
       {
         "title": "Nestle issues global recall of some baby formula products over toxin fears",
@@ -106,12 +112,6 @@
         "link": "https://www.bbc.com/news/articles/c62w3wr92npo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 06 Jan 2026 08:23:32 GMT",
         "category": "health"
-      },
-      {
-        "title": "Bin strike reaches one-year mark with no end in sight",
-        "link": "https://www.bbc.com/news/articles/c1509kklkzvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 06:03:08 GMT",
-        "category": "Top News"
       },
       {
         "title": "Why I now hug the man who killed my son with a single punch",
@@ -128,36 +128,24 @@
     ],
     "reuters": [
       {
-        "title": "World is less safe after US action in Venezuela, says UN Human Rights Office",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695d1c7f8a0345499efabb80e7929e5c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fworld-is-less-safe-after-us-action-venezuela-says-un-human-rights-office-2026-01-06%2f&amp;c=11257200139578204163&amp;mkt=en-us",
-        "pubDate": "Tue, 06 Jan 2026 02:18:00 GMT",
-        "category": "world"
+        "title": "US builds case to retain measles elimination status as infections mount",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695d3a9407a04a8dbf06af26cde7d702&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-builds-case-retain-measles-elimination-status-infections-mount-2026-01-06%2f&amp;c=725162518204697328&amp;mkt=en-us",
+        "pubDate": "Tue, 06 Jan 2026 02:04:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "&apos;Greenland belongs to its people&apos;: European leaders unite over Trump\u2019s threats to annex territory",
-        "link": "https://www.cnbc.com/2026/01/06/european-leaders-push-back-over-trumps-renewed-greenland-interest.html",
-        "pubDate": "Tue, 06 Jan 2026 13:50:13 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Maduro pleads not guilty, Nvidia&apos;s robotaxi play, JPMorgan&apos;s &apos;secret sauce&apos; and more in Morning Squawk",
-        "link": "https://www.cnbc.com/2026/01/06/5-things-to-know-before-the-stock-market-opens.html",
-        "pubDate": "Tue, 06 Jan 2026 13:19:51 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Deutsche Bank turns bullish on Shake Shack, calls it a World Cup beneficiary",
-        "link": "https://www.cnbc.com/2026/01/06/deutsche-bank-turns-bullish-on-shake-shack-calls-it-a-world-cup-beneficiary.html",
-        "pubDate": "Tue, 06 Jan 2026 13:12:31 GMT",
+        "title": "Wells Fargo says a market \u2018short squeeze\u2019 is coming. Here are the stocks to target for a trade",
+        "link": "https://www.cnbc.com/2026/01/06/wells-fargo-says-a-market-short-squeeze-is-coming-here-are-the-stocks-to-target-for-a-trade.html",
+        "pubDate": "Tue, 06 Jan 2026 16:01:45 GMT",
         "category": "us"
       },
       {
-        "title": "First GLP-1 pill for obesity from Novo Nordisk launches in the U.S.",
-        "link": "https://www.cnbc.com/2026/01/05/first-glp-1-pill-for-obesity-from-novo-nordisk-launches-in-the-us.html",
-        "pubDate": "Mon, 05 Jan 2026 14:47:00 GMT",
-        "category": "health"
+        "title": "Ford reports best annual U.S. vehicle sales since 2019",
+        "link": "https://www.cnbc.com/2026/01/06/ford-f-2025-annual-sales.html",
+        "pubDate": "Tue, 06 Jan 2026 15:45:22 GMT",
+        "category": "business"
       }
     ]
   }
