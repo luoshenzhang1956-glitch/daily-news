@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-01-07T12:59:49.031913",
+  "updated_at": "2026-01-07T14:32:04.682809",
   "news": {
     "ap": [
       {
-        "title": "Gordie Howe Bridge to give Detroit a walkable, bikeable link to Canada",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e584717e544b08c515d14c0406515&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcanada-detroit-general-news-traffic-aa519233a605a13d35bff641e84d2d77&amp;c=7227692785953774468&amp;mkt=en-us",
-        "pubDate": "Tue, 06 Jan 2026 13:55:00 GMT",
-        "category": "business"
+        "title": "At CES, auto and tech companies transform cars into proactive companions",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e6e2824d34ed199909e723f45cf87&amp;url=https%3a%2f%2fapnews.com%2farticle%2fces-ai-auto-travel-mobility-las-vegas-de4ab551c3102c119a01b7a81fe3e8af&amp;c=11280231074778427381&amp;mkt=en-us",
+        "pubDate": "Tue, 06 Jan 2026 21:57:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
@@ -35,8 +35,8 @@
         "category": "Top News"
       },
       {
-        "title": "The delightful history behind serendipity suggests it&apos;s not mere luck",
-        "link": "https://www.npr.org/2026/01/07/nx-s1-5667595/serendipity-origin-history-word-of-the-week",
+        "title": "DHS wants Venezuelans to return home, but fears remain as long as Maduro regime is in power",
+        "link": "https://www.npr.org/2026/01/07/nx-s1-5668411/dhs-venezuelans-can-return-home",
         "pubDate": "Wed, 07 Jan 2026 05:00:00 -0500",
         "category": "us"
       },
@@ -59,8 +59,8 @@
         "category": "Top News"
       },
       {
-        "title": "DHS wants Venezuelans to return home, but fears remain as long as Maduro regime is in power",
-        "link": "https://www.npr.org/2026/01/07/nx-s1-5668411/dhs-venezuelans-can-return-home",
+        "title": "The delightful history behind serendipity suggests it&apos;s not mere luck",
+        "link": "https://www.npr.org/2026/01/07/nx-s1-5667595/serendipity-origin-history-word-of-the-week",
         "pubDate": "Wed, 07 Jan 2026 05:00:00 -0500",
         "category": "Top News"
       },
@@ -73,16 +73,34 @@
     ],
     "bbc": [
       {
-        "title": "Man jailed for selling chemicals online to help people kill themselves",
-        "link": "https://www.bbc.com/news/articles/c87rdl1zrwwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 07 Jan 2026 12:38:23 GMT",
+        "title": "MPs would vote on using troops in Ukraine, Starmer says",
+        "link": "https://www.bbc.com/news/articles/ckgln3lgl3jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 07 Jan 2026 14:29:40 GMT",
         "category": "Top News"
       },
       {
-        "title": "Russia sends navy to guard oil tanker being pursued by US forces",
+        "title": "Man jailed for selling chemicals online to help people kill themselves",
+        "link": "https://www.bbc.com/news/articles/c87rdl1zrwwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 07 Jan 2026 14:08:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US forces attempt to board oil tanker after pursuit across Atlantic",
         "link": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 07 Jan 2026 12:37:50 GMT",
+        "pubDate": "Wed, 07 Jan 2026 13:32:30 GMT",
         "category": "us"
+      },
+      {
+        "title": "Fear and uncertainty: Venezuelans face up to future without Maduro",
+        "link": "https://www.bbc.com/news/articles/c62077l3m7eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 07 Jan 2026 13:26:35 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jesy Nelson will 'shout from the rooftops' about baby muscle disease campaign",
+        "link": "https://www.bbc.com/news/articles/cp80k92kkedo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 07 Jan 2026 13:10:24 GMT",
+        "category": "Top News"
       },
       {
         "title": "Flu: How are hospitals in your area affected?",
@@ -91,40 +109,22 @@
         "category": "health"
       },
       {
-        "title": "Man jailed for supplying gangs with thousands of Channel small boats",
-        "link": "https://www.bbc.com/news/articles/cn82y2jn492o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 07 Jan 2026 12:11:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Families shocked Swiss ski bar was not inspected for years before deadly fire",
-        "link": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 07 Jan 2026 10:54:33 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Learner drivers may have to wait six months before taking test",
         "link": "https://www.bbc.com/news/articles/clym5jvgdepo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 07 Jan 2026 10:35:04 GMT",
         "category": "business"
       },
       {
-        "title": "Learner drivers face longer wait for tests and a lower drink-drive limit",
+        "title": "Learner drivers face minimum wait for tests and a lower drink-drive limit",
         "link": "https://www.bbc.com/news/articles/clym5jvgdepo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 07 Jan 2026 10:35:04 GMT",
         "category": "Top News"
       },
       {
-        "title": "US discussing options to acquire Greenland, including use of military, says White House",
+        "title": "US discussing options to acquire Greenland including using military, White House says",
         "link": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 07 Jan 2026 09:36:04 GMT",
         "category": "world"
-      },
-      {
-        "title": "The painful questions for Nato and the EU as Trump threatens Greenland",
-        "link": "https://www.bbc.com/news/articles/cpwn2wjzwndo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 23:59:30 GMT",
-        "category": "Top News"
       },
       {
         "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
@@ -135,66 +135,79 @@
     ],
     "reuters": [
       {
-        "title": "Aktis Oncology targets up to $945 million valuation in upsized US IPO",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e587591eb43c290f83af564af0bb2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2faktis-oncology-aims-raise-up-3177-million-upsized-us-ipo-2026-01-07%2f&amp;c=10329004766889750570&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 03:43:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Albertsons misses third-quarter revenue estimates",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e587591eb43c290f83af564af0bb2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2falbertsons-misses-third-quarter-revenue-estimates-2026-01-07%2f&amp;c=17204425426007759583&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 03:42:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "JPMorgan Chase cuts ties with proxy advisory firms, WSJ reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e587591eb43c290f83af564af0bb2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fjpmorgan-chase-cuts-ties-with-proxy-advisory-firms-wsj-reports-2026-01-07%2f&amp;c=7027878585054057844&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 03:40:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: US seizing Venezuela-linked oil tanker after weeks-long pursuit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e5876afdf4a7891cc10d8b7c508bc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-seizing-venezuela-linked-oil-tanker-after-weeks-long-pursuit-2026-01-07%2f&amp;c=1794489037322895051&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 03:39:00 GMT",
+        "title": "Exclusive: US seizing Venezuela-linked, Russian-flagged oil tanker after weeks-long pursuit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e6e3b4f3542cfaad5178bc6f7dd6e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-seizing-venezuela-linked-oil-tanker-after-weeks-long-pursuit-2026-01-07%2f&amp;c=1794489037322895051&amp;mkt=en-us",
+        "pubDate": "Wed, 07 Jan 2026 04:22:00 GMT",
         "category": "us"
       },
       {
-        "title": "European allies working on plan should US move on Greenland",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e587591eb43c290f83af564af0bb2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ffrance-working-with-allies-plan-should-us-move-greenland-2026-01-07%2f&amp;c=10699411327901412329&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 03:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Venezuela capture follows 'Trump's Ten Commandments' by the book: Ross Kerber",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e587591eb43c290f83af564af0bb2&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2fvenezuela-capture-follows-trumps-ten-commandments-by-book-ross-kerber-2026-01-07%2f&amp;c=17295546423093398001&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 03:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Health Rounds: AI uses sleep study data to accurately predict dozens of health issues",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e58875c51481d9b379a5bdf48911a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-ai-uses-sleep-study-data-accurately-predict-dozens-health-issues-2026-01-07%2f&amp;c=11937265567072650434&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 03:20:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Warner Bros rejects revised Paramount bid as risky leveraged buyout",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e587591eb43c290f83af564af0bb2&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fwarner-bros-rejects-revised-paramount-bid-risky-leveraged-buyout-2026-01-07%2f&amp;c=16405021874157329232&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 03:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bangladesh board says ICC considering request to move their World Cup games from India",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e58761ec744fcbd4bfba519fc7eb4&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fbangladesh-board-says-icc-considering-request-move-their-world-cup-games-india-2026-01-07%2f&amp;c=9807081227481159025&amp;mkt=en-us",
-        "pubDate": "Tue, 06 Jan 2026 23:50:00 GMT",
+        "title": "Power restored in Berlin after longest blackout since World War Two",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e6e3ac42e41d58cf5f556a743d09f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fberlin-restore-power-after-arson-attack-causes-record-outage-2026-01-07%2f&amp;c=17933418172358210632&amp;mkt=en-us",
+        "pubDate": "Wed, 07 Jan 2026 04:20:00 GMT",
         "category": "world"
       },
       {
-        "title": "Bayer sues COVID vaccine makers over mRNA technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e588721be4e7bbcee5efa5e207e96&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fbayer-sues-covid-vaccine-makers-over-mrna-technology-2026-01-06%2f&amp;c=13382809885904924567&amp;mkt=en-us",
-        "pubDate": "Tue, 06 Jan 2026 13:59:00 GMT",
-        "category": "tech"
+        "title": "NRG Energy appoints Robert Gaudette as CEO from April end",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e6e3c660d4e52982e2cd62a8585ba&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fnrg-energy-appoints-robert-gaudette-ceo-april-end-2026-01-07%2f&amp;c=18055764396619498659&amp;mkt=en-us",
+        "pubDate": "Wed, 07 Jan 2026 03:52:00 GMT",
+        "category": "business"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Why Trump wants Greenland \u2014 and what makes it so important for national security",
+        "link": "https://www.cnbc.com/2026/01/07/why-trump-wants-greenland-and-what-makes-it-so-important-for-security.html",
+        "pubDate": "Wed, 07 Jan 2026 14:31:46 GMT",
+        "category": "world"
+      },
+      {
+        "title": "JPMorgan&apos;s asset management will no longer use controversial proxy advisors for shareholder votes",
+        "link": "https://www.cnbc.com/2026/01/07/jpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
+        "pubDate": "Wed, 07 Jan 2026 14:19:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ryan Cohen could be in for a big payday, but he has to grow meme darling GameStop to $100 billion",
+        "link": "https://www.cnbc.com/2026/01/07/ryan-cohen-could-be-in-for-a-big-payday-but-he-has-to-grow-meme-darling-gamestop-to-100-billion.html",
+        "pubDate": "Wed, 07 Jan 2026 14:12:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Alaska Airlines buys more than 100 Boeing jets in carrier&apos;s biggest order ever",
+        "link": "https://www.cnbc.com/2026/01/07/alaska-airlines-boeing-order-737-10-dreamliners.html",
+        "pubDate": "Wed, 07 Jan 2026 14:00:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Air taxi maker Joby buys new Ohio factory, more than doubles manufacturing footprint as it vies for FAA approval",
+        "link": "https://www.cnbc.com/2026/01/07/joby-faa-air-taxi-evtol.html",
+        "pubDate": "Wed, 07 Jan 2026 13:33:38 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Oppenheimer sees a \u2018golden opportunity\u2019 in McDonald\u2019s, upgrades fast-food giant",
+        "link": "https://www.cnbc.com/2026/01/07/oppenheimer-sees-a-golden-opportunity-in-mcdonalds-upgrades-fast-food-giant.html",
+        "pubDate": "Wed, 07 Jan 2026 12:49:47 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Mobileye, GameStop, Chevron &amp; more",
+        "link": "https://www.cnbc.com/2026/01/07/stocks-making-the-biggest-moves-premarket-mbly-gme-cvx.html",
+        "pubDate": "Wed, 07 Jan 2026 12:22:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here&apos;s what could happen next",
+        "link": "https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html",
+        "pubDate": "Tue, 06 Jan 2026 22:18:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Venezuela bonds are the hottest trade on Wall Street this week. But there are big risks from here",
+        "link": "https://www.cnbc.com/2026/01/06/venezuela-bonds-are-the-hottest-trade-on-wall-street-this-week-but-risks-remain.html",
+        "pubDate": "Tue, 06 Jan 2026 19:29:25 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
