@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-01-06T22:30:54.518634",
+  "updated_at": "2026-01-07T02:09:31.923237",
   "news": {
     "ap": [
       {
-        "title": "Jacob Duffy named in New Zealand\u2019s squad for the T20 World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695d8c49229e4fdd960ef495cd2ffcd5&amp;url=https%3a%2f%2fapnews.com%2farticle%2ft20-world-cup-new-zealand-squad-6955220e581e705963f4bf7e68d03381&amp;c=5875787616905158880&amp;mkt=en-us",
-        "pubDate": "Tue, 06 Jan 2026 14:07:00 GMT",
-        "category": "world"
+        "title": "CES technology show opens to the public in Las Vegas",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695dbfdcec4c4fd18baafbcf34b7a8cc&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fces-technology-show-opens-to-the-public-in-las-vegas-3bb720e78da24b65adb2932ccaaf740c&amp;c=3666817060111248426&amp;mkt=en-us",
+        "pubDate": "Tue, 06 Jan 2026 13:26:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Nationals hire Jason Sinnarajah from Royals as their president of business operations",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695dbfdb352a4584af085a5eeb6963e6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnationals-jason-sinnarajah-d62bd424dca715acc8210563fd786409&amp;c=2913380589269762461&amp;mkt=en-us",
+        "pubDate": "Tue, 06 Jan 2026 07:53:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
       {
-        "title": "President Trump&apos;s comments about Greenland dominate European meeting on Ukraine",
-        "link": "https://www.npr.org/2026/01/06/nx-s1-5668163/president-trumps-comments-about-greenland-dominate-european-meeting-on-ukraine",
-        "pubDate": "Tue, 06 Jan 2026 17:13:21 -0500",
-        "category": "world"
+        "title": "A beloved library closes at NASA&apos;s Goddard Space Flight Center",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667084/a-beloved-library-closes-at-nasas-goddard-space-flight-center",
+        "pubDate": "Tue, 06 Jan 2026 17:58:21 -0500",
+        "category": "us"
       },
       {
         "title": "&apos;People want to look good&apos;: Researcher hopes redesigned walker will remove stigma",
@@ -23,16 +29,10 @@
         "category": "health"
       },
       {
-        "title": "Investigations J6 project",
-        "link": "https://www.npr.org/2026/01/06/nx-s1-5598467/investigations-j6-project",
-        "pubDate": "Tue, 06 Jan 2026 16:12:56 -0500",
-        "category": "us"
-      },
-      {
         "title": "Hungarian filmmaker B\u00e9la Tarr \u2014 known for bleak, existential movies \u2014 has died",
         "link": "https://www.npr.org/2026/01/06/nx-s1-5668240/bela-tarr-filmmaker-dead",
         "pubDate": "Tue, 06 Jan 2026 14:49:21 -0500",
-        "category": "Top News"
+        "category": "world"
       },
       {
         "title": "Edith Renfrow Smith, pioneer and witness to history, dies at 111",
@@ -65,6 +65,12 @@
         "category": "Top News"
       },
       {
+        "title": "Venezuela strategy remains &apos;vague&apos; after Trump admin briefing, says Rep. Adam Smith",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667047/rep-adam-smith-shares-what-lawmakers-have-learned-about-u-s-actions-in-venezuela",
+        "pubDate": "Tue, 06 Jan 2026 06:48:42 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Once an industry top dog, Intel hopes to regain dominance with chip made in the U.S.",
         "link": "https://www.npr.org/2026/01/06/nx-s1-5667545/once-an-industry-top-dog-intel-hopes-to-regain-dominance-with-chip-made-in-the-u-s",
         "pubDate": "Tue, 06 Jan 2026 04:47:43 -0500",
@@ -75,56 +81,56 @@
       {
         "title": "US discussing options to acquire Greenland, including use of military, says White House",
         "link": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 22:16:17 GMT",
+        "pubDate": "Wed, 07 Jan 2026 01:51:56 GMT",
         "category": "us"
       },
       {
-        "title": "UK and France to send troops to Ukraine if peace deal agreed",
-        "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 21:02:58 GMT",
-        "category": "world"
-      },
-      {
-        "title": "US may intercept and seize oil tanker sailing near UK, reports say",
-        "link": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 19:47:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fresh snow and ice warnings as Storm Goretti approaches UK",
-        "link": "https://www.bbc.com/news/articles/cx2x6z4n2wzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 19:18:06 GMT",
+        "title": "More snow and ice across nearly all of UK as cold snap continues",
+        "link": "https://www.bbc.com/news/articles/cly39n1vejpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 07 Jan 2026 00:10:21 GMT",
         "category": "Top News"
       },
       {
         "title": "Learner drivers may have to wait six months before taking test",
         "link": "https://www.bbc.com/news/articles/clym5jvgdepo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 19:00:04 GMT",
+        "pubDate": "Wed, 07 Jan 2026 00:00:28 GMT",
         "category": "business"
+      },
+      {
+        "title": "Learner drivers face longer wait for tests as lower drink-drive limit proposed",
+        "link": "https://www.bbc.com/news/articles/clym5jvgdepo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 07 Jan 2026 00:00:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The painful questions for Nato and the EU as Trump threatens Greenland",
+        "link": "https://www.bbc.com/news/articles/cpwn2wjzwndo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Jan 2026 23:59:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Assisted dying campaigners request extra time for peers to scrutinise bill",
+        "link": "https://www.bbc.com/news/articles/crkrexrk0xzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Jan 2026 23:29:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK and France to send troops to Ukraine if peace deal agreed",
+        "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Jan 2026 22:30:55 GMT",
+        "category": "world"
+      },
+      {
+        "title": "BBC looks into the relationship between Cuba and Venezuela",
+        "link": "https://www.bbc.com/news/videos/cly5nn5w918o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Jan 2026 20:59:10 GMT",
+        "category": "Top News"
       },
       {
         "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
         "link": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 06 Jan 2026 17:01:46 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Elon Musk's X should deal with 'appalling' Grok AI deepfakes, government demands",
-        "link": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 17:01:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Police told wrong family teen had died in crash",
-        "link": "https://www.bbc.com/news/articles/cgm4yv4rlnpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 17:00:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lego unveils tech-filled Smart Bricks - to play experts' unease",
-        "link": "https://www.bbc.com/news/articles/crmlnmnwzk2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Jan 2026 16:20:15 GMT",
-        "category": "Top News"
       },
       {
         "title": "New NHS online hospital to focus on eyes, menopause and prostates",
@@ -135,30 +141,42 @@
     ],
     "reuters": [
       {
-        "title": "TRADING DAY No pain, plenty gAIn for world stocks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695d8c9527f34300b5d990da53dd5420&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-trading-day-graphic-2026-01-06%2f&amp;c=3637304166376475593&amp;mkt=en-us",
-        "pubDate": "Tue, 06 Jan 2026 13:03:00 GMT",
-        "category": "world"
+        "title": "Chat platform Discord files confidentially for US IPO, Bloomberg News reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695dc019fd7448dabcedbeb171729c6b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fchat-platform-discord-confidentially-file-us-ipo-bloomberg-news-reports-2026-01-06%2f&amp;c=9655843220469539158&amp;mkt=en-us",
+        "pubDate": "Tue, 06 Jan 2026 15:35:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Exclusive: In post-Maduro Venezuela, US eyes security chief as potential target, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695dc01946e940d1902001311da6b85d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fpost-maduro-venezuela-us-eyes-security-chief-potential-target-sources-say-2026-01-06%2f&amp;c=313210115333828363&amp;mkt=en-us",
+        "pubDate": "Tue, 06 Jan 2026 14:47:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Boards Prioritize Strategic Execution, Technology and People Heading Into 2026",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695dc01acbab40d9afb18dba720c2c61&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fboards-prioritize-strategic-execution-technology-people-2026-2026-01-06%2f&amp;c=14707352147811402870&amp;mkt=en-us",
+        "pubDate": "Tue, 06 Jan 2026 07:23:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here&apos;s what could happen next",
-        "link": "https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html",
-        "pubDate": "Tue, 06 Jan 2026 22:18:49 GMT",
-        "category": "Top News"
+        "title": "Trump says Venezuela to give up to 50 million barrels of oil to U.S.",
+        "link": "https://www.cnbc.com/2026/01/06/trump-venezuela-oil.html",
+        "pubDate": "Wed, 07 Jan 2026 00:29:44 GMT",
+        "category": "world"
       },
       {
-        "title": "Stocks making the biggest moves midday: Johnson Controls, TransUnion, SoFi, AIG &amp; more",
-        "link": "https://www.cnbc.com/2026/01/06/stocks-making-the-biggest-moves-midday-jci-tru-sofi-aig-.html",
-        "pubDate": "Tue, 06 Jan 2026 20:16:09 GMT",
-        "category": "Top News"
+        "title": "Amazon&apos;s AI shopping tool sparks backlash from online retailers that didn&apos;t want websites scraped",
+        "link": "https://www.cnbc.com/2026/01/06/amazons-ai-shopping-tool-sparks-backlash-from-some-online-retailers.html",
+        "pubDate": "Tue, 06 Jan 2026 22:16:57 GMT",
+        "category": "tech"
       },
       {
-        "title": "Venezuela bonds are the hottest trade on Wall Street this week. But there are big risks from here",
-        "link": "https://www.cnbc.com/2026/01/06/venezuela-bonds-are-the-hottest-trade-on-wall-street-this-week-but-risks-remain.html",
-        "pubDate": "Tue, 06 Jan 2026 19:29:25 GMT",
-        "category": "Top News"
+        "title": "The stars are lining up for this PayPal-Amazon hybrid, according to the charts",
+        "link": "https://www.cnbc.com/2026/01/06/the-stars-are-lining-up-for-this-paypal-amazon-hybrid-according-to-the-charts.html",
+        "pubDate": "Tue, 06 Jan 2026 20:22:57 GMT",
+        "category": "us"
       }
     ]
   }
