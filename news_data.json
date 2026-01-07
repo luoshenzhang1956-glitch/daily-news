@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-01-07T14:32:04.682809",
+  "updated_at": "2026-01-07T16:41:19.761844",
   "news": {
-    "ap": [
-      {
-        "title": "At CES, auto and tech companies transform cars into proactive companions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e6e2824d34ed199909e723f45cf87&amp;url=https%3a%2f%2fapnews.com%2farticle%2fces-ai-auto-travel-mobility-las-vegas-de4ab551c3102c119a01b7a81fe3e8af&amp;c=11280231074778427381&amp;mkt=en-us",
-        "pubDate": "Tue, 06 Jan 2026 21:57:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "U.S. seizes Russian-flagged oil tanker with ties to Venezuela",
+        "link": "https://www.npr.org/2026/01/07/nx-s1-5669384/u-s-seizes-russian-flagged-oil-tanker-with-ties-to-venezuela",
+        "pubDate": "Wed, 07 Jan 2026 10:41:17 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Have you had a hard talk with an older driver? Tell us about it",
+        "link": "https://www.npr.org/2026/01/07/nx-s1-5667574/older-drivers-callout",
+        "pubDate": "Wed, 07 Jan 2026 10:18:12 -0500",
+        "category": "Top News"
+      },
       {
         "title": "GOP gearing up to face tough midterms. And, Pentagon reviews women in ground combat",
         "link": "https://www.npr.org/2026/01/07/g-s1-104887/up-first-newsletter-venezuela-trump-republicans-midterms-women-combat-roles",
         "pubDate": "Wed, 07 Jan 2026 07:37:33 -0500",
-        "category": "world"
+        "category": "us"
       },
       {
         "title": "A walking challenge to start 2026 on your feet \u2014 and off your screens",
@@ -33,12 +38,6 @@
         "link": "https://www.npr.org/2026/01/07/nx-s1-5667062/ants-altruism-social-insects-epidemics-pandemics",
         "pubDate": "Wed, 07 Jan 2026 06:00:00 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "DHS wants Venezuelans to return home, but fears remain as long as Maduro regime is in power",
-        "link": "https://www.npr.org/2026/01/07/nx-s1-5668411/dhs-venezuelans-can-return-home",
-        "pubDate": "Wed, 07 Jan 2026 05:00:00 -0500",
-        "category": "us"
       },
       {
         "title": "The world has too much oil right now. Will companies want Venezuela&apos;s?",
@@ -63,25 +62,31 @@
         "link": "https://www.npr.org/2026/01/07/nx-s1-5667595/serendipity-origin-history-word-of-the-week",
         "pubDate": "Wed, 07 Jan 2026 05:00:00 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "CIA turncoat Aldrich Ames, who sold U.S. secrets to the Soviets, dies in prison at 84",
-        "link": "https://www.npr.org/2026/01/07/g-s1-104875/cia-turncoat-aldrich-ames-dies-at-84",
-        "pubDate": "Wed, 07 Jan 2026 03:54:20 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "MPs would vote on using troops in Ukraine, Starmer says",
-        "link": "https://www.bbc.com/news/articles/ckgln3lgl3jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 07 Jan 2026 14:29:40 GMT",
+        "title": "US discussing options to acquire Greenland including using military, White House says",
+        "link": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 07 Jan 2026 16:15:46 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Inmates accused of absconding open prison caught",
+        "link": "https://www.bbc.com/news/articles/ce9yg59y5r0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 07 Jan 2026 15:50:36 GMT",
         "category": "Top News"
       },
       {
         "title": "Man jailed for selling chemicals online to help people kill themselves",
         "link": "https://www.bbc.com/news/articles/c87rdl1zrwwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 07 Jan 2026 14:08:50 GMT",
+        "pubDate": "Wed, 07 Jan 2026 14:39:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Beach hut owners hit back at council over 'second home' tax plan",
+        "link": "https://www.bbc.com/news/articles/cvgje1pkr2po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 07 Jan 2026 13:55:00 GMT",
         "category": "Top News"
       },
       {
@@ -91,13 +96,13 @@
         "category": "us"
       },
       {
-        "title": "Fear and uncertainty: Venezuelans face up to future without Maduro",
+        "title": "'Fear in the streets': Venezuelans uncertain about what might happen next",
         "link": "https://www.bbc.com/news/articles/c62077l3m7eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 07 Jan 2026 13:26:35 GMT",
         "category": "Top News"
       },
       {
-        "title": "Jesy Nelson will 'shout from the rooftops' about baby muscle disease campaign",
+        "title": "I would have been selfish not to share twins' muscle disease diagnosis, Jesy Nelson says",
         "link": "https://www.bbc.com/news/articles/cp80k92kkedo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 07 Jan 2026 13:10:24 GMT",
         "category": "Top News"
@@ -115,18 +120,6 @@
         "category": "business"
       },
       {
-        "title": "Learner drivers face minimum wait for tests and a lower drink-drive limit",
-        "link": "https://www.bbc.com/news/articles/clym5jvgdepo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 07 Jan 2026 10:35:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US discussing options to acquire Greenland including using military, White House says",
-        "link": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 07 Jan 2026 09:36:04 GMT",
-        "category": "world"
-      },
-      {
         "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
         "link": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 06 Jan 2026 17:01:46 GMT",
@@ -135,78 +128,24 @@
     ],
     "reuters": [
       {
-        "title": "Exclusive: US seizing Venezuela-linked, Russian-flagged oil tanker after weeks-long pursuit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e6e3b4f3542cfaad5178bc6f7dd6e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-seizing-venezuela-linked-oil-tanker-after-weeks-long-pursuit-2026-01-07%2f&amp;c=1794489037322895051&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 04:22:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Power restored in Berlin after longest blackout since World War Two",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e6e3ac42e41d58cf5f556a743d09f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fberlin-restore-power-after-arson-attack-causes-record-outage-2026-01-07%2f&amp;c=17933418172358210632&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 04:20:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "NRG Energy appoints Robert Gaudette as CEO from April end",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e6e3c660d4e52982e2cd62a8585ba&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fnrg-energy-appoints-robert-gaudette-ceo-april-end-2026-01-07%2f&amp;c=18055764396619498659&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 03:52:00 GMT",
+        "title": "US factory orders fall in October",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695e8c48a10d454cb155ff308730d47b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-factory-orders-fall-october-2026-01-07%2f&amp;c=13443708505866736159&amp;mkt=en-us",
+        "pubDate": "Wed, 07 Jan 2026 06:48:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "Why Trump wants Greenland \u2014 and what makes it so important for national security",
-        "link": "https://www.cnbc.com/2026/01/07/why-trump-wants-greenland-and-what-makes-it-so-important-for-security.html",
-        "pubDate": "Wed, 07 Jan 2026 14:31:46 GMT",
+        "title": "Venezuela will ship sanctioned oil to U.S. indefinitely, sources say",
+        "link": "https://www.cnbc.com/2026/01/07/oil-sales-from-venezuela-to-continue-indefinitely-sanctions-will-be-reduced-source-says.html",
+        "pubDate": "Wed, 07 Jan 2026 16:27:16 GMT",
         "category": "world"
       },
       {
-        "title": "JPMorgan&apos;s asset management will no longer use controversial proxy advisors for shareholder votes",
-        "link": "https://www.cnbc.com/2026/01/07/jpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
-        "pubDate": "Wed, 07 Jan 2026 14:19:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ryan Cohen could be in for a big payday, but he has to grow meme darling GameStop to $100 billion",
-        "link": "https://www.cnbc.com/2026/01/07/ryan-cohen-could-be-in-for-a-big-payday-but-he-has-to-grow-meme-darling-gamestop-to-100-billion.html",
-        "pubDate": "Wed, 07 Jan 2026 14:12:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Alaska Airlines buys more than 100 Boeing jets in carrier&apos;s biggest order ever",
-        "link": "https://www.cnbc.com/2026/01/07/alaska-airlines-boeing-order-737-10-dreamliners.html",
-        "pubDate": "Wed, 07 Jan 2026 14:00:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Air taxi maker Joby buys new Ohio factory, more than doubles manufacturing footprint as it vies for FAA approval",
-        "link": "https://www.cnbc.com/2026/01/07/joby-faa-air-taxi-evtol.html",
-        "pubDate": "Wed, 07 Jan 2026 13:33:38 GMT",
+        "title": "Tesla CEO Musk brushes off Nvidia self-driving competition as 5 or 6 years away",
+        "link": "https://www.cnbc.com/2026/01/07/tesla-musk-nvidia-self-driving-competition-huang.html",
+        "pubDate": "Wed, 07 Jan 2026 15:06:20 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Oppenheimer sees a \u2018golden opportunity\u2019 in McDonald\u2019s, upgrades fast-food giant",
-        "link": "https://www.cnbc.com/2026/01/07/oppenheimer-sees-a-golden-opportunity-in-mcdonalds-upgrades-fast-food-giant.html",
-        "pubDate": "Wed, 07 Jan 2026 12:49:47 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Mobileye, GameStop, Chevron &amp; more",
-        "link": "https://www.cnbc.com/2026/01/07/stocks-making-the-biggest-moves-premarket-mbly-gme-cvx.html",
-        "pubDate": "Wed, 07 Jan 2026 12:22:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Venezuela could be sitting on a big Bitcoin stash, experts say. Here&apos;s what could happen next",
-        "link": "https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html",
-        "pubDate": "Tue, 06 Jan 2026 22:18:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Venezuela bonds are the hottest trade on Wall Street this week. But there are big risks from here",
-        "link": "https://www.cnbc.com/2026/01/06/venezuela-bonds-are-the-hottest-trade-on-wall-street-this-week-but-risks-remain.html",
-        "pubDate": "Tue, 06 Jan 2026 19:29:25 GMT",
-        "category": "Top News"
       }
     ]
   }
