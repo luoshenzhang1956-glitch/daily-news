@@ -1,18 +1,24 @@
 {
-  "updated_at": "2026-01-08T02:09:16.516519",
+  "updated_at": "2026-01-08T04:44:29.794336",
   "news": {
     "ap": [
       {
-        "title": "US Olympian Charlie Volker announces medical retirement from bobsled because of concussion",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f114d1b2e4639b47afc275cf261bc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcharlie-volker-usa-bobsled-concussion-3c8e01b529cf5490a6dcc6f9247a0b8f&amp;c=8600869135925209359&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 15:11:00 GMT",
+        "title": "Amber Glenn sets record at U.S. Figure Skating Championships, leads over world champ Alysa Liu",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f35fbe32d47718a35e86de7494b7a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-figure-skating-championships-7515f4c51b42c50fc6081bc8b7d97396&amp;c=13888351059442721445&amp;mkt=en-us",
+        "pubDate": "Wed, 07 Jan 2026 20:22:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US will exit 66 international organizations as it further retreats from global cooperation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f35fcfa714490adfdf3093c56dee9&amp;url=https%3a%2f%2fapnews.com%2farticle%2funited-nations-trump-international-organizations-withdrawal-d704fb9b444dc9cf569865d391b544a6&amp;c=5027404189000710359&amp;mkt=en-us",
+        "pubDate": "Wed, 07 Jan 2026 17:07:00 GMT",
         "category": "us"
       },
       {
-        "title": "Why the US has designs on Venezuela\u2019s oil",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f114daf9845c2a2e733ffaef9d7d2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvenezuela-oil-reserves-trump-exxon-8a6462e76315c7d1a6e6a5a879f98c16&amp;c=7839160671196434855&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 12:19:00 GMT",
-        "category": "business"
+        "title": "Rescuers use drone technology to find dog that escaped along New Jersey Turnpike",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f360faddf488b84d74dc87277919b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fshelter-dog-escape-drone-new-jersey-turnpike-40d062442d718a2c3f9006784d6fb64c&amp;c=17225065109090719693&amp;mkt=en-us",
+        "pubDate": "Wed, 07 Jan 2026 13:57:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
@@ -79,6 +85,18 @@
     ],
     "bbc": [
       {
+        "title": "US immigration agent fatally shoots woman in Minneapolis",
+        "link": "https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 08 Jan 2026 04:30:59 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Two rapists among Met officers not properly vetted",
+        "link": "https://www.bbc.com/news/articles/cn9z3qrvr3wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 08 Jan 2026 02:07:48 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Storm Goretti heads to UK bringing more snow, ice and wind",
         "link": "https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 08 Jan 2026 01:48:59 GMT",
@@ -89,12 +107,6 @@
         "link": "https://www.bbc.com/news/articles/c050ljnrv2qo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 08 Jan 2026 01:21:56 GMT",
         "category": "health"
-      },
-      {
-        "title": "Russian attacks leave two regions with widespread blackouts, Ukraine says",
-        "link": "https://www.bbc.com/news/articles/cgk8jv4r8nmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Jan 2026 01:13:14 GMT",
-        "category": "Top News"
       },
       {
         "title": "Inside the sub-zero lair of the world's most powerful computer",
@@ -121,12 +133,6 @@
         "category": "Top News"
       },
       {
-        "title": "US seizes two 'shadow fleet' tankers linked to Venezuelan oil",
-        "link": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 07 Jan 2026 22:28:24 GMT",
-        "category": "world"
-      },
-      {
         "title": "Tracking the oil tankers seized by the US",
         "link": "https://www.bbc.com/news/videos/cx2gm7109rwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 07 Jan 2026 21:53:24 GMT",
@@ -141,36 +147,42 @@
     ],
     "reuters": [
       {
-        "title": "US immigration agent fatally shoots woman in Minneapolis, mayor disputes government claim of self-defense",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f116d2f88414588701bb2df813a86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-federal-agent-involved-minneapolis-shooting-during-immigration-surge-city-2026-01-07%2f&amp;c=977735182360648118&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 16:42:00 GMT",
-        "category": "us"
-      },
-      {
         "title": "Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f117cadd44c72a151f5943191d946&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2farm-launches-physical-ai-division-expand-robotics-market-2026-01-07%2f&amp;c=5894984144077448818&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f361c5e2f431891ae732ccd2b522d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2farm-launches-physical-ai-division-expand-robotics-market-2026-01-07%2f&amp;c=5894984144077448818&amp;mkt=en-us",
         "pubDate": "Wed, 07 Jan 2026 14:36:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Trump-linked World Liberty Financial seeks license to launch trust bank",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f116b33ff45d3bfc093c3088d6ba7&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2ftrump-linked-world-liberty-financial-seeks-license-launch-trust-bank-2026-01-07%2f&amp;c=7878528576222661750&amp;mkt=en-us",
-        "pubDate": "Wed, 07 Jan 2026 14:10:00 GMT",
-        "category": "world"
-      },
-      {
         "title": "African states, business groups eyeing stake in De Beers, CEO says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f117908f2491c90e818fcc0087f54&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fafrican-states-business-groups-eyeing-stake-de-beers-ceo-says-2026-01-07%2f&amp;c=6872153321347330628&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=695f36184dbb426d89e41f3c340f4175&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fafrican-states-business-groups-eyeing-stake-de-beers-ceo-says-2026-01-07%2f&amp;c=6872153321347330628&amp;mkt=en-us",
         "pubDate": "Wed, 07 Jan 2026 10:31:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
       {
+        "title": "China\u2019s first &apos;AI tiger&apos; goes public as Zhipu climbs in Hong Kong debut",
+        "link": "https://www.cnbc.com/2026/01/08/china-ai-tiger-goes-ipo-zhipu-hong-kong-debut-openai-knowledge-atlas-hsi-hang-seng-listing.html",
+        "pubDate": "Thu, 08 Jan 2026 04:30:57 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Ford enters race to offer eyes-off driving tech, starting with $30,000 EV in 2028",
+        "link": "https://www.cnbc.com/2026/01/07/ford-eyes-off-driving-ev-2028.html",
+        "pubDate": "Thu, 08 Jan 2026 01:56:11 GMT",
+        "category": "business"
+      },
+      {
         "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
         "link": "https://www.cnbc.com/2026/01/07/jpmorgan-apple-credit-card.html",
         "pubDate": "Wed, 07 Jan 2026 23:53:48 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "OpenAI launches ChatGPT Health to connect user medical records, wellness apps",
+        "link": "https://www.cnbc.com/2026/01/07/openai-chatgpt-health-medical-records.html",
+        "pubDate": "Wed, 07 Jan 2026 23:46:37 GMT",
+        "category": "health"
       },
       {
         "title": "Stocks making the biggest moves premarket: Mobileye, GameStop, Chevron &amp; more",
@@ -183,12 +195,6 @@
         "link": "https://www.cnbc.com/2026/01/07/jpmorgan-wont-use-controversial-proxy-advisors-for-shareholder-votes.html",
         "pubDate": "Wed, 07 Jan 2026 15:43:57 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Why Trump wants Greenland \u2014 and what makes it so important for national security",
-        "link": "https://www.cnbc.com/2026/01/07/why-trump-wants-greenland-and-what-makes-it-so-important-for-security.html",
-        "pubDate": "Wed, 07 Jan 2026 15:02:44 GMT",
-        "category": "world"
       },
       {
         "title": "Ryan Cohen could be in for a big payday, but he has to grow meme darling GameStop to $100 billion",
