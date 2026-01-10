@@ -1,27 +1,14 @@
 {
-  "updated_at": "2026-01-10T12:52:29.995256",
+  "updated_at": "2026-01-10T14:26:29.925994",
   "news": {
-    "ap": [
-      {
-        "title": "Greenland\u2019s party leaders firmly reject Trump\u2019s push for US control of the island",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b61bc9d46078f0132042cec2f71&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgreenland-us-trump-denmark-61eeb97b7199548e3aa13ef9f5c9d545&amp;c=18303176310476273394&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 02:27:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Trae Young has a fresh start in Washington. His first order of business is getting healthy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b696cbe486bb92b45a0ef127765&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwashington-wizards-trae-young-044d4f15648d321e7997e2f683ec6afa&amp;c=16254117169818571238&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 19:14:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Supreme Court will take up Cisco\u2019s bid to shut down lawsuit by Falun Gong",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b6ad35c4164a5a28a88b63d00d3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-cisco-falun-gong-surveillance-c336e8ab44d9e1e59c748450a6ddf078&amp;c=7163388374658311930&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 14:39:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Opinion: Remembering Renee Good",
+        "link": "https://www.npr.org/2026/01/10/nx-s1-5666227/opinion-remembering-renee-good",
+        "pubDate": "Sat, 10 Jan 2026 08:00:00 -0500",
+        "category": "Top News"
+      },
       {
         "title": "The latest updates on the Minneapolis ICE shooting",
         "link": "https://www.npr.org/2026/01/10/nx-s1-5672671/the-latest-updates-on-the-minneapolis-ice-shooting",
@@ -75,19 +62,19 @@
         "link": "https://www.npr.org/2026/01/09/g-s1-104620/trump-petroleo-venezuela-maduro",
         "pubDate": "Fri, 09 Jan 2026 21:19:53 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "RFK Jr. cast doubt on a key vaccine. This country can&apos;t wait to get it",
-        "link": "https://www.npr.org/sections/goats-and-soda/2026/01/09/g-s1-105242/rfk-jr-hepatitis-b-vaccine-ghana",
-        "pubDate": "Fri, 09 Jan 2026 15:59:08 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Starmer has kept Trump on side - but is it coming back to bite him?",
+        "link": "https://www.bbc.com/news/articles/c205g8z36zeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 10 Jan 2026 14:00:28 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Iran medics describe overwhelmed hospitals as protests continue",
         "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 10 Jan 2026 12:18:45 GMT",
+        "pubDate": "Sat, 10 Jan 2026 13:12:36 GMT",
         "category": "world"
       },
       {
@@ -112,12 +99,6 @@
         "title": "How a friend request led a beauty queen to uncover Scotland's most prolific catfish",
         "link": "https://www.bbc.com/news/articles/ckgkr15el67o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 10 Jan 2026 09:20:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Greenlanders fear for future as island embroiled in geopolitical storm",
-        "link": "https://www.bbc.com/news/articles/cgrd2e7p9reo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 10 Jan 2026 06:01:50 GMT",
         "category": "Top News"
       },
       {
@@ -147,107 +128,35 @@
     ],
     "reuters": [
       {
-        "title": "Focus: Rio Tinto's bid for Glencore piles pressure on BHP",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b6d80c5436d88fd7181df0a9e6d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2frio-tintos-bid-glencore-piles-pressure-bhp-2026-01-10%2f&amp;c=12310700728844253444&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 03:28:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Vonn takes Zauchensee downhill for 84th World Cup win",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b6ef629427a94d4ecf3c84ea70f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fvonn-takes-zauchensee-downhill-84th-world-cup-win-2026-01-10%2f&amp;c=12347662348952491018&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 03:21:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6962615783844fbf9800f0e8fe242a86&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fvonn-takes-zauchensee-downhill-84th-world-cup-win-2026-01-10%2f&amp;c=12347662348952491018&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Jan 2026 03:50:00 GMT",
         "category": "world"
       },
       {
         "title": "Israel's Netanyahu hopes to 'taper' Israel off US military aid in next decade",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b81f53942d7b3ea8e9026a1078f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraels-netanyahu-hopes-taper-israel-off-us-military-aid-next-decade-2026-01-10%2f&amp;c=10658730418618457233&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696261644b9840498c529a4e3f8ae934&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraels-netanyahu-hopes-taper-israel-off-us-military-aid-next-decade-2026-01-10%2f&amp;c=10658730418618457233&amp;mkt=en-us",
         "pubDate": "Sat, 10 Jan 2026 02:20:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Trump\u2019s showy immigration enforcement leads to violent confrontations",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b6d80c5436d88fd7181df0a9e6d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-showy-immigration-enforcement-leads-violent-confrontations-2026-01-10%2f&amp;c=17502514560254725726&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 02:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Greenland's parliament will bring forward meeting to discuss US threats, party leaders say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b6d80c5436d88fd7181df0a9e6d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fgreenlands-parliament-will-bring-forward-meeting-discuss-us-threats-party-2026-01-10%2f&amp;c=7775474260258048631&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 01:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fatal ICE shooting of Minneapolis activist sets stage for national protests",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b6d80c5436d88fd7181df0a9e6d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffatal-ice-shooting-minneapolis-activist-sets-stage-national-protests-2026-01-10%2f&amp;c=2361112617029894522&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 23:53:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Canada announces experience-heavy women's Olympic hockey team",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b6d80c5436d88fd7181df0a9e6d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcanada-announces-experience-heavy-womens-olympic-hockey-team--flm-2026-01-10%2f&amp;c=9379101249176842572&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 23:53:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Denmark's Greenland dilemma: Defending a territory already on its way out",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b6d80c5436d88fd7181df0a9e6d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fdenmarks-greenland-dilemma-defending-territory-already-its-way-out-2026-01-10%2f&amp;c=11969103437403134441&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 21:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "NASA, SpaceX set target date for Crew-11\u2019s return to earth",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b7f402c4ce4879203ae477f562d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fnasa-spacex-set-target-date-crew-11s-return-earth-2026-01-10%2f&amp;c=6721151637945979387&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 17:09:00 GMT",
-        "category": "business"
-      },
-      {
         "title": "Trump urges US oil giants to repair Venezuela's 'rotting' energy industry",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69624b6d80c5436d88fd7181df0a9e6d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-oil-firms-juggle-venezuela-opportunity-investor-concern-ahead-white-house-2026-01-09%2f&amp;c=15658047782918885670&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696261575a464330a548ae4de5163b89&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-oil-firms-juggle-venezuela-opportunity-investor-concern-ahead-white-house-2026-01-09%2f&amp;c=15658047782918885670&amp;mkt=en-us",
         "pubDate": "Fri, 09 Jan 2026 15:22:00 GMT",
-        "category": "Top News"
+        "category": "us"
       }
     ],
     "markets": [
       {
-        "title": "Abel&apos;s $25 million Berkshire paycheck is in the same league as other S&amp;P 500 CEOs",
-        "link": "https://www.cnbc.com/2026/01/10/abels-25-million-berkshire-paycheck-is-in-the-same-league-as-other-sp-500-ceos.html",
-        "pubDate": "Sat, 10 Jan 2026 12:50:43 GMT",
+        "title": "Goldman Sachs says these stocks are too attractive to ignore in 2026",
+        "link": "https://www.cnbc.com/2026/01/10/goldman-sachs-says-these-stocks-are-too-attractive-to-ignore-in-2026.html",
+        "pubDate": "Sat, 10 Jan 2026 12:52:51 GMT",
         "category": "us"
-      },
-      {
-        "title": "AI memory is sold out, causing an unprecedented surge in prices",
-        "link": "https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html",
-        "pubDate": "Sat, 10 Jan 2026 12:00:01 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Amazon plans first big-box retail store in Chicago suburb",
-        "link": "https://www.cnbc.com/2026/01/09/amazon-plans-first-big-box-retail-store-in-chicago-suburb.html",
-        "pubDate": "Fri, 09 Jan 2026 23:06:18 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Healthy Returns: What to expect from pharma at the JPM conference",
-        "link": "https://www.cnbc.com/2026/01/09/healthy-returns-what-to-expect-from-pharma-at-the-jpm-conference.html",
-        "pubDate": "Fri, 09 Jan 2026 21:56:19 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Stellantis scraps Jeep, Chrysler plug-in hybrid vehicles amid EV slowdown, recall",
-        "link": "https://www.cnbc.com/2026/01/09/stellantis-scraps-jeep-chrysler-phevs-amid-ev-slowdown-recall.html",
-        "pubDate": "Fri, 09 Jan 2026 18:24:27 GMT",
-        "category": "business"
       },
       {
         "title": "Trump will use other tariff authorities to get to &apos;same place&apos; if Supreme Court rules against him: Hassett",
         "link": "https://www.cnbc.com/2026/01/09/trump-will-use-other-tariff-authorities-to-get-to-same-place-if-supreme-court-rules-against-him-hassett.html",
         "pubDate": "Fri, 09 Jan 2026 16:14:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Vistra, Oklo, Intel, General Motors &amp; more",
-        "link": "https://www.cnbc.com/2026/01/09/stocks-making-the-biggest-moves-premarket-vst-oklo-intc-gm.html",
-        "pubDate": "Fri, 09 Jan 2026 12:53:11 GMT",
         "category": "Top News"
       }
     ]
