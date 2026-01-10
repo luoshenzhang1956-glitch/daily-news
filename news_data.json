@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-01-10T06:40:23.489931",
+  "updated_at": "2026-01-10T08:33:50.061383",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Rare copy of the comic book that introduced the world to Superman sells for $15 million",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620ee680e7485bb790df0a3fb7e820&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsuperman-comic-book-action-comics-nicolas-cage-40f534f1984e3ad6939474fdd40b7876&amp;c=9883858632400419917&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 23:41:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "How the US could take over Greenland and the potential challenges",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620ee790e44c18912ad713e58c5926&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgreenland-us-options-takeover-trump-denmark-86790903847fc8ffc27334ccb64985a9&amp;c=3246237243742462546&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 21:38:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Trae Young has a fresh start in Washington. His first order of business is getting healthy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620ee8c4344a8fa1f1a6c4b3e4938e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwashington-wizards-trae-young-044d4f15648d321e7997e2f683ec6afa&amp;c=16254117169818571238&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 17:21:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Supreme Court will take up Cisco\u2019s bid to shut down lawsuit by Falun Gong",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620ee968f1436faae657f3ec320800&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-cisco-falun-gong-surveillance-c336e8ab44d9e1e59c748450a6ddf078&amp;c=7163388374658311930&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 14:39:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "South Carolina measles outbreak grows by nearly 100, spreads to North Carolina and Ohio",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620ee90280446199c7579f494645bd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeasles-quarantine-mmr-vaccine-south-carolina-1056c1fb1ce707e4b51729ecaeb5850e&amp;c=7524388772396577855&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 12:06:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
         "title": "New video shows fatal Minnesota ICE shooting from officer&apos;s perspective",
@@ -66,9 +97,9 @@
     ],
     "bbc": [
       {
-        "title": "Swiss search souls and question government after ski resort fire",
-        "link": "https://www.bbc.com/news/articles/cpwnd22lj54o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 10 Jan 2026 06:19:34 GMT",
+        "title": "Greenlanders unnerved as they find themselves in geopolitical storm",
+        "link": "https://www.bbc.com/news/articles/cgrd2e7p9reo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 10 Jan 2026 06:01:50 GMT",
         "category": "Top News"
       },
       {
@@ -102,12 +133,6 @@
         "category": "Top News"
       },
       {
-        "title": "'Unprecedented' numbers seeking debt help post-Christmas, say charities",
-        "link": "https://www.bbc.com/news/articles/c0er4n1zelro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 10 Jan 2026 00:08:52 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Trump seeks $100bn for Venezuela oil, but Exxon boss says country 'uninvestable'",
         "link": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 09 Jan 2026 23:55:07 GMT",
@@ -120,6 +145,12 @@
         "category": "tech"
       },
       {
+        "title": "Why are there huge protests going on in Iran?",
+        "link": "https://www.bbc.com/news/videos/cje1v852evlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Jan 2026 16:47:37 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Doctors strike called off as union backs latest pay deal",
         "link": "https://www.bbc.com/news/articles/cx2wgvxjkjpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 09 Jan 2026 16:06:49 GMT",
@@ -128,103 +159,66 @@
     ],
     "reuters": [
       {
-        "title": "Washington National Opera latest to leave Kennedy Center after Trump takeover",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6961f40cce5043b5ba979defcba82f76&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fwashington-national-opera-latest-leave-kennedy-center-after-trump-takeover-2026-01-10%2f&amp;c=16466774338908455812&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 19:16:00 GMT",
+        "title": "Bencic leads Switzerland past Belgium into United Cup final",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620eeb5abd4e299f1753dd9084989d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ftennis%2fbencic-leads-switzerland-past-belgium-into-united-cup-final-2026-01-10%2f&amp;c=6360061601883814383&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 23:19:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "New video emerges of Minnesota shooting, further inflaming tensions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6961f40cce5043b5ba979defcba82f76&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fminneapolis-mayor-demands-transparent-investigation-into-ice-shooting-protests-2026-01-09%2f&amp;c=11510031072249048353&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 15:31:00 GMT",
+        "title": "Israel's Netanyahu hopes to 'taper' Israel off US military aid in next decade",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620eeb5abd4e299f1753dd9084989d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraels-netanyahu-hopes-taper-israel-off-us-military-aid-next-decade-2026-01-10%2f&amp;c=10658730418618457233&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 22:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Syrian army says has cleared last Kurdish-held area in Aleppo, Kurdish forces deny takeover",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620eeb5abd4e299f1753dd9084989d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsyrian-army-says-it-finished-combing-through-aleppo-neighbourhood-signalling-2026-01-10%2f&amp;c=14579274236606978240&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 22:38:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Death toll in Philippines landfill collapse rises to 4",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620eeb5abd4e299f1753dd9084989d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdeath-toll-philippines-landfill-collapse-rises-4-2026-01-10%2f&amp;c=13642054589914277107&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 22:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fatal ICE shooting of Minneapolis activist sets stage for national protests",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620eeb5abd4e299f1753dd9084989d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffatal-ice-shooting-minneapolis-activist-sets-stage-national-protests-2026-01-10%2f&amp;c=2361112617029894522&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 22:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "India's 2025 rice exports surge to near record as curbs lifted",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620eeb5abd4e299f1753dd9084989d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findias-2025-rice-exports-surge-near-record-curbs-lifted-2026-01-10%2f&amp;c=16292165411214469104&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 21:34:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump calls for one-year cap on credit card interest rates at 10%",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620eeb5abd4e299f1753dd9084989d&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2ftrump-calls-one-year-cap-credit-card-interest-rates-10-2026-01-10%2f&amp;c=13951303497175640736&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 18:30:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Trump urges US oil giants to repair Venezuela's 'rotting' energy industry",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6961f40cce5043b5ba979defcba82f76&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-oil-firms-juggle-venezuela-opportunity-investor-concern-ahead-white-house-2026-01-09%2f&amp;c=15658047782918885670&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620eedc1364762b92c34a15a7530ba&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-oil-firms-juggle-venezuela-opportunity-investor-concern-ahead-white-house-2026-01-09%2f&amp;c=15658047782918885670&amp;mkt=en-us",
         "pubDate": "Fri, 09 Jan 2026 15:22:00 GMT",
-        "category": "Top News"
+        "category": "us"
       },
       {
-        "title": "Exxon studies Venezuela return as Chevron plots immediate production bump",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6961f40cce5043b5ba979defcba82f76&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fexxon-ceo-says-prepared-evaluate-reentering-venezuela-2026-01-09%2f&amp;c=3000200659641646274&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 14:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New Trump warning as Iran cuts internet with protests across country",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6961f41f502d4faa8c7218804ff1d4d6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-cut-off-world-supreme-leader-warns-protesters-2026-01-09%2f&amp;c=5303174485690316581&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 13:58:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Trump pushes 'drill baby drill' agenda to Venezuela, hurts producers at home",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6961f40cce5043b5ba979defcba82f76&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftrump-pushes-drill-baby-drill-agenda-venezuela-hurts-producers-home-2026-01-09%2f&amp;c=7800971249086586496&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 13:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Econ World",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6961f40d7efd4bcc9e2f50745d8ceb93&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fecon-world%2f&amp;c=5759934779379928125&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 12:13:00 GMT",
+        "title": "Rio Tinto in talks to buy Glencore to form world's biggest miner",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620eec08e44d7f916e8042eaecbe9e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fglencore-rio-tinto-resume-talks-mining-mega-deal-ft-reports-2026-01-08%2f&amp;c=7223593359997666708&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 10:59:00 GMT",
         "category": "world"
       },
       {
-        "title": "Business Lookahead: Hold on to your hats, it's getting busy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6961f41f24994d8aa8f37923944a5cb2&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW557009012026RP1%2f&amp;c=18381484360491200707&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 11:46:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "US judge sets jury selection in Luigi Mangione CEO killing trial for September",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6961f42086bb49449ea901db229aa121&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fmangione-suspect-health-insurance-ceo-murder-fights-death-penalty-charge-court-2026-01-09%2f&amp;c=14728648555261384731&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 10:31:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Trump's Venezuela focus frustrates top aides worried about midterm elections",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6961f40cce5043b5ba979defcba82f76&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-venezuela-focus-frustrates-top-aides-worried-about-midterm-elections-2026-01-09%2f&amp;c=16714361676535881226&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Jan 2026 10:22:00 GMT",
+        "title": "Who was Renee Good, the woman killed by a US immigration agent in Minneapolis?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69620eeb5abd4e299f1753dd9084989d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fwho-was-renee-nicole-good-woman-killed-by-us-immigration-agent-minneapolis-2026-01-08%2f&amp;c=8771841478515697785&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Jan 2026 09:31:00 GMT",
         "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "Trump says oil companies will spend $100 billion in Venezuela with U.S. protection",
-        "link": "https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html",
-        "pubDate": "Fri, 09 Jan 2026 23:19:02 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Stellantis scraps Jeep, Chrysler plug-in hybrid vehicles amid EV slowdown, recall",
-        "link": "https://www.cnbc.com/2026/01/09/stellantis-scraps-jeep-chrysler-phevs-amid-ev-slowdown-recall.html",
-        "pubDate": "Fri, 09 Jan 2026 18:24:27 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Trump will use other tariff authorities to get to &apos;same place&apos; if Supreme Court rules against him: Hassett",
-        "link": "https://www.cnbc.com/2026/01/09/trump-will-use-other-tariff-authorities-to-get-to-same-place-if-supreme-court-rules-against-him-hassett.html",
-        "pubDate": "Fri, 09 Jan 2026 16:14:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Vistra, Oklo, Intel, General Motors &amp; more",
-        "link": "https://www.cnbc.com/2026/01/09/stocks-making-the-biggest-moves-premarket-vst-oklo-intc-gm.html",
-        "pubDate": "Fri, 09 Jan 2026 12:53:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "BlackRock predicts major shift in retail investors&apos; access to cryptocurrencies",
-        "link": "https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html",
-        "pubDate": "Fri, 09 Jan 2026 12:00:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hopes rise for Chinese property support ahead of key March meeting",
-        "link": "https://www.cnbc.com/2026/01/09/china-property-slump-policy-shift-qiushi-2026-ahead-march-meeting.html",
-        "pubDate": "Fri, 09 Jan 2026 06:44:40 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
