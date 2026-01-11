@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-01-11T06:41:37.700718",
+  "updated_at": "2026-01-11T08:34:37.803925",
   "news": {
     "ap": [
       {
-        "title": "Chock and Bates win record-setting seventh US Figure Skating title, set sights on Olympic gold",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345c04acb4896909c0e92728d7126&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-figure-skating-championships-d247023a05f1b6f2a1f67dd1d6ddca75&amp;c=3168524575586147218&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 19:03:00 GMT",
-        "category": "us"
-      },
-      {
         "title": "Maine secures 74-70 win against NJIT",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345c22525435d8aad79538e1d1588&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsebastian-robinson-maine-college-sports-mens-college-basketball-college-basketball-045cf00d7bd546dab7b6d801c7bbc6a7&amp;c=16203430970074656248&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69636095d3ee471d8270eb37627a43e9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsebastian-robinson-maine-college-sports-mens-college-basketball-college-basketball-045cf00d7bd546dab7b6d801c7bbc6a7&amp;c=16203430970074656248&amp;mkt=en-us",
         "pubDate": "Sat, 10 Jan 2026 14:22:00 GMT",
         "category": "tech"
       },
       {
         "title": "As protests rage, Iran pulls the plug on contact with the world",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345c2dedf492cb7a39d9777b2bd8e&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139&amp;c=10185149992857595877&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69636090dcd04f8c86ac17da58d1f6fe&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-protests-economy-starlink-internet-disconnect-8d944601e7bfeae6753ec0645f5a7139&amp;c=10185149992857595877&amp;mkt=en-us",
         "pubDate": "Sat, 10 Jan 2026 10:12:00 GMT",
         "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "Iran warns US troops and Israel will be targets if America strikes over protests as death toll rises",
+        "link": "https://www.npr.org/2026/01/11/nx-s1-5673845/iran-us-israel-targets-protests",
+        "pubDate": "Sun, 11 Jan 2026 02:46:38 -0500",
+        "category": "world"
+      },
       {
         "title": "Nationwide anti-ICE protests call for accountability after Renee Good&apos;s death",
         "link": "https://www.npr.org/2026/01/10/nx-s1-5673229/ice-protests-minneapolis-portland",
@@ -38,7 +38,7 @@
         "title": "Who is Reza Pahlavi, the exiled crown prince encouraging demonstrations across Iran?",
         "link": "https://www.npr.org/2026/01/10/nx-s1-5673238/reza-pahlavi-iran-protests",
         "pubDate": "Sat, 10 Jan 2026 17:10:49 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "US launches new retaliatory strikes against ISIS in Syria after deadly ambush",
@@ -56,12 +56,6 @@
         "title": "Washington National Opera leaves Kennedy Center, joining slew of artist exits",
         "link": "https://www.npr.org/2026/01/10/nx-s1-5671107/kennedy-center-canceled-trump-washington-national-opera-wno",
         "pubDate": "Sat, 10 Jan 2026 12:58:33 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Ukrainian drones set fire to Russian oil depot after Moscow launches new hypersonic missile",
-        "link": "https://www.npr.org/2026/01/10/nx-s1-5673211/oil-depot-strike-russia-ukraine",
-        "pubDate": "Sat, 10 Jan 2026 11:30:15 -0500",
         "category": "Top News"
       },
       {
@@ -85,22 +79,34 @@
     ],
     "bbc": [
       {
+        "title": "Thousands march and dozens arrested in Minneapolis protests against ICE",
+        "link": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Jan 2026 07:52:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran protesters defy crackdown as videos show violent clashes",
+        "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Jan 2026 07:46:15 GMT",
+        "category": "world"
+      },
+      {
+        "title": "The rugby mum looking to get others to play",
+        "link": "https://www.bbc.com/news/articles/cre27ey040qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Jan 2026 07:13:31 GMT",
+        "category": "health"
+      },
+      {
         "title": "Tories would ban under-16s from social media",
         "link": "https://www.bbc.com/news/articles/cx2wyeqw3gpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 11 Jan 2026 06:21:19 GMT",
         "category": "Top News"
       },
       {
-        "title": "Iran protesters defy crackdown as videos show violent clashes",
-        "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 11 Jan 2026 05:44:56 GMT",
-        "category": "world"
-      },
-      {
         "title": "The FTSE 100 has hit a record high. Is now the time to start investing?",
         "link": "https://www.bbc.com/news/articles/cy0958w1y1go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 11 Jan 2026 02:21:11 GMT",
-        "category": "Top News"
+        "category": "business"
       },
       {
         "title": "My three-hour university commute is worth the \u00a37,000 saving on halls",
@@ -124,102 +130,77 @@
         "title": "Google employee made redundant after reporting sexual harassment, court hears",
         "link": "https://www.bbc.com/news/articles/c62v51d1ry2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 11 Jan 2026 00:38:32 GMT",
-        "category": "Top News"
+        "category": "tech"
       },
       {
-        "title": "Love Island villa evacuated and filming postponed over wildfires",
-        "link": "https://www.bbc.com/news/articles/cy09yp2wl5wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 10 Jan 2026 21:04:47 GMT",
+        "title": "Five hundred people in Canada were diagnosed with a \u2018mystery brain disease\u2019. What if it wasn't real?",
+        "link": "https://www.bbc.com/news/articles/c623r47d67lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Jan 2026 00:23:09 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Is Macclesfield beating Crystal Palace greatest FA Cup upset?",
-        "link": "https://www.bbc.com/sport/football/articles/c20dxzezx0qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 10 Jan 2026 17:41:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Musk says X outcry is 'excuse for censorship'",
-        "link": "https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 10 Jan 2026 11:41:06 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "Israel on high alert for possibility of US intervention in Iran, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345d50a394a9fb1a402dacfd7eb2a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisrael-high-alert-possibility-us-intervention-iran-sources-say-2026-01-11%2f&amp;c=11648338319032288258&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 21:11:00 GMT",
+        "title": "Richard T. Lee again atop leaderboard at LIV Golf Promotions",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6963609818714c3a8852252db384da05&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2frichard-t-lee-again-atop-leaderboard-liv-golf-promotions--flm-2026-01-11%2f&amp;c=14050562687632021959&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Jan 2026 21:44:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Malinin, Chock and Bates reign at US Figure Skating Championships",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345d50a394a9fb1a402dacfd7eb2a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fchock-bates-earn-record-setting-seventh-us-ice-dance-title-2026-01-11%2f&amp;c=9283857423438677011&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 21:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bob Weir, Grateful Dead co-founder and rhythm guitarist, dead at 78",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345d50a394a9fb1a402dacfd7eb2a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fbob-weir-grateful-dead-co-founder-has-died-age-78-2026-01-11%2f&amp;c=9216382752868086036&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 20:42:00 GMT",
+        "title": "Woman dies, buildings damaged in Ukrainian drone attack on Russia's Voronezh, governor says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6963609818714c3a8852252db384da05&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fukrainian-drone-attack-injures-four-damages-buildings-russias-voronezh-governor-2026-01-10%2f&amp;c=4615643878669482156&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Jan 2026 21:36:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Tens of thousands protest in Minneapolis over fatal ICE shooting",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345d50a394a9fb1a402dacfd7eb2a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffatal-ice-shooting-minneapolis-activist-sets-stage-national-protests-2026-01-10%2f&amp;c=2361112617029894522&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6963609818714c3a8852252db384da05&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffatal-ice-shooting-minneapolis-activist-sets-stage-national-protests-2026-01-10%2f&amp;c=2361112617029894522&amp;mkt=en-us",
         "pubDate": "Sat, 10 Jan 2026 20:32:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Australia's Bree Walker wins monobob World Cup gold in St. Moritz",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345d5552a4d5fa0e64149bf958358&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2faustralias-bree-walker-wins-monobob-world-cup-gold-st-moritz-2026-01-11%2f&amp;c=8827069104841709386&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6963609962544126b4c7c353c42eddf7&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2faustralias-bree-walker-wins-monobob-world-cup-gold-st-moritz-2026-01-11%2f&amp;c=8827069104841709386&amp;mkt=en-us",
         "pubDate": "Sat, 10 Jan 2026 18:15:00 GMT",
         "category": "world"
       },
       {
-        "title": "Exclusive: US may lift more Venezuela sanctions next week, Bessent says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345d50a394a9fb1a402dacfd7eb2a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-may-lift-more-venezuela-sanctions-next-week-bessent-says-2026-01-10%2f&amp;c=18265522657846246320&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 12:34:00 GMT",
+        "title": "Japan's coalition partner head signals snap election may be nearing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6963609818714c3a8852252db384da05&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fjapans-coalition-partner-head-signals-snap-election-may-be-nearing-2026-01-11%2f&amp;c=7971558194253258636&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Jan 2026 15:51:00 GMT",
         "category": "Top News"
       },
       {
+        "title": "Australia bushfires to burn out of control for weeks, authorities say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6963609818714c3a8852252db384da05&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2faustralia-bushfires-burn-out-control-weeks-authorities-say-2026-01-10%2f&amp;c=16571891909589353394&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Jan 2026 14:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: US may lift more Venezuela sanctions next week, Bessent says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696360992c384aac9fe8a45552a54192&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-may-lift-more-venezuela-sanctions-next-week-bessent-says-2026-01-10%2f&amp;c=18265522657846246320&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Jan 2026 12:34:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Iran authorities signal intensified crackdown as unrest grows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345d50a394a9fb1a402dacfd7eb2a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firans-army-vows-protect-public-property-tehran-seeks-quell-growing-unrest-2026-01-10%2f&amp;c=13039268633584871787&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6963609818714c3a8852252db384da05&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firans-army-vows-protect-public-property-tehran-seeks-quell-growing-unrest-2026-01-10%2f&amp;c=13039268633584871787&amp;mkt=en-us",
         "pubDate": "Sat, 10 Jan 2026 10:59:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Nobel Institute says Peace Prize cannot be transferred after Machado suggestion",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345d50a394a9fb1a402dacfd7eb2a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fnobel-institute-says-peace-prize-cannot-be-transferred-after-machado-suggestion-2026-01-10%2f&amp;c=2605686781932677677&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6963609818714c3a8852252db384da05&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fnobel-institute-says-peace-prize-cannot-be-transferred-after-machado-suggestion-2026-01-10%2f&amp;c=2605686781932677677&amp;mkt=en-us",
         "pubDate": "Sat, 10 Jan 2026 09:00:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Slovakia to sign nuclear energy cooperation agreement with US, PM Fico says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345e555ce466d8d7171a8576611e3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fslovakia-sign-nuclear-energy-cooperation-agreement-with-us-pm-fico-says-2026-01-10%2f&amp;c=17065611838727598468&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6963609a54f3494c82597e30620218b2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fslovakia-sign-nuclear-energy-cooperation-agreement-with-us-pm-fico-says-2026-01-10%2f&amp;c=17065611838727598468&amp;mkt=en-us",
         "pubDate": "Sat, 10 Jan 2026 08:47:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "New Milan ice hockey arena wins expert approval after running repair on surface",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696345d50a394a9fb1a402dacfd7eb2a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fdelayed-milan-ice-hockey-venue-finally-opens-its-doors-2026-01-09%2f&amp;c=17611062305941461358&amp;mkt=en-us",
-        "pubDate": "Sat, 10 Jan 2026 08:28:00 GMT",
-        "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "The AI question every job candidate on interview should be prepared to answer",
-        "link": "https://www.cnbc.com/2026/01/10/jobs-careers-ai.html",
-        "pubDate": "Sat, 10 Jan 2026 15:46:56 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "How BlackRock, world&apos;s largest asset manager, is fine-tuning market portfolios for 2026",
-        "link": "https://www.cnbc.com/2026/01/10/blackrock-investing-bull-market-portfolio-stocks.html",
-        "pubDate": "Sat, 10 Jan 2026 15:07:23 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
