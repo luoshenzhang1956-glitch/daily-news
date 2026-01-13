@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-01-13T12:59:49.518263",
+  "updated_at": "2026-01-13T14:32:33.386771",
   "news": {
     "ap": [
       {
+        "title": "Microsoft\u2019s Brad Smith pushes Big Tech to \u2018pay our way\u2019 for AI data centers amid rising opposition",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69665751083c4395a6485b5eb4778565&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-data-centers-microsoft-brad-smith-trump-3c6988c44455d34c0e8db6dd63fdfd57&amp;c=6757128119239862008&amp;mkt=en-us",
+        "pubDate": "Tue, 13 Jan 2026 05:31:00 GMT",
+        "category": "tech"
+      },
+      {
         "title": "China urges Canada to break from US influence as PM Carney visits Beijing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641abbdad4a638a898ec0305d7d5e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-canada-carney-trump-strategic-autonomy-66f1277efa034750f0fd817b3a69bebb&amp;c=4685353239845989242&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6966574fc9dd493e819e32e7511673bd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-canada-carney-trump-strategic-autonomy-66f1277efa034750f0fd817b3a69bebb&amp;c=4685353239845989242&amp;mkt=en-us",
         "pubDate": "Tue, 13 Jan 2026 04:16:00 GMT",
         "category": "us"
       },
       {
-        "title": "Apple calls on Google to help smarten up Siri and bring other AI features to the iPhone",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641adac3144c59729195430062478&amp;url=https%3a%2f%2fapnews.com%2farticle%2fapple-google-artificial-intelligence-partnership-865dfa575279c292bc729a2dfa4e1583&amp;c=16718712108023597422&amp;mkt=en-us",
-        "pubDate": "Mon, 12 Jan 2026 13:55:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "The Trevor Project receives $45M from MacKenzie Scott after difficult years and federal funding cuts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641acffa34c96abdd24fcf492e987&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrevor-project-mackenzie-scott-fcb6187f61943fd63ad559b5e2a23a57&amp;c=12697883685391967973&amp;mkt=en-us",
-        "pubDate": "Mon, 12 Jan 2026 13:31:00 GMT",
+        "title": "WNBA, players\u2019 union agree to moratorium, halting initial stages of free agency",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69665750166f490eb19027624bea9890&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwnba-cba-negotiations-52a077b664d42bcbcc095a159fc1be5a&amp;c=5867375121923639505&amp;mkt=en-us",
+        "pubDate": "Mon, 12 Jan 2026 17:04:00 GMT",
         "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "The EPA is changing how it considers the costs and benefits of air pollution rules",
+        "link": "https://www.npr.org/2026/01/13/nx-s1-5675307/epa-air-regulations-health-benefits",
+        "pubDate": "Tue, 13 Jan 2026 09:00:00 -0500",
+        "category": "Top News"
+      },
       {
         "title": "Minnesota sues over Trump&apos;s ICE enforcement. And, SCOTUS hears trans athlete cases",
         "link": "https://www.npr.org/2026/01/13/g-s1-105846/up-first-newsletter-trump-iran-minneapolis-ice-shooting-scotus-trans-sports",
@@ -47,14 +53,14 @@
         "category": "business"
       },
       {
-        "title": "Trump heads to Detroit to give a speech refocusing on the American economy",
-        "link": "https://www.npr.org/2026/01/13/nx-s1-5675293/trump-heads-to-detroit-to-give-a-speech-refocusing-on-the-american-economy",
+        "title": "Trump administration to shutter an immigration court, adding to judges&apos; backlog",
+        "link": "https://www.npr.org/2026/01/13/g-s1-105679/san-francisco-immigration-court-closure",
         "pubDate": "Tue, 13 Jan 2026 05:00:00 -0500",
         "category": "Top News"
       },
       {
-        "title": "Trump administration to shutter an immigration court, adding to judges&apos; backlog",
-        "link": "https://www.npr.org/2026/01/13/g-s1-105679/san-francisco-immigration-court-closure",
+        "title": "Trump heads to Detroit to give a speech refocusing on the American economy",
+        "link": "https://www.npr.org/2026/01/13/nx-s1-5675293/trump-heads-to-detroit-to-give-a-speech-refocusing-on-the-american-economy",
         "pubDate": "Tue, 13 Jan 2026 05:00:00 -0500",
         "category": "Top News"
       },
@@ -62,12 +68,6 @@
         "title": "A conservative Supreme Court tackles the question of trans women in school sports",
         "link": "https://www.npr.org/2026/01/13/nx-s1-5648524/supreme-court-trans-women-school-sports",
         "pubDate": "Tue, 13 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "People in Iran describe heavy security and some damage in first calls to outside world",
-        "link": "https://www.npr.org/2026/01/13/g-s1-105832/iran-first-calls-outside-world",
-        "pubDate": "Tue, 13 Jan 2026 03:09:55 -0500",
         "category": "Top News"
       },
       {
@@ -85,21 +85,39 @@
     ],
     "bbc": [
       {
-        "title": "Cover-up law delayed after concerns it will not apply fully to MI5",
-        "link": "https://www.bbc.com/news/articles/c8rmpllmpy7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 13 Jan 2026 12:53:15 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "World central bank chiefs 'stand in solidarity' with US Fed chair Powell",
         "link": "https://www.bbc.com/news/articles/c041dp0z95yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 13 Jan 2026 12:13:31 GMT",
+        "pubDate": "Tue, 13 Jan 2026 14:30:40 GMT",
         "category": "business"
       },
       {
         "title": "World central banks 'stand in solidarity' with Fed chair after US threatens criminal charges",
         "link": "https://www.bbc.com/news/articles/c041dp0z95yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 13 Jan 2026 12:13:31 GMT",
+        "pubDate": "Tue, 13 Jan 2026 14:30:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New Birmingham-Manchester rail link to be proposed",
+        "link": "https://www.bbc.com/news/articles/c75xrwlw5n2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 13 Jan 2026 14:21:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Red Arrows get first woman leader",
+        "link": "https://www.bbc.com/news/articles/cedwg1g04zjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 13 Jan 2026 13:50:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Apple turns to Google to power AI upgrade for Siri",
+        "link": "https://www.bbc.com/news/articles/czdqvp2zqezo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 13 Jan 2026 13:09:19 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Stop saying we can't make things work, Streeting urges Labour colleagues",
+        "link": "https://www.bbc.com/news/articles/c89qel4d4lno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 13 Jan 2026 12:39:52 GMT",
         "category": "Top News"
       },
       {
@@ -107,12 +125,6 @@
         "link": "https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 13 Jan 2026 10:59:57 GMT",
         "category": "world"
-      },
-      {
-        "title": "I spent months trying to find out if boosting my gut health could help me age better",
-        "link": "https://www.bbc.com/news/articles/c1m8m47jl5eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 13 Jan 2026 09:49:40 GMT",
-        "category": "Top News"
       },
       {
         "title": "Decision time for Trump on Iran but what does he ultimately want?",
@@ -127,128 +139,116 @@
         "category": "health"
       },
       {
-        "title": "'We were tricked': How one woman lures foreign men to fight on Russia's front line",
-        "link": "https://www.bbc.com/news/articles/ce9yv4gmn9lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 13 Jan 2026 00:21:40 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Watch: How could Trump respond to Iran crackdown?",
         "link": "https://www.bbc.com/news/videos/cwy160gd773o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 12 Jan 2026 21:50:36 GMT",
         "category": "us"
-      },
-      {
-        "title": "What a new law and an investigation could mean for Grok AI deepfakes",
-        "link": "https://www.bbc.com/news/articles/ckgvx88md4do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 12 Jan 2026 19:38:53 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
+        "title": "Microsoft launches data center initiative to limit power costs, water use",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6966575d84b0416583a5633ddbc6346b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmicrosoft-launches-data-center-initiative-limit-power-costs-water-use-2026-01-13%2f&amp;c=3741798829445752710&amp;mkt=en-us",
+        "pubDate": "Tue, 13 Jan 2026 05:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "VIEW December rise in US consumer prices backs Fed pause this month",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6966576951ec440581b05a77cfd3c097&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fview-december-rise-us-consumer-prices-backs-fed-pause-this-month-2026-01-13%2f&amp;c=74463065028389368&amp;mkt=en-us",
+        "pubDate": "Tue, 13 Jan 2026 05:05:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Voice AI startup Deepgram raises $130 million at $1.3 billion valuation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6966576a90244cd7888a364eaeb57aed&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fvoice-ai-startup-deepgram-raises-130-million-13-billion-valuation-2026-01-13%2f&amp;c=10837060782149314514&amp;mkt=en-us",
+        "pubDate": "Tue, 13 Jan 2026 04:35:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Trump's Iran tariff threat risks reopening China rift",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6966575d84b0416583a5633ddbc6346b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrumps-iran-tariff-threat-risks-reopening-china-rift-2026-01-13%2f&amp;c=5850906251129923716&amp;mkt=en-us",
+        "pubDate": "Tue, 13 Jan 2026 03:55:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Why Iran\u2019s clerical establishment still holds as protests rage",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641b18073421b93a145ddeca0c306&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fwhy-irans-clerical-regime-still-holds-protests-rage-2026-01-13%2f&amp;c=3900863721505469592&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6966575d84b0416583a5633ddbc6346b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fwhy-irans-clerical-regime-still-holds-protests-rage-2026-01-13%2f&amp;c=3900863721505469592&amp;mkt=en-us",
         "pubDate": "Tue, 13 Jan 2026 03:52:00 GMT",
         "category": "Top News"
       },
       {
+        "title": "Davos begins new era grappling with global order shaken by Trump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6966575d84b0416583a5633ddbc6346b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fdavos%2fdavos-begins-new-era-grappling-with-global-order-shaken-by-trump-2026-01-13%2f&amp;c=7596763206114032217&amp;mkt=en-us",
+        "pubDate": "Tue, 13 Jan 2026 03:47:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Trump\u2019s exercise of raw power upends world order, sending friends and foes reeling",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641b190b147d8b37d514c3397f51d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrumps-exercise-raw-power-upends-world-order-sending-friends-foes-reeling-2026-01-13%2f&amp;c=5706336045825354706&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6966575d464d4e16961aaee5fb9ceb7b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrumps-exercise-raw-power-upends-world-order-sending-friends-foes-reeling-2026-01-13%2f&amp;c=5706336045825354706&amp;mkt=en-us",
         "pubDate": "Tue, 13 Jan 2026 03:44:00 GMT",
         "category": "world"
       },
       {
-        "title": "Marine Le Pen arrives for embezzlement appeal in Paris court",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641b18073421b93a145ddeca0c306&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmarine-le-pens-embezzlement-appeal-open-paris-2026-01-13%2f&amp;c=3544863686368554006&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Jan 2026 03:44:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "JPMorgan profit beats estimates on trading boom, takes hit on Apple card",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641b18073421b93a145ddeca0c306&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fjpmorgan-profit-falls-one-time-apple-card-deal-charge-2026-01-13%2f&amp;c=16852858276977395540&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Jan 2026 03:33:00 GMT",
-        "category": "Top News"
+        "title": "Cardinal Health raises 2026 profit forecast on specialty drug demand",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6966576b17e8445f97d190e3108493a6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fcardinal-health-raises-2026-profit-forecast-2026-01-13%2f&amp;c=13736796430223658076&amp;mkt=en-us",
+        "pubDate": "Tue, 13 Jan 2026 03:40:00 GMT",
+        "category": "health"
       },
       {
         "title": "Iran official says 2,000 people have been killed in unrest",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641b18073421b93a145ddeca0c306&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2firanian-mp-warns-greater-unrest-urging-government-address-grievances-2026-01-13%2f&amp;c=301799600639887814&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6966575d84b0416583a5633ddbc6346b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2firanian-mp-warns-greater-unrest-urging-government-address-grievances-2026-01-13%2f&amp;c=301799600639887814&amp;mkt=en-us",
         "pubDate": "Tue, 13 Jan 2026 03:04:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Cardinal Health raises 2026 profit forecast",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641b9018d4258983f7bd99c0680dd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fcardinal-health-raises-2026-profit-forecast-2026-01-13%2f&amp;c=13736796430223658076&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Jan 2026 02:58:00 GMT",
-        "category": "health"
-      },
-      {
         "title": "Pentagon to invest $1 billion in L3Harris rocket motor business, shares surge",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641b65a12482795cfe10a8a0530b5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fpentagon-invest-1-billion-l3harris-rocket-motor-business-2026-01-13%2f&amp;c=5660594569038390031&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69665769bbef49a595467e7e76065348&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fpentagon-invest-1-billion-l3harris-rocket-motor-business-2026-01-13%2f&amp;c=5660594569038390031&amp;mkt=en-us",
         "pubDate": "Tue, 13 Jan 2026 02:40:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "Trump\u2019s Detroit trip to put manufacturing back in focus amid US factory job slump",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641b5f002480bac6041b58a8bea3e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-detroit-trip-put-manufacturing-back-focus-amid-us-factory-job-slump-2026-01-13%2f&amp;c=2568137198722480085&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Jan 2026 02:21:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Global central bankers defend Fed's Powell after Trump threat",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641b18073421b93a145ddeca0c306&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fglobal-central-bankers-defend-feds-powell-after-trump-threat-2026-01-13%2f&amp;c=6593695778873705156&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Jan 2026 01:24:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "S&amp;P 500, Dow hit closing record highs; Walmart, tech climb",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696641b841114a679d88c2f32e05b22b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fwall-st-futures-slip-worries-over-fed-independence-financial-stocks-slide-2026-01-12%2f&amp;c=3606586443137854806&amp;mkt=en-us",
-        "pubDate": "Mon, 12 Jan 2026 15:36:00 GMT",
-        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "RV buyers are trading up and this stock is set to benefit, Loop Capital says",
-        "link": "https://www.cnbc.com/2026/01/13/rv-buyers-are-trading-up-and-this-stock-is-set-to-benefit-loop-capital-says.html",
-        "pubDate": "Tue, 13 Jan 2026 12:58:49 GMT",
-        "category": "us"
+        "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: &apos;Everything&apos;s on the table&apos;",
+        "link": "https://www.cnbc.com/2026/01/13/trump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
+        "pubDate": "Tue, 13 Jan 2026 14:24:12 GMT",
+        "category": "business"
       },
       {
-        "title": "Stocks making the biggest moves premarket: L3Harris, JPMorgan, Delta, Intel, AMD and more",
-        "link": "https://www.cnbc.com/2026/01/13/stocks-making-the-biggest-moves-premarket-lhx-jpm-dal-intc-amd.html",
-        "pubDate": "Tue, 13 Jan 2026 12:54:43 GMT",
+        "title": "Alibaba-backed PixVerse launches real-time AI video tool, as Chinese rivals race past OpenAI on speed and cost",
+        "link": "https://www.cnbc.com/2026/01/13/alibaba-backed-pixverse-real-time-ai-video-generation-tool-investors-startup-openai-sora.html",
+        "pubDate": "Tue, 13 Jan 2026 14:00:01 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Here are Tuesday&apos;s biggest analyst calls: Nvidia, Apple, Tesla, Micron, IBM, Carvana, AMD, Intel, Reddit &amp; more",
+        "link": "https://www.cnbc.com/2026/01/13/tuesday-biggest-wall-street-analyst-calls.html",
+        "pubDate": "Tue, 13 Jan 2026 13:43:26 GMT",
+        "category": "us"
       },
       {
         "title": "JPMorgan Chase tops estimates as trading revenue exceeds expectations",
         "link": "https://www.cnbc.com/2026/01/13/jpmorgan-chase-jpm-earnings-q4-2025.html",
-        "pubDate": "Tue, 13 Jan 2026 12:44:50 GMT",
-        "category": "business"
+        "pubDate": "Tue, 13 Jan 2026 13:41:13 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: L3Harris, JPMorgan, Delta, Intel, AMD and more",
+        "link": "https://www.cnbc.com/2026/01/13/stocks-making-the-biggest-moves-premarket-lhx-jpm-dal-intc-amd.html",
+        "pubDate": "Tue, 13 Jan 2026 13:40:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Global central bankers unite in defense of Fed Chair Jerome Powell",
+        "link": "https://www.cnbc.com/2026/01/13/jerome-powell-defended-european-central-bankers.html",
+        "pubDate": "Tue, 13 Jan 2026 13:31:33 GMT",
+        "category": "world"
       },
       {
         "title": "BNY raises profit target as CEO Robin Vince says &apos;turnaround&apos; is taking hold",
         "link": "https://www.cnbc.com/2026/01/13/bny-profit-target-ceo-robin-vince-turnaround.html",
         "pubDate": "Tue, 13 Jan 2026 11:35:01 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Global central bankers unite in defense of Fed Chair Jerome Powell",
-        "link": "https://www.cnbc.com/2026/01/13/jerome-powell-defended-european-central-bankers.html",
-        "pubDate": "Tue, 13 Jan 2026 10:59:03 GMT",
-        "category": "world"
-      },
-      {
-        "title": "SK Hynix to invest $13 billion in new plant amid memory chip shortage",
-        "link": "https://www.cnbc.com/2026/01/13/sk-hynix-invest-13-billion-new-fab-memory-chip-shortage-advanced-packaging-ai-memory.html",
-        "pubDate": "Tue, 13 Jan 2026 04:47:19 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "OpenAI acquires health-care technology startup Torch for $60 million, source says",
-        "link": "https://www.cnbc.com/2026/01/12/open-ai-torch-health-care-technology.html",
-        "pubDate": "Mon, 12 Jan 2026 22:47:14 GMT",
-        "category": "health"
       },
       {
         "title": "Trump&apos;s credit card rate cap plan has unclear path, &apos;devastating&apos; risks, bank insiders say",
