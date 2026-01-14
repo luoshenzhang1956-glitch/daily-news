@@ -1,74 +1,37 @@
 {
-  "updated_at": "2026-01-14T14:31:59.340803",
+  "updated_at": "2026-01-14T16:39:58.767438",
   "news": {
-    "ap": [
-      {
-        "title": "Aumentan ventas minoristas en EEUU, superando expectativas",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8b8471d4753ad55bae39f82bf78&amp;url=https%3a%2f%2fapnews.com%2farticle%2feeuu-economia-finanzas-ventas-minoristas-compras-1b9afb03d6dd48cb67b1eb3c18c00dac&amp;c=6086212866379986941&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 05:57:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Retail sales rose a better-than-expected 0.6% in November as the holiday season kicked into gear",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d2c56645cd9bdc8c73bc762039&amp;url=https%3a%2f%2fapnews.com%2farticle%2fretail-sales-economy-inflation-29a0b938e646d1029201594a80986e26&amp;c=3000541300973897709&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 05:42:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Tina Peters\u2019 lawyers try to convince Colorado court to overturn conviction for voting system breach",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8b8471d4753ad55bae39f82bf78&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftina-peters-colorado-2020-election-trump-e20be91151cf33efcd64da1497909f32&amp;c=11628579401837666359&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 05:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kim Gordon returns with defiant new solo album, \u2018Play Me': \u2018It does feel like an evolution\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8b8471d4753ad55bae39f82bf78&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkim-gordon-sonic-youth-interview-977b7d91b5c1a94f1a1f3cfb586b0321&amp;c=1731896636988577888&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 05:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Live updates: Trump says anything less than US control of Greenland is \u2018unacceptable\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8b8471d4753ad55bae39f82bf78&amp;url=https%3a%2f%2fapnews.com%2flive%2fdonald-trump-news-updates-1-14-2026&amp;c=15989077332259646328&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 04:51:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What Americans think about Trump\u2019s intervention in Venezuela, according to a new AP-NORC poll",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8b8471d4753ad55bae39f82bf78&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpoll-trump-venezuela-foreign-policy-approval-ce8d92a1461abb354f8c799e6b487e49&amp;c=17414378584493600406&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 04:33:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran signals fast trials and executions for protesters as death toll in crackdown goes over 2,500",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8b8471d4753ad55bae39f82bf78&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-protests-khamenei-trial-execution-trump-6004d94d5a1685b7b9096ea7a04dac6f&amp;c=12111958320865792139&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 04:30:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What to know as the Louvre\u2019s ticket price goes up by nearly half",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8b8471d4753ad55bae39f82bf78&amp;url=https%3a%2f%2fapnews.com%2farticle%2flouvre-ticket-prices-increase-museum-paris-3fc95de7132a83edac5932efc2798649&amp;c=7071899639553227894&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 03:57:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Zuniga and NJIT host UMass Lowell",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d314d9456b810d95fc02741ba4&amp;url=https%3a%2f%2fapnews.com%2farticle%2falejandra-zuniga-massachusetts-minutemen-college-sports-womens-college-basketball-college-basketball-8648b166df854a27a3d0e6742561f1e8&amp;c=9613231700338205351&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 01:43:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "South Carolina confirms 124 new measles cases as outbreak on the Arizona-Utah line grows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d4cb5f4ff5bcd31f185a44440f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeasles-south-carolina-utah-arizona-845643cd1342f1ce2ea01d11b74ee77b&amp;c=1931409512361786617&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Jan 2026 14:37:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "What&apos;s behind this country&apos;s dramatic drop in the number of new orphans?",
+        "link": "https://www.npr.org/2026/01/14/g-s1-105877/orphans-hiv-aids-uganda-pepfar",
+        "pubDate": "Wed, 14 Jan 2026 11:35:11 -0500",
+        "category": "health"
+      },
+      {
+        "title": "About Us: Global Health and Development",
+        "link": "https://www.npr.org/2026/01/14/g-s1-105973/global-health-and-developmen",
+        "pubDate": "Wed, 14 Jan 2026 11:26:42 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump administration sends letter wiping out addiction, mental health grants",
+        "link": "https://www.npr.org/2026/01/14/nx-s1-5677104/trump-administration-letter-terminating-addiction-mental-health-grants",
+        "pubDate": "Wed, 14 Jan 2026 09:50:17 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Greetings from Acre, Israel, where an old fortress recalls the time of the Crusades",
+        "link": "https://www.npr.org/2026/01/14/nx-s1-5669671/acre-israel-knights-fortress",
+        "pubDate": "Wed, 14 Jan 2026 09:35:35 -0500",
+        "category": "world"
+      },
       {
         "title": "New analysis on U.S. economy. And, MN prosecutors quit over DOJ probe into Good widow",
         "link": "https://www.npr.org/2026/01/14/g-s1-105963/up-first-newsletter-minnesota-prosecutors-trump-economy-speech-inflation",
         "pubDate": "Wed, 14 Jan 2026 07:24:44 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "The risks of AI in schools outweigh the benefits, report says",
@@ -80,19 +43,13 @@
         "title": "The death toll from a crackdown on protests in Iran jumps to over 2,500, activists say",
         "link": "https://www.npr.org/2026/01/14/g-s1-105949/death-toll-crackdown-protests-iran",
         "pubDate": "Wed, 14 Jan 2026 05:12:32 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "How have prices changed in a year? NPR checked 114 items at Walmart",
         "link": "https://www.npr.org/2026/01/14/nx-s1-5638908/walmart-prices-inflation-affordability-shrinkflation",
         "pubDate": "Wed, 14 Jan 2026 05:01:00 -0500",
         "category": "business"
-      },
-      {
-        "title": "Young men want to get big. For some, it&apos;s becoming an obsession",
-        "link": "https://www.npr.org/2026/01/14/nx-s1-5671789/bigorexia-dysmorphia-eating-disorder-boys",
-        "pubDate": "Wed, 14 Jan 2026 05:00:00 -0500",
-        "category": "health"
       },
       {
         "title": "How the feud between Trump and Minnesota is impacting the probe into the ICE shooting",
@@ -105,43 +62,49 @@
         "link": "https://www.npr.org/2026/01/14/nx-s1-5647827/homelessness-los-angeles-skid-row-mary-marfisee",
         "pubDate": "Wed, 14 Jan 2026 05:00:00 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "The story of &apos;synergy,&apos; the word we love to hate",
-        "link": "https://www.npr.org/2026/01/14/nx-s1-5667046/synergy-etymology-word-history-corporate-business-jargon",
-        "pubDate": "Wed, 14 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "The long-term health impacts from the LA wildfires are just becoming clear",
-        "link": "https://www.npr.org/2026/01/14/nx-s1-5630989/la-fires-health-impact-smoke",
-        "pubDate": "Wed, 14 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "NASA set to bring astronaut (and the rest of Crew-11) home early for medical reasons",
-        "link": "https://www.npr.org/2026/01/14/nx-s1-5672634/nasa-spacex-crew-11-sick-astronaut-returning",
-        "pubDate": "Wed, 14 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "X to comply with UK law over Grok deepfakes, Starmer says",
-        "link": "https://www.bbc.com/news/articles/ceqz7pyd303o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Jan 2026 14:30:18 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "US reducing personnel at Qatar air base, CBS reports",
-        "link": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Jan 2026 14:27:55 GMT",
+        "title": "Actor John Alford jailed for sex assaults on teens",
+        "link": "https://www.bbc.com/news/articles/cwyvnm3re4zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Jan 2026 16:37:32 GMT",
         "category": "Top News"
       },
       {
-        "title": "Amateur stuns world's best to win A$1m at Australian Open",
-        "link": "https://www.bbc.com/sport/tennis/articles/ckgyl1ndw57o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Jan 2026 13:12:45 GMT",
+        "title": "Why the Northern Powerhouse Rail plan will really go ahead this time",
+        "link": "https://www.bbc.com/news/articles/cy7mn3rlggzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Jan 2026 15:58:10 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Faisal Islam: Why the Northern Powerhouse Rail plan will really go ahead this time",
+        "link": "https://www.bbc.com/news/articles/cy7mn3rlggzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Jan 2026 15:58:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US pulling some personnel from Qatar air base, official tells CBS",
+        "link": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Jan 2026 15:48:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sting pays Police bandmates more than \u00a3500,000 in royalties",
+        "link": "https://www.bbc.com/news/articles/cn42lp1135vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Jan 2026 15:05:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "No 10 welcomes reports X is addressing Grok deepfakes",
+        "link": "https://www.bbc.com/news/articles/ceqz7pyd303o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Jan 2026 14:44:53 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "BBC on site after crane collapses and crushes train in Thailand",
+        "link": "https://www.bbc.com/news/videos/cd7z8p0nq8jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Jan 2026 13:24:59 GMT",
         "category": "Top News"
       },
       {
@@ -149,30 +112,6 @@
         "link": "https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 14 Jan 2026 13:04:04 GMT",
         "category": "world"
-      },
-      {
-        "title": "Reeves vows rail plan will go ahead, despite cynicism",
-        "link": "https://www.bbc.com/news/articles/c20dw4yrxnlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Jan 2026 12:41:58 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Bafta names rising stars who are tipped for film success",
-        "link": "https://www.bbc.com/news/articles/c701xwdne8ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Jan 2026 12:16:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Greenlanders brace for summit that could shape the Arctic's future - and their own",
-        "link": "https://www.bbc.com/news/articles/cpqyn58v0dxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Jan 2026 12:14:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "After U-turn on mandatory digital IDs, how have Labour MPs responded?",
-        "link": "https://www.bbc.com/news/articles/c4gw8x2gw01o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Jan 2026 11:31:47 GMT",
-        "category": "Top News"
       },
       {
         "title": "First leukaemia patient to get new form of treatment on NHS says it is 'very sci-fi'",
@@ -189,62 +128,62 @@
     ],
     "reuters": [
       {
-        "title": "US producer prices increase moderately in November",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d85c4e4967a276c08187041d79&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-producer-prices-increase-moderately-november-2026-01-14%2f&amp;c=16406779022237305064&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 05:20:00 GMT",
+        "title": "US to suspend visa processing for 75 nations, State Department says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967c6b49c4c4b63a9d4fe77b21d600e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14%2f&amp;c=17145928303873602398&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Jan 2026 07:25:00 GMT",
         "category": "us"
       },
       {
-        "title": "Iran warns of retaliation if Trump strikes, US withdraws some personnel from regional bases",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d7f46a4dad8f3efd5e4214fdaf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fdeath-toll-iran-approaches-2600-rights-group-reports-2026-01-14%2f&amp;c=702017560423832773&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 05:07:00 GMT",
+        "title": "US retail sales increase solidly in November; producer prices rise marginally",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967c6a8a7d54072b9361995046e051b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fus-retail-sales-beat-expectations-november-2026-01-14%2f&amp;c=15852370022849796819&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Jan 2026 07:11:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US retail sales beat expectations in November",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d7f46a4dad8f3efd5e4214fdaf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fus-retail-sales-beat-expectations-november-2026-01-14%2f&amp;c=15852370022849796819&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 04:47:00 GMT",
+        "title": "US banking giants reap bigger profits as borrowers seek more loans",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967c6a8a7d54072b9361995046e051b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-banking-giants-reap-bigger-profits-borrowers-seek-more-loans-2026-01-14%2f&amp;c=8150577604831958805&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Jan 2026 07:08:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "EU assembly weighs freezing US trade deal over Trump's Greenland threats",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d7f46a4dad8f3efd5e4214fdaf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2feu-assembly-weighs-freezing-us-trade-deal-over-trumps-greenland-threats-2026-01-14%2f&amp;c=11683399951085774831&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 04:13:00 GMT",
+        "title": "Garage grind, countless calories and thousands of shots - inside biathlete Samuelsson's preparations",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967c6a8a7d54072b9361995046e051b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgarage-grind-countless-calories-thousands-shots-inside-biathlete-samuelssons-2026-01-14%2f&amp;c=17673477286174758965&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Jan 2026 07:05:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Iranians arrive in Turkey through border gate as crackdown persists",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d7f46a4dad8f3efd5e4214fdaf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firanians-arrive-turkey-through-border-gate-crackdown-persists-2026-01-14%2f&amp;c=2650535968897613337&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 04:07:00 GMT",
+        "title": "Denmark and Greenland face Vance in high-stakes White House meeting",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967c6a8a7d54072b9361995046e051b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fdenmark-greenland-face-vance-high-stakes-meeting-2026-01-14%2f&amp;c=15980138156708694915&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Jan 2026 06:56:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "French speed skater Loubineaud puts progress first as he prepares for Olympic debut",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d7f46a4dad8f3efd5e4214fdaf&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ffrench-speed-skater-loubineaud-puts-progress-first-he-prepares-olympic-debut-2026-01-14%2f&amp;c=10306904199476936093&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 03:29:00 GMT",
+        "title": "CrowdStrike defeats shareholder lawsuit over huge software outage",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967c6a8a7d54072b9361995046e051b&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fcrowdstrike-defeats-shareholder-lawsuit-over-huge-software-outage-2026-01-14%2f&amp;c=2808167198014600236&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Jan 2026 06:51:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Saks Global files for bankruptcy after Neiman Marcus takeover leads to financial collapse",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d7f46a4dad8f3efd5e4214fdaf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fsaks-global-files-bankruptcy-after-neiman-marcus-takeover-leads-financial-2026-01-14%2f&amp;c=3408054184783889061&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 03:28:00 GMT",
+        "title": "US business inventories increase again in October",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967c6b5e070422c8ded617a41511191&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-business-inventories-increase-again-october-2026-01-14%2f&amp;c=3179484051551920014&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Jan 2026 06:42:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "AC Milan coach Allegri carries torch as others complain",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967c6a8a7d54072b9361995046e051b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fac-milan-coach-allegri-carries-torch-others-complain-2026-01-14%2f&amp;c=9591428945965331062&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Jan 2026 06:25:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Health Rounds: Experimental treatment may improve odds of in vitro fertilization success",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8db3c5441c8bd7eb9fbe6bd34bd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-experimental-treatment-may-improve-odds-vitro-fertilization-2026-01-14%2f&amp;c=15155435129591456661&amp;mkt=en-us",
-        "pubDate": "Wed, 14 Jan 2026 03:18:00 GMT",
+        "title": "US HHS reverses cuts to safety research agency, Bloomberg News reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967c6b6366745f6a72912f5865ba03b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-hhs-reverses-cuts-safety-research-agency-bloomberg-news-reports-2026-01-14%2f&amp;c=16684799148922451850&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Jan 2026 06:15:00 GMT",
         "category": "health"
       },
       {
-        "title": "2025 was the world's third-warmest year on record, EU scientists say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8d8b7e6400f9dcd37685d686de6&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fcop%2f2025-was-worlds-third-warmest-year-record-eu-scientists-say-2026-01-14%2f&amp;c=4780737664630989211&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Jan 2026 23:23:00 GMT",
-        "category": "world"
-      },
-      {
         "title": "Seed Group and Oongalee Partner to Bring Next-Generation Fintech and Interactive Restaurant Technology to the UAE",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967a8da33aa4240ae71db3d773eb17a&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fseed-group-oongalee-partner-next-generation-fintech-interactive-restaurant-technology-uae-2026-01-14%2f&amp;c=5490081090474425316&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6967c6b694cf46a3ab24e77e9bf4b173&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fseed-group-oongalee-partner-next-generation-fintech-interactive-restaurant-technology-uae-2026-01-14%2f&amp;c=5490081090474425316&amp;mkt=en-us",
         "pubDate": "Tue, 13 Jan 2026 17:20:00 GMT",
         "category": "tech"
       }
@@ -253,8 +192,26 @@
       {
         "title": "Citigroup tops estimates on stronger net interest income, smaller loan loss provision",
         "link": "https://www.cnbc.com/2026/01/14/citigroup-c-earnings-q4-2025.html",
-        "pubDate": "Wed, 14 Jan 2026 14:30:46 GMT",
+        "pubDate": "Wed, 14 Jan 2026 16:29:38 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Sen. Warren says Trump called her to work on credit card interest rate caps",
+        "link": "https://www.cnbc.com/2026/01/14/warren-trump-credit-card-interest-rate-affordability.html",
+        "pubDate": "Wed, 14 Jan 2026 16:14:48 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Airlines to save big money on fuel as new weight-loss pills gain popularity, Wall Street says",
+        "link": "https://www.cnbc.com/2026/01/14/airlines-to-save-on-fuel-as-weight-loss-pills-grow-popular-wall-street-says.html",
+        "pubDate": "Wed, 14 Jan 2026 16:12:13 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
+        "link": "https://www.cnbc.com/2026/01/14/bank-of-america-bac-q4-2025-earnings.html",
+        "pubDate": "Wed, 14 Jan 2026 14:39:42 GMT",
+        "category": "business"
       },
       {
         "title": "Warren Buffett was still searching for that elephant to buy in his final months as Berkshire CEO",
@@ -267,18 +224,6 @@
         "link": "https://www.cnbc.com/2026/01/14/stocks-making-the-biggest-moves-premarket-wfc-bac-nflx.html",
         "pubDate": "Wed, 14 Jan 2026 14:26:46 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
-        "link": "https://www.cnbc.com/2026/01/14/bank-of-america-bac-q4-2025-earnings.html",
-        "pubDate": "Wed, 14 Jan 2026 14:18:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says anything less than U.S. control of Greenland is \u2018unacceptable\u2019 ahead of crunch talks",
-        "link": "https://www.cnbc.com/2026/01/14/greenland-denmark-trump-white-house-meeting.html",
-        "pubDate": "Wed, 14 Jan 2026 13:47:57 GMT",
-        "category": "world"
       },
       {
         "title": "Alibaba-backed PixVerse launches real-time AI video tool, top executive tells CNBC",
@@ -296,18 +241,6 @@
         "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: &apos;Everything&apos;s on the table&apos;",
         "link": "https://www.cnbc.com/2026/01/13/trump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
         "pubDate": "Tue, 13 Jan 2026 16:54:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "BNY raises profit target as CEO Robin Vince says &apos;turnaround&apos; is taking hold",
-        "link": "https://www.cnbc.com/2026/01/13/bny-profit-target-ceo-robin-vince-turnaround.html",
-        "pubDate": "Tue, 13 Jan 2026 16:10:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "JPMorgan Chase tops estimates as trading revenue exceeds expectations",
-        "link": "https://www.cnbc.com/2026/01/13/jpmorgan-chase-jpm-earnings-q4-2025.html",
-        "pubDate": "Tue, 13 Jan 2026 15:23:16 GMT",
         "category": "Top News"
       }
     ]
