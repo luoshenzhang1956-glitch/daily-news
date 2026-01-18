@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-01-18T14:24:10.246854",
+  "updated_at": "2026-01-18T16:33:51.610551",
   "news": {
     "ap": [
       {
-        "title": "Niagara hosts Keyes and Mount St. Mary\u2019s",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cecdd888c47bc84745efbceb70f30&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcollege-basketball-college-sports-mens-college-basketball-6176ebfe92a14cd4bee2357f699d6dbe&amp;c=10854354028437186743&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 01:44:00 GMT",
-        "category": "tech"
+        "title": "Today in Sports - Lindsey Vonn wins a record 63rd World Cup victory, stood for 35-years",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d0ae0f84445b1bc5bba4a8fddb3b4&amp;url=https%3a%2f%2fapnews.com%2farticle%2flindsey-vonn-denis-istomin-novak-djokovic-san-francisco-49ers-213a60caf70d260fe84c53ff5de64b55&amp;c=1807492663245901437&amp;mkt=en-us",
+        "pubDate": "Sun, 18 Jan 2026 07:10:00 GMT",
+        "category": "world"
       },
       {
         "title": "Social media addiction\u2019s surprising challenger? Anti-doomscrolling influencers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cecdc72cf401f8319d79ec762fa53&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsocial-media-addiction-screen-time-a50f6def00a5723ba61e0a78ba761669&amp;c=361944949372335848&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d0af059844502b72c11646ba60429&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsocial-media-addiction-screen-time-a50f6def00a5723ba61e0a78ba761669&amp;c=361944949372335848&amp;mkt=en-us",
         "pubDate": "Sat, 17 Jan 2026 22:00:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "Trump says 8 European countries will face 10% tariff for opposing US control of Greenland",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cecdb120c4f05ba5c8e33c80d50d2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdenmark-greenland-us-trump-4ad99ea3975a8b62d37bd04961feda55&amp;c=8614585269353502420&amp;mkt=en-us",
-        "pubDate": "Sat, 17 Jan 2026 20:08:00 GMT",
-        "category": "us"
       }
     ],
     "npr": [
       {
-        "title": "The latest from Minnesota after Trump threatened to invoke the Insurrection Act",
-        "link": "https://www.npr.org/2026/01/18/nx-s1-5680362/the-latest-from-minnesota-after-trump-threatened-to-invoke-the-insurrection-act",
-        "pubDate": "Sun, 18 Jan 2026 08:09:15 -0500",
+        "title": "U.S. military troops on standby for possible deployment to Minnesota",
+        "link": "https://www.npr.org/2026/01/18/nx-s1-5681372/u-s-military-troops-on-standby-for-possible-deployment-to-minnesota",
+        "pubDate": "Sun, 18 Jan 2026 10:34:08 -0500",
         "category": "us"
+      },
+      {
+        "title": "Martin Luther King Jr. had a dream ... about health care",
+        "link": "https://www.npr.org/2026/01/18/g-s1-106127/martin-luther-king-jr-dream-health-care",
+        "pubDate": "Sun, 18 Jan 2026 10:22:19 -0500",
+        "category": "health"
       },
       {
         "title": "Venezuela: Maduro&apos;s enforcer Cabello still central to power",
@@ -53,12 +53,6 @@
         "category": "Top News"
       },
       {
-        "title": "As ACA enrollment drops, hopes for Congress to restore funding are fading",
-        "link": "https://www.npr.org/2026/01/17/nx-s1-5680302/as-aca-enrollment-drops-hopes-for-congress-to-restore-funding-are-fading",
-        "pubDate": "Sat, 17 Jan 2026 17:00:12 -0500",
-        "category": "health"
-      },
-      {
         "title": "NASA&apos;s Artemis II craft meets the launch pad ahead of crewed lunar orbit",
         "link": "https://www.npr.org/2026/01/17/g-s1-106406/nasa-rolls-out-artemis-ii",
         "pubDate": "Sat, 17 Jan 2026 14:12:56 -0500",
@@ -75,19 +69,13 @@
         "link": "https://www.npr.org/2026/01/17/g-s1-106401/not-for-sale-massive-protest-in-copenhagen-against-trumps-desire-to-acquire-greenland",
         "pubDate": "Sat, 17 Jan 2026 12:00:35 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Uganda&apos;s longtime leader declared winner in disputed vote",
-        "link": "https://www.npr.org/2026/01/17/nx-s1-5680817/uganda-museveni-wine-election-disputed-election",
-        "pubDate": "Sat, 17 Jan 2026 10:18:38 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
         "title": "Greenland's people must decide its future, says Nandy",
         "link": "https://www.bbc.com/news/articles/cwyn90l1dneo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Jan 2026 13:36:31 GMT",
+        "pubDate": "Sun, 18 Jan 2026 15:32:29 GMT",
         "category": "Top News"
       },
       {
@@ -106,7 +94,7 @@
         "title": "Fears Iran's internet shutdown could lead to 'extreme digital isolation'",
         "link": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 18 Jan 2026 11:09:29 GMT",
-        "category": "Top News"
+        "category": "world"
       },
       {
         "title": "Around 1,500 soldiers on standby for deployment to Minneapolis, officials say",
@@ -121,21 +109,21 @@
         "category": "Top News"
       },
       {
-        "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
-        "link": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Jan 2026 07:21:34 GMT",
-        "category": "world"
-      },
-      {
         "title": "Faisal Islam: Trump's Greenland threats to allies are without parallel",
         "link": "https://www.bbc.com/news/articles/cx2gjdx241wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 18 Jan 2026 06:38:17 GMT",
         "category": "business"
       },
       {
-        "title": "I left my toxic mums' group because I'd had enough of being judged",
-        "link": "https://www.bbc.com/news/articles/cn42q39qg4ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Jan 2026 00:10:16 GMT",
+        "title": "I want to show what Africa is - YouTube star IShowSpeed brings joy and tears on tour",
+        "link": "https://www.bbc.com/news/articles/c5y5le7yl7po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 18 Jan 2026 00:21:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Gangland killing at a funeral shocks idyllic French island",
+        "link": "https://www.bbc.com/news/articles/c620nq38y6po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 18 Jan 2026 00:08:38 GMT",
         "category": "Top News"
       },
       {
@@ -147,64 +135,10 @@
     ],
     "reuters": [
       {
-        "title": "Kurdish commander calls on US to 'intervene forcefully' in Syria clashes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cece1c32f4acc9dbffd3f9da2a6cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fkurdish-commander-calls-us-intervene-forcefully-syria-clashes-2026-01-18%2f&amp;c=968606774380841091&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 05:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Be in no doubt' EU will retaliate to any new US tariffs, Ireland says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cece1c32f4acc9dbffd3f9da2a6cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fbe-no-doubt-eu-will-retaliate-any-new-us-tariffs-ireland-says-2026-01-18%2f&amp;c=8540251609987626027&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 04:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Brignone could return to Alpine World Cup on Tuesday after injury",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cece1c32f4acc9dbffd3f9da2a6cd&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbrignone-could-return-alpine-world-cup-tuesday-after-injury-2026-01-18%2f&amp;c=10093518485606433220&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 04:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pentagon readies 1,500 troops to possibly deploy to Minnesota, US media say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cecf032544c5f826cffbaad537a03&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpentagon-readies-1500-soldiers-possibly-deploy-minnesota-washington-post-reports-2026-01-18%2f&amp;c=6728877794676571123&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 04:21:00 GMT",
-        "category": "us"
-      },
-      {
         "title": "World markets face fresh jolt as Trump vows tariffs on Europe over Greenland",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cece1c32f4acc9dbffd3f9da2a6cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fworld-markets-face-fresh-jolt-trump-vows-tariffs-europe-over-greenland-2026-01-18%2f&amp;c=1092883349403638201&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 03:58:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's Gaza peace board charter seeks $1 billion for extended membership, document shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cece1c32f4acc9dbffd3f9da2a6cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrumps-gaza-peace-board-charter-seeks-1-billion-extended-membership-document-2026-01-18%2f&amp;c=6971935383694062342&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 03:42:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's Greenland tariffs prompt calls for unprecedented EU counter-measures",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cece1c32f4acc9dbffd3f9da2a6cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrumps-greenland-tariffs-prompt-calls-unprecedented-eu-counter-measures-2026-01-18%2f&amp;c=9969893613876192347&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 03:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "At least 5,000 killed in Iranian unrest, official says, as judiciary hints at executions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cece1c32f4acc9dbffd3f9da2a6cd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2firanian-official-says-verified-deaths-iran-protests-reaches-least-5000-2026-01-18%2f&amp;c=7141072122929111056&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 03:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Scottish first minister says a May majority means new independence push",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cece1c32f4acc9dbffd3f9da2a6cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fscottish-first-minister-says-may-majority-means-new-independence-push-2026-01-18%2f&amp;c=18323602928900512787&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 01:58:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China's Ningbo Ronbay says it's being probed over statements made about $17 bln CATL deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cecf25e3f4ab5b6ab8830936d20e6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fchinas-ningbo-ronbay-says-its-being-probed-over-statements-made-about-17-bln-2026-01-18%2f&amp;c=5309028453753276243&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 00:21:00 GMT",
-        "category": "tech"
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d0b12d57948cbbd7c82e47877540d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fworld-markets-face-fresh-jolt-trump-vows-tariffs-europe-over-greenland-2026-01-18%2f&amp;c=1092883349403638201&amp;mkt=en-us",
+        "pubDate": "Sun, 18 Jan 2026 05:36:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
@@ -213,36 +147,6 @@
         "link": "https://www.cnbc.com/2026/01/18/european-leaders-reaction-trump-greenland-tariffs-threat.html",
         "pubDate": "Sun, 18 Jan 2026 13:58:32 GMT",
         "category": "world"
-      },
-      {
-        "title": "Trump threatens to sue JPMorgan Chase for &apos;debanking&apos; him",
-        "link": "https://www.cnbc.com/2026/01/17/trump-jpmorgan-chase-debanking.html",
-        "pubDate": "Sun, 18 Jan 2026 13:47:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Top Wall Street analysts are confident about these three stocks for the long term",
-        "link": "https://www.cnbc.com/2026/01/18/top-wall-street-analysts-are-confident-about-these-three-stocks-for-the-long-term.html",
-        "pubDate": "Sun, 18 Jan 2026 12:30:59 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Chinese EV giant BYD is a buy \u2014 and not just for its cars, Bernstein says",
-        "link": "https://www.cnbc.com/2026/01/18/chinese-ev-giant-byd-is-a-buy-and-not-just-for-its-cars-bernstein-says.html",
-        "pubDate": "Sun, 18 Jan 2026 12:29:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Who will be next to implement an Australia-style under-16s social media ban?",
-        "link": "https://www.cnbc.com/2026/01/18/uk-australia-style-under-16s-social-media-ban.html",
-        "pubDate": "Sun, 18 Jan 2026 12:19:41 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Smaller companies are rising quickly to challenge Big Tech as AI&apos;s best trade",
-        "link": "https://www.cnbc.com/2026/01/17/ai-power-demand-markets-investor-risk.html",
-        "pubDate": "Sat, 17 Jan 2026 21:43:09 GMT",
-        "category": "Top News"
       }
     ]
   }
