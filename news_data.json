@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-01-18T08:36:37.330467",
+  "updated_at": "2026-01-18T10:27:50.904190",
   "news": {
     "ap": [
       {
         "title": "Social media addiction\u2019s surprising challenger? Anti-doomscrolling influencers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696c9afe49ac489490f421e18453e283&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsocial-media-addiction-screen-time-a50f6def00a5723ba61e0a78ba761669&amp;c=361944949372335848&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb5a0f00f4c369ebaffb544aad7f7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsocial-media-addiction-screen-time-a50f6def00a5723ba61e0a78ba761669&amp;c=361944949372335848&amp;mkt=en-us",
         "pubDate": "Sat, 17 Jan 2026 22:00:00 GMT",
         "category": "business"
+      },
+      {
+        "title": "US launches another retaliatory strike in Syria, killing leader tied to deadly Islamic State ambush",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb59fd43a4bb3a4787e18cc4cf8da&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsyria-united-states-alsharaa-trump-airstrikes-9273f17f74ecffa0e0793c88642140e1&amp;c=2314805786729928035&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Jan 2026 14:29:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
       {
+        "title": "Amid ICE clashes, New Hampshire bishop urges clergy to prepare their wills",
+        "link": "https://www.npr.org/2026/01/18/nx-s1-5678579/ice-clashes-new-hampshire-bishop-urges-clergy-prepare-wills",
+        "pubDate": "Sun, 18 Jan 2026 05:00:00 -0500",
+        "category": "us"
+      },
+      {
         "title": "New York Giants hire John Harbaugh as coach after identifying him as their top choice",
         "link": "https://www.npr.org/2026/01/17/g-s1-106420/harbaugh-ny-giants-coach-ravens",
         "pubDate": "Sat, 17 Jan 2026 19:40:04 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "US launches new retaliatory strike in Syria, killing leader tied to deadly Islamic State ambush",
@@ -63,19 +75,13 @@
         "link": "https://www.npr.org/2026/01/17/g-s1-106007/hiv-vaccine-trial-south-africa",
         "pubDate": "Sat, 17 Jan 2026 07:54:13 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "They quit their day jobs to bet on current events. A look inside the prediction market mania",
-        "link": "https://www.npr.org/2026/01/17/nx-s1-5672615/kalshi-polymarket-prediction-market-boom-traders-slang-glossary",
-        "pubDate": "Sat, 17 Jan 2026 05:00:00 -0500",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "Molly Russell's dad says under-16 social media ban would be wrong",
-        "link": "https://www.bbc.com/news/articles/cpwn1vjy0y5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Jan 2026 08:12:28 GMT",
+        "title": "'Digital isolation': Will Iran's internet shutdown become permanent?",
+        "link": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 18 Jan 2026 09:56:51 GMT",
         "category": "Top News"
       },
       {
@@ -115,7 +121,13 @@
         "category": "Top News"
       },
       {
-        "title": "Heated Rivalry author thought ice-hockey romance was too steamy for TV",
+        "title": "Gangland killing at a funeral shocks idyllic French island",
+        "link": "https://www.bbc.com/news/articles/c620nq38y6po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 18 Jan 2026 00:08:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "It started as fan-fiction smut. Now everyone is talking about TV drama Heated Rivalry",
         "link": "https://www.bbc.com/news/articles/cj4lwey7e1vo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 18 Jan 2026 00:08:19 GMT",
         "category": "Top News"
@@ -125,41 +137,64 @@
         "link": "https://www.bbc.com/news/articles/czejykzg77po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 18 Jan 2026 00:08:10 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "From surge in patriotism to fewer US trips - Trump's impact on Canada",
-        "link": "https://www.bbc.com/news/articles/crmlvym2e3eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Jan 2026 00:07:52 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Fery\u2019s Melbourne win makes mum's marathon trip worthwhile",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696c9b64a8a9487ebb71817df0c125fe&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ftennis%2fferys-melbourne-win-makes-mums-marathon-trip-worthwhile-2026-01-18%2f&amp;c=16121831400751174573&amp;mkt=en-us",
-        "pubDate": "Sat, 17 Jan 2026 21:07:00 GMT",
-        "category": "tech"
+        "title": "Sabalenka sees off Rakotomanga Rajaonah to reach Australian Open second round",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb5a4679b405a99d0cdb83979008b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ftennis%2fsabalenka-sees-off-rakotomanga-rajaonah-reach-australian-open-second-round-2026-01-18%2f&amp;c=1421668026371068813&amp;mkt=en-us",
+        "pubDate": "Sun, 18 Jan 2026 01:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dutch minister calls Trump's Greenland tariff threat 'blackmail'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb5a4679b405a99d0cdb83979008b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fdutch-minister-calls-trumps-greenland-tariff-threat-blackmail-2026-01-18%2f&amp;c=10016188560122391363&amp;mkt=en-us",
+        "pubDate": "Sun, 18 Jan 2026 01:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iranian official says verified deaths in Iran protests reaches at least 5,000",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb5a4679b405a99d0cdb83979008b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2firanian-official-says-verified-deaths-iran-protests-reaches-least-5000-2026-01-18%2f&amp;c=7141072122929111056&amp;mkt=en-us",
+        "pubDate": "Sun, 18 Jan 2026 00:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Two killed in mass Russian drone attack on Ukraine, Zelenskiy says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb5a4679b405a99d0cdb83979008b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftwo-killed-dozens-wounded-mass-russian-drone-attack-ukraine-zelenskiy-2026-01-18%2f&amp;c=9447486216909999994&amp;mkt=en-us",
+        "pubDate": "Sun, 18 Jan 2026 00:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jordan says King Abdullah received invitation to join Gaza peace board",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb5a4679b405a99d0cdb83979008b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fjordan-says-king-abdullah-received-invitation-join-gaza-peace-board-2026-01-18%2f&amp;c=17899820411257740999&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Jan 2026 23:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "South Korea to negotiate with the US for favourable chip tariff terms, official says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb5a510ad4a5c8d59946c3c81c170&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-korea-negotiate-with-us-favourable-chip-tariff-terms-official-says-2026-01-18%2f&amp;c=2569770524331611591&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Jan 2026 22:53:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Anti-ICE demonstrators chase off outnumbered far-right activists at Minneapolis rally",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb5a4679b405a99d0cdb83979008b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fduelling-rallies-planned-minneapolis-ice-keeps-area-edge-2026-01-17%2f&amp;c=2234649006267840354&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Jan 2026 16:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Syrian army continues advance against Kurdish-held towns despite US calls against it",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb5a4679b405a99d0cdb83979008b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsyrian-troops-sweep-northern-towns-kurdish-fighters-withdraw-2026-01-17%2f&amp;c=562771142751018028&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Jan 2026 14:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Justice Department asks federal judge to deny special master for Epstein files",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696cb5a4679b405a99d0cdb83979008b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fjustice-department-asks-federal-judge-deny-special-master-epstein-files-2026-01-17%2f&amp;c=1553697456997240121&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Jan 2026 10:31:00 GMT",
+        "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "Who will be next to implement an Australia-style under-16s social media ban?",
-        "link": "https://www.cnbc.com/2026/01/18/uk-australia-style-under-16s-social-media-ban.html",
-        "pubDate": "Sun, 18 Jan 2026 07:21:57 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Trump says 8 European nations face tariffs rising to 25% if Greenland isn&apos;t sold to the U.S.",
-        "link": "https://www.cnbc.com/2026/01/17/trump-greenland-tariffs-nato.html",
-        "pubDate": "Sat, 17 Jan 2026 23:26:01 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Disney dominated the 2025 box office. Here&apos;s how it could keep the crown in 2026",
-        "link": "https://www.cnbc.com/2026/01/17/disney-dominated-2025-box-office.html",
-        "pubDate": "Sat, 17 Jan 2026 13:00:01 GMT",
-        "category": "business"
-      }
-    ]
+    "markets": []
   }
 }
