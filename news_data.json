@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-01-18T18:35:36.944299",
+  "updated_at": "2026-01-18T20:30:35.877230",
   "news": {
     "ap": [
       {
         "title": "Social media addiction\u2019s surprising challenger? Anti-doomscrolling influencers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27da71594081a62a462f89444725&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsocial-media-addiction-screen-time-a50f6def00a5723ba61e0a78ba761669&amp;c=361944949372335848&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d427b362e4845bbf9716f1926aaf5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsocial-media-addiction-screen-time-a50f6def00a5723ba61e0a78ba761669&amp;c=361944949372335848&amp;mkt=en-us",
         "pubDate": "Sat, 17 Jan 2026 22:00:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Potter scores 23 as Utah Tech beats Tarleton State 75-71",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27dc87dc4cbf98021cb0757279d0&amp;url=https%3a%2f%2fapnews.com%2farticle%2futah-noah-bolanga-cam-mcdowell-ethan-potter-college-basketball-cb632c5611d54592a6b21344cd9a0711&amp;c=2050360968867033283&amp;mkt=en-us",
-        "pubDate": "Sat, 17 Jan 2026 20:54:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Trump says 8 European countries will face 10% tariff for opposing US control of Greenland",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27d9982e4e94bcddf7b0e6dfaadf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdenmark-greenland-us-trump-4ad99ea3975a8b62d37bd04961feda55&amp;c=8614585269353502420&amp;mkt=en-us",
-        "pubDate": "Sat, 17 Jan 2026 20:08:00 GMT",
-        "category": "us"
       }
     ],
     "npr": [
+      {
+        "title": "European leaders warn Trump&apos;s Greenland tariffs threaten &apos;dangerous downward spiral&apos;",
+        "link": "https://www.npr.org/2026/01/18/nx-s1-5681422/european-leaders-greenland-tariffs-downward-spiral",
+        "pubDate": "Sun, 18 Jan 2026 14:36:56 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Syrian government announces a ceasefire with the Kurdish-led Syrian Democratic Forces",
+        "link": "https://www.npr.org/2026/01/18/nx-s1-5681406/syrian-government-ceasefire-kurdish-syrian-democratic-forces",
+        "pubDate": "Sun, 18 Jan 2026 13:39:48 -0500",
+        "category": "Top News"
+      },
       {
         "title": "U.S. military troops on standby for possible deployment to Minnesota",
         "link": "https://www.npr.org/2026/01/18/nx-s1-5681372/us-military-troops-on-standby-for-possible-deployment-to-minnesota",
@@ -38,7 +38,7 @@
         "title": "Venezuela: Maduro&apos;s enforcer Cabello still central to power",
         "link": "https://www.npr.org/2026/01/18/nx-s1-5678974/venezuela-maduro-enforcer-cabello",
         "pubDate": "Sun, 18 Jan 2026 06:00:00 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Amid ICE clashes, New Hampshire bishop urges clergy to prepare their wills",
@@ -57,20 +57,20 @@
         "link": "https://www.npr.org/2026/01/17/g-s1-106418/us-strike-syria-islamic-state-ambush",
         "pubDate": "Sat, 17 Jan 2026 17:09:12 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "NASA&apos;s Artemis II craft meets the launch pad ahead of crewed lunar orbit",
-        "link": "https://www.npr.org/2026/01/17/g-s1-106406/nasa-rolls-out-artemis-ii",
-        "pubDate": "Sat, 17 Jan 2026 14:12:56 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
         "title": "Government pulls Hillsborough Law amendment after backlash",
         "link": "https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Jan 2026 18:18:05 GMT",
+        "pubDate": "Sun, 18 Jan 2026 19:02:33 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
+        "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 18 Jan 2026 18:44:52 GMT",
+        "category": "world"
       },
       {
         "title": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
@@ -91,16 +91,10 @@
         "category": "Top News"
       },
       {
-        "title": "Reform is not rescue charity for panicky Tory MPs, Farage says",
-        "link": "https://www.bbc.com/news/articles/c4gv9gyxgjjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Jan 2026 11:27:19 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Fears Iran's internet shutdown could lead to 'extreme digital isolation'",
         "link": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 18 Jan 2026 11:09:29 GMT",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Around 1,500 soldiers on standby for deployment to Minneapolis, officials say",
@@ -129,62 +123,62 @@
     ],
     "reuters": [
       {
-        "title": "Pentagon readies 1,500 troops for potential Minnesota deployment, US officials say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27ecc43d4b73b772ed0c53419d75&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpentagon-readies-1500-soldiers-possibly-deploy-minnesota-washington-post-reports-2026-01-18%2f&amp;c=6728877794676571123&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 09:14:00 GMT",
-        "category": "us"
+        "title": "US needs Greenland because of European 'weakness,' Bessent says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d428c28a14fcc960825055a8d36fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-needs-greenland-because-european-weakness-bessent-says-2026-01-18%2f&amp;c=15108133273198699021&amp;mkt=en-us",
+        "pubDate": "Sun, 18 Jan 2026 10:55:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "EU states condemn Trump tariff threats, consider countermeasures",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27ea32ce4faaa9fb940bba6bea48&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrumps-greenland-tariffs-prompt-calls-unprecedented-eu-counter-measures-2026-01-18%2f&amp;c=9969893613876192347&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 09:12:00 GMT",
+        "title": "World markets jolted, euro softens, as Trump vows tariffs on Europe over Greenland",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d428c28a14fcc960825055a8d36fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fworld-markets-face-fresh-jolt-trump-vows-tariffs-europe-over-greenland-2026-01-18%2f&amp;c=1092883349403638201&amp;mkt=en-us",
+        "pubDate": "Sun, 18 Jan 2026 10:38:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Major EU states condemn Trump tariff threats, consider retaliation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d428c28a14fcc960825055a8d36fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrumps-greenland-tariffs-prompt-calls-unprecedented-eu-counter-measures-2026-01-18%2f&amp;c=9969893613876192347&amp;mkt=en-us",
+        "pubDate": "Sun, 18 Jan 2026 09:41:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Cops killed, school canceled in Guatemala as gang violence erupts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27ea32ce4faaa9fb940bba6bea48&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcops-attacked-guatemala-after-police-take-back-prison-gang-leader-2026-01-18%2f&amp;c=3141899014229352443&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d428c28a14fcc960825055a8d36fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcops-attacked-guatemala-after-police-take-back-prison-gang-leader-2026-01-18%2f&amp;c=3141899014229352443&amp;mkt=en-us",
         "pubDate": "Sun, 18 Jan 2026 09:10:00 GMT",
         "category": "Top News"
       },
       {
         "title": "World leaders show caution on Trump's broader 'Board of Peace' amid fears for UN",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27ea32ce4faaa9fb940bba6bea48&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fworld-leaders-show-caution-trumps-broader-board-peace-amid-fears-un-2026-01-18%2f&amp;c=17433136975397204866&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d428c28a14fcc960825055a8d36fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fworld-leaders-show-caution-trumps-broader-board-peace-amid-fears-un-2026-01-18%2f&amp;c=17433136975397204866&amp;mkt=en-us",
         "pubDate": "Sun, 18 Jan 2026 07:03:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Bill to allow Uber, Lyft in Israel gains committee approval",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27ee57684a19b73fe2fe27a1aed7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fbill-allow-uber-lyft-israel-gains-committee-approval-2026-01-18%2f&amp;c=12343881723980824086&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 06:13:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "World markets face fresh jolt as Trump vows tariffs on Europe over Greenland",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27ebdf3c46ad9a687d5a280116bc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fworld-markets-face-fresh-jolt-trump-vows-tariffs-europe-over-greenland-2026-01-18%2f&amp;c=1092883349403638201&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Jan 2026 05:36:00 GMT",
-        "category": "world"
+        "title": "Brignone could return to Alpine World Cup on Tuesday after injury",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d428c28a14fcc960825055a8d36fa&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbrignone-could-return-alpine-world-cup-tuesday-after-injury-2026-01-18%2f&amp;c=10093518485606433220&amp;mkt=en-us",
+        "pubDate": "Sun, 18 Jan 2026 04:35:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Anti-ICE demonstrators chase off outnumbered far-right activists at Minneapolis rally",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27ea32ce4faaa9fb940bba6bea48&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fduelling-rallies-planned-minneapolis-ice-keeps-area-edge-2026-01-17%2f&amp;c=2234649006267840354&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d428c28a14fcc960825055a8d36fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fduelling-rallies-planned-minneapolis-ice-keeps-area-edge-2026-01-17%2f&amp;c=2234649006267840354&amp;mkt=en-us",
         "pubDate": "Sun, 18 Jan 2026 04:24:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Libya's security authorities free more than 200 migrants from 'secret prison', two security sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27ea32ce4faaa9fb940bba6bea48&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2flibyas-security-authorities-free-more-than-200-migrants-secret-prison-two-2026-01-18%2f&amp;c=2482709576505450108&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d428c28a14fcc960825055a8d36fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2flibyas-security-authorities-free-more-than-200-migrants-secret-prison-two-2026-01-18%2f&amp;c=2482709576505450108&amp;mkt=en-us",
         "pubDate": "Sun, 18 Jan 2026 04:04:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Syrian forces seize major oil, gas fields in eastern Syria, security sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27ea32ce4faaa9fb940bba6bea48&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsyrian-forces-seize-major-oil-gas-fields-eastern-syria-security-sources-say-2026-01-18%2f&amp;c=7015645184858582011&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d428c28a14fcc960825055a8d36fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsyrian-forces-seize-major-oil-gas-fields-eastern-syria-security-sources-say-2026-01-18%2f&amp;c=7015645184858582011&amp;mkt=en-us",
         "pubDate": "Sun, 18 Jan 2026 03:52:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Greenland welcomes European response to Trump's tariffs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d27edcb5c46ca8b5a96717304dd9c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fgreenland-welcomes-european-response-trumps-tariffs-2026-01-18%2f&amp;c=11686494747451410057&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=696d42ab97f14904b3767f7fc8d73e24&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fgreenland-welcomes-european-response-trumps-tariffs-2026-01-18%2f&amp;c=11686494747451410057&amp;mkt=en-us",
         "pubDate": "Sun, 18 Jan 2026 03:03:00 GMT",
         "category": "business"
       }
@@ -201,12 +195,6 @@
         "link": "https://www.cnbc.com/2026/01/17/trump-jpmorgan-chase-debanking.html",
         "pubDate": "Sun, 18 Jan 2026 13:47:50 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Top Wall Street analysts are confident about these three stocks for the long term",
-        "link": "https://www.cnbc.com/2026/01/18/top-wall-street-analysts-are-confident-about-these-three-stocks-for-the-long-term.html",
-        "pubDate": "Sun, 18 Jan 2026 12:30:59 GMT",
-        "category": "us"
       },
       {
         "title": "Chinese EV giant BYD is a buy \u2014 and not just for its cars, Bernstein says",
