@@ -1,21 +1,57 @@
 {
-  "updated_at": "2026-01-21T17:03:13.556388",
+  "updated_at": "2026-01-21T18:53:59.387373",
   "news": {
     "ap": [
       {
+        "title": "From the NFL sidelines to a US Senate race: Michele Tafoya\u2019s new play",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6971205690004732bfce49d5d6ff2a16&amp;url=https%3a%2f%2fapnews.com%2farticle%2fminnesota-senate-michele-tafoya-nfl-election-f5820b62e48bddd48490264a96d334a8&amp;c=6445498066262245892&amp;mkt=en-us",
+        "pubDate": "Wed, 21 Jan 2026 08:55:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "This just in from The New York Times: Its first 2-player game, and an evolving business model",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69712058fe37480b8ee7c6a10c136655&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnew-york-times-wordle-games-app-4ab76097d6155a022f089d03e94807c3&amp;c=11861397381880605129&amp;mkt=en-us",
+        "pubDate": "Wed, 21 Jan 2026 06:02:00 GMT",
+        "category": "business"
+      },
+      {
         "title": "Nivar and the North Carolina Tar Heels take on conference foe Georgia Tech",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106ac8171460683b985fc646d6c20&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnorth-carolina-tar-heels-georgia-tech-yellow-jackets-north-carolina-atlantic-coast-conference-college-basketball-f74d391d05854bd68eb825bc3a1a63c6&amp;c=13201910082978873196&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6971205aa6114b1ab05f3ffde57b9d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnorth-carolina-tar-heels-georgia-tech-yellow-jackets-north-carolina-atlantic-coast-conference-college-basketball-f74d391d05854bd68eb825bc3a1a63c6&amp;c=13201910082978873196&amp;mkt=en-us",
         "pubDate": "Wed, 21 Jan 2026 01:45:00 GMT",
         "category": "tech"
       },
       {
         "title": "Svitolina is refreshed after a mental health break and into Australian Open\u2019s 3rd round",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106ad47aa41b1960ee6269abacf38&amp;url=https%3a%2f%2fapnews.com%2farticle%2felina-svitolina-australian-open-423ca1d4fdb6ddd0e37e6ddaeb5bf7bd&amp;c=4289597063904893826&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6971205a8bd643d2a9db0cc5f9f89e05&amp;url=https%3a%2f%2fapnews.com%2farticle%2felina-svitolina-australian-open-423ca1d4fdb6ddd0e37e6ddaeb5bf7bd&amp;c=4289597063904893826&amp;mkt=en-us",
         "pubDate": "Tue, 20 Jan 2026 21:43:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Global buzzwords that will be buzzing in your ear in 2026",
+        "link": "https://www.npr.org/2026/01/21/g-s1-106572/global-buzzwords-disease-x-aid-cuts-health",
+        "pubDate": "Wed, 21 Jan 2026 12:55:20 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Are ICE agents in Minneapolis breaking the law?",
+        "link": "https://www.npr.org/2026/01/21/nx-s1-5683915/are-ice-agents-in-minneapolis-breaking-the-law",
+        "pubDate": "Wed, 21 Jan 2026 12:33:16 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Supreme Court appears wary of allowing Trump to fire Fed&apos;s Cook in closely watched case",
+        "link": "https://www.npr.org/2026/01/21/nx-s1-5683968/supreme-court-federal-reserve-lisa-cook",
+        "pubDate": "Wed, 21 Jan 2026 12:12:28 -0500",
+        "category": "business"
+      },
+      {
+        "title": "Sundance prepares for its final Park City festival before moving to Boulder, Colo.",
+        "link": "https://www.npr.org/2026/01/21/nx-s1-5631847/sundance-film-festival-park-city",
+        "pubDate": "Wed, 21 Jan 2026 12:01:00 -0500",
+        "category": "Top News"
+      },
       {
         "title": "Greetings from Kalk Bay, a South African fishing village where wild seals await scraps",
         "link": "https://www.npr.org/2026/01/21/g-s1-106277/south-africa-kalk-bay",
@@ -26,7 +62,7 @@
         "title": "What to expect from Trump&apos;s Davos speech. And, the DOJ subpoenas Minnesota officials",
         "link": "https://www.npr.org/2026/01/21/g-s1-106649/up-first-newsletter-trump-world-economic-forum-doj-subpoenas-minnesota-scotus-fed",
         "pubDate": "Wed, 21 Jan 2026 07:11:33 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Blinken and British counterpart signal trans-Atlantic unity with visit to Ukraine",
@@ -38,13 +74,7 @@
         "title": "How North Carolina erased medical debt for 2.5 million people",
         "link": "https://www.npr.org/2026/01/21/nx-s1-5678541/north-carolina-undue-medical-debt-erased",
         "pubDate": "Wed, 21 Jan 2026 07:00:00 -0500",
-        "category": "health"
-      },
-      {
-        "title": "It&apos;s showdown time for the Fed&apos;s independence at the Supreme Court",
-        "link": "https://www.npr.org/2026/01/21/nx-s1-5674893/supreme-court-federal-reserve-lisa-cook",
-        "pubDate": "Wed, 21 Jan 2026 05:00:00 -0500",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Trump administration claims offshore wind poses a threat. But it won&apos;t say how.",
@@ -57,74 +87,56 @@
         "link": "https://www.npr.org/2026/01/21/nx-s1-5674887/ice-budget-funding-congress-trump",
         "pubDate": "Wed, 21 Jan 2026 05:00:00 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "How the word &apos;cravat&apos; came from the battlefields of 17th century Europe",
-        "link": "https://www.npr.org/2026/01/21/nx-s1-5682323/cravat-word-of-the-week",
-        "pubDate": "Wed, 21 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says &apos;I won&apos;t use force&apos; to obtain Greenland in Davos speech",
-        "link": "https://www.npr.org/2026/01/21/nx-s1-5683078/trump-davos-speech-tariffs-greenland",
-        "pubDate": "Wed, 21 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "1 year into Trump&apos;s new term, an agency that protects your finances is &apos;hanging by a thread&apos;",
-        "link": "https://www.npr.org/2026/01/21/nx-s1-5683060/cfpb-consumer-watchdog-agency-trump-second-term",
-        "pubDate": "Wed, 21 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Harry says Mail publisher made his wife Meghan's 'life a misery'",
-        "link": "https://www.bbc.com/news/articles/cd7z4pey24ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Jan 2026 16:45:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Woman guilty of keeping slave for 25 years",
+        "title": "Mother-of-10 guilty of keeping vulnerable woman as slave for 25 years",
         "link": "https://www.bbc.com/news/articles/c78v36g4pnno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Jan 2026 16:38:10 GMT",
+        "pubDate": "Wed, 21 Jan 2026 18:32:40 GMT",
         "category": "Top News"
       },
       {
-        "title": "I will not yield to Trump's pressure on Greenland, says PM",
-        "link": "https://www.bbc.com/news/articles/c98j90y2y6lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Jan 2026 16:15:23 GMT",
+        "title": "Supreme Court sceptical of Trump firing of Lisa Cook",
+        "link": "https://www.bbc.com/news/articles/ckgjm50r14go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Jan 2026 18:04:17 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Tetchy and emotional exchanges as Harry in court for what could be last time",
+        "link": "https://www.bbc.com/news/articles/c07x53vjegvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Jan 2026 17:59:51 GMT",
         "category": "Top News"
       },
       {
-        "title": "Prue Leith leaves The Great British Bake Off",
-        "link": "https://www.bbc.com/news/articles/cm2j80g4vy3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Jan 2026 16:06:13 GMT",
+        "title": "Watch: How was Trump's Davos speech received?",
+        "link": "https://www.bbc.com/news/videos/cgk8evvl0jno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Jan 2026 17:22:33 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Watch: Faisal Islam considers how Trump's Davos speech was received",
+        "link": "https://www.bbc.com/news/videos/cgk8evvl0jno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Jan 2026 17:22:33 GMT",
         "category": "Top News"
       },
       {
-        "title": "Could US Congress stop Trump from taking over Greenland?",
-        "link": "https://www.bbc.com/news/articles/c701rvrpjwko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Jan 2026 15:06:31 GMT",
+        "title": "EU suspends approval of US trade deal",
+        "link": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Jan 2026 16:55:22 GMT",
         "category": "world"
+      },
+      {
+        "title": "Oldest cave painting of red claw hand  could rewrite human creativity timeline",
+        "link": "https://www.bbc.com/news/articles/czx1pnlzer5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Jan 2026 16:00:07 GMT",
+        "category": "Top News"
       },
       {
         "title": "How the NHS became the battleground in the trans debate facing workplaces",
         "link": "https://www.bbc.com/news/articles/c7v0l25mr2ro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 21 Jan 2026 11:54:39 GMT",
         "category": "health"
-      },
-      {
-        "title": "UK inflation rises for first time in five months - but one-off factors blamed",
-        "link": "https://www.bbc.com/news/articles/cnvg251g25yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Jan 2026 10:51:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Trump doubles down on Greenland ahead of Davos visit, saying there is 'no going back'",
-        "link": "https://www.bbc.com/news/articles/cvgr19m642zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Jan 2026 06:42:52 GMT",
-        "category": "us"
       },
       {
         "title": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
@@ -141,120 +153,18 @@
     ],
     "reuters": [
       {
-        "title": "Merck partners with global health coalition to develop affordable Ebola vaccine",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106ba9f364440be3841f1ffdcb3ba&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmerck-partners-with-global-health-coalition-develop-affordable-ebola-vaccine-2026-01-21%2f&amp;c=12948622256127495515&amp;mkt=en-us",
-        "pubDate": "Wed, 21 Jan 2026 07:02:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Trump says he will meet with Ukraine's Zelenskiy, deal 'reasonably close'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106b20b3a4433808fc449bab3c940&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-says-he-will-meet-with-ukraines-zelenskiy-deal-reasonably-close-2026-01-21%2f&amp;c=65489028409499074&amp;mkt=en-us",
-        "pubDate": "Wed, 21 Jan 2026 06:57:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "EU lawmakers stall US trade deal in protest over Greenland",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106b7785b448280293cb3f3e6e96b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2feuropean-parliament-suspends-work-eu-us-trade-deal-after-trumps-repeated-2026-01-21%2f&amp;c=4265208436030331709&amp;mkt=en-us",
-        "pubDate": "Wed, 21 Jan 2026 06:44:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Live: Trump delivers Davos speech as tensions with Europe grow over Greenland",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106b20b3a4433808fc449bab3c940&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdavos-live-trump-make-speech-davos-tensions-with-europe-grow-over-greenland-2026-01-21%2f&amp;c=253740952091221032&amp;mkt=en-us",
-        "pubDate": "Wed, 21 Jan 2026 05:32:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "JPMorgan's Dimon warns of 'economic disaster' if credit card rate cap is implemented",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106b20b3a4433808fc449bab3c940&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fdavos%2fjpmorgan-ceo-dimon-says-credit-card-rate-cap-will-be-an-economic-disaster-2026-01-21%2f&amp;c=1292044283276333681&amp;mkt=en-us",
-        "pubDate": "Wed, 21 Jan 2026 05:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "ICC rejects Bangladesh demand to shift T20 World Cup matches outside India",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106b461f84fc892512a7275f15bc1&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2ficc-rejects-bangladesh-demand-shift-t20-world-cup-matches-outside-india-2026-01-21%2f&amp;c=12231276386277601838&amp;mkt=en-us",
-        "pubDate": "Wed, 21 Jan 2026 04:41:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Europe's far right and populists distance themselves from Trump over Greenland",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106b20b3a4433808fc449bab3c940&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feuropes-far-right-populists-distance-themselves-trump-over-greenland-2026-01-21%2f&amp;c=14339594929783370927&amp;mkt=en-us",
-        "pubDate": "Wed, 21 Jan 2026 04:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Britain will not yield to pressure from Trump on Greenland, Starmer says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106b20b3a4433808fc449bab3c940&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fbritain-will-not-yield-pressure-trump-greenland-starmer-says-2026-01-21%2f&amp;c=17486061967827400068&amp;mkt=en-us",
-        "pubDate": "Wed, 21 Jan 2026 04:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: Meta's new AI team delivered first key models internally this month, CTO says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106b99ee448bf95d6acdedef3dee3&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fmetas-new-ai-team-has-delivered-first-key-models-internally-this-month-cto-says-2026-01-21%2f&amp;c=4585430505842341339&amp;mkt=en-us",
-        "pubDate": "Wed, 21 Jan 2026 03:49:00 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Siemens Energy CEO to attend Trump meeting with business leaders, chairman says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697106b72da74c2dbc58821f244215e0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fdavos%2fsiemens-energy-ceo-attend-trump-meeting-with-business-leaders-chairman-says-2026-01-21%2f&amp;c=8361934776250818992&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6971206e36d04006b8f6e003d200f373&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fdavos%2fsiemens-energy-ceo-attend-trump-meeting-with-business-leaders-chairman-says-2026-01-21%2f&amp;c=8361934776250818992&amp;mkt=en-us",
         "pubDate": "Wed, 21 Jan 2026 01:07:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "Trump calls for Congress to enact 10% credit card interest rate cap; bank stocks rise",
-        "link": "https://www.cnbc.com/2026/01/21/trump-congress-10percent-credit-card-interest-rate-cap.html",
-        "pubDate": "Wed, 21 Jan 2026 16:56:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe",
-        "link": "https://www.cnbc.com/2026/01/21/berkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html",
-        "pubDate": "Wed, 21 Jan 2026 16:42:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Broadcom CEO told TD Cowen analysts there&apos;s insatiable demand for its chips",
-        "link": "https://www.cnbc.com/2026/01/21/broadcom-ceo-told-td-cowen-theres-insatiable-demand-for-chips.html",
-        "pubDate": "Wed, 21 Jan 2026 16:42:04 GMT",
-        "category": "us"
-      },
-      {
         "title": "Tech stocks rebound after Trump says U.S. won&apos;t use military force in Greenland",
         "link": "https://www.cnbc.com/2026/01/21/trump-tech-stocks-jump-greenland-military.html",
-        "pubDate": "Wed, 21 Jan 2026 16:37:42 GMT",
+        "pubDate": "Wed, 21 Jan 2026 17:29:25 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Jamie Dimon says U.S. should impose Trump&apos;s credit card rate cap in Vermont and Massachusetts",
-        "link": "https://www.cnbc.com/2026/01/21/jamie-dimon-trump-credit-card-rate-cap-vermont-massachusetts.html",
-        "pubDate": "Wed, 21 Jan 2026 15:50:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump tells world leaders: Europe is not heading in the right direction",
-        "link": "https://www.cnbc.com/2026/01/21/trump-davos-europe-speech-greenland.html",
-        "pubDate": "Wed, 21 Jan 2026 14:57:04 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here&apos;s what that means",
-        "link": "https://www.cnbc.com/2026/01/20/powell-could-stay-at-fed-even-after-being-removed-as-chair.html",
-        "pubDate": "Wed, 21 Jan 2026 14:02:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Netflix, United Airlines, Kraft Heinz &amp; more",
-        "link": "https://www.cnbc.com/2026/01/21/stocks-making-the-biggest-moves-premarket-nflx-ual-khc.html",
-        "pubDate": "Wed, 21 Jan 2026 13:04:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bessent says Trump&apos;s pick for the next Fed chair could happen next week",
-        "link": "https://www.cnbc.com/2026/01/20/bessent-says-trumps-pick-for-the-next-fed-chair-could-happen-next-week.html",
-        "pubDate": "Tue, 20 Jan 2026 23:20:36 GMT",
-        "category": "Top News"
       }
     ]
   }
