@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-01-23T14:34:19.269585",
+  "updated_at": "2026-01-23T16:39:19.935274",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Floods push crocodiles into Mozambican towns as health concerns rise",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6973a3fba54b452bb687909cb44167d2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmozambique-floods-crocodiles-health-ebfc9dfd5eafeabc441284b122ff69fd&amp;c=4916645334378299070&amp;mkt=en-us",
+        "pubDate": "Fri, 23 Jan 2026 07:53:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "There is a massive demand for World Cup tickets and savvy resellers could be big winners",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6973a3eee3274f689e3c2585196711a1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-tickets-price-fifa-697281ba3b1c7106804f9c251aff96b2&amp;c=854340254549723005&amp;mkt=en-us",
+        "pubDate": "Fri, 23 Jan 2026 07:48:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Economic leaders at Davos say global growth is resilient despite disruption from Trump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6973a3efae704e48bfe8b4fff019ab8c&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-trade-global-economy-growth-ac5cb2e0a2f75b14dec3d9a3a7fe258b&amp;c=8797614330812158064&amp;mkt=en-us",
+        "pubDate": "Fri, 23 Jan 2026 04:31:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Vietnam leader To Lam consolidates power as country targets 10% growth",
+        "link": "https://www.npr.org/2026/01/23/g-s1-106993/vietnam-leader-to-lam-consolidates-power-as-country-targets-10-growth",
+        "pubDate": "Fri, 23 Jan 2026 09:40:47 -0500",
+        "category": "world"
+      },
       {
         "title": "Millions of Americans brace for winter storm. And, Zelenskyy&apos;s warning for Europe",
         "link": "https://www.npr.org/2026/01/23/g-s1-106988/up-first-newsletter-winter-storm-minnesota-immigration-zelenskyy-davos",
         "pubDate": "Fri, 23 Jan 2026 06:59:29 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Minneapolis union president talks about economic blackout to protest ICE&apos;s actions",
@@ -46,12 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "Trump pushes his power to new heights with help from loyal lieutenants",
-        "link": "https://www.npr.org/2026/01/23/nx-s1-5639914/trump-pushes-his-power-to-new-heights-with-help-from-loyal-lieutenants",
-        "pubDate": "Fri, 23 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "China&apos;s auto industry is rising as car manufacturing in the U.S. struggles",
         "link": "https://www.npr.org/2026/01/23/nx-s1-5684965/chinas-auto-industry-is-rising-as-car-manufacturing-in-the-u-s-struggles",
         "pubDate": "Fri, 23 Jan 2026 04:48:09 -0500",
@@ -66,28 +85,40 @@
     ],
     "bbc": [
       {
+        "title": "Former councillor pleads guilty to drugging and raping ex-wife over 13 years",
+        "link": "https://www.bbc.com/news/articles/c4grr3368n3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 23 Jan 2026 16:14:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Missed opportunity to take amateur footballer to hospital before sepsis death, inquest hears",
+        "link": "https://www.bbc.com/news/articles/c4g04e96eyxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 23 Jan 2026 16:12:12 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "What does a new US TikTok deal mean for users?",
         "link": "https://www.bbc.com/news/articles/cq5yynydvgzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 23 Jan 2026 14:21:54 GMT",
+        "pubDate": "Fri, 23 Jan 2026 16:07:41 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
-        "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 23 Jan 2026 14:12:35 GMT",
-        "category": "world"
-      },
-      {
-        "title": "High stakes but low expectations ahead of Ukraine talks with Russia and US",
-        "link": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 23 Jan 2026 14:06:10 GMT",
-        "category": "Top News"
       },
       {
         "title": "Heathrow scraps 100ml liquid container limit",
         "link": "https://www.bbc.com/news/articles/c1evvx89559o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 23 Jan 2026 13:11:57 GMT",
+        "pubDate": "Fri, 23 Jan 2026 15:53:25 GMT",
         "category": "business"
+      },
+      {
+        "title": "High stakes but low expectations ahead of Ukraine talks with Russia and US",
+        "link": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 23 Jan 2026 15:36:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
+        "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 23 Jan 2026 14:59:43 GMT",
+        "category": "world"
       },
       {
         "title": "Brooklyn Beckham's wedding DJ speaks about 'awkward' dance",
@@ -96,22 +127,10 @@
         "category": "Top News"
       },
       {
-        "title": "Driver admits killing teen freed from Dubai jail",
-        "link": "https://www.bbc.com/news/articles/c7v002q924qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 23 Jan 2026 12:35:18 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "US braces for 'extremely dangerous' winter storm",
         "link": "https://www.bbc.com/news/articles/c0r44l05q52o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 23 Jan 2026 12:08:30 GMT",
         "category": "us"
-      },
-      {
-        "title": "How long would you last in the Traitors castle? Take our test to find out",
-        "link": "https://www.bbc.com/news/articles/c8e55422k91o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 23 Jan 2026 12:00:31 GMT",
-        "category": "Top News"
       },
       {
         "title": "US officially leaves World Health Organization",
@@ -128,24 +147,54 @@
     ],
     "reuters": [
       {
-        "title": "Euro zone business activity expands steadily but price pressures reemerge",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6973869f0c1e421c8cf4034ba8d46c62&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2feuro-zone-business-activity-expands-more-slowly-than-expected-january-2026-01-23%2f&amp;c=8507668524372253218&amp;mkt=en-us",
-        "pubDate": "Fri, 23 Jan 2026 01:45:00 GMT",
+        "title": "Brazil's instant coffee sector seeks clarity on US decision to keep 50% tariff",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6973a4197f8b4ffdb542899227e4fd60&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbrazils-instant-coffee-sector-seeks-clarity-us-decision-keep-50-tariff-2026-01-23%2f&amp;c=18171536472574163743&amp;mkt=en-us",
+        "pubDate": "Fri, 23 Jan 2026 07:28:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Health care ambient scribes offer promise but create new legal frontiers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6973a424c3874881895afe36ab794863&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fhealth-care-ambient-scribes-offer-promise-create-new-legal-frontiers--pracin-2026-01-23%2f&amp;c=3185741680030661299&amp;mkt=en-us",
+        "pubDate": "Fri, 23 Jan 2026 07:15:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "US business activity stable in January; price pressures persist",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6973a422d3ca4474a0c2ad3343d20460&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-business-activity-stable-january-price-pressures-persist-2026-01-23%2f&amp;c=11742027392446007327&amp;mkt=en-us",
+        "pubDate": "Fri, 23 Jan 2026 05:49:00 GMT",
         "category": "business"
       },
       {
-        "title": "Putin agrees next steps with US envoys but Kremlin says territory is key",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6973869fc3354086b0b23534c6750d73&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fputin-meets-us-envoys-late-night-talks-ukraine-2026-01-22%2f&amp;c=11577404946625648507&amp;mkt=en-us",
-        "pubDate": "Fri, 23 Jan 2026 00:25:00 GMT",
-        "category": "us"
+        "title": "Belgium to play Tunisia in final World Cup warm-up",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6973a417fc6e4a098ec7fd62dbeba983&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fbelgium-play-tunisia-final-world-cup-warm-up-2026-01-23%2f&amp;c=17498875312662577171&amp;mkt=en-us",
+        "pubDate": "Fri, 23 Jan 2026 05:47:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "China's power, energy and clean technology milestones in 2025",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6973a42393e240fb8c7e8ed1182c2268&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fcommodities%2fchinas-power-energy-clean-technology-milestones-2025-2026-01-23%2f&amp;c=4539734105905206574&amp;mkt=en-us",
+        "pubDate": "Fri, 23 Jan 2026 02:00:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Trump sues JPMorgan, Intel&apos;s soft guidance, TikTok&apos;s joint venture and more in Morning Squawk",
-        "link": "https://www.cnbc.com/2026/01/23/5-things-to-know-before-the-stock-market-opens.html",
-        "pubDate": "Fri, 23 Jan 2026 13:27:07 GMT",
-        "category": "tech"
+        "title": "There&apos;s a new idea of alpha in the market that big money managers are pursuing",
+        "link": "https://www.cnbc.com/2026/01/23/investing-market-stocks-bonds-gold-cash-commodities.html",
+        "pubDate": "Fri, 23 Jan 2026 16:28:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Intel&apos;s likely to still move higher. Here&apos;s a &apos;no-cost&apos; options strategy to play it",
+        "link": "https://www.cnbc.com/2026/01/23/intels-likely-to-still-move-higher-heres-a-no-cost-options-strategy-to-play-it-.html",
+        "pubDate": "Fri, 23 Jan 2026 16:17:36 GMT",
+        "category": "us"
+      },
+      {
+        "title": "A former Trump official wants to build a massive data center in a remote corner of Greenland. Will it work?",
+        "link": "https://www.cnbc.com/2026/01/23/greenland-data-center-trump-greenmet.html",
+        "pubDate": "Fri, 23 Jan 2026 16:09:55 GMT",
+        "category": "world"
       },
       {
         "title": "Stocks making the biggest moves premarket: Intel, Nvidia, Life360, Capital One &amp; more",
@@ -160,21 +209,21 @@
         "category": "Top News"
       },
       {
+        "title": "What obesity drugmakers see next in the market: More pills, easier access and drug combinations",
+        "link": "https://www.cnbc.com/2026/01/23/weight-loss-glp-1-drugs-next-steps-for-eli-lilly-novo-nordisk-pfizer.html",
+        "pubDate": "Fri, 23 Jan 2026 12:50:24 GMT",
+        "category": "health"
+      },
+      {
         "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
         "link": "https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html",
         "pubDate": "Fri, 23 Jan 2026 12:48:57 GMT",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Nvidia\u2019s Huang to visit China as AI chip sales stall",
         "link": "https://www.cnbc.com/2026/01/23/nvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html",
         "pubDate": "Fri, 23 Jan 2026 12:31:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Alibaba-backed startup Moonshot AI&apos;s valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
-        "link": "https://www.cnbc.com/2026/01/19/alibaba-backed-startup-moonshot-ai-alibabi-backed-startup-chinese-ai-ipo.html",
-        "pubDate": "Fri, 23 Jan 2026 06:31:20 GMT",
         "category": "Top News"
       },
       {
@@ -187,12 +236,6 @@
         "title": "Rieder odds rising for Fed chair after Trump calls BlackRock executive &apos;very impressive&apos;",
         "link": "https://www.cnbc.com/2026/01/22/rieder-odds-rising-for-fed-chair-after-trump-calls-blackrock-executive-very-impressive.html",
         "pubDate": "Thu, 22 Jan 2026 18:39:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Jamie Dimon issues rare CEO criticism of Trump&apos;s immigration policy: &apos;I don\u2019t like what I\u2019m seeing&apos;",
-        "link": "https://www.cnbc.com/2026/01/21/jamie-dimon-trump-immigration-policy.html",
-        "pubDate": "Thu, 22 Jan 2026 16:04:58 GMT",
         "category": "Top News"
       }
     ]
