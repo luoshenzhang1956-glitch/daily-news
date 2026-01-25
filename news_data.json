@@ -1,26 +1,50 @@
 {
-  "updated_at": "2026-01-24T22:26:58.393332",
+  "updated_at": "2026-01-25T02:26:21.292018",
   "news": {
     "ap": [
       {
-        "title": "Trump stirs talk of \u2018new world order\u2019 as leaders signal shifting global alliances",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697546dd165544c3b1e9f5384703be7b&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-nato-greenland-board-of-peace-diplomacy-39dafe866bab610a18f103622fc7d5fe&amp;c=10604130946643061506&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 06:50:00 GMT",
+        "title": "The man killed by a US Border Patrol officer in Minneapolis was an ICU nurse, family says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f2c11ff4524864f0018ffb9c0a6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fimmigration-enforcement-minnesota-protester-alex-pretti-15ade7de6e19cb0291734e85dac763dc&amp;c=2629052722662296882&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 16:26:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Skippylongstocking rallies in stretch, wins $3 million Pegasus World Cup at Gulfstream",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f2b1f8d4f788e46b1843760b4c9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpegasus-world-cup-gulfstream-park-30686fe86e07cf98487cdd8491deef90&amp;c=2937170294854145434&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 15:20:00 GMT",
         "category": "world"
       },
       {
         "title": "AP photographer uses infrared technology to show how it is used as a surveillance tool",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697546ee59ca4c6fa4616487f8a775c6&amp;url=https%3a%2f%2fapnews.com%2farticle%2f2025-invisible-infrared-surveillance-technology-extraordinary-photo&amp;c=1383852989085782464&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 00:07:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f2dd9684b13aea830f58bb15f7f&amp;url=https%3a%2f%2fapnews.com%2farticle%2f2025-invisible-infrared-surveillance-technology-extraordinary-photo&amp;c=1383852989085782464&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 13:56:00 GMT",
         "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "Russian strikes knock out heat in freezing Kyiv as peace talks continue",
+        "link": "https://www.npr.org/2026/01/24/g-s1-107248/russia-strikes-kyiv-cold",
+        "pubDate": "Sat, 24 Jan 2026 19:42:24 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Federal officers kill a man in Minneapolis, and DHS offers few details",
+        "link": "https://www.npr.org/2026/01/24/nx-s1-5687309/federal-officers-kill-a-man-in-minneapolis-and-dhs-offers-few-details",
+        "pubDate": "Sat, 24 Jan 2026 17:36:15 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Photos: Massive winter storm sweeps across the U.S.",
+        "link": "https://www.npr.org/2026/01/24/nx-s1-5685163/photos-massive-winter-storm-sweeps-u-s",
+        "pubDate": "Sat, 24 Jan 2026 17:35:48 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Man shot dead by federal immigration officers in Minneapolis",
         "link": "https://www.npr.org/2026/01/24/nx-s1-5687276/man-shot-dead-minneapolis",
         "pubDate": "Sat, 24 Jan 2026 14:01:37 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "A man is fatally shot by federal agents in Minneapolis",
@@ -32,7 +56,7 @@
         "title": "Trump threatens Canada with 100% tariffs over its new trade deal with China",
         "link": "https://www.npr.org/2026/01/24/nx-s1-5687236/canada-china-tariffs-trump",
         "pubDate": "Sat, 24 Jan 2026 11:53:17 -0500",
-        "category": "world"
+        "category": "business"
       },
       {
         "title": "Heavy snow and rainfall kill 61, injure 110 over 3 days in Afghanistan",
@@ -57,27 +81,33 @@
         "link": "https://www.npr.org/2026/01/24/nx-s1-5686372/why-these-catholic-cardinals-released-a-statement-critical-of-the-trumps-foreign-policy",
         "pubDate": "Sat, 24 Jan 2026 07:28:11 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "As the winter storm rages, here&apos;s what to know in your state",
-        "link": "https://www.npr.org/2026/01/24/nx-s1-5687179/as-the-winter-storm-rages-heres-what-to-know-in-your-state",
-        "pubDate": "Sat, 24 Jan 2026 05:51:54 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "A deadly standoff in 1992 changed federal use-of-force rules. Here&apos;s why it matters",
-        "link": "https://www.npr.org/2026/01/24/nx-s1-5684002/ice-minnesota-minneapolis-renee-macklin-good-ruby-ridge-idaho-deadly-force",
-        "pubDate": "Sat, 24 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Is Greenland really a land of untapped riches? A geologist went looking in the 1990s",
-        "link": "https://www.npr.org/2026/01/23/nx-s1-5685198/is-greenland-really-a-land-of-untapped-riches-a-geologist-went-looking-in-the-1990s",
-        "pubDate": "Fri, 23 Jan 2026 17:30:17 -0500",
-        "category": "business"
       }
     ],
     "bbc": [
+      {
+        "title": "I joined the Tories for the partying, says Kemi Badenoch",
+        "link": "https://www.bbc.com/news/articles/crkrrknxe08o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 25 Jan 2026 00:54:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "As the world inches back to a pre-WW2 order, the 'middle powers' face a grave new challenge",
+        "link": "https://www.bbc.com/news/articles/c99kkerr93ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 25 Jan 2026 00:25:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What we know about man shot dead by federal agents in Minneapolis",
+        "link": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 24 Jan 2026 22:55:31 GMT",
+        "category": "us"
+      },
+      {
+        "title": "'British FBI' to take over terror and fraud probes in reforms to police",
+        "link": "https://www.bbc.com/news/articles/cm2yr95md71o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 24 Jan 2026 22:30:18 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
         "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&amp;at_campaign=rss",
@@ -97,12 +127,6 @@
         "category": "Top News"
       },
       {
-        "title": "Pier washes away and railway sea wall crumbles in storm",
-        "link": "https://www.bbc.com/news/articles/c9qp5ydq0zqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 24 Jan 2026 20:16:58 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Andy Burnham seeks permission to stand in by-election to become MP",
         "link": "https://www.bbc.com/news/articles/cn408vmxrg8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 24 Jan 2026 19:13:36 GMT",
@@ -115,98 +139,86 @@
         "category": "business"
       },
       {
-        "title": "Labour wants to shake up the police - but will that solve 'everyday crime epidemic'?",
-        "link": "https://www.bbc.com/news/articles/c2k98jw3xnxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 24 Jan 2026 12:27:09 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "NHS cancer gene database to identify patients at risk",
         "link": "https://www.bbc.com/news/articles/c62v7l4v7gro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 24 Jan 2026 09:28:10 GMT",
         "category": "health"
-      },
-      {
-        "title": "US braces for 'extremely dangerous' winter storm",
-        "link": "https://www.bbc.com/news/articles/c0r44l05q52o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 24 Jan 2026 03:33:47 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Is China quietly winning the AI race?",
-        "link": "https://www.bbc.com/news/articles/c86v52gv726o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 23 Jan 2026 22:31:33 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "Mbappe double powers Real Madrid past Villarreal to top of LaLiga",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69754709b0ec46e8bacc671bc070b121&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fmbappe-double-powers-real-madrid-past-villarreal-top-laliga-2026-01-24%2f&amp;c=3029882950436684314&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 13:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'It's time to start doing something.' Despite risks of violence, Minnesotans step up to take on ICE",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69754709b0ec46e8bacc671bc070b121&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fits-time-start-doing-something-despite-risks-violence-minnesotans-step-up-take-2026-01-24%2f&amp;c=14220637955339509504&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 13:09:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Federal immigration agents kill another US citizen in Minneapolis, sparking protests",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69754709b0ec46e8bacc671bc070b121&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fminnesota-governor-says-federal-agents-involved-shooting-minneapolis-2026-01-24%2f&amp;c=11226883514074698472&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 12:51:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f31af214cff924d556c6c839ebb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fminnesota-governor-says-federal-agents-involved-shooting-minneapolis-2026-01-24%2f&amp;c=11226883514074698472&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 17:19:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "U.S. winter storm leads to more than 100,000 power outages, thousands of flight cancellations",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f30e38843acb068a90e99f86d17&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fthousands-flights-canceled-ahead-us-winter-storm-2026-01-24%2f&amp;c=8676441528830363781&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 16:12:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Hermes designer bows out after 37 years with final menswear show in Paris",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6975471821444ce48a30ac9bdcdaedb1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fhermes-designer-bows-out-after-37-years-with-final-menswear-show-paris-2026-01-24%2f&amp;c=16679629395014297305&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 12:27:00 GMT",
-        "category": "business"
+        "title": "Deaths mount as Trump immigration push intensifies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f30e38843acb068a90e99f86d17&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fdeaths-mount-trump-immigration-push-intensifies-2026-01-25%2f&amp;c=12000707588497697869&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 16:12:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "World Health Organization says it regrets US decision to withdraw",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6975470a9d8c459c90499e26566c21d2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fworld-health-organization-says-it-regrets-us-decision-withdraw-2026-01-24%2f&amp;c=18228313436558130764&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 12:15:00 GMT",
+        "title": "American Hoey breaks 800m indoor world record in Boston",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f309bb0412780872fd7ac11681b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2famerican-hoey-breaks-800m-indoor-world-record-boston-2026-01-24%2f&amp;c=14394963754376510888&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 13:57:00 GMT",
         "category": "world"
       },
       {
-        "title": "Minneapolis NBA game postponed following shooting",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69754709b0ec46e8bacc671bc070b121&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fminneapolis-game-postponed-following-shooting-2026-01-24%2f&amp;c=1930780346855338888&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 11:30:00 GMT",
+        "title": "Appeals court rejects Justice Department\u2019s push to charge more people over Minnesota church demonstration",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f30e38843acb068a90e99f86d17&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fappeals-court-rejects-justice-departments-push-charge-more-people-over-minnesota-2026-01-24%2f&amp;c=3491710327427140423&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 13:48:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US Health Department pauses about $5 billion in state public health grants, Bloomberg News reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69754719fcc645d993fc4f1efbba09d4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-health-department-pauses-about-5-billion-state-public-health-grants-bloomberg-2026-01-24%2f&amp;c=250307003318108688&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 10:05:00 GMT",
+        "title": "UK to create new 'British FBI' police service",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f394b384b1fb8aa76c4bc505740&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fuk-create-new-british-fbi-police-service-2026-01-24%2f&amp;c=15248118839743510205&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 13:32:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "World Health Organization says it regrets US decision to withdraw",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f3ad9f149e98d72c10ce89af53b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fworld-health-organization-says-it-regrets-us-decision-withdraw-2026-01-24%2f&amp;c=18228313436558130764&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 12:15:00 GMT",
         "category": "health"
       },
       {
         "title": "Frigid weather stresses US electric grid",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69754709b0ec46e8bacc671bc070b121&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-electric-grid-shows-escalating-stress-amid-cold-blast-2026-01-24%2f&amp;c=16298520330897403767&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f30e38843acb068a90e99f86d17&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-electric-grid-shows-escalating-stress-amid-cold-blast-2026-01-24%2f&amp;c=16298520330897403767&amp;mkt=en-us",
         "pubDate": "Sat, 24 Jan 2026 08:28:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Saudi Arabia postpones 2029 Asian Winter Games at NEOM",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69754709b0ec46e8bacc671bc070b121&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsaudi-arabia-postpones-2029-asian-winter-games-neom-2026-01-24%2f&amp;c=2383040405480866847&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 07:46:00 GMT",
+        "title": "Winter storm, sub-freezing cold descend on US, from Rockies to Atlantic Coast",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f30e38843acb068a90e99f86d17&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fsnow-starts-falling-texas-oklahoma-eastern-us-braces-winter-storm-2026-01-23%2f&amp;c=17104170101287815658&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 05:56:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Thousands brave bitter cold to demand ICE leave Minneapolis",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69754709b0ec46e8bacc671bc070b121&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fminnesotans-promise-an-economic-strike-protest-trumps-surge-immigration-agents-2026-01-23%2f&amp;c=16984635663693701626&amp;mkt=en-us",
-        "pubDate": "Sat, 24 Jan 2026 01:03:00 GMT",
+        "title": "US energy sector braces for winter storm as crude and natural gas output fall",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69757f30e38843acb068a90e99f86d17&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-energy-sector-braces-winter-storm-crude-natural-gas-output-fall-2026-01-23%2f&amp;c=1298362612256241273&amp;mkt=en-us",
+        "pubDate": "Sat, 24 Jan 2026 05:04:00 GMT",
         "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Airlines cancel nearly 13,000 weekend flights as massive winter storm sweeps across U.S.",
+        "title": "Airlines cancel more than 13,000 weekend flights as massive winter storm sweeps across the U.S.",
         "link": "https://www.cnbc.com/2026/01/23/winter-storm-fern-flight-cancellations.html",
-        "pubDate": "Sat, 24 Jan 2026 21:50:06 GMT",
+        "pubDate": "Sat, 24 Jan 2026 23:35:57 GMT",
         "category": "world"
+      },
+      {
+        "title": "Newmont tops the list of most overbought stocks on Wall Street after gold rally",
+        "link": "https://www.cnbc.com/2026/01/24/newmont-tops-the-list-of-most-overbought-stocks-on-wall-street-after-gold-rally.html",
+        "pubDate": "Sat, 24 Jan 2026 13:44:21 GMT",
+        "category": "us"
       },
       {
         "title": "Meta&apos;s Reality Labs cuts sparked fears of a &apos;VR winter&apos;",
