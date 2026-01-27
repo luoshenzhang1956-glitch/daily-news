@@ -1,26 +1,32 @@
 {
-  "updated_at": "2026-01-27T06:47:29.458648",
+  "updated_at": "2026-01-27T08:42:36.463119",
   "news": {
     "ap": [
       {
         "title": "Senegal\u2019s aquagym classes offer hope and healing for people with reduced mobility",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f12b04e45828c81fee767b00322&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsenegal-aquagym-health-diseases-exercise-beach-7fcf317591c8ef7126719cd885ea8940&amp;c=3011652597240819450&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69787a156eb94c999269420d7ad635da&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsenegal-aquagym-health-diseases-exercise-beach-7fcf317591c8ef7126719cd885ea8940&amp;c=3011652597240819450&amp;mkt=en-us",
         "pubDate": "Mon, 26 Jan 2026 21:07:00 GMT",
         "category": "health"
       },
       {
-        "title": "USA Today Co., owner of the Detroit Free Press, says it will purchase The Detroit News",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785ef9887a42c19e3eba4b53fbc206&amp;url=https%3a%2f%2fapnews.com%2farticle%2fusa-today-says-it-will-purchase-detroit-news-7c9b092d5b1e092f7593d3fe8187da7e&amp;c=14513122969208462403&amp;mkt=en-us",
-        "pubDate": "Mon, 26 Jan 2026 17:26:00 GMT",
-        "category": "business"
+        "title": "Paralyzing winter storms put a big chill on the US economy, but how much?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697879f9f0354e20bdc3e48ac2259bc2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwinter-storm-snow-ice-damage-costs-climate-billions-b7f1812797d72215f7a37dc36d47de9e&amp;c=12513398354473743539&amp;mkt=en-us",
+        "pubDate": "Mon, 26 Jan 2026 18:28:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
       {
+        "title": "At least 6,126 people killed in Iran&apos;s crackdown on nationwide protests, activists say",
+        "link": "https://www.npr.org/2026/01/27/nx-s1-5689793/6-126-iran-crackdown-protests-death-toll",
+        "pubDate": "Tue, 27 Jan 2026 01:49:24 -0500",
+        "category": "world"
+      },
+      {
         "title": "NATO chief wishes &apos;good luck&apos; to those who think Europe can defend itself without US help",
         "link": "https://www.npr.org/2026/01/27/nx-s1-5689791/nato-chief-europe-defense-us",
         "pubDate": "Tue, 27 Jan 2026 01:32:19 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "TikTok investigating why some users can&apos;t write &quot;Epstein&quot; in messages",
@@ -65,12 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "Minnesota officials rebuff DOJ&apos;s data demands after latest shooting by federal agents",
-        "link": "https://www.npr.org/2026/01/26/nx-s1-5688964/minnesota-data-bondi-letter",
-        "pubDate": "Mon, 26 Jan 2026 15:02:40 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "How long do you need to spend in the gym to get strong? Less than you think",
         "link": "https://www.npr.org/2026/01/26/nx-s1-5686763/strength-training-work-out-schedule-time",
         "pubDate": "Mon, 26 Jan 2026 06:00:00 -0500",
@@ -78,6 +78,24 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Weather presenter Carol Kirkwood to leave BBC",
+        "link": "https://www.bbc.com/news/articles/cedwp8w1j24o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 27 Jan 2026 08:38:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ground rents to be capped at \u00a3250 a year for leaseholders",
+        "link": "https://www.bbc.com/news/articles/cdjn7jdvn7no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 27 Jan 2026 08:07:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fifty Labour MPs sign letter objecting to Burnham decision",
+        "link": "https://www.bbc.com/news/articles/ce3e53e34klo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 27 Jan 2026 06:54:46 GMT",
+        "category": "Top News"
+      },
       {
         "title": "I accused a police officer of rape, but I ended up on trial",
         "link": "https://www.bbc.com/news/articles/c4gl0r0052po?at_medium=RSS&amp;at_campaign=rss",
@@ -91,34 +109,16 @@
         "category": "tech"
       },
       {
-        "title": "Fifty Labour MPs sign letter objecting to Burnham decision",
-        "link": "https://www.bbc.com/news/articles/ce3e53e34klo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 27 Jan 2026 05:21:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US immigration chief Bovino set to leave Minneapolis after deadly shooting",
+        "title": "Immigration chief at centre of Trump's crackdown set to leave Minneapolis",
         "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 27 Jan 2026 04:31:59 GMT",
         "category": "world"
       },
       {
-        "title": "Immigration chief at centre of Trump's crackdown departing Minneapolis",
-        "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 27 Jan 2026 04:31:59 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Menopause linked to Alzheimer's-like brain changes",
         "link": "https://www.bbc.com/news/articles/c9qpp1g5ylvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 27 Jan 2026 00:04:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "NI to become first in the UK to introduce graduated driving licences",
-        "link": "https://www.bbc.com/news/articles/cew87q890pyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 27 Jan 2026 00:01:23 GMT",
-        "category": "Top News"
+        "category": "health"
       },
       {
         "title": "Airlines pay out millions after initially rejecting claims",
@@ -127,92 +127,86 @@
         "category": "business"
       },
       {
+        "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
+        "link": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 26 Jan 2026 21:34:40 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
         "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 26 Jan 2026 21:18:39 GMT",
         "category": "us"
-      },
-      {
-        "title": "UK loses measles elimination status",
-        "link": "https://www.bbc.com/news/articles/cgjw0xegxglo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 26 Jan 2026 15:04:44 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "South Korea reassures on US investment pledge after Trump threatens to hike tariffs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f1656a0434fa07c7c3681ab61c9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-says-he-is-raising-tariffs-certain-south-korean-imports-25-2026-01-26%2f&amp;c=17193540323569588748&amp;mkt=en-us",
-        "pubDate": "Mon, 26 Jan 2026 20:56:00 GMT",
+        "title": "In possible thaw, Trump and Minnesota governor talk after fatal shooting",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69787a1819b04eb5a6fa662963c99205&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-send-border-czar-homan-minnesota-2026-01-26%2f&amp;c=11795713929828552030&amp;mkt=en-us",
+        "pubDate": "Mon, 26 Jan 2026 23:23:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Explainer: Why has President Trump threatened to raise US tariffs on South Korea again?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f1656a0434fa07c7c3681ab61c9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fwhy-has-president-trump-threatened-raise-us-tariffs-south-korea-again-2026-01-27%2f&amp;c=4575992666642132406&amp;mkt=en-us",
-        "pubDate": "Mon, 26 Jan 2026 19:57:00 GMT",
+        "title": "China's Anta Sports buys 29% Puma stake for $1.8 billion, rules out full takeover",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69787a1819b04eb5a6fa662963c99205&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fchinas-anta-sports-buys-29-puma-stake-18-billion-rules-out-full-takeover-2026-01-27%2f&amp;c=14287916681984409247&amp;mkt=en-us",
+        "pubDate": "Mon, 26 Jan 2026 23:03:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Micron plans $24-billion memory chipmaking plant in Singapore",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f1656a0434fa07c7c3681ab61c9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fmicron-plans-24-billion-memory-chipmaking-plant-singapore-2026-01-27%2f&amp;c=3571233845639339479&amp;mkt=en-us",
-        "pubDate": "Mon, 26 Jan 2026 19:45:00 GMT",
+        "title": "FX intervention justified if yen moves rapid, Japan business lobby head says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69787a1819b04eb5a6fa662963c99205&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ffx-intervention-justified-if-yen-moves-rapid-japan-business-lobby-head-says-2026-01-27%2f&amp;c=1128782360196352857&amp;mkt=en-us",
+        "pubDate": "Mon, 26 Jan 2026 22:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: Saudi Arabia suspends work on massive Mukaab megaproject, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69787a1819b04eb5a6fa662963c99205&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsaudi-arabia-suspends-work-massive-mukaab-megaproject-sources-say-2026-01-27%2f&amp;c=17065146491951054991&amp;mkt=en-us",
+        "pubDate": "Mon, 26 Jan 2026 22:11:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Indian carmakers slide on report of sharp tariff cuts for European imports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f1656a0434fa07c7c3681ab61c9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findian-car-makers-slide-report-sharp-tariff-cuts-european-imports-2026-01-27%2f&amp;c=16066961331713739310&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69787a1819b04eb5a6fa662963c99205&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findian-car-makers-slide-report-sharp-tariff-cuts-european-imports-2026-01-27%2f&amp;c=16066961331713739310&amp;mkt=en-us",
         "pubDate": "Mon, 26 Jan 2026 19:38:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Ford and General Motors in talks with First Brands over rescue financing, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f1656a0434fa07c7c3681ab61c9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fford-general-motors-talks-with-first-brands-over-rescue-financing-ft-reports-2026-01-27%2f&amp;c=17627206603771417407&amp;mkt=en-us",
-        "pubDate": "Mon, 26 Jan 2026 18:32:00 GMT",
-        "category": "Top News"
+        "title": "China's BYD, Exxon Mobil to deepen hybrid technology partnership",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69787a45610c4b8aabcd2b2db5754c8b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fchinas-byd-exxon-mobil-deepen-hybrid-technology-partnership-2026-01-27%2f&amp;c=16973887235867214179&amp;mkt=en-us",
+        "pubDate": "Mon, 26 Jan 2026 18:54:00 GMT",
+        "category": "tech"
       },
       {
         "title": "EU carmakers face tough India market even after trade deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f1656a0434fa07c7c3681ab61c9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2feu-carmakers-face-tough-india-market-even-after-trade-deal-2026-01-27%2f&amp;c=2959671520627403180&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69787a1819b04eb5a6fa662963c99205&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2feu-carmakers-face-tough-india-market-even-after-trade-deal-2026-01-27%2f&amp;c=2959671520627403180&amp;mkt=en-us",
         "pubDate": "Mon, 26 Jan 2026 18:24:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Fearing China clash, Japan asks fishermen to avoid flashpoint islands",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f1656a0434fa07c7c3681ab61c9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ffearing-china-clash-japan-asks-fishermen-avoid-flashpoint-islands-2026-01-27%2f&amp;c=17049880701280172491&amp;mkt=en-us",
-        "pubDate": "Mon, 26 Jan 2026 17:18:00 GMT",
+        "title": "US security team flags drone threat at Milano Cortina Games",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69787a1819b04eb5a6fa662963c99205&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-security-team-flags-drone-threat-milano-cortina-games-2026-01-26%2f&amp;c=15254373626410828401&amp;mkt=en-us",
+        "pubDate": "Mon, 26 Jan 2026 16:05:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Report: Brazil requests to host 2029 FIFA Club World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f1bb9504cfdad243f7aab62270f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2freport-brazil-requests-host-2029-fifa-club-world-cup-2026-01-27%2f&amp;c=6819261114603088156&amp;mkt=en-us",
-        "pubDate": "Mon, 26 Jan 2026 15:35:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "UK's Starmer heads to China to repair ties as he navigates tensions with US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f1656a0434fa07c7c3681ab61c9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fuks-starmer-heads-china-repair-ties-he-navigates-tensions-with-us-2026-01-27%2f&amp;c=13402586027581284238&amp;mkt=en-us",
-        "pubDate": "Mon, 26 Jan 2026 15:11:00 GMT",
+        "title": "Republicans face election risks in clash with gun rights groups over protester's killing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69787a1819b04eb5a6fa662963c99205&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2frepublicans-face-election-risks-clash-with-gun-rights-groups-over-protesters-2026-01-26%2f&amp;c=2509773448016472701&amp;mkt=en-us",
+        "pubDate": "Mon, 26 Jan 2026 13:46:00 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "31,000 nurses to strike at Kaiser Permanente in California, Hawaii, union says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69785f4a40884d5abd09226710ecd519&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2f31000-nurses-strike-kaiser-permanente-california-hawaii-union-says-2026-01-26%2f&amp;c=6774735340450587108&amp;mkt=en-us",
-        "pubDate": "Mon, 26 Jan 2026 07:54:00 GMT",
-        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Chinese tech giant Tencent plots Middle East cloud expansion as spending in the region booms",
-        "link": "https://www.cnbc.com/2026/01/27/tencent-cloud-expansion-middle-east.html",
-        "pubDate": "Tue, 27 Jan 2026 06:35:50 GMT",
-        "category": "tech"
-      },
-      {
         "title": "India and European Union have closed a &apos;landmark&apos; free trade deal, Prime Minister Modi says",
         "link": "https://www.cnbc.com/2026/01/27/india-eu-trade-deal-trump-tariffs.html",
-        "pubDate": "Tue, 27 Jan 2026 06:09:24 GMT",
+        "pubDate": "Tue, 27 Jan 2026 07:07:08 GMT",
         "category": "world"
+      },
+      {
+        "title": "General Motors is set to report earnings before the bell. Here&apos;s what Wall Street expects amid major electric vehicle write-downs",
+        "link": "https://www.cnbc.com/2026/01/27/general-motors-gm-earnings-q4-2025.html",
+        "pubDate": "Tue, 27 Jan 2026 05:01:01 GMT",
+        "category": "business"
       },
       {
         "title": "Stocks making the biggest moves midday: GameStop, Booz Allen, CVR Energy, CoreWeave &amp; more",
