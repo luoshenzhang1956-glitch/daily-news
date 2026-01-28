@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-01-28T14:39:33.501142",
+  "updated_at": "2026-01-28T16:48:53.053216",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "Rubio braces for Senate scrutiny over Venezuela",
+        "title": "Inside the Trump administration&apos;s effort to reverse climate change policies",
+        "link": "https://www.npr.org/2026/01/28/nx-s1-5690358/inside-the-trump-administrations-effort-to-reverse-climate-change-policies",
+        "pubDate": "Wed, 28 Jan 2026 11:26:26 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Here&apos;s what to know about the $50 billion states are getting for rural health",
+        "link": "https://www.npr.org/2026/01/28/nx-s1-5690370/rural-health-fund-states-hospitals",
+        "pubDate": "Wed, 28 Jan 2026 10:47:52 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Greetings from Mumbai, where residents take breathing space where they can find it",
+        "link": "https://www.npr.org/2026/01/28/g-s1-107108/mumbai-india-arabian-sea-promenade",
+        "pubDate": "Wed, 28 Jan 2026 09:53:20 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Rubio faces Senate scrutiny as he defends Venezuela policy",
         "link": "https://www.npr.org/2026/01/28/nx-s1-5690365/rubio-senate-venezuela",
         "pubDate": "Wed, 28 Jan 2026 08:08:16 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump admin rewrites nuclear safety rules. And, NTSB releases findings on D.C. crash",
@@ -19,7 +37,7 @@
         "title": "As the U.S. bids adieu to the World Health Organization, California says hello",
         "link": "https://www.npr.org/2026/01/28/g-s1-107526/california-world-health-organization-infectious-diseases",
         "pubDate": "Wed, 28 Jan 2026 06:47:02 -0500",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Minnesotans remain skeptical as tensions as state-federal tensions appear to ease",
@@ -40,24 +58,6 @@
         "category": "tech"
       },
       {
-        "title": "3 generations of women in one family show how choices on motherhood have changed",
-        "link": "https://www.npr.org/2026/01/28/nx-s1-5689029/women-choice-motherhood-children-birth-rate-population",
-        "pubDate": "Wed, 28 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Americans may love football, but did you know its origins are in medieval England?",
-        "link": "https://www.npr.org/2026/01/28/nx-s1-5689044/football-origins-explained",
-        "pubDate": "Wed, 28 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Bystander videos of Minneapolis killings reveal larger trend",
-        "link": "https://www.npr.org/2026/01/28/nx-s1-5677313/bystander-police-videos-minneapolis-ice-good-pretti",
-        "pubDate": "Wed, 28 Jan 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Mexican president says her country has paused oil shipments to Cuba",
         "link": "https://www.npr.org/2026/01/28/nx-s1-5691086/mexico-oil-shipments-cuba",
         "pubDate": "Wed, 28 Jan 2026 02:44:43 -0500",
@@ -66,21 +66,27 @@
     ],
     "bbc": [
       {
-        "title": "Trump warns Iran 'time is running out' as US military builds up in Gulf",
+        "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
         "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 28 Jan 2026 14:36:22 GMT",
+        "pubDate": "Wed, 28 Jan 2026 16:34:43 GMT",
         "category": "world"
+      },
+      {
+        "title": "AI model from Google's DeepMind reads recipe for life in DNA",
+        "link": "https://www.bbc.com/news/articles/c39428dv18yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 28 Jan 2026 16:03:22 GMT",
+        "category": "health"
+      },
+      {
+        "title": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
+        "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 28 Jan 2026 15:27:40 GMT",
+        "category": "Top News"
       },
       {
         "title": "Mum says university 'failed' son who took his own life after grade error",
         "link": "https://www.bbc.com/news/articles/c3dm27359xxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 28 Jan 2026 14:24:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China trip will bring benefits to UK, Starmer insists, as he lands in Beijing",
-        "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 28 Jan 2026 13:32:07 GMT",
+        "pubDate": "Wed, 28 Jan 2026 14:56:22 GMT",
         "category": "Top News"
       },
       {
@@ -96,9 +102,9 @@
         "category": "business"
       },
       {
-        "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
-        "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 28 Jan 2026 13:05:30 GMT",
+        "title": "'I don't let bullies win,' says US congresswoman Omar after substance thrown at her",
+        "link": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 28 Jan 2026 13:01:10 GMT",
         "category": "us"
       },
       {
@@ -118,88 +124,88 @@
         "link": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 28 Jan 2026 11:50:21 GMT",
         "category": "tech"
-      },
-      {
-        "title": "'I was diagnosed with OCD at 10'. Here's how to spot the signs",
-        "link": "https://www.bbc.com/news/articles/czejjr7wz6ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 28 Jan 2026 01:18:01 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "SNAPSHOT S&amp;P 500 crosses 7,000 ahead of Fed decision, Big Tech earnings",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a1f5d783845478f4c94bdec8cc676&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-index-futures-rise-wall-street-braces-big-tech-earnings-2026-01-28%2f&amp;c=13969471938553636641&amp;mkt=en-us",
-        "pubDate": "Wed, 28 Jan 2026 05:33:00 GMT",
+        "title": "S&amp;P 500 breaches 7,000 points for the first time, lifted by AI optimism",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a3da532d74582b97ad5516e8dcf80&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fsp-500-crosses-7000-points-first-time-lifted-by-ai-optimism-2026-01-28%2f&amp;c=17585197690718547242&amp;mkt=en-us",
+        "pubDate": "Wed, 28 Jan 2026 07:35:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Wells Fargo cuts reliance on big proxy advisers with in-house system",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a1f5d783845478f4c94bdec8cc676&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fwells-fargo-cuts-ties-with-proxy-adviser-iss-wsj-reports-2026-01-28%2f&amp;c=13322118154640043433&amp;mkt=en-us",
-        "pubDate": "Wed, 28 Jan 2026 05:22:00 GMT",
+        "title": "Air Canada expands winter routes to Europe, Latin America",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a3da532d74582b97ad5516e8dcf80&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fair-canada-expands-winter-routes-europe-latin-america-2026-01-28%2f&amp;c=18303784486277074809&amp;mkt=en-us",
+        "pubDate": "Wed, 28 Jan 2026 07:31:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Nipah fears trigger airport checks across Asia after India confirms two cases",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a1f5d783845478f4c94bdec8cc676&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2findia-reports-two-nipah-virus-infections-thai-malaysia-step-up-screening-2026-01-28%2f&amp;c=8723892484839000945&amp;mkt=en-us",
-        "pubDate": "Wed, 28 Jan 2026 04:44:00 GMT",
+        "title": "Rubio touts progress with Venezuela's new leaders in Senate hearing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a3da532d74582b97ad5516e8dcf80&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2frubio-face-former-us-senate-colleagues-venezuela-policy-2026-01-28%2f&amp;c=17576170811283742007&amp;mkt=en-us",
+        "pubDate": "Wed, 28 Jan 2026 07:18:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a1f5d783845478f4c94bdec8cc676&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2famazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28%2f&amp;c=7243923560770779620&amp;mkt=en-us",
-        "pubDate": "Wed, 28 Jan 2026 04:29:00 GMT",
+        "title": "Trump administration rolls out 'Trump accounts' for babies as part of affordability pitch",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a3da532d74582b97ad5516e8dcf80&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsociety-equity%2fbessent-says-500000-have-signed-up-trump-accounts-more-donations-coming-2026-01-28%2f&amp;c=14371185347530525811&amp;mkt=en-us",
+        "pubDate": "Wed, 28 Jan 2026 07:11:00 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Pro-Palestinian rapper Ghali's role at opening ceremony raises flap in Italy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a1f5d783845478f4c94bdec8cc676&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fpro-palestinian-rapper-ghalis-role-opening-ceremony-raises-flap-italy-2026-01-28%2f&amp;c=535099675981877960&amp;mkt=en-us",
-        "pubDate": "Wed, 28 Jan 2026 03:54:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Health Rounds: More electric vehicles means less air pollution that causes health risks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a1f8e712a4b51a63ed7b06f72bdcc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-more-electric-vehicles-means-less-air-pollution-that-causes-health-2026-01-28%2f&amp;c=1684883290356550942&amp;mkt=en-us",
-        "pubDate": "Wed, 28 Jan 2026 03:13:00 GMT",
-        "category": "health"
       },
       {
         "title": "Immigration helped Trump win the White House - now tactics could hurt Republicans in midterms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a1f5d783845478f4c94bdec8cc676&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fimmigration-helped-trump-win-white-house-now-tactics-could-hurt-republicans-2026-01-28%2f&amp;c=5496899439358772063&amp;mkt=en-us",
-        "pubDate": "Wed, 28 Jan 2026 02:09:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a3da532d74582b97ad5516e8dcf80&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fimmigration-helped-trump-win-white-house-now-tactics-could-hurt-republicans-2026-01-28%2f&amp;c=5496899439358772063&amp;mkt=en-us",
+        "pubDate": "Wed, 28 Jan 2026 06:29:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US state lawmakers push to allow lawsuits against ICE agents",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a1f5d783845478f4c94bdec8cc676&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-state-lawmakers-push-allow-lawsuits-against-ice-agents-2026-01-28%2f&amp;c=2132919475286012484&amp;mkt=en-us",
-        "pubDate": "Wed, 28 Jan 2026 02:06:00 GMT",
+        "title": "Italy sets security plan for Milano Cortina 2026, says US ICE staff not on the ground",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a3db422a64af9af103604b8e7bb23&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fitaly-sets-security-plan-milancortina-2026-says-us-ice-staff-not-ground-2026-01-28%2f&amp;c=14406359645901754422&amp;mkt=en-us",
+        "pubDate": "Wed, 28 Jan 2026 06:27:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Fed expected to hold rates steady as rate-cut pause begins",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a3da532d74582b97ad5516e8dcf80&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffed-expected-hold-rates-steady-rate-cut-pause-begins-2026-01-28%2f&amp;c=17603101888193190068&amp;mkt=en-us",
+        "pubDate": "Wed, 28 Jan 2026 06:10:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Amazon bungles Wednesday layoff plan with misfired internal email",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a1f5d783845478f4c94bdec8cc676&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2famazon-bungles-wednesday-layoff-plan-with-misfired-internal-email-2026-01-28%2f&amp;c=13427796291923557123&amp;mkt=en-us",
-        "pubDate": "Wed, 28 Jan 2026 01:56:00 GMT",
+        "title": "S&amp;P 500 crosses 7,000 mark ahead of Fed decision, Big Tech earnings",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a3da532d74582b97ad5516e8dcf80&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-index-futures-rise-wall-street-braces-big-tech-earnings-2026-01-28%2f&amp;c=13969471938553636641&amp;mkt=en-us",
+        "pubDate": "Wed, 28 Jan 2026 06:01:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Capcon Recognized by Prestige 100 Singapore and Top Business Service and Quality Awards 2025/2026",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a1f7c5d224c0187b00c391facf92f&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fcapcon-prestige-100-singapore-top-business-service-quality-awards-2025-2026-2026-01-28%2f&amp;c=16275168583165883068&amp;mkt=en-us",
-        "pubDate": "Wed, 28 Jan 2026 00:27:00 GMT",
-        "category": "business"
+        "title": "Ryanair expects to offer free Wi-Fi in 3-5 years as technology improves",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a3db6aa5e41a1813fa050237aa0ae&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fryanair-expects-offer-free-wi-fi-3-5-years-technology-improves-2026-01-28%2f&amp;c=8922509008255633131&amp;mkt=en-us",
+        "pubDate": "Wed, 28 Jan 2026 03:56:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Health Rounds: More electric vehicles means less air pollution that causes health risks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697a3db712954aeba02b1dbd15621753&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-more-electric-vehicles-means-less-air-pollution-that-causes-health-2026-01-28%2f&amp;c=1684883290356550942&amp;mkt=en-us",
+        "pubDate": "Wed, 28 Jan 2026 03:13:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Trump warns Iran an &apos;armada&apos; is heading its way and to agree a nuclear deal, or else",
-        "link": "https://www.cnbc.com/2026/01/28/trump-iran-armada-nuclear-program-deal.html",
-        "pubDate": "Wed, 28 Jan 2026 14:10:39 GMT",
-        "category": "world"
+        "title": "JPMorgan Chase and Bank of America to match $1,000 U.S. contributions to employee &apos;Trump accounts&apos;",
+        "link": "https://www.cnbc.com/2026/01/28/jpmorgan-chase-trump-accounts.html",
+        "pubDate": "Wed, 28 Jan 2026 16:42:06 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Ex-Palantir engineer raises $40 million for cyber startup Outtake, with backing from Microsoft CEO Nadella",
-        "link": "https://www.cnbc.com/2026/01/28/outtake-cyber-openai-ai-raise.html",
-        "pubDate": "Wed, 28 Jan 2026 14:10:29 GMT",
-        "category": "tech"
+        "title": "Southwest ends open seating after 54 years. Here&apos;s what the last flight was like",
+        "link": "https://www.cnbc.com/2026/01/28/southwest-airlines-ends-open-seating.html",
+        "pubDate": "Wed, 28 Jan 2026 16:09:26 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Danaher stock fails to rise on solid earnings \u2014 leading us to question what&apos;s next",
+        "link": "https://www.cnbc.com/2026/01/28/danaher-stock-fails-to-rise-on-solid-earnings-leading-us-to-question-whats-next.html",
+        "pubDate": "Wed, 28 Jan 2026 15:38:18 GMT",
+        "category": "health"
       },
       {
         "title": "Stocks making the biggest moves premarket: ASML, Texas Instruments, Starbucks, Qorvo &amp; more",
@@ -208,10 +214,10 @@
         "category": "Top News"
       },
       {
-        "title": "UBS lifts Texas Instruments price target, says free cash flow is at inflection point",
-        "link": "https://www.cnbc.com/2026/01/28/ubs-lifts-texas-instruments-price-target-says-free-cash-flow-is-at-inflection-point.html",
-        "pubDate": "Wed, 28 Jan 2026 13:01:56 GMT",
-        "category": "us"
+        "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can\u2019t ignore",
+        "link": "https://www.cnbc.com/2026/01/27/gamestop-meme-stocks-retail-investors-wall-street.html",
+        "pubDate": "Wed, 28 Jan 2026 13:28:41 GMT",
+        "category": "Top News"
       },
       {
         "title": "Airbus, AstraZeneca and HSBC executives join UK&apos;s Starmer on high-stakes China trip",
@@ -242,12 +248,6 @@
         "link": "https://www.cnbc.com/2026/01/27/fed-preview-january-2026.html",
         "pubDate": "Tue, 27 Jan 2026 19:43:34 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "UnitedHealth posts modest earnings beat, soft revenue guidance as insurer plots turnaround",
-        "link": "https://www.cnbc.com/2026/01/27/unitedhealth-group-unh-earnings-q4-2025.html",
-        "pubDate": "Tue, 27 Jan 2026 16:51:55 GMT",
-        "category": "health"
       }
     ]
   }
