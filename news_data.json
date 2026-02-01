@@ -1,13 +1,80 @@
 {
-  "updated_at": "2026-02-01T08:42:44.581055",
+  "updated_at": "2026-02-01T10:35:24.681361",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Freeskier Eileen Gu takes another wild ride to the Olympics, invites the world to tag along",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2bc4eae54f90b5279cfc281f44ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2feileen-gu-olympics-6446a4d77f17d5178ec474946d5cad84&amp;c=1756164298406801986&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Feb 2026 02:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Weber State Wildcats take on the Sacramento State Hornets on 9-game skid",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2bc4eae54f90b5279cfc281f44ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsacramento-womens-college-basketball-college-sports-college-basketball-a88dae465d20436bbdf2cc8caa17b0c8&amp;c=8432497140500082079&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Feb 2026 01:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Incarnate Word visits Texas A&amp;M-CC after Pyke\u2019s 33-point outing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2bc4eae54f90b5279cfc281f44ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjordan-pyke-texas-texas-a-m-aggies-college-basketball-college-sports-6caf729063164f04807a4c8555a9e25c&amp;c=15111649994155725925&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Feb 2026 01:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cotton leads UT Rio Grande Valley against Houston Christian after 21-point showing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2bc4eae54f90b5279cfc281f44ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhouston-christian-college-basketball-mens-college-basketball-college-sports-utah-6d406e3417ec4b5bb8b6d7d5d727ccd6&amp;c=8365822036035887149&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Feb 2026 01:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Holy Cross Crusaders face the Boston University Terriers on 3-game win streak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2bc4eae54f90b5279cfc281f44ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2fboston-college-basketball-womens-college-basketball-college-sports-basketball-a4e941188e0a4ec3b1233a25b9416da0&amp;c=3127568006136235495&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Feb 2026 01:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Alabama State and Florida A&amp;M meet for conference showdown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2bc4eae54f90b5279cfc281f44ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2fflorida-mens-college-basketball-college-sports-college-basketball-775dc206304a4350aa1525905e3685ed&amp;c=1558113821025506861&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Feb 2026 01:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Gaza border crossing is preparing to reopen after years of near-complete closure",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2bc4eae54f90b5279cfc281f44ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgaza-rafah-hamas-israel-war-2-1-2026-4fdd33cfb3af77e9ecef1f3c9ebd947e&amp;c=4656883842059364125&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Feb 2026 01:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Boxer Jarrell Miller has his hairpiece knocked upward by a punch, then throws it into the crowd",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2bc4eae54f90b5279cfc281f44ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjarrell-miller-hairpiece-boxing-81f28e31d8063f40e6f71a0e7f06b907&amp;c=16104243755499695646&amp;mkt=en-us",
+        "pubDate": "Sat, 31 Jan 2026 20:52:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "npr": [
+      {
+        "title": "Iran&apos;s supreme leader warns any US attack would spark &apos;regional war&apos;",
+        "link": "https://www.npr.org/2026/02/01/nx-s1-5695698/iran-khamenei-us-attack-warns-regional-war",
+        "pubDate": "Sun, 01 Feb 2026 05:23:56 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Minnesota citizens detained by ICE are left rattled, even weeks later",
+        "link": "https://www.npr.org/2026/02/01/nx-s1-5689031/minnesota-citizens-detained-ice",
+        "pubDate": "Sun, 01 Feb 2026 05:00:00 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Gaza border crossing buzzes with activity after years of near-complete closure",
+        "link": "https://www.npr.org/2026/02/01/nx-s1-5695694/gaza-border-rafah-closure",
+        "pubDate": "Sun, 01 Feb 2026 04:22:04 -0500",
+        "category": "Top News"
+      },
       {
         "title": "Democrat Taylor Rehmet wins a reliably Republican Texas state Senate seat, stunning GOP",
         "link": "https://www.npr.org/2026/02/01/nx-s1-5695678/democrat-taylor-rehmet-wins-texas-state-senate-seat",
         "pubDate": "Sun, 01 Feb 2026 02:15:20 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Trump says feds won&apos;t intervene during protests in Democratic-led cities unless asked to do so",
@@ -19,7 +86,7 @@
         "title": "U.S. intervention in Venezuela divides Houston",
         "link": "https://www.npr.org/2026/02/01/nx-s1-5686737/venezuela-maduro-trump-oil-houston",
         "pubDate": "Sun, 01 Feb 2026 00:01:00 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Anti-ICE protesters call for national action against federal immigration tactics",
@@ -40,31 +107,19 @@
         "category": "Top News"
       },
       {
-        "title": "Judge orders release of 5-year-old Liam Ramos and his dad from ICE detention",
-        "link": "https://www.npr.org/2026/01/31/g-s1-108168/5-year-old-liam-ramos-ice-order",
-        "pubDate": "Sat, 31 Jan 2026 16:19:06 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;Sanford and Son&apos; co-star Demond Wilson dies at 79",
-        "link": "https://www.npr.org/2026/01/31/nx-s1-5695232/demond-wilson-obituary-sanford-and-son",
-        "pubDate": "Sat, 31 Jan 2026 15:49:32 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "The U.S. will likely lose its measles elimination status. Here&apos;s what that means",
         "link": "https://www.npr.org/2026/01/31/nx-s1-5694681/measles-elimination-status-south-carolina-texas-outbreak",
         "pubDate": "Sat, 31 Jan 2026 07:00:00 -0500",
         "category": "health"
-      },
-      {
-        "title": "With decades-long restrictions lifted, a Pakistani brewery has started exporting beer",
-        "link": "https://www.npr.org/2026/01/31/g-s1-105888/pakistan-beer-exports-murree-brewery-alcohol",
-        "pubDate": "Sat, 31 Jan 2026 05:03:00 -0500",
-        "category": "business"
       }
     ],
     "bbc": [
+      {
+        "title": "Iran in 'serious discussions' with US, Trump says, as military threat looms",
+        "link": "https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 01 Feb 2026 09:50:15 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Asda has lost its mojo and has a big fight to get it back",
         "link": "https://www.bbc.com/news/articles/cd0yrrr1ryvo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,6 +145,12 @@
         "category": "world"
       },
       {
+        "title": "Andrew should testify to US Congress, Starmer suggests after new photos",
+        "link": "https://www.bbc.com/news/articles/cgrd7kpg9pwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 31 Jan 2026 23:08:20 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Judge orders release of five-year-old detained by ICE in Minneapolis",
         "link": "https://www.bbc.com/news/articles/cm2ygq5p2l3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 31 Jan 2026 22:14:54 GMT",
@@ -108,44 +169,87 @@
         "category": "business"
       },
       {
-        "title": "Emails show US Commerce Secretary Lutnick planned island visit",
-        "link": "https://www.bbc.com/news/articles/crmlr0nk8y9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 31 Jan 2026 20:02:12 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Musk's SpaceX applies to launch a million satellites into orbit",
         "link": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 31 Jan 2026 16:19:17 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Latest Epstein revelations dig even deeper hole for Andrew",
-        "link": "https://www.bbc.com/news/articles/c20z4ze349jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 31 Jan 2026 14:54:27 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "India doubles tax holiday for GIFT City businesses to 20 years",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f11b6d65c4c42b54f7953591e6f37&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findia-budget-india-doubles-tax-holiday-gift-city-businesses-20-years-2026-02-01%2f&amp;c=9688578578855729340&amp;mkt=en-us",
-        "pubDate": "Sat, 31 Jan 2026 23:15:00 GMT",
-        "category": "business"
+        "title": "Boy forced off bus in snow to play a role in Milano Cortina opening ceremony",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2c2011f64ea0bb99208c3e32c490&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fboy-forced-off-bus-snow-play-role-milano-cortina-opening-ceremony-2026-02-01%2f&amp;c=14448594887587776668&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Feb 2026 01:03:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Trusts and Estates and Elder Law",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f11c6afed4d988fe9d4688a7bea24&amp;url=https%3a%2f%2fwww.reuters.com%2fpractical-law-the-journal%2ftransactional%2ftrusts-estates-elder-law-2026-02-01%2f&amp;c=839492767811479362&amp;mkt=en-us",
-        "pubDate": "Sat, 31 Jan 2026 20:08:00 GMT",
+        "title": "Preparations underway for full reopening of Gaza's Rafah crossing, officials say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2c3f539248ceb855b692bea28b55&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fpreparations-underway-full-reopening-gazas-rafah-crossing-officials-say-2026-02-01%2f&amp;c=6964139431799102591&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Feb 2026 00:29:00 GMT",
         "category": "health"
       },
       {
-        "title": "US Oil and Gas Industry Primer",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f11b6e94f4f68adf2ddee8dc167f1&amp;url=https%3a%2f%2fwww.reuters.com%2fpractical-law-the-journal%2ftransactional%2fus-oil-gas-industry-primer-2026-02-01%2f&amp;c=11848131915832280186&amp;mkt=en-us",
-        "pubDate": "Sat, 31 Jan 2026 20:05:00 GMT",
-        "category": "us"
+        "title": "OPEC+ set to keep planned oil output pause for March as prices jump, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2c2011f64ea0bb99208c3e32c490&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fopec-set-keep-planned-oil-output-pause-march-prices-jump-sources-say-2026-02-01%2f&amp;c=3971984299468277647&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Feb 2026 00:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "India retains states' share in federal taxes at 41%",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2c2011f64ea0bb99208c3e32c490&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findia-budget-india-retains-states-share-federal-taxes-41-2026-02-01%2f&amp;c=2536599525587405621&amp;mkt=en-us",
+        "pubDate": "Sat, 31 Jan 2026 23:52:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "INDIA BUDGET India's federal government ramps up long-term loans to states for 2026-27",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2c20f53846d095f53366e4e5a59a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findia-budget-indias-federal-government-ramps-up-long-term-loans-states-2026-27-2026-02-01%2f&amp;c=5479988390197654183&amp;mkt=en-us",
+        "pubDate": "Sat, 31 Jan 2026 23:48:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Grammys poised to rewrite music's record books",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2c2011f64ea0bb99208c3e32c490&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fgrammys-poised-rewrite-musics-record-books-2026-02-01%2f&amp;c=16028474366580585389&amp;mkt=en-us",
+        "pubDate": "Sat, 31 Jan 2026 23:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "India's budget - what is expected on debt, military, infrastructure?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2c2011f64ea0bb99208c3e32c490&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2findias-budget-what-is-expected-debt-military-infrastructure-2026-02-01%2f&amp;c=334169092324448721&amp;mkt=en-us",
+        "pubDate": "Sat, 31 Jan 2026 15:33:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Judge orders release of 5-year-old, father detained in Minnesota ICE raid",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2c2011f64ea0bb99208c3e32c490&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fjudge-orders-release-5-year-old-father-detained-minnesota-ice-raid-2026-01-31%2f&amp;c=11334922420655002347&amp;mkt=en-us",
+        "pubDate": "Sat, 31 Jan 2026 12:23:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump orders DHS to stay away from protests in Democratic-led cities unless federal help sought",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2c2011f64ea0bb99208c3e32c490&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-orders-dhs-stay-away-protests-democratic-led-cities-unless-federal-help-is-2026-01-31%2f&amp;c=390052450857608712&amp;mkt=en-us",
+        "pubDate": "Sat, 31 Jan 2026 12:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK\u2019s Starmer says ex-Prince Andrew should testify before Congress over Epstein ties",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=697f2c2011f64ea0bb99208c3e32c490&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fuks-starmer-says-ex-prince-andrew-should-testify-before-congress-over-epstein-2026-01-31%2f&amp;c=16234621529471740055&amp;mkt=en-us",
+        "pubDate": "Sat, 31 Jan 2026 11:03:00 GMT",
+        "category": "Top News"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Here is what caused the wild swings in our 34-stock portfolio last week",
+        "link": "https://www.cnbc.com/2026/01/31/here-is-what-caused-the-wild-swings-in-our-34-stock-portfolio-last-week.html",
+        "pubDate": "Sat, 31 Jan 2026 18:24:57 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks",
+        "link": "https://www.cnbc.com/2026/01/31/kraft-heinz-kellogg-breakups-show-big-food-is-getting-smaller.html",
+        "pubDate": "Sat, 31 Jan 2026 13:00:01 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
