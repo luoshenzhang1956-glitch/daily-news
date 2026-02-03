@@ -1,32 +1,38 @@
 {
-  "updated_at": "2026-02-03T05:18:48.460163",
+  "updated_at": "2026-02-03T07:02:44.236361",
   "news": {
     "ap": [
       {
         "title": "Three Dog Night\u2019s Chuck Negron, voice behind \u2018Joy to the World,\u2019 dies at 83",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698184d5e01a4bba88d1154560b717a7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchuck-negron-dies-three-dog-night-0e2ace5b44a3bbaf8d533830e11b872f&amp;c=3545400010997479569&amp;mkt=en-us",
-        "pubDate": "Mon, 02 Feb 2026 19:50:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69819d09cd4d442a867df9fb15ea04a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchuck-negron-dies-three-dog-night-0e2ace5b44a3bbaf8d533830e11b872f&amp;c=3545400010997479569&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Feb 2026 20:36:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "Trump\u2019s $10 billion lawsuit against the IRS raises conflict of interest concerns",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698184e4367f42849a51873eba2fc737&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-tax-leak-irs-lawsuit-df70440e1a01193c7ea456d41caeb990&amp;c=4929739635072562769&amp;mkt=en-us",
-        "pubDate": "Mon, 02 Feb 2026 15:34:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Japan retrieves rare earth-rich mud from seabed to lower reliance on China",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698184e9391c48bcbb83d227370eed4b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjapan-rare-earths-china-deep-sea-c97d34522e23ed418cf068f4a0217188&amp;c=15336064024237176696&amp;mkt=en-us",
-        "pubDate": "Mon, 02 Feb 2026 07:53:00 GMT",
-        "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "Clintons agree to testify in House Epstein investigation ahead of contempt of Congress vote",
+        "link": "https://www.npr.org/2026/02/03/nx-s1-5697831/clintons-agree-testify-house-epstein-investigation-contempt-congress-vote",
+        "pubDate": "Tue, 03 Feb 2026 01:55:46 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Appeals court overturns former UCLA gynecologist&apos;s sex abuse conviction",
+        "link": "https://www.npr.org/2026/02/03/nx-s1-5697829/appeals-court-overturns-ucla-gynecologist-sex-abuse-conviction",
+        "pubDate": "Tue, 03 Feb 2026 01:40:35 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Judge blocks Trump administration from ending protections for Haitians",
+        "link": "https://www.npr.org/2026/02/03/g-s1-108463/judge-blocks-ending-protections-haitians",
+        "pubDate": "Tue, 03 Feb 2026 01:38:40 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Minnesota Olympians, other athletes speak up about federal agents in Minneapolis",
         "link": "https://www.npr.org/2026/02/03/nx-s1-5695773/minnesota-olympians-other-athletes-speak-up-about-federal-agents-in-minneapolis",
         "pubDate": "Tue, 03 Feb 2026 00:01:00 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Populist conservative Laura Fern\u00e1ndez wins Costa Rica&apos;s presidential election",
@@ -59,24 +65,6 @@
         "category": "tech"
       },
       {
-        "title": "The &apos;Melania&apos; movie audience: Older white women",
-        "link": "https://www.npr.org/2026/02/02/nx-s1-5693775/melania-documentary-box-office-audience",
-        "pubDate": "Mon, 02 Feb 2026 14:35:18 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says he&apos;s closing the Kennedy Center for renovations. We have questions",
-        "link": "https://www.npr.org/2026/02/02/nx-s1-5696489/kennedy-center-renovation-trump-questions",
-        "pubDate": "Mon, 02 Feb 2026 14:34:15 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "A major census test faces cutbacks \u2014 with postal workers tapped to help count",
-        "link": "https://www.npr.org/2026/02/02/nx-s1-5696576/us-census-bureau-usps-2026-operational-test",
-        "pubDate": "Mon, 02 Feb 2026 12:59:22 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "This global health leader praises Trump&apos;s aid plan \u2014 and gears up to beat malaria",
         "link": "https://www.npr.org/2026/02/02/g-s1-107461/global-health-malaria-bill-steiger-trump",
         "pubDate": "Mon, 02 Feb 2026 10:29:07 -0500",
@@ -91,7 +79,7 @@
         "category": "Top News"
       },
       {
-        "title": "Families with children battling cancer to have travel costs covered",
+        "title": "Families of children with cancer to have travel costs covered",
         "link": "https://www.bbc.com/news/articles/c5yve1220xwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 03 Feb 2026 01:35:52 GMT",
         "category": "health"
@@ -100,6 +88,12 @@
         "title": "Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress",
         "link": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 03 Feb 2026 01:27:33 GMT",
+        "category": "world"
+      },
+      {
+        "title": "NBC anchor Savannah Guthrie's mother has been abducted, sheriff suspects",
+        "link": "https://www.bbc.com/news/articles/c14rd1ny5gdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Feb 2026 01:18:47 GMT",
         "category": "us"
       },
       {
@@ -136,53 +130,59 @@
         "title": "Crown Princess's son arrested for alleged assault before rape trial in Norway",
         "link": "https://www.bbc.com/news/articles/crrn44p9r59o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 02 Feb 2026 17:38:53 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Serial killer Steve Wright admits murder of teenager Victoria Hall in 1999",
-        "link": "https://www.bbc.com/news/articles/cpdy7q1yn3xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Feb 2026 12:53:19 GMT",
         "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Montage Technology set to price Hong Kong $902 million listing at top of range",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698185156b604649a99975c9ca0eab3c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fmontage-technology-set-price-hong-kong-902-million-listing-top-range-2026-02-03%2f&amp;c=6360948797157127592&amp;mkt=en-us",
-        "pubDate": "Mon, 02 Feb 2026 19:31:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Indian rupee, stocks soar in relief rally after trade deal with US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698185149e144eeb87d4d006c4b75db8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findian-rupee-stocks-soar-after-trade-deal-with-us-2026-02-03%2f&amp;c=1431132756656358867&amp;mkt=en-us",
-        "pubDate": "Mon, 02 Feb 2026 18:54:00 GMT",
-        "category": "us"
+        "title": "Russia is ready for a new world with no nuclear limits, Ryabkov says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69819d52e27a48a8b968b6b7564719fe&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2frussia-is-ready-new-world-with-no-nuclear-limits-ryabkov-says-2026-02-03%2f&amp;c=3065157051053710762&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Feb 2026 20:47:00 GMT",
+        "category": "world"
       },
       {
         "title": "Jeffrey Epstein's ties to politicians, business titans and other figures",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69818514d81044b3b9462ac2360fde92&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fjeffrey-epsteins-ties-politicians-business-titans-other-figures-2026-02-03%2f&amp;c=10086213647208993493&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69819d6304c6491fb6f8d6179130bee7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fjeffrey-epsteins-ties-politicians-business-titans-other-figures-2026-02-03%2f&amp;c=10086213647208993493&amp;mkt=en-us",
         "pubDate": "Mon, 02 Feb 2026 15:12:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "Smile Hair Clinic Hosts Hackathon to Support Young Talent in Digital Health Innovation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69818516b4814ec3aa1d6da9700ec376&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fsmile-hair-clinic-hackathon-digital-health-talent-2026-02-02%2f&amp;c=15497749968356095771&amp;mkt=en-us",
-        "pubDate": "Mon, 02 Feb 2026 05:44:00 GMT",
-        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "India&apos;s Nifty 50 skyrockets 5% as U.S.-India trade deal boosts investor sentiment",
-        "link": "https://www.cnbc.com/2026/02/03/india-nifty-50-soars-india-us-trade-deal-trum-modi.html",
-        "pubDate": "Tue, 03 Feb 2026 05:16:45 GMT",
+        "title": "Gold and silver rebound after historic wipeout as analysts say thematic drivers stay intact",
+        "link": "https://www.cnbc.com/2026/02/03/gold-and-silver-rebound-after-historic-wipeout-as-analysts-say-thematic-drivers-stay-intact-.html",
+        "pubDate": "Tue, 03 Feb 2026 03:02:21 GMT",
         "category": "world"
       },
       {
-        "title": "SoftBank subsidiary to work with Intel on next-gen memory for AI",
-        "link": "https://www.cnbc.com/2026/02/03/softbank-subsidiary-saimemory-intel-ai-memory-z-angle-program.html",
-        "pubDate": "Tue, 03 Feb 2026 03:21:44 GMT",
-        "category": "tech"
+        "title": "Stocks making the biggest moves after hours: Palantir, NXP Semiconductors, DaVita and more",
+        "link": "https://www.cnbc.com/2026/02/02/stocks-making-the-biggest-moves-after-hours-pltr-nxpi-dva.html",
+        "pubDate": "Mon, 02 Feb 2026 23:31:35 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Strategy slides after bitcoin briefly dips below crypto firm&apos;s key breakeven level",
+        "link": "https://www.cnbc.com/2026/02/02/strategy-slides-after-bitcoin-briefly-dips-below-crypto-firms-key-breakeven-level-.html",
+        "pubDate": "Mon, 02 Feb 2026 22:39:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rare earth miners jump as Trump announces establishment of critical mineral reserve",
+        "link": "https://www.cnbc.com/2026/02/02/rare-earth-miners-jump-as-trump-is-reportedly-eyeing-mineral-stockpile-.html",
+        "pubDate": "Mon, 02 Feb 2026 21:56:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New York AG issues warning around prediction markets ahead of Super Bowl",
+        "link": "https://www.cnbc.com/2026/02/02/new-york-ag-prediction-markets-super-bowl-warning.html",
+        "pubDate": "Mon, 02 Feb 2026 21:26:16 GMT",
+        "category": "business"
+      },
+      {
+        "title": "We just got reasons to love these 2 portfolio stocks even more",
+        "link": "https://www.cnbc.com/2026/02/02/we-just-got-reasons-to-love-these-2-portfolio-stocks-even-more.html",
+        "pubDate": "Mon, 02 Feb 2026 20:40:00 GMT",
+        "category": "Top News"
       }
     ]
   }
