@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-02-03T07:02:44.236361",
+  "updated_at": "2026-02-03T08:49:51.608913",
   "news": {
     "ap": [
       {
+        "title": "Iran\u2019s president seeks \u2018fair and equitable negotiations\u2019 with the United States",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6981b63e2a9b4c1d964db277cf11d678&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-trump-protests-negotiations-nuclear-deal-9758adb33c0d01c70a07ad7de0f5221b&amp;c=14326946863167556616&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Feb 2026 22:21:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "In the face of aid cuts, Gates Foundation narrows its priorities and defends global health funding",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6981b641dfb34228aa1295efc429af97&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgates-foundation-annual-letter-8f2c7fe520986786a11a33b2cfce2fcd&amp;c=3242169861459461165&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Feb 2026 21:05:00 GMT",
+        "category": "health"
+      },
+      {
         "title": "Three Dog Night\u2019s Chuck Negron, voice behind \u2018Joy to the World,\u2019 dies at 83",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69819d09cd4d442a867df9fb15ea04a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchuck-negron-dies-three-dog-night-0e2ace5b44a3bbaf8d533830e11b872f&amp;c=3545400010997479569&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6981b63dee504ab49b2444c631f38c82&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchuck-negron-dies-three-dog-night-0e2ace5b44a3bbaf8d533830e11b872f&amp;c=3545400010997479569&amp;mkt=en-us",
         "pubDate": "Mon, 02 Feb 2026 20:36:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "Trump\u2019s $10 billion lawsuit against the IRS raises conflict of interest concerns",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6981b63ee09048868c32f4e9618928f5&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-tax-leak-irs-lawsuit-df70440e1a01193c7ea456d41caeb990&amp;c=4929739635072562769&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Feb 2026 15:34:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "What is Slippery Fish? A secret project to win Olympic speedskating medals with help from an app",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6981b63fa26147c7820d370af6d1d206&amp;url=https%3a%2f%2fapnews.com%2farticle%2fslippery-fish-olympics-speedskating-computer-technology-1eadb8a4d8dfd8bbc0e35909952482ca&amp;c=1015524370570276975&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Feb 2026 11:29:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
+      {
+        "title": "Trevi Fountain fee takes effect as Rome seeks to manage tourist crowds",
+        "link": "https://www.npr.org/2026/02/03/g-s1-108471/trevi-fountain-fee-takes-effect",
+        "pubDate": "Tue, 03 Feb 2026 02:07:08 -0500",
+        "category": "world"
+      },
       {
         "title": "Clintons agree to testify in House Epstein investigation ahead of contempt of Congress vote",
         "link": "https://www.npr.org/2026/02/03/nx-s1-5697831/clintons-agree-testify-house-epstein-investigation-contempt-congress-vote",
@@ -38,7 +68,7 @@
         "title": "Populist conservative Laura Fern\u00e1ndez wins Costa Rica&apos;s presidential election",
         "link": "https://www.npr.org/2026/02/02/g-s1-108418/costa-rica-election-laura-fernandez-wins",
         "pubDate": "Mon, 02 Feb 2026 16:28:21 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "What Jared Kushner&apos;s &apos;New Gaza&apos; plan includes, and what it leaves out",
@@ -50,12 +80,6 @@
         "title": "Trump administration sued over visa freeze on immigrants from 75 countries",
         "link": "https://www.npr.org/2026/02/02/nx-s1-5696686/visa-freeze-lawsuit-trump",
         "pubDate": "Mon, 02 Feb 2026 16:07:41 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. sledder Katie Uhlaender appeal denied, won&apos;t race at Milan Cortina Olympics",
-        "link": "https://www.npr.org/2026/02/02/nx-s1-5696782/katie-uhlaender-appeal-milan-cortina-olympics",
-        "pubDate": "Mon, 02 Feb 2026 15:37:31 -0500",
         "category": "Top News"
       },
       {
@@ -72,6 +96,30 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Rape trial begins for son of Norway's crown princess in tense moment for royal family",
+        "link": "https://www.bbc.com/news/articles/ckgn8dnxjgwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Feb 2026 08:43:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Musk firms SpaceX and xAI merge to make world's most valuable private company",
+        "link": "https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Feb 2026 08:40:40 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Trump seeks $1bn in damages from Harvard",
+        "link": "https://www.bbc.com/news/articles/crkryely657o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Feb 2026 07:08:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Red flags' missed before boy's murder, say family",
+        "link": "https://www.bbc.com/news/articles/cdxj0752n2lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Feb 2026 06:58:26 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Sarah Ferguson's charity to close days after new Epstein revelations",
         "link": "https://www.bbc.com/news/articles/c4gr1d8nv58o?at_medium=RSS&amp;at_campaign=rss",
@@ -97,62 +145,38 @@
         "category": "us"
       },
       {
-        "title": "SpaceX to take over Elon Musk's AI firm",
-        "link": "https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Feb 2026 01:04:46 GMT",
-        "category": "tech"
+        "title": "'You can't cut costs with animal welfare': The British zoos fighting for survival",
+        "link": "https://www.bbc.com/news/articles/c8749lwl8jvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Feb 2026 00:10:05 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Door is open to customs union talks with UK, EU says",
+        "title": "EU has 'open mind' on UK customs union debate, says commissioner",
         "link": "https://www.bbc.com/news/articles/cn56dnrvq03o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 03 Feb 2026 00:01:20 GMT",
         "category": "business"
-      },
-      {
-        "title": "After months of acrimony, Colombia's Petro is about to meet Trump",
-        "link": "https://www.bbc.com/news/articles/c62v187kl1ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Feb 2026 00:00:32 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Federal officers in Minneapolis to get body cameras 'effective immediately'",
-        "link": "https://www.bbc.com/news/articles/cwyw75ww9g9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Feb 2026 23:12:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Police review misconduct claims after files suggest Mandelson sent government information to Epstein",
-        "link": "https://www.bbc.com/news/articles/cgm4rkn7x7po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Feb 2026 22:25:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Crown Princess's son arrested for alleged assault before rape trial in Norway",
-        "link": "https://www.bbc.com/news/articles/crrn44p9r59o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Feb 2026 17:38:53 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Russia is ready for a new world with no nuclear limits, Ryabkov says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69819d52e27a48a8b968b6b7564719fe&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2frussia-is-ready-new-world-with-no-nuclear-limits-ryabkov-says-2026-02-03%2f&amp;c=3065157051053710762&amp;mkt=en-us",
-        "pubDate": "Mon, 02 Feb 2026 20:47:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Jeffrey Epstein's ties to politicians, business titans and other figures",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69819d6304c6491fb6f8d6179130bee7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fjeffrey-epsteins-ties-politicians-business-titans-other-figures-2026-02-03%2f&amp;c=10086213647208993493&amp;mkt=en-us",
-        "pubDate": "Mon, 02 Feb 2026 15:12:00 GMT",
-        "category": "business"
+        "title": "Montage Technology set to price Hong Kong $902 million listing at top of range",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6981b66e642840ffaf89d7d06f51f54b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fmontage-technology-set-price-hong-kong-902-million-listing-top-range-2026-02-03%2f&amp;c=6360948797157127592&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Feb 2026 19:31:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Gold and silver rebound after historic wipeout as analysts say thematic drivers stay intact",
-        "link": "https://www.cnbc.com/2026/02/03/gold-and-silver-rebound-after-historic-wipeout-as-analysts-say-thematic-drivers-stay-intact-.html",
-        "pubDate": "Tue, 03 Feb 2026 03:02:21 GMT",
-        "category": "world"
+        "title": "China set to attend India&apos;s upcoming AI summit signaling improving relations with New Delhi",
+        "link": "https://www.cnbc.com/2026/02/03/china-india-ai-summit-improving-relations-with-new-delhi.html",
+        "pubDate": "Tue, 03 Feb 2026 07:30:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tuesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/02/02/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Mon, 02 Feb 2026 23:54:54 GMT",
+        "category": "us"
       },
       {
         "title": "Stocks making the biggest moves after hours: Palantir, NXP Semiconductors, DaVita and more",
