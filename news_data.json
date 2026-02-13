@@ -1,33 +1,51 @@
 {
-  "updated_at": "2026-02-13T07:08:04.309795",
+  "updated_at": "2026-02-13T08:54:06.273812",
   "news": {
     "ap": [
       {
-        "title": "Second US aircraft carrier is being sent to the Middle East, AP source says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ecd613f4c4b0a8402da09e9ffa3d6&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-iran-aircraft-carrier-military-8db3fab10476949acda8b973be416204&amp;c=4977642983937267271&amp;mkt=en-us",
-        "pubDate": "Thu, 12 Feb 2026 20:57:00 GMT",
-        "category": "us"
-      },
-      {
         "title": "All-Star reliever Elroy Face, who saved 3 games for Pirates in 1960 World Series, dies at 97",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ecd60098b41889fc7633990503944&amp;url=https%3a%2f%2fapnews.com%2farticle%2felroy-face-pittsburgh-pirates-obit-yankees-1960-9d9c3899349042ffaae417f8d2778bbc&amp;c=15069097842884605936&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee652dcc444aa9796caa2ea933ef4&amp;url=https%3a%2f%2fapnews.com%2farticle%2felroy-face-pittsburgh-pirates-obit-yankees-1960-9d9c3899349042ffaae417f8d2778bbc&amp;c=15069097842884605936&amp;mkt=en-us",
         "pubDate": "Thu, 12 Feb 2026 20:44:00 GMT",
         "category": "world"
       },
       {
-        "title": "UN approves 40-member scientific panel on the impact of artificial intelligence over US objections",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ecd64e1004628937566a1cd51ce84&amp;url=https%3a%2f%2fapnews.com%2farticle%2fun-us-artificial-intelligence-scientific-panel-8936f242689792be7a7ab97e841cade8&amp;c=2533369189337191967&amp;mkt=en-us",
-        "pubDate": "Thu, 12 Feb 2026 17:42:00 GMT",
-        "category": "tech"
+        "title": "Scientific studies calculate climate change as health danger, while Trump calls it a \u2018scam\u2019",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee67133bb4c45aaba4521fd7463d3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fclimate-change-health-deaths-heat-sickness-scam-5b7492660d7dad1c324f2bbbe6163f1c&amp;c=1046801098019699998&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Feb 2026 15:40:00 GMT",
+        "category": "health"
       },
       {
         "title": "Top Trump antitrust official leaves post following disputes over big mergers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ecd63fe144c2e9e90cd1f554b64f7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhewlett-packard-slater-antitrust-trump-mergers-vance-13eba9dcef56aac42ad7453f22baa475&amp;c=7201278172675374401&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee65fa9a64226b21de1e35c457fe4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhewlett-packard-slater-antitrust-trump-mergers-vance-13eba9dcef56aac42ad7453f22baa475&amp;c=7201278172675374401&amp;mkt=en-us",
         "pubDate": "Thu, 12 Feb 2026 14:48:00 GMT",
         "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "Goldman Sachs&apos; top lawyer to resign after emails show close ties to Jeffrey Epstein",
+        "link": "https://www.npr.org/2026/02/13/nx-s1-5713309/goldman-sachs-epstein-ties-resignation",
+        "pubDate": "Fri, 13 Feb 2026 02:54:09 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Trump pardons 5 former NFL players for crimes ranging from perjury to drug trafficking",
+        "link": "https://www.npr.org/2026/02/13/nx-s1-5713307/trump-nfl-pardons",
+        "pubDate": "Fri, 13 Feb 2026 02:41:41 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Judge blocks Trump admin from rescinding health grants to Democratic-led states",
+        "link": "https://www.npr.org/2026/02/13/nx-s1-5713305/federal-funding-democratic-states-lawsuit",
+        "pubDate": "Fri, 13 Feb 2026 02:31:12 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Bangladesh National Party claims victory in first election since student uprising",
+        "link": "https://www.npr.org/2026/02/13/nx-s1-5713306/bangladesh-national-party-claims-victory-first-election-since-student-uprising",
+        "pubDate": "Fri, 13 Feb 2026 02:28:20 -0500",
+        "category": "world"
+      },
       {
         "title": "This year&apos;s Olympic medals are generating chatter \u2014 for their defects and price",
         "link": "https://www.npr.org/2026/02/12/nx-s1-5712772/olympic-medals-milan-cortina-games",
@@ -38,13 +56,13 @@
         "title": "Israel accuses two of using military secrets to place Polymarket bets",
         "link": "https://www.npr.org/2026/02/12/nx-s1-5712801/polymarket-bets-traders-israel-military",
         "pubDate": "Thu, 12 Feb 2026 20:51:25 -0500",
-        "category": "world"
+        "category": "business"
       },
       {
         "title": "Report finds children with mental health diagnoses often incarcerated instead of getting treatment",
         "link": "https://www.npr.org/2026/02/12/nx-s1-5712771/children-mental-health-diagnoses-often-incarcerated-treatment",
         "pubDate": "Thu, 12 Feb 2026 17:37:21 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "What will the cities of tomorrow look like? These middle schoolers have thoughts",
@@ -63,35 +81,17 @@
         "link": "https://www.npr.org/2026/02/12/nx-s1-5712749/chloe-kim-snowboard-medal-gaon-choi-olympics",
         "pubDate": "Thu, 12 Feb 2026 16:50:45 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "DHS expected to shut down as immigration talks falter",
-        "link": "https://www.npr.org/2026/02/12/nx-s1-5712744/dhs-shutdown",
-        "pubDate": "Thu, 12 Feb 2026 16:27:14 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Ukrainians rally in support of Olympian Vladyslav Heraskevych, banned for his helmet",
-        "link": "https://www.npr.org/2026/02/12/nx-s1-5712648/winter-olympics-vladyslav-heraskevych-ukraine-banned-ukrainians-react",
-        "pubDate": "Thu, 12 Feb 2026 15:38:57 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Olympic athletes push their bodies to the limit. Should we?",
-        "link": "https://www.npr.org/2026/02/12/nx-s1-5707478/olympics-pain-exercise-joints",
-        "pubDate": "Thu, 12 Feb 2026 12:58:55 -0500",
-        "category": "health"
-      },
-      {
-        "title": "&apos;Fresh Air&apos; staff bids farewell to longtime executive producer Danny Miller",
-        "link": "https://www.npr.org/2026/02/12/nx-s1-5712354/fresh-air-staff-bids-farewell-to-longtime-executive-producer-danny-miller",
-        "pubDate": "Thu, 12 Feb 2026 12:26:48 -0500",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "'My husband stole \u00a3600k for sex and antiques' - drug side effects tearing families apart",
+        "title": "Swimming in the Thames? The new places that could become official bathing spots",
+        "link": "https://www.bbc.com/news/articles/c1kgngg4wl4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 13 Feb 2026 06:18:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'My husband stole \u00a3600k for sex and antiques' - medication side effects tearing families apart",
         "link": "https://www.bbc.com/news/articles/clym0g4rlr2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 13 Feb 2026 06:02:40 GMT",
         "category": "Top News"
@@ -103,7 +103,7 @@
         "category": "Top News"
       },
       {
-        "title": "BBC catfishes conman back on dating app days after jail release",
+        "title": "BBC catfishes romance scammer who was back on dating app days after jail release",
         "link": "https://www.bbc.com/news/articles/cj0np329lmeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 13 Feb 2026 02:22:14 GMT",
         "category": "Top News"
@@ -133,12 +133,6 @@
         "category": "us"
       },
       {
-        "title": "Choi, 17, denies Kim historic third halfpipe gold",
-        "link": "https://www.bbc.com/sport/articles/cly2jknym20o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Feb 2026 21:45:54 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
         "link": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 12 Feb 2026 20:35:15 GMT",
@@ -153,36 +147,90 @@
     ],
     "reuters": [
       {
-        "title": "Start-of-year price increases seen lifting monthly US consumer inflation in January",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ecd71f5944702a9e89cc2d65bfb3e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fstart-of-year-price-increases-seen-lifting-monthly-us-consumer-inflation-january-2026-02-13%2f&amp;c=7029709091645627112&amp;mkt=en-us",
-        "pubDate": "Thu, 12 Feb 2026 20:04:00 GMT",
-        "category": "us"
+        "title": "Pakistan's jailed Imran Khan loses 85% vision in right eye, lawyer says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee675ed0c441c86b8aebb9cb3f7b4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistans-jailed-imran-khan-loses-85-vision-right-eye-lawyer-says-2026-02-13%2f&amp;c=10014887155479055750&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Feb 2026 21:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Capgemini exceeds revenue target as newly acquired WNS drives AI growth",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee675ed0c441c86b8aebb9cb3f7b4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fcapgemini-exceeds-revenue-target-ai-bookings-grow-2026-02-13%2f&amp;c=15708856589819687229&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Feb 2026 21:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sanofi's new CEO needs to fix drug pipeline and navigate Trump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee675ed0c441c86b8aebb9cb3f7b4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fsanofis-new-ceo-needs-fix-drug-pipeline-navigate-trump-2026-02-13%2f&amp;c=7051641814537504609&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Feb 2026 21:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "BNP sweeps Bangladesh election, son of former rulers set to become PM",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee675ed0c441c86b8aebb9cb3f7b4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fbangladeshs-bnp-wins-two-thirds-majority-landmark-election-2026-02-13%2f&amp;c=8121657968861319526&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Feb 2026 18:33:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Acid, not copper, is paying China's smelters but will it last?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee675ed0c441c86b8aebb9cb3f7b4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2facid-not-copper-is-paying-chinas-smelters-will-it-last-2026-02-13%2f&amp;c=1723157058668068864&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Feb 2026 17:49:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Judge blocks Trump administration from cutting $600 million in public health funds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ecd89d5ea439484f78ac59d550e17&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fjudge-blocks-trump-administration-cutting-600-million-public-health-funds-2026-02-13%2f&amp;c=1866998921713953531&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee6858b5b4139a165b7a8130ce4e1&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fjudge-blocks-trump-administration-cutting-600-million-public-health-funds-2026-02-13%2f&amp;c=1866998921713953531&amp;mkt=en-us",
         "pubDate": "Thu, 12 Feb 2026 17:28:00 GMT",
         "category": "health"
       },
       {
+        "title": "FBI increasing reward for information in Guthrie case to $100,000, releases new photos",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee675ed0c441c86b8aebb9cb3f7b4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffbi-increasing-reward-information-guthrie-case-100000-releases-new-photos-2026-02-12%2f&amp;c=13465909933813614541&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Feb 2026 14:51:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Loss of Fed independence could push up inflation all around the world, Bundesbank warns",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ecd6e0937486f858b68f24ecc005e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2floss-fed-independence-could-push-up-inflation-all-around-world-bundesbank-warns-2026-02-12%2f&amp;c=3828462052107559707&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee676f39c483a884eee6626cf3720&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2floss-fed-independence-could-push-up-inflation-all-around-world-bundesbank-warns-2026-02-12%2f&amp;c=3828462052107559707&amp;mkt=en-us",
         "pubDate": "Thu, 12 Feb 2026 11:31:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "Guthrie doorbell video delayed by difficult data recovery, but privacy advocates still worry",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee675ed0c441c86b8aebb9cb3f7b4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fguthrie-doorbell-video-delayed-by-difficult-data-recovery-privacy-advocates-2026-02-12%2f&amp;c=10468143862606531446&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Feb 2026 10:40:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "American Ilia Malinin making history with figure skating's first Olympic backflip in decades",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=698ee675ed0c441c86b8aebb9cb3f7b4&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ffigure-skating-malinin-making-history-with-skatings-first-olympic-backflip-2026-02-12%2f&amp;c=16878353679922118486&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Feb 2026 09:03:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "How China&apos;s &apos;unruly&apos; speculators might be fueling the frenzy in gold market",
-        "link": "https://www.cnbc.com/2026/02/13/china-gold-volatility-bessent-etfs-leverage-margin.html",
-        "pubDate": "Fri, 13 Feb 2026 06:58:41 GMT",
-        "category": "world"
+        "title": "China&apos;s Baidu adds OpenClaw AI into search app for 700 million users ahead of Lunar New Year",
+        "link": "https://www.cnbc.com/2026/02/13/baidu-openclaw-ai-search-app-integration-china-lunar-new-year.html",
+        "pubDate": "Fri, 13 Feb 2026 08:03:24 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Spirit Airlines sells more planes, calls back 500 flight attendants from furlough ahead of spring break",
-        "link": "https://www.cnbc.com/2026/02/12/spirit-airlines-sells-planes-flight-attendants.html",
-        "pubDate": "Thu, 12 Feb 2026 17:51:47 GMT",
-        "category": "business"
+        "title": "Xiaomi&apos;s electric SUV tops China sales in January, sells twice as many as Tesla&apos;s Model Y",
+        "link": "https://www.cnbc.com/2026/02/13/xiaomis-electric-suv-tops-china-sales-in-january-sells-twice-as-many-as-teslas-model-y.html",
+        "pubDate": "Fri, 13 Feb 2026 02:31:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Rivian, Applied Materials, Airbnb, Pinterest, DraftKings &amp; more",
+        "link": "https://www.cnbc.com/2026/02/12/stocks-making-the-biggest-moves-after-hours-amat-abnb-pins-dkng.html",
+        "pubDate": "Thu, 12 Feb 2026 22:24:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales",
+        "link": "https://www.cnbc.com/2026/02/12/tech-ipo-hype-drowned-out-by-prospect-of-1-trillion-in-debt-sales.html",
+        "pubDate": "Thu, 12 Feb 2026 13:00:01 GMT",
+        "category": "Top News"
       }
     ]
   }
