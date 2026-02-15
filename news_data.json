@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-15T20:38:37.749630",
+  "updated_at": "2026-02-15T22:35:52.862146",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Munich conference ends with Europe looking for a future less dependent on the U.S.",
+        "link": "https://www.npr.org/2026/02/15/nx-s1-5713543/munich-conference-ends-with-europe-looking-for-a-future-less-dependent-on-the-u-s",
+        "pubDate": "Sun, 15 Feb 2026 17:14:47 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Former DHS Secretary Napolitano talks about the past and future of ICE",
+        "link": "https://www.npr.org/2026/02/15/nx-s1-5712791/former-dhs-secretary-napolitano-talks-about-the-past-and-future-of-ice",
+        "pubDate": "Sun, 15 Feb 2026 17:14:46 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Landmark tech trials on social media addiction seen through a mother&apos;s eyes",
+        "link": "https://www.npr.org/2026/02/15/nx-s1-5712769/landmark-tech-trials-on-social-media-addiction-seen-through-a-mothers-eyes",
+        "pubDate": "Sun, 15 Feb 2026 17:14:43 -0500",
+        "category": "tech"
+      },
+      {
+        "title": "Trump&apos;s border czar says a &apos;small&apos; security force will stay in Minnesota",
+        "link": "https://www.npr.org/2026/02/15/nx-s1-5715151/minnesota-immigration-homan-security-force-stay",
+        "pubDate": "Sun, 15 Feb 2026 16:31:03 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "At least 6,000 killed over 3 days during RSF attack on Sudan&apos;s el-Fasher, UN says",
         "link": "https://www.npr.org/2026/02/15/nx-s1-5715154/6000-killed-during-rsf-attack-sudan-el-fasher-un",
         "pubDate": "Sun, 15 Feb 2026 13:55:54 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Obama responds to Trump sharing racist AI video depicting him as an ape",
         "link": "https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump",
         "pubDate": "Sun, 15 Feb 2026 13:45:20 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Photos: The flying doctors of Lesotho won&apos;t let their wings be clipped",
@@ -34,37 +58,19 @@
         "category": "Top News"
       },
       {
-        "title": "&apos;Major travel impacts&apos; expected as winter storm watch issued for northern California",
-        "link": "https://www.npr.org/2026/02/15/nx-s1-5715082/major-travel-impacts-winter-storm-watch-issued-northern-california",
-        "pubDate": "Sun, 15 Feb 2026 08:45:23 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Brazil&apos;s Pinheiro Braathen wins gold, and South America&apos;s first Winter Olympics medal",
-        "link": "https://www.npr.org/2026/02/15/nx-s1-5715075/brazil-braathen-gold-south-americas-first-winter-olympics-medal",
-        "pubDate": "Sun, 15 Feb 2026 07:58:17 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Want a mortgage for under 3% in 2026? Meet the &apos;assumable mortgage&apos;",
         "link": "https://www.npr.org/2026/02/15/nx-s1-5704697/assumable-mortgage-rates-housing-market",
         "pubDate": "Sun, 15 Feb 2026 07:00:00 -0500",
         "category": "business"
-      },
-      {
-        "title": "For U.S. pairs skater Danny O&apos;Shea, these Olympics are 30 years in the making",
-        "link": "https://www.npr.org/2026/02/15/nx-s1-5713620/olympics-danny-oshea-ellie-kam-pairs-figure-skating",
-        "pubDate": "Sun, 15 Feb 2026 07:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Epstein files fallout takes down elite figures in Europe, while U.S. reckoning is muted",
-        "link": "https://www.npr.org/2026/02/14/nx-s1-5714609/epstein-europe-fallout",
-        "pubDate": "Sat, 14 Feb 2026 18:04:44 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "FBI analysing recovered glove that appears to match those worn in Guthrie suspect video",
+        "link": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Feb 2026 20:39:35 GMT",
+        "category": "us"
+      },
       {
         "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
         "link": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&amp;at_campaign=rss",
@@ -75,12 +81,6 @@
         "title": "Team GB clinches second gold of day at Winter Olympics",
         "link": "https://www.bbc.com/sport/articles/cm2x7m17jydo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 15 Feb 2026 20:06:25 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Eleven killed in Israeli strikes on Gaza, rescuers say",
-        "link": "https://www.bbc.com/news/articles/c8r15eyvk2do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Feb 2026 18:42:42 GMT",
         "category": "Top News"
       },
       {
@@ -96,16 +96,16 @@
         "category": "world"
       },
       {
-        "title": "France hammer Wales to keep Grand Slam dream alive",
-        "link": "https://www.bbc.com/sport/rugby-union/articles/cddn92m8nd5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Feb 2026 17:01:25 GMT",
+        "title": "Delivery van 'stuck on deadliest mudflat footpath'",
+        "link": "https://www.bbc.com/news/articles/cn9e32yv9g5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Feb 2026 16:57:14 GMT",
         "category": "Top News"
       },
       {
         "title": "'Trump will be gone in three years': Top Democrats try to reassure Europe",
         "link": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 15 Feb 2026 15:32:07 GMT",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Hundreds of thousands join Iran protests around the world",
