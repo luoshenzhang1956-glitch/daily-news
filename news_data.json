@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-02-15T10:38:16.233300",
+  "updated_at": "2026-02-15T13:07:56.162519",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Brazil&apos;s Pinheiro Braathen wins gold, and South America&apos;s first Winter Olympics medal",
+        "link": "https://www.npr.org/2026/02/15/nx-s1-5715075/brazil-braathen-gold-south-americas-first-winter-olympics-medal",
+        "pubDate": "Sun, 15 Feb 2026 07:58:17 -0500",
+        "category": "world"
+      },
+      {
+        "title": "For U.S. pairs skater Danny O&apos;Shea, these Olympics are 30 years in the making",
+        "link": "https://www.npr.org/2026/02/15/nx-s1-5713620/olympics-danny-oshea-ellie-kam-pairs-figure-skating",
+        "pubDate": "Sun, 15 Feb 2026 07:00:00 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Want a mortgage for under 3% in 2026? Meet the &apos;assumable mortgage&apos;",
+        "link": "https://www.npr.org/2026/02/15/nx-s1-5704697/assumable-mortgage-rates-housing-market",
+        "pubDate": "Sun, 15 Feb 2026 07:00:00 -0500",
+        "category": "business"
+      },
+      {
         "title": "Epstein files fallout takes down elite figures in Europe, while U.S. reckoning is muted",
         "link": "https://www.npr.org/2026/02/14/nx-s1-5714609/epstein-europe-fallout",
         "pubDate": "Sat, 14 Feb 2026 18:04:44 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "A London beat framed by colonial history",
@@ -19,7 +37,7 @@
         "title": "Four people on NASA&apos;S Crew-12 arrive at the International Space Station",
         "link": "https://www.npr.org/2026/02/14/nx-s1-5714583/nasa-spacex-crew-12-iss",
         "pubDate": "Sat, 14 Feb 2026 16:10:52 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "American speedskater Jordan Stolz wins second Olympic gold with 500-meter race victory",
@@ -38,27 +56,33 @@
         "link": "https://www.npr.org/2026/02/14/nx-s1-5714517/eu-europe-russia-navalny",
         "pubDate": "Sat, 14 Feb 2026 08:54:50 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Opinion: Disqualified but not forgotten",
-        "link": "https://www.npr.org/2026/02/14/nx-s1-5705320/opinion-disqualified-but-not-forgotten",
-        "pubDate": "Sat, 14 Feb 2026 08:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "It&apos;s a dangerous complication of pregnancy -- but a new drug holds promise",
-        "link": "https://www.npr.org/2026/02/14/nx-s1-5708744/preeclampsia-pregnancy-complication-treatment",
-        "pubDate": "Sat, 14 Feb 2026 07:46:18 -0500",
-        "category": "health"
-      },
-      {
-        "title": "Meet the power couples of the 2026 Winter Games, from rivals to teammates",
-        "link": "https://www.npr.org/2026/02/14/nx-s1-5713531/olympic-paralympic-power-couples-team-usa",
-        "pubDate": "Sat, 14 Feb 2026 07:00:00 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Norway's Klaebo wins record ninth gold",
+        "link": "https://www.bbc.com/sport/articles/cy4wmyjnlz1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Feb 2026 12:42:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK wants action taken on Russia after Navalny frog poisoning, Cooper says",
+        "link": "https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Feb 2026 12:26:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "GB curlers sweep aside Germany to edge closer to semis",
+        "link": "https://www.bbc.com/sport/articles/c15xzvll0vzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Feb 2026 12:14:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Gender pay gap won't close for another 30 years, warns union",
+        "link": "https://www.bbc.com/news/articles/cvg5l75yx6vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Feb 2026 12:10:22 GMT",
+        "category": "Top News"
+      },
       {
         "title": "'Fast-spreading' measles outbreak hits several schools in London",
         "link": "https://www.bbc.com/news/articles/cev7edxxzm7o?at_medium=RSS&amp;at_campaign=rss",
@@ -78,16 +102,10 @@
         "category": "world"
       },
       {
-        "title": "Team GB short track medal slips away as Niall Treacy penalised",
-        "link": "https://www.bbc.com/sport/videos/c0j5nwwp3zeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Feb 2026 00:21:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Trump will be gone in three years': Top US Democrats try to reassure Europe",
+        "title": "'Trump will be gone in three years': Top Democrats try to reassure Europe",
         "link": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 15 Feb 2026 00:16:47 GMT",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "Death of the sex drive - and the great debate over whether testosterone can help get it back",
@@ -100,24 +118,6 @@
         "link": "https://www.bbc.com/news/articles/c0ljgzjwjx3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 15 Feb 2026 00:01:21 GMT",
         "category": "business"
-      },
-      {
-        "title": "Former Team GB medallist to represent Jamaica in bobsleigh team",
-        "link": "https://www.bbc.com/sport/articles/ckgl52gej21o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 14 Feb 2026 22:31:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "GB target skeleton team medal - Sunday's guide",
-        "link": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 14 Feb 2026 22:11:17 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "No arrests made after police search residence near Nancy Guthrie's home",
-        "link": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 14 Feb 2026 20:48:00 GMT",
-        "category": "us"
       }
     ],
     "reuters": [],
