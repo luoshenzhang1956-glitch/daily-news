@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-02-15T22:35:52.862146",
+  "updated_at": "2026-02-16T02:47:36.985711",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "FBI: DNA from glove near Guthrie home appears to match glove worn by suspect",
+        "link": "https://www.npr.org/2026/02/15/nx-s1-5715252/fbi-dna-glove-guthrie-home-suspect-video",
+        "pubDate": "Sun, 15 Feb 2026 18:39:12 -0500",
+        "category": "us"
+      },
       {
         "title": "Munich conference ends with Europe looking for a future less dependent on the U.S.",
         "link": "https://www.npr.org/2026/02/15/nx-s1-5713543/munich-conference-ends-with-europe-looking-for-a-future-less-dependent-on-the-u-s",
         "pubDate": "Sun, 15 Feb 2026 17:14:47 -0500",
         "category": "world"
-      },
-      {
-        "title": "Former DHS Secretary Napolitano talks about the past and future of ICE",
-        "link": "https://www.npr.org/2026/02/15/nx-s1-5712791/former-dhs-secretary-napolitano-talks-about-the-past-and-future-of-ice",
-        "pubDate": "Sun, 15 Feb 2026 17:14:46 -0500",
-        "category": "us"
       },
       {
         "title": "Landmark tech trials on social media addiction seen through a mother&apos;s eyes",
@@ -40,6 +40,12 @@
         "category": "Top News"
       },
       {
+        "title": "Why do humans kiss?",
+        "link": "https://www.npr.org/2026/02/15/nx-s1-5713528/why-do-humans-kiss",
+        "pubDate": "Sun, 15 Feb 2026 10:55:16 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Photos: The flying doctors of Lesotho won&apos;t let their wings be clipped",
         "link": "https://www.npr.org/2026/02/15/g-s1-108326/flying-doctors-lesotho",
         "pubDate": "Sun, 15 Feb 2026 10:17:12 -0500",
@@ -49,12 +55,6 @@
         "title": "Rockstar athletes like Ilia Malinin often get &apos;the yips&apos; at the Olympics. It can make them stronger",
         "link": "https://www.npr.org/2026/02/15/nx-s1-5714457/rockstar-athletes-like-ilia-malinin-often-get-the-yips-at-the-olympics-it-can-make-them-stronger",
         "pubDate": "Sun, 15 Feb 2026 09:27:16 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. Alpine skier Mikaela Shiffrin finishes another Olympic race without a medal",
-        "link": "https://www.npr.org/2026/02/15/nx-s1-5715058/u-s-alpine-skier-mikaela-shiffrin-finishes-another-olympic-race-without-a-medal",
-        "pubDate": "Sun, 15 Feb 2026 09:25:47 -0500",
         "category": "Top News"
       },
       {
@@ -68,13 +68,43 @@
       {
         "title": "FBI analysing recovered glove that appears to match those worn in Guthrie suspect video",
         "link": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Feb 2026 20:39:35 GMT",
+        "pubDate": "Mon, 16 Feb 2026 01:34:28 GMT",
         "category": "us"
       },
       {
-        "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
-        "link": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Feb 2026 20:13:08 GMT",
+        "title": "UK considering significant increase to defence spending",
+        "link": "https://www.bbc.com/news/articles/cpqwl10lvr2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 16 Feb 2026 01:28:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ministers want to reform SEND - but they are treading very carefully",
+        "link": "https://www.bbc.com/news/articles/c7951dzg9npo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 16 Feb 2026 01:11:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cabinet secretary frontrunner previously spoken to about management style",
+        "link": "https://www.bbc.com/news/articles/cpqwlwndj9yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 16 Feb 2026 01:07:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ex-church minister who admitted child sexual abuse to BBC still free years later",
+        "link": "https://www.bbc.com/news/articles/cx2k23mlkzlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 16 Feb 2026 00:29:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "No free pass for internet platforms on child safety, Starmer says",
+        "link": "https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Feb 2026 22:34:34 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "US attorney general criticised after saying all Epstein files have been released",
+        "link": "https://www.bbc.com/news/articles/cz7genjx9njo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Feb 2026 21:32:23 GMT",
         "category": "Top News"
       },
       {
@@ -94,36 +124,6 @@
         "link": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 15 Feb 2026 17:11:49 GMT",
         "category": "world"
-      },
-      {
-        "title": "Delivery van 'stuck on deadliest mudflat footpath'",
-        "link": "https://www.bbc.com/news/articles/cn9e32yv9g5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Feb 2026 16:57:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Trump will be gone in three years': Top Democrats try to reassure Europe",
-        "link": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Feb 2026 15:32:07 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hundreds of thousands join Iran protests around the world",
-        "link": "https://www.bbc.com/news/articles/czr0lykl4g4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Feb 2026 13:35:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK wants action taken on Russia after Navalny frog poisoning, Cooper says",
-        "link": "https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Feb 2026 12:26:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "This rail line caused travel chaos during storms. \u00a3165m later, it's happened again",
-        "link": "https://www.bbc.com/news/articles/c0q4j9e78jzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Feb 2026 00:13:56 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [],
