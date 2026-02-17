@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-02-17T05:27:36.786228",
+  "updated_at": "2026-02-17T07:11:24.605261",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "U.S. and Iran to hold a second round of nuclear talks in Geneva",
+        "link": "https://www.npr.org/2026/02/17/g-s1-110365/u-s-iran-nuclear-talks-geneva",
+        "pubDate": "Tue, 17 Feb 2026 02:01:58 -0500",
+        "category": "world"
+      },
       {
         "title": "Frederick Wiseman, who captured the weirdness and wonder of everyday life, dies at 96",
         "link": "https://www.npr.org/2026/02/16/1184170407/frederick-wiseman-obituary",
@@ -31,7 +37,7 @@
         "title": "The U.S. ready to make up, Europe ready to break up in Munich",
         "link": "https://www.npr.org/2026/02/16/nx-s1-5716050/us-europe-relations-munich",
         "pubDate": "Mon, 16 Feb 2026 14:49:04 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Actor Robert Duvall has died \u2014 he brought a compassionate center to edgy hard roles",
@@ -56,15 +62,27 @@
         "link": "https://www.npr.org/2026/02/16/g-s1-110271/up-first-newsletter-partial-shutdown-homeland-security-russia-ukraine-winter-olympics",
         "pubDate": "Mon, 16 Feb 2026 07:13:28 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "One Olympic sport doesn&apos;t allow women. These Games could determine its future",
-        "link": "https://www.npr.org/2026/02/16/nx-s1-5697967/olympics-women-nordic-combined",
-        "pubDate": "Mon, 16 Feb 2026 06:01:00 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Councils face 'uphill struggle' to be ready for local elections",
+        "link": "https://www.bbc.com/news/articles/c043z5rzwg7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Feb 2026 07:00:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Royal Mail allegedly 'choosing not to deliver letters', MP claims",
+        "link": "https://www.bbc.com/news/articles/cm2xy9x27mvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Feb 2026 06:46:53 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Boy becomes first in UK to have surgery to make him taller",
+        "link": "https://www.bbc.com/news/articles/cgqg92ll8vqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Feb 2026 06:16:51 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Trump says he will be 'indirectly' involved in Iran nuclear talks",
         "link": "https://www.bbc.com/news/articles/cwyknjnd706o?at_medium=RSS&amp;at_campaign=rss",
@@ -72,16 +90,10 @@
         "category": "Top News"
       },
       {
-        "title": "Councils face 'uphill struggle' to be ready for local elections",
-        "link": "https://www.bbc.com/news/articles/c043z5rzwg7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Feb 2026 03:48:20 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Hillary Clinton accuses Trump administration of Epstein files 'cover-up' in BBC interview",
         "link": "https://www.bbc.com/news/articles/czx47k34yqxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Feb 2026 03:32:15 GMT",
-        "category": "Top News"
+        "category": "world"
       },
       {
         "title": "Bailiffs used to pursue NHS staff over pay errors",
@@ -96,18 +108,6 @@
         "category": "Top News"
       },
       {
-        "title": "Actor Robert Duvall, who starred in The Godfather, dies aged 95",
-        "link": "https://www.bbc.com/news/articles/ce3g41z58vno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Feb 2026 00:34:36 GMT",
-        "category": "us"
-      },
-      {
-        "title": "The tech bros might show more humility in Delhi \u2013 but will they make AI any safer?",
-        "link": "https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Feb 2026 00:12:58 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
         "link": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 16 Feb 2026 22:02:33 GMT",
@@ -117,13 +117,13 @@
         "title": "Six of Sarah Ferguson's companies winding down",
         "link": "https://www.bbc.com/news/articles/cd9g28yzy0no?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 16 Feb 2026 19:22:44 GMT",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "US build-up of warships and fighter jets tracked near Iran",
         "link": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 16 Feb 2026 18:17:18 GMT",
-        "category": "world"
+        "category": "us"
       }
     ],
     "reuters": [],
