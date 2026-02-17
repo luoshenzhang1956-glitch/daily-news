@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-02-17T19:09:17.438406",
+  "updated_at": "2026-02-17T20:48:59.358258",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "A safe space for girls who&apos;ve faced sexual violence",
+        "link": "https://www.npr.org/2026/02/17/nx-s1-5667015/sexual-violence-girls-safe-space",
+        "pubDate": "Tue, 17 Feb 2026 14:43:14 -0500",
+        "category": "health"
+      },
       {
         "title": "U.S. releases new details on alleged secret Chinese nuclear test",
         "link": "https://www.npr.org/2026/02/17/nx-s1-5716046/u-s-releases-new-details-on-alleged-secret-chinese-nuclear-test",
@@ -16,7 +22,7 @@
         "category": "Top News"
       },
       {
-        "title": "Top Trump administration immigration spokesperson is leaving",
+        "title": "Top DHS spokesperson who became a face of Trump immigration policy is leaving",
         "link": "https://www.npr.org/2026/02/17/g-s1-110410/homeland-security-department-mclaughlin-departure",
         "pubDate": "Tue, 17 Feb 2026 12:55:22 -0500",
         "category": "Top News"
@@ -56,20 +62,26 @@
         "link": "https://www.npr.org/2026/02/17/nx-s1-5716224/kalshi-polymarket-super-bowl-alpha",
         "pubDate": "Tue, 17 Feb 2026 05:00:00 -0500",
         "category": "tech"
-      },
-      {
-        "title": "This behavior can be a turning point for families caring for a dementia patient",
-        "link": "https://www.npr.org/2026/02/17/nx-s1-5715970/dementia-alzheimers-elopement-lost-memory-care",
-        "pubDate": "Tue, 17 Feb 2026 05:00:00 -0500",
-        "category": "health"
       }
     ],
     "bbc": [
       {
         "title": "Police assessing Stansted Airport private flights over Epstein ties",
         "link": "https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Feb 2026 18:42:10 GMT",
+        "pubDate": "Tue, 17 Feb 2026 20:01:17 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Dual nationals face scramble for British passports as new rules come into force",
+        "link": "https://www.bbc.com/news/articles/cx2d9yk2kpjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Feb 2026 19:53:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US civil rights leader Jesse Jackson dies aged 84",
+        "link": "https://www.bbc.com/news/articles/cp81l0e1eg5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Feb 2026 18:55:33 GMT",
+        "category": "world"
       },
       {
         "title": "Cabinet secretary frontrunner faced multiple bullying complaints",
@@ -84,28 +96,10 @@
         "category": "Top News"
       },
       {
-        "title": "Jesse Jackson: A life in pictures",
-        "link": "https://www.bbc.com/news/articles/cn0zjz58nzqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Feb 2026 17:18:19 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Dual nationals face scramble for British passports as new rules come into force",
-        "link": "https://www.bbc.com/news/articles/cx2d9yk2kpjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Feb 2026 16:45:21 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'The search is soul-destroying': Young jobseekers on the struggle to find work",
         "link": "https://www.bbc.com/news/articles/c3wl17l3ggqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Feb 2026 16:37:08 GMT",
         "category": "business"
-      },
-      {
-        "title": "Cold health alert issued as temperatures fall across the UK",
-        "link": "https://www.bbc.com/news/articles/cdxgew324r9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Feb 2026 12:06:53 GMT",
-        "category": "Top News"
       },
       {
         "title": "Boy first in UK to have pioneering leg-lengthening surgery",
@@ -118,6 +112,12 @@
         "link": "https://www.bbc.com/news/articles/cx77214zz9eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Feb 2026 10:04:08 GMT",
         "category": "us"
+      },
+      {
+        "title": "The Martin Luther King protege who helped reshape America",
+        "link": "https://www.bbc.com/news/articles/cx77214zz9eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Feb 2026 10:04:08 GMT",
+        "category": "Top News"
       },
       {
         "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
