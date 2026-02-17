@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-02-17T07:11:24.605261",
+  "updated_at": "2026-02-17T08:59:38.110275",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Australia won&apos;t repatriate 34 women and children from Syria",
+        "link": "https://www.npr.org/2026/02/17/nx-s1-5716762/australia-wont-repatriate-34-women-and-children-from-syria",
+        "pubDate": "Tue, 17 Feb 2026 02:07:39 -0500",
+        "category": "world"
+      },
+      {
         "title": "U.S. and Iran to hold a second round of nuclear talks in Geneva",
         "link": "https://www.npr.org/2026/02/17/g-s1-110365/u-s-iran-nuclear-talks-geneva",
         "pubDate": "Tue, 17 Feb 2026 02:01:58 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Frederick Wiseman, who captured the weirdness and wonder of everyday life, dies at 96",
@@ -56,15 +62,27 @@
         "link": "https://www.npr.org/2026/02/16/nx-s1-5715996/primary-care-independent-physician-association-ipa-medicaid-cuts-value-based-reimbursement",
         "pubDate": "Mon, 16 Feb 2026 13:08:47 -0500",
         "category": "health"
-      },
-      {
-        "title": "DHS shuts down after a funding lapse. And, why athletes get the &apos;yips&apos; at the Olympics",
-        "link": "https://www.npr.org/2026/02/16/g-s1-110271/up-first-newsletter-partial-shutdown-homeland-security-russia-ukraine-winter-olympics",
-        "pubDate": "Mon, 16 Feb 2026 07:13:28 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Electronic artist Look Mum No Computer to represent UK at Eurovision",
+        "link": "https://www.bbc.com/news/articles/clygz17y5kdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Feb 2026 08:38:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Hillary Clinton accuses Trump administration of Epstein files 'cover-up' in BBC interview",
+        "link": "https://www.bbc.com/news/articles/czx47k34yqxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Feb 2026 07:59:55 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Calculator: How will freeze on tax thresholds hit your take-home pay?",
+        "link": "https://www.bbc.com/news/articles/c99k7djlklyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Feb 2026 07:10:15 GMT",
+        "category": "business"
+      },
       {
         "title": "Councils face 'uphill struggle' to be ready for local elections",
         "link": "https://www.bbc.com/news/articles/c043z5rzwg7o?at_medium=RSS&amp;at_campaign=rss",
@@ -72,16 +90,10 @@
         "category": "Top News"
       },
       {
-        "title": "Royal Mail allegedly 'choosing not to deliver letters', MP claims",
-        "link": "https://www.bbc.com/news/articles/cm2xy9x27mvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Feb 2026 06:46:53 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Boy becomes first in UK to have surgery to make him taller",
+        "title": "Boy first in UK to have surgery to make him taller",
         "link": "https://www.bbc.com/news/articles/cgqg92ll8vqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Feb 2026 06:16:51 GMT",
-        "category": "Top News"
+        "category": "health"
       },
       {
         "title": "Trump says he will be 'indirectly' involved in Iran nuclear talks",
@@ -90,21 +102,15 @@
         "category": "Top News"
       },
       {
-        "title": "Hillary Clinton accuses Trump administration of Epstein files 'cover-up' in BBC interview",
-        "link": "https://www.bbc.com/news/articles/czx47k34yqxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Feb 2026 03:32:15 GMT",
-        "category": "world"
+        "title": "'A sad day' - Canada rocked by curling cheating row at Winter Games",
+        "link": "https://www.bbc.com/news/articles/c9dne166pwlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Feb 2026 02:02:16 GMT",
+        "category": "Top News"
       },
       {
         "title": "Bailiffs used to pursue NHS staff over pay errors",
         "link": "https://www.bbc.com/news/articles/cvg59579q16o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Feb 2026 01:43:37 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Facing a demographic catastrophe, Ukraine is paying for troops to freeze their sperm",
-        "link": "https://www.bbc.com/news/articles/cqxd9549y4xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Feb 2026 01:10:57 GMT",
         "category": "Top News"
       },
       {
@@ -112,12 +118,6 @@
         "link": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 16 Feb 2026 22:02:33 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Six of Sarah Ferguson's companies winding down",
-        "link": "https://www.bbc.com/news/articles/cd9g28yzy0no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 16 Feb 2026 19:22:44 GMT",
-        "category": "Top News"
       },
       {
         "title": "US build-up of warships and fighter jets tracked near Iran",
