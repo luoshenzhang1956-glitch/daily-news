@@ -1,18 +1,36 @@
 {
-  "updated_at": "2026-02-18T22:43:20.172083",
+  "updated_at": "2026-02-19T02:46:27.306083",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "8 confirmed dead in Sierra Nevada avalanche",
-        "link": "https://www.npr.org/2026/02/18/nx-s1-5718267/8-confirmed-dead-in-sierra-nevada-avalanche",
-        "pubDate": "Wed, 18 Feb 2026 17:16:42 -0500",
+        "title": "With a win over Sweden, the U.S. men&apos;s hockey team will play for an Olympic medal",
+        "link": "https://www.npr.org/2026/02/18/nx-s1-5718567/olympic-mens-hockey-usa-beats-sweden",
+        "pubDate": "Wed, 18 Feb 2026 19:01:36 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Zuckerberg grilled about Meta&apos;s strategy to target &apos;teens&apos; and &apos;tweens&apos;",
+        "link": "https://www.npr.org/2026/02/18/nx-s1-5717117/zuckerberg-testimony-social-media-addiction-trial",
+        "pubDate": "Wed, 18 Feb 2026 18:54:48 -0500",
         "category": "us"
+      },
+      {
+        "title": "The Trump administration is increasingly trying to criminalize observing ICE",
+        "link": "https://www.npr.org/2026/02/18/nx-s1-5699708/ice-observers-impeding-obstructing-interfering",
+        "pubDate": "Wed, 18 Feb 2026 18:26:43 -0500",
+        "category": "Top News"
       },
       {
         "title": "8 backcountry skiers found dead and 1 still missing after California avalanche",
         "link": "https://www.npr.org/2026/02/18/nx-s1-5718550/backcountry-skiers-still-missing-california-avalanche",
         "pubDate": "Wed, 18 Feb 2026 17:02:45 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Wrapping snow in blankets. Can it save the ski season?",
+        "link": "https://www.npr.org/2026/02/18/nx-s1-5703575/wrapping-snow-in-blankets-can-that-save-the-ski-season",
+        "pubDate": "Wed, 18 Feb 2026 16:55:49 -0500",
         "category": "Top News"
       },
       {
@@ -37,74 +55,56 @@
         "title": "Australia bans a citizen with alleged IS links from returning from Syria",
         "link": "https://www.npr.org/2026/02/18/g-s1-110560/australia-bans-a-citizen-with-alleged-is-links-from-returning-from-syria",
         "pubDate": "Wed, 18 Feb 2026 11:53:00 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Do the people building the AI chatbot Claude understand what they&apos;ve created?",
         "link": "https://www.npr.org/2026/02/18/nx-s1-5717561/do-the-people-building-the-ai-chatbot-claude-understand-what-theyve-created",
         "pubDate": "Wed, 18 Feb 2026 11:39:29 -0500",
         "category": "tech"
-      },
-      {
-        "title": "Russia&apos;s hybrid warfare rattles Poland and NATO",
-        "link": "https://www.npr.org/2026/02/18/nx-s1-5702706/russia-hybrid-warfare-poland",
-        "pubDate": "Wed, 18 Feb 2026 11:09:22 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;Let them shower in hotels&apos;: Johannesburg Premier faces backlash amid water crisis",
-        "link": "https://www.npr.org/2026/02/18/nx-s1-5716121/johannesburg-water-anc-corruption-southafrica",
-        "pubDate": "Wed, 18 Feb 2026 11:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Greetings from Cairo, where lights and decorations transform the city during Ramadan",
-        "link": "https://www.npr.org/2026/02/18/g-s1-110292/ramadan-cairo-egypt",
-        "pubDate": "Wed, 18 Feb 2026 10:09:12 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Major special education support shake-up risks political backlash",
+        "link": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Feb 2026 01:32:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Why there's no quick fix in sight for the problem of dazzling headlights",
+        "link": "https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Feb 2026 01:10:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Child poverty figures in the UK expected to be revised down",
+        "link": "https://www.bbc.com/news/articles/c3rz8q3qpwzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Feb 2026 01:03:10 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Tech firms will have 48 hours to remove abusive images under new law",
         "link": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Feb 2026 22:32:18 GMT",
+        "pubDate": "Thu, 19 Feb 2026 00:55:16 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Eight skiers found dead after California avalanche",
+        "link": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Feb 2026 23:06:14 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Zuckerberg defends Meta in landmark social media addiction trial",
+        "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Feb 2026 22:58:58 GMT",
+        "category": "business"
       },
       {
         "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
         "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 18 Feb 2026 22:08:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Eight skiers found dead after California avalanche",
-        "link": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Feb 2026 21:54:30 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Billionaire Les Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
-        "link": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Feb 2026 20:58:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "GB curlers emerge from epic day with medal hopes revived",
-        "link": "https://www.bbc.com/sport/articles/c0q3nejy1pjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Feb 2026 20:23:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Zuckerberg defends Meta in landmark social media addiction trial",
-        "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Feb 2026 19:27:53 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Vinicius: Eight years at Real Madrid, 20 cases of alleged racist abuse",
-        "link": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Feb 2026 17:40:56 GMT",
         "category": "Top News"
       },
       {
