@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-02-19T07:12:38.341321",
+  "updated_at": "2026-02-19T08:58:08.773291",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Iran and the U.S. lean into gunboat diplomacy as nuclear talks hang in balance",
+        "link": "https://www.npr.org/2026/02/19/nx-s1-5719071/iran-us-gunboat-diplomacy-nuclear-talks-in-balance",
+        "pubDate": "Thu, 19 Feb 2026 03:23:41 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Former South Korean President Yoon receives life sentence for imposing martial law",
+        "link": "https://www.npr.org/2026/02/19/g-s1-110691/former-south-korean-president-yoon-receives-life-sentence-for-imposing-martial-law",
+        "pubDate": "Thu, 19 Feb 2026 02:31:37 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Jos\u00e9 Mar\u00eda Balc\u00e1zar becomes Peru&apos;s eighth president in a decade",
         "link": "https://www.npr.org/2026/02/19/g-s1-110679/peru-new-president",
         "pubDate": "Thu, 19 Feb 2026 01:43:18 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump gathers members of Board of Peace for first meeting, with some U.S. allies wary",
@@ -40,22 +52,10 @@
         "category": "Top News"
       },
       {
-        "title": "Wrapping snow in blankets. Can it save the ski season?",
-        "link": "https://www.npr.org/2026/02/18/nx-s1-5703575/wrapping-snow-in-blankets-can-that-save-the-ski-season",
-        "pubDate": "Wed, 18 Feb 2026 16:55:49 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "FDA reverses course on Moderna flu shot",
         "link": "https://www.npr.org/2026/02/18/nx-s1-5718116/fda-moderna-mrna-flu-shot",
         "pubDate": "Wed, 18 Feb 2026 16:39:15 -0500",
         "category": "health"
-      },
-      {
-        "title": "Trump would like the government he leads to pay him billions",
-        "link": "https://www.npr.org/2026/02/18/nx-s1-5702503/trump-government-lawsuits-pay-himself-billions",
-        "pubDate": "Wed, 18 Feb 2026 12:00:00 -0500",
-        "category": "Top News"
       },
       {
         "title": "Do the people building the AI chatbot Claude understand what they&apos;ve created?",
@@ -66,28 +66,34 @@
     ],
     "bbc": [
       {
-        "title": "PM says 'nobody is above the law' over Andrew allegations",
-        "link": "https://www.bbc.com/news/articles/crm83kkrn9xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 19 Feb 2026 06:08:57 GMT",
+        "title": "Warmer winter hits profits at British Gas owner",
+        "link": "https://www.bbc.com/news/articles/cz7g9ge2lr2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Feb 2026 08:49:09 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Bill Gates pulls out of India's AI summit amid Epstein files controversy",
+        "link": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Feb 2026 08:13:25 GMT",
         "category": "Top News"
       },
       {
-        "title": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
-        "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 19 Feb 2026 06:08:07 GMT",
-        "category": "world"
+        "title": "PM says 'nobody is above the law' over Andrew allegations",
+        "link": "https://www.bbc.com/news/articles/crm83kkrn9xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Feb 2026 07:40:37 GMT",
+        "category": "Top News"
       },
       {
         "title": "British couple jailed by Iran for 10 years, family says",
         "link": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 19 Feb 2026 06:04:57 GMT",
+        "pubDate": "Thu, 19 Feb 2026 07:38:52 GMT",
         "category": "Top News"
       },
       {
-        "title": "Zuckerberg defends Meta in landmark social media addiction trial",
-        "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 19 Feb 2026 03:29:12 GMT",
-        "category": "business"
+        "title": "White House presses Iran to make deal, while ramping up military presence",
+        "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Feb 2026 06:08:07 GMT",
+        "category": "world"
       },
       {
         "title": "Major special education support shake-up risks political backlash",
@@ -96,9 +102,9 @@
         "category": "Top News"
       },
       {
-        "title": "Child poverty figures in the UK expected to be revised down",
-        "link": "https://www.bbc.com/news/articles/c3rz8q3qpwzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 19 Feb 2026 01:03:10 GMT",
+        "title": "Why there's no quick fix in sight for the problem of dazzling headlights",
+        "link": "https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Feb 2026 01:10:15 GMT",
         "category": "Top News"
       },
       {
@@ -108,22 +114,16 @@
         "category": "tech"
       },
       {
-        "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
-        "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Feb 2026 22:08:13 GMT",
-        "category": "Top News"
+        "title": "Eight skiers found dead after California avalanche",
+        "link": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Feb 2026 23:06:14 GMT",
+        "category": "us"
       },
       {
         "title": "Children injured by NHS can claim damages for lifetime lost earnings, court rules",
         "link": "https://www.bbc.com/news/articles/clygw74z9dzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 18 Feb 2026 17:37:34 GMT",
         "category": "health"
-      },
-      {
-        "title": "Rescuers search for nine missing skiers after California avalanche",
-        "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Feb 2026 15:29:37 GMT",
-        "category": "us"
       }
     ],
     "reuters": [],
