@@ -1,20 +1,44 @@
 {
-  "updated_at": "2026-02-23T13:21:04.513087",
+  "updated_at": "2026-02-23T14:57:02.771781",
   "news": {
     "ap": [
       {
+        "title": "Serena Williams brings athlete discipline to business leadership in \u2018The CEO Club\u2019 series",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c6a1db781400ebb18ed9493f2fc37&amp;url=https%3a%2f%2fapnews.com%2farticle%2fserena-williams-ceo-club-interview-ce4a485c38cb25a07e51867c104caf5a&amp;c=15540184427783779247&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 06:45:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Zimbabwe wins toss and opts to bowl against West Indies in Super 8s at the T20 World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c6a0c5ea34f2f9a6d92d71ff4310e&amp;url=https%3a%2f%2fapnews.com%2farticle%2ft20-world-cup-cricket-zimbabwe-west-indies-1085408313ffa529af0a877b0e584e58&amp;c=16647809682906046149&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 05:35:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "Dick Advocaat quits as Cura&#231;ao coach over daughter\u2019s health, won\u2019t lead team at the World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c53ec879f4611a2a617b587fcc576&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuracao-advocaat-resigns-world-cup-afa112e2f821d4af7360037342d35a3f&amp;c=2558916486085314301&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c6a1fca194bba9029fead18906032&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuracao-advocaat-resigns-world-cup-afa112e2f821d4af7360037342d35a3f&amp;c=2558916486085314301&amp;mkt=en-us",
         "pubDate": "Mon, 23 Feb 2026 03:25:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "Nets take on the Mavericks on 4-game losing streak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c6a1e69fe45dcba146af48f3a0213&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcooper-flagg-brooklyn-nets-dallas-mavericks-8c21231d04df4eadb91fc94625c3b976&amp;c=3424758698782590538&amp;mkt=en-us",
+        "pubDate": "Sun, 22 Feb 2026 23:05:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "In the shadow of the Olympics, migrants search for a welcome in Milan",
+        "link": "https://www.npr.org/2026/02/23/nx-s1-5719485/italy-migrants-milan",
+        "pubDate": "Mon, 23 Feb 2026 08:25:36 -0500",
+        "category": "world"
+      },
+      {
         "title": "Trump to raise global tariffs. And, most say the state of the union is weak, poll says",
         "link": "https://www.npr.org/2026/02/23/g-s1-111152/up-first-newsletter-trump-tariffs-china-state-of-the-union-winter-games-fcc",
         "pubDate": "Mon, 23 Feb 2026 07:30:48 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Armed man shot and killed at Mar-a-Lago Sunday",
@@ -63,15 +87,15 @@
         "link": "https://www.npr.org/2026/02/23/g-s1-111138/mexico-fears-more-violence-after-army-kills-leader-of-powerful-jalisco-cartel",
         "pubDate": "Mon, 23 Feb 2026 01:32:40 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Newly discovered dinosaur species was a fish-eater with a huge horn",
-        "link": "https://www.npr.org/2026/02/22/nx-s1-5722918/new-dinosaur-spinosaurus-fossil-niger-horn-sereno",
-        "pubDate": "Sun, 22 Feb 2026 20:10:39 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "UK says 'nothing is off the table' in response to US tariffs",
+        "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Feb 2026 14:08:16 GMT",
+        "category": "business"
+      },
       {
         "title": "The key changes being made to special educational needs - at a glance",
         "link": "https://www.bbc.com/news/articles/cwyke5n1z4po?at_medium=RSS&amp;at_campaign=rss",
@@ -85,12 +109,6 @@
         "category": "Top News"
       },
       {
-        "title": "UK set to be among worst hit by Trump's 15% global tariff",
-        "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Feb 2026 12:08:18 GMT",
-        "category": "business"
-      },
-      {
         "title": "'Closest I've felt' - Hodgkinson on breaking longest-standing world record",
         "link": "https://www.bbc.com/sport/athletics/articles/c0j5459ndv1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 23 Feb 2026 12:08:18 GMT",
@@ -101,6 +119,12 @@
         "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 23 Feb 2026 12:02:38 GMT",
         "category": "us"
+      },
+      {
+        "title": "Cartel henchmen unleash violence after top drug lord killed in Mexico",
+        "link": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Feb 2026 11:27:45 GMT",
+        "category": "Top News"
       },
       {
         "title": "Porn company fined \u00a31.35m by Ofcom over age check failings",
@@ -125,100 +149,21 @@
         "link": "https://www.bbc.com/news/articles/cdr232j8kgvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 23 Feb 2026 05:09:45 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
-        "link": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 22 Feb 2026 22:00:47 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "Live: Mexico\u2019s Sheinbaum to speak after violence triggered by cartel boss 'El Mencho' killing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c53fa57ef4ff9b858a8e3c0539e7b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2flive-mexicos-sheinbaum-speak-after-violence-triggered-by-cartel-boss-el-mencho-2026-02-23%2f&amp;c=14238826055519482956&amp;mkt=en-us",
-        "pubDate": "Mon, 23 Feb 2026 03:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump renews attack on US Supreme Court, vows other tariffs, licenses",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c540c26504a68800c4753690c5165&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-renews-attack-us-supreme-court-vows-other-tariffs-licenses-2026-02-23%2f&amp;c=15216321405468449528&amp;mkt=en-us",
-        "pubDate": "Mon, 23 Feb 2026 03:18:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Merck to create separate cancer business to offset Keytruda patent loss, WSJ reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c540d4a2842c995b663ada6518454&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmerck-create-separate-cancer-business-offset-keytruda-patent-loss-wsj-reports-2026-02-23%2f&amp;c=8266006640515981787&amp;mkt=en-us",
-        "pubDate": "Mon, 23 Feb 2026 02:22:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Top Noem aide entered cockpit before firing pilot over missing blanket, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c53fa57ef4ff9b858a8e3c0539e7b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftop-noem-aide-entered-cockpit-before-firing-pilot-over-missing-blanket-sources-2026-02-23%2f&amp;c=4565171518489761897&amp;mkt=en-us",
-        "pubDate": "Mon, 23 Feb 2026 02:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Software companies face higher borrowing costs, tougher scrutiny as AI threatens businesses",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c53fa57ef4ff9b858a8e3c0539e7b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fsoftware-companies-face-higher-borrowing-costs-tougher-scrutiny-ai-threatens-2026-02-23%2f&amp;c=8868102401591370150&amp;mkt=en-us",
-        "pubDate": "Mon, 23 Feb 2026 02:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Carmakers push toward \u2018eyes-off\u2019 driving, raising questions of safety, liability",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c53fa57ef4ff9b858a8e3c0539e7b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fcarmakers-push-toward-eyes-off-driving-raising-questions-safety-liability-2026-02-23%2f&amp;c=12987554488981319716&amp;mkt=en-us",
-        "pubDate": "Mon, 23 Feb 2026 02:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Advocaat resigns as Curacao coach due to daughter's health, Dutch media reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c541fe5004c38aa57c71d1b13593f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fadvocaat-resigns-curacao-coach-due-daughters-health-dutch-media-reports-2026-02-23%2f&amp;c=13198242916393952631&amp;mkt=en-us",
-        "pubDate": "Mon, 23 Feb 2026 01:55:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "With US tariff rates up in the air, the economic fog again thickens",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c53fa57ef4ff9b858a8e3c0539e7b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwith-us-tariff-rates-up-air-economic-fog-again-thickens-2026-02-23%2f&amp;c=2984335564323575039&amp;mkt=en-us",
-        "pubDate": "Sun, 22 Feb 2026 21:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Surfing's world champion says many top tour surfers unhappy with Olympic qualification tweaks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c53fa57ef4ff9b858a8e3c0539e7b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fworld-champion-says-many-top-tour-surfers-unhappy-with-olympic-qualification-2026-02-23%2f&amp;c=9866368736937833097&amp;mkt=en-us",
-        "pubDate": "Sun, 22 Feb 2026 20:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China is making 'full assessment' of US Supreme Court tariff ruling, commerce ministry says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c53fa57ef4ff9b858a8e3c0539e7b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-is-making-full-assessment-us-supreme-court-tariff-ruling-commerce-ministry-2026-02-23%2f&amp;c=9969577868105931382&amp;mkt=en-us",
-        "pubDate": "Sun, 22 Feb 2026 17:46:00 GMT",
-        "category": "Top News"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Buy this coffee and peanut butter maker as risks ease, says Bank of America",
-        "link": "https://www.cnbc.com/2026/02/23/buy-this-coffee-and-peanut-butter-maker-as-risks-ease-says-bank-of-america.html",
-        "pubDate": "Mon, 23 Feb 2026 13:20:09 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Novo Nordisk sinks 15% after weight loss drug fails to match Eli Lilly&apos;s in trial",
-        "link": "https://www.cnbc.com/2026/02/23/novo-nordisk-stock-cagrisema-trial-fails-weight-loss.html",
-        "pubDate": "Mon, 23 Feb 2026 13:10:54 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Europe hits back at &apos;pure tariff chaos&apos; from the U.S., warning trade deals are at risk",
-        "link": "https://www.cnbc.com/2026/02/23/trump-15percent-global-tariff-europe-eu-uk-reaction.html",
-        "pubDate": "Mon, 23 Feb 2026 11:30:25 GMT",
-        "category": "world"
-      },
-      {
-        "title": "As American Girl turns 40, Mattel grapples with bringing dolls into a new era",
-        "link": "https://www.cnbc.com/2026/02/22/american-girl-40th-anniversary-sales-mattel.html",
-        "pubDate": "Mon, 23 Feb 2026 10:34:42 GMT",
+        "title": "Blizzard cripples East Coast airports, with flights canceled through Tuesday",
+        "link": "https://www.cnbc.com/2026/02/21/blizzard-prompts-airlines-waive-flight-change-fees.html",
+        "pubDate": "Mon, 23 Feb 2026 14:46:01 GMT",
         "category": "business"
+      },
+      {
+        "title": "UBS upgrades real estate stock hit by AI fears: &apos;Rare buying opportunity&apos;",
+        "link": "https://www.cnbc.com/2026/02/23/ubs-upgrades-real-estate-stock-hit-by-ai-fears-rare-opportunity.html",
+        "pubDate": "Mon, 23 Feb 2026 14:15:22 GMT",
+        "category": "us"
       }
     ]
   }
