@@ -1,83 +1,95 @@
 {
-  "updated_at": "2026-02-23T08:59:33.998214",
+  "updated_at": "2026-02-23T10:57:00.367470",
   "news": {
     "ap": [
       {
         "title": "Nets take on the Mavericks on 4-game losing streak",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c169bedda4a8a9943f89bd6e41aaf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcooper-flagg-brooklyn-nets-dallas-mavericks-8c21231d04df4eadb91fc94625c3b976&amp;c=3424758698782590538&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c3224dd7147bab2372b7c604c44f3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcooper-flagg-brooklyn-nets-dallas-mavericks-8c21231d04df4eadb91fc94625c3b976&amp;c=3424758698782590538&amp;mkt=en-us",
         "pubDate": "Sun, 22 Feb 2026 23:05:00 GMT",
         "category": "tech"
       },
       {
-        "title": "From bakeries to beauty shops, Russian businesses are feeling the pain from a new wartime tax policy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c16945a244ee5be8df3c8498dda01&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussia-war-economy-taxes-ukraine-putin-aa58356ff3c5cf04c5dbf795dddfb90f&amp;c=274154574023125603&amp;mkt=en-us",
-        "pubDate": "Sun, 22 Feb 2026 21:15:00 GMT",
-        "category": "business"
+        "title": "EU diplomats to meet Board of Peace director over Gaza\u2019s future",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c3209223149c08f537bb76d4ce6cd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fboard-peace-gaza-brussels-f7d86d6e63ddbdd3b771a6172468d1b3&amp;c=4998120132155787747&amp;mkt=en-us",
+        "pubDate": "Sun, 22 Feb 2026 21:48:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "FBI director joins US men\u2019s hockey team in locker room celebration of Olympic gold medal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c320be11c494396e0f20a1f5de169&amp;url=https%3a%2f%2fapnews.com%2farticle%2folympics-hockey-fbi-director-kash-patel-8eb9ff9fcdf6ecd605643860fd1c18bf&amp;c=16297257553894041606&amp;mkt=en-us",
+        "pubDate": "Sun, 22 Feb 2026 21:09:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
       {
+        "title": "U.S. has a quarter fewer immigration judges than it did a year ago. Here&apos;s why",
+        "link": "https://www.npr.org/2026/02/23/g-s1-110911/trump-immigration-judges-dismissals-numbers",
+        "pubDate": "Mon, 23 Feb 2026 05:30:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "The owners want to close this Colorado coal plant. The Trump administration says no",
+        "link": "https://www.npr.org/2026/02/23/g-s1-110980/trump-coal-energy-colorado",
+        "pubDate": "Mon, 23 Feb 2026 05:00:00 -0500",
+        "category": "business"
+      },
+      {
+        "title": "Influencers are promoting peptides for better health. What&apos;s the science say?",
+        "link": "https://www.npr.org/2026/02/23/nx-s1-5716162/peptides-science-muscle-growth-longevity-wellness",
+        "pubDate": "Mon, 23 Feb 2026 05:00:00 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Poll: Most say the state of the union is not strong and the U.S. is worse off",
+        "link": "https://www.npr.org/2026/02/23/nx-s1-5720975/poll-trump-state-of-the-union-sotu",
+        "pubDate": "Mon, 23 Feb 2026 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/02/23/nx-s1-5718111/morning-news-brief",
+        "pubDate": "Mon, 23 Feb 2026 04:45:37 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Death of Mexican cartel leader sparks widespread violence across Mexico",
+        "link": "https://www.npr.org/2026/02/23/nx-s1-5722898/death-of-mexican-cartel-leader-sparks-widespread-violence-across-mexico",
+        "pubDate": "Mon, 23 Feb 2026 04:45:28 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Fear of Flying clinic helps anxious travelers take off",
+        "link": "https://www.npr.org/2026/02/23/nx-s1-5685380/fear-of-flying-clinic-helps-anxious-travelers-take-off",
+        "pubDate": "Mon, 23 Feb 2026 04:44:59 -0500",
+        "category": "us"
+      },
+      {
+        "title": "U.S. boosts gold medal tally at Winter Games, led by athletes from handful of states",
+        "link": "https://www.npr.org/2026/02/23/nx-s1-5720980/us-gold-medals-winter-games-vermont-alaska",
+        "pubDate": "Mon, 23 Feb 2026 04:00:00 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Mexico fears more violence after army kills leader of powerful Jalisco cartel",
         "link": "https://www.npr.org/2026/02/23/g-s1-111138/mexico-fears-more-violence-after-army-kills-leader-of-powerful-jalisco-cartel",
         "pubDate": "Mon, 23 Feb 2026 01:32:40 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Newly discovered dinosaur species was a fish-eater with a huge horn",
         "link": "https://www.npr.org/2026/02/22/nx-s1-5722918/new-dinosaur-spinosaurus-fossil-niger-horn-sereno",
         "pubDate": "Sun, 22 Feb 2026 20:10:39 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Reporters&apos; notebook: The Olympics closing ceremony is way more fun than you&apos;d think",
-        "link": "https://www.npr.org/2026/02/22/nx-s1-5722948/2026-olympics-closing-ceremony",
-        "pubDate": "Sun, 22 Feb 2026 19:52:15 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "A major winter storm hits the Northeast, with blizzard warnings in effect",
-        "link": "https://www.npr.org/2026/02/22/nx-s1-5722878/northeast-blizzard-snowstorm-new-york-jersey",
-        "pubDate": "Sun, 22 Feb 2026 17:33:48 -0500",
-        "category": "us"
-      },
-      {
-        "title": "Mexican army kills leader of Jalisco New Generation Cartel, official says",
-        "link": "https://www.npr.org/2026/02/22/nx-s1-5722897/mexican-army-kills-leader-of-jalisco-new-generation-cartel-official-says",
-        "pubDate": "Sun, 22 Feb 2026 14:09:05 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Ukraine&apos;s combat amputees cling to hope as a weapon of war",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/02/22/g-s1-103854/ukraine-war-amputees",
-        "pubDate": "Sun, 22 Feb 2026 13:28:42 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "University students hold new protests in Iran around memorials for those killed",
-        "link": "https://www.npr.org/2026/02/22/nx-s1-5722880/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-        "pubDate": "Sun, 22 Feb 2026 12:54:52 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Pakistan claims to have killed at least 70 militants in strikes along Afghan border",
-        "link": "https://www.npr.org/2026/02/22/nx-s1-5722854/pakistan-border-strikes-afghanistan-70-killed",
-        "pubDate": "Sun, 22 Feb 2026 10:55:39 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Business owners are wondering if they&apos;ll get their money back after tariff ruling",
-        "link": "https://www.npr.org/2026/02/22/nx-s1-5721090/business-owners-are-wondering-if-theyll-get-their-money-back-after-tariff-ruling",
-        "pubDate": "Sun, 22 Feb 2026 08:09:12 -0500",
-        "category": "business"
-      },
-      {
-        "title": "Families call for increasing access to early diagnoses and interventions for autism",
-        "link": "https://www.npr.org/2026/02/22/nx-s1-5627498/families-call-for-increasing-access-to-early-diagnoses-and-interventions-for-autism",
-        "pubDate": "Sun, 22 Feb 2026 08:08:55 -0500",
-        "category": "health"
       }
     ],
     "bbc": [
+      {
+        "title": "Netflix boss defends bid for Warner Bros as Paramount deadline looms",
+        "link": "https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Feb 2026 10:41:49 GMT",
+        "category": "business"
+      },
       {
         "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
         "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&amp;at_campaign=rss",
@@ -109,7 +121,7 @@
         "category": "Top News"
       },
       {
-        "title": "Andrew charged taxpayers for massage when UK trade envoy, claim ex-civil servants",
+        "title": "Andrew charged taxpayers for massage services when UK trade envoy, claim ex-civil servants",
         "link": "https://www.bbc.com/news/articles/cdr232j8kgvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 23 Feb 2026 05:09:45 GMT",
         "category": "Top News"
@@ -131,46 +143,94 @@
         "link": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 22 Feb 2026 22:00:47 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "The uncertainties facing businesses and consumers after Trump's tariff changes",
-        "link": "https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 22 Feb 2026 16:55:58 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
+        "title": "Novo Nordisk's obesity drug falls short against Eli Lilly's in trial",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c3239dde3478cb4f2845993fe7511&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fnovo-nordisks-obesity-drug-falls-short-against-eli-lillys-copenhagen-trial-2026-02-23%2f&amp;c=15838774721941862853&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 00:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Human rights are under assault, says UN Secretary General",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c3239dde3478cb4f2845993fe7511&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fhuman-rights-are-under-assault-says-un-secretary-general-2026-02-23%2f&amp;c=4491889700740990099&amp;mkt=en-us",
+        "pubDate": "Sun, 22 Feb 2026 23:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Goldman raises Q4 oil price outlook on lower OECD stocks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c3239dde3478cb4f2845993fe7511&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fgoldman-raises-q4-oil-price-outlook-lower-oecd-stocks-2026-02-23%2f&amp;c=16625657785140229236&amp;mkt=en-us",
+        "pubDate": "Sun, 22 Feb 2026 22:12:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "With US tariff rates up in the air, the economic fog again thickens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c3239dde3478cb4f2845993fe7511&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwith-us-tariff-rates-up-air-economic-fog-again-thickens-2026-02-23%2f&amp;c=2984335564323575039&amp;mkt=en-us",
+        "pubDate": "Sun, 22 Feb 2026 21:02:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Surfing's world champion says many top tour surfers unhappy with Olympic qualification tweaks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c16bb66614d6abd9f61f9c593d38a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fworld-champion-says-many-top-tour-surfers-unhappy-with-olympic-qualification-2026-02-23%2f&amp;c=9866368736937833097&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c3246d50d4a4dad9f8419efd07dd5&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fworld-champion-says-many-top-tour-surfers-unhappy-with-olympic-qualification-2026-02-23%2f&amp;c=9866368736937833097&amp;mkt=en-us",
         "pubDate": "Sun, 22 Feb 2026 20:55:00 GMT",
         "category": "world"
       },
       {
+        "title": "US tariff turmoil leaves Treasury markets dazed",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c3239dde3478cb4f2845993fe7511&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fus-tariff-turmoil-leaves-treasury-markets-dazed-2026-02-23%2f&amp;c=3392364997990383950&amp;mkt=en-us",
+        "pubDate": "Sun, 22 Feb 2026 20:49:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "South Korea, Brazil agree to expand cooperation in key minerals, trade",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c16c9ee494996b35b00aa41542ffc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-korea-brazil-agree-expand-cooperation-key-minerals-trade-2026-02-23%2f&amp;c=15930048708408175211&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c325588064425b3cecbec6517ae57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-korea-brazil-agree-expand-cooperation-key-minerals-trade-2026-02-23%2f&amp;c=15930048708408175211&amp;mkt=en-us",
         "pubDate": "Sun, 22 Feb 2026 20:43:00 GMT",
         "category": "tech"
       },
       {
+        "title": "US to stop collecting tariffs deemed illegal by Supreme Court on Tuesday",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c3239dde3478cb4f2845993fe7511&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-customs-agency-stop-collecting-tariffs-deemed-illegal-by-supreme-court-2026-02-23%2f&amp;c=319429245841720390&amp;mkt=en-us",
+        "pubDate": "Sun, 22 Feb 2026 20:29:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Powerful winter storm shuts schools, disrupts travel across US Northeast",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c16bc20bd4250ba73e2bd6db96208&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpowerful-winter-storm-shuts-schools-disrupts-travel-across-us-northeast-2026-02-23%2f&amp;c=12391025615150560188&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c32470d68458eb3205ec48b299dec&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpowerful-winter-storm-shuts-schools-disrupts-travel-across-us-northeast-2026-02-23%2f&amp;c=12391025615150560188&amp;mkt=en-us",
         "pubDate": "Sun, 22 Feb 2026 20:04:00 GMT",
         "category": "us"
+      },
+      {
+        "title": "China is making 'full assessment' of US Supreme Court tariff ruling, commerce ministry says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c3239dde3478cb4f2845993fe7511&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-is-making-full-assessment-us-supreme-court-tariff-ruling-commerce-ministry-2026-02-23%2f&amp;c=9969577868105931382&amp;mkt=en-us",
+        "pubDate": "Sun, 22 Feb 2026 17:46:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Sam Altman defends AI resource usage: Water concerns &apos;fake,&apos; and &apos;humans use energy too&apos;",
-        "link": "https://www.cnbc.com/2026/02/23/openai-altman-defends-ai-resource-usage-water-concerns-fake-humans-use-energy-summit.html",
-        "pubDate": "Mon, 23 Feb 2026 08:54:35 GMT",
-        "category": "tech"
+        "title": "As American Girl turns 40, Mattel grapples with bringing dolls into a new era",
+        "link": "https://www.cnbc.com/2026/02/22/american-girl-40th-anniversary-sales-mattel.html",
+        "pubDate": "Mon, 23 Feb 2026 10:34:42 GMT",
+        "category": "business"
       },
       {
-        "title": "Top Wall Street analysts are bullish on the growth potential of these three stocks",
-        "link": "https://www.cnbc.com/2026/02/22/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-        "pubDate": "Sun, 22 Feb 2026 12:33:12 GMT",
-        "category": "us"
+        "title": "Novo Nordisk sinks 13% after weight loss drug fails to match Eli Lilly&apos;s in trial",
+        "link": "https://www.cnbc.com/2026/02/23/novo-nordisk-stock-cagrisema-trial-fails-weight-loss.html",
+        "pubDate": "Mon, 23 Feb 2026 10:32:31 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Europe hits back at &apos;pure tariff chaos&apos; from the U.S., warning trade deals are at risk",
+        "link": "https://www.cnbc.com/2026/02/23/trump-15percent-global-tariff-europe-eu-uk-reaction.html",
+        "pubDate": "Mon, 23 Feb 2026 09:33:50 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Sam Altman defends AI resource usage: Water concerns &apos;fake,&apos; and &apos;humans use energy too&apos;",
+        "link": "https://www.cnbc.com/2026/02/23/openai-altman-defends-ai-resource-usage-water-concerns-fake-humans-use-energy-summit.html",
+        "pubDate": "Mon, 23 Feb 2026 09:04:56 GMT",
+        "category": "tech"
       }
     ]
   }
