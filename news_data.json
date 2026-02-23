@@ -1,31 +1,73 @@
 {
-  "updated_at": "2026-02-23T17:07:30.284719",
+  "updated_at": "2026-02-23T19:13:27.641874",
   "news": {
     "ap": [
       {
-        "title": "Dick Advocaat quits as Cura&#231;ao coach over daughter\u2019s health, won\u2019t lead team at the World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c88c5a67840c08c73767c8f66309e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuracao-advocaat-resigns-world-cup-afa112e2f821d4af7360037342d35a3f&amp;c=2558916486085314301&amp;mkt=en-us",
-        "pubDate": "Mon, 23 Feb 2026 03:25:00 GMT",
+        "title": "West Indies score record 254 runs and thrash Zimbabwe by 107 at T20 World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ca671895e4a629bb415060efcfb48&amp;url=https%3a%2f%2fapnews.com%2farticle%2ft20-world-cup-cricket-zimbabwe-west-indies-1085408313ffa529af0a877b0e584e58&amp;c=16647809682906046149&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 09:59:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "Blizzard warnings and travel shutdowns trap millions at home in northeastern US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ca673cead4f36ac088145056a70bf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-east-coast-winter-storm-blizzard-c32d60af1f146359664d6688a2dcdada&amp;c=13886929263975460111&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 09:59:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "FDA proposes new system for approving customized drugs and therapies for rare diseases",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ca67432e94c13965fd3482036df5e&amp;url=https%3a%2f%2fapnews.com%2farticle%2frare-diseases-fda-gene-editing-drugs-e6a3d5f318ccf082c7f277025136df62&amp;c=16549540879503120286&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 08:38:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Serena Williams brings athlete discipline to business leadership in \u2018The CEO Club\u2019 series",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ca6746e164ad3b8cf61da1f0e2f69&amp;url=https%3a%2f%2fapnews.com%2farticle%2fserena-williams-ceo-club-interview-ce4a485c38cb25a07e51867c104caf5a&amp;c=15540184427783779247&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 06:45:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Dick Advocaat quits as Cura&#231;ao coach over daughter\u2019s health, won\u2019t lead team at the World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ca675a9d34175b8557063c190e075&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuracao-advocaat-resigns-world-cup-afa112e2f821d4af7360037342d35a3f&amp;c=2558916486085314301&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 03:25:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
       {
+        "title": "A powerful winter storm is roiling travel across the northeastern U.S.",
+        "link": "https://www.npr.org/2026/02/23/g-s1-111202/winter-storm-northeast-travel-airport-flight-train-roads-new-york-boston",
+        "pubDate": "Mon, 23 Feb 2026 13:16:01 -0500",
+        "category": "us"
+      },
+      {
+        "title": "U.K. arrests ex-ambassador to the U.S. on suspicion of misconduct over Epstein ties",
+        "link": "https://www.npr.org/2026/02/23/g-s1-111196/uk-peter-mandelson-epstein-misconduct-investigation",
+        "pubDate": "Mon, 23 Feb 2026 13:11:17 -0500",
+        "category": "world"
+      },
+      {
         "title": "What NPR reporters will remember most about these Winter Olympics",
         "link": "https://www.npr.org/2026/02/23/nx-s1-5723755/2026-winter-olympics-npr-reporter-reflections",
         "pubDate": "Mon, 23 Feb 2026 10:41:12 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "In the shadow of the Olympics, migrants search for a welcome in Milan",
         "link": "https://www.npr.org/2026/02/23/nx-s1-5719485/italy-migrants-milan",
         "pubDate": "Mon, 23 Feb 2026 08:25:36 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump to raise global tariffs. And, most say the state of the union is weak, poll says",
         "link": "https://www.npr.org/2026/02/23/g-s1-111152/up-first-newsletter-trump-tariffs-china-state-of-the-union-winter-games-fcc",
         "pubDate": "Mon, 23 Feb 2026 07:30:48 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Lawyer in SCOTUS case against Trump&apos;s tariffs says his clients want a refund",
+        "link": "https://www.npr.org/2026/02/23/nx-s1-5722862/neal-katyal-supreme-court-trump-tariffs-illegal",
+        "pubDate": "Mon, 23 Feb 2026 06:40:39 -0500",
         "category": "Top News"
       },
       {
@@ -51,68 +93,56 @@
         "link": "https://www.npr.org/2026/02/23/nx-s1-5720975/poll-trump-state-of-the-union-sotu",
         "pubDate": "Mon, 23 Feb 2026 05:00:00 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/02/23/nx-s1-5718111/morning-news-brief",
-        "pubDate": "Mon, 23 Feb 2026 04:45:37 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. boosts gold medal tally at Winter Games, led by athletes from handful of states",
-        "link": "https://www.npr.org/2026/02/23/nx-s1-5720980/us-gold-medals-winter-games-vermont-alaska",
-        "pubDate": "Mon, 23 Feb 2026 04:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Mexico fears more violence after army kills leader of powerful Jalisco cartel",
-        "link": "https://www.npr.org/2026/02/23/g-s1-111138/mexico-fears-more-violence-after-army-kills-leader-of-powerful-jalisco-cartel",
-        "pubDate": "Mon, 23 Feb 2026 01:32:40 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "PM orders ethics investigation into minister over Labour Together claims",
-        "link": "https://www.bbc.com/news/articles/c8xy5jepevno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Feb 2026 17:03:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "At least 25 National Guards killed in violence after death of Mexican drug lord",
-        "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Feb 2026 17:01:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Care home boss sexually abused children for decades",
-        "link": "https://www.bbc.com/news/articles/cn48xg1pz7xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Feb 2026 16:51:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump vows higher tariffs on countries that 'play games' with existing trade deals",
-        "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Feb 2026 16:41:52 GMT",
-        "category": "us"
-      },
-      {
         "title": "BBC sorry for airing racial slur shouted by guest with Tourette's at Baftas",
         "link": "https://www.bbc.com/news/articles/cz6edwg06n1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Feb 2026 16:33:21 GMT",
+        "pubDate": "Mon, 23 Feb 2026 18:46:04 GMT",
         "category": "Top News"
       },
       {
         "title": "No 10 says \u2018nothing off the table\u2019 over new US tariffs as UK could be among worst hit",
         "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Feb 2026 15:59:19 GMT",
+        "pubDate": "Mon, 23 Feb 2026 18:34:22 GMT",
         "category": "business"
       },
       {
-        "title": "Porn company fined \u00a31.35m by Ofcom over age check failings",
-        "link": "https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Feb 2026 11:27:13 GMT",
+        "title": "Watch: Peter Mandelson led away by police from Camden home",
+        "link": "https://www.bbc.com/news/videos/c5y627gx8gko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Feb 2026 17:56:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Special educational needs system to be overhauled in England",
+        "link": "https://www.bbc.com/news/articles/c309zp49zdno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Feb 2026 17:51:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Care home boss sexually abused children for decades",
+        "link": "https://www.bbc.com/news/articles/cn48xg1pz7xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Feb 2026 17:25:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'The end of Xbox': fans split as AI exec takes over Microsoft's top gaming role",
+        "link": "https://www.bbc.com/news/articles/cq6q8l81d9qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Feb 2026 17:21:27 GMT",
         "category": "tech"
+      },
+      {
+        "title": "At least 25 National Guard troops killed in violence after death of Mexican drug lord",
+        "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Feb 2026 17:01:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Winter storm covers parts north-east US in snow",
+        "link": "https://www.bbc.com/news/videos/ce3g73nnlelo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Feb 2026 09:40:07 GMT",
+        "category": "us"
       },
       {
         "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
@@ -125,34 +155,52 @@
         "link": "https://www.bbc.com/news/articles/cvgj9yznzg7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 23 Feb 2026 05:44:45 GMT",
         "category": "health"
-      },
-      {
-        "title": "Andrew charged taxpayers for massage services when envoy, claim ex-civil servants",
-        "link": "https://www.bbc.com/news/articles/cdr232j8kgvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Feb 2026 05:09:45 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Lumineux Launches New 10% Nano-Hydroxyapatite Performance Whitening Toothpaste, Advancing the Smile Care System",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699c8931ea7a4d3c894e0464283d9593&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2flumineux-launches-nano-hydroxyapatite-performance-whitening-toothpaste-2026-02-23%2f&amp;c=10455589731642907786&amp;mkt=en-us",
-        "pubDate": "Mon, 23 Feb 2026 00:06:00 GMT",
-        "category": "health"
+        "title": "Russia and Belarus resinstated to World Climbing Federation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ca6882b654ba8829da00b1715cd58&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2frussia-belarus-resinstated-world-climbing-federation-2026-02-23%2f&amp;c=3092028507786122397&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 05:47:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US CDC's Ralph Abraham becomes second top official to quit in a month",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ca68a56374682bcfb602d367b7866&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-cdc-says-ralph-abraham-steps-down-principal-deputy-director-2026-02-23%2f&amp;c=1688076195187989130&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 05:18:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "German business sentiment rises, reviving recovery hopes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ca68ba5d146449c5a44eb67e5f506&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fgerman-business-sentiment-rose-more-than-expected-february-ifo-survey-finds-2026-02-23%2f%3flink_source%3dta_bluesky_link&amp;c=4334351814588504561&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Feb 2026 00:14:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "A look at the utility names on Josh Brown&apos;s Best Stocks list, including one nearing a multiyear breakout",
-        "link": "https://www.cnbc.com/2026/02/23/a-look-at-the-utility-names-on-josh-browns-best-stocks-list.html",
-        "pubDate": "Mon, 23 Feb 2026 16:34:37 GMT",
+        "title": "The stars are aligning for this country ETF, says Katie Stockton",
+        "link": "https://www.cnbc.com/2026/02/23/the-stars-are-aligning-for-this-country-etf-says-katie-stockton.html",
+        "pubDate": "Mon, 23 Feb 2026 19:00:01 GMT",
         "category": "us"
       },
       {
-        "title": "Blizzard cripples East Coast airports, with flights canceled through Tuesday",
-        "link": "https://www.cnbc.com/2026/02/21/blizzard-prompts-airlines-waive-flight-change-fees.html",
-        "pubDate": "Mon, 23 Feb 2026 15:49:43 GMT",
-        "category": "business"
+        "title": "Stocks making the biggest moves midday: KKR, Blackstone, CrowdStrike, International Paper &amp; more",
+        "link": "https://www.cnbc.com/2026/02/23/stocks-making-the-biggest-moves-midday-kkr-bx-crwd-ip-.html",
+        "pubDate": "Mon, 23 Feb 2026 18:38:13 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bitcoin falls to nearly $64,000 as 2026 crypto woes continue",
+        "link": "https://www.cnbc.com/2026/02/23/bitcoin-falls-to-nearly-64000-as-2026-crypto-woes-continue-.html",
+        "pubDate": "Mon, 23 Feb 2026 18:02:59 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Eli Lilly launches new form of obesity drug Zepbound with a month\u2019s worth of doses in one pen",
+        "link": "https://www.cnbc.com/2026/02/23/eli-lilly-launches-zepbound-obesity-drug-pen-one-month-doses.html",
+        "pubDate": "Mon, 23 Feb 2026 16:39:22 GMT",
+        "category": "health"
       }
     ]
   }
