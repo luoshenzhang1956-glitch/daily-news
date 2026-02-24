@@ -1,23 +1,89 @@
 {
-  "updated_at": "2026-02-24T19:13:29.365158",
+  "updated_at": "2026-02-24T20:43:58.473970",
   "news": {
     "ap": [
       {
-        "title": "Mexican cartel clashes fuel worries in lead-up to FIFA World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7adc295413a9b3732af62bc1995&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmexico-jalisco-cartel-mencho-killed-tapalpa-b12ed518d44951c7875bfddef1c2c7b4&amp;c=17850900877574755046&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Feb 2026 10:37:00 GMT",
-        "category": "world"
+        "title": "Hegseth warns Anthropic to let the military use the company\u2019s AI tech as it sees fit, AP source says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d3d7fba4d319e7cdff3b2fe8454&amp;url=https%3a%2f%2fapnews.com%2farticle%2fanthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba&amp;c=9054902170736454420&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 12:25:00 GMT",
+        "category": "tech"
       },
       {
-        "title": "Canada approves latest Gulfstream business jets after Trump tariff threat",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7c4e5464c9b86496cf5f645ce77&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcanada-us-planes-tariffs-gulfstream-approval-trump-69077bf2f810beabffa37b05d2317ddb&amp;c=13102893474654890111&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Feb 2026 09:14:00 GMT",
-        "category": "business"
+        "title": "Texas Rep. Gonzales resists calls to resign over allegations of an affair with an ex-staffer",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d2b9e974b21ae47188f09cce1dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftony-gonzales-affair-allegation-staffer-41fa0e0aced73f145035fb23e06c2d96&amp;c=4561252788546900110&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 11:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US ambassador to France defuses diplomatic squabble with Paris over killing of student",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d2b9e974b21ae47188f09cce1dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffrance-us-ambassador-charles-kushner-648b599a32730b0e28a80329a1f45ba6&amp;c=11073438064492422009&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 11:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "FACT FOCUS: A look at Trump\u2019s false and misleading claims ahead of the State of the Union",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d2b9e974b21ae47188f09cce1dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffact-check-trump-state-of-union-87b184f7a38e65fa97d27c05ba2497fa&amp;c=1840844035398311617&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 10:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "5 questions heading into Trump\u2019s State of the Union address",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d2b9e974b21ae47188f09cce1dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstate-of-union-trump-takeaways-fec4b2cf2de394188b4b9e89d2d24de6&amp;c=9010262294389990474&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 10:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Supreme Court rules the Postal Service can\u2019t be sued, even when mail is intentionally not delivered",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d2b9e974b21ae47188f09cce1dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsupreme-court-postal-service-missing-mail-7ce97a5b7d56373cdeaa6ecc9a9132f5&amp;c=17431468807482416957&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 09:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US women\u2019s gold medal-winning team declines invitation from Trump to attend State of Union address",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d2b9e974b21ae47188f09cce1dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-state-of-union-womens-hockey-gold-medal-2311fcc12756a72d8733f0f8c12116f8&amp;c=1382425476443243917&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 09:34:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Live updates: Trump will lay out his midterm agenda at the State of the Union",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d2b9e974b21ae47188f09cce1dd&amp;url=https%3a%2f%2fapnews.com%2flive%2ftrump-state-of-the-union-2026&amp;c=2818324723544145572&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 09:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Robert Carradine, \u2018Revenge of the Nerds\u2019 and \u2018Lizzie McGuire\u2019 star, dies at 71",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d2b9e974b21ae47188f09cce1dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2frobert-carradine-dies-5b5b3ee6f40b4a82a37221f04641988f&amp;c=6219932750397365740&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 08:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "State of the Union offers Trump a chance to make the case for his foreign policy approach",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d2b9e974b21ae47188f09cce1dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstate-of-union-trump-iran-venezuela-f50a498626de2ab89647df0428f5ec20&amp;c=12148487596734328827&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 04:59:00 GMT",
+        "category": "Top News"
       }
     ],
     "npr": [
       {
-        "title": "Where patients live matters for access to gene therapy",
+        "title": "Hegseth threatens to cancel Anthropic&apos;s $200 million contract over &quot;woke AI&quot; concerns",
+        "link": "https://www.npr.org/2026/02/24/nx-s1-5725327/pentagon-anthropic-hegseth-safety",
+        "pubDate": "Tue, 24 Feb 2026 15:26:53 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Listen to NPR live coverage of the State of the Union",
+        "link": "https://www.npr.org/2026/02/24/nx-s1-5716161/trump-state-of-the-union-listen",
+        "pubDate": "Tue, 24 Feb 2026 15:22:23 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "The Louvre Museum&apos;s director has resigned in the wake of October&apos;s brazen jewel heist",
+        "link": "https://www.npr.org/2026/02/24/g-s1-111343/france-paris-louvre-museum-heist-director-resigns",
+        "pubDate": "Tue, 24 Feb 2026 14:19:19 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Gene therapy is transforming lives, but for many Americans it&apos;s hard to reach",
         "link": "https://www.npr.org/2026/02/24/nx-s1-5723768/gene-therapy-access",
         "pubDate": "Tue, 24 Feb 2026 10:00:55 -0500",
         "category": "health"
@@ -26,13 +92,7 @@
         "title": "DOJ hides Trump-related Epstein files. And, what to know for the State of the Union",
         "link": "https://www.npr.org/2026/02/24/g-s1-111316/up-first-newsletter-trump-sotu-mexico-cartel-epstein-files",
         "pubDate": "Tue, 24 Feb 2026 07:19:03 -0500",
-        "category": "world"
-      },
-      {
-        "title": "Voters share their thoughts on the state of the union ahead of Trump&apos;s address",
-        "link": "https://www.npr.org/2026/02/24/nx-s1-5719773/voters-share-their-thoughts-on-the-state-of-the-union-ahead-of-trumps-address",
-        "pubDate": "Tue, 24 Feb 2026 07:09:01 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Democrats tap Spanberger and Padilla to respond to State of the Union",
@@ -47,12 +107,6 @@
         "category": "business"
       },
       {
-        "title": "Russia thought it would take days to seize Ukraine. 4 years later, war is still raging",
-        "link": "https://www.npr.org/2026/02/24/nx-s1-5721139/russia-ukraine-war",
-        "pubDate": "Tue, 24 Feb 2026 06:00:00 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "A U.S. veteran adopted an orphan from Iran. Decades later, ICE is trying to deport her",
         "link": "https://www.npr.org/2026/02/24/nx-s1-5723914/ice-iran-deporatation-adoption-adoptee-veteran",
         "pubDate": "Tue, 24 Feb 2026 06:00:00 -0500",
@@ -62,12 +116,6 @@
         "title": "What you need to know about tonight&apos;s State of the Union address",
         "link": "https://www.npr.org/2026/02/24/nx-s1-5717048/trump-congress-state-union",
         "pubDate": "Tue, 24 Feb 2026 06:00:00 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;Fear of Flying Clinic&apos; helps anxious travelers back into the skies",
-        "link": "https://www.npr.org/2026/02/24/nx-s1-5724217/fear-of-flying-clinic-anxious-travelers-phobia-airlines-air-travel",
-        "pubDate": "Tue, 24 Feb 2026 05:29:00 -0500",
         "category": "Top News"
       },
       {
@@ -81,7 +129,7 @@
       {
         "title": "Mandelson's lawyers say he was arrested over 'baseless' claim he was a flight risk",
         "link": "https://www.bbc.com/news/articles/c05vey47yddo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 24 Feb 2026 18:53:54 GMT",
+        "pubDate": "Tue, 24 Feb 2026 20:13:35 GMT",
         "category": "Top News"
       },
       {
@@ -141,72 +189,108 @@
     ],
     "reuters": [
       {
-        "title": "UBS promotes Golia to lead wealth management advisers in US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7f858b64dd2bf990f1589dcf3e5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fubs-promotes-golia-lead-wealth-management-advisers-us-2026-02-24%2f&amp;c=6537471381638785233&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Feb 2026 09:20:00 GMT",
-        "category": "us"
+        "title": "Anthropic digs in heels in dispute with Pentagon, source says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d4f16934682a5e7d38b206462a7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fanthropic-digs-heels-dispute-with-pentagon-source-says-2026-02-24%2f&amp;c=15747557981614203126&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 11:20:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Measles cases in South Carolina rise by 6 to 979",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df80bab8847f2a54df6a813730a07&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmeasles-cases-south-carolina-rise-by-6-979-2026-02-24%2f&amp;c=3886646734494489877&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Feb 2026 09:17:00 GMT",
+        "title": "US judge dismisses xAI trade-secrets lawsuit against rival OpenAI for now",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d4f16934682a5e7d38b206462a7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-dismisses-xai-trade-secrets-lawsuit-against-rival-openai-now-2026-02-24%2f&amp;c=1459879176237686364&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 11:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Investors brace for a State of the Union speech that may fuel anxiety",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d4f16934682a5e7d38b206462a7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2finvestors-brace-state-union-speech-that-may-fuel-anxiety-2026-02-24%2f&amp;c=9865576580971351363&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 10:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Democratic state AGs announce lawsuit against Trump administration over US vaccine policy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d7b849941f6a64b5844179ade3e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdemocratic-state-ags-announce-lawsuit-against-trump-administration-over-us-2026-02-24%2f&amp;c=1536583013963202619&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 10:02:00 GMT",
         "category": "health"
       },
       {
         "title": "S&amp;P 500 poised to gain 10% by year-end, but trade, AI disruption concerns persist",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7e9fa3448b8bca1d37b8e1f2ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsp-500-poised-gain-10-by-year-end-trade-ai-disruption-concerns-persist-2026-02-24%2f&amp;c=9286621335362676724&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d4f16934682a5e7d38b206462a7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsp-500-poised-gain-10-by-year-end-trade-ai-disruption-concerns-persist-2026-02-24%2f&amp;c=9286621335362676724&amp;mkt=en-us",
         "pubDate": "Tue, 24 Feb 2026 08:37:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Deal with U.S. within reach 'only if diplomacy is given priority', Iran's foreign minister says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7e9fa3448b8bca1d37b8e1f2ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-is-ready-any-necessary-steps-reach-deal-with-us-deputy-foreign-minister-2026-02-24%2f&amp;c=8689475814975401259&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d4f16934682a5e7d38b206462a7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-is-ready-any-necessary-steps-reach-deal-with-us-deputy-foreign-minister-2026-02-24%2f&amp;c=8689475814975401259&amp;mkt=en-us",
         "pubDate": "Tue, 24 Feb 2026 07:27:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Nancy Guthrie's family offers $1 million reward for information leading to her recovery",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7e9fa3448b8bca1d37b8e1f2ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fnancy-guthries-family-offers-1-million-reward-information-leading-her-recovery-2026-02-24%2f&amp;c=2580562804816555571&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Feb 2026 07:19:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Brazil's Embraer announces new variants of Praetor business jets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7f9d32b41759305c0a088e2afe4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fbrazils-embraer-announces-new-variants-praetor-business-jets-2026-02-24%2f&amp;c=6258594346707423875&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Feb 2026 07:16:00 GMT",
-        "category": "business"
-      },
-      {
         "title": "At Trump's State of the Union, Supreme Court justices will be in the spotlight",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7e9fa3448b8bca1d37b8e1f2ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-state-union-supreme-court-justices-will-be-spotlight-2026-02-24%2f&amp;c=6346235015883595700&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d4f16934682a5e7d38b206462a7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-state-union-supreme-court-justices-will-be-spotlight-2026-02-24%2f&amp;c=6346235015883595700&amp;mkt=en-us",
         "pubDate": "Tue, 24 Feb 2026 07:03:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Anthropic touts new AI tools weeks after legal plug-in spurred market rout",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7e9fa3448b8bca1d37b8e1f2ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fanthropic-touts-new-ai-tools-weeks-after-legal-plug-in-spurred-market-rout-2026-02-24%2f&amp;c=5683732754824396225&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d4f16934682a5e7d38b206462a7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fanthropic-touts-new-ai-tools-weeks-after-legal-plug-in-spurred-market-rout-2026-02-24%2f&amp;c=5683732754824396225&amp;mkt=en-us",
         "pubDate": "Tue, 24 Feb 2026 05:36:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Policy bazooka could fend off jobless AI world",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7e9b40941128ab5b9c09d6cc13c&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2fbreakingviews%2fglobal-markets-breakingviews-2026-02-24%2f&amp;c=11775866080624455799&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Feb 2026 04:43:00 GMT",
-        "category": "world"
+        "title": "State of the Union could be Trump's best chance to sell voters on Iran plans",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d4f16934682a5e7d38b206462a7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fstate-union-could-be-trumps-best-chance-sell-voters-iran-plans-2026-02-24%2f&amp;c=9729075249162302444&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 02:03:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Skittish investors spooked as dystopian AI outlooks go viral",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699df7e9fa3448b8bca1d37b8e1f2ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fskittish-investors-spooked-dystopian-ai-outlooks-go-viral-2026-02-24%2f&amp;c=5170744198133277820&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Feb 2026 03:19:00 GMT",
+        "title": "Exclusive: Iran nears deal to buy supersonic anti-ship missiles from China",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699e0d4f16934682a5e7d38b206462a7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2firan-nears-deal-buy-supersonic-anti-ship-missiles-china-2026-02-24%2f&amp;c=13851720298481762775&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 00:44:00 GMT",
         "category": "Top News"
       }
     ],
     "markets": [
       {
+        "title": "Healthy Returns: What\u2019s next for Novo Nordisk\u2019s next-generation obesity drug CagriSema after trial miss",
+        "link": "https://www.cnbc.com/2026/02/24/healthy-returns-whats-next-for-novo-nordisks-obesity-drug-cagrisema.html",
+        "pubDate": "Tue, 24 Feb 2026 20:38:14 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Jamie Dimon says AI is already reshaping JPMorgan Chase&apos;s workforce as bank plans &apos;huge redeployment\u2019",
+        "link": "https://www.cnbc.com/2026/02/24/jpm-ceo-jamie-dimon-ai-reshaping-workforce-redeployment.html",
+        "pubDate": "Tue, 24 Feb 2026 20:34:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: IBM, AMD, Dillard&apos;s, Novo Nordisk, Keysight Technologies &amp; more",
+        "link": "https://www.cnbc.com/2026/02/24/stocks-making-the-biggest-moves-midday-ibm-amd-dds-nvo-more.html",
+        "pubDate": "Tue, 24 Feb 2026 19:08:26 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Classic &apos;TACO&apos;? Investors shrug off Trump&apos;s latest tariff announcement",
         "link": "https://www.cnbc.com/2026/02/24/trump-tariff-rates-global-investors-taco-trade.html",
         "pubDate": "Tue, 24 Feb 2026 17:23:01 GMT",
         "category": "world"
+      },
+      {
+        "title": "Fed&apos;s Goolsbee calls for a hold on cuts as current rate of inflation is &apos;not good enough&apos;",
+        "link": "https://www.cnbc.com/2026/02/24/feds-goolsbee-calls-for-a-hold-on-cuts-as-current-rate-of-inflation-is-not-good-enough.html",
+        "pubDate": "Tue, 24 Feb 2026 15:58:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Supreme Court ruling throws Trump administration&apos;s tariff strategy into flux. What it means for global trade, U.S. economy",
+        "link": "https://www.cnbc.com/2026/02/23/what-supreme-court-tariff-ruling-means-for-global-trade-us-economy.html",
+        "pubDate": "Tue, 24 Feb 2026 15:36:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jamie Dimon says &apos;watch out\u2019 as lofty asset prices add to economic risks: \u2018My anxiety is high\u2019",
+        "link": "https://www.cnbc.com/2026/02/23/jamie-dimon-says-watch-out-as-high-asset-prices-add-to-economic-risks-my-anxiety-is-high.html",
+        "pubDate": "Tue, 24 Feb 2026 13:17:41 GMT",
+        "category": "Top News"
       }
     ]
   }
