@@ -1,13 +1,104 @@
 {
-  "updated_at": "2026-02-25T09:01:36.758601",
+  "updated_at": "2026-02-25T10:56:49.022383",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Trump cites health care issues in Greenland saying he\u2019s sending a hospital ship. His claims are off",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed53b9213403b8a4dcd20f155bfab&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffact-focus-greenland-us-trump-hospital-ship-5db7f911c79d1320c6c6e29d895e1403&amp;c=1528246524098825993&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 02:30:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "A new director is being appointed to lead the Louvre Museum after jewel heist, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed533d07b43de8336b6859027a23b&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffrance-louvre-museum-new-director-heist-38adf9f5ac5c99c16e206cc16845ca04&amp;c=15884660136361276060&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 02:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran pushes back against Trump ahead of Geneva talks in face of major US military deployment",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed536d6cd4328a4a6024604c17d38&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-war-geneva-talks-nuclear-a6b4d4bd0bfae5823cebf89b27ca992c&amp;c=473784360810294110&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 01:48:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Japan demands the swift release of a Japanese national detained in Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed533d07b43de8336b6859027a23b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjapan-iran-detention-tehran-tokyo-8795150fc4f61e0a6102f78c7377d6fb&amp;c=1206259581266018610&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 01:37:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Turmoil-hit 2030 French Alps Olympics lose CEO Cyril Linette in leadership shake-up",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed533d07b43de8336b6859027a23b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwinter-olympics-2030-french-alps-5f0e4642dc772805cece1665d8b839fa&amp;c=2179094318554031560&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 01:37:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "FACT FOCUS: A look at Trump\u2019s false and misleading claims in his State of the Union speech",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed533d07b43de8336b6859027a23b&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffact-check-trump-state-of-union-87b184f7a38e65fa97d27c05ba2497fa&amp;c=1840844035398311617&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 00:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Virginia Gov. Abigail Spanberger questions whether Americans feel the \u2018golden age\u2019 Trump describes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed533d07b43de8336b6859027a23b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstate-union-democrats-response-spanberger-padilla-ed330d3be5724e96d3dfadc1c7e26468&amp;c=3354718418336939106&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 22:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cartel violence fuels doubts about FIFA World Cup games in Mexico",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed533d3cb46aaaeeb59c2a8b26654&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmexico-jalisco-cartel-mencho-killed-tapalpa-b12ed518d44951c7875bfddef1c2c7b4&amp;c=17850900877574755046&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 22:39:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Discord pushes back global age verification rollout amid criticism, promises transparency",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed53a079049c99a17806bfcfe3563&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdiscord-global-age-verification-privacy-f508653aad57f9f1b45175acee1ebcde&amp;c=7747492500081472853&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 19:02:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Warner Bros gets a higher offer from Paramount in heated fight for the storied Hollywood studio",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed537e45546e8b7ea37a7950a9c85&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwarner-bros-netflix-paramount-studio-hollywood-1d2cf2c65ed6aceb4e34811d68e987ac&amp;c=7528021429380594717&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 15:26:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Trump&apos;s many tariff tools mean consumer prices won&apos;t go down, analysts say",
+        "link": "https://www.npr.org/2026/02/25/nx-s1-5724002/trump-tariffs-consumer-prices",
+        "pubDate": "Wed, 25 Feb 2026 05:00:00 -0500",
+        "category": "business"
+      },
+      {
+        "title": "Hundreds of American nurses choose Canada over the U.S. under Trump",
+        "link": "https://www.npr.org/2026/02/25/nx-s1-5725354/nurses-emigrate-us-canada-trump",
+        "pubDate": "Wed, 25 Feb 2026 05:00:00 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/02/25/nx-s1-5721726/morning-news-brief",
+        "pubDate": "Wed, 25 Feb 2026 04:41:34 -0500",
+        "category": "us"
+      },
+      {
+        "title": "American tourists in Mexico share their experience after cartel leader&apos;s death",
+        "link": "https://www.npr.org/2026/02/25/nx-s1-5724007/american-tourists-in-mexico-share-their-experience-after-cartel-leaders-death",
+        "pubDate": "Wed, 25 Feb 2026 04:41:19 -0500",
+        "category": "world"
+      },
+      {
+        "title": "5 takeaways from Trump&apos;s State of the Union address",
+        "link": "https://www.npr.org/2026/02/25/nx-s1-5717096/trump-congress-state-union-highlights",
+        "pubDate": "Wed, 25 Feb 2026 04:08:29 -0500",
+        "category": "Top News"
+      },
       {
         "title": "China restricts exports to 40 Japanese entities with ties to military",
         "link": "https://www.npr.org/2026/02/25/g-s1-111441/china-restricts-exports-to-40-japanese-entities-with-ties-to-military",
         "pubDate": "Wed, 25 Feb 2026 01:53:58 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Signs, silence, and skipping: How Democrats protested Trump&apos;s State of the Union",
@@ -28,48 +119,36 @@
         "category": "Top News"
       },
       {
-        "title": "Trump&apos;s speech is longest State of the Union address in recent history",
-        "link": "https://www.npr.org/2026/02/24/nx-s1-5725496/trump-state-union-longest-speech",
-        "pubDate": "Tue, 24 Feb 2026 22:57:33 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Who will \u2014 and won&apos;t \u2014 be guests at the State of the Union address",
-        "link": "https://www.npr.org/2026/02/24/nx-s1-5723955/trump-congress-state-union-guests",
-        "pubDate": "Tue, 24 Feb 2026 19:24:06 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. House rejects aviation safety bill after Pentagon abruptly withdraws support",
-        "link": "https://www.npr.org/2026/02/24/nx-s1-5724999/house-rejects-aviation-safety-bill-rotor-act",
-        "pubDate": "Tue, 24 Feb 2026 17:07:37 -0500",
-        "category": "us"
-      },
-      {
-        "title": "China and the U.S. alter foreign aid strategies",
-        "link": "https://www.npr.org/2026/02/24/nx-s1-5711346/china-trump-us-foreign-aid-withdrawal",
-        "pubDate": "Tue, 24 Feb 2026 15:50:39 -0500",
-        "category": "health"
-      },
-      {
         "title": "Hegseth threatens to blacklist Anthropic over &apos;woke AI&apos; concerns",
         "link": "https://www.npr.org/2026/02/24/nx-s1-5725327/pentagon-anthropic-hegseth-safety",
         "pubDate": "Tue, 24 Feb 2026 15:26:53 -0500",
         "category": "tech"
-      },
-      {
-        "title": "Is the YIMBY movement doomed?",
-        "link": "https://www.npr.org/sections/planet-money/2026/02/24/g-s1-111204/is-the-yimby-movement-doomed",
-        "pubDate": "Tue, 24 Feb 2026 06:30:00 -0500",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "Mandelson's lawyers say he was arrested over 'baseless' claim he was a flight risk",
-        "link": "https://www.bbc.com/news/articles/c05vey47yddo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Feb 2026 08:55:55 GMT",
+        "title": "Fact-checking Trump's longest ever State of the Union",
+        "link": "https://www.bbc.com/news/articles/cgmlzg0p8k2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Feb 2026 10:40:47 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Trump's theatrical State of the Union address offers little hint of any change in course",
+        "link": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Feb 2026 10:11:20 GMT",
+        "category": "world"
+      },
+      {
+        "title": "New travel rules kick in - how are dual nationals affected?",
+        "link": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Feb 2026 10:07:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Household energy bills to fall in April after charges shake-up",
+        "link": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Feb 2026 09:49:24 GMT",
+        "category": "business"
       },
       {
         "title": "One in four councils to miss food waste collection deadline - find out if yours is one",
@@ -78,39 +157,21 @@
         "category": "Top News"
       },
       {
-        "title": "Household energy bills to fall in April after charges shake-up",
-        "link": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Feb 2026 08:02:19 GMT",
-        "category": "business"
-      },
-      {
         "title": "Key moments from Trump's big speech",
         "link": "https://www.bbc.com/news/articles/cvg34exn93jo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 25 Feb 2026 06:03:47 GMT",
         "category": "us"
       },
       {
-        "title": "Analysis: Trump issues patriotic rallying cry with eye on crucial elections",
-        "link": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Feb 2026 05:56:02 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Zurcher: President issues patriotic rallying cry with eye on crucial elections",
-        "link": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Feb 2026 05:56:02 GMT",
+        "title": "BBC sees damage in Puerto Vallarta after Mexican cartel violence",
+        "link": "https://www.bbc.com/news/videos/cly07z35dn4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Feb 2026 05:57:14 GMT",
         "category": "Top News"
       },
       {
-        "title": "Chris Mason: MPs take a new tone on Andrew \u2013 but how big is their appetite for radical changes?",
-        "link": "https://www.bbc.com/news/articles/cvgk3gpy34jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Feb 2026 02:45:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What is the UK's new travel system and how are dual nationals affected?",
-        "link": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Feb 2026 00:05:49 GMT",
+        "title": "Disabled woman, 33, put in nursing home against her will feels 'betrayed'",
+        "link": "https://www.bbc.com/news/articles/czj1ndzz9xyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Feb 2026 00:41:34 GMT",
         "category": "Top News"
       },
       {
@@ -128,18 +189,78 @@
     ],
     "reuters": [
       {
-        "title": "Thomson Reuters shares rally after CoCounsel AI tool draws 1 million users",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699eba1cdbd94b3bb4a31b79602dd058&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fthomson-reuters-shares-rally-after-cocounsel-ai-tool-draws-1-million-users-2026-02-24%2f&amp;c=9056932229289099728&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Feb 2026 12:40:00 GMT",
-        "category": "tech"
+        "title": "Zimbabwe ends $367 million health funding talks with US over 'sensitive data' sharing concerns",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed55e845f46f2900e1f5c0ce00df1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fzimbabwe-ends-367-million-health-funding-talks-with-us-over-sensitive-data-2026-02-25%2f&amp;c=1174917800520080958&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 01:42:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Iberdrola posts 12% increase in net profit boosted by networks business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed54a10a24cc5bde7a55f83784626&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fclimate-energy%2fiberdrola-posts-12-increase-net-profit-boosted-by-networks-business-2026-02-25%2f&amp;c=2827983045511621357&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 22:21:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "South Korea's birthrate, the world's lowest, rises again amid signs of easing demographic crisis",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ed53e14964c31b9b7c9a8cb8aa1fc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fsouth-koreas-birthrate-worlds-lowest-rises-again-amid-signs-easing-demographic-2026-02-25%2f&amp;c=7329029284239800731&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Feb 2026 18:17:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Why Chile is the latest LATAM country to be caught in a U.S.-China power struggle",
-        "link": "https://www.cnbc.com/2026/02/25/chile-china-trump-rubio-visa-sanctions-us-latam.html",
-        "pubDate": "Wed, 25 Feb 2026 07:50:27 GMT",
-        "category": "world"
+        "title": "Trump makes little mention of China in the longest State of the Union speech",
+        "link": "https://www.cnbc.com/2026/02/25/trump-china-state-of-the-union-speech.html",
+        "pubDate": "Wed, 25 Feb 2026 08:42:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The global M&amp;A boom is rolling into 2026 as AI sparks deal frenzy \u2014 but cash is getting tight",
+        "link": "https://www.cnbc.com/2026/02/25/global-ma-boom-surges-2026-ai-mega-deals-capital-squeeze-merger-and-acquisition.html",
+        "pubDate": "Wed, 25 Feb 2026 02:46:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Register now: Applications open for the World&apos;s Top Fintech Companies 2026",
+        "link": "https://www.cnbc.com/2026/02/25/cnbc-worlds-top-fintech-companies-2026-apply-now.html",
+        "pubDate": "Tue, 24 Feb 2026 23:08:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "PayPal pops nearly 7% on report fintech startup Stripe is weighing an acquisition",
+        "link": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
+        "pubDate": "Tue, 24 Feb 2026 22:10:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Workday, Cava, Lucid Group and more",
+        "link": "https://www.cnbc.com/2026/02/24/stocks-making-the-biggest-moves-after-hours-wday-cava-lcid.html",
+        "pubDate": "Tue, 24 Feb 2026 21:53:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jamie Dimon says AI is already reshaping JPMorgan Chase&apos;s workforce as bank plans &apos;huge redeployment\u2019",
+        "link": "https://www.cnbc.com/2026/02/24/jpm-ceo-jamie-dimon-ai-reshaping-workforce-redeployment.html",
+        "pubDate": "Tue, 24 Feb 2026 21:33:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed&apos;s Goolsbee calls for a hold on cuts as current rate of inflation is &apos;not good enough&apos;",
+        "link": "https://www.cnbc.com/2026/02/24/feds-goolsbee-calls-for-a-hold-on-cuts-as-current-rate-of-inflation-is-not-good-enough.html",
+        "pubDate": "Tue, 24 Feb 2026 15:58:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Supreme Court ruling throws Trump administration&apos;s tariff strategy into flux. What it means for global trade, U.S. economy",
+        "link": "https://www.cnbc.com/2026/02/23/what-supreme-court-tariff-ruling-means-for-global-trade-us-economy.html",
+        "pubDate": "Tue, 24 Feb 2026 15:36:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jamie Dimon says &apos;watch out\u2019 as lofty asset prices add to economic risks: \u2018My anxiety is high\u2019",
+        "link": "https://www.cnbc.com/2026/02/23/jamie-dimon-says-watch-out-as-high-asset-prices-add-to-economic-risks-my-anxiety-is-high.html",
+        "pubDate": "Tue, 24 Feb 2026 13:17:41 GMT",
+        "category": "Top News"
       }
     ]
   }
