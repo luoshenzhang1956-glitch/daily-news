@@ -1,8 +1,75 @@
 {
-  "updated_at": "2026-02-25T17:15:00.899445",
+  "updated_at": "2026-02-25T19:15:11.001036",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "\u2018Your Rich BFF\u2019 discusses buying vs. renting",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f49d7ffab4e1d996e83ea16a1935c&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fyour-rich-bff-discusses-buying-vs-renting-0000019c95fadc01a9dd9fff12e50000&amp;c=4274093977237511667&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 11:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US men\u2019s hockey team feted at State of the Union; Trump says women\u2019s team will be honored \u2018soon\u2019",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f49d7ffab4e1d996e83ea16a1935c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstate-of-union-hockey-olympics-trump-89fff7bdec947251ff926e09ac24d4e4&amp;c=1065371650401411183&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 10:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The hotly contested Texas Senate race is setting spending records ahead of Tuesday\u2019s primary",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f49d7ffab4e1d996e83ea16a1935c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsenate-texas-talarico-crockett-cornyn-paxton-e41d41fd66a43bf638b69f702e77faa3&amp;c=3908699566124301752&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 10:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "A sinkhole opens at an Omaha intersection, swallowing an SUV and a pickup truck",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f49d7ffab4e1d996e83ea16a1935c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsinkhole-2-cars-swallowed-787429bb41038df41035e55c0db26fd6&amp;c=944183978537961382&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 10:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nvidia and tech stocks lead Wall Street higher",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f49ee600e45e9acbfa0ae53951c5b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-trump-ai-iran-amd-meta-c498f7da5c7bc6822729b220499bf240&amp;c=10855794955419328493&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 09:51:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "A Boston Celtics game-inspired friction test finally pinned down the sneaker squeak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f49d7ffab4e1d996e83ea16a1935c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbasketball-shoes-sneakers-squeak-grip-nba-808e5f51a548dca6281f03a560ef1b0f&amp;c=498880555767941250&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 09:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Discord postpones age verification rollout amid criticism, promises transparency",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f49ef013242e5929cbf3bf1a42252&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdiscord-age-verification-persona-thiel-05da0d12d3d2a8cfda8b670e07c40460&amp;c=14931755530363362043&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 09:02:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Casey Means faces the Senate health committee in a confirmation hearing to be US surgeon general",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f49d7ffab4e1d996e83ea16a1935c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcasey-means-surgeon-general-confirmation-hearing-9e25bb95d033e331d40f5b93b3520aaa&amp;c=10435420366994741629&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 08:49:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Are expensive shampoos worth it? Here\u2019s what the experts have to say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f49d7ffab4e1d996e83ea16a1935c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fexpensive-shampoo-conditioner-hair-scalp-health-climate-2743c3e3c73a4d68d3b60c9f23fb72d4&amp;c=9169467435741758358&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 07:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cartel violence fuels doubts about FIFA World Cup games in Mexico",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f49db05184305952a583eac0ebe21&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmexico-jalisco-cartel-mencho-killed-tapalpa-b12ed518d44951c7875bfddef1c2c7b4&amp;c=17850900877574755046&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 05:34:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "Surgeon general nominee Means questioned about vaccines, birth control and financial conflicts",
+        "link": "https://www.npr.org/2026/02/25/nx-s1-5725399/surgeon-general-casey-means-vaccines-birth-control",
+        "pubDate": "Wed, 25 Feb 2026 13:56:47 -0500",
+        "category": "health"
+      },
       {
         "title": "Kalshi reveals insider trading case against editor for MrBeast",
         "link": "https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions",
@@ -37,7 +104,7 @@
         "title": "Hundreds of American nurses choose Canada over the U.S. under Trump",
         "link": "https://www.npr.org/2026/02/25/nx-s1-5725354/nurses-emigrate-us-canada-trump",
         "pubDate": "Wed, 25 Feb 2026 05:00:00 -0500",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Tax credits for solar panels are available, but the catch is you can&apos;t own them",
@@ -52,12 +119,6 @@
         "category": "Top News"
       },
       {
-        "title": "China restricts exports to 40 Japanese entities with ties to military",
-        "link": "https://www.npr.org/2026/02/25/g-s1-111441/china-restricts-exports-to-40-japanese-entities-with-ties-to-military",
-        "pubDate": "Wed, 25 Feb 2026 01:53:58 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "Hegseth threatens to blacklist Anthropic over &apos;woke AI&apos; concerns",
         "link": "https://www.npr.org/2026/02/24/nx-s1-5725327/pentagon-anthropic-hegseth-safety",
         "pubDate": "Tue, 24 Feb 2026 15:26:53 -0500",
@@ -66,10 +127,22 @@
     ],
     "bbc": [
       {
-        "title": "BBC says airing racial slur by Baftas guest with Tourette's was 'serious mistake'",
-        "link": "https://www.bbc.com/news/articles/crrxjzrexr1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Feb 2026 17:06:37 GMT",
+        "title": "Met apologises to Commons Speaker for sharing Mandelson tip-off",
+        "link": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Feb 2026 18:41:29 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Man accused of driving wife to suicide claims she lied about abuse, jury told",
+        "link": "https://www.bbc.com/news/articles/ckgly01vjmlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Feb 2026 17:24:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sperm swim more quickly in summer, study finds",
+        "link": "https://www.bbc.com/news/articles/crl45x52ejgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Feb 2026 17:18:08 GMT",
+        "category": "health"
       },
       {
         "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
@@ -96,28 +169,16 @@
         "category": "business"
       },
       {
-        "title": "Commons Speaker passed Mandelson flight risk information to police ahead of arrest",
-        "link": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Feb 2026 14:25:04 GMT",
-        "category": "Top News"
+        "title": "Trump keeps world waiting on his plans for Iran",
+        "link": "https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Feb 2026 15:16:33 GMT",
+        "category": "us"
       },
       {
         "title": "Not even potholes will hold up self-driving cars, UK firm predicts",
         "link": "https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 25 Feb 2026 12:27:26 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Man who murdered nine-year-old girl as she played with hula hoop in street jailed",
-        "link": "https://www.bbc.com/news/articles/cx2lpwg366do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Feb 2026 12:09:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fact-checking Trump's longest ever State of the Union",
-        "link": "https://www.bbc.com/news/articles/cgmlzg0p8k2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Feb 2026 10:40:47 GMT",
-        "category": "us"
       },
       {
         "title": "Trump's theatrical State of the Union address offers little hint of any change in course",
@@ -128,90 +189,48 @@
     ],
     "reuters": [
       {
-        "title": "Rubio begins talks with Caribbean leaders amid Cuba worries",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f2dfb2497443d9c86fe2363995a2f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2frubio-begins-talks-with-caribbean-leaders-amid-cuba-worries-2026-02-25%2f&amp;c=13444518342717139946&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 07:49:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Five\u2011star hotels lead price increases in Milan during Olympics",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f2dfb2497443d9c86fe2363995a2f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffivestar-hotels-lead-price-increases-milan-during-olympics-2026-02-25%2f&amp;c=7609228545655103002&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 07:27:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "From dating scams to fake lawyers: OpenAI details ChatGPT misuse in new threat report",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f2dfb2497443d9c86fe2363995a2f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdating-scams-fake-lawyers-openai-details-chatgpt-misuse-new-threat-report-2026-02-25%2f&amp;c=2985674460232348439&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 07:20:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Eleven US states urge DOJ to thoroughly probe Netflix-Warner Bros. deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f2dfe50bb414093d5da829812e79c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2f11-us-states-urge-doj-thoroughly-probe-netflix-warner-bros-deal-2026-02-25%2f&amp;c=1086594572808458197&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 07:12:00 GMT",
+        "title": "US Treasury chief says FedEx should say how consumers will get tariff rebates",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f4a1f07a24008bdfb9ca22a73ce02&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-treasury-chief-says-fedex-should-say-how-consumers-will-get-tariff-rebates-2026-02-25%2f&amp;c=13350523277059426453&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 09:44:00 GMT",
         "category": "us"
       },
       {
-        "title": "USA's gold-medal hockey game averages 26M viewers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f2dfb2497443d9c86fe2363995a2f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fusas-gold-medal-hockey-game-averages-26m-viewers--flm-2026-02-25%2f&amp;c=1076990827468219332&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 07:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Vance says Trump still prefers diplomatic solution with Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f2dfb2497443d9c86fe2363995a2f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fvance-tells-fox-news-trump-still-prefers-diplomatic-solution-with-iran-2026-02-25%2f&amp;c=14156116790910550085&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 07:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Health Rounds: Scientists develop promising antibodies to prevent Epstein-Barr infection",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f2e0b1f694d438d9cf56304e21cc5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-scientists-develop-promising-antibodies-prevent-epstein-barr-2026-02-25%2f&amp;c=6721658362289704307&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 03:07:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Teetering US tech trade puts anchor on market as Nvidia test looms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f2e0b79254ccda13c41028d988468&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fteetering-us-tech-trade-puts-anchor-market-nvidia-test-looms-2026-02-25%2f&amp;c=6935062947256819183&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 02:02:00 GMT",
+        "title": "White House to host Big Tech in pledge to rein in power costs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f4a2285a6463db1b58df96c2fbb8f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fwhite-house-host-big-tech-pledge-rein-power-costs-2026-02-25%2f&amp;c=11955405212422691214&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 08:06:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Tether Invests in Whop, World\u2019s Largest Internet Market, to Power Stablecoin Payments for the Next Generation of the Internet Economy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f2dfcdca5492b8191b1c8c82797bb&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2ftether-whop-stablecoin-payments-internet-economy-2026-02-25%2f&amp;c=10784510570885561769&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 01:18:00 GMT",
-        "category": "world"
+        "title": "Britain's John Lewis Partnership quits build to rent business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f4a21333a4769baacb5e1a3133555&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fbritains-john-lewis-partnership-withdraw-build-rent-business-2026-02-25%2f&amp;c=12862001194158475517&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 05:24:00 GMT",
+        "category": "business"
       },
       {
-        "title": "Takeaways from Trump's State of the Union address to Congress",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f2dfb2497443d9c86fe2363995a2f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftakeaways-trumps-state-union-address-congress-2026-02-25%2f&amp;c=17433210175992463182&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Feb 2026 18:01:00 GMT",
-        "category": "Top News"
+        "title": "Health Rounds: Scientists develop promising antibodies to prevent Epstein-Barr infection",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699f4a245d924b748092d3f4ddc25f7c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-scientists-develop-promising-antibodies-prevent-epstein-barr-2026-02-25%2f&amp;c=6721658362289704307&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 03:07:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Bill Gates addresses Epstein files in candid town hall days after last-minute speaking cancellation",
-        "link": "https://www.cnbc.com/2026/02/25/bill-gates-epstein-files-affair.html",
-        "pubDate": "Wed, 25 Feb 2026 17:02:24 GMT",
-        "category": "tech"
+        "title": "Stocks making the biggest moves midday: Netflix, Coinbase, Diageo, Cava and more",
+        "link": "https://www.cnbc.com/2026/02/25/stocks-making-the-biggest-moves-midday-nflx-coin-deo-cava.html",
+        "pubDate": "Wed, 25 Feb 2026 19:00:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "PayPal pops nearly 7% on report fintech startup Stripe is weighing an acquisition",
+        "link": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
+        "pubDate": "Wed, 25 Feb 2026 18:11:01 GMT",
+        "category": "Top News"
       },
       {
         "title": "Are collectibles a viable asset class? The buyer of the $16.5 million Pok\u00e9mon card thinks so",
         "link": "https://www.cnbc.com/2026/02/25/pokmon-card-winner-scaramucci-says-collectibles-are-asset-class.html",
-        "pubDate": "Wed, 25 Feb 2026 16:29:47 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: First Solar, GoDaddy, Lowe&apos;s, Workday, Cava and more",
-        "link": "https://www.cnbc.com/2026/02/25/stocks-making-the-biggest-moves-premarket-fslr-gddy-low-wday-cava.html",
-        "pubDate": "Wed, 25 Feb 2026 14:28:22 GMT",
+        "pubDate": "Wed, 25 Feb 2026 17:42:05 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Restaurant reservation wars heat up as DoorDash enters the arena with Resy, OpenTable",
-        "link": "https://www.cnbc.com/2026/02/25/doordash-resy-opentable-restaurant-reservation-wars.html",
-        "pubDate": "Wed, 25 Feb 2026 12:00:01 GMT",
-        "category": "business"
       },
       {
         "title": "What to expect from the next round of U.S.-Iran talks as Trump threatens Tehran",
@@ -238,9 +257,9 @@
         "category": "Top News"
       },
       {
-        "title": "PayPal pops nearly 7% on report fintech startup Stripe is weighing an acquisition",
-        "link": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
-        "pubDate": "Tue, 24 Feb 2026 22:10:28 GMT",
+        "title": "Jamie Dimon says AI is already reshaping JPMorgan Chase&apos;s workforce as bank plans &apos;huge redeployment\u2019",
+        "link": "https://www.cnbc.com/2026/02/24/jpm-ceo-jamie-dimon-ai-reshaping-workforce-redeployment.html",
+        "pubDate": "Tue, 24 Feb 2026 21:33:36 GMT",
         "category": "Top News"
       },
       {
