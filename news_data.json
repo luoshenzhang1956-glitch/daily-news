@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-02-26T05:25:42.593137",
+  "updated_at": "2026-02-26T07:10:27.474328",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "One Tech Tip: Group chats are a way of life but come with unspoken etiquette",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ff1694cea4fd79c0f268c03921ec6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgroup-chat-etiquette-whatsapp-slack-96925622ea40a8a80af9915c13e86d9b&amp;c=10958681729976123843&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 21:27:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "\u2018An honor and privilege\u2019 to attend World Health Organization meeting, Prince Harry says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ff17462cf49ccb989ae367d11b260&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fan-honor-and-privilege-to-attend-world-health-organization-meeting-prince-harry-says-3d259140d7ce42079431a026f46258e4&amp;c=10003800620595834807&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 17:01:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "U.S. and Iran to hold a third round of nuclear talks in Geneva",
+        "link": "https://www.npr.org/2026/02/26/g-s1-111595/u-s-iran-to-third-round-nuclear-talks",
+        "pubDate": "Thu, 26 Feb 2026 01:54:17 -0500",
+        "category": "world"
+      },
+      {
+        "title": "FIFA&apos;s Infantino confident Mexico can co-host World Cup despite cartel violence",
+        "link": "https://www.npr.org/2026/02/26/g-s1-111592/fifas-infantino-confident-mexico-can-co-host-world-cup-despite-cartel-violence",
+        "pubDate": "Thu, 26 Feb 2026 01:37:06 -0500",
+        "category": "Top News"
+      },
       {
         "title": "The market for tariff refunds",
         "link": "https://www.npr.org/2026/02/25/nx-s1-5723910/the-market-for-tariff-refunds",
@@ -40,37 +65,19 @@
         "category": "Top News"
       },
       {
-        "title": "Cubans from US killed after speedboat opens fire on island&apos;s troops, Havana says",
+        "title": "Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country",
         "link": "https://www.npr.org/2026/02/25/g-s1-111529/cuba-florida-speedboat",
         "pubDate": "Wed, 25 Feb 2026 16:30:55 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Here&apos;s what Trump didn&apos;t say on health in his speech",
         "link": "https://www.npr.org/2026/02/25/nx-s1-5726256/heres-what-trump-didnt-say-on-health-in-his-speech",
         "pubDate": "Wed, 25 Feb 2026 16:18:57 -0500",
         "category": "health"
-      },
-      {
-        "title": "Tipped workers expect tax boon this year, but not a long-term fix",
-        "link": "https://www.npr.org/2026/02/25/nx-s1-5684227/trump-tax-tips-state-union",
-        "pubDate": "Wed, 25 Feb 2026 14:30:48 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Surgeon general nominee Means questioned about vaccines, birth control and financial conflicts",
-        "link": "https://www.npr.org/2026/02/25/nx-s1-5725399/surgeon-general-casey-means-vaccines-birth-control",
-        "pubDate": "Wed, 25 Feb 2026 13:56:47 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
-      {
-        "title": "Earth's heat to power 10,000 homes in renewable energy first for UK",
-        "link": "https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 05:00:07 GMT",
-        "category": "Top News"
-      },
       {
         "title": "This coastal idyll banned\u00a0'harmful'\u00a0holiday lets. Eight years on, has it worked?",
         "link": "https://www.bbc.com/news/articles/cy59gznnz0zo?at_medium=RSS&amp;at_campaign=rss",
@@ -78,13 +85,19 @@
         "category": "Top News"
       },
       {
-        "title": "There's a solution for e-bike parking chaos - but its not problem-free",
+        "title": "There's a solution for e-bike parking chaos - but it's not problem-free",
         "link": "https://www.bbc.com/news/articles/c2d1ne15w5go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 26 Feb 2026 00:05:11 GMT",
         "category": "Top News"
       },
       {
-        "title": "Racism and lack of compassion factors in 'failing' maternity care, report finds",
+        "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
+        "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 26 Feb 2026 00:02:48 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Racism and staff shortages factors in 'failing' maternity care, report finds",
         "link": "https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 26 Feb 2026 00:02:14 GMT",
         "category": "Top News"
@@ -117,7 +130,7 @@
         "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
         "link": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 25 Feb 2026 17:00:49 GMT",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump keeps world waiting on his plans for Iran",
@@ -128,66 +141,49 @@
     ],
     "reuters": [
       {
-        "title": "Nvidia's CEO prepares investors for a renewed battle with Intel, AMD",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699fd8d8b3024c278520195bcb779e63&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnvidias-ceo-prepares-investors-renewed-battle-with-intel-amd-2026-02-26%2f&amp;c=16498402801678648887&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 19:48:00 GMT",
-        "category": "Top News"
+        "title": "South Carolina health official 'encouraged' by sharp two\u2011week drop in measles cases",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ff1b667174c89877d213158c3d039&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fsouth-carolina-health-official-encouraged-by-sharp-twoweek-drop-measles-cases-2026-02-25%2f&amp;c=15212399138078415078&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 10:23:00 GMT",
+        "category": "health"
       },
       {
-        "title": "US denies visas to Cuban baseball officials ahead of international tournament",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699fd8d8b3024c278520195bcb779e63&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fus-denies-visas-cuban-baseball-officials-ahead-international-tournament-2026-02-26%2f&amp;c=17520115336387066224&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 17:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Asia shares rise in relief rally as Nvidia beats the street",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699fd8d8b3024c278520195bcb779e63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-02-26%2f&amp;c=15503245696651176067&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 16:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Qantas CEO says demand weakness on US routes viewed as short-term issue",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699fd8d8b3024c278520195bcb779e63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fqantas-ceo-says-demand-weakness-us-routes-viewed-short-term-issue-2026-02-26%2f&amp;c=17016821253906213153&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 16:33:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nvidia is dogged by memories of cycles past",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699fd8d8b3024c278520195bcb779e63&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2fbreakingviews%2fnvidia-is-dogged-by-memories-cycles-past-2026-02-25%2f&amp;c=16831788987713800162&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 13:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nvidia forecasts first-quarter sales above estimates",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699fd8d8b3024c278520195bcb779e63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fnvidia-forecasts-first-quarter-sales-above-estimates-2026-02-25%2f&amp;c=16964727247632646796&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 12:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: FBI obtained Kash Patel and Susie Wiles phone records during Biden administration",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699fd8d8b3024c278520195bcb779e63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffbi-obtained-kash-patel-susie-wiles-phone-records-during-biden-administration-2026-02-25%2f&amp;c=15517513093917608437&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 12:32:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699fd8df65d549c59ab6e584beb1d4bc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fdeepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25%2f&amp;c=3184850293815758414&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 11:32:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "World Cocoa Foundation head Chris Vincent to leave post",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699fd8da4f0e4ed397252236f4d32a2b&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fworld-cocoa-foundation-head-chris-vincent-leave-post-2026-02-25%2f&amp;c=815788416295174098&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 07:33:00 GMT",
+        "title": "New Zealand fight back to eliminate co-hosts Sri Lanka from T20 World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ff18ac0194cd1a56068a49053e271&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fnew-zealand-fight-back-eliminate-co-hosts-sri-lanka-t20-world-cup-2026-02-25%2f&amp;c=2340574737785286221&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 08:12:00 GMT",
         "category": "world"
       },
       {
-        "title": "Government spending lifts global debt to a record $348 trillion in 2025, says IIF",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699fd8d8b3024c278520195bcb779e63&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fgovernment-spending-lifts-global-debt-record-348-trillion-2025-says-iif-2026-02-25%2f&amp;c=3904345897395880183&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Feb 2026 06:33:00 GMT",
-        "category": "Top News"
+        "title": "White House to host Big Tech after pledge to rein in power costs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=699ff1b4f0594c82badc45d9102051bc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fwhite-house-host-big-tech-pledge-rein-power-costs-2026-02-25%2f&amp;c=11955405212422691214&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Feb 2026 08:06:00 GMT",
+        "category": "tech"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "&apos;Software will eat AI,&apos; HSBC says. Here are the bank&apos;s top picks",
+        "link": "https://www.cnbc.com/2026/02/26/saas-software-saaspocalypse-sell-off-ai-openai-anthropic-oracle-salesforce.html",
+        "pubDate": "Thu, 26 Feb 2026 06:06:05 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Nvidia\u2019s Jensen Huang says markets \u2018got it wrong\u2019 on AI threat to software companies",
+        "link": "https://www.cnbc.com/2026/02/26/nvidia-jensen-huang-gpu-ai-threat-software-companies-saas-earnings-chips.html",
+        "pubDate": "Thu, 26 Feb 2026 02:36:44 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Options trading activity is flashing a warning sign about the market",
+        "link": "https://www.cnbc.com/2026/02/25/options-trading-activity-is-flashing-a-warning-signal-about-the-market.html",
+        "pubDate": "Wed, 25 Feb 2026 21:25:10 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Restaurant reservation wars heat up as DoorDash enters the arena with Resy, OpenTable",
+        "link": "https://www.cnbc.com/2026/02/25/doordash-resy-opentable-restaurant-reservation-wars.html",
+        "pubDate": "Wed, 25 Feb 2026 18:01:32 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
