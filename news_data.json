@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-02-26T14:55:50.467452",
+  "updated_at": "2026-02-26T17:06:52.988853",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Nvidia\u2019s drop drags the US market down even as most stocks rise",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a07d43735f4902937ae30e68db74a6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-nvidia-trump-oil-4fc4ccf75ee85f53585f08ddd93b2fc1&amp;c=1688580780902914742&amp;mkt=en-us",
+        "pubDate": "Thu, 26 Feb 2026 08:37:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Israeli strike kills 2 Palestinians in Gaza, health officials say, the latest deaths as truce stalls",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a07d45e0624666b2fa400860b8faea&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-gaza-hamas-war-netanyahu-1bb1a68df1a35b2936a91ce0b5505d65&amp;c=5959590293630279117&amp;mkt=en-us",
+        "pubDate": "Thu, 26 Feb 2026 08:19:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "One Tech Tip: Unspoken group chats rules you\u2019re probably ignoring, but shouldn\u2019t",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a07d424a33468d89de988d0d8415e3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgroup-chat-etiquette-whatsapp-slack-96925622ea40a8a80af9915c13e86d9b&amp;c=10958681729976123843&amp;mkt=en-us",
+        "pubDate": "Thu, 26 Feb 2026 06:09:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Is the U.S. headed toward a military conflict with Iran?",
+        "link": "https://www.npr.org/2026/02/26/nx-s1-5727515/is-the-u-s-headed-toward-a-military-conflict-with-iran",
+        "pubDate": "Thu, 26 Feb 2026 11:50:42 -0500",
+        "category": "world"
+      },
       {
         "title": "U.S. and Iran to hold nuclear talks. And, Harvard professor resigns over Epstein ties",
         "link": "https://www.npr.org/2026/02/26/g-s1-111619/up-first-newsletter-iran-nuclear-talks-harvard-larry-summers-epstein-cuba-ice-polling-locations",
         "pubDate": "Thu, 26 Feb 2026 07:19:29 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Pentagon shifts toward maintaining ties to Scouting",
@@ -52,12 +77,6 @@
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/02/26/nx-s1-5721727/morning-news-brief",
-        "pubDate": "Thu, 26 Feb 2026 04:42:04 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "With help from monkeys, scientists build a leaner AI brain",
         "link": "https://www.npr.org/2026/02/25/nx-s1-5721198/with-help-from-monkeys-scientists-build-a-leaner-ai-brain",
         "pubDate": "Wed, 25 Feb 2026 17:18:38 -0500",
@@ -66,52 +85,52 @@
     ],
     "bbc": [
       {
+        "title": "Nearly a million 16-24 year-olds not working or in education",
+        "link": "https://www.bbc.com/news/articles/c62gzl2yl24o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 26 Feb 2026 16:53:04 GMT",
+        "category": "business"
+      },
+      {
         "title": "Instagram to alert parents if teens search for self-harm and suicide content",
         "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 14:03:35 GMT",
+        "pubDate": "Thu, 26 Feb 2026 16:39:57 GMT",
         "category": "tech"
       },
       {
-        "title": "Spain to check Gibraltar arrivals under post-Brexit deal",
-        "link": "https://www.bbc.com/news/articles/cgjz1x5e1xyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 13:58:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Danish PM calls snap election with Greenland issue centre-stage",
-        "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 13:56:39 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Assisted dying law approved in Jersey",
-        "link": "https://www.bbc.com/news/articles/c62dnwwgryeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 13:46:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hillary Clinton to appear before US House panel investigating Epstein",
+        "title": "Hillary Clinton appears before US House panel investigating Epstein",
         "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 13:32:14 GMT",
-        "category": "us"
+        "pubDate": "Thu, 26 Feb 2026 16:19:47 GMT",
+        "category": "world"
       },
       {
         "title": "Soham murderer Ian Huntley seriously injured in prison attack",
         "link": "https://www.bbc.com/news/articles/c1mjx1grj3yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 13:24:29 GMT",
+        "pubDate": "Thu, 26 Feb 2026 16:12:42 GMT",
         "category": "Top News"
       },
       {
-        "title": "Nearly a million 16-24 year-olds not working or in education",
-        "link": "https://www.bbc.com/news/articles/c62gzl2yl24o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 13:15:55 GMT",
-        "category": "business"
+        "title": "Woman angry at lack of prosecution after she fell from window fleeing triple killer",
+        "link": "https://www.bbc.com/news/articles/clyg1rx15qqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 26 Feb 2026 15:10:09 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Number of young people out of work or education edges closer to one million",
-        "link": "https://www.bbc.com/news/articles/c62gzl2yl24o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 13:15:55 GMT",
+        "title": "Tracey Emin says her artwork My Bed would be 'tidy, clean and boring' if she made it today",
+        "link": "https://www.bbc.com/news/articles/c8jxm2n9lm1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 26 Feb 2026 15:07:39 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Spain to check Gibraltar arrivals under post-Brexit deal",
+        "link": "https://www.bbc.com/news/articles/cgjz1x5e1xyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 26 Feb 2026 14:54:35 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US and Iran hold talks seen as crucial to prevent conflict",
+        "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 26 Feb 2026 13:37:08 GMT",
+        "category": "us"
       },
       {
         "title": "Jersey passes assisted dying law - but what stage has proposal reached in UK's parliaments?",
@@ -120,44 +139,44 @@
         "category": "health"
       },
       {
-        "title": "Traitor Rachel on winning the show, her mum's death - and what's next",
-        "link": "https://www.bbc.com/news/articles/c4gjm82lj3jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 10:30:12 GMT",
+        "title": "Jersey approves assisted dying law - where do proposals for change stand in the UK?",
+        "link": "https://www.bbc.com/news/articles/c2lrxjp1vqeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 26 Feb 2026 11:47:01 GMT",
         "category": "Top News"
       }
     ],
     "reuters": [
       {
+        "title": "New Zealand want to leave nothing to chance in battle to reach T20 World Cup semis",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a07d5b166a4d2c9a6abd5370877d0f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fnew-zealand-want-leave-nothing-chance-battle-reach-t20-world-cup-semis-2026-02-26%2f&amp;c=14549392849852822318&amp;mkt=en-us",
+        "pubDate": "Thu, 26 Feb 2026 05:58:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "UN World Food Programme chief Cindy McCain to step down for health reasons",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a05ec001ef4587b8c5039aed8260e7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fun-world-food-programme-chief-cindy-mccain-to-step-down-health-reasons-2026-02-26%2f&amp;c=14590611007943547498&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a07d7e1b5345e6a71b29f65050841d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fun-world-food-programme-chief-cindy-mccain-to-step-down-health-reasons-2026-02-26%2f&amp;c=14590611007943547498&amp;mkt=en-us",
         "pubDate": "Thu, 26 Feb 2026 04:27:00 GMT",
         "category": "health"
       },
       {
-        "title": "S&amp;P 500 opens subdued as Nvidia's strong results draw muted reaction",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a05ebc20734b479715e5b86bf59386&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fus-stock-futures-waver-nvidias-blockbuster-results-draw-muted-response-2026-02-26%2f&amp;c=15328272426488116521&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Feb 2026 02:11:00 GMT",
-        "category": "tech"
+        "title": "Euro zone business lending growth slows, ECB data shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a07d6a30d049ff819f51e888cb6e9c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2feuro-zone-business-lending-growth-slows-ecb-data-shows-2026-02-26%2f&amp;c=5583533269597984043&amp;mkt=en-us",
+        "pubDate": "Thu, 26 Feb 2026 00:24:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
+      {
+        "title": "Nvidia stock sinks 5% despite better-than-expected results",
+        "link": "https://www.cnbc.com/2026/02/26/nvidia-nvda-stock-price-q4-earnings.html",
+        "pubDate": "Thu, 26 Feb 2026 16:38:19 GMT",
+        "category": "world"
+      },
       {
         "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
         "link": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html",
         "pubDate": "Thu, 26 Feb 2026 14:25:31 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Citi says this stablecoin issuer is its top pick, expects stock to nearly triple",
-        "link": "https://www.cnbc.com/2026/02/26/citi-says-this-stablecoin-issuer-as-its-top-pick-expects-stock-to-nearly-triple.html",
-        "pubDate": "Thu, 26 Feb 2026 13:20:18 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Why this apartment developer is deploying $1 billion of new capital toward older buildings",
-        "link": "https://www.cnbc.com/2026/02/26/apartment-developer-bozzuto-deploying-capital-to-older-buildings.html",
-        "pubDate": "Thu, 26 Feb 2026 13:18:16 GMT",
-        "category": "business"
       },
       {
         "title": "Stocks making the biggest moves premarket: Nvidia, J.M. Smucker, Trade Desk, Nutanix &amp; more",
