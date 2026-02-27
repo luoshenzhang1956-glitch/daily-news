@@ -1,26 +1,32 @@
 {
-  "updated_at": "2026-02-27T18:55:13.638194",
+  "updated_at": "2026-02-27T20:38:02.375742",
   "news": {
     "ap": [
       {
-        "title": "Sheinbaum says FIFA will visit Mexico to assess World Cup security and mobility",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e83b25a54d769c3fc2ec87120567&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-mexico-violence-sheinbaum-fifa-8fa0ff716db12ee1eeed65abbccfeeae&amp;c=13122986577223388263&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 10:25:00 GMT",
-        "category": "world"
+        "title": "One Tech Tip: Unspoken group chat rules you\u2019re probably ignoring, but shouldn\u2019t",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2002daa4b42c0b95ee6e1744c7bc2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgroup-chat-etiquette-whatsapp-slack-96925622ea40a8a80af9915c13e86d9b&amp;c=10958681729976123843&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Feb 2026 09:21:00 GMT",
+        "category": "business"
       },
       {
-        "title": "US military used laser to take down Border Protection drone, lawmakers say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e83e796d46a39f635928b9466330&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmilitary-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c&amp;c=1651639564054891359&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 02:45:00 GMT",
-        "category": "us"
+        "title": "OpenAI gets $110 billon in funding from a trio of tech powerhouses, led by Amazon",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2002e353640a598d75be1f89e1de6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fopenai-amazon-nvidia-softbank-altman-microsoft-a0a915c32b85337d799fe2f9525a932a&amp;c=14189535103360329216&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Feb 2026 07:21:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "OpenAI says it shares Anthropic&apos;s &apos;red lines&apos; over military AI use",
+        "link": "https://www.npr.org/2026/02/27/nx-s1-5729118/anthropic-pentagon-openai-ai-weapons",
+        "pubDate": "Fri, 27 Feb 2026 15:03:04 -0500",
+        "category": "us"
+      },
+      {
         "title": "HUD proposes time limits and work requirements for rental aid",
         "link": "https://www.npr.org/2026/02/27/nx-s1-5728988/hud-proposes-time-limits-work-requirements-for-rental-aid",
         "pubDate": "Fri, 27 Feb 2026 12:46:53 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Paramount and Warner Bros&apos; deal is about merging studios, and a whole lot more",
@@ -65,12 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "A team of midlife cheerleaders in Ukraine refuses to let war defeat them",
-        "link": "https://www.npr.org/2026/02/27/nx-s1-5712284/russia-ukraine-war-midlife-women-cheerleading",
-        "pubDate": "Fri, 27 Feb 2026 05:00:00 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "What to know about the showdown between AI company Anthropic and the Pentagon",
         "link": "https://www.npr.org/2026/02/27/nx-s1-5727656/what-to-know-about-the-showdown-between-ai-company-anthropic-and-the-pentagon",
         "pubDate": "Fri, 27 Feb 2026 04:43:45 -0500",
@@ -79,22 +79,34 @@
     ],
     "bbc": [
       {
+        "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
+        "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Feb 2026 20:05:04 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Sam Altman backs rival Anthropic in fight with Pentagon",
+        "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Feb 2026 19:51:59 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Starmer vows to fight on after historic Green by-election win",
         "link": "https://www.bbc.com/news/articles/cp8r56vxmn0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Feb 2026 18:10:29 GMT",
+        "pubDate": "Fri, 27 Feb 2026 19:51:18 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Tram derails in Milan, leaving two dead and dozens injured",
+        "link": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Feb 2026 19:03:10 GMT",
+        "category": "world"
       },
       {
         "title": "Private schools lose legal challenge over VAT changes",
         "link": "https://www.bbc.com/news/articles/c5y4lj1llvjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Feb 2026 18:06:39 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Tram derails in Milan, leaving one dead and dozens injured",
-        "link": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Feb 2026 17:30:00 GMT",
-        "category": "world"
       },
       {
         "title": "Government to give go-ahead for \u00a31bn defence helicopter deal",
@@ -121,98 +133,25 @@
         "category": "Top News"
       },
       {
-        "title": "'I was on Instagram all day' - woman tells landmark trial",
-        "link": "https://www.bbc.com/news/articles/c89kdpjn7eqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Feb 2026 09:57:43 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Taking collagen keeps skin more elastic but won't stop wrinkles, say scientists",
         "link": "https://www.bbc.com/news/articles/cge82vq9x9ro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Feb 2026 00:00:11 GMT",
         "category": "health"
-      },
-      {
-        "title": "How Ghislaine Maxwell brought Bill Clinton into Epstein's orbit",
-        "link": "https://www.bbc.com/news/articles/cp85jdqdyq7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Feb 2026 22:14:56 GMT",
-        "category": "us"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "UnitedHealth caps employee pay raises to 2%, Bloomberg News reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e850b8574e7080ee6d03949fa31b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2funitedhealth-caps-employee-pay-raises-2-bloomberg-news-reports-2026-02-27%2f&amp;c=12795765862918827889&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 09:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Sustainable Switch: US hit by powerful winter storm again",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e860f61d4bf5952b936a14f844eb&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-switch-us-hit-by-powerful-winter-storm-again-2026-02-27%2f&amp;c=13525391634271291497&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 08:50:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "First Brands nears bankruptcy settlement, tees up business unit sales",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e8622d814a5380471e61fd60382f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2ffirst-brands-nears-bankruptcy-settlement-tees-up-business-unit-sales-2026-02-27%2f&amp;c=11028674178379726373&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 07:47:00 GMT",
+        "title": "WBD employees fear coming wave of job losses as Paramount tops Netflix&apos;s bid to acquire company",
+        "link": "https://www.cnbc.com/2026/02/27/warner-bros-employees-paramount.html",
+        "pubDate": "Fri, 27 Feb 2026 20:17:48 GMT",
         "category": "business"
       },
       {
-        "title": "California now biggest obstacle to Paramount's Warner Bros takeover",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e850b8574e7080ee6d03949fa31b&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fcalifornia-now-biggest-obstacle-paramounts-warner-bros-takeover-2026-02-27%2f&amp;c=3738292842417941281&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 06:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pakistan's Afghan salvo risks turning 'open war' into a lasting crisis",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e850b8574e7080ee6d03949fa31b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistans-afghan-salvo-risks-turning-open-war-into-long-crisis-2026-02-27%2f&amp;c=16622220858302967496&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 04:50:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "S&amp;P 500, Nasdaq on track for biggest monthly drop in a year as AI worries bite",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e8623c934a3eae7bcd2bfb014024&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-falter-ai-jitters-nasdaq-braces-steep-monthly-fall-2026-02-27%2f&amp;c=6660390685047111227&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 02:44:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Pentagon Anthropic feud has sales and AI warfare at stake as Friday deadline looms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e850b8574e7080ee6d03949fa31b&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fpentagon-anthropic-feud-has-sales-ai-warfare-stake-friday-deadline-looms-2026-02-27%2f&amp;c=2306231805309090117&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 02:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bill Clinton to lawmakers investigating Epstein: 'I saw nothing'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e850b8574e7080ee6d03949fa31b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fbill-clinton-give-private-testimony-congress-about-epstein-2026-02-27%2f&amp;c=13611658072488531479&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 02:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "EU fast-tracks trade deal with South America's Mercosur, to France's chagrin",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e850b8574e7080ee6d03949fa31b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2feu-fast-tracks-contentious-trade-deal-with-south-american-bloc-mercosur-2026-02-27%2f&amp;c=7351940022389972043&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 01:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Insight: LVMH shut down in Russia when the war started. But it kept a storied hotel that serves sanctioned clients",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a1e850b8574e7080ee6d03949fa31b&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsociety-equity%2flvmh-shut-down-russia-when-war-started-it-kept-storied-hotel-that-serves-2026-02-27%2f&amp;c=11919275693681876413&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 00:01:00 GMT",
-        "category": "Top News"
-      }
-    ],
-    "markets": [
-      {
-        "title": "We&apos;re adding a stock to our Bullpen watchlist that is resistant to recessions and AI disruption",
-        "link": "https://www.cnbc.com/2026/02/27/were-adding-a-stock-to-our-bullpen-resistant-to-recessions-ai-disruption.html",
-        "pubDate": "Fri, 27 Feb 2026 18:31:21 GMT",
+        "title": "Here&apos;s an update on our 4th Industrial Revolution stocks and the rest of the portfolio",
+        "link": "https://www.cnbc.com/2026/02/27/jim-cramers-update-on-our-ai-stocks-and-the-rest-of-the-portfolio.html",
+        "pubDate": "Fri, 27 Feb 2026 19:30:43 GMT",
         "category": "health"
-      },
-      {
-        "title": "The new anti-AI trade sweeping Wall Street: &apos;HALO&apos;",
-        "link": "https://www.cnbc.com/2026/02/27/the-new-anti-ai-trade-sweeping-wall-street-halo.html",
-        "pubDate": "Fri, 27 Feb 2026 17:32:56 GMT",
-        "category": "us"
       },
       {
         "title": "Stocks making the biggest moves midday: Bank stocks, Netflix, Duolingo, AES, Sunrun and more",
