@@ -1,33 +1,20 @@
 {
-  "updated_at": "2026-02-28T12:59:02.899733",
+  "updated_at": "2026-02-28T14:29:16.236588",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "US and Israel launch a major attack on Iran and Trump urges Iranians to \u2018take over your government\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e63a68a44474a74f08611e7ce91c&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c&amp;c=9187002111230610166&amp;mkt=en-us",
-        "pubDate": "Sat, 28 Feb 2026 04:34:00 GMT",
+        "title": "Opinion: The Chicago Bears of Indiana",
+        "link": "https://www.npr.org/2026/02/28/nx-s1-5721775/opinion-the-chicago-bears-of-indiana",
+        "pubDate": "Sat, 28 Feb 2026 08:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel and the U.S. launch strikes on Iran",
+        "link": "https://www.npr.org/2026/02/28/nx-s1-5730222/israel-and-the-u-s-launch-strikes-on-iran",
+        "pubDate": "Sat, 28 Feb 2026 07:56:12 -0500",
         "category": "us"
       },
-      {
-        "title": "Marco Odermatt closes in on downhill season title after winning first World Cup race since Olympics",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e6399ea84070a72c83dfc4725994&amp;url=https%3a%2f%2fapnews.com%2farticle%2falpine-skiing-olympics-downhill-odermatt-b006ee7b40a5f58c663567a80b687ec4&amp;c=17575801702511852811&amp;mkt=en-us",
-        "pubDate": "Sat, 28 Feb 2026 04:33:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e63c800b4c37992a6e4edf6382cc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fanthropic-pentagon-ai-hegseth-dario-amodei-b72d1894bc842d9acf026df3867bee8a&amp;c=13401831710818329113&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 20:15:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Paramount must convince regulators its deal with Warner will not hurt customers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e63b011944ca840257a4346a5260&amp;url=https%3a%2f%2fapnews.com%2farticle%2fparamount-warner-regulation-antitrust-ea33a1e179b8e906fa83428faa06c0a5&amp;c=212272023388139093&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 13:48:00 GMT",
-        "category": "business"
-      }
-    ],
-    "npr": [
       {
         "title": "Unlocking the secrets of an ancient plague",
         "link": "https://www.npr.org/2026/02/28/nx-s1-5724890/unlocking-the-secrets-of-an-ancient-plague",
@@ -44,7 +31,7 @@
         "title": "North Carolina Democrats latest to chart future of the party in congressional primary",
         "link": "https://www.npr.org/2026/02/28/nx-s1-5726425/nc-primary-election-foushee-allam",
         "pubDate": "Sat, 28 Feb 2026 07:00:00 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Kyiv&apos;s elderly endure blackouts and bombardment, clinging to warmth and hope",
@@ -59,21 +46,9 @@
         "category": "Top News"
       },
       {
-        "title": "Trump announces &apos;major combat operations&apos; in Iran",
+        "title": "U.S. and Israel strike Iran in operation &apos;Epic Fury.&apos; Trump calls for regime overthrow",
         "link": "https://www.npr.org/2026/02/28/nx-s1-5730158/israel-iran-strikes-trump-us",
         "pubDate": "Sat, 28 Feb 2026 02:16:26 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says he is &apos;not happy&apos; with the Iran nuclear talks but indicates he&apos;ll give them more time",
-        "link": "https://www.npr.org/2026/02/28/nx-s1-5730151/trump-iran-nuclear-talks",
-        "pubDate": "Sat, 28 Feb 2026 01:06:51 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Bill Clinton says he &apos;did nothing wrong&apos; with Epstein as he faced grilling over their relationship",
-        "link": "https://www.npr.org/2026/02/28/nx-s1-5730149/bill-clinton-epstein-congress-deposition",
-        "pubDate": "Sat, 28 Feb 2026 00:49:58 -0500",
         "category": "Top News"
       },
       {
@@ -91,21 +66,27 @@
     ],
     "bbc": [
       {
+        "title": "What we know so far",
+        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 28 Feb 2026 13:41:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Flights cancelled as travel warnings issued",
+        "link": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 28 Feb 2026 13:39:34 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
         "link": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 28 Feb 2026 12:41:49 GMT",
+        "pubDate": "Sat, 28 Feb 2026 13:35:44 GMT",
         "category": "world"
       },
       {
         "title": "Bowen: A dangerous moment, but US and Israel see opportunity not to be missed",
         "link": "https://www.bbc.com/news/articles/cn0z9012291o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 28 Feb 2026 12:17:17 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What we know so far",
-        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 28 Feb 2026 12:16:20 GMT",
         "category": "Top News"
       },
       {
@@ -125,12 +106,6 @@
         "link": "https://www.bbc.com/news/articles/crrxe7qjejjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 28 Feb 2026 07:14:44 GMT",
         "category": "health"
-      },
-      {
-        "title": "The third man who links Andrew with Jeffrey Epstein",
-        "link": "https://www.bbc.com/news/articles/c98gne0z0rxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 28 Feb 2026 06:00:27 GMT",
-        "category": "Top News"
       },
       {
         "title": "Trump orders government to stop using Anthropic in battle over AI use",
@@ -153,62 +128,62 @@
     ],
     "reuters": [
       {
+        "title": "Germany, France and UK tell Iran to stop attacks in region",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2fb8e2a2642da88b2e589850e085a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fgermany-france-uk-tell-iran-stop-attacks-region-2026-02-28%2f&amp;c=13813952944161958276&amp;mkt=en-us",
+        "pubDate": "Sat, 28 Feb 2026 05:02:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Live: US and Israel strike Iran as Trump says action give Iranians chance to 'topple their rulers'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e64b8def4bc2a52f033b8cbccf4a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-crisis-live-explosions-tehran-israel-announces-strike-2026-02-28%2f&amp;c=2910959357406642816&amp;mkt=en-us",
-        "pubDate": "Sat, 28 Feb 2026 03:34:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2fb8e2a2642da88b2e589850e085a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-crisis-live-explosions-tehran-israel-announces-strike-2026-02-28%2f&amp;c=2910959357406642816&amp;mkt=en-us",
+        "pubDate": "Sat, 28 Feb 2026 04:58:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "France's Macron calls for urgent meeting of U.N. security council on Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e64b8def4bc2a52f033b8cbccf4a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ffrances-macron-calls-urgent-meeting-un-security-council-iran-2026-02-28%2f&amp;c=2516201754020688125&amp;mkt=en-us",
-        "pubDate": "Sat, 28 Feb 2026 03:28:00 GMT",
+        "title": "Market analysts react to US-Israel strikes on Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2fb8e2a2642da88b2e589850e085a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fmarket-analysts-react-us-israel-strikes-iran-2026-02-28%2f&amp;c=821677912375385158&amp;mkt=en-us",
+        "pubDate": "Sat, 28 Feb 2026 04:53:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Iran fires missiles at Gulf Arab states, one killed in Abu Dhabi",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e64b8def4bc2a52f033b8cbccf4a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-fires-missiles-gulf-arab-states-one-killed-abu-dhabi-2026-02-28%2f&amp;c=5698602681259846217&amp;mkt=en-us",
-        "pubDate": "Sat, 28 Feb 2026 02:31:00 GMT",
+        "title": "How US-Iran tensions could shape world markets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2fb8e3a134f3b805cbd3032a963dd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fhow-us-iran-tensions-could-shape-world-markets-2026-02-28%2f&amp;c=15394789972888717808&amp;mkt=en-us",
+        "pubDate": "Sat, 28 Feb 2026 04:35:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Berlin puts Rosneft units into trusteeship to control German assets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2fb8e2a2642da88b2e589850e085a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fberlin-puts-rosneft-units-into-trusteeship-control-german-assets-2026-02-28%2f&amp;c=9905514774502590916&amp;mkt=en-us",
+        "pubDate": "Sat, 28 Feb 2026 04:33:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US-Israeli attack triggers fear and panic in Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e64b8def4bc2a52f033b8cbccf4a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-israeli-attack-triggers-fear-panic-iran-2026-02-28%2f&amp;c=3732208218240825522&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2fb8e2a2642da88b2e589850e085a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-israeli-attack-triggers-fear-panic-iran-2026-02-28%2f&amp;c=3732208218240825522&amp;mkt=en-us",
         "pubDate": "Sat, 28 Feb 2026 02:07:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Insight: After El Mencho's killing, his cartel's power endures deep inside the US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e64b8def4bc2a52f033b8cbccf4a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fafter-el-menchos-killing-his-cartels-power-endures-deep-inside-us-2026-02-28%2f&amp;c=16426015406801305136&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2fb8e2a2642da88b2e589850e085a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fafter-el-menchos-killing-his-cartels-power-endures-deep-inside-us-2026-02-28%2f&amp;c=16426015406801305136&amp;mkt=en-us",
         "pubDate": "Sat, 28 Feb 2026 02:02:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Airlines suspend Middle East flights after US, Israel strikes on Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e64b8def4bc2a52f033b8cbccf4a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fairlines-suspend-middle-east-flights-after-us-israel-strikes-iran-2026-02-28%2f&amp;c=13393580401719326961&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2fb8e2a2642da88b2e589850e085a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fairlines-suspend-middle-east-flights-after-us-israel-strikes-iran-2026-02-28%2f&amp;c=13393580401719326961&amp;mkt=en-us",
         "pubDate": "Sat, 28 Feb 2026 01:00:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Trump warns some Americans may die amid US strikes in Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e64b8def4bc2a52f033b8cbccf4a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-says-us-carrying-out-major-combat-operations-iran-2026-02-28%2f&amp;c=11557053950626123663&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2fb901581483f8da246b26b2bc575&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-says-us-carrying-out-major-combat-operations-iran-2026-02-28%2f&amp;c=11557053950626123663&amp;mkt=en-us",
         "pubDate": "Fri, 27 Feb 2026 23:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US and Israel strike Iran, targeting its top leaders",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e64b8def4bc2a52f033b8cbccf4a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fisrael-us-launch-strikes-iran-2026-02-28%2f&amp;c=13703750784627781736&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 22:37:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pakistan, Afghan Taliban forces clash as diplomatic efforts intensify",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e65aa7164d7fa8edd6000d2cd440&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistan-afghan-taliban-forces-clash-diplomatic-efforts-intensify-2026-02-28%2f&amp;c=3664594084006504626&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Feb 2026 20:46:00 GMT",
-        "category": "tech"
+        "category": "us"
       },
       {
         "title": "Healthcare &amp; Pharmaceuticals",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2e65bbbfb4856bdea108d88b316db&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2f&amp;c=4053367799059873081&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a2fba1dad744b3b5e507c36908fc23&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2f&amp;c=4053367799059873081&amp;mkt=en-us",
         "pubDate": "Fri, 27 Feb 2026 14:35:00 GMT",
         "category": "health"
       }
@@ -217,8 +192,32 @@
       {
         "title": "U.S.-Israel launch massive attack on Iran; 4 U.S. military bases hit in retaliation",
         "link": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
-        "pubDate": "Sat, 28 Feb 2026 12:51:12 GMT",
+        "pubDate": "Sat, 28 Feb 2026 13:54:24 GMT",
         "category": "world"
+      },
+      {
+        "title": "NASA is sending its first Black and first female astronauts to the moon",
+        "link": "https://www.cnbc.com/2026/02/28/nasa-astronauts-moon-artemis.html",
+        "pubDate": "Sat, 28 Feb 2026 13:00:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Google wants Intrinsic to be &apos;Android of robotics&apos; as it pushes into physical AI",
+        "link": "https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html",
+        "pubDate": "Sat, 28 Feb 2026 13:00:01 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "How the &apos;K-shaped&apos; economy is showing up at two big U.S. gyms",
+        "link": "https://www.cnbc.com/2026/02/28/life-time-planet-fitness-earnings-show-k-shaped-economy.html",
+        "pubDate": "Sat, 28 Feb 2026 13:00:01 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Private equity stocks like Apollo are among the most oversold names in the S&amp;P 500",
+        "link": "https://www.cnbc.com/2026/02/28/private-equity-stocks-like-apollo-are-among-the-most-oversold-names-in-the-sp-500.html",
+        "pubDate": "Sat, 28 Feb 2026 12:55:25 GMT",
+        "category": "us"
       }
     ]
   }
