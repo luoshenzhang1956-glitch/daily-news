@@ -1,38 +1,50 @@
 {
-  "updated_at": "2026-03-01T20:35:38.488103",
+  "updated_at": "2026-03-01T22:31:26.225557",
   "news": {
     "ap": [
       {
         "title": "Stranded travelers scramble to make new connections as war shuts much of Middle East to air travel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d2811049938685cbd58c167184&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-israel-us-flights-03-01-2026-037e2570049a1b34b52a13427e491547&amp;c=15139717458059762778&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be37e0bc44bd8b4dd0a8e0ed970e&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-israel-us-flights-03-01-2026-037e2570049a1b34b52a13427e491547&amp;c=15139717458059762778&amp;mkt=en-us",
         "pubDate": "Sun, 01 Mar 2026 12:14:00 GMT",
         "category": "business"
       },
       {
         "title": "Trump expects his Fed pick and AI to deliver a replay of the \u201890s boom. Economists have doubts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d3c8c04f58aa38f4f7665e60f1&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-warsh-federal-reserve-productivity-inflation-economy-fdd43a1dd672021b2c9706432620da9f&amp;c=11775656762132577681&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3869254c118243be260babb2db&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-warsh-federal-reserve-productivity-inflation-economy-fdd43a1dd672021b2c9706432620da9f&amp;c=11775656762132577681&amp;mkt=en-us",
         "pubDate": "Sun, 01 Mar 2026 12:00:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "What to know about the latest US-Israeli attacks on Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d1ac8a44e5beadddab8eea925d&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5&amp;c=4494706459821432121&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 11:35:00 GMT",
-        "category": "us"
       }
     ],
     "npr": [
       {
+        "title": "What is the U.S. military&apos;s capacity to carry out extended strikes in Iran?",
+        "link": "https://www.npr.org/2026/03/01/nx-s1-5731493/what-is-the-u-s-militarys-capacity-to-carry-out-extended-strikes-in-iran",
+        "pubDate": "Sun, 01 Mar 2026 17:19:57 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Texas Rep. Tony Gonzales faces primary challenge amid allegations of affair",
+        "link": "https://www.npr.org/2026/03/01/nx-s1-5729150/texas-rep-tony-gonzales-faces-primary-challenge-amid-allegations-of-affair",
+        "pubDate": "Sun, 01 Mar 2026 17:19:53 -0500",
+        "category": "us"
+      },
+      {
+        "title": "Photos: U.S.-Israeli strikes in Iran and reactions from around the world",
+        "link": "https://www.npr.org/2026/03/01/g-s1-112094/iran-war-trump-israel-attack-photos-bahrain",
+        "pubDate": "Sun, 01 Mar 2026 15:51:44 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Mideast clashes breach Olympic truce as athletes gather for Winter Paralympic Games",
         "link": "https://www.npr.org/2026/03/01/nx-s1-5731368/mideast-clashes-breach-olympic-truce-winter-paralympic-games",
         "pubDate": "Sun, 01 Mar 2026 08:38:15 -0500",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "A U.S. scholarship thrills a teacher in India. Then came the soul-crushing questions",
         "link": "https://www.npr.org/2026/03/01/g-s1-104772/teacher-india-school-patriarchy-fulbright",
         "pubDate": "Sun, 01 Mar 2026 08:36:43 -0500",
-        "category": "us"
+        "category": "health"
       },
       {
         "title": "Paramount outbids Netflix to acquire Warner Bros. Discovery for $111 billion",
@@ -41,7 +53,7 @@
         "category": "business"
       },
       {
-        "title": "Three American soldiers killed as U.S.-Israeli war in Iran continues into 2nd day",
+        "title": "3 American soldiers killed as U.S.-Israeli war against Iran continues into 2nd day",
         "link": "https://www.npr.org/2026/03/01/nx-s1-5731365/us-israeli-strikes-region",
         "pubDate": "Sun, 01 Mar 2026 06:21:21 -0500",
         "category": "Top News"
@@ -57,15 +69,39 @@
         "link": "https://www.npr.org/2026/03/01/g-s1-112062/iran-fires-missiles",
         "pubDate": "Sun, 01 Mar 2026 02:11:17 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Iran&apos;s Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year iron rule",
-        "link": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
-        "pubDate": "Sat, 28 Feb 2026 17:08:46 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
+        "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 01 Mar 2026 22:24:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK mounts operation to support thousands of Britons in Middle East",
+        "link": "https://www.bbc.com/news/articles/cdjm8pn0ld8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 01 Mar 2026 22:21:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Allies of US in the Gulf bear brunt of Iran attacks",
+        "link": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 01 Mar 2026 22:19:03 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Major changes to asylum system set to come into force",
+        "link": "https://www.bbc.com/news/articles/cp32ddzdjxko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 01 Mar 2026 22:04:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
+        "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 01 Mar 2026 20:21:28 GMT",
+        "category": "us"
+      },
       {
         "title": "Three ships attacked near Strait of Hormuz as fears grow of oil price rises",
         "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
@@ -73,27 +109,9 @@
         "category": "business"
       },
       {
-        "title": "UK troops and civilians in Middle East put at risk by Iran strikes, Healey says",
-        "link": "https://www.bbc.com/news/articles/crrxkjxg1zpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 01 Mar 2026 18:11:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Flights cancelled and new travel warnings issued after Iran strikes",
-        "link": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 01 Mar 2026 18:05:14 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Iran's regime is still intact - the coming days will show if it can hold out",
         "link": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 01 Mar 2026 18:05:06 GMT",
-        "category": "world"
-      },
-      {
-        "title": "'It's eerie' - Dubai on edge as city comes under attack by Iran",
-        "link": "https://www.bbc.com/news/articles/c20lggwk134o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 01 Mar 2026 16:53:47 GMT",
         "category": "Top News"
       },
       {
@@ -103,22 +121,10 @@
         "category": "Top News"
       },
       {
-        "title": "The months of planning behind US-Israeli mission to target Iran's supreme leader",
+        "title": "Months of planning behind US-Israeli mission to target Iran's supreme leader",
         "link": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 01 Mar 2026 14:45:56 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Catherine shares first message entirely in Welsh for St David's Day",
-        "link": "https://www.bbc.com/news/articles/c70n99e396jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 01 Mar 2026 14:11:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
-        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 01 Mar 2026 10:58:33 GMT",
-        "category": "us"
       },
       {
         "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
@@ -129,85 +135,66 @@
     ],
     "reuters": [
       {
+        "title": "US gasoline prices to rise after attack on Iran, analysts warn",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3b3843424ab0412dcd1fb7bbd5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-gasoline-prices-rise-after-attack-iran-analysts-warn-2026-03-01%2f&amp;c=6653374024107398177&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Mar 2026 12:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: Australia says it may go after app stores, search engines in AI age crackdown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3d2eb04c37816f5d001057e1fa&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2faustralia-says-it-may-go-after-app-stores-search-engines-ai-age-crackdown-2026-03-01%2f&amp;c=11617915521625800074&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Mar 2026 12:07:00 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Amazon's cloud unit reports fire after objects hit UAE data center",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d595084d588f2165736b6137e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2famazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01%2f&amp;c=12558070841929511752&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3b3843424ab0412dcd1fb7bbd5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2famazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01%2f&amp;c=12558070841929511752&amp;mkt=en-us",
         "pubDate": "Sun, 01 Mar 2026 11:29:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "EU nations call for 'maximum restraint', respect for international law in Iran conflict",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d595084d588f2165736b6137e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2feu-nations-call-maximum-restraint-respect-international-law-iran-conflict-2026-03-01%2f&amp;c=8985546730930565867&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 11:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Women's Top 25 roundup: Elina Aarnisalo helps No. 21 North Carolina beat No. 12 Duke",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d595084d588f2165736b6137e6&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fwomens-top-25-roundup-elina-aarnisalo-helps-no-21-north-carolina-beat-no-12-duke--flm-2026-03-01%2f&amp;c=9207131082574036926&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 11:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wade Ormsby to step in for Phil Mickelson at LIV Golf Hong Kong",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2f5bb5b40ee99372c60c3fbcaa0&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2fwade-ormsby-step-phil-mickelson-liv-golf-hong-kong--flm-2026-03-01%2f&amp;c=16192122069771023&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 10:39:00 GMT",
-        "category": "health"
-      },
-      {
         "title": "Khamenei killing shatters Iran's order, triggers high-stakes succession race",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d595084d588f2165736b6137e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fkhamenei-killing-shatters-irans-order-triggers-high-stakes-succession-race-2026-03-01%2f&amp;c=4385080190284836205&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3b3843424ab0412dcd1fb7bbd5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fkhamenei-killing-shatters-irans-order-triggers-high-stakes-succession-race-2026-03-01%2f&amp;c=4385080190284836205&amp;mkt=en-us",
         "pubDate": "Sun, 01 Mar 2026 10:33:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US lawmakers see no Trump plan for Iran following strikes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d595084d588f2165736b6137e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-lawmakers-see-no-trump-plan-iran-following-strikes-2026-03-01%2f&amp;c=9421105521115044158&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 09:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US-Israeli strikes kill Khamenei and Iranian retaliation shakes gulf - As it happened",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d595084d588f2165736b6137e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-crisis-live-explosions-tehran-israel-announces-strike-2026-02-28%2f&amp;c=2910959357406642816&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 08:46:00 GMT",
-        "category": "Top News"
+        "title": "Samson guides India to T20 World Cup semis in nervy win over West Indies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3ca86b44749b56ee06ca31b3f7&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2findia-reach-t20-world-cup-semi-finals-with-five-wicket-win-over-west-indies-2026-03-01%2f&amp;c=1394862535422932187&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Mar 2026 08:34:00 GMT",
+        "category": "world"
       },
       {
         "title": "Just one in four Americans supports US strikes on Iran, Reuters/Ipsos poll finds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d595084d588f2165736b6137e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fjust-one-four-americans-support-us-strikes-iran-reutersipsos-poll-finds-2026-03-01%2f&amp;c=17707438983323930560&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3b3843424ab0412dcd1fb7bbd5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fjust-one-four-americans-support-us-strikes-iran-reutersipsos-poll-finds-2026-03-01%2f&amp;c=17707438983323930560&amp;mkt=en-us",
         "pubDate": "Sun, 01 Mar 2026 07:59:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Iranian leaders want to talk, Trump tells Atlantic magazine",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d595084d588f2165736b6137e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2firanian-leaders-want-talk-trump-tells-atlantic-magazine-2026-03-01%2f&amp;c=11748557808772763946&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3b3843424ab0412dcd1fb7bbd5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2firanian-leaders-want-talk-trump-tells-atlantic-magazine-2026-03-01%2f&amp;c=11748557808772763946&amp;mkt=en-us",
         "pubDate": "Sun, 01 Mar 2026 07:46:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US military says three of its troops killed in first Iran operation casualties",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4a2d595084d588f2165736b6137e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-military-says-three-its-service-members-killed-iran-operation-2026-03-01%2f&amp;c=402762619748722145&amp;mkt=en-us",
+        "title": "Hackers hit Iranian apps, websites after US-Israeli strikes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3b3843424ab0412dcd1fb7bbd5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fhackers-hit-iranian-apps-websites-after-us-israeli-strikes-2026-03-01%2f&amp;c=3931643959724939796&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Mar 2026 07:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US announces its first casualties in Iran war; poll signals challenge for Trump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3b3843424ab0412dcd1fb7bbd5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-military-says-three-its-service-members-killed-iran-operation-2026-03-01%2f&amp;c=402762619748722145&amp;mkt=en-us",
         "pubDate": "Sun, 01 Mar 2026 05:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "FBI probes possible terror link to Texas shooting that left three dead, 14 injured",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a4be3b3843424ab0412dcd1fb7bbd5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fthree-dead-14-injured-after-shooting-austin-texas-2026-03-01%2f&amp;c=11149453017226687187&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Mar 2026 03:34:00 GMT",
         "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "Live updates: Trump tells CNBC that Iran military operations are &apos;ahead of schedule&apos;",
-        "link": "https://www.cnbc.com/2026/03/01/us-iran-live-updates-khamenei-death-trump-gulf-strikes.html",
-        "pubDate": "Sun, 01 Mar 2026 20:26:27 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Top Wall Street analysts recommend these dividend stocks for enhanced returns",
-        "link": "https://www.cnbc.com/2026/03/01/top-wall-street-analysts-recommend-these-dividend-stocks-for-enhanced-returns.html",
-        "pubDate": "Sun, 01 Mar 2026 12:38:29 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Forget DeepSeek. China\u2019s already released 5 new AI models and UBS prefers this one",
-        "link": "https://www.cnbc.com/2026/03/01/forget-deepseek-of-chinas-5-new-ai-models-ubs-prefers-this-one.html",
-        "pubDate": "Sun, 01 Mar 2026 12:36:54 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
