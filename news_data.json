@@ -1,29 +1,28 @@
 {
-  "updated_at": "2026-03-02T20:44:47.859016",
+  "updated_at": "2026-03-02T22:35:27.894498",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Israeli settler gunfire kills two Palestinian brothers in the occupied West Bank",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5f66150e04feea2b70ab7469d3a67&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-palestinians-settler-violence-west-bank-583ae7c8a38e9fc4079b3b48d259f728&amp;c=5531457475261622059&amp;mkt=en-us",
-        "pubDate": "Mon, 02 Mar 2026 11:39:00 GMT",
-        "category": "health"
+        "title": "Here are the most important developments in Iran in the past 24 hours",
+        "link": "https://www.npr.org/2026/03/02/nx-s1-5731478/here-are-the-most-important-developments-in-iran-in-the-past-24-hours",
+        "pubDate": "Mon, 02 Mar 2026 16:48:07 -0500",
+        "category": "world"
       },
       {
-        "title": "What to know before asking an AI chatbot for health advice",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5f65fb9ba443c84a33fec0ebbe802&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchatbots-health-chatgpt-ai-claude-llm-1008892e0eb8ef4dbab4818beb15daef&amp;c=6086764507292550122&amp;mkt=en-us",
-        "pubDate": "Mon, 02 Mar 2026 07:01:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "npr": [
+        "title": "Video of Clinton depositions in Epstein investigation released by House Republicans",
+        "link": "https://www.npr.org/2026/03/02/nx-s1-5732871/bill-clinton-hillary-clinton-depositions-epstein-files",
+        "pubDate": "Mon, 02 Mar 2026 16:29:15 -0500",
+        "category": "Top News"
+      },
       {
         "title": "Some Middle East flights resume, but thousands of travelers are still stranded by war",
         "link": "https://www.npr.org/2026/03/02/nx-s1-5732784/iran-war-flights-travelers-stranded",
         "pubDate": "Mon, 02 Mar 2026 14:29:03 -0500",
-        "category": "world"
+        "category": "us"
       },
       {
-        "title": "Oil prices surge amid fears over Iran war",
+        "title": "Oil prices surge, but no panic yet, as Iran war continues",
         "link": "https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices",
         "pubDate": "Mon, 02 Mar 2026 09:42:13 -0500",
         "category": "business"
@@ -32,7 +31,7 @@
         "title": "Trump defends Iran strikes, offers objectives for military operation",
         "link": "https://www.npr.org/2026/03/02/nx-s1-5732258/us-iran-hegseth-caine",
         "pubDate": "Mon, 02 Mar 2026 08:15:29 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "U.S., Israel&apos;s war with Iran widens. And, Texas primaries test Latino support for GOP",
@@ -59,41 +58,35 @@
         "category": "Top News"
       },
       {
-        "title": "Hezbollah strikes Israel as American and Israeli planes pound Iran",
-        "link": "https://www.npr.org/2026/03/02/g-s1-112140/hezbollah-strikes-israel",
-        "pubDate": "Mon, 02 Mar 2026 05:07:19 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "How long do electric vehicle batteries actually last?",
         "link": "https://www.npr.org/2026/03/02/nx-s1-5706658/electric-vehicle-battery-lifespan",
         "pubDate": "Mon, 02 Mar 2026 05:00:00 -0500",
         "category": "tech"
-      },
-      {
-        "title": "7 key points in U.S.-Iran relations since 1953",
-        "link": "https://www.npr.org/2026/03/02/nx-s1-5731590/us-iran-relations-history-coup-revolution-nuclear",
-        "pubDate": "Mon, 02 Mar 2026 05:00:00 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "'Everything has changed': Missile attacks shatter Dubai's safe haven image",
+        "link": "https://www.bbc.com/news/articles/c875rjd990go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 22:06:27 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "What is behind the strategy to take out Iran's leadership?",
         "link": "https://www.bbc.com/news/articles/cly8gqj9r6go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 19:52:20 GMT",
+        "pubDate": "Mon, 02 Mar 2026 21:27:17 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Oil and gas prices jump as conflict escalates",
+        "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 21:23:55 GMT",
+        "category": "business"
       },
       {
         "title": "Starmer criticises Trump, saying UK 'does not believe in regime change from skies'",
         "link": "https://www.bbc.com/news/articles/cj0dnq2v0e2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 02 Mar 2026 19:32:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's Iran endgame unclear after mixed messaging on war aims",
-        "link": "https://www.bbc.com/news/articles/cm214xk30vxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 19:16:50 GMT",
         "category": "Top News"
       },
       {
@@ -109,7 +102,7 @@
         "category": "world"
       },
       {
-        "title": "Three days in, we still have no idea where this war is heading",
+        "title": "Jeremy Bowen: Three days in, we still have no idea where this war is heading",
         "link": "https://www.bbc.com/news/articles/c178z0p902vo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 02 Mar 2026 18:48:02 GMT",
         "category": "Top News"
@@ -119,12 +112,6 @@
         "link": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 02 Mar 2026 17:37:27 GMT",
         "category": "us"
-      },
-      {
-        "title": "Oil and gas prices jump as conflict escalates",
-        "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 17:35:11 GMT",
-        "category": "business"
       },
       {
         "title": "BBC investigation finds 50,000 people waited over 24 hours in A&E corridor care",
@@ -141,31 +128,67 @@
     ],
     "reuters": [
       {
+        "title": "Maps and charts of the Iran crisis",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6105f96bb4060ae2711ceaad3051f&amp;url=https%3a%2f%2fwww.reuters.com%2fgraphics%2fIRAN-CRISIS%2fMAPS%2fznpnmelervl%2f&amp;c=15426697752656635172&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 13:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran war live: Iran says Strait of Hormuz closed and warns it will attack ships trying to pass",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6105f96bb4060ae2711ceaad3051f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-live-israel-strikes-hezbollah-uk-base-hit-cyprus-conflict-widens-2026-03-02%2f&amp;c=6188215433830904044&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 13:23:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Murder trial of father of alleged Georgia school shooter goes to jury",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6105f96bb4060ae2711ceaad3051f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fmurder-trial-father-alleged-georgia-school-shooter-goes-jury-2026-03-02%2f&amp;c=15346727480996135059&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 13:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trading Day: Oil, yields, uncertainty surge",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6105f96bb4060ae2711ceaad3051f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fglobal-markets-trading-day-graphic-2026-03-02%2f&amp;c=15879928439470801533&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 13:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Meeting to determine US measles elimination status delayed to November, NYT reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6107f938046e6810c633ebeb38100&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmeeting-determine-us-measles-elimination-status-delayed-november-nyt-reports-2026-03-02%2f&amp;c=8150541938505153884&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 12:55:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Caltech sues Zoom over videoconferencing patent",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6107e645a4c07a3b8d76d1cbc2cb1&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fcaltech-sues-zoom-over-videoconferencing-patent-2026-03-02%2f&amp;c=12270183329515038572&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 11:04:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Elon Musk's X, xAI plan to repay $17.5 billion in debt in full, Bloomberg News reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6105f96bb4060ae2711ceaad3051f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2felon-musks-xai-repay-3-billion-debt-early-bloomberg-news-reports-2026-03-02%2f&amp;c=7238025484122114712&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 09:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "From handwashed underwear to fake Adidas, stranded travellers wait out travel chaos",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6105f96bb4060ae2711ceaad3051f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fhandwashed-underwear-fake-adidas-stranded-travellers-wait-out-travel-chaos-2026-03-02%2f&amp;c=14641696123774507984&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 09:53:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Hims expansion may not come in time for risky GLP-1 business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5f690d7294a4c9c8b79dc99a6572d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhims-expansion-may-not-come-time-risky-glp-1-business-2026-03-02%2f&amp;c=1428838847205623518&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6107eded94395a7eb08a8ceedad45&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhims-expansion-may-not-come-time-risky-glp-1-business-2026-03-02%2f&amp;c=1428838847205623518&amp;mkt=en-us",
         "pubDate": "Mon, 02 Mar 2026 05:16:00 GMT",
         "category": "business"
+      },
+      {
+        "title": "Brushing off Trump criticism, UK's Starmer defends actions over Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6105f96bb4060ae2711ceaad3051f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrump-very-disappointed-with-uks-starmer-initially-blocking-use-air-bases-2026-03-02%2f&amp;c=11660293327709842571&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 02:29:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
-      {
-        "title": "Dividend Aristocrats are outperforming this year in a volatile market. These stocks are Wall Street\u2019s favorites",
-        "link": "https://www.cnbc.com/2026/03/02/these-dividend-aristocrat-stocks-are-wall-streets-favorites.html",
-        "pubDate": "Mon, 02 Mar 2026 20:29:40 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Mortgage rates jump sharply higher after Iran strikes, reversing last week&apos;s decline",
-        "link": "https://www.cnbc.com/2026/03/02/mortgage-rates-jump-sharply-higher-after-iran-strikes-reversing-last-weeks-decline.html",
-        "pubDate": "Mon, 02 Mar 2026 20:00:13 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Apple launches lower cost iPhone 17e and a new iPad Air powered by its M4 chip",
-        "link": "https://www.cnbc.com/2026/03/02/apple-iphone-17e-ipad-air-m4-chip.html",
-        "pubDate": "Mon, 02 Mar 2026 17:11:03 GMT",
-        "category": "tech"
-      },
       {
         "title": "Here&apos;s Jim Cramer&apos;s advice for navigating the markets during the Iran conflict",
         "link": "https://www.cnbc.com/2026/03/02/heres-jim-cramers-advice-for-navigating-the-markets-during-the-iran-conflict.html",
