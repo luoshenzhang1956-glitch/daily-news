@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-03-02T07:08:04.874502",
+  "updated_at": "2026-03-02T08:55:34.716586",
   "news": {
     "ap": [
       {
+        "title": "Gaza\u2019s ceasefire had some momentum. Now, some fear a new war will distract the world",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a55019dcd1454a9856558a9a58637e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgaza-iran-palestinians-israel-crossings-b6036878d5124f14b5a3202986f95e3e&amp;c=18398840482905734327&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Mar 2026 18:49:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "Stranded travelers scramble to make new connections as war shuts much of Middle East to air travel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a53703b0df474e89f45e3e31d42066&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-israel-us-flights-03-01-2026-037e2570049a1b34b52a13427e491547&amp;c=15139717458059762778&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5502369244a45a81b8b4b14143ae9&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-israel-us-flights-03-01-2026-037e2570049a1b34b52a13427e491547&amp;c=15139717458059762778&amp;mkt=en-us",
         "pubDate": "Sun, 01 Mar 2026 12:14:00 GMT",
         "category": "business"
+      },
+      {
+        "title": "Trump expects his Fed pick and AI to deliver a replay of the \u201890s boom. Economists have doubts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a55025424d4a2fb865cf8ff2887acb&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-warsh-federal-reserve-productivity-inflation-economy-fdd43a1dd672021b2c9706432620da9f&amp;c=11775656762132577681&amp;mkt=en-us",
+        "pubDate": "Sun, 01 Mar 2026 12:00:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
@@ -57,32 +69,32 @@
         "link": "https://www.npr.org/2026/03/01/nx-s1-5731333/iran-us-israel-strikes",
         "pubDate": "Sun, 01 Mar 2026 04:00:58 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Explosion rocks Iran&apos;s capital as Israel says it is targeting the city",
-        "link": "https://www.npr.org/2026/03/01/g-s1-112062/iran-fires-missiles",
-        "pubDate": "Sun, 01 Mar 2026 02:11:17 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Oil prices rise after ships attacked near Strait of Hormuz",
+        "title": "Oil prices jump after attack on Iran threatens crucial Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 06:53:43 GMT",
+        "pubDate": "Mon, 02 Mar 2026 08:48:18 GMT",
         "category": "business"
       },
       {
-        "title": "I spent 13 years in pain before doctors finally worked out why",
-        "link": "https://www.bbc.com/news/articles/cx2drw8l80no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 06:49:12 GMT",
-        "category": "health"
+        "title": "Iranian drone crashed into RAF base, Cyprus president says",
+        "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 07:40:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "RAF base in Cyprus targeted in suspected drone strike, MoD says",
-        "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 05:24:27 GMT",
+        "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
+        "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 07:22:48 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "BBC investigation finds 50,000 people waited over 24 hours in A&E corridor care",
+        "link": "https://www.bbc.com/news/articles/cy8lvjn66zxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 06:27:59 GMT",
+        "category": "health"
       },
       {
         "title": "Hopes and fears as US Iranians take to streets after toppling of supreme leader",
@@ -94,12 +106,6 @@
         "title": "Watch: Retaliations continue on day two of US-Israel attacks on Iran",
         "link": "https://www.bbc.com/news/videos/cvgk8vj56v1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 01 Mar 2026 23:18:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
-        "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 01 Mar 2026 22:56:45 GMT",
         "category": "Top News"
       },
       {
@@ -127,80 +133,13 @@
         "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "Luka Doncic, LeBron James, Lakers too much for Kings",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a53716ede142e098530df8e67b3acb&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fluka-doncic-lebron-james-lakers-too-much-kings--flm-2026-03-02%2f&amp;c=1865531630405592774&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 21:41:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "EU can sharply cut local battery prices with Made in Europe plan, T&amp;E report says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a53716ede142e098530df8e67b3acb&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fclimate-energy%2feu-can-sharply-cut-local-battery-prices-with-made-europe-plan-te-report-says-2026-03-02%2f&amp;c=10608226926405661705&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 21:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Joichi Ito, linked with Epstein, to leave Japan government panel, Sankei says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a537297a7b4deb9a0da3825fbbde1e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjoichi-ito-linked-with-epstein-leave-japan-government-panel-sankei-says-2026-03-02%2f&amp;c=12970817404267479357&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 20:45:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "China's factory activity set to shrink for second month, hit by depressed demand",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a53716ede142e098530df8e67b3acb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchinas-factory-activity-set-shrink-second-month-hit-by-depressed-demand-2026-03-02%2f&amp;c=866807202497473616&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 20:26:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Elliott agrees to Toyota's increased $30 billion tender offer for Toyota Industries",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a53716ede142e098530df8e67b3acb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftoyota-plans-hike-offer-price-group-firm-tico-extend-deadline-again-2026-03-02%2f&amp;c=4443991818737703040&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 20:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pentagon tells Congress no sign that Iran was going to attack US first, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5372777824cd1a3f832bfbd768aef&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpentagon-tells-congress-no-sign-that-iran-was-going-attack-us-first-sources-say-2026-03-02%2f&amp;c=14498859280426690560&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 19:24:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Suspected drone strike hits British air base in Cyprus",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a53716ede142e098530df8e67b3acb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fbritish-air-base-cyprus-hit-by-suspected-drone-strike-sky-news-reports-2026-03-02%2f&amp;c=16006891557499131870&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 17:57:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wall St Week Ahead AI disruption looms over markets with US jobs data on tap",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a53716ede142e098530df8e67b3acb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fwall-st-week-ahead-ai-disruption-looms-over-markets-with-us-jobs-data-tap-2026-03-02%2f&amp;c=12046888285471739501&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 16:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: Australia says it may go after app stores, search engines in AI age crackdown",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5372a1cf84f8292fa64980bcef583&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2faustralia-says-it-may-go-after-app-stores-search-engines-ai-age-crackdown-2026-03-01%2f&amp;c=11617915521625800074&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 12:07:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Khamenei killing shatters Iran's order, triggers high-stakes succession race",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a53716ede142e098530df8e67b3acb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fkhamenei-killing-shatters-irans-order-triggers-high-stakes-succession-race-2026-03-01%2f&amp;c=4385080190284836205&amp;mkt=en-us",
-        "pubDate": "Sun, 01 Mar 2026 10:33:00 GMT",
-        "category": "Top News"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "China&apos;s Honor shows off smartphone with robotic camera arm and teases a humanoid robot",
-        "link": "https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html",
-        "pubDate": "Sun, 01 Mar 2026 14:15:41 GMT",
+        "title": "The digital front: Iran\u2019s internet down for second day amid reports of U.S.-Israel cyberattacks",
+        "link": "https://www.cnbc.com/2026/03/02/irans-internet-down-amid-reports-of-us-israel-cyberattacks.html",
+        "pubDate": "Mon, 02 Mar 2026 08:51:14 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Top Wall Street analysts recommend these dividend stocks for enhanced returns",
-        "link": "https://www.cnbc.com/2026/03/01/top-wall-street-analysts-recommend-these-dividend-stocks-for-enhanced-returns.html",
-        "pubDate": "Sun, 01 Mar 2026 12:38:29 GMT",
-        "category": "us"
       },
       {
         "title": "Forget DeepSeek. China\u2019s already released 5 new AI models and UBS prefers this one",
