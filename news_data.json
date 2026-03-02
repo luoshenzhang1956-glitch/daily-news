@@ -1,16 +1,35 @@
 {
-  "updated_at": "2026-03-02T17:00:19.659591",
+  "updated_at": "2026-03-02T18:59:48.195845",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "This is how the US-Israeli strikes on Iran played out",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5dd933f3d4ad7832ebff57c4213b5&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-united-states-trump-strikes-6c602da7d44cb8c34fa1a9f85f352e4a&amp;c=5466392396095589164&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 10:38:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Cuba\u2019s president pushes for \u2018urgent\u2019 changes to island\u2019s economic and business model",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5dd977a264b3ca39a2f510b08c425&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuba-president-economic-social-model-d67457289b4fea6389d8839024e082e2&amp;c=9765050285951195117&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 10:31:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "World hurries to respond to rapidly changing war around Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5dd91012347a4a5b8860c41a7ea5a&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-israel-international-reaction-03-02-2026-db5128dca1593c0af6c9f89ecbbe57d1&amp;c=4739938733970266490&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 09:12:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
-        "title": "Oil prices surge and stocks fall amid fears over Iran war",
+        "title": "Oil prices surge amid fears over Iran war",
         "link": "https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices",
         "pubDate": "Mon, 02 Mar 2026 09:42:13 -0500",
         "category": "world"
       },
       {
-        "title": "Hegseth: &apos;We didn&apos;t start this war but under President Trump we&apos;re finishing it&apos;",
+        "title": "Trump defends Iran strikes, offers objectives for military operation",
         "link": "https://www.npr.org/2026/03/02/nx-s1-5732258/us-iran-hegseth-caine",
         "pubDate": "Mon, 02 Mar 2026 08:15:29 -0500",
         "category": "us"
@@ -66,45 +85,51 @@
     ],
     "bbc": [
       {
+        "title": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens",
+        "link": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 18:53:27 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Three days in, we still have no idea where this war is heading",
+        "link": "https://www.bbc.com/news/articles/c178z0p902vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 18:48:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Starmer criticises Trump, saying UK 'does not believe in regime change from skies'",
+        "link": "https://www.bbc.com/news/articles/cj0dnq2v0e2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 18:19:01 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
+        "link": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 17:37:27 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Oil and gas prices jump as conflict escalates",
+        "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 17:35:11 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Refugee status becomes temporary in asylum shake-up",
+        "link": "https://www.bbc.com/news/articles/cp32ddzdjxko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 02 Mar 2026 17:27:47 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Limited flights leave UAE but disruption continues amid Iran strikes",
         "link": "https://www.bbc.com/news/articles/c3v7ele1k4zo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 02 Mar 2026 16:25:37 GMT",
         "category": "Top News"
       },
       {
-        "title": "Oil and gas prices jump as conflict escalates",
-        "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 14:47:46 GMT",
-        "category": "business"
-      },
-      {
         "title": "Will petrol and diesel prices go up now?",
         "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 02 Mar 2026 13:44:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
-        "link": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 13:42:29 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Why did US and Israel attack Iran and how long could the war last?",
-        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 13:15:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Starmer seeks to carve out distinct UK approach to this conflict",
-        "link": "https://www.bbc.com/news/articles/c0rj4nvw07do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 13:12:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Video appears to show US F-15 fighter jet crashing in Kuwait",
-        "link": "https://www.bbc.com/news/videos/ce8wed33e07o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 02 Mar 2026 09:43:33 GMT",
         "category": "Top News"
       },
       {
@@ -118,34 +143,22 @@
         "link": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 01 Mar 2026 22:35:18 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Allies of US in the Gulf bear brunt of Iran attacks",
-        "link": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 01 Mar 2026 22:19:03 GMT",
-        "category": "world"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Emirates says it will resume &apos;limited number&apos; of flights, El Al weighs use of private jets",
-        "link": "https://www.cnbc.com/2026/03/02/middle-east-flights.html",
-        "pubDate": "Mon, 02 Mar 2026 16:58:13 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Iran live updates: Trump speaking as more U.S. forces head to Mideast",
-        "link": "https://www.cnbc.com/2026/03/02/us-iran-live-updates-trump-oil-gold.html",
-        "pubDate": "Mon, 02 Mar 2026 16:56:29 GMT",
+        "title": "Explainer: Iran and the 2026 World Cup in the US, Mexico and Canada",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5ddac1fc74849a2413199246e8b84&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2firan-2026-world-cup-us-mexico-canada-2026-03-02%2f&amp;c=12984272897254304034&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 03:07:00 GMT",
         "category": "world"
       },
       {
-        "title": "Nvidia&apos;s stock is stuck. Morgan Stanley says it&apos;s time to buy again",
-        "link": "https://www.cnbc.com/2026/03/02/nvidias-stock-is-stuck-morgan-stanley-says-its-time-to-buy-again.html",
-        "pubDate": "Mon, 02 Mar 2026 16:32:48 GMT",
-        "category": "us"
+        "title": "Guinea signs health agreement with US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a5dddb4cfe48bfbac6ec6118412d06&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fguinea-signs-health-agreement-with-us-2026-03-02%2f&amp;c=5851558313125516161&amp;mkt=en-us",
+        "pubDate": "Mon, 02 Mar 2026 02:44:00 GMT",
+        "category": "health"
       }
-    ]
+    ],
+    "markets": []
   }
 }
