@@ -1,21 +1,14 @@
 {
-  "updated_at": "2026-03-03T14:54:50.682617",
+  "updated_at": "2026-03-03T17:00:11.644560",
   "news": {
-    "ap": [
-      {
-        "title": "Dow drops 1.8% as stocks sell off around the world and oil prices leap even higher on war worries",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f582e7e147bb90b2149126ef8337&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-iran-energy-oil-trump-75edbda5b8fa3038b47f143cc16855f0&amp;c=12723473671499919612&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 06:41:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Minnesota sues to block Trump administration\u2019s withholding of Medicaid funds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5b1ffc244d28df8867747b93754&amp;url=https%3a%2f%2fapnews.com%2farticle%2fminnesota-medicaid-funding-lawsuit-trump-3242c0992c8c266570bfd3200b14b483&amp;c=15509831007875881743&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 03:08:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "A new one-a-day-pill holds promise for HIV&apos;s &apos;forgotten population&apos;",
+        "link": "https://www.npr.org/2026/03/03/nx-s1-5727702/hiv-aids-pill",
+        "pubDate": "Tue, 03 Mar 2026 11:43:16 -0500",
+        "category": "health"
+      },
       {
         "title": "U.S. evacuates diplomats from Middle East. And, what to expect from N.C., Texas primaries",
         "link": "https://www.npr.org/2026/03/03/g-s1-112278/up-first-newsletter-iran-us-israel-middle-east-nc-texas-primaries-kristi-noem-bill-clinton",
@@ -35,20 +28,20 @@
         "category": "tech"
       },
       {
-        "title": "College students, professors are making their own AI rules. They don&apos;t always agree",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
-        "pubDate": "Tue, 03 Mar 2026 05:00:00 -0500",
-        "category": "us"
-      },
-      {
-        "title": "Kristi Noem set to face senators over DHS shutdown, immigration enforcement",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5732788/kristi-noem-judiciary-hearing-homeland-security",
-        "pubDate": "Tue, 03 Mar 2026 05:00:00 -0500",
+        "title": "The U.S. shuts some Gulf embassies and warns of a prolonged war with Iran",
+        "link": "https://www.npr.org/2026/03/03/nx-s1-5732968/iran-us-trump-war",
+        "pubDate": "Tue, 03 Mar 2026 05:45:22 -0500",
         "category": "Top News"
       },
       {
         "title": "Trump promised the MAGA base no new wars. Then he went to war with Iran",
         "link": "https://www.npr.org/2026/03/03/nx-s1-5732601/trump-maga-iran-war-israel",
+        "pubDate": "Tue, 03 Mar 2026 05:00:00 -0500",
+        "category": "us"
+      },
+      {
+        "title": "College students, professors are making their own AI rules. They don&apos;t always agree",
+        "link": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
         "pubDate": "Tue, 03 Mar 2026 05:00:00 -0500",
         "category": "Top News"
       },
@@ -59,59 +52,59 @@
         "category": "Top News"
       },
       {
+        "title": "Kristi Noem faces senators over DHS shutdown, immigration enforcement",
+        "link": "https://www.npr.org/2026/03/03/nx-s1-5732788/kristi-noem-judiciary-hearing-homeland-security",
+        "pubDate": "Tue, 03 Mar 2026 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "Melania Trump presides at UN Security Council meeting as U.S. attacks Iran",
         "link": "https://www.npr.org/2026/03/03/g-s1-112272/melania-trump-presides-un",
         "pubDate": "Tue, 03 Mar 2026 04:54:11 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5727866/morning-news-brief",
-        "pubDate": "Tue, 03 Mar 2026 04:41:16 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "As more people turn to chatbots for health advice, studies say they may be led astray",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5726369/as-more-people-turn-to-chatbots-for-health-advice-studies-say-they-may-be-led-astray",
-        "pubDate": "Tue, 03 Mar 2026 04:40:49 -0500",
-        "category": "health"
       }
     ],
     "bbc": [
       {
         "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
         "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 14:49:05 GMT",
+        "pubDate": "Tue, 03 Mar 2026 16:41:06 GMT",
         "category": "world"
       },
       {
         "title": "Reeves says her plan is working as growth forecast cut for this year",
         "link": "https://www.bbc.com/news/articles/ce8wew99ngpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 14:47:44 GMT",
+        "pubDate": "Tue, 03 Mar 2026 16:39:35 GMT",
         "category": "business"
       },
       {
-        "title": "UK considers sending Royal Navy warship to Cyprus",
+        "title": "UK to send Royal Navy warship HMS Dragon to Cyprus",
         "link": "https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 14:28:47 GMT",
+        "pubDate": "Tue, 03 Mar 2026 16:33:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
+        "link": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Mar 2026 15:42:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "No new tax rises in Spring Statement, but don't be fooled - they are still set to rise",
+        "link": "https://www.bbc.com/news/articles/cj6dwg4deewo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Mar 2026 15:37:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Footage from across Iran shows scale of strikes",
+        "link": "https://www.bbc.com/news/videos/cd70zp0v3g4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Mar 2026 15:08:38 GMT",
         "category": "Top News"
       },
       {
         "title": "We need more updates, say British nationals stuck in Middle East",
         "link": "https://www.bbc.com/news/articles/cgml4e7p3x2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 03 Mar 2026 14:25:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What Spring Statement forecasts could mean for your money",
-        "link": "https://www.bbc.com/news/articles/cn0ekek5l87o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 13:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'I make between \u00a3800 and \u00a32,000 a month on zero-hours contracts. There's no consistency'",
-        "link": "https://www.bbc.com/news/articles/c20lz7rkqv4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 13:48:56 GMT",
         "category": "Top News"
       },
       {
@@ -127,12 +120,6 @@
         "category": "tech"
       },
       {
-        "title": "Why Europe's leaders have struggled to speak as one on Iran",
-        "link": "https://www.bbc.com/news/articles/cn8z5zvlz5yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 11:22:20 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Inside Health",
         "link": "https://www.bbc.co.uk/sounds/play/m002s4cx?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 03 Mar 2026 10:00:00 GMT",
@@ -141,83 +128,17 @@
     ],
     "reuters": [
       {
-        "title": "Iran war live: Israel strikes Tehran and Beirut; drones hit US embassy in Riyadh",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5b4affd4580828b0eaa452afe63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-live-israel-strikes-hezbollah-uk-base-hit-cyprus-conflict-widens-2026-03-02%2f&amp;c=6188215433830904044&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 05:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nvidia-backed Ayar Labs raises $500 million at $3.75 billion valuation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5ebffc64f45bae8d04a7c918a35&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fnvidia-backed-ayar-labs-raises-500-million-375-billion-valuation-2026-03-03%2f&amp;c=11386969620668994942&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 04:52:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "LIV Golf's Jon Rahm refuses DP World Tour settlement, says players are being extorted",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5c413a54c379c9150a14ac75938&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2frahm-refuses-dp-world-tour-settlement-says-players-are-being-extorted-2026-03-03%2f&amp;c=6738199022515604415&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 04:19:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Iran's strikes on Gulf states may widen war against Tehran, analysts say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5b4affd4580828b0eaa452afe63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2firans-strikes-gulf-states-may-widen-war-against-tehran-analysts-say-2026-03-03%2f&amp;c=5308514677649104447&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 03:54:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Global energy prices soar as Iran crisis disrupts shipping, oil and gas production",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5b4affd4580828b0eaa452afe63&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fglobal-energy-costs-soar-iran-crisis-disrupts-shipping-oil-gas-production-2026-03-03%2f&amp;c=3927969317903120743&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 02:54:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lebanon sucked deeper into war as Hezbollah, Israel trade blows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5b4affd4580828b0eaa452afe63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2flebanon-sucked-deeper-into-war-hezbollah-israel-trade-blows-2026-03-03%2f&amp;c=9774354963902185839&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 02:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ohtani leads Japan's WBC title defense, Team USA seek first crown since 2017",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5b4affd4580828b0eaa452afe63&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fohtani-leads-japans-wbc-title-defense-team-usa-seek-first-crown-since-2017-2026-03-03%2f&amp;c=11030155899425853776&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 02:09:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Six US House primaries to watch in Texas on Tuesday",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5b4affd4580828b0eaa452afe63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fsix-us-house-primaries-watch-texas-tuesday-2026-03-03%2f&amp;c=4513372192050227399&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 02:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US debuts suicide drone in Iran after fast-tracked Pentagon procurement",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5b4affd4580828b0eaa452afe63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-debuts-suicide-drone-iran-after-fast-tracked-pentagon-procurement-2026-03-03%2f&amp;c=5381331335224112569&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 02:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Texas Senate showdown kicks off midterms to determine control of US Congress",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a6f5b4affd4580828b0eaa452afe63&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftexas-senate-showdown-kicks-off-midterms-determine-control-us-congress-2026-03-03%2f&amp;c=2806888071780095099&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 02:03:00 GMT",
-        "category": "Top News"
+        "title": "The glass ceiling for women in business has not cracked. Instead, it\u2019s being reinforced",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a713403a8c411681003b27f9f8927b&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsociety-equity%2fglass-ceiling-women-business-has-not-cracked-instead-its-being-reinforced--ecmii-2026-03-03%2f&amp;c=17669861279917243864&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 05:34:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "Iran war live updates: Israel boosts southern Lebanon forces; drones hit U.S. embassy in Riyadh as oil, dollar rise",
-        "link": "https://www.cnbc.com/2026/03/03/us-iran-war-live-updates.html",
-        "pubDate": "Tue, 03 Mar 2026 14:52:52 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Google employees call for military limits on AI amid Iran strikes, Anthropic fallout",
-        "link": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html",
-        "pubDate": "Tue, 03 Mar 2026 14:23:02 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Target says it&apos;s on track to end its sales slump after another lackluster quarter",
         "link": "https://www.cnbc.com/2026/03/03/target-tgt-q4-2025-earnings.html",
-        "pubDate": "Tue, 03 Mar 2026 13:51:03 GMT",
+        "pubDate": "Tue, 03 Mar 2026 15:40:00 GMT",
         "category": "business"
       }
     ]
