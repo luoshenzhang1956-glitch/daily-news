@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-03-03T17:00:11.644560",
+  "updated_at": "2026-03-03T19:00:15.501321",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "NY attorney general demands hospital resume gender-affirming treatment for trans youth",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f98122f4cf081eeca88fa50dba6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnyu-hospital-letitia-james-trans-3d6b918fd7b084642698cb8246bec0d2&amp;c=15672803987568124349&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 10:43:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "What China\u2019s response to the US attack on Iran says about its foreign policy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f97ebeb4296b275ca7abbf81f46&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-position-us-iran-attack-1042fa7295500f90ecd6285d552da349&amp;c=11578414770285733396&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 10:01:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Cuba\u2019s president pushes for \u2018urgent\u2019 changes to island\u2019s economic and business model",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f9750144321838d94609b6e088e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuba-president-economic-social-model-d67457289b4fea6389d8839024e082e2&amp;c=9765050285951195117&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 08:49:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "President Trump is trying to make it harder to vote. Here&apos;s why that matters",
+        "link": "https://www.npr.org/2026/03/03/nx-s1-5734005/president-trump-is-trying-to-make-it-harder-to-vote-heres-why-that-matters",
+        "pubDate": "Tue, 03 Mar 2026 12:33:23 -0500",
+        "category": "us"
+      },
       {
         "title": "A new one-a-day-pill holds promise for HIV&apos;s &apos;forgotten population&apos;",
         "link": "https://www.npr.org/2026/03/03/nx-s1-5727702/hiv-aids-pill",
@@ -34,14 +59,14 @@
         "category": "Top News"
       },
       {
-        "title": "Trump promised the MAGA base no new wars. Then he went to war with Iran",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5732601/trump-maga-iran-war-israel",
-        "pubDate": "Tue, 03 Mar 2026 05:00:00 -0500",
-        "category": "us"
-      },
-      {
         "title": "College students, professors are making their own AI rules. They don&apos;t always agree",
         "link": "https://www.npr.org/2026/03/03/nx-s1-5716176/ai-college-students-professors",
+        "pubDate": "Tue, 03 Mar 2026 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump promised the MAGA base no new wars. Then he went to war with Iran",
+        "link": "https://www.npr.org/2026/03/03/nx-s1-5732601/trump-maga-iran-war-israel",
         "pubDate": "Tue, 03 Mar 2026 05:00:00 -0500",
         "category": "Top News"
       },
@@ -56,20 +81,38 @@
         "link": "https://www.npr.org/2026/03/03/nx-s1-5732788/kristi-noem-judiciary-hearing-homeland-security",
         "pubDate": "Tue, 03 Mar 2026 05:00:00 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "Melania Trump presides at UN Security Council meeting as U.S. attacks Iran",
-        "link": "https://www.npr.org/2026/03/03/g-s1-112272/melania-trump-presides-un",
-        "pubDate": "Tue, 03 Mar 2026 04:54:11 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "UK to send Royal Navy warship HMS Dragon to Cyprus",
+        "link": "https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Mar 2026 18:43:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tehran residents stock up on essentials as uncertainty over war grows",
+        "link": "https://www.bbc.com/news/articles/cdr2ep48r33o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Mar 2026 18:01:45 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
         "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 16:41:06 GMT",
+        "pubDate": "Tue, 03 Mar 2026 17:48:08 GMT",
         "category": "world"
+      },
+      {
+        "title": "Too early to tell scope of Iran strikes, Trump tells Congress",
+        "link": "https://www.bbc.com/news/articles/cx2gprk53pno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Mar 2026 17:23:13 GMT",
+        "category": "us"
+      },
+      {
+        "title": "We need more updates, say British nationals stuck in Middle East",
+        "link": "https://www.bbc.com/news/articles/cgml4e7p3x2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Mar 2026 17:09:45 GMT",
+        "category": "Top News"
       },
       {
         "title": "Reeves says her plan is working as growth forecast cut for this year",
@@ -78,19 +121,7 @@
         "category": "business"
       },
       {
-        "title": "UK to send Royal Navy warship HMS Dragon to Cyprus",
-        "link": "https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 16:33:17 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
-        "link": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 15:42:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "No new tax rises in Spring Statement, but don't be fooled - they are still set to rise",
+        "title": "No new tax rises in Spring Statement, but don't be fooled - tax bills are still rising",
         "link": "https://www.bbc.com/news/articles/cj6dwg4deewo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 03 Mar 2026 15:37:23 GMT",
         "category": "Top News"
@@ -100,18 +131,6 @@
         "link": "https://www.bbc.com/news/videos/cd70zp0v3g4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 03 Mar 2026 15:08:38 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "We need more updates, say British nationals stuck in Middle East",
-        "link": "https://www.bbc.com/news/articles/cgml4e7p3x2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 14:25:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US nationals urged to leave Middle East as conflict spreads",
-        "link": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 13:12:53 GMT",
-        "category": "us"
       },
       {
         "title": "OpenAI changes deal with US military after backlash",
@@ -128,18 +147,126 @@
     ],
     "reuters": [
       {
-        "title": "The glass ceiling for women in business has not cracked. Instead, it\u2019s being reinforced",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a713403a8c411681003b27f9f8927b&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsociety-equity%2fglass-ceiling-women-business-has-not-cracked-instead-its-being-reinforced--ecmii-2026-03-03%2f&amp;c=17669861279917243864&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 05:34:00 GMT",
+        "title": "GM moves to expand its dealers' used-car business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f9de44d4f03a4c1528525348671&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fgm-moves-expand-its-dealers-used-car-business-2026-03-03%2f&amp;c=16047913396279452862&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 09:48:00 GMT",
         "category": "business"
+      },
+      {
+        "title": "AI contract restrictions could threaten military missions, US official says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f9a1f934cafb759a9c0e7739170&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fai-contract-restrictions-could-threaten-military-missions-us-official-says-2026-03-03%2f&amp;c=4040583905683077103&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 09:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran war live: US and Israel pound Iran and Lebanon as oil surges and markets slump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f9c8b21425cbb065e2e4806b49a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-live-israel-strikes-hezbollah-uk-base-hit-cyprus-conflict-widens-2026-03-02%2f&amp;c=6188215433830904044&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 09:35:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Trump's Iran attack rattles Russian hardliners who call for Putin to double down on war in Ukraine",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f9a1f934cafb759a9c0e7739170&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrumps-iran-attack-rattles-russian-hardliners-who-call-putin-double-down-war-2026-03-03%2f&amp;c=12678008458998810961&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 09:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: US postpones third consecutive meeting of preventive health panel",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72fada6284c99b35015e7200cddc9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmarch-meeting-us-preventive-services-task-force-postponed-2026-03-03%2f&amp;c=5743761608977069443&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 08:54:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Soccer-Tickets for World Cup playoffs in Mexico go on sale for as little as $11",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f9bb89541c7867b30bfd4874b8c&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ftickets-world-cup-playoffs-mexico-go-sale-little-11-2026-03-03%2f&amp;c=2271447298523777034&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 08:47:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Private credit pioneers see downside of redemption",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f9a1f934cafb759a9c0e7739170&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2fbreakingviews%2fprivate-credit-pioneers-see-downside-redemption-2026-03-03%2f&amp;c=1161814389472449593&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 08:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran's strikes on Gulf states may widen war against Tehran, analysts say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f9a1f934cafb759a9c0e7739170&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2firans-strikes-gulf-states-may-widen-war-against-tehran-analysts-say-2026-03-03%2f&amp;c=5308514677649104447&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 03:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Lebanon sucked deeper into war as Hezbollah, Israel trade blows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f9a1f934cafb759a9c0e7739170&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2flebanon-sucked-deeper-into-war-hezbollah-israel-trade-blows-2026-03-03%2f&amp;c=9774354963902185839&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 02:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US debuts suicide drone in Iran after fast-tracked Pentagon procurement",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a72f9a1f934cafb759a9c0e7739170&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-debuts-suicide-drone-iran-after-fast-tracked-pentagon-procurement-2026-03-03%2f&amp;c=5381331335224112569&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 02:03:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
+        "title": "Blackstone\u2019s Gray: Market \u2018noise\u2019 fueled record redemptions from world\u2019s largest private credit fund",
+        "link": "https://www.cnbc.com/2026/03/03/blackstone-private-credit-fund.html",
+        "pubDate": "Tue, 03 Mar 2026 18:55:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The Dow is down just 300 points after earlier 1,200-point loss on Tuesday: Live updates",
+        "link": "https://www.cnbc.com/2026/03/02/stock-market-today-live-updates.html",
+        "pubDate": "Tue, 03 Mar 2026 18:50:25 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy",
+        "link": "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html",
+        "pubDate": "Tue, 03 Mar 2026 18:49:45 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Target says it&apos;s on track to end its sales slump after another lackluster quarter",
         "link": "https://www.cnbc.com/2026/03/03/target-tgt-q4-2025-earnings.html",
-        "pubDate": "Tue, 03 Mar 2026 15:40:00 GMT",
+        "pubDate": "Tue, 03 Mar 2026 18:01:45 GMT",
         "category": "business"
+      },
+      {
+        "title": "Wall Street playbook says buy when war breaks out. How this time could be different",
+        "link": "https://www.cnbc.com/2026/03/03/wall-street-usually-says-buy-when-war-starts-this-time-may-be-different.html",
+        "pubDate": "Tue, 03 Mar 2026 17:36:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: MongoDB, Pinterest, NRG Energy, Kontoor Brands &amp; more",
+        "link": "https://www.cnbc.com/2026/03/03/stocks-making-the-biggest-moves-midday-mdb-pins-nrg-ktb-more.html",
+        "pubDate": "Tue, 03 Mar 2026 17:25:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "We&apos;ve been active with trades during the Iran war fallout. Jim Cramer explains our approach",
+        "link": "https://www.cnbc.com/2026/03/03/weve-been-active-with-trades-during-the-iran-war-fallout-jim-cramer-explains-our-approach.html",
+        "pubDate": "Tue, 03 Mar 2026 17:16:21 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Nvidia is investing in these two stocks. Wall Street says you should too",
+        "link": "https://www.cnbc.com/2026/03/03/nvidia-is-investing-in-these-two-stocks-wall-street-says-you-should-too.html",
+        "pubDate": "Tue, 03 Mar 2026 17:08:08 GMT",
+        "category": "us"
+      },
+      {
+        "title": "New York Fed&apos;s Williams says tariff burden falls &apos;overwhelmingly&apos; on U.S. businesses and consumers",
+        "link": "https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html",
+        "pubDate": "Tue, 03 Mar 2026 16:53:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The momentum trades of 2026 are breaking with gold, silver and South Korea down big",
+        "link": "https://www.cnbc.com/2026/03/03/the-momentum-trades-of-2026-are-breaking-with-gold-silver-and-south-korea-down-big.html",
+        "pubDate": "Tue, 03 Mar 2026 15:30:25 GMT",
+        "category": "Top News"
       }
     ]
   }
