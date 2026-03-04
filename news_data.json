@@ -1,24 +1,12 @@
 {
-  "updated_at": "2026-03-04T06:59:25.048824",
+  "updated_at": "2026-03-04T08:52:18.159228",
   "news": {
     "ap": [
       {
-        "title": "Elon Musk to take stand in Twitter shareholder trial accusing him of deflating stock before purchase",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7d7dbe0c549b18b2ede55b3e8c6fd&amp;url=https%3a%2f%2fapnews.com%2farticle%2felon-musk-twitter-lawsuit-shareholders-stock-3fa8783666737839cdd7331fec1bf61d&amp;c=1910642645341407832&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 22:00:00 GMT",
-        "category": "business"
-      },
-      {
         "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7d7e5e39049ddabcfc62bb45ed087&amp;url=https%3a%2f%2fapnews.com%2farticle%2fartificial-intelligence-documentaries-sam-altman-8ed278203fce377199ea3eb93776c56c&amp;c=13929980564195496735&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7f242cb7749cda60c219a7aa904a0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fartificial-intelligence-documentaries-sam-altman-8ed278203fce377199ea3eb93776c56c&amp;c=13929980564195496735&amp;mkt=en-us",
         "pubDate": "Tue, 03 Mar 2026 22:00:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Newsom threatens California counties for failing to use his new mental health court",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7d7e8004a4d7c94abfa8193a47c27&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgavin-newsom-courts-kim-johnson-mental-health-california-01aecbcbd3928c65e8879446ad11a810&amp;c=6031600563292736334&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 11:59:00 GMT",
-        "category": "health"
       }
     ],
     "npr": [
@@ -35,7 +23,7 @@
         "category": "Top News"
       },
       {
-        "title": "GOP primary for Texas Senate seat set for runoff; Democratic race too close too call",
+        "title": "Talarico wins Democratic nomination for Texas Senate seat; Republicans set for runoff",
         "link": "https://www.npr.org/2026/03/03/nx-s1-5734515/texas-primary-election-results-james-talarico-jasmine-crockett-john-cornyn-ken-paxton",
         "pubDate": "Tue, 03 Mar 2026 18:40:22 -0500",
         "category": "Top News"
@@ -85,27 +73,33 @@
     ],
     "bbc": [
       {
-        "title": "Asia stocks slump and oil rises for third day as markets track Iran war",
-        "link": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 06:46:11 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Pregnant women shed grey matter to help with motherhood, study seen by BBC suggests",
-        "link": "https://www.bbc.com/news/articles/cy0d59e7wjlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 05:56:25 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Chris Mason: Trump belittles Starmer with 'no Churchill' jibe but can the special relationship recover?",
-        "link": "https://www.bbc.com/news/articles/c4gqqdy847jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 04:49:01 GMT",
+        "title": "First UK government flight for Britons leaving Middle East due to take off tonight",
+        "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 08:38:26 GMT",
         "category": "Top News"
       },
       {
-        "title": "UK announces first Middle East repatriation flight",
-        "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 04:36:04 GMT",
+        "title": "Asia stock markets slump and oil rises on fears Iran war may drag on",
+        "link": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 08:17:54 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Mahmood to stop study visas from four countries due to 'abuse'",
+        "link": "https://www.bbc.com/news/articles/cx2jy74895eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 07:58:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pregnant women's brains shed grey matter to prime them for motherhood, study suggests",
+        "link": "https://www.bbc.com/news/articles/cy0d59e7wjlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 07:05:45 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Chris Mason: After Trump's 'no Churchill' jibe can the special relationship recover?",
+        "link": "https://www.bbc.com/news/articles/c4gqqdy847jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 04:49:01 GMT",
         "category": "Top News"
       },
       {
@@ -121,68 +115,44 @@
         "category": "tech"
       },
       {
-        "title": "UK to send Royal Navy warship HMS Dragon to Cyprus",
-        "link": "https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 23:10:24 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
         "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 03 Mar 2026 21:44:31 GMT",
         "category": "world"
       },
       {
-        "title": "Funerals held for students and staff after Iran school strike",
-        "link": "https://www.bbc.com/news/articles/c98qpz144nvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 21:30:49 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Fears over food shortages in Tehran as residents worry about length of war",
         "link": "https://www.bbc.com/news/articles/cdr2ep48r33o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 03 Mar 2026 18:01:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Footage from across Iran shows scale of strikes",
+        "link": "https://www.bbc.com/news/videos/cd70zp0v3g4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 03 Mar 2026 15:08:38 GMT",
         "category": "Top News"
       }
     ],
     "reuters": [
       {
         "title": "Iran war live: Israeli strike kills four in Lebanon, US names its first casualties",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7d7fdb4b44b458d0e29170c5b62d6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-israeli-strike-kills-four-lebanon-us-names-its-first-casualties-2026-03-04%2f&amp;c=8150757866135169906&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 21:21:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7f2650ee9403496ae85cd82f31c14&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-israeli-strike-kills-four-lebanon-us-names-its-first-casualties-2026-03-04%2f&amp;c=8150757866135169906&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 23:23:00 GMT",
         "category": "us"
       },
       {
-        "title": "OpenAI looking at contract with NATO, source says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7d7fe3f9642f0a053af03a02226ae&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fopenai-looking-contract-with-nato-source-says-2026-03-04%2f&amp;c=796843781838007371&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 20:46:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Blackstone talks on $4 billion New World Deal stall over control, Bloomberg News reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7d7fcc96c4dbf9b598174b24f650a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fblackstone-talks-4-billion-new-world-deal-stall-over-control-bloomberg-news-2026-03-04%2f&amp;c=9349173761818518671&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 17:51:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "GM moves to expand its dealers' used-car business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7d7fecb164db495533bee00094b9e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fgm-moves-expand-its-dealers-used-car-business-2026-03-03%2f&amp;c=16047913396279452862&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 09:48:00 GMT",
+        "title": "South Africa's business activity remains stable in February, PMI shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7f266d3994527a3b78f3f137a14fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fsouth-africas-business-activity-remains-stable-february-pmi-shows-2026-03-04%2f&amp;c=7692017328409582406&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 22:18:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "Exclusive: US postpones third consecutive meeting of preventive health panel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7d7ffc61c44159faa0a9f399e824f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmarch-meeting-us-preventive-services-task-force-postponed-2026-03-03%2f&amp;c=5743761608977069443&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 08:54:00 GMT",
-        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Iran war live updates: Tehran keeps up strikes as Gulf states deny missile shortages",
-        "link": "https://www.cnbc.com/2026/03/04/us-iran-war-live-updates.html",
-        "pubDate": "Wed, 04 Mar 2026 05:37:45 GMT",
-        "category": "world"
+        "title": "We&apos;ve been active with trades during the Iran war fallout. Jim Cramer explains our approach",
+        "link": "https://www.cnbc.com/2026/03/03/weve-been-active-with-trades-during-the-iran-war-fallout-jim-cramer-explains-our-approach.html",
+        "pubDate": "Tue, 03 Mar 2026 17:16:21 GMT",
+        "category": "health"
       }
     ]
   }
