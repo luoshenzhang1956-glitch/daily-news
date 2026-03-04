@@ -1,32 +1,49 @@
 {
-  "updated_at": "2026-03-04T10:44:37.859570",
+  "updated_at": "2026-03-04T13:13:03.889005",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "US soldiers who died in Iran war remembered as devoted parents and reservists",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a80cd1563e4d72812533de26d08c4e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-soldiers-who-died-iran-war-46f54df716fe1c5290363da0a15f99f3&amp;c=10894527937780807523&amp;mkt=en-us",
-        "pubDate": "Wed, 04 Mar 2026 01:46:00 GMT",
+        "title": "Why supporting a shelter for women is now &apos;kind of radioactive&apos;",
+        "link": "https://www.npr.org/2026/03/04/g-s1-111527/abuse-partner-shelters-aid-cuts",
+        "pubDate": "Wed, 04 Mar 2026 07:51:20 -0500",
+        "category": "health"
+      },
+      {
+        "title": "Trump&apos;s new reasoning for Iran strikes. And, takeaways from the first 2026 primaries",
+        "link": "https://www.npr.org/2026/03/04/g-s1-112465/up-first-newsletter-iran-israel-us-trump-midterm-primary-elections-ice",
+        "pubDate": "Wed, 04 Mar 2026 07:17:25 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Telehealth abortion is in the courts. Share your experience.",
+        "link": "https://www.npr.org/2026/03/04/g-s1-112325/mifepristone-telehealth",
+        "pubDate": "Wed, 04 Mar 2026 07:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Pentagon releases names of 4 U.S. service members killed in Iran war",
+        "link": "https://www.npr.org/2026/03/04/nx-s1-5734562/pentagon-releases-names-of-4-u-s-service-members-killed-in-iran-war",
+        "pubDate": "Wed, 04 Mar 2026 06:42:17 -0500",
         "category": "us"
       },
       {
-        "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a80ce116bb49b9b8a9e576e9fe4325&amp;url=https%3a%2f%2fapnews.com%2farticle%2fartificial-intelligence-documentaries-sam-altman-8ed278203fce377199ea3eb93776c56c&amp;c=13929980564195496735&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 22:00:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "npr": [
-      {
-        "title": "ICE has spun a massive surveillance web. We talked to people caught in it",
-        "link": "https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify",
-        "pubDate": "Wed, 04 Mar 2026 05:00:00 -0500",
-        "category": "us"
+        "title": "Strikes resume on Iran, U.S. military says Tehran&apos;s defenses &apos;severely degraded&apos;",
+        "link": "https://www.npr.org/2026/03/04/nx-s1-5734543/new-strikes-tehran",
+        "pubDate": "Wed, 04 Mar 2026 06:02:44 -0500",
+        "category": "Top News"
       },
       {
         "title": "America has a housing affordability crisis. Building houses for rent can help",
         "link": "https://www.npr.org/2026/03/04/nx-s1-5703574/home-rent-housing-crisis-ownership",
         "pubDate": "Wed, 04 Mar 2026 05:00:00 -0500",
         "category": "business"
+      },
+      {
+        "title": "ICE has spun a massive surveillance web. We talked to people caught in it",
+        "link": "https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify",
+        "pubDate": "Wed, 04 Mar 2026 05:00:00 -0500",
+        "category": "Top News"
       },
       {
         "title": "As Paralympics approach, U.S. skier Sydney Peterson balances training and research",
@@ -41,65 +58,41 @@
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/03/04/nx-s1-5732274/morning-news-brief",
-        "pubDate": "Wed, 04 Mar 2026 04:46:41 -0500",
-        "category": "world"
-      },
-      {
         "title": "5 takeaways from the first primaries of the 2026 midterms",
         "link": "https://www.npr.org/2026/03/04/nx-s1-5734357/texas-north-carolina-primaries-talarico-crockett-cornyn-cooper",
         "pubDate": "Wed, 04 Mar 2026 04:23:28 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "North Carolina Rep. Valerie Foushee holds narrow lead over challenger Nida Allam",
-        "link": "https://www.npr.org/2026/03/04/nx-s1-5734577/north-carolina-election-results-foushee-allam",
-        "pubDate": "Wed, 04 Mar 2026 01:12:36 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Roy Cooper, Michael Whatley set to compete for a high-stakes North Carolina U.S. Senate seat",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5734513/north-carolina-congress-election-results-cooper-whatley",
-        "pubDate": "Tue, 03 Mar 2026 20:53:22 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "A new one-a-day-pill holds promise for HIV&apos;s &apos;forgotten population&apos;",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5727702/hiv-aids-pill",
-        "pubDate": "Tue, 03 Mar 2026 11:43:16 -0500",
-        "category": "health"
-      },
-      {
-        "title": "Scientists make a pocket-sized AI brain with help from monkey neurons",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5729433/ai-brain-monkey-neurons",
-        "pubDate": "Tue, 03 Mar 2026 06:00:00 -0500",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "'No to war': Pedro S\u00e1nchez hits back as Trump threatens full trade embargo on Spain",
-        "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 10:40:39 GMT",
+        "title": "Partner of Labour MP arrested on suspicion of spying for China, BBC told",
+        "link": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 13:07:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "First government flight for UK nationals due to leave Middle East tonight",
+        "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 12:55:49 GMT",
         "category": "Top News"
       },
       {
         "title": "UK stock market calms but oil prices rise over fears Iran war may drag on",
         "link": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 10:12:13 GMT",
+        "pubDate": "Wed, 04 Mar 2026 12:35:17 GMT",
         "category": "business"
       },
       {
-        "title": "First UK government flight for Britons leaving Middle East due to take off tonight",
-        "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 10:06:32 GMT",
+        "title": "'No to war': Pedro S\u00e1nchez hits back as Trump threatens full trade embargo on Spain",
+        "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 12:30:50 GMT",
         "category": "Top News"
       },
       {
-        "title": "Mahmood to stop study visas from four countries due to 'abuse'",
-        "link": "https://www.bbc.com/news/articles/cx2jy74895eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 07:58:15 GMT",
+        "title": "Watch: Footage from across Iran shows scale of strikes",
+        "link": "https://www.bbc.com/news/videos/cd70zp0v3g4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 11:25:42 GMT",
         "category": "Top News"
       },
       {
@@ -107,12 +100,6 @@
         "link": "https://www.bbc.com/news/articles/cy0d59e7wjlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 04 Mar 2026 07:05:45 GMT",
         "category": "health"
-      },
-      {
-        "title": "Chris Mason: After Trump's 'no Churchill' jibe can the special relationship recover?",
-        "link": "https://www.bbc.com/news/articles/c4gqqdy847jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 04:49:01 GMT",
-        "category": "Top News"
       },
       {
         "title": "Too early to tell scope of Iran strikes, Trump tells Congress",
@@ -139,80 +126,13 @@
         "category": "world"
       }
     ],
-    "reuters": [
-      {
-        "title": "S. Africa first-quarter business confidence climbs but risk from Middle East conflict looms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a80cfbde3f43f18e3207783ccd295a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fs-africa-first-quarter-business-confidence-climbs-risk-middle-east-conflict-2026-03-04%2f&amp;c=8541540892695840134&amp;mkt=en-us",
-        "pubDate": "Wed, 04 Mar 2026 01:06:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "OpenAI looking at contract with NATO, source says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a80cfc46ab48d4a9ce17da58f8b92a&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fopenai-looking-contract-with-nato-source-says-2026-03-04%2f&amp;c=796843781838007371&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 20:46:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Iran war live updates: Israeli forces launch fresh attacks on Tehran as Iranians prepare for Khamenei funeral",
-        "link": "https://www.cnbc.com/2026/03/04/us-iran-war-live-updates.html",
-        "pubDate": "Wed, 04 Mar 2026 10:33:46 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Nvidia, Amazon temporarily close Dubai offices, Google employees stranded amid U.S.-Iran war",
-        "link": "https://www.cnbc.com/2026/03/03/nvidia-amazon-offices-google-dubai-iran-war.html",
-        "pubDate": "Wed, 04 Mar 2026 00:48:44 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/03/03/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Wed, 04 Mar 2026 00:16:09 GMT",
+        "title": "Truist initiates this homebuilder at a buy rating, citing strength in the luxury housing market",
+        "link": "https://www.cnbc.com/2026/03/04/truist-initiates-this-homebuilder-at-a-buy-rating-citing-strength-in-the-luxury-housing-market.html",
+        "pubDate": "Wed, 04 Mar 2026 12:33:48 GMT",
         "category": "us"
-      },
-      {
-        "title": "China is set to kick off its big policy meeting. What will be the key announcements?",
-        "link": "https://www.cnbc.com/2026/03/04/china-two-sessions-policy-meeting.html",
-        "pubDate": "Wed, 04 Mar 2026 00:07:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Target says it&apos;s on track to end its sales slump after another lackluster quarter",
-        "link": "https://www.cnbc.com/2026/03/03/target-tgt-q4-2025-earnings.html",
-        "pubDate": "Tue, 03 Mar 2026 21:53:42 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Wall Street playbook says buy when war breaks out. How this time could be different",
-        "link": "https://www.cnbc.com/2026/03/03/wall-street-usually-says-buy-when-war-starts-this-time-may-be-different.html",
-        "pubDate": "Tue, 03 Mar 2026 20:47:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Blackstone\u2019s Gray: Market \u2018noise\u2019 fueled record redemptions from world\u2019s largest private credit fund",
-        "link": "https://www.cnbc.com/2026/03/03/blackstone-private-credit-fund.html",
-        "pubDate": "Tue, 03 Mar 2026 18:55:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: MongoDB, Pinterest, NRG Energy, Kontoor Brands &amp; more",
-        "link": "https://www.cnbc.com/2026/03/03/stocks-making-the-biggest-moves-midday-mdb-pins-nrg-ktb-more.html",
-        "pubDate": "Tue, 03 Mar 2026 17:25:18 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "We&apos;ve been active with trades during the Iran war fallout. Jim Cramer explains our approach",
-        "link": "https://www.cnbc.com/2026/03/03/weve-been-active-with-trades-during-the-iran-war-fallout-jim-cramer-explains-our-approach.html",
-        "pubDate": "Tue, 03 Mar 2026 17:16:21 GMT",
-        "category": "health"
-      },
-      {
-        "title": "The momentum trades of 2026 are breaking with gold, silver and South Korea down big",
-        "link": "https://www.cnbc.com/2026/03/03/the-momentum-trades-of-2026-are-breaking-with-gold-silver-and-south-korea-down-big.html",
-        "pubDate": "Tue, 03 Mar 2026 15:30:25 GMT",
-        "category": "Top News"
       }
     ]
   }
