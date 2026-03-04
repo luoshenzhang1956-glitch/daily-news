@@ -1,15 +1,57 @@
 {
-  "updated_at": "2026-03-04T08:52:18.159228",
+  "updated_at": "2026-03-04T10:44:37.859570",
   "news": {
     "ap": [
       {
+        "title": "US soldiers who died in Iran war remembered as devoted parents and reservists",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a80cd1563e4d72812533de26d08c4e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-soldiers-who-died-iran-war-46f54df716fe1c5290363da0a15f99f3&amp;c=10894527937780807523&amp;mkt=en-us",
+        "pubDate": "Wed, 04 Mar 2026 01:46:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7f242cb7749cda60c219a7aa904a0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fartificial-intelligence-documentaries-sam-altman-8ed278203fce377199ea3eb93776c56c&amp;c=13929980564195496735&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a80ce116bb49b9b8a9e576e9fe4325&amp;url=https%3a%2f%2fapnews.com%2farticle%2fartificial-intelligence-documentaries-sam-altman-8ed278203fce377199ea3eb93776c56c&amp;c=13929980564195496735&amp;mkt=en-us",
         "pubDate": "Tue, 03 Mar 2026 22:00:00 GMT",
         "category": "tech"
       }
     ],
     "npr": [
+      {
+        "title": "ICE has spun a massive surveillance web. We talked to people caught in it",
+        "link": "https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify",
+        "pubDate": "Wed, 04 Mar 2026 05:00:00 -0500",
+        "category": "us"
+      },
+      {
+        "title": "America has a housing affordability crisis. Building houses for rent can help",
+        "link": "https://www.npr.org/2026/03/04/nx-s1-5703574/home-rent-housing-crisis-ownership",
+        "pubDate": "Wed, 04 Mar 2026 05:00:00 -0500",
+        "category": "business"
+      },
+      {
+        "title": "As Paralympics approach, U.S. skier Sydney Peterson balances training and research",
+        "link": "https://www.npr.org/2026/03/04/nx-s1-5717133/winter-paralympics-sydney-peterson-movement-disorder",
+        "pubDate": "Wed, 04 Mar 2026 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "On the brink of death, a woman is saved by a stranger and his family",
+        "link": "https://www.npr.org/2026/03/04/nx-s1-5732816/on-the-brink-of-death-a-woman-is-saved-by-a-stranger-and-his-family",
+        "pubDate": "Wed, 04 Mar 2026 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/03/04/nx-s1-5732274/morning-news-brief",
+        "pubDate": "Wed, 04 Mar 2026 04:46:41 -0500",
+        "category": "world"
+      },
+      {
+        "title": "5 takeaways from the first primaries of the 2026 midterms",
+        "link": "https://www.npr.org/2026/03/04/nx-s1-5734357/texas-north-carolina-primaries-talarico-crockett-cornyn-cooper",
+        "pubDate": "Wed, 04 Mar 2026 04:23:28 -0500",
+        "category": "Top News"
+      },
       {
         "title": "North Carolina Rep. Valerie Foushee holds narrow lead over challenger Nida Allam",
         "link": "https://www.npr.org/2026/03/04/nx-s1-5734577/north-carolina-election-results-foushee-allam",
@@ -20,42 +62,6 @@
         "title": "Roy Cooper, Michael Whatley set to compete for a high-stakes North Carolina U.S. Senate seat",
         "link": "https://www.npr.org/2026/03/03/nx-s1-5734513/north-carolina-congress-election-results-cooper-whatley",
         "pubDate": "Tue, 03 Mar 2026 20:53:22 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Talarico wins Democratic nomination for Texas Senate seat; Republicans set for runoff",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5734515/texas-primary-election-results-james-talarico-jasmine-crockett-john-cornyn-ken-paxton",
-        "pubDate": "Tue, 03 Mar 2026 18:40:22 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Humans&apos; pull toward alcohol may have ancient origins (according to chimp pee)",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5726442/humans-pull-toward-alcohol-may-have-ancient-origins-according-to-chimp-pee",
-        "pubDate": "Tue, 03 Mar 2026 18:06:11 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "The U.S. and Israeli war on Iran is straining relations with some U.S. allies",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5732315/the-u-s-and-israeli-war-on-iran-is-straining-relations-with-some-u-s-allies",
-        "pubDate": "Tue, 03 Mar 2026 18:02:20 -0500",
-        "category": "world"
-      },
-      {
-        "title": "Pregnant migrant girls are being sent to a Texas shelter flagged as medically risky",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5712323/pregnant-migrant-girls-texas-shelter",
-        "pubDate": "Tue, 03 Mar 2026 17:14:28 -0500",
-        "category": "us"
-      },
-      {
-        "title": "An Arkansas manufacturer pins hope on apprenticeships",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5616268/an-arkansas-manufacturer-pins-hope-on-apprenticeships",
-        "pubDate": "Tue, 03 Mar 2026 17:05:39 -0500",
-        "category": "business"
-      },
-      {
-        "title": "The 2026 World Cup faces big challenges with only 100 days to go",
-        "link": "https://www.npr.org/2026/03/03/nx-s1-5733993/fifa-world-cup-iran-war-us-canada-mexico",
-        "pubDate": "Tue, 03 Mar 2026 16:50:04 -0500",
         "category": "Top News"
       },
       {
@@ -73,16 +79,22 @@
     ],
     "bbc": [
       {
-        "title": "First UK government flight for Britons leaving Middle East due to take off tonight",
-        "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 08:38:26 GMT",
+        "title": "'No to war': Pedro S\u00e1nchez hits back as Trump threatens full trade embargo on Spain",
+        "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 10:40:39 GMT",
         "category": "Top News"
       },
       {
-        "title": "Asia stock markets slump and oil rises on fears Iran war may drag on",
+        "title": "UK stock market calms but oil prices rise over fears Iran war may drag on",
         "link": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 04 Mar 2026 08:17:54 GMT",
+        "pubDate": "Wed, 04 Mar 2026 10:12:13 GMT",
         "category": "business"
+      },
+      {
+        "title": "First UK government flight for Britons leaving Middle East due to take off tonight",
+        "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 10:06:32 GMT",
+        "category": "Top News"
       },
       {
         "title": "Mahmood to stop study visas from four countries due to 'abuse'",
@@ -115,44 +127,92 @@
         "category": "tech"
       },
       {
+        "title": "'All red lines have been crossed': Gulf states weigh response to Iranian strikes",
+        "link": "https://www.bbc.com/news/articles/cjrqqd8lw2wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 04 Mar 2026 00:24:05 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
         "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 03 Mar 2026 21:44:31 GMT",
         "category": "world"
-      },
-      {
-        "title": "Fears over food shortages in Tehran as residents worry about length of war",
-        "link": "https://www.bbc.com/news/articles/cdr2ep48r33o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 18:01:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: Footage from across Iran shows scale of strikes",
-        "link": "https://www.bbc.com/news/videos/cd70zp0v3g4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 03 Mar 2026 15:08:38 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Iran war live: Israeli strike kills four in Lebanon, US names its first casualties",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7f2650ee9403496ae85cd82f31c14&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-israeli-strike-kills-four-lebanon-us-names-its-first-casualties-2026-03-04%2f&amp;c=8150757866135169906&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 23:23:00 GMT",
-        "category": "us"
+        "title": "S. Africa first-quarter business confidence climbs but risk from Middle East conflict looms",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a80cfbde3f43f18e3207783ccd295a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fs-africa-first-quarter-business-confidence-climbs-risk-middle-east-conflict-2026-03-04%2f&amp;c=8541540892695840134&amp;mkt=en-us",
+        "pubDate": "Wed, 04 Mar 2026 01:06:00 GMT",
+        "category": "business"
       },
       {
-        "title": "South Africa's business activity remains stable in February, PMI shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a7f266d3994527a3b78f3f137a14fa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fsouth-africas-business-activity-remains-stable-february-pmi-shows-2026-03-04%2f&amp;c=7692017328409582406&amp;mkt=en-us",
-        "pubDate": "Tue, 03 Mar 2026 22:18:00 GMT",
-        "category": "business"
+        "title": "OpenAI looking at contract with NATO, source says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69a80cfc46ab48d4a9ce17da58f8b92a&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fopenai-looking-contract-with-nato-source-says-2026-03-04%2f&amp;c=796843781838007371&amp;mkt=en-us",
+        "pubDate": "Tue, 03 Mar 2026 20:46:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
+      {
+        "title": "Iran war live updates: Israeli forces launch fresh attacks on Tehran as Iranians prepare for Khamenei funeral",
+        "link": "https://www.cnbc.com/2026/03/04/us-iran-war-live-updates.html",
+        "pubDate": "Wed, 04 Mar 2026 10:33:46 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Nvidia, Amazon temporarily close Dubai offices, Google employees stranded amid U.S.-Iran war",
+        "link": "https://www.cnbc.com/2026/03/03/nvidia-amazon-offices-google-dubai-iran-war.html",
+        "pubDate": "Wed, 04 Mar 2026 00:48:44 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/03/03/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Wed, 04 Mar 2026 00:16:09 GMT",
+        "category": "us"
+      },
+      {
+        "title": "China is set to kick off its big policy meeting. What will be the key announcements?",
+        "link": "https://www.cnbc.com/2026/03/04/china-two-sessions-policy-meeting.html",
+        "pubDate": "Wed, 04 Mar 2026 00:07:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Target says it&apos;s on track to end its sales slump after another lackluster quarter",
+        "link": "https://www.cnbc.com/2026/03/03/target-tgt-q4-2025-earnings.html",
+        "pubDate": "Tue, 03 Mar 2026 21:53:42 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Wall Street playbook says buy when war breaks out. How this time could be different",
+        "link": "https://www.cnbc.com/2026/03/03/wall-street-usually-says-buy-when-war-starts-this-time-may-be-different.html",
+        "pubDate": "Tue, 03 Mar 2026 20:47:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Blackstone\u2019s Gray: Market \u2018noise\u2019 fueled record redemptions from world\u2019s largest private credit fund",
+        "link": "https://www.cnbc.com/2026/03/03/blackstone-private-credit-fund.html",
+        "pubDate": "Tue, 03 Mar 2026 18:55:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: MongoDB, Pinterest, NRG Energy, Kontoor Brands &amp; more",
+        "link": "https://www.cnbc.com/2026/03/03/stocks-making-the-biggest-moves-midday-mdb-pins-nrg-ktb-more.html",
+        "pubDate": "Tue, 03 Mar 2026 17:25:18 GMT",
+        "category": "Top News"
+      },
       {
         "title": "We&apos;ve been active with trades during the Iran war fallout. Jim Cramer explains our approach",
         "link": "https://www.cnbc.com/2026/03/03/weve-been-active-with-trades-during-the-iran-war-fallout-jim-cramer-explains-our-approach.html",
         "pubDate": "Tue, 03 Mar 2026 17:16:21 GMT",
         "category": "health"
+      },
+      {
+        "title": "The momentum trades of 2026 are breaking with gold, silver and South Korea down big",
+        "link": "https://www.cnbc.com/2026/03/03/the-momentum-trades-of-2026-are-breaking-with-gold-silver-and-south-korea-down-big.html",
+        "pubDate": "Tue, 03 Mar 2026 15:30:25 GMT",
+        "category": "Top News"
       }
     ]
   }
