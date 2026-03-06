@@ -1,32 +1,56 @@
 {
-  "updated_at": "2026-03-06T08:50:52.298805",
+  "updated_at": "2026-03-06T10:45:23.105677",
   "news": {
     "ap": [
       {
-        "title": "Australia beats the Czech Republic 5-1 to stay undefeated in the World Baseball Classic",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aa94c89f7346b4b26bac69cd54668f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjapan-ohtani-world-baseball-classic-06a55f56c1905d61f53b7f970bbf25ae&amp;c=4945040158643764384&amp;mkt=en-us",
-        "pubDate": "Thu, 05 Mar 2026 21:43:00 GMT",
+        "title": "Live updates: Israeli strikes pound Iran and Lebanon as US warns attacks will intensify",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaaf964f1e4c2dbe505759597f8b6e&amp;url=https%3a%2f%2fapnews.com%2flive%2firan-war-israel-trump-lebanon-03-06-2026&amp;c=12547994198036804109&amp;mkt=en-us",
+        "pubDate": "Thu, 05 Mar 2026 21:46:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Australia beats Taiwan 3-0 to open World Baseball Classic in Tokyo. South Korea also wins",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaaf9548d04740891d63152a5491a7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-baseball-classic-australia-3dcdd7d467148b33329f26ab5aae8c7a&amp;c=1913415390982945251&amp;mkt=en-us",
+        "pubDate": "Thu, 05 Mar 2026 12:41:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "\u2018Worse than a prison': 911 calls, interviews reveal problems at ICE\u2019s largest detention camp",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aa94eb44194a0ebe969384c68b0f96&amp;url=https%3a%2f%2fapnews.com%2farticle%2fice-detention-camp-conditions-911-calls-738c63a2b96a90c2f85a668ec2fd3b5b&amp;c=14733083050001253152&amp;mkt=en-us",
-        "pubDate": "Thu, 05 Mar 2026 21:15:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Trump takes forceful steps to pressure Latin American leaders to reduce China ties",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aa94daa68c4de580a9c895126beff8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-trump-latin-america-peru-chile-panama-4ffccc6a6ab67cb82e038fda664ec759&amp;c=2583282409983755393&amp;mkt=en-us",
-        "pubDate": "Thu, 05 Mar 2026 18:18:00 GMT",
-        "category": "business"
       }
     ],
     "npr": [
       {
+        "title": "Iran retaliates after Israel strikes Beirut and Tehran as war enters Day 7",
+        "link": "https://www.npr.org/2026/03/06/nx-s1-5738448/iran-us-israel-war",
+        "pubDate": "Fri, 06 Mar 2026 05:22:53 -0500",
+        "category": "world"
+      },
+      {
+        "title": "Was that really Jim Carrey? The internet had thoughts but the quiz has answers",
+        "link": "https://www.npr.org/2026/03/06/nx-s1-5737294/epstein-jim-carrey-kristi-noem-science-dunkin-news-quiz",
+        "pubDate": "Fri, 06 Mar 2026 05:00:00 -0500",
+        "category": "us"
+      },
+      {
+        "title": "The Kalshi and Polymarket CEO feud: They hate each other",
+        "link": "https://www.npr.org/2026/03/06/nx-s1-5735893/iran-war-kalshi-polymarket-feud",
+        "pubDate": "Fri, 06 Mar 2026 05:00:00 -0500",
+        "category": "business"
+      },
+      {
+        "title": "Homegoing service will celebrate civil rights leader Jesse Jackson in Chicago",
+        "link": "https://www.npr.org/2026/03/06/nx-s1-5737466/jesse-jackson-memorial-service-obama-hudson-winans",
+        "pubDate": "Fri, 06 Mar 2026 05:00:00 -0500",
+        "category": "Top News"
+      },
+      {
+        "title": "Organist shares how his childhood music lessons led him to a lifelong passion",
+        "link": "https://www.npr.org/2026/03/06/nx-s1-5734380/organist-shares-how-his-childhood-music-lessons-led-him-to-a-lifelong-passion",
+        "pubDate": "Fri, 06 Mar 2026 04:39:53 -0500",
+        "category": "Top News"
+      },
+      {
         "title": "GOP Rep. Tony Gonzales of Texas ends reelection bid after admitting to affair with aide",
         "link": "https://www.npr.org/2026/03/06/nx-s1-5738955/gonzales-texas-ends-reelection-bid-affair-aide",
         "pubDate": "Fri, 06 Mar 2026 01:47:35 -0500",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Pentagon labels AI company Anthropic a supply chain risk",
@@ -47,39 +71,9 @@
         "category": "health"
       },
       {
-        "title": "After 80 years, the U.S.-U.K. &apos;special relationship&apos; has changed under Trump",
-        "link": "https://www.npr.org/2026/03/05/nx-s1-5716796/after-80-years-the-u-s-u-k-special-relationship-has-changed-under-trump",
-        "pubDate": "Thu, 05 Mar 2026 17:20:30 -0500",
-        "category": "world"
-      },
-      {
         "title": "What you need to know about Sen. Markwayne Mullin, Trump&apos;s new pick to lead DHS",
         "link": "https://www.npr.org/2026/03/05/nx-s1-5737554/markwayne-mullin-homeland-security-kristi-noem-trump",
         "pubDate": "Thu, 05 Mar 2026 16:44:43 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. businesses that paid emergency tariffs are now trying to recover their funds",
-        "link": "https://www.npr.org/2026/03/05/nx-s1-5727741/u-s-businesses-that-paid-emergency-tariffs-are-now-trying-to-recover-their-funds",
-        "pubDate": "Thu, 05 Mar 2026 16:16:47 -0500",
-        "category": "business"
-      },
-      {
-        "title": "Travel industry pushes Congress to end DHS shutdown and pay federal security workers",
-        "link": "https://www.npr.org/2026/03/05/nx-s1-5737455/travel-industry-dhs-shutdown",
-        "pubDate": "Thu, 05 Mar 2026 15:31:29 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump fires Kristi Noem as DHS chief, names Sen. Markwayne Mullin to replace her",
-        "link": "https://www.npr.org/2026/03/05/nx-s1-5667546/kristi-noem-homeland-security-fired",
-        "pubDate": "Thu, 05 Mar 2026 14:20:38 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "Can a digital tablet cut back a country&apos;s overuse of antibiotics?",
-        "link": "https://www.npr.org/2026/03/05/nx-s1-5732471/antibiotic-overuse-resistance-rwanda-digital-tablet",
-        "pubDate": "Thu, 05 Mar 2026 14:19:50 -0500",
         "category": "Top News"
       }
     ],
@@ -87,7 +81,7 @@
       {
         "title": "Four arrested in UK on suspicion of assisting Iran's intelligence service",
         "link": "https://www.bbc.com/news/articles/cz6e7g96890o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 06 Mar 2026 08:28:21 GMT",
+        "pubDate": "Fri, 06 Mar 2026 09:14:31 GMT",
         "category": "Top News"
       },
       {
@@ -103,22 +97,22 @@
         "category": "health"
       },
       {
-        "title": "Travelodge staff gave sex attacker key to woman's room, then offered \u00a330 refund",
+        "title": "Sheep are disappearing from the UK's hills - and its dinner plates",
+        "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 06 Mar 2026 04:22:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Travelodge staff gave sex attacker key to woman's room, then offered her \u00a330 refund",
         "link": "https://www.bbc.com/news/articles/c3v77w5d437o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 06 Mar 2026 03:42:22 GMT",
         "category": "Top News"
       },
       {
-        "title": "One in 7 shops in UK has turned cashless in the past year, survey finds",
-        "link": "https://www.bbc.com/news/articles/cm211jnz568o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 06 Mar 2026 00:05:41 GMT",
-        "category": "business"
-      },
-      {
         "title": "Five ways the Iran war could affect you - in charts",
         "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 06 Mar 2026 00:05:31 GMT",
-        "category": "Top News"
+        "category": "business"
       },
       {
         "title": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
@@ -139,26 +133,128 @@
         "category": "us"
       },
       {
-        "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
-        "link": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 05 Mar 2026 18:40:22 GMT",
+        "title": "Iran school and nearby military base struck multiple times, satellite image reveals",
+        "link": "https://www.bbc.com/news/articles/c5yqqyly9n0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 05 Mar 2026 17:46:24 GMT",
         "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "India's Aditya Birla Group restarts iron ore business, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aa9507bc28426e923bdd851bce4d25&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2findias-aditya-birla-group-restarts-iron-ore-business-sources-say-2026-03-06%2f&amp;c=9326059436258709720&amp;mkt=en-us",
-        "pubDate": "Thu, 05 Mar 2026 19:09:00 GMT",
-        "category": "business"
+        "title": "From Australia to Europe, countries move to curb children's social media access",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaafd429cd43988473b76d88a37fff&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2faustralia-europe-countries-move-curb-childrens-social-media-access-2026-03-06%2f&amp;c=6750863020361706670&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 02:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Doping News | Today's Latest Stories | Reuters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaafd429cd43988473b76d88a37fff&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fdoping%2f&amp;c=9454987360802537023&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 02:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Mathieu Rosemain",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaafd429cd43988473b76d88a37fff&amp;url=https%3a%2f%2fwww.reuters.com%2fauthors%2fmathieu-rosemain%2f&amp;c=8639253046740586468&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 01:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UN human rights chief to travel to Washington amid concerns over Middle East crisis",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaafd429cd43988473b76d88a37fff&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fun-human-rights-chief-travel-washington-amid-concerns-over-middle-east-crisis-2026-03-06%2f&amp;c=15034082084990495817&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 01:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran war live: Israel targets Tehran infrastructure; India resumes buying Russian oil",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaafd429cd43988473b76d88a37fff&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-live-israel-targets-tehran-instrastructure-saudi-arabia-says-it-downed-2026-03-06%2f&amp;c=709612846203250344&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 01:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "World food prices rebound in February, United Nations' FAO says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaafd4ce55461aac88078ec4180f23&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-food-prices-rebound-february-united-nations-fao-says-2026-03-06%2f&amp;c=10171138118623713512&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 00:57:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Iran war chokes aid corridors, obstructing global relief efforts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaafd429cd43988473b76d88a37fff&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-war-chokes-aid-corridors-obstructing-global-relief-efforts-2026-03-06%2f&amp;c=17935096969204889712&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 00:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Some wealthy Asians look to move Dubai assets closer to home on Iran war fears",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaafd429cd43988473b76d88a37fff&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fwealthy-asians-look-move-dubai-assets-closer-home-iran-war-fears-2026-03-06%2f&amp;c=7472829909086925958&amp;mkt=en-us",
+        "pubDate": "Thu, 05 Mar 2026 21:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "India's tech state Karnataka bans social media for children under 16",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaaff597d94083813399661fb06b52&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2findias-tech-state-karnataka-bans-social-media-children-under-16-2026-03-06%2f&amp;c=15401430219434313891&amp;mkt=en-us",
+        "pubDate": "Thu, 05 Mar 2026 21:22:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "China in talks with Iran to allow safe oil and gas passage through Hormuz, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69aaafd429cd43988473b76d88a37fff&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fchina-talks-with-iran-allow-safe-oil-gas-passage-through-hormuz-sources-say-2026-03-05%2f&amp;c=13462862746631763704&amp;mkt=en-us",
+        "pubDate": "Thu, 05 Mar 2026 11:07:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Microsoft says Anthropic\u2019s products remain available to customers after Pentagon blacklist",
-        "link": "https://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-can-remain-available-to-customers-after-security-risk-designation.html",
-        "pubDate": "Fri, 06 Mar 2026 01:49:28 GMT",
-        "category": "tech"
+        "title": "Maersk, a bellwether for global trade, suspends two key shipping services due to Iran war",
+        "link": "https://www.cnbc.com/2026/03/06/iran-war-shipping-maersk-middle-east-strait-of-hormuz-gulf.html",
+        "pubDate": "Fri, 06 Mar 2026 09:24:21 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Costco, Marvell Technology, Gap &amp; more",
+        "link": "https://www.cnbc.com/2026/03/05/stocks-making-the-biggest-moves-after-hours-cost-mrvl-gap.html",
+        "pubDate": "Thu, 05 Mar 2026 23:29:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Mortgages in 47 seconds: Better\u2019s new ChatGPT app targets lenders Rocket and UWM",
+        "link": "https://www.cnbc.com/2026/03/05/mortgages-in-47-seconds-betters-new-chatgpt-app-targets-lenders-rocket-and-uwm.html",
+        "pubDate": "Thu, 05 Mar 2026 20:42:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "States led by New York sue to block Trump&apos;s latest tariffs, calling them an illegal end run around Supreme Court",
+        "link": "https://www.cnbc.com/2026/03/05/trump-tariffs-state-ags-sue-supreme-court-decision.html",
+        "pubDate": "Thu, 05 Mar 2026 20:19:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oaktree&apos;s Howard Marks says there&apos;s no systemic problem with private credit",
+        "link": "https://www.cnbc.com/2026/03/05/oaktrees-howard-marks-says-theres-no-systemic-problem-with-private-credit.html",
+        "pubDate": "Thu, 05 Mar 2026 18:14:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New Berkshire Hathaway CEO still talks with Warren Buffett nearly every day",
+        "link": "https://www.cnbc.com/2026/03/05/new-berkshire-hathaway-ceo-still-talks-with-warren-buffett-nearly-every-day.html",
+        "pubDate": "Thu, 05 Mar 2026 17:34:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Berkshire Hathaway begins repurchasing shares, CEO Greg Abel buys $15 million in stock",
+        "link": "https://www.cnbc.com/2026/03/05/berkshire-hathaway-begins-repurchasing-shares-ceo-greg-abel-buys-15-million-in-stock-.html",
+        "pubDate": "Thu, 05 Mar 2026 14:28:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Berkshire CEO Greg Abel vows to keep Buffett&apos;s culture of disciplined investing in first annual letter",
+        "link": "https://www.cnbc.com/2026/02/28/berkshire-ceo-abel-vows-to-keep-buffetts-culture-of-disciplined-investing-in-first-annual-letter.html",
+        "pubDate": "Thu, 05 Mar 2026 13:16:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran war and stocks: Why Global X says &apos;it might be time to double down&apos; on emerging markets",
+        "link": "https://www.cnbc.com/2026/03/05/iran-war-and-stocks-global-x-says-double-down-on-emerging-markets.html",
+        "pubDate": "Thu, 05 Mar 2026 12:00:01 GMT",
+        "category": "Top News"
       }
     ]
   }
