@@ -1,13 +1,44 @@
 {
-  "updated_at": "2026-03-06T22:38:28.334552",
+  "updated_at": "2026-03-07T02:28:58.359370",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Trump says \u2018whole educational system\u2019 could go out of business without fixes to college sports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ab8d15dec74bebbab62f6433e5d461&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-college-sports-white-house-meeting-ff5ffca5b52a3c56cda148c2b062c30a&amp;c=4261001761805588341&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 17:14:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "In Miami, the opening game of the World Baseball Classic was a celebration for Venezuelan fans",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ab8d140b654c2684129d98448482eb&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwbc-venezuela-fans-miami-2daada9be4e1f9bfd5c251e03dd1a279&amp;c=18182549927939007822&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 15:08:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Live updates: Russia provided Iran with information that can help Tehran strike US military, AP sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ab8d15662d4562b4c339482629d49d&amp;url=https%3a%2f%2fapnews.com%2flive%2firan-war-israel-trump-lebanon-03-06-2026&amp;c=12547994198036804109&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 11:29:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "How springing forward to daylight saving time could affect your health",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ab8d261ace43269f29833e44a4d1a2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fspring-forward-daylight-saving-time-d7c72af37e5d6569a58b2e3a13590386&amp;c=6619039983116973800&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 09:42:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
-        "title": "Political and religious leaders celebrate Jesse Jackson&apos;s life at &apos;homegoing&apos; service",
-        "link": "https://www.npr.org/2026/03/06/nx-s1-5729609/political-and-religious-leaders-celebrate-jesse-jacksons-life-at-homegoing-service",
-        "pubDate": "Fri, 06 Mar 2026 17:09:55 -0500",
+        "title": "Family, former presidents and a Hall of Famer give Rev. Jesse Jackson a final sendoff",
+        "link": "https://www.npr.org/2026/03/06/nx-s1-5740545/jesse-jackson-funeral-service",
+        "pubDate": "Fri, 06 Mar 2026 20:25:13 -0500",
         "category": "us"
+      },
+      {
+        "title": "Bernard LaFayette, Selma voting rights organizer, dies at 85",
+        "link": "https://www.npr.org/2026/03/06/g-s1-112830/bernard-lafayette-dies",
+        "pubDate": "Fri, 06 Mar 2026 19:17:58 -0500",
+        "category": "Top News"
       },
       {
         "title": "As the war goes on in Iran, American-Iranians struggle to stay in touch with family",
@@ -52,12 +83,6 @@
         "category": "Top News"
       },
       {
-        "title": "After the U.S. sinks an Iranian warship, Sri Lanka takes custody of an Iranian vessel",
-        "link": "https://www.npr.org/2026/03/06/g-s1-112759/after-the-u-s-sinks-an-iranian-warship-sri-lanka-takes-custody-of-an-iranian-vessel",
-        "pubDate": "Fri, 06 Mar 2026 13:38:00 -0500",
-        "category": "Top News"
-      },
-      {
         "title": "&apos;Dopamine Kids&apos; explains why children crave screens and helps them enjoy life instead",
         "link": "https://www.npr.org/2026/03/06/nx-s1-5737901/dopamine-kids-parenting-screens",
         "pubDate": "Fri, 06 Mar 2026 12:14:25 -0500",
@@ -65,6 +90,24 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Soham murderer Ian Huntley taken off life support, BBC understands",
+        "link": "https://www.bbc.com/news/articles/c62d410y4qko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 07 Mar 2026 01:47:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Armed robots take to the battlefield in Ukraine war",
+        "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 07 Mar 2026 00:36:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
+        "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 06 Mar 2026 23:14:33 GMT",
+        "category": "business"
+      },
       {
         "title": "Huge US bomber lands at UK air base",
         "link": "https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&amp;at_campaign=rss",
@@ -78,16 +121,10 @@
         "category": "Top News"
       },
       {
-        "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
-        "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 06 Mar 2026 18:29:32 GMT",
-        "category": "business"
-      },
-      {
         "title": "Flight paths squeezed as Iran conflict closes more airspace",
         "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 06 Mar 2026 18:09:19 GMT",
-        "category": "Top News"
+        "category": "world"
       },
       {
         "title": "Withheld Epstein files with accusations against Trump released by justice department",
@@ -108,44 +145,44 @@
         "category": "health"
       },
       {
-        "title": "Man who murdered ex's sister and her children in revenge attack given whole-life sentence",
-        "link": "https://www.bbc.com/news/articles/cvg88v948d8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 06 Mar 2026 14:12:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
-        "link": "https://www.bbc.com/news/articles/cz0ggkr2g77o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 06 Mar 2026 00:05:12 GMT",
+        "title": "Anthropic vows to sue Pentagon over supply chain risk label",
+        "link": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 06 Mar 2026 02:46:30 GMT",
         "category": "tech"
-      },
-      {
-        "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
-        "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 05 Mar 2026 23:13:57 GMT",
-        "category": "world"
       }
     ],
     "reuters": [
       {
-        "title": "Oracle and OpenAI drop Texas data center expansion plan, Bloomberg News reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ab570c618c49d2a4705c23969eb54e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2foracle-openai-end-plans-expand-texas-data-center-site-bloomberg-news-reports-2026-03-06%2f&amp;c=3348423536863222884&amp;mkt=en-us",
-        "pubDate": "Fri, 06 Mar 2026 11:18:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "US-Israel war with Iran sends shockwaves through global business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ab570949764409848466871b98ec24&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-israel-war-with-iran-sends-shockwaves-through-global-business-2026-03-06%2f&amp;c=9718064311420573291&amp;mkt=en-us",
-        "pubDate": "Fri, 06 Mar 2026 09:09:00 GMT",
-        "category": "business"
+        "title": "India eye T20 history, New Zealand hunt maiden World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ab8d29744244159ac53fb3d83f5b66&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2findia-eye-t20-history-new-zealand-hunt-maiden-world-cup-2026-03-06%2f&amp;c=10558965730579405410&amp;mkt=en-us",
+        "pubDate": "Fri, 06 Mar 2026 03:19:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
       {
         "title": "FDA vaccine head will step down in April after string of controversial decisions",
         "link": "https://www.cnbc.com/2026/03/06/fda-vaccine-head-prasad-step-down.html",
-        "pubDate": "Fri, 06 Mar 2026 22:25:13 GMT",
+        "pubDate": "Fri, 06 Mar 2026 23:23:33 GMT",
+        "category": "business"
+      },
+      {
+        "title": "FDA reversals leave investors worrying about the fates of other experimental drugs",
+        "link": "https://www.cnbc.com/2026/03/06/fda-reversals-on-uniqure-moderna-approvals-worry-investors.html",
+        "pubDate": "Fri, 06 Mar 2026 20:51:15 GMT",
         "category": "health"
+      },
+      {
+        "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
+        "link": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+        "pubDate": "Fri, 06 Mar 2026 20:23:08 GMT",
+        "category": "world"
+      },
+      {
+        "title": "The charts are showing oil may have overextended higher, says Carter Worth",
+        "link": "https://www.cnbc.com/2026/03/06/the-charts-are-showing-oil-may-have-overextended-higher-says-carter-worth.html",
+        "pubDate": "Fri, 06 Mar 2026 18:19:20 GMT",
+        "category": "us"
       }
     ]
   }
