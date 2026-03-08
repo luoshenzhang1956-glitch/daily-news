@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-03-08T20:36:32.456322",
+  "updated_at": "2026-03-08T22:32:49.856029",
   "news": {
     "ap": [
       {
-        "title": "China hopes 2026 will be a \u2018landmark year\u2019 for relationship with US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd4ae9f34693926170b53d266393&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-us-relations-trump-xi-summit-wang-yi-dafb8e2439eabf1d9a0d1328635dece5&amp;c=4424561917534382571&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 04:20:00 GMT",
-        "category": "us"
+        "title": "Officials say 3 arrested in Peru nightclub bombing as number of injured rises to 44",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adf8bce75b4cab8c129222a4464382&amp;url=https%3a%2f%2fapnews.com%2farticle%2fperu-nightclub-arrested-bombing-explosion-injured-killed-3287a44d46ff5fc6a40bae3ced576ea6&amp;c=7865202609818407898&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 12:24:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Israel hits critical infrastructure in Iran war",
+        "link": "https://www.npr.org/2026/03/08/nx-s1-5741719/israel-hits-critical-infrastructure-in-iran-war",
+        "pubDate": "Sun, 08 Mar 2026 17:06:20 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Georgia&apos;s special election to fill vacated House seat",
+        "link": "https://www.npr.org/2026/03/08/nx-s1-5737505/georgias-special-election-to-fill-vacated-house-seat",
+        "pubDate": "Sun, 08 Mar 2026 17:06:17 -0400",
+        "category": "us"
+      },
+      {
+        "title": "OpenAI robotics leader resigns over concerns about Pentagon AI deal",
+        "link": "https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military",
+        "pubDate": "Sun, 08 Mar 2026 16:44:11 -0400",
+        "category": "business"
+      },
       {
         "title": "Trump says he won&apos;t sign bills until Congress overhauls voting",
         "link": "https://www.npr.org/2026/03/08/g-s1-112917/trump-says-he-wont-sign-bills-until-congress-overhauls-voting",
@@ -20,13 +38,13 @@
         "title": "Photos: Scenes from Jesse Jackson&apos;s homegoing services",
         "link": "https://www.npr.org/sections/the-picture-show/2026/03/08/g-s1-112915/photos-scenes-from-jesse-jacksons-homegoing-services",
         "pubDate": "Sun, 08 Mar 2026 14:20:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Five key takeaways from an annual briefing by China&apos;s foreign minister",
         "link": "https://www.npr.org/2026/03/08/nx-s1-5741742/five-key-takeaways-from-an-annual-briefing-by-chinas-foreign-minister",
         "pubDate": "Sun, 08 Mar 2026 13:42:46 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Police investigate an explosion outside the U.S. Embassy in Oslo",
@@ -41,7 +59,7 @@
         "category": "health"
       },
       {
-        "title": "Israel hits Iran&apos;s oil depots as clerics say consensus reached on Ayatollah successor",
+        "title": "A 7th U.S. service member is killed in war with Iran",
         "link": "https://www.npr.org/2026/03/08/nx-s1-5741654/israel-iran-oil-ayatollah-successor",
         "pubDate": "Sun, 08 Mar 2026 07:49:02 -0400",
         "category": "Top News"
@@ -51,27 +69,15 @@
         "link": "https://www.npr.org/2026/03/08/nx-s1-5737426/time-change-teens-sleep-screens",
         "pubDate": "Sun, 08 Mar 2026 07:04:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
-        "link": "https://www.npr.org/2026/03/08/nx-s1-5741598/nepali-party-rapper-win-parliamentary-election",
-        "pubDate": "Sun, 08 Mar 2026 03:18:54 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. Judge says Kari Lake broke law in overseeing Voice of America",
-        "link": "https://www.npr.org/2026/03/08/nx-s1-5741594/u-s-judge-kari-lake-broke-law-voice-of-america",
-        "pubDate": "Sun, 08 Mar 2026 03:04:06 -0500",
-        "category": "business"
-      },
-      {
-        "title": "Trump vows to &apos;take care of Cuba,&apos; praises Venezuela cooperation at summit",
-        "link": "https://www.npr.org/2026/03/07/nx-s1-5741132/trump-cuba-venezuela-cooperation-summit",
-        "pubDate": "Sat, 07 Mar 2026 21:02:27 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+        "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 08 Mar 2026 21:51:48 GMT",
+        "category": "world"
+      },
       {
         "title": "Starmer and Trump speak for first time since president's Iran criticism",
         "link": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&amp;at_campaign=rss",
@@ -109,22 +115,16 @@
         "category": "Top News"
       },
       {
-        "title": "War fuels debate in Cyprus over UK military bases",
-        "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 08 Mar 2026 08:03:40 GMT",
-        "category": "world"
+        "title": "'Our children paid the ultimate price': The school shooting that changed Britain",
+        "link": "https://www.bbc.com/news/articles/cp9m8zmxe25o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 08 Mar 2026 08:20:49 GMT",
+        "category": "Top News"
       },
       {
         "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
         "link": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 08 Mar 2026 07:11:03 GMT",
         "category": "us"
-      },
-      {
-        "title": "Watch: 'This is a moment of grave peril', says UN humanitarian chief",
-        "link": "https://www.bbc.com/news/videos/c9wnevqljd0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 08 Mar 2026 07:05:27 GMT",
-        "category": "Top News"
       },
       {
         "title": "Why holiday meal money for cash-strapped parents is back on the menu",
@@ -135,72 +135,42 @@
     ],
     "reuters": [
       {
-        "title": "Jaylen Brown, Jayson Tatum help Celtics dump Cavaliers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbasketball%2fjaylen-brown-jayson-tatum-help-celtics-dump-cavaliers--flm-2026-03-08%2f&amp;c=2662302130228230367&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 12:05:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bucks star PF Giannis Antetokounmpo (calf) sitting out vs. Magic",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbucks-star-pf-giannis-antetokounmpo-calf-sitting-out-vs-magic-2026-03-08%2f&amp;c=16554595432359088399&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 12:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New York City police identify device outside Mamdani's home as explosive",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fnew-york-city-police-identify-device-outside-mamdanis-home-explosive-2026-03-08%2f&amp;c=383226241406499916&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 12:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. Olympic figure skating champion Liu withdraws from world championships",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7da69740dc9d0672df2de8e4ff&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ffigure-skating-olympic-champion-liu-withdraws-world-championships-2026-03-08%2f&amp;c=6913943836689301702&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 11:50:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Kansas City International Airport reopens after brief closure due to unspecified threat",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fkansas-city-international-airport-reopens-after-brief-closure-due-unspecified-2026-03-08%2f&amp;c=10525083533449897730&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 11:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iranian army says at least 104 killed in US attack on Iranian warship last week",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7f741f40d2a8c76c1adcb04b3b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firanian-army-says-least-104-killed-us-attack-iranian-warship-last-week-2026-03-08%2f&amp;c=8591410766612581682&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 09:28:00 GMT",
+        "title": "Syria's Kurds caution Iran's Kurds against aligning with US against Tehran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adf8e17301437982a94a803910b615&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsyrias-kurds-caution-irans-kurds-against-aligning-with-us-against-tehran-2026-03-08%2f&amp;c=2028038551145636400&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 09:05:00 GMT",
         "category": "us"
       },
       {
-        "title": "Syria's Kurds caution Iran's Kurds against aligning with US against Tehran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsyrias-kurds-caution-irans-kurds-against-aligning-with-us-against-tehran-2026-03-08%2f&amp;c=2028038551145636400&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 09:05:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fraying loyalist base will challenge Iran's next leader - and Islamic Republic's survival",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ffraying-loyalist-base-will-challenge-irans-next-leader-islamic-republics-2026-03-08%2f&amp;c=16900116233334561564&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 08:29:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Israeli strike kills three Palestinians in Gaza City, medics say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd9d41e3427e8f7fc69447749a72&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strike-kills-two-palestinians-car-gaza-medics-say-2026-03-08%2f&amp;c=7102007572468054209&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adf8f4abdc4cf586a130f3d5a3f624&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strike-kills-two-palestinians-car-gaza-medics-say-2026-03-08%2f&amp;c=7102007572468054209&amp;mkt=en-us",
         "pubDate": "Sun, 08 Mar 2026 07:37:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "Panel picking Iran's supreme leader has reached consensus, member says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fmajority-consensus-reached-irans-next-supreme-leader-mehr-news-reports-2026-03-08%2f&amp;c=11209948787727302743&amp;mkt=en-us",
-        "pubDate": "Sat, 07 Mar 2026 21:37:00 GMT",
-        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
-        "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-        "pubDate": "Sun, 08 Mar 2026 14:45:10 GMT",
-        "category": "tech"
+        "title": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
+        "link": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+        "pubDate": "Sun, 08 Mar 2026 22:27:44 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Top Wall Street analysts are bullish on these 3 stocks despite ongoing volatility",
+        "link": "https://www.cnbc.com/2026/03/08/top-analysts-are-bullish-on-these-3-stocks-despite-ongoing-volatility.html",
+        "pubDate": "Sun, 08 Mar 2026 12:56:07 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Oil price surge could boost these Chinese stocks, Goldman says",
+        "link": "https://www.cnbc.com/2026/03/08/oil-price-surge-could-boost-these-chinese-stocks-goldman-says-.html",
+        "pubDate": "Sun, 08 Mar 2026 12:54:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China says &apos;thorough preparations&apos; needed as Trump-Xi meeting hangs in the balance amid Iran war",
+        "link": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
+        "pubDate": "Sun, 08 Mar 2026 07:17:53 GMT",
+        "category": "Top News"
       }
     ]
   }
