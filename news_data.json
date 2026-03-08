@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-03-08T13:03:35.265199",
+  "updated_at": "2026-03-08T14:32:22.215208",
   "news": {
     "ap": [
       {
+        "title": "Oil built the Persian Gulf. Desalinated water keeps it alive. War could threaten both",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad882ffb664d3988ef899c8eeeee78&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-desalination-water-oil-middle-east-12b23f2fa26ed5c4a10f80c4077e61ce&amp;c=4733214819697380331&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 06:20:00 GMT",
+        "category": "tech"
+      },
+      {
         "title": "China hopes 2026 will be a \u2018landmark year\u2019 for relationship with US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad7317f67e43829ca8c81ee4115782&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-us-relations-trump-xi-summit-wang-yi-dafb8e2439eabf1d9a0d1328635dece5&amp;c=4424561917534382571&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad882ad2ca4da79ee41e2eff1ab079&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-us-relations-trump-xi-summit-wang-yi-dafb8e2439eabf1d9a0d1328635dece5&amp;c=4424561917534382571&amp;mkt=en-us",
         "pubDate": "Sun, 08 Mar 2026 04:20:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "Atle Lie McGrath leads in first World Cup slalom since his Olympic exit into the forest",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad7316729f4b27933003c484a085df&amp;url=https%3a%2f%2fapnews.com%2farticle%2fskiing-slalom-mcgrath-pinheiro-braathen-0ac207bd00a2f70fce49c7b18110a6d5&amp;c=6552948071375629076&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 01:43:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Sabres bring win streak into game against the Lightning",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad7334db10476795fcd60a72b26ded&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbuffalo-sabres-tampa-bay-lightning-85b6bfe304b14be895ac1a2f590c79f2&amp;c=17686067350643355794&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 01:11:00 GMT",
-        "category": "tech"
       }
     ],
     "npr": [
+      {
+        "title": "Police investigate an explosion outside the U.S. Embassy in Oslo",
+        "link": "https://www.npr.org/2026/03/08/nx-s1-5741670/explosion-outside-us-embassy-in-oslo-norway",
+        "pubDate": "Sun, 08 Mar 2026 09:27:13 -0400",
+        "category": "world"
+      },
       {
         "title": "Photos: These bold women stand up for justice, rights ... and freedom",
         "link": "https://www.npr.org/2026/03/08/g-s1-112521/photos-international-womens-day-justice-rights-action",
@@ -32,7 +32,7 @@
         "title": "Israel hits Iran&apos;s oil depots as clerics say consensus reached on Ayatollah successor",
         "link": "https://www.npr.org/2026/03/08/nx-s1-5741654/israel-iran-oil-ayatollah-successor",
         "pubDate": "Sun, 08 Mar 2026 07:49:02 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Teens are sleeping less than ever and screens aren&apos;t primarily to blame",
@@ -75,12 +75,6 @@
         "link": "https://www.npr.org/2026/03/07/nx-s1-5726347/shedding-light-on-how-epstein-used-visits-to-interlochen-to-target-girls",
         "pubDate": "Sat, 07 Mar 2026 17:08:01 -0500",
         "category": "Top News"
-      },
-      {
-        "title": "First HBCU D1 women&apos;s wrestlers compete at championship",
-        "link": "https://www.npr.org/2026/03/07/nx-s1-5719189/first-hbcu-d1-womens-wrestlers-compete-at-first-national-womens-college-wrestling-championship",
-        "pubDate": "Sat, 07 Mar 2026 17:07:58 -0500",
-        "category": "Top News"
       }
     ],
     "bbc": [
@@ -109,6 +103,12 @@
         "category": "Top News"
       },
       {
+        "title": "War fuels debate in Cyprus over UK military bases",
+        "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 08 Mar 2026 08:03:40 GMT",
+        "category": "world"
+      },
+      {
         "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
         "link": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 08 Mar 2026 07:11:03 GMT",
@@ -127,7 +127,7 @@
         "category": "Top News"
       },
       {
-        "title": "How I've learned that certainty is the thing to really fear",
+        "title": "Nicky Campbell: How I've learned that certainty is the thing to really fear",
         "link": "https://www.bbc.com/news/articles/c1w5z1d447lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 07 Mar 2026 23:42:31 GMT",
         "category": "Top News"
@@ -137,71 +137,77 @@
         "link": "https://www.bbc.com/news/articles/c5yk7qxz4kgo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 07 Mar 2026 22:00:49 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
-        "link": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 07 Mar 2026 19:16:44 GMT",
-        "category": "world"
       }
     ],
     "reuters": [
       {
-        "title": "Uganda's Kiplimo regains world half marathon record in Lisbon",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad734b8eef4c059c4c741beb802f3b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fugandas-kiplimo-regains-world-half-marathon-record-lisbon-2026-03-08%2f&amp;c=11502997444993978311&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 04:47:00 GMT",
+        "title": "Southampton strike late to dump Fulham out of FA Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad883418f2496ebc6380659e4de3c8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fsouthampton-strike-late-dump-fulham-out-fa-cup-2026-03-08%2f&amp;c=8606372381645157319&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 06:22:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bradbury fires final round 65 to claim second Joburg Open title",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad883418f2496ebc6380659e4de3c8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2fbradbury-fires-final-round-65-claim-second-joburg-open-title-2026-03-08%2f&amp;c=4580093751937630455&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 06:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Greece sees deal to buy Italian-made frigates by April, minister says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad883418f2496ebc6380659e4de3c8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fgreece-sees-deal-buy-italian-made-frigates-by-april-minister-says-2026-03-08%2f&amp;c=9732440407457268044&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 05:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Japan outlasts Australia, clinches Group C in WBC",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad883418f2496ebc6380659e4de3c8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fjapan-outlasts-australia-clinches-group-c-wbc--flm-2026-03-08%2f&amp;c=15079005617795321672&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 05:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "McGrath closing on slalom World Cup title after Olympic nightmare",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad8836fd5c450a98bd22c6d384831b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fmcgrath-closing-slalom-world-cup-title-after-olympic-nightmare-2026-03-08%2f&amp;c=17974142911699806145&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 05:37:00 GMT",
         "category": "world"
       },
       {
-        "title": "Trump says will not sign other legislation until voter act bill is passed by Congress",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad733c2cb54f2fb9df55a46ac27ee7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-says-will-not-sign-other-legislation-until-voter-act-bill-is-passed-by-2026-03-08%2f&amp;c=6385952175547393897&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 04:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Shiffrin steps up, Robinson and Goggia to battle for super-G title",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad733c2cb54f2fb9df55a46ac27ee7&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fshiffrin-steps-up-robinson-goggia-battle-super-g-title-2026-03-08%2f&amp;c=6834844811886832732&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 04:31:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Pope Leo urges end to bombing, calls for dialogue amid Iran, Middle East violence",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad733c2cb54f2fb9df55a46ac27ee7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fpope-leo-urges-end-bombing-calls-dialogue-amid-iran-middle-east-violence-2026-03-08%2f&amp;c=4921196887955137628&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad883418f2496ebc6380659e4de3c8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fpope-leo-urges-end-bombing-calls-dialogue-amid-iran-middle-east-violence-2026-03-08%2f&amp;c=4921196887955137628&amp;mkt=en-us",
         "pubDate": "Sun, 08 Mar 2026 03:33:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Selected quotes from Adam Smith's 'Wealth of Nations'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad733c2cb54f2fb9df55a46ac27ee7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fselected-quotes-adam-smiths-wealth-nations-2026-03-08%2f&amp;c=10233796454706090306&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 03:08:00 GMT",
-        "category": "Top News"
+        "title": "Chinese hypermarket giant Sun Art names chairman as CEO after previous chief 'uncontactable'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad883bfafd44aaa64882f93a1eca61&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchinese-hypermarket-giant-sun-art-names-chairman-ceo-after-previous-chief-2026-03-08%2f&amp;c=6577353866614349078&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 03:18:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US unlikely to increase tariffs on South Korea, Seoul official says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad8839481d494ca1645d1dcb38da32&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-unlikely-increase-tariffs-south-korea-seoul-official-says-2026-03-08%2f&amp;c=16755584586016920167&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 01:40:00 GMT",
+        "category": "us"
       },
       {
         "title": "Lebanese man flees hometown, months after repairing home damaged in last war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad733c2cb54f2fb9df55a46ac27ee7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2flebanese-man-flees-hometown-months-after-repairing-home-damaged-last-war-2026-03-08%2f&amp;c=1225463591080287482&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad883418f2496ebc6380659e4de3c8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2flebanese-man-flees-hometown-months-after-repairing-home-damaged-last-war-2026-03-08%2f&amp;c=1225463591080287482&amp;mkt=en-us",
         "pubDate": "Sun, 08 Mar 2026 00:03:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Israeli military says it will pursue every successor of Iran's Khamenei",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad733c2cb54f2fb9df55a46ac27ee7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-military-says-it-will-pursue-every-successor-irans-khamenei-2026-03-08%2f&amp;c=11798998783007106292&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad883418f2496ebc6380659e4de3c8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-military-says-it-will-pursue-every-successor-irans-khamenei-2026-03-08%2f&amp;c=11798998783007106292&amp;mkt=en-us",
         "pubDate": "Sat, 07 Mar 2026 22:47:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Panel picking Iran's supreme leader has reached consensus, member says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad733c2cb54f2fb9df55a46ac27ee7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fmajority-consensus-reached-irans-next-supreme-leader-mehr-news-reports-2026-03-08%2f&amp;c=11209948787727302743&amp;mkt=en-us",
-        "pubDate": "Sat, 07 Mar 2026 21:37:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump tells Britain he does not need its help to win Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ad733c2cb54f2fb9df55a46ac27ee7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrump-tells-britain-he-does-not-need-its-help-win-iran-war-2026-03-07%2f&amp;c=15510668401458296279&amp;mkt=en-us",
-        "pubDate": "Sat, 07 Mar 2026 13:55:00 GMT",
         "category": "Top News"
       }
     ],
     "markets": [
+      {
+        "title": "Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed",
+        "link": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
+        "pubDate": "Sun, 08 Mar 2026 14:26:49 GMT",
+        "category": "world"
+      },
       {
         "title": "Top Wall Street analysts are bullish on these 3 stocks despite ongoing volatility",
         "link": "https://www.cnbc.com/2026/03/08/top-analysts-are-bullish-on-these-3-stocks-despite-ongoing-volatility.html",
@@ -221,10 +227,10 @@
         "category": "Top News"
       },
       {
-        "title": "Iran&apos;s internet blackout extends into second week: NetBlocks",
-        "link": "https://www.cnbc.com/2026/03/07/irans-internet-blackout-extends-into-second-week-netblocks.html",
-        "pubDate": "Sat, 07 Mar 2026 13:05:42 GMT",
-        "category": "tech"
+        "title": "Inside the booming business of wellness third spaces and membership clubs",
+        "link": "https://www.cnbc.com/2026/03/07/wellness-third-spaces-othership-bathhouse-glo30.html",
+        "pubDate": "Sat, 07 Mar 2026 18:52:06 GMT",
+        "category": "health"
       }
     ]
   }
