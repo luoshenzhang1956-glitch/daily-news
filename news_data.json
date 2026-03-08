@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-03-08T18:44:27.927423",
+  "updated_at": "2026-03-08T20:36:32.456322",
   "news": {
     "ap": [
       {
-        "title": "Oregon State Beavers and San Francisco Dons square off in WCC Tournament",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc32c98ca4fad80caf06e7a66e8c8&amp;url=https%3a%2f%2fapnews.com%2farticle%2foregon-state-beavers-san-francisco-dons-san-francisco-college-sports-college-basketball-4b46c7a419b6470ca76a55e8cea26dbd&amp;c=621709184963930074&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 01:45:00 GMT",
-        "category": "tech"
+        "title": "China hopes 2026 will be a \u2018landmark year\u2019 for relationship with US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd4ae9f34693926170b53d266393&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-us-relations-trump-xi-summit-wang-yi-dafb8e2439eabf1d9a0d1328635dece5&amp;c=4424561917534382571&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 04:20:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
+      {
+        "title": "Trump says he won&apos;t sign bills until Congress overhauls voting",
+        "link": "https://www.npr.org/2026/03/08/g-s1-112917/trump-says-he-wont-sign-bills-until-congress-overhauls-voting",
+        "pubDate": "Sun, 08 Mar 2026 15:48:23 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Photos: Scenes from Jesse Jackson&apos;s homegoing services",
         "link": "https://www.npr.org/sections/the-picture-show/2026/03/08/g-s1-112915/photos-scenes-from-jesse-jacksons-homegoing-services",
@@ -62,12 +68,6 @@
         "title": "Trump vows to &apos;take care of Cuba,&apos; praises Venezuela cooperation at summit",
         "link": "https://www.npr.org/2026/03/07/nx-s1-5741132/trump-cuba-venezuela-cooperation-summit",
         "pubDate": "Sat, 07 Mar 2026 21:02:27 -0500",
-        "category": "Top News"
-      },
-      {
-        "title": "British Columbia to make daylight saving time permanent",
-        "link": "https://www.npr.org/2026/03/07/nx-s1-5741076/british-columbia-daylight-saving-time",
-        "pubDate": "Sat, 07 Mar 2026 18:25:42 -0500",
         "category": "Top News"
       }
     ],
@@ -135,84 +135,72 @@
     ],
     "reuters": [
       {
-        "title": "Ilia Topuria vs. Justin Gaethje to highlight UFC event at White House",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc33189cc4933b7b06e8764bc0f54&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2filia-topuria-vs-justin-gaethje-highlight-ufc-event-white-house--flm-2026-03-08%2f&amp;c=7408623976311171564&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 10:16:00 GMT",
+        "title": "Jaylen Brown, Jayson Tatum help Celtics dump Cavaliers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbasketball%2fjaylen-brown-jayson-tatum-help-celtics-dump-cavaliers--flm-2026-03-08%2f&amp;c=2662302130228230367&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 12:05:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Reports: Nationals to sign RHP Zack Littell",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc33189cc4933b7b06e8764bc0f54&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2freports-nationals-sign-rhp-zack-littell--flm-2026-03-08%2f&amp;c=17906812575688560261&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 10:12:00 GMT",
+        "title": "Bucks star PF Giannis Antetokounmpo (calf) sitting out vs. Magic",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbucks-star-pf-giannis-antetokounmpo-calf-sitting-out-vs-magic-2026-03-08%2f&amp;c=16554595432359088399&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 12:03:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "List of T20 World Cup winners",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc334a5034c91b651e3ff013e90b2&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2flist-t20-world-cup-winners-2026-03-08%2f&amp;c=16947465288699720273&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 10:09:00 GMT",
+        "title": "New York City police identify device outside Mamdani's home as explosive",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fnew-york-city-police-identify-device-outside-mamdanis-home-explosive-2026-03-08%2f&amp;c=383226241406499916&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 12:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "U.S. Olympic figure skating champion Liu withdraws from world championships",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7da69740dc9d0672df2de8e4ff&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ffigure-skating-olympic-champion-liu-withdraws-world-championships-2026-03-08%2f&amp;c=6913943836689301702&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 11:50:00 GMT",
         "category": "world"
       },
       {
-        "title": "Norway seal all-round speed skating world championship golden double as Eitrem dethrones Stolz, Wiklund ends 88-year wait",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc33189cc4933b7b06e8764bc0f54&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fnorway-seal-all-round-world-championship-golden-double-2026-03-08%2f&amp;c=475871147774364340&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 09:57:00 GMT",
+        "title": "Kansas City International Airport reopens after brief closure due to unspecified threat",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fkansas-city-international-airport-reopens-after-brief-closure-due-unspecified-2026-03-08%2f&amp;c=10525083533449897730&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 11:35:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Fans clash after Celtic beat Rangers in Scotland's 'Old Firm' soccer derby",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc33189cc4933b7b06e8764bc0f54&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffans-clash-after-celtic-beat-rangers-scotlands-old-firm-derby-2026-03-08%2f&amp;c=14112457814799181815&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 09:48:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Syria's Kurds caution Iran's Kurds against aligning with US against Tehran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc335e62942249eac2371b1d57ac3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsyrias-kurds-caution-irans-kurds-against-aligning-with-us-against-tehran-2026-03-08%2f&amp;c=2028038551145636400&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 09:05:00 GMT",
+        "title": "Iranian army says at least 104 killed in US attack on Iranian warship last week",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7f741f40d2a8c76c1adcb04b3b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firanian-army-says-least-104-killed-us-attack-iranian-warship-last-week-2026-03-08%2f&amp;c=8591410766612581682&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 09:28:00 GMT",
         "category": "us"
       },
       {
+        "title": "Syria's Kurds caution Iran's Kurds against aligning with US against Tehran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsyrias-kurds-caution-irans-kurds-against-aligning-with-us-against-tehran-2026-03-08%2f&amp;c=2028038551145636400&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 09:05:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Fraying loyalist base will challenge Iran's next leader - and Islamic Republic's survival",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc33189cc4933b7b06e8764bc0f54&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ffraying-loyalist-base-will-challenge-irans-next-leader-islamic-republics-2026-03-08%2f&amp;c=16900116233334561564&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ffraying-loyalist-base-will-challenge-irans-next-leader-islamic-republics-2026-03-08%2f&amp;c=16900116233334561564&amp;mkt=en-us",
         "pubDate": "Sun, 08 Mar 2026 08:29:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump again presses Congress on voter bill, says he will not sign other legislation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc33189cc4933b7b06e8764bc0f54&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-says-will-not-sign-other-legislation-until-voter-act-bill-is-passed-by-2026-03-08%2f&amp;c=6385952175547393897&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 04:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "KKR eyes multibillion-dollar sale of data center cooling company, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc33612aa4b73bceb46cd5ff93006&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fkkr-eyes-multibillion-dollar-sale-data-center-cooling-company-ft-reports-2026-03-08%2f&amp;c=13831827989734894402&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 01:52:00 GMT",
-        "category": "business"
+        "title": "Israeli strike kills three Palestinians in Gaza City, medics say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd9d41e3427e8f7fc69447749a72&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strike-kills-two-palestinians-car-gaza-medics-say-2026-03-08%2f&amp;c=7102007572468054209&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 07:37:00 GMT",
+        "category": "health"
       },
       {
         "title": "Panel picking Iran's supreme leader has reached consensus, member says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69adc33189cc4933b7b06e8764bc0f54&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fmajority-consensus-reached-irans-next-supreme-leader-mehr-news-reports-2026-03-08%2f&amp;c=11209948787727302743&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69addd7ca25849cb87ef6515c65c504f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fmajority-consensus-reached-irans-next-supreme-leader-mehr-news-reports-2026-03-08%2f&amp;c=11209948787727302743&amp;mkt=en-us",
         "pubDate": "Sat, 07 Mar 2026 21:37:00 GMT",
         "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Oil price surge could boost these Chinese stocks, Goldman says",
-        "link": "https://www.cnbc.com/2026/03/08/oil-price-surge-could-boost-these-chinese-stocks-goldman-says-.html",
-        "pubDate": "Sun, 08 Mar 2026 12:54:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China says &apos;thorough preparations&apos; needed as Trump-Xi meeting hangs in the balance amid Iran war",
-        "link": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
-        "pubDate": "Sun, 08 Mar 2026 07:17:53 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Inside the booming business of wellness third spaces and membership clubs",
-        "link": "https://www.cnbc.com/2026/03/07/wellness-third-spaces-othership-bathhouse-glo30.html",
-        "pubDate": "Sat, 07 Mar 2026 18:52:06 GMT",
-        "category": "health"
+        "title": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
+        "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+        "pubDate": "Sun, 08 Mar 2026 14:45:10 GMT",
+        "category": "tech"
       }
     ]
   }
