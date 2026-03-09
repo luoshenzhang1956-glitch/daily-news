@@ -1,26 +1,50 @@
 {
-  "updated_at": "2026-03-09T02:43:32.549910",
+  "updated_at": "2026-03-09T05:22:13.585462",
   "news": {
     "ap": [
       {
-        "title": "Sergi&#241;o Dest appears likely to miss US pre-World Cup friendlies against Belgium and Portugal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae3374acba40eeb07f18a8612c0d93&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdest-soccer-world-cup-psv-eindhoven-9ebe2ea9688740cff775ff3d35251840&amp;c=7606417630644303618&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 19:08:00 GMT",
+        "title": "From blacksmithing to needlepoint, young people are embracing \u2018grandma hobbies\u2019",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58d96ce94096ad574a36074f7eda&amp;url=https%3a%2f%2fapnews.com%2farticle%2fold-school-hobbies-vintage-analog-grandma-e45fa11ae1422715b6a2540044767fd0&amp;c=5953057359470878002&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 22:00:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "China hopes 2026 will be a \u2018landmark year\u2019 for relationship with US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58d8b969477da1ec64db63d5f472&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-us-relations-trump-xi-summit-wang-yi-dafb8e2439eabf1d9a0d1328635dece5&amp;c=4424561917534382571&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 19:59:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Brilliant India crushes New Zealand by 96 runs to win Twenty20 World Cup for a record 3rd time",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58d7cfe14f00b9e861e488f0bdfa&amp;url=https%3a%2f%2fapnews.com%2farticle%2ft20-world-cup-final-india-new-zealand-5461fd654307835216341c9f0fa2b69e&amp;c=2506101137772658448&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 18:24:00 GMT",
         "category": "world"
       },
       {
-        "title": "US begins large military drill with South Korea while waging war in the Middle East",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae3379bc16447dbbbb6233d69ea89f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-korea-freedom-shield-north-korea-iran-53caaf3a57e175e8d247c9c934aa0fea&amp;c=8702812042235050025&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 18:45:00 GMT",
-        "category": "us"
+        "title": "What China\u2019s latest economic plans say about its tech ambitions and rivalry with the US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58e3af53455aa60510a44a17eeaf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-five-year-plan-technology-economy-7face4580fcfba44410ff2134a09d6bb&amp;c=10073861416746596733&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 18:07:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Officials say 3 arrested in Peru nightclub bombing as number of injured rises to 44",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58e6fd894d79a126337cfe8ef587&amp;url=https%3a%2f%2fapnews.com%2farticle%2fperu-nightclub-arrested-bombing-explosion-injured-killed-3287a44d46ff5fc6a40bae3ced576ea6&amp;c=7865202609818407898&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 15:48:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
       {
+        "title": "Video appears to show U.S. cruise missile striking Iranian school compound",
+        "link": "https://www.npr.org/2026/03/08/nx-s1-5739395/iran-school-airstrike-tomahawk-missile-trump",
+        "pubDate": "Sun, 08 Mar 2026 22:51:06 -0400",
+        "category": "world"
+      },
+      {
         "title": "Crude oil rockets past $100 as markets lose hope for a quick resolution in Iran",
         "link": "https://www.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100",
         "pubDate": "Sun, 08 Mar 2026 21:24:34 -0400",
-        "category": "world"
+        "category": "business"
       },
       {
         "title": "Country Joe McDonald, anti-war singer who electrified Woodstock, dies at 84",
@@ -38,7 +62,7 @@
         "title": "OpenAI robotics leader resigns over concerns about Pentagon AI deal",
         "link": "https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military",
         "pubDate": "Sun, 08 Mar 2026 16:44:11 -0400",
-        "category": "business"
+        "category": "tech"
       },
       {
         "title": "Trump says he won&apos;t sign bills until Congress overhauls voting",
@@ -69,26 +93,20 @@
         "link": "https://www.npr.org/2026/03/08/g-s1-112521/photos-international-womens-day-justice-rights-action",
         "pubDate": "Sun, 08 Mar 2026 07:57:12 -0400",
         "category": "health"
-      },
-      {
-        "title": "Iran names Mojtaba Khamenei as its new supreme leader",
-        "link": "https://www.npr.org/2026/03/08/nx-s1-5741654/israel-iran-oil-ayatollah-successor",
-        "pubDate": "Sun, 08 Mar 2026 07:49:02 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Rihanna's Beverly Hills home hit by gunfire, police say",
+        "link": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 09 Mar 2026 03:01:00 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Oil prices surge above $110 and shares slide over Iran war",
         "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 09 Mar 2026 02:19:19 GMT",
         "category": "business"
-      },
-      {
-        "title": "Rihanna's Beverly Hills home hit by gunfire, police say",
-        "link": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 09 Mar 2026 02:13:08 GMT",
-        "category": "Top News"
       },
       {
         "title": "Watch: Fire crews fight blaze near Glasgow Central Station",
@@ -141,55 +159,66 @@
     ],
     "reuters": [
       {
-        "title": "As Fukushima memories fade, Japan embraces a nuclear-powered future",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae33a0f1994ca7aeae9b309a3daf1b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ffukushima-memories-fade-japan-embraces-nuclear-powered-future-2026-03-09%2f&amp;c=10658139112861158512&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 16:05:00 GMT",
-        "category": "business"
+        "title": "Iran live: Slain Khamenei's son Mojtaba is Iran's new supreme leader",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58e9c7e646ce8c7817ec3ddc1c5c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-live-slain-khameneis-son-is-irans-new-supreme-leader-2026-03-09%2f&amp;c=7560922009811586718&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 21:03:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Iraq coach calls for delay to World Cup playoff amid travel shutdown",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae339e90234342a464c2111c7fb5e9&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2firaq-coach-calls-delay-world-cup-playoff-amid-travel-shutdown-2026-03-09%2f&amp;c=3592687654258878791&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 16:03:00 GMT",
+        "title": "Oil soars 25%, gold drops as Iran war jolts global commodity markets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58e9c7e646ce8c7817ec3ddc1c5c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-soars-25-gold-drops-iran-war-jolts-global-commodity-markets-2026-03-09%2f&amp;c=16109742917394826257&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 20:23:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Virtually unbeatable' India win praise after third T20 World Cup crown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58fcac464bb1a3d8d17079699010&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fvirtually-unbeatable-india-win-praise-after-third-t20-world-cup-crown-2026-03-09%2f&amp;c=7221294425920128689&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 19:21:00 GMT",
         "category": "world"
       },
       {
-        "title": "Dollar surges as US-Iran war pushes oil past $100 a barrel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae33a0aa4e461ca49674a5f921d6ea&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdollar-surges-us-iran-war-pushes-oil-past-100-barrel-2026-03-08%2f&amp;c=15451022882834965128&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 15:07:00 GMT",
+        "title": "US, Japan may partner with Japan Display for new US plant under investment package, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58fce3b645fcabd025e752aa85bd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-japan-may-partner-with-japan-display-new-us-plant-under-investment-package-2026-03-09%2f&amp;c=9942194036730945412&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 19:20:00 GMT",
         "category": "us"
       },
       {
-        "title": "Galaxy Corporation Hosts Nasdaq Vice Chairman in Seoul as Company Highlights Growth and U.S. Listing Ambitions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae33a397e54a09ba4be1157dc9870a&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fgalaxy-corporation-nasdaq-vice-chairman-seoul-2026-03-08%2f&amp;c=182515738151408936&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 13:22:00 GMT",
-        "category": "tech"
+        "title": "Airline shares battered as oil prices spike, Iran war intensifies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58e9c7e646ce8c7817ec3ddc1c5c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fairline-shares-battered-oil-prices-spike-iran-war-intensifies-2026-03-09%2f&amp;c=15754026220224633423&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 19:00:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Israeli strike kills six Palestinians in Gaza, medics say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae33a5ed1247b2be98bfce762a76d5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strike-kills-two-palestinians-car-gaza-medics-say-2026-03-08%2f&amp;c=7102007572468054209&amp;mkt=en-us",
-        "pubDate": "Sun, 08 Mar 2026 07:37:00 GMT",
-        "category": "health"
+        "title": "Japan should use nuclear plants to offset Iran crisis, opposition party head says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58e9c7e646ce8c7817ec3ddc1c5c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fjapan-should-use-nuclear-plants-offset-iran-crisis-opposition-party-head-says-2026-03-09%2f&amp;c=7907007743561204380&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 17:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dollar jumps as Middle East war sends oil above $100 a barrel",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58e9c7e646ce8c7817ec3ddc1c5c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdollar-surges-us-iran-war-pushes-oil-past-100-barrel-2026-03-08%2f&amp;c=15451022882834965128&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 15:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oman's Muscat airport limits private jet flights, email says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58e9c7e646ce8c7817ec3ddc1c5c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fomans-muscat-airport-limits-private-jet-flights-email-says-2026-03-08%2f&amp;c=14479652215351592800&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 14:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil shoots higher, shares skid as Middle East conflict drags on",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58e9c7e646ce8c7817ec3ddc1c5c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-03-08%2f&amp;c=8252136304148486539&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 14:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran defies Trump, elevates Khamenei's son Mojtaba as successor",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ae58e9c7e646ce8c7817ec3ddc1c5c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-defies-trump-elevates-khameneis-son-mojtaba-successor-2026-03-08%2f&amp;c=11395818530549358206&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 13:30:00 GMT",
+        "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "Top Wall Street analysts are bullish on these 3 stocks despite ongoing volatility",
-        "link": "https://www.cnbc.com/2026/03/08/top-analysts-are-bullish-on-these-3-stocks-despite-ongoing-volatility.html",
-        "pubDate": "Sun, 08 Mar 2026 12:56:07 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Oil price surge could boost these Chinese stocks, Goldman says",
-        "link": "https://www.cnbc.com/2026/03/08/oil-price-surge-could-boost-these-chinese-stocks-goldman-says-.html",
-        "pubDate": "Sun, 08 Mar 2026 12:54:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China says &apos;thorough preparations&apos; needed as Trump-Xi meeting hangs in the balance amid Iran war",
-        "link": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
-        "pubDate": "Sun, 08 Mar 2026 07:17:53 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
