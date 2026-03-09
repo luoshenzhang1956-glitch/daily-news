@@ -1,15 +1,63 @@
 {
-  "updated_at": "2026-03-09T20:44:12.613250",
+  "updated_at": "2026-03-09T22:37:12.330801",
   "news": {
     "ap": [
       {
+        "title": "DeRosa: Tarik Skubal done in the World Baseball Classic after emotional start",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af4b26a06745a0a1ca4c29fb995f09&amp;url=https%3a%2f%2fapnews.com%2farticle%2fskubal-wbc-tigers-f2a0cf995a474c670237bb31bc67198f&amp;c=8292999893194864410&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 14:32:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Nevada will use AI for unemployment appeals. Some lawmakers are skeptical.",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af4b290c1048d4bab752e44de30ae4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnevada-information-technology-artificial-intelligence-christopher-sewell-labor-99d7604eff48e3bf09a751765664b9e3&amp;c=10319671537584461945&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 14:32:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "New footage raises likelihood the US struck an Iranian school where a blast killed at least 165",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af4b272c0844829bb2a9ec39c19f21&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-strike-school-minab-us-3f55b6ca193a3295bef5735a45a06368&amp;c=2909733639547904104&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 14:07:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Hims &amp; Hers Health and Novo Nordisk end lawsuit over weight loss medications, enter collaboration",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af308ebdf24a6e9a35480f12d7c073&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhims-hers-novo-nordisk-wegovy-ozempic-fda-d56b8ad0737be75674bc05ffe488b948&amp;c=1898414619040246877&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af4b29b4af4f6083321313d50c56d0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhims-hers-novo-nordisk-wegovy-ozempic-fda-d56b8ad0737be75674bc05ffe488b948&amp;c=1898414619040246877&amp;mkt=en-us",
         "pubDate": "Mon, 09 Mar 2026 09:38:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "Paris Hilton launches recovery fund for women business owners after disasters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af4b28bf9d44c6b08aa358d4698235&amp;url=https%3a%2f%2fapnews.com%2farticle%2fparis-hilton-la-fires-disasters-women-businesses-b4f11ebe0fc7eccb99c86c618ca102fd&amp;c=9588583081948820902&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 06:35:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "China debates Trump&apos;s foreign policy",
+        "link": "https://www.npr.org/2026/03/09/nx-s1-5732923/china-debates-trumps-foreign-policy",
+        "pubDate": "Mon, 09 Mar 2026 17:29:03 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Water restrictions hit home in California",
+        "link": "https://www.npr.org/2026/03/09/nx-s1-5678639/water-restrictions-hit-home-in-california",
+        "pubDate": "Mon, 09 Mar 2026 17:29:02 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Tennessee GOP Rep says Muslims &apos;don&apos;t belong in American society&apos;",
+        "link": "https://www.npr.org/2026/03/09/g-s1-113033/tennessee-gop-rep-says-muslims-dont-belong-in-american-society",
+        "pubDate": "Mon, 09 Mar 2026 17:22:21 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says U.S. is &apos;achieving major strides&apos; in Iran toward military objectives",
+        "link": "https://www.npr.org/2026/03/09/nx-s1-5742591/trump-press-conference-as-u-s-israel-led-iran-war-enters-second-week",
+        "pubDate": "Mon, 09 Mar 2026 16:59:08 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Live Nation&apos;s settlement with DOJ still isn&apos;t a done deal",
         "link": "https://www.npr.org/2026/03/09/nx-s1-5742504/live-nations-settlement-with-doj-still-isnt-a-done-deal",
@@ -17,10 +65,10 @@
         "category": "business"
       },
       {
-        "title": "Security wait times at some U.S. airports soar as government shutdown drags on",
-        "link": "https://www.npr.org/2026/03/09/nx-s1-5741857/security-wait-times-at-some-u-s-airports-soar-as-government-shutdown-drags-on",
-        "pubDate": "Mon, 09 Mar 2026 16:30:17 -0400",
-        "category": "us"
+        "title": "Menopause hormone therapy is popular, so why the &apos;mad scramble&apos; to fill prescriptions?",
+        "link": "https://www.npr.org/2026/03/09/nx-s1-5725504/menopause-hormone-therapy-is-popular-so-why-the-mad-scramble-to-fill-prescriptions",
+        "pubDate": "Mon, 09 Mar 2026 16:35:10 -0400",
+        "category": "health"
       },
       {
         "title": "Epstein used his ties to Nobel laureate scientists to try to rebuild his image",
@@ -38,51 +86,39 @@
         "title": "What to know about Mojtaba Khamenei, Iran&apos;s new supreme leader",
         "link": "https://www.npr.org/2026/03/09/nx-s1-5742375/mojtaba-khamenei-iran-supreme-leader",
         "pubDate": "Mon, 09 Mar 2026 14:11:42 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Anthropic sues the Trump administration over &apos;supply chain risk&apos; label",
         "link": "https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth",
         "pubDate": "Mon, 09 Mar 2026 13:30:59 -0400",
         "category": "tech"
-      },
-      {
-        "title": "This historian dug up the hidden history of &apos;amateur&apos; blackface in America",
-        "link": "https://www.npr.org/2026/03/09/nx-s1-5738478/darkology-blackface-rhae-lynn-barnes",
-        "pubDate": "Mon, 09 Mar 2026 12:34:10 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Two suspects charged with aiding ISIS in attempted explosives attack in New York City",
-        "link": "https://www.npr.org/2026/03/09/nx-s1-5742434/explosives-new-york-zohran-mamdani-isis",
-        "pubDate": "Mon, 09 Mar 2026 11:37:10 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump is using immigration policy to suppress speech, lawsuit claims",
-        "link": "https://www.npr.org/2026/03/09/nx-s1-5741213/trump-censorship-visas-deportation-lawsuit",
-        "pubDate": "Mon, 09 Mar 2026 11:35:06 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Why young girls are disguised as boys in Afghanistan",
-        "link": "https://www.npr.org/2026/03/09/g-s1-112603/why-young-girls-are-disguised-as-boys-in-afghanistan",
-        "pubDate": "Mon, 09 Mar 2026 11:33:17 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Two men attempting to bomb protest outside NYC mayor's home pledged ISIS support - police",
-        "link": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 09 Mar 2026 20:32:30 GMT",
-        "category": "us"
-      },
-      {
         "title": "Reeves to look at how to help households with heating oil bills",
         "link": "https://www.bbc.com/news/articles/c07jyd0rrz2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 09 Mar 2026 20:02:27 GMT",
+        "pubDate": "Mon, 09 Mar 2026 22:00:49 GMT",
         "category": "business"
+      },
+      {
+        "title": "Five Iranian footballers granted Australian visas after anthem protest",
+        "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 09 Mar 2026 21:46:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Anthropic sues US government for calling it a risk",
+        "link": "https://www.bbc.com/news/articles/cq571w5vllxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 09 Mar 2026 21:33:05 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Two men charged with terror offences after homemade bomb thrown outside NYC mayor's home",
+        "link": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 09 Mar 2026 20:43:49 GMT",
+        "category": "us"
       },
       {
         "title": "Iran's new leader has never been tested. He now faces an existential battle",
@@ -91,22 +127,16 @@
         "category": "Top News"
       },
       {
-        "title": "Anthropic sues US government for calling it a risk",
-        "link": "https://www.bbc.com/news/articles/cq571w5vllxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 09 Mar 2026 19:49:58 GMT",
-        "category": "tech"
-      },
-      {
         "title": "RAF jets have taken out two more drones, says Healey",
         "link": "https://www.bbc.com/news/articles/c0mgyw32j8jo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 09 Mar 2026 18:49:15 GMT",
         "category": "Top News"
       },
       {
-        "title": "Five Iranian footballers 'in Australian safe house' after Asian Cup protest",
-        "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 09 Mar 2026 16:29:46 GMT",
-        "category": "Top News"
+        "title": "US teacher killed after toilet paper prank goes wrong",
+        "link": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 09 Mar 2026 17:09:21 GMT",
+        "category": "world"
       },
       {
         "title": "US missile hit military base near Iran school, video analysis shows",
@@ -125,28 +155,40 @@
         "link": "https://www.bbc.com/news/articles/cly0ppdzj2yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 09 Mar 2026 00:39:36 GMT",
         "category": "health"
-      },
-      {
-        "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
-        "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 08 Mar 2026 21:51:48 GMT",
-        "category": "world"
       }
     ],
     "reuters": [
       {
-        "title": "Vera Clinic and Appsilon Bring Aerospace-Grade Diamond Technology to Hair Transplant Surgery",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af30bfe8ca4e17b6377ecec4aca838&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fvera-clinic-appsilon-diamond-technology-hair-transplant-2026-03-09%2f&amp;c=125597866588232852&amp;mkt=en-us",
-        "pubDate": "Mon, 09 Mar 2026 07:46:00 GMT",
-        "category": "tech"
+        "title": "Business News | Today's International Headlines | Reuters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af4b40521740508e476346248b0e2c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 13:03:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US talks on rebuilding Washington Dulles airport intensify",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af4b3fa5694624bbf671030159f709&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-advancing-discussions-how-rebuild-washington-dulles-airport-2026-03-09%2f&amp;c=11191237704969361709&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 10:58:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Universal Health strikes $835 million Talkspace deal in mental health push",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af4b4fd97c420e8efb5ec324c118e1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2funiversal-health-strikes-835-million-talkspace-deal-mental-health-push-2026-03-09%2f&amp;c=2686816601309914902&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 04:22:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Samson rises from year of struggle to become India's World Cup hero",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af4b3de09a42dabd128a129abf0ab7&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fsamson-rises-year-struggle-become-indias-world-cup-hero-2026-03-09%2f&amp;c=2093190348675476056&amp;mkt=en-us",
+        "pubDate": "Sun, 08 Mar 2026 22:40:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Hims &amp; Hers shares surge after Novo Nordisk drops patent infringement case over compounded weight loss drugs",
-        "link": "https://www.cnbc.com/2026/03/09/novo-nordisk-ends-legal-proceedings-hims-hers-compounded-weight-loss-drugs.html",
-        "pubDate": "Mon, 09 Mar 2026 15:09:37 GMT",
-        "category": "health"
+        "title": "Ticketmaster parent Live Nation reaches settlement with Department of Justice over antitrust concerns",
+        "link": "https://www.cnbc.com/2026/03/09/ticketmaster-parent-live-nation-doj-antitrust-settlement.html",
+        "pubDate": "Mon, 09 Mar 2026 19:05:37 GMT",
+        "category": "business"
       }
     ]
   }
