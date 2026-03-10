@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-03-10T02:35:50.097762",
+  "updated_at": "2026-03-10T05:16:10.840529",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Here are Mississippi&apos;s 2026 primary election results",
+        "link": "https://www.npr.org/2026/03/10/g-s1-112744/mississippi-primary-election-results-2026",
+        "pubDate": "Tue, 10 Mar 2026 00:01:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "As U.S. and Israel strike Iran, China&apos;s foreign policy experts question Washington",
         "link": "https://www.npr.org/2026/03/09/nx-s1-5732923/as-u-s-and-israel-strike-iran-chinas-foreign-policy-experts-question-washington",
@@ -52,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "What to know about Mojtaba Khamenei, Iran&apos;s new supreme leader",
-        "link": "https://www.npr.org/2026/03/09/nx-s1-5742375/mojtaba-khamenei-iran-supreme-leader",
-        "pubDate": "Mon, 09 Mar 2026 14:11:42 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Anthropic sues the Trump administration over &apos;supply chain risk&apos; label",
         "link": "https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth",
         "pubDate": "Mon, 09 Mar 2026 13:30:59 -0400",
@@ -66,10 +66,16 @@
     ],
     "bbc": [
       {
-        "title": "Oil prices plunge after Trump warns Iran over Strait of Hormuz",
+        "title": "Oil prices fall after Trump warns Iran over Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/cx2jxe382pwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 10 Mar 2026 02:25:35 GMT",
+        "pubDate": "Tue, 10 Mar 2026 02:39:38 GMT",
         "category": "business"
+      },
+      {
+        "title": "Rising prices, mixed messages: Iran war is fraught with political risk for Trump",
+        "link": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 10 Mar 2026 02:37:46 GMT",
+        "category": "us"
       },
       {
         "title": "Faisal Islam: Trump comments may have eased oil price surge, but havoc remains",
@@ -90,21 +96,15 @@
         "category": "health"
       },
       {
-        "title": "Five Iranian footballers granted Australian visas after anthem protest",
-        "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 09 Mar 2026 21:46:53 GMT",
+        "title": "Business owners 'heartbroken' after retail units destroyed in Glasgow fire",
+        "link": "https://www.bbc.com/news/articles/cd70wvj2xnyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 09 Mar 2026 22:59:05 GMT",
         "category": "Top News"
       },
       {
-        "title": "Two men charged with terror offences after homemade bomb thrown outside NYC mayor's home",
-        "link": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 09 Mar 2026 20:43:49 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Iran's new leader has never been tested. He now faces an existential battle",
-        "link": "https://www.bbc.com/news/articles/cwykdn0yn4wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 09 Mar 2026 19:51:00 GMT",
+        "title": "Five Iranian footballers granted Australian visas after anthem protest",
+        "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 09 Mar 2026 21:46:53 GMT",
         "category": "Top News"
       },
       {
@@ -128,25 +128,66 @@
     ],
     "reuters": [
       {
-        "title": "Iran bets on endurance, energy disruption to outlast US, Israel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69af833037074b72a64b69ecd3aefac4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-bets-endurance-energy-disruption-outlast-us-israel-2026-03-10%2f&amp;c=489715064597759491&amp;mkt=en-us",
-        "pubDate": "Mon, 09 Mar 2026 16:08:00 GMT",
-        "category": "us"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Oil plunges 10% as Trump warns to hit Iran &apos;twenty times harder&apos; if it blockades Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
-        "pubDate": "Tue, 10 Mar 2026 02:13:14 GMT",
-        "category": "world"
+        "title": "US solar installations down in 2025 after Trump policies jolt market, report says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69afa88b69f84dd7b9245f4dbc12c0f7&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fclimate-energy%2fus-solar-installations-down-2025-after-trump-policies-jolt-market-report-says-2026-03-10%2f&amp;c=9041325292841039059&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 20:06:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Hims &amp; Hers shares surge after Novo Nordisk drops patent infringement case over compounded weight loss drugs",
-        "link": "https://www.cnbc.com/2026/03/09/novo-nordisk-ends-legal-proceedings-hims-hers-compounded-weight-loss-drugs.html",
-        "pubDate": "Mon, 09 Mar 2026 15:09:37 GMT",
-        "category": "health"
+        "title": "NZ young guns hungry for success in 2028 after World Cup disappointment, says coach",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69afa88b69f84dd7b9245f4dbc12c0f7&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fnz-young-guns-hungry-success-2028-after-world-cup-disappointment-says-coach-2026-03-10%2f&amp;c=12096638567663415861&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 19:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China\u2019s exports turbocharge into 2026 after record-breaking year",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69afa88b69f84dd7b9245f4dbc12c0f7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchinas-exports-turbocharge-into-2026-after-record-breaking-year-2026-03-10%2f&amp;c=17975173771152446176&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 19:20:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Vietnam urges people to work from home to save fuel as Iran war disrupts supplies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69afa88b69f84dd7b9245f4dbc12c0f7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fvietnam-urges-people-work-home-save-fuel-iran-war-disrupts-supplies-2026-03-10%2f&amp;c=11606252807370130500&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 19:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Airlines begin to hike fares due to higher fuel prices, shares stabilise",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69afa88b69f84dd7b9245f4dbc12c0f7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fairlines-begin-hike-fares-due-higher-fuel-prices-shares-stabilise-2026-03-10%2f&amp;c=12019268353592160747&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 18:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Anthropic executives say Pentagon blacklisting could hit billions in sales, harm reputation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69afa88b69f84dd7b9245f4dbc12c0f7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fanthropic-executives-say-pentagon-blacklisting-could-hit-billions-sales-harm-2026-03-10%2f&amp;c=14256975676453835964&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 17:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Asia markets rebound, oil dives as Trump says Iran war could end soon",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69afa88b69f84dd7b9245f4dbc12c0f7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-wrapup-1-pix-2026-03-10%2f&amp;c=4932998702369303647&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 17:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil falls as Trump predicts Middle East de-escalation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69afa88b69f84dd7b9245f4dbc12c0f7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-falls-over-6-trump-predicts-middle-east-de-escalation-2026-03-10%2f&amp;c=2131590871179682646&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 17:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says US is going to go further on Iran and alludes to end of war - as it happened",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69afa88b69f84dd7b9245f4dbc12c0f7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-live-slain-khameneis-son-is-irans-new-supreme-leader-2026-03-09%2f&amp;c=7560922009811586718&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 15:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Americans expect gasoline prices to keep rising after Iran strikes, Reuters/Ipsos poll finds",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69afa88b69f84dd7b9245f4dbc12c0f7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2famericans-expect-gasoline-prices-keep-rising-after-iran-strikes-reutersipsos-2026-03-09%2f&amp;c=15974694818804669674&amp;mkt=en-us",
+        "pubDate": "Mon, 09 Mar 2026 15:15:00 GMT",
+        "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
