@@ -1,50 +1,31 @@
 {
-  "updated_at": "2026-03-11T07:03:40.062293",
+  "updated_at": "2026-03-11T08:54:54.199577",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Uncleared piles of trash bring health risks to Palestinians in the Gaza Strip",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113a051a74ea7b23a42a13d1f1b46&amp;url=https%3a%2f%2fapnews.com%2fvideo%2funcleared-piles-of-trash-bring-health-risks-to-palestinians-in-the-gaza-strip-9ca2398b725a49f2a515a37293e91e5d&amp;c=11251920727750766789&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 21:39:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Italy stuns the US 8-6 in World Baseball Classic, leaving the Americans needing help to advance",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b11387f85846c191fb3735ce7bdbf3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fohtani-japan-wbc-czech-republic-43ea69457b1a8d4f7cc3980624ea2074&amp;c=16723846510514078361&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 21:31:00 GMT",
+        "title": "U.S. strikes across Iran intensify as residential buildings are not spared",
+        "link": "https://www.npr.org/2026/03/11/nx-s1-5743764/u-s-strikes-across-iran-intensify-as-residential-buildings-are-not-spared",
+        "pubDate": "Wed, 11 Mar 2026 04:21:10 -0400",
         "category": "world"
       },
       {
-        "title": "Olympians Liu and Gu travel very different paths, and China-US relations hang over their stories",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b11389d5e14d5fa4f04b6d2ea5dc60&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgu-liu-china-olympics-skating-skiing-36b441fc7645377b7479972c30d8a0ed&amp;c=5133453832532164439&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 14:47:00 GMT",
+        "title": "Texas swim team raises money for hospitalized high school custodian",
+        "link": "https://www.npr.org/2026/03/11/nx-s1-5732724/texas-swim-team-raises-money-for-hospitalized-high-school-custodian",
+        "pubDate": "Wed, 11 Mar 2026 04:17:21 -0400",
         "category": "us"
       },
-      {
-        "title": "Meta to acquire Moltbook, the social network for AI agents",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1139e87014cb69afe4e1a9cd19fd5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeta-moltbook-ai-agents-openclaw-31af42ccbb04001dd17a3fc7067d1de3&amp;c=11934892670749925386&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 14:12:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "npr": [
       {
         "title": "Bam! Heat&apos;s Adebayo scores 83 points, 2nd only to Wilt Chamberlain in NBA history",
         "link": "https://www.npr.org/2026/03/11/g-s1-113255/bam-heats-adebayo-scores-83-points-2nd-only-to-wilt-chamberlain-in-nba-history",
         "pubDate": "Wed, 11 Mar 2026 02:15:01 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Prosecutor says Rihanna, family were home when woman charged with attempted murder fired",
         "link": "https://www.npr.org/2026/03/11/g-s1-113252/prosecutor-says-rihanna-family-were-home-when-woman-charged-with-attempted-murder-fired",
         "pubDate": "Wed, 11 Mar 2026 01:50:41 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Four years of war have transformed Russia, but few will speak in public against it",
-        "link": "https://www.npr.org/2026/03/10/nx-s1-5726278/four-years-of-war-have-transformed-russia-but-few-will-speak-in-public-against-it",
-        "pubDate": "Tue, 10 Mar 2026 17:33:30 -0400",
-        "category": "world"
       },
       {
         "title": "Happy birthday to the telephone \u2014 oh, how you&apos;ve grown in 150 years!",
@@ -71,12 +52,6 @@
         "category": "Top News"
       },
       {
-        "title": "Photos from Iran and across the Middle East as the war enters Week 2",
-        "link": "https://www.npr.org/2026/03/10/g-s1-113081/photos-iran-us-israel-war-middle-east-week-2",
-        "pubDate": "Tue, 10 Mar 2026 12:19:58 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "A dose of psilocybin helps smokers quit in new study",
         "link": "https://www.npr.org/2026/03/10/nx-s1-5742457/psilocybin-magic-mushroom-quit-smoking",
         "pubDate": "Tue, 10 Mar 2026 11:00:00 -0400",
@@ -91,15 +66,21 @@
     ],
     "bbc": [
       {
-        "title": "Inside the Russian explosives plot that targeted the UK",
-        "link": "https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 06:00:08 GMT",
+        "title": "Iran war cost will be passed to consumers, shipping giant boss tells BBC",
+        "link": "https://www.bbc.com/news/articles/c5ykzyd0rkyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 11 Mar 2026 08:38:27 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Al Quds Day march to be banned after government approves Met request",
+        "link": "https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 11 Mar 2026 08:26:05 GMT",
         "category": "Top News"
       },
       {
-        "title": "Government approves Met request to ban Al Quds Day march",
-        "link": "https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 04:14:17 GMT",
+        "title": "First Mandelson files to be published on Wednesday",
+        "link": "https://www.bbc.com/news/articles/c4gqj5z4qwqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 11 Mar 2026 08:15:59 GMT",
         "category": "Top News"
       },
       {
@@ -109,21 +90,15 @@
         "category": "us"
       },
       {
-        "title": "Iran war cost will be passed to consumers, shipping giant boss tells BBC",
-        "link": "https://www.bbc.com/news/articles/c5ykzyd0rkyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 00:27:15 GMT",
-        "category": "business"
-      },
-      {
         "title": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
         "link": "https://www.bbc.com/news/articles/cdjm7rxjxneo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 11 Mar 2026 00:10:20 GMT",
         "category": "Top News"
       },
       {
-        "title": "University tuition fees system is a 'mess', says Sir Nick Clegg",
-        "link": "https://www.bbc.com/news/articles/c1e9yyg23dyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 00:02:43 GMT",
+        "title": "The Aldi-style disruptors who could be about to shake up the vets market",
+        "link": "https://www.bbc.com/news/articles/cj6dw3r09x0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 11 Mar 2026 00:05:06 GMT",
         "category": "Top News"
       },
       {
@@ -133,9 +108,9 @@
         "category": "tech"
       },
       {
-        "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
-        "link": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 10 Mar 2026 19:35:29 GMT",
+        "title": "Hereditary peers to be removed from Lords as bill passes",
+        "link": "https://www.bbc.com/news/articles/cdxg76rgdp7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 10 Mar 2026 23:02:32 GMT",
         "category": "Top News"
       },
       {
@@ -153,96 +128,24 @@
     ],
     "reuters": [
       {
-        "title": "USMNT chooses Irvine, Calif., for World Cup base",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113a557b0457ea886232811de0429&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fusmnt-chooses-irvine-calif-world-cup-base--flm-2026-03-11%2f&amp;c=14352628400765358407&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 22:40:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "China's February auto sales, exports fall at fastest pace in two years",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113a33ef14e18a51252061a0d6198&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fchinas-february-auto-sales-exports-fall-fastest-pace-two-years-2026-03-11%2f&amp;c=3577416217444907146&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 22:22:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Porsche targets some improvement under new CEO after 2025 tailspin",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113a33ef14e18a51252061a0d6198&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fporsche-expects-margin-improvement-after-rough-2025-2026-03-11%2f&amp;c=100343852016806646&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 22:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Heat's Bam Adebayo pours in 83, NBA's second-highest total ever",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113a33ef14e18a51252061a0d6198&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fheats-bam-adebayo-pours-83-nbas-second-highest-total-ever--flm-2026-03-11%2f&amp;c=11753292355865628745&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 21:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Business News | Today's International Headlines | Reuters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113abccc24eb3aae824ef7db28613&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 20:02:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Combatants in Mideast war trade more air strikes as Iran clamps down on dissent",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113a33ef14e18a51252061a0d6198&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fcombatants-mideast-war-trade-more-air-strikes-iran-clamps-down-dissent-2026-03-11%2f&amp;c=15314327363863655044&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 19:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Haleon makes oral-health push in China as other Western brands falter",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113b5830846e2a73fae184dd088dd&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fhaleon-makes-oral-health-push-china-other-western-brands-falter-2026-03-11%2f&amp;c=6686640022366172316&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 17:00:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Iran's new leader, still silent, was elevated by the Revolutionary Guards",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113a33ef14e18a51252061a0d6198&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firans-new-leader-still-silent-was-elevated-by-revolutionary-guards-2026-03-10%2f&amp;c=14482715044632458706&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 13:35:00 GMT",
-        "category": "Top News"
+        "title": "Canal+ taps Google's AI for video production, content recommendation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b12dae5c674aa99f4e9e2a1f78e858&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fcanal-taps-googles-ai-video-production-content-recommendation-2026-03-11%2f&amp;c=3117913242006319325&amp;mkt=en-us",
+        "pubDate": "Tue, 10 Mar 2026 23:05:00 GMT",
+        "category": "tech"
       },
       {
         "title": "Trump says US 'destroyed' mine-laying vessels in Strait of Hormuz; US Navy says escorts not possible - as it happened",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113a829b846ab8cf2ff40e28cd7f4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-tehran-trade-threats-over-oil-blockade-2026-03-10%2f&amp;c=11568474703388362319&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b12d9edaab4cddad4ca696b15da1e8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-tehran-trade-threats-over-oil-blockade-2026-03-10%2f&amp;c=11568474703388362319&amp;mkt=en-us",
         "pubDate": "Tue, 10 Mar 2026 13:06:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "Applied Materials forges partnerships with Micron and SK Hynix for AI memory chips",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b113b2999741c4b62abcbf6fe48435&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fapplied-materials-sk-hynix-partner-next-gen-ai-memory-development-2026-03-10%2f&amp;c=3230724089379117215&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 12:08:00 GMT",
-        "category": "tech"
       }
     ],
     "markets": [
-      {
-        "title": "Powering AI: Europe switches on its first microgrid-connected data center",
-        "link": "https://www.cnbc.com/2026/03/11/data-center-microgrid-power-ireland-ai-boom-avk-pure-dc.html",
-        "pubDate": "Wed, 11 Mar 2026 06:00:01 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "U.S. forces sink 16 Iranian minelayers as reports say Tehran is mining the Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/03/11/us-strikes-iran-mine-ships-strait-of-hormuz-war-oil.html",
-        "pubDate": "Wed, 11 Mar 2026 03:41:02 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Ford launches new AI to grow multibillion-dollar Pro commercial business",
-        "link": "https://www.cnbc.com/2026/03/10/ford-pro-ai.html",
-        "pubDate": "Tue, 10 Mar 2026 21:30:01 GMT",
-        "category": "business"
-      },
       {
         "title": "New inflation data is set for release Wednesday. How to trade it",
         "link": "https://www.cnbc.com/2026/03/10/new-inflation-data-is-set-for-release-wednesday-how-to-trade-it.html",
         "pubDate": "Tue, 10 Mar 2026 20:26:37 GMT",
         "category": "us"
-      },
-      {
-        "title": "Vertex passes key test in quest to treat kidney diseases",
-        "link": "https://www.cnbc.com/2026/03/10/vertex-kidney-drug-povetacicept-succeeds-trial-igan.html",
-        "pubDate": "Tue, 10 Mar 2026 15:03:31 GMT",
-        "category": "health"
       }
     ]
   }
