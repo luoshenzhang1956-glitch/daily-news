@@ -1,30 +1,18 @@
 {
-  "updated_at": "2026-03-11T02:33:40.155143",
+  "updated_at": "2026-03-11T05:16:57.815572",
   "news": {
     "ap": [
       {
-        "title": "Meta to acquire Moltbook, the social network for AI agents",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0d422557b4544b2de79424ab72cce&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeta-moltbook-ai-agents-openclaw-31af42ccbb04001dd17a3fc7067d1de3&amp;c=11934892670749925386&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 14:12:00 GMT",
-        "category": "tech"
+        "title": "Italy stuns the US 8-6 in World Baseball Classic, leaving the Americans needing help to advance",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0fa2a4010468b9ce7f3bd76b6382b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fohtani-japan-wbc-czech-republic-43ea69457b1a8d4f7cc3980624ea2074&amp;c=16723846510514078361&amp;mkt=en-us",
+        "pubDate": "Tue, 10 Mar 2026 21:31:00 GMT",
+        "category": "world"
       },
       {
         "title": "Former attorney for California solar firm sentenced in $1 billion fraud scheme",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0d42067f74959ac236bbb75f31a94&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdc-solar-ponzi-scheme-california-9e0660f6282ff59032e26d5f14db0a8c&amp;c=761325173879086418&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0fa3e4ec14fe39aebaece89879b5e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdc-solar-ponzi-scheme-california-9e0660f6282ff59032e26d5f14db0a8c&amp;c=761325173879086418&amp;mkt=en-us",
         "pubDate": "Tue, 10 Mar 2026 10:48:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "FDA finds little evidence that a drug touted by Trump can help people with autism",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0d423e11f42d4a3ef585aac2bfca6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fautism-fda-drug-leucovorin-trump-kennedy-97a1b5092de76b7956f778f374189a0c&amp;c=15799348743152862140&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 09:11:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Japan finishes World Baseball Classic group unbeaten, tops Czechs 9-0 behind Murakami\u2019s grand slam",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0d40cdddb4d2e8a7a4c6a7ecee783&amp;url=https%3a%2f%2fapnews.com%2farticle%2fohtani-japan-wbc-czech-republic-43ea69457b1a8d4f7cc3980624ea2074&amp;c=16723846510514078361&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 07:58:00 GMT",
-        "category": "world"
       }
     ],
     "npr": [
@@ -91,10 +79,22 @@
     ],
     "bbc": [
       {
+        "title": "Government approves Met request to ban Al Quds Day march",
+        "link": "https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 11 Mar 2026 04:14:17 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Georgia race to replace Marjorie Taylor Greene heads to a runoff",
         "link": "https://www.bbc.com/news/articles/cy4wknrz3exo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 01:18:40 GMT",
+        "pubDate": "Wed, 11 Mar 2026 02:53:24 GMT",
         "category": "us"
+      },
+      {
+        "title": "Gale-force winds to batter UK as snow and cold set for comeback",
+        "link": "https://www.bbc.com/weather/articles/cly877pe9l8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 11 Mar 2026 00:29:17 GMT",
+        "category": "Top News"
       },
       {
         "title": "Iran war cost will be passed to consumers, shipping giant boss tells BBC",
@@ -121,18 +121,6 @@
         "category": "tech"
       },
       {
-        "title": "First Mandelson files expected to be published on Wednesday",
-        "link": "https://www.bbc.com/news/articles/c4gqj5z4qwqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 10 Mar 2026 23:09:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK warship HMS Dragon departs for eastern Mediterranean",
-        "link": "https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 10 Mar 2026 19:39:17 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
         "link": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 10 Mar 2026 19:35:29 GMT",
@@ -153,55 +141,24 @@
     ],
     "reuters": [
       {
-        "title": "Business News | Today's International Headlines | Reuters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0d438261b444fb525dd1aa6e82542&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 15:37:00 GMT",
-        "category": "business"
+        "title": "Haleon makes oral-health push in China as other Western brands falter",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0fa70992c45d9868bf28750e422c5&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fhaleon-makes-oral-health-push-china-other-western-brands-falter-2026-03-10%2f&amp;c=13633203760789281618&amp;mkt=en-us",
+        "pubDate": "Tue, 10 Mar 2026 15:03:00 GMT",
+        "category": "health"
       },
       {
         "title": "Trump says US 'destroyed' mine-laying vessels in Strait of Hormuz; US Navy says escorts not possible - as it happened",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0d437737c490184f447ee5cdabdb8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-tehran-trade-threats-over-oil-blockade-2026-03-10%2f&amp;c=11568474703388362319&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0fa5fa1fe4fdf9adf5a471157b7cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-tehran-trade-threats-over-oil-blockade-2026-03-10%2f&amp;c=11568474703388362319&amp;mkt=en-us",
         "pubDate": "Tue, 10 Mar 2026 13:06:00 GMT",
         "category": "us"
       },
       {
-        "title": "Qualcomm, Wayve partner to accelerate AI-powered self-driving system rollout",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0d4382edd45cdb43d0dbe0cdacca3&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fqualcomm-wayve-partner-accelerate-ai-powered-self-driving-system-rollout-2026-03-10%2f&amp;c=4343202474543359672&amp;mkt=en-us",
-        "pubDate": "Tue, 10 Mar 2026 05:05:00 GMT",
+        "title": "Applied Materials forges partnerships with Micron and SK Hynix for AI memory chips",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b0fa6ed7674ff5bcb1ced322ba3419&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fapplied-materials-sk-hynix-partner-next-gen-ai-memory-development-2026-03-10%2f&amp;c=3230724089379117215&amp;mkt=en-us",
+        "pubDate": "Tue, 10 Mar 2026 12:08:00 GMT",
         "category": "tech"
       }
     ],
-    "markets": [
-      {
-        "title": "Ford launches new AI to grow multibillion-dollar Pro commercial business",
-        "link": "https://www.cnbc.com/2026/03/10/ford-pro-ai.html",
-        "pubDate": "Tue, 10 Mar 2026 21:30:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Rivian, Hims &amp; Hers, BioNTech, Vertex Pharmaceuticals &amp; more",
-        "link": "https://www.cnbc.com/2026/03/10/stocks-making-the-biggest-moves-midday-rivn-hims-kss-casy-vrtx.html",
-        "pubDate": "Tue, 10 Mar 2026 17:32:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Vertex passes key test in quest to treat kidney diseases",
-        "link": "https://www.cnbc.com/2026/03/10/vertex-kidney-drug-povetacicept-succeeds-trial-igan.html",
-        "pubDate": "Tue, 10 Mar 2026 15:03:31 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Surging oil prices could wipe out benefits from Trump&apos;s &apos;big beautiful bill&apos;",
-        "link": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html",
-        "pubDate": "Tue, 10 Mar 2026 14:16:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "There&apos;s another energy market that may get hit harder than oil by Strait of Hormuz closure",
-        "link": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
-        "pubDate": "Tue, 10 Mar 2026 14:06:17 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
