@@ -1,25 +1,56 @@
 {
-  "updated_at": "2026-03-11T19:02:59.606824",
+  "updated_at": "2026-03-11T20:43:26.588332",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "New drone maker partly owned by Trump sons hopes to win Pentagon contracts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d346d9784e97b2a4e260dd8a43e9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdrones-eric-donald-trump-powerus-iran-defense-089bff3892f921a10ef4ec785308e716&amp;c=7078422728542610904&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 13:13:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "St. Clair County public health gets \u2018MAGA\u2019 makeover, from fluoride to vaccines",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d35121c44d8c8be06f1dc752a918&amp;url=https%3a%2f%2fapnews.com%2farticle%2frobert-f-kennedy-jr-immunizations-medication-public-health-michigan-5171171768e5d25d3ddcc937569018a2&amp;c=1945938813532722551&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 11:22:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Saunas&apos; health benefits draw enthusiasts and researchers",
+        "link": "https://www.npr.org/2026/03/11/nx-s1-5719269/saunas-health-benefits-draw-enthusiasts-and-researchers",
+        "pubDate": "Wed, 11 Mar 2026 16:34:55 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Iran&apos;s soccer team cannot participate in the FIFA World Cup, Iranian minister says",
+        "link": "https://www.npr.org/2026/03/11/nx-s1-5744855/fifa-world-cup-iran-team",
+        "pubDate": "Wed, 11 Mar 2026 15:57:48 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Pentagon probe points to U.S. missile hitting Iranian school",
+        "link": "https://www.npr.org/2026/03/11/nx-s1-5744981/pentagon-iran-missile-school-hegseth",
+        "pubDate": "Wed, 11 Mar 2026 15:38:37 -0400",
+        "category": "us"
+      },
       {
         "title": "No Nobles Day: Britain&apos;s Parliament boots its last hereditary Lords after 700 years",
         "link": "https://www.npr.org/2026/03/11/g-s1-113300/britain-parliament-hereditary-house-of-lords-aristocrats-duke-earl-viscount",
         "pubDate": "Wed, 11 Mar 2026 12:56:39 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "How the Iran war is disrupting air travel -- and advice if you&apos;re planning a trip",
         "link": "https://www.npr.org/2026/03/11/nx-s1-5742438/iran-war-flight-airline-travel-tips",
         "pubDate": "Wed, 11 Mar 2026 11:55:15 -0400",
-        "category": "us"
+        "category": "business"
       },
       {
         "title": "ChatGPT might give you bad medical advice, studies warn",
         "link": "https://www.npr.org/2026/03/11/nx-s1-5744035/chatgpt-might-give-you-bad-medical-advice-studies-warn",
         "pubDate": "Wed, 11 Mar 2026 11:21:14 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Greetings from a Shanghai temple where you can ward off bad luck in the Year of the Horse",
@@ -31,7 +62,7 @@
         "title": "Countries agree to a historic release of stockpiled oil to ease global disruption",
         "link": "https://www.npr.org/2026/03/11/nx-s1-5743816/iran-war-oil-reserves-iea",
         "pubDate": "Wed, 11 Mar 2026 10:24:18 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Americans skeptical of the Iran war, poll says. And, DOJ gives guns back to felons",
@@ -40,31 +71,19 @@
         "category": "Top News"
       },
       {
-        "title": "The U.S. attacks Iranian mine-laying vessels near the Strait of Hormuz",
+        "title": "Iran war: More ships are hit and a probe points to the U.S. striking a girls school",
         "link": "https://www.npr.org/2026/03/11/nx-s1-5744029/us-iran-war",
         "pubDate": "Wed, 11 Mar 2026 05:45:36 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Over puppy yoga? Try it with snakes.",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5743865/animal-yoga-snake-yoga-goat-puppy-kitten-reindeer",
-        "pubDate": "Wed, 11 Mar 2026 05:30:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Americans are split on wanting the National Guard to monitor voting, a new poll finds",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5743823/voting-poll-national-guard-election-security",
-        "pubDate": "Wed, 11 Mar 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Happy birthday to the telephone \u2014 oh, how you&apos;ve grown in 150 years!",
-        "link": "https://www.npr.org/2026/03/10/nx-s1-5726812/happy-birthday-to-the-telephone-oh-how-youve-grown-in-150-years",
-        "pubDate": "Tue, 10 Mar 2026 16:05:45 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
+      {
+        "title": "Pete Hegseth brings combative style as face of Trump's war in Iran",
+        "link": "https://www.bbc.com/news/articles/cx2g4e5z0d3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 11 Mar 2026 19:13:29 GMT",
+        "category": "us"
+      },
       {
         "title": "A 'weirdly rushed' appointment - and other key takeaways from Mandelson files",
         "link": "https://www.bbc.com/news/articles/cm2rg8z6p1vo?at_medium=RSS&amp;at_campaign=rss",
@@ -118,28 +137,70 @@
         "link": "https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 11 Mar 2026 00:00:50 GMT",
         "category": "tech"
-      },
-      {
-        "title": "'I don't know why we're doing it' - Americans divided on Iran war",
-        "link": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 10 Mar 2026 21:28:09 GMT",
-        "category": "us"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Food prices could rise as Iran conflict disrupts fertilizer supply chain",
-        "link": "https://www.cnbc.com/2026/03/11/iran-news-food-prices-could-rise-due-to-fertilizer-shortages.html",
-        "pubDate": "Wed, 11 Mar 2026 18:56:24 GMT",
-        "category": "business"
+        "title": "Iran war live: IEA proposes record release of strategic oil stocks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d3559284443d8574b6cc560e769b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-tehran-continues-fire-israel-targets-across-middle-east-2026-03-11%2f&amp;c=9611588905264561246&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 12:03:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Microsoft plans to ship prototype of next Xbox console to developers in 2027",
-        "link": "https://www.cnbc.com/2026/03/11/microsoft-plans-to-ship-prototype-of-next-xbox-to-developers-in-2027.html",
-        "pubDate": "Wed, 11 Mar 2026 18:30:41 GMT",
-        "category": "tech"
+        "title": "Sea drones target oil tankers in the Middle East as conflict risks widen",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d3559284443d8574b6cc560e769b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsea-drones-target-oil-tankers-middle-east-conflict-risks-widen-2026-03-11%2f&amp;c=16313478964058747445&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 11:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US February budget deficit flat at $308 billion, tariff revenues not yet hit by court ruling",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d3559284443d8574b6cc560e769b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-february-budget-deficit-flat-308-billion-tariff-revenues-not-yet-hit-by-court-2026-03-11%2f&amp;c=14632648295400831062&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 10:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Papa John's reviews fresh $1.5 billion take-private bid from Irth Capital, WSJ reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d3559284443d8574b6cc560e769b&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2fpapa-johns-reviews-fresh-15-billion-take-private-bid-irth-capital-wsj-reports-2026-03-11%2f&amp;c=7482918890797599178&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 09:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US FDA launches unified platform to report drug side effects",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d36621e44d4a8570fffe40061430&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-fda-launches-unified-platform-report-drug-side-effects-2026-03-11%2f&amp;c=11426291115487428846&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 09:35:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Historic oil reserve release is only a band-aid on a gaping supply shock",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d3559284443d8574b6cc560e769b&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fcommodities%2fhistoric-oil-reserve-release-is-only-band-aid-gaping-supply-shock-2026-03-11%2f&amp;c=5246491870601371078&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 09:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran cannot participate in World Cup, minister says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d3559284443d8574b6cc560e769b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2firan-cannot-participate-world-cup-sports-minister-says-2026-03-11%2f&amp;c=7404191913495342743&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 05:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Prices for new cars have soared. Here\u2019s one big reason why.",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d3559284443d8574b6cc560e769b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fprices-new-cars-have-soared-heres-one-big-reason-why-2026-03-11%2f&amp;c=12550371167722403352&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 02:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: Foreign hacker in 2023 compromised Epstein files held by FBI, source and documents show",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d3559284443d8574b6cc560e769b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fforeign-hacker-2023-compromised-epstein-files-held-by-fbi-source-documents-show-2026-03-11%2f&amp;c=4704564216475643810&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 02:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three more vessels hit by projectiles in Strait of Hormuz, showing merchant ships remain in firing line",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b1d3559284443d8574b6cc560e769b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fcargo-ship-hit-by-projectile-strait-hormuz-crew-evacuates-2026-03-11%2f&amp;c=10979635675574244086&amp;mkt=en-us",
+        "pubDate": "Tue, 10 Mar 2026 21:57:00 GMT",
+        "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
