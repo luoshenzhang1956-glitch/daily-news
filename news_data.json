@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-03-12T07:07:56.077619",
+  "updated_at": "2026-03-12T08:55:01.613653",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Epstein\u2019s longtime accountant testifies on his wealth and business ties",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27eeef0d9489fac8152a795b1edb4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjeffrey-epstein-accountant-richard-kahn-408bd7342060174bd456eb08bdd13488&amp;c=6161768532116093357&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 00:12:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "San Jose restricts use of license plate readers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27eef625f4beb90701446e0405546&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsan-jose-general-news-law-enforcement-california-743b78b14610260649b96efafe326ba3&amp;c=5497821340704881264&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 12:29:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "St. Clair County public health gets \u2018MAGA\u2019 makeover, from fluoride to vaccines",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27ef0f7a44087b69b10ffac99ce27&amp;url=https%3a%2f%2fapnews.com%2farticle%2frobert-f-kennedy-jr-immunizations-medication-public-health-michigan-5171171768e5d25d3ddcc937569018a2&amp;c=1945938813532722551&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 11:22:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "King penguins are the rare species benefiting from a warming world. But that could change",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27edd971a4562987d576f99fd2265&amp;url=https%3a%2f%2fapnews.com%2farticle%2fking-penguins-warming-breeding-climate-change-0d4bac686c7159d0c671ebce7f9f1d79&amp;c=2061861806147513037&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 11:15:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "DOJ&apos;s program to restore gun rights to felons raises questions about transparency",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5744786/dojs-program-to-restore-gun-rights-to-felons-raises-questions-about-transparency",
+        "pubDate": "Thu, 12 Mar 2026 04:44:55 -0400",
+        "category": "us"
+      },
+      {
+        "title": "How the release of 400 million barrels of oil will affect the global energy market",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5745026/how-the-release-of-400-million-barrels-of-oil-will-affect-the-global-energy-market",
+        "pubDate": "Thu, 12 Mar 2026 04:44:45 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Threats to the Strait of Hormuz raises concerns about global oil prices",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5744776/threats-to-the-strait-of-hormuz-raises-concerns-about-global-oil-prices",
+        "pubDate": "Thu, 12 Mar 2026 04:43:43 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Tick-borne meat allergy can affect livestock producers&apos; health and livelihood",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5712784/tick-borne-meat-allergy-can-affect-livestock-producers-health-and-livelihood",
+        "pubDate": "Thu, 12 Mar 2026 04:43:39 -0400",
+        "category": "health"
+      },
       {
         "title": "Bam Adebayo&apos;s 83-point night was one to remember. But not everyone was pleased",
         "link": "https://www.npr.org/2026/03/12/g-s1-113393/bam-adebayo-83-point-not-everyone-pleased",
@@ -13,7 +62,7 @@
         "title": "Trump says Democrats must cheat to win. What do his supporters think?",
         "link": "https://www.npr.org/2026/03/12/nx-s1-5745129/trump-democrats-cheat-election-security-pennsylvania-midterms",
         "pubDate": "Thu, 12 Mar 2026 00:02:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "The government is investigating new claims that DOGE misused Social Security data",
@@ -34,42 +83,36 @@
         "category": "Top News"
       },
       {
-        "title": "Australia shelters 7 Iranian women&apos;s soccer team members, but 1 wants to go back",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5744071/australia-shelters-7-iranian-womens-soccer-team-members-but-1-wants-to-go-back",
-        "pubDate": "Wed, 11 Mar 2026 17:02:35 -0400",
-        "category": "world"
-      },
-      {
         "title": "Amid U.S.\u2013China chip rivalry, open-standard designers warn their vision is at risk",
         "link": "https://www.npr.org/2026/03/11/nx-s1-5719502/amid-u-s-china-chip-rivalry-open-standard-designers-warn-their-vision-is-at-risk",
         "pubDate": "Wed, 11 Mar 2026 17:02:24 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Chile turns right: Kast inaugurated as nation&apos;s most conservative leader since Pinochet",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5743653/chile-turns-right-kast-inaugurated-as-nations-most-conservative-leader-since-pinochet",
-        "pubDate": "Wed, 11 Mar 2026 16:34:59 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Saunas&apos; health benefits draw enthusiasts and researchers",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5719269/saunas-health-benefits-draw-enthusiasts-and-researchers",
-        "pubDate": "Wed, 11 Mar 2026 16:34:55 -0400",
-        "category": "health"
-      },
-      {
-        "title": "How the Iran war is disrupting air travel -- and advice if you&apos;re planning a trip",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5742438/iran-war-flight-airline-travel-tips",
-        "pubDate": "Wed, 11 Mar 2026 11:55:15 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
+        "title": "John Lewis to pay first staff bonus for four years",
+        "link": "https://www.bbc.com/news/articles/c626emvy1z7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 08:30:57 GMT",
+        "category": "business"
+      },
+      {
         "title": "Oil price jumps despite deal to release record amount of reserves",
         "link": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 03:04:24 GMT",
+        "pubDate": "Thu, 12 Mar 2026 08:20:04 GMT",
         "category": "world"
+      },
+      {
+        "title": "Draper fights to 'mind-blowing' win over Djokovic",
+        "link": "https://www.bbc.com/sport/tennis/articles/cly09grr65xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 07:41:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'It was the stuff of dreams' - Liza Tarbuck leaves Radio 2 Saturday show",
+        "link": "https://www.bbc.com/news/articles/c2lrq2n7l9eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 04:14:37 GMT",
+        "category": "Top News"
       },
       {
         "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
@@ -87,13 +130,7 @@
         "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
         "link": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 12 Mar 2026 00:01:53 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Social media firms asked to toughen up age checks for under-13s",
-        "link": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 00:01:42 GMT",
-        "category": "business"
+        "category": "health"
       },
       {
         "title": "Chris Mason: There may be no knockout blows from Mandelson files but it's far from over",
@@ -108,31 +145,50 @@
         "category": "us"
       },
       {
-        "title": "PM warned of 'reputational risk' over Mandelson's Epstein links",
+        "title": "PM was warned of 'reputational risk' over Mandelson's Epstein links",
         "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 11 Mar 2026 18:30:20 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
-        "link": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 16:00:34 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Alternative to HRT for menopausal hot flushes now on NHS",
-        "link": "https://www.bbc.com/news/articles/cn0znqkqkdro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 12:54:56 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Estee Lauder Companies sues perfumer Jo Malone, Zara UK for using her name",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27f109b9a4344b73fc9e2a9e5f29a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2festee-lauder-sues-perfumer-jo-malone-zara-uk-contract-breach-ft-reports-2026-03-12%2f&amp;c=993252988637422079&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 22:35:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US, Russian teams met in Florida and discussed 'variety of topics,' Witkoff says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27f0ff5d64b9ea79454434dfc3da2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-russian-teams-met-florida-discussed-variety-topics-witkoff-says-2026-03-12%2f&amp;c=13187880200669220010&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 16:47:00 GMT",
+        "category": "us"
+      }
+    ],
     "markets": [
       {
         "title": "Google sells partial stake in fiber business, becomes minority owner of new venture",
         "link": "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html",
         "pubDate": "Thu, 12 Mar 2026 03:19:27 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Thursday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/03/11/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Thu, 12 Mar 2026 00:14:22 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Oracle, Papa John&apos;s, Nebius, Campbell&apos;s, Serve Robotics, Cadre and more",
+        "link": "https://www.cnbc.com/2026/03/11/stocks-making-the-biggest-moves-midday-orcl-nbis-cpb-serv-cdre.html",
+        "pubDate": "Wed, 11 Mar 2026 17:19:04 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
+        "link": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html",
+        "pubDate": "Wed, 11 Mar 2026 12:57:44 GMT",
+        "category": "Top News"
       }
     ]
   }
