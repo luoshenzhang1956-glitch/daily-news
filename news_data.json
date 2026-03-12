@@ -1,50 +1,68 @@
 {
-  "updated_at": "2026-03-12T08:55:01.613653",
+  "updated_at": "2026-03-12T10:51:52.624306",
   "news": {
     "ap": [
       {
+        "title": "Purdue Boilermakers play the Northwestern Wildcats in Big Ten Tournament",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a29895d445388e6da2eb8638f90&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpurdue-boilermakers-northwestern-wildcats-college-sports-braden-smith-big-ten-conference-15097ae2f3af4e4cbe2a79cd36d2e052&amp;c=16820069471617296886&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 01:45:00 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Epstein\u2019s longtime accountant testifies on his wealth and business ties",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27eeef0d9489fac8152a795b1edb4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjeffrey-epstein-accountant-richard-kahn-408bd7342060174bd456eb08bdd13488&amp;c=6161768532116093357&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a2868c6463290e39ee9d6136052&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjeffrey-epstein-accountant-richard-kahn-408bd7342060174bd456eb08bdd13488&amp;c=6161768532116093357&amp;mkt=en-us",
         "pubDate": "Thu, 12 Mar 2026 00:12:00 GMT",
         "category": "business"
       },
       {
-        "title": "San Jose restricts use of license plate readers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27eef625f4beb90701446e0405546&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsan-jose-general-news-law-enforcement-california-743b78b14610260649b96efafe326ba3&amp;c=5497821340704881264&amp;mkt=en-us",
-        "pubDate": "Wed, 11 Mar 2026 12:29:00 GMT",
-        "category": "tech"
-      },
-      {
         "title": "St. Clair County public health gets \u2018MAGA\u2019 makeover, from fluoride to vaccines",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27ef0f7a44087b69b10ffac99ce27&amp;url=https%3a%2f%2fapnews.com%2farticle%2frobert-f-kennedy-jr-immunizations-medication-public-health-michigan-5171171768e5d25d3ddcc937569018a2&amp;c=1945938813532722551&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a38344641278b10c200f1cc9aac&amp;url=https%3a%2f%2fapnews.com%2farticle%2frobert-f-kennedy-jr-immunizations-medication-public-health-michigan-5171171768e5d25d3ddcc937569018a2&amp;c=1945938813532722551&amp;mkt=en-us",
         "pubDate": "Wed, 11 Mar 2026 11:22:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "King penguins are the rare species benefiting from a warming world. But that could change",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27edd971a4562987d576f99fd2265&amp;url=https%3a%2f%2fapnews.com%2farticle%2fking-penguins-warming-breeding-climate-change-0d4bac686c7159d0c671ebce7f9f1d79&amp;c=2061861806147513037&amp;mkt=en-us",
-        "pubDate": "Wed, 11 Mar 2026 11:15:00 GMT",
-        "category": "world"
       }
     ],
     "npr": [
       {
-        "title": "DOJ&apos;s program to restore gun rights to felons raises questions about transparency",
-        "link": "https://www.npr.org/2026/03/12/nx-s1-5744786/dojs-program-to-restore-gun-rights-to-felons-raises-questions-about-transparency",
-        "pubDate": "Thu, 12 Mar 2026 04:44:55 -0400",
+        "title": "&apos;Songs from the Hole&apos;: The story behind JJ&apos;88&apos;s documentary and visual album",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/03/12/g-s1-113054/jj-88-album-songs-from-the-hole",
+        "pubDate": "Thu, 12 Mar 2026 06:30:00 -0400",
         "category": "us"
       },
       {
-        "title": "How the release of 400 million barrels of oil will affect the global energy market",
-        "link": "https://www.npr.org/2026/03/12/nx-s1-5745026/how-the-release-of-400-million-barrels-of-oil-will-affect-the-global-energy-market",
-        "pubDate": "Thu, 12 Mar 2026 04:44:45 -0400",
-        "category": "business"
+        "title": "Oil price surges as Iran steps up attacks on ships in the Persian Gulf",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5745689/oil-price-surges-as-iran-steps-up-attacks-on-ships-in-the-persian-gulf",
+        "pubDate": "Thu, 12 Mar 2026 06:07:42 -0400",
+        "category": "world"
       },
       {
-        "title": "Threats to the Strait of Hormuz raises concerns about global oil prices",
-        "link": "https://www.npr.org/2026/03/12/nx-s1-5744776/threats-to-the-strait-of-hormuz-raises-concerns-about-global-oil-prices",
-        "pubDate": "Thu, 12 Mar 2026 04:43:43 -0400",
-        "category": "world"
+        "title": "Easy-to-use solar panels are coming, but utilities are trying to delay them",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5737287/solar-panels-utilities-energy-saving",
+        "pubDate": "Thu, 12 Mar 2026 05:30:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "5 ways to resist the urge to keep looking at your phone",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5743973/5-ways-resist-urge-keep-looking-at-your-phone",
+        "pubDate": "Thu, 12 Mar 2026 05:00:00 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "The Trump administration&apos;s crackdown on immigrant truckers shifts into higher gear",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5736253/immigrant-truckers-trump-crackdown",
+        "pubDate": "Thu, 12 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump&apos;s war with Iran is angering some swing voters who want money spent at home",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5744781/trump-iran-michigan-focus-group",
+        "pubDate": "Thu, 12 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "To stop Africa from hemorrhaging local talent, scientist creates drug discovery lab",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5729002/to-stop-africa-from-hemorrhaging-local-talent-scientist-creates-drug-discovery-lab",
+        "pubDate": "Thu, 12 Mar 2026 04:44:26 -0400",
+        "category": "Top News"
       },
       {
         "title": "Tick-borne meat allergy can affect livestock producers&apos; health and livelihood",
@@ -59,59 +77,53 @@
         "category": "Top News"
       },
       {
-        "title": "Trump says Democrats must cheat to win. What do his supporters think?",
-        "link": "https://www.npr.org/2026/03/12/nx-s1-5745129/trump-democrats-cheat-election-security-pennsylvania-midterms",
-        "pubDate": "Thu, 12 Mar 2026 00:02:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The government is investigating new claims that DOGE misused Social Security data",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5745153/doge-social-security-data-whistleblower-investigation",
-        "pubDate": "Wed, 11 Mar 2026 21:53:23 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Epstein&apos;s longtime accountant testifies he was &apos;not aware&apos; of sex offender&apos;s crimes",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5745082/epstein-files-richard-kahn-deposition",
-        "pubDate": "Wed, 11 Mar 2026 19:51:46 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Rebecca Gayheart Dane on caring for her late husband, Eric Dane, and synthetic voices",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5742420/rebecca-gayheart-dane-eric-dane",
-        "pubDate": "Wed, 11 Mar 2026 17:30:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Amid U.S.\u2013China chip rivalry, open-standard designers warn their vision is at risk",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5719502/amid-u-s-china-chip-rivalry-open-standard-designers-warn-their-vision-is-at-risk",
-        "pubDate": "Wed, 11 Mar 2026 17:02:24 -0400",
-        "category": "tech"
+        "title": "How the Iran war is disrupting air travel -- and advice if you&apos;re planning a trip",
+        "link": "https://www.npr.org/2026/03/11/nx-s1-5742438/iran-war-flight-airline-travel-tips",
+        "pubDate": "Wed, 11 Mar 2026 11:55:15 -0400",
+        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "John Lewis to pay first staff bonus for four years",
-        "link": "https://www.bbc.com/news/articles/c626emvy1z7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 08:30:57 GMT",
+        "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
+        "link": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 10:48:50 GMT",
         "category": "business"
       },
       {
-        "title": "Oil price jumps despite deal to release record amount of reserves",
-        "link": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 08:20:04 GMT",
+        "title": "Minister defends PM's handling of Mandelson appointment",
+        "link": "https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 10:30:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What role has cyber warfare played in Iran?",
+        "link": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 10:20:08 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Hundreds of GPs tell BBC they have never refused a fit note for mental health concerns",
+        "link": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 09:21:42 GMT",
+        "category": "health"
+      },
+      {
+        "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
+        "link": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 08:41:47 GMT",
         "category": "world"
+      },
+      {
+        "title": "My phone contents were shared with the police colleague I accused of rape",
+        "link": "https://www.bbc.com/news/articles/cq8g9e812z3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 07:44:46 GMT",
+        "category": "Top News"
       },
       {
         "title": "Draper fights to 'mind-blowing' win over Djokovic",
         "link": "https://www.bbc.com/sport/tennis/articles/cly09grr65xo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 12 Mar 2026 07:41:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'It was the stuff of dreams' - Liza Tarbuck leaves Radio 2 Saturday show",
-        "link": "https://www.bbc.com/news/articles/c2lrq2n7l9eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 04:14:37 GMT",
         "category": "Top News"
       },
       {
@@ -121,21 +133,9 @@
         "category": "Top News"
       },
       {
-        "title": "What role has cyber warfare played in Iran?",
-        "link": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 00:02:46 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
-        "link": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 00:01:53 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Chris Mason: There may be no knockout blows from Mandelson files but it's far from over",
-        "link": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 23:54:45 GMT",
+        "title": "Student loans inquiry to look at whether system is 'unfair to graduates'",
+        "link": "https://www.bbc.com/news/articles/cdxg70rr2geo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 00:03:21 GMT",
         "category": "Top News"
       },
       {
@@ -143,53 +143,70 @@
         "link": "https://www.bbc.com/news/articles/cx2g4e5z0d3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 11 Mar 2026 19:13:29 GMT",
         "category": "us"
-      },
-      {
-        "title": "PM was warned of 'reputational risk' over Mandelson's Epstein links",
-        "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 18:30:20 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Estee Lauder Companies sues perfumer Jo Malone, Zara UK for using her name",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27f109b9a4344b73fc9e2a9e5f29a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2festee-lauder-sues-perfumer-jo-malone-zara-uk-contract-breach-ft-reports-2026-03-12%2f&amp;c=993252988637422079&amp;mkt=en-us",
-        "pubDate": "Wed, 11 Mar 2026 22:35:00 GMT",
-        "category": "business"
+        "title": "Wall St whisperers help financial firms navigate Iran conflict risks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a3a06fc4625a152f1b112a17ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fwall-st-whisperers-help-financial-firms-navigate-iran-conflict-risks-2026-03-12%2f&amp;c=1715583301932224629&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 03:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran war live: Oil prices soar past $100 as tankers attacked in Gulf and Strait of Hormuz",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a3a06fc4625a152f1b112a17ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-six-tankers-attacked-gulf-strait-hormuz-2026-03-12%2f&amp;c=13391225128136886145&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 02:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Anthropic's delicate dance with the Pentagon",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a3a06fc4625a152f1b112a17ce4&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fartificial-intelligence%2fartificial-intelligencer-anthropics-delicate-dance-with-pentagon-2026-03-12%2f&amp;c=13716431933508439777&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 02:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "EU antitrust chief Ribera open to state aid for crisis-hit heavy energy users",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a3a06fc4625a152f1b112a17ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2feu-antitrust-chief-ribera-open-state-aid-crisis-hit-heavy-energy-users-2026-03-12%2f&amp;c=6734375569535607124&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 02:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Brazil's dreams for industrial-scale cocoa farms fading after price crash",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a3a06fc4625a152f1b112a17ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fbrazils-dreams-industrial-scale-cocoa-farms-fading-after-price-crash-2026-03-12%2f&amp;c=619496492082238872&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 02:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Google names London office 'Platform 37' in a nod to railway neighbour, AI 'Go' match",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a3a06fc4625a152f1b112a17ce4&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fgoogle-names-london-office-platform-37-nod-railway-neighbour-ai-go-match-2026-03-12%2f&amp;c=16989413394640302615&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 02:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UBS to settle lawsuit with whistleblower, court filings show",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a3a06fc4625a152f1b112a17ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fubs-settle-lawsuit-with-whistleblower-court-filings-show-2026-03-12%2f&amp;c=12867883458198752757&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 00:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall Street futures drop as Middle East tensions lift oil prices to $100",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a3a06fc4625a152f1b112a17ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-street-futures-drop-middle-east-tensions-lift-oil-above-100-2026-03-12%2f&amp;c=17730796430065443029&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 00:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "DP World: Jebel Ali port fully operational, inbound vessel traffic reduced",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a3b6b4a4136af134c88b1585c4c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fdp-world-jebel-ali-port-fully-operational-inbound-vessel-traffic-reduced-2026-03-12%2f&amp;c=5627043755744262736&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 22:18:00 GMT",
+        "category": "world"
       },
       {
         "title": "US, Russian teams met in Florida and discussed 'variety of topics,' Witkoff says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b27f0ff5d64b9ea79454434dfc3da2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-russian-teams-met-florida-discussed-variety-topics-witkoff-says-2026-03-12%2f&amp;c=13187880200669220010&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b29a3a06fc4625a152f1b112a17ce4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-russian-teams-met-florida-discussed-variety-topics-witkoff-says-2026-03-12%2f&amp;c=13187880200669220010&amp;mkt=en-us",
         "pubDate": "Wed, 11 Mar 2026 16:47:00 GMT",
-        "category": "us"
+        "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "Google sells partial stake in fiber business, becomes minority owner of new venture",
-        "link": "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html",
-        "pubDate": "Thu, 12 Mar 2026 03:19:27 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Thursday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/03/11/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Thu, 12 Mar 2026 00:14:22 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Oracle, Papa John&apos;s, Nebius, Campbell&apos;s, Serve Robotics, Cadre and more",
-        "link": "https://www.cnbc.com/2026/03/11/stocks-making-the-biggest-moves-midday-orcl-nbis-cpb-serv-cdre.html",
-        "pubDate": "Wed, 11 Mar 2026 17:19:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
-        "link": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html",
-        "pubDate": "Wed, 11 Mar 2026 12:57:44 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
