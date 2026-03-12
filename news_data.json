@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-03-12T17:04:36.161453",
+  "updated_at": "2026-03-12T19:05:23.122740",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Suspect in attack at Michigan synagogue is dead, ATF official says",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5745970/suspect-in-attack-at-michigan-synagogue-is-dead-atf-offical-says",
+        "pubDate": "Thu, 12 Mar 2026 14:27:18 -0400",
+        "category": "us"
+      },
+      {
+        "title": "This tale of a Chicago school book ban was inspired by true events",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5744667/wake-now-in-the-fire-book-review",
+        "pubDate": "Thu, 12 Mar 2026 13:36:51 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Medicare Advantage &apos;dark money&apos; group tries to win higher payments for insurers",
         "link": "https://www.npr.org/2026/03/12/nx-s1-5745891/medicare-advantage-dark-money-insurers",
@@ -43,18 +55,6 @@
         "title": "&apos;Songs from the Hole&apos;: The story behind JJ&apos;88&apos;s documentary and visual album",
         "link": "https://www.npr.org/sections/the-picture-show/2026/03/12/g-s1-113054/jj-88-album-songs-from-the-hole",
         "pubDate": "Thu, 12 Mar 2026 06:30:00 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Iran issues statement purported to be from new leader as war with U.S. and Israel rages",
-        "link": "https://www.npr.org/2026/03/12/nx-s1-5745689/iran-war-israel-us",
-        "pubDate": "Thu, 12 Mar 2026 06:07:42 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Easy-to-use solar panels are coming, but utilities are trying to delay them",
-        "link": "https://www.npr.org/2026/03/12/nx-s1-5737287/solar-panels-utilities-energy-saving",
-        "pubDate": "Thu, 12 Mar 2026 05:30:00 -0400",
         "category": "Top News"
       },
       {
@@ -66,21 +66,27 @@
     ],
     "bbc": [
       {
-        "title": "PM says Mandelson appointment was mistake as No 10 denies cover-up",
-        "link": "https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 16:55:19 GMT",
-        "category": "Top News"
+        "title": "Grammarly pulls AI author-impersonation tool after backlash",
+        "link": "https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 17:49:43 GMT",
+        "category": "tech"
       },
       {
-        "title": "Fire-ravaged remains of Glasgow building to be demolished",
-        "link": "https://www.bbc.com/news/articles/cn71n7krrk4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 16:50:58 GMT",
+        "title": "Jo Malone sued for using her own name in collaboration with Zara",
+        "link": "https://www.bbc.com/news/articles/cly09j2542no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 17:08:08 GMT",
         "category": "Top News"
       },
       {
         "title": "UK troops at Iraq base shot down Iranian drones, Healey says",
         "link": "https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 16:43:22 GMT",
+        "pubDate": "Thu, 12 Mar 2026 17:06:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "PM says Mandelson appointment was mistake as No 10 denies cover-up",
+        "link": "https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 16:55:19 GMT",
         "category": "Top News"
       },
       {
@@ -94,12 +100,6 @@
         "link": "https://www.bbc.com/news/articles/ce3g49w5zxwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 12 Mar 2026 16:30:30 GMT",
         "category": "business"
-      },
-      {
-        "title": "Grammarly pulls AI author-impersonation tool after backlash",
-        "link": "https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 15:58:24 GMT",
-        "category": "tech"
       },
       {
         "title": "Woman who kept vulnerable victim as slave sentenced to 13 years",
@@ -126,38 +126,13 @@
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Stellantis exploring deals for Chinese rivals to invest in its business, Bloomberg reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b2f1d951a547e98ccfacbbcf194cee&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fstellantis-exploring-deals-chinese-automakers-invest-its-business-bloomberg-2026-03-12%2f&amp;c=5971749754546569332&amp;mkt=en-us",
-        "pubDate": "Thu, 12 Mar 2026 08:49:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Pentagon CTO says 'no chance' of renewed Anthropic negotiations",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b2f1e96d224272acba0d4f98e0413e&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fpentagon-cto-says-no-chance-renewed-anthropic-negotiations-cnbc-interview-2026-03-12%2f&amp;c=13494995719220479804&amp;mkt=en-us",
-        "pubDate": "Thu, 12 Mar 2026 04:42:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Flights are already getting more expensive after jet fuel spike. When should you book?",
-        "link": "https://www.cnbc.com/2026/03/12/airfare-prices-jet-fuel-iran-war.html",
-        "pubDate": "Thu, 12 Mar 2026 16:48:41 GMT",
-        "category": "business"
-      },
-      {
-        "title": "This one major bank is safe from a private credit crisis, says top industry analyst",
-        "link": "https://www.cnbc.com/2026/03/12/one-major-bank-is-safe-from-private-credit-crisis-says-top-analyst.html",
-        "pubDate": "Thu, 12 Mar 2026 16:17:11 GMT",
+        "title": "The conditions are just right for this dividend-paying pharma stock as it mounts a comeback",
+        "link": "https://www.cnbc.com/2026/03/12/dividend-paying-pharma-stock-looks-poised-for-a-comeback-charts-show.html",
+        "pubDate": "Thu, 12 Mar 2026 17:11:24 GMT",
         "category": "us"
-      },
-      {
-        "title": "Strait of Hormuz must remain closed as &apos;tool to pressure enemy,&apos; Iran&apos;s new supreme leader says",
-        "link": "https://www.cnbc.com/2026/03/12/strait-of-hormuz-closure-iran-oil-prices-mojtaba-khamenei.html",
-        "pubDate": "Thu, 12 Mar 2026 15:43:48 GMT",
-        "category": "world"
       }
     ]
   }
