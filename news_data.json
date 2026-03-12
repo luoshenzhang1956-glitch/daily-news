@@ -1,26 +1,44 @@
 {
-  "updated_at": "2026-03-12T02:39:58.492880",
+  "updated_at": "2026-03-12T05:19:46.990036",
   "news": {
     "ap": [
       {
-        "title": "A stunning US loss to Italy leaves World Baseball Classic fate hanging",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b2271260ac4773a3c2278f98e0d739&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwbc-united-states-quarterfinals-derosa-2c51274b1dbe46d091d0a80f237aa542&amp;c=10787966222033099542&amp;mkt=en-us",
-        "pubDate": "Wed, 11 Mar 2026 08:22:00 GMT",
-        "category": "world"
+        "title": "Pentagon says first week of Iran war cost the US $11.3 billion, an AP source says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b24c903c824f1493f46a93cc02c713&amp;url=https%3a%2f%2fapnews.com%2flive%2firan-war-israel-trump--03-11-2026&amp;c=14069283011646835254&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 21:48:00 GMT",
+        "category": "us"
       },
       {
-        "title": "Edmunds: These are the best budget hatchbacks that you can get in 2026",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b22731d3e243519210d6abb0a8b265&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhatchbacks-budget-toyota-kia-subaru-8f486452fd7dad981c0465af430b7ee1&amp;c=5900154979221913509&amp;mkt=en-us",
-        "pubDate": "Wed, 11 Mar 2026 03:34:00 GMT",
+        "title": "New drone maker partly owned by Trump sons hopes to win Pentagon contracts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b24ca08639482b9ac4078a51f6a6ad&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdrones-eric-donald-trump-powerus-iran-defense-089bff3892f921a10ef4ec785308e716&amp;c=7078422728542610904&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 13:57:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "St. Clair County public health gets \u2018MAGA\u2019 makeover, from fluoride to vaccines",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b24cabfdc2477aa639ddcf4d220044&amp;url=https%3a%2f%2fapnews.com%2farticle%2frobert-f-kennedy-jr-immunizations-medication-public-health-michigan-5171171768e5d25d3ddcc937569018a2&amp;c=1945938813532722551&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 11:22:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "A stunning US loss to Italy leaves World Baseball Classic fate hanging",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b24c8ecec84424a13e1bd279efc9f5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwbc-united-states-quarterfinals-derosa-2c51274b1dbe46d091d0a80f237aa542&amp;c=10787966222033099542&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 08:22:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
       {
+        "title": "Trump says Democrats must cheat to win. What do his supporters think?",
+        "link": "https://www.npr.org/2026/03/12/nx-s1-5745129/trump-democrats-cheat-election-security-pennsylvania-midterms",
+        "pubDate": "Thu, 12 Mar 2026 00:02:00 -0400",
+        "category": "us"
+      },
+      {
         "title": "The government is investigating new claims that DOGE misused Social Security data",
         "link": "https://www.npr.org/2026/03/11/nx-s1-5745153/doge-social-security-data-whistleblower-investigation",
         "pubDate": "Wed, 11 Mar 2026 21:53:23 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Epstein&apos;s longtime accountant testifies he was &apos;not aware&apos; of sex offender&apos;s crimes",
@@ -65,12 +83,6 @@
         "category": "Top News"
       },
       {
-        "title": "Pentagon probe points to U.S. missile hitting Iranian school",
-        "link": "https://www.npr.org/2026/03/11/nx-s1-5744981/pentagon-iran-missile-school-hegseth",
-        "pubDate": "Wed, 11 Mar 2026 15:38:37 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "How the Iran war is disrupting air travel -- and advice if you&apos;re planning a trip",
         "link": "https://www.npr.org/2026/03/11/nx-s1-5742438/iran-war-flight-airline-travel-tips",
         "pubDate": "Wed, 11 Mar 2026 11:55:15 -0400",
@@ -79,15 +91,21 @@
     ],
     "bbc": [
       {
-        "title": "Oil prices rise despite deal to release record amount of reserves",
+        "title": "Oil price jumps despite deal to release record amount of reserves",
         "link": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 12 Mar 2026 02:29:27 GMT",
-        "category": "Top News"
+        "pubDate": "Thu, 12 Mar 2026 03:04:24 GMT",
+        "category": "world"
       },
       {
         "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
         "link": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 12 Mar 2026 00:05:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Inquiry into student loans launched by MPs",
+        "link": "https://www.bbc.com/news/articles/cdxg70rr2geo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 12 Mar 2026 00:03:21 GMT",
         "category": "Top News"
       },
       {
@@ -121,16 +139,10 @@
         "category": "us"
       },
       {
-        "title": "Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show",
-        "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 18:30:20 GMT",
+        "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
+        "link": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 11 Mar 2026 16:00:34 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
-        "link": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 11 Mar 2026 16:45:28 GMT",
-        "category": "world"
       },
       {
         "title": "Alternative to HRT for menopausal hot flushes now on NHS",
@@ -141,31 +153,43 @@
     ],
     "reuters": [
       {
-        "title": "Shenzhen-listed Delton Technology (Guangzhou) seeks up to $423 million in Hong Kong listing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b22760d0fd461bb133ecc6e3db99b1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fshenzhen-listed-delton-technology-guangzhou-seeks-up-423-million-hong-kong-2026-03-12%2f&amp;c=7134975297314230717&amp;mkt=en-us",
-        "pubDate": "Wed, 11 Mar 2026 17:00:00 GMT",
+        "title": "One-third of Americans cut back on other expenses to cover healthcare in 2025, survey shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b24ccb78a04483857c0ee638f010d8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fone-third-americans-cut-back-other-expenses-cover-healthcare-2025-survey-shows-2026-03-12%2f&amp;c=14996829574160630543&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 20:03:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Nissan, Uber, Wayve unveil robotaxi tie-up",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b24ccae54a4709b6b6b4323b3ab9b5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnissan-uber-wayve-announce-robotaxi-tie-up-2026-03-12%2f&amp;c=14672521519668616361&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 19:55:00 GMT",
         "category": "tech"
       },
       {
         "title": "Business News | Today's International Headlines | Reuters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b2275f61a1416bb01d8d3db4bc4a8b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b24cc9979747b2b7ebe01eab59271b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
         "pubDate": "Wed, 11 Mar 2026 16:50:00 GMT",
         "category": "business"
       },
       {
-        "title": "US lawmakers urge FIFA to lower 2026 World Cup ticket prices",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b2274e94074095915952ac957703bd&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fus-lawmakers-urge-fifa-lower-2026-world-cup-ticket-prices-2026-03-11%2f&amp;c=5017244310333092425&amp;mkt=en-us",
-        "pubDate": "Wed, 11 Mar 2026 10:28:00 GMT",
-        "category": "world"
+        "title": "Exclusive: US intelligence says Iran government is not at risk of collapse, say sources",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b24cc98f924b3a995a5edae3fcb43b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fus-intelligence-says-iran-government-is-not-risk-collapse-say-sources-2026-03-11%2f&amp;c=1976308544555243318&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 15:07:00 GMT",
+        "category": "us"
       },
       {
-        "title": "Healthcare &amp; Pharmaceuticals",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b2276174a143a7bc9ceaac0028dd9f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2f&amp;c=4053367799059873081&amp;mkt=en-us",
-        "pubDate": "Wed, 11 Mar 2026 08:11:00 GMT",
-        "category": "health"
+        "title": "US lawmakers urge FIFA to lower 2026 World Cup ticket prices",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b24cbceb8a45fb8f9a8bce9b4e9577&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fus-lawmakers-urge-fifa-lower-2026-world-cup-ticket-prices-2026-03-11%2f&amp;c=5017244310333092425&amp;mkt=en-us",
+        "pubDate": "Wed, 11 Mar 2026 10:28:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
+      {
+        "title": "Google sells partial stake in fiber business, becomes minority owner of new venture",
+        "link": "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html",
+        "pubDate": "Thu, 12 Mar 2026 03:19:27 GMT",
+        "category": "tech"
+      },
       {
         "title": "Thursday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
         "link": "https://www.cnbc.com/2026/03/11/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
@@ -173,22 +197,16 @@
         "category": "us"
       },
       {
-        "title": "Google sells partial stake in fiber business, becomes minority owner of new venture",
-        "link": "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html",
-        "pubDate": "Wed, 11 Mar 2026 23:48:50 GMT",
-        "category": "tech"
+        "title": "Stocks making the biggest moves midday: Oracle, Papa John&apos;s, Nebius, Campbell&apos;s, Serve Robotics, Cadre and more",
+        "link": "https://www.cnbc.com/2026/03/11/stocks-making-the-biggest-moves-midday-orcl-nbis-cpb-serv-cdre.html",
+        "pubDate": "Wed, 11 Mar 2026 17:19:04 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Trump administration launches Section 301 trade probes into Mexico, China, EU, others",
-        "link": "https://www.cnbc.com/2026/03/11/trump-trade-investigations-ieepa-tariffs.html",
-        "pubDate": "Wed, 11 Mar 2026 23:48:34 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Food prices could rise as Iran conflict disrupts fertilizer supply chain",
-        "link": "https://www.cnbc.com/2026/03/11/iran-news-food-prices-could-rise-due-to-fertilizer-shortages.html",
-        "pubDate": "Wed, 11 Mar 2026 19:28:17 GMT",
-        "category": "business"
+        "title": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
+        "link": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html",
+        "pubDate": "Wed, 11 Mar 2026 12:57:44 GMT",
+        "category": "Top News"
       }
     ]
   }
