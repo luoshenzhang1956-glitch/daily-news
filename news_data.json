@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-03-13T18:55:12.056123",
+  "updated_at": "2026-03-13T20:43:59.375153",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Life under bombing in Tehran: The diary of an Iranian writer paints a vivid picture",
+        "link": "https://www.npr.org/2026/03/13/nx-s1-5745104/life-under-bombing-in-tehran-the-diary-of-an-iranian-writer-paints-a-vivid-picture",
+        "pubDate": "Fri, 13 Mar 2026 16:27:49 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Tick-borne meat allergy can affect livestock producers&apos; health and livelihood",
+        "link": "https://www.npr.org/2026/03/13/nx-s1-5712784-e1/tick-borne-meat-allergy-can-affect-livestock-producers-health-and-livelihood",
+        "pubDate": "Fri, 13 Mar 2026 16:27:48 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Vaccinating bats could be good for people. But how do you vaccinate a bat?",
+        "link": "https://www.npr.org/2026/03/13/g-s1-113183/vaccinate-vaccine-bats-rabies-nipah",
+        "pubDate": "Fri, 13 Mar 2026 15:45:42 -0400",
+        "category": "Top News"
+      },
       {
         "title": "And the Oscar goes to \u2014 wait, why is it called an Oscar?",
         "link": "https://www.npr.org/2026/03/13/nx-s1-5745780/academy-awards-oscars-name",
@@ -25,7 +43,7 @@
         "title": "After firings, funding cuts, and a shooting, can a demoralized CDC workforce recover?",
         "link": "https://www.npr.org/2026/03/13/nx-s1-5742530/cdc-atlanta-firings-funding-cuts-shooting-public-health",
         "pubDate": "Fri, 13 Mar 2026 12:54:17 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Giant robots battle it out in Detroit&apos;s Robowar",
@@ -37,24 +55,6 @@
         "title": "FBI investigates attacks in Michigan and Virginia. And, Senate passes housing bill",
         "link": "https://www.npr.org/2026/03/13/g-s1-113573/up-first-newsletter-iran-lebanon-hezbollah-temple-israel-odu-attacks-housing-bill",
         "pubDate": "Fri, 13 Mar 2026 07:45:11 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Countries are negotiating rules to mine the deep sea. The U.S. is pushing ahead alone",
-        "link": "https://www.npr.org/2026/03/13/nx-s1-5736150/deep-sea-mining-impact-critical-minerals",
-        "pubDate": "Fri, 13 Mar 2026 06:50:50 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "All 6 U.S. crew are dead after a military aircraft goes down in Iraq",
-        "link": "https://www.npr.org/2026/03/13/g-s1-113563/us-iran-war",
-        "pubDate": "Fri, 13 Mar 2026 06:21:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "It&apos;s Chalamet vs. ballet in this week&apos;s news quiz. Are your answers en pointe?",
-        "link": "https://www.npr.org/2026/03/13/g-s1-113315/timothee-chalamet-ballet-trump-nba-score-news-quiz",
-        "pubDate": "Fri, 13 Mar 2026 05:01:00 -0400",
         "category": "Top News"
       },
       {
@@ -65,6 +65,18 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Trial starts in case of explosives sent to UK and Poland",
+        "link": "https://www.bbc.com/news/articles/c1d6l9v3qk1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 13 Mar 2026 20:19:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Two more horses die on final day of Cheltenham",
+        "link": "https://www.bbc.com/news/articles/cd709jel19xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 13 Mar 2026 19:02:58 GMT",
+        "category": "Top News"
+      },
       {
         "title": "First image emerges of Andrew, Mandelson and Epstein together",
         "link": "https://www.bbc.com/news/articles/clyxezdv335o?at_medium=RSS&amp;at_campaign=rss",
@@ -84,21 +96,9 @@
         "category": "business"
       },
       {
-        "title": "F1 races in Middle East to be cancelled because of war in Iran",
-        "link": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 13 Mar 2026 17:12:12 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
         "link": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 13 Mar 2026 16:38:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
-        "link": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 13 Mar 2026 15:35:26 GMT",
         "category": "Top News"
       },
       {
@@ -128,18 +128,72 @@
     ],
     "reuters": [
       {
+        "title": "US proposes easing limits on cancer-causing gas used to clean medical devices",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b476df89fd4f8ca2779595a602a9b6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-proposes-easing-limits-cancer-causing-gas-used-clean-medical-devices-2026-03-13%2f&amp;c=6635000074687313017&amp;mkt=en-us",
+        "pubDate": "Fri, 13 Mar 2026 11:04:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Eliquis proves safer than Xarelto for patients with deep blood clots",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b45d5064c5446499cc59b95d8e261a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-eliquis-proves-safer-than-xarelto-patients-with-deep-blood-clots-2026-03-13%2f&amp;c=1703235939393328625&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b476ef075e4594a80c0d63eb4f1f06&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-eliquis-proves-safer-than-xarelto-patients-with-deep-blood-clots-2026-03-13%2f&amp;c=1703235939393328625&amp;mkt=en-us",
         "pubDate": "Fri, 13 Mar 2026 03:07:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "Adobe shares drop as CEO exit fans uncertainty over AI strategy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b476ef6759458ab59630cc0fe88907&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fadobe-shares-drop-after-ceo-exit-adds-ai-disruption-concerns-2026-03-13%2f&amp;c=17607287219137365340&amp;mkt=en-us",
+        "pubDate": "Fri, 13 Mar 2026 01:19:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Vietnam produces world's largest trade surplus with US, Jan data shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b476de8b4b4734a694f09fdacb9877&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fvietnam-produces-worlds-largest-trade-surplus-with-us-jan-data-shows-2026-03-13%2f&amp;c=12170275793977267757&amp;mkt=en-us",
+        "pubDate": "Thu, 12 Mar 2026 22:11:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
+      {
+        "title": "NFL, Paramount discussing media deal that could mean CBS pays an extra $1 billion or more",
+        "link": "https://www.cnbc.com/2026/03/13/nfl-media-deal-paramount.html",
+        "pubDate": "Fri, 13 Mar 2026 20:04:42 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Nvidia&apos;s GTC will mark an AI chip pivot. Here&apos;s why the CPU is taking center stage",
+        "link": "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html",
+        "pubDate": "Fri, 13 Mar 2026 19:00:52 GMT",
+        "category": "tech"
+      },
       {
         "title": "These stocks will benefit from AI and an aging population, Jefferies says. They also pay dividends",
         "link": "https://www.cnbc.com/2026/03/13/these-dividend-stocks-will-benefit-from-ai-and-an-aging-population-jefferies-says.html",
         "pubDate": "Fri, 13 Mar 2026 18:04:20 GMT",
         "category": "us"
+      },
+      {
+        "title": "Inside JPMorgan Chase&apos;s push to become the startup world\u2019s new Silicon Valley Bank",
+        "link": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html",
+        "pubDate": "Fri, 13 Mar 2026 18:02:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dividend stocks are catching up to tech stocks on a key earnings metric at a critical time for the market",
+        "link": "https://www.cnbc.com/2026/03/13/dividend-stocks-tech-earnings-growth-market.html",
+        "pubDate": "Fri, 13 Mar 2026 16:56:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Adobe, Ulta Beauty, Insulet, Klarna, Once Upon a Farm &amp; more",
+        "link": "https://www.cnbc.com/2026/03/13/stocks-making-the-biggest-moves-midday-adbe-ulta-podd-klar-ofrm.html",
+        "pubDate": "Fri, 13 Mar 2026 16:40:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Lobster buffet: China\u2019s tech firms feast on OpenClaw as companies race to deploy AI agents",
+        "link": "https://www.cnbc.com/2026/03/12/china-openclaw-ai-agent-adoption-tech-companies-government-support-lobster-shrimp.html",
+        "pubDate": "Thu, 12 Mar 2026 23:31:34 GMT",
+        "category": "Top News"
       }
     ]
   }
