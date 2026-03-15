@@ -1,21 +1,38 @@
 {
-  "updated_at": "2026-03-15T10:38:43.526889",
+  "updated_at": "2026-03-15T13:08:41.205830",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Sharks visit the Senators after Celebrini\u2019s 2-goal game",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bdebe8644a5bcc92ef3d052a67d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsan-jose-sharks-ottawa-senators-montreal-canadiens-1f3f8ab699a449ef871c2c2156650451&amp;c=4125174787591131815&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 01:10:00 GMT",
+        "title": "Congress and the White House are taking different paths to address housing prices",
+        "link": "https://www.npr.org/2026/03/15/nx-s1-5747417/congress-and-the-white-house-are-taking-different-paths-to-address-housing-prices",
+        "pubDate": "Sun, 15 Mar 2026 08:10:03 -0400",
+        "category": "business"
+      },
+      {
+        "title": "How the U.S. is using AI in the war in Iran",
+        "link": "https://www.npr.org/2026/03/15/nx-s1-5745863/how-the-u-s-is-using-ai-in-the-war-in-iran",
+        "pubDate": "Sun, 15 Mar 2026 08:09:57 -0400",
         "category": "tech"
       },
       {
-        "title": "After attacks on Iran\u2019s oil facilities, toxic black rain endangers the public",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68be92a5f4b7fa327a598b61bf0d1&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-black-rain-pollution-d5f67db4a772775c83dfa3fd303cf25d&amp;c=6863259847582939988&amp;mkt=en-us",
-        "pubDate": "Sat, 14 Mar 2026 23:50:00 GMT",
-        "category": "health"
-      }
-    ],
-    "npr": [
+        "title": "As the U.S. population ages rapidly, meet the people stepping up to offer care",
+        "link": "https://www.npr.org/2026/03/15/nx-s1-5704685/as-the-u-s-population-ages-rapidly-meet-the-people-stepping-up-to-offer-care",
+        "pubDate": "Sun, 15 Mar 2026 08:09:46 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Israeli soldiers fire on family car in occupied West Bank, killing 4",
+        "link": "https://www.npr.org/2026/03/15/g-s1-113834/israeli-soldiers-fire-on-family-car-in-occupied-west-bank-killing-4",
+        "pubDate": "Sun, 15 Mar 2026 07:41:22 -0400",
+        "category": "world"
+      },
+      {
+        "title": "U.S. military names six killed in plane crash as Iran war enters third week",
+        "link": "https://www.npr.org/2026/03/15/nx-s1-5748472/us-military-six-killed-iran-war",
+        "pubDate": "Sun, 15 Mar 2026 07:00:08 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Why the Chicago Bears could be moving to Indiana",
         "link": "https://www.npr.org/2026/03/14/g-s1-113826/why-the-chicago-bears-could-be-moving-to-indiana",
@@ -26,62 +43,38 @@
         "title": "Pentagon tightens controls over Stars and Stripes after calling it &quot;woke&quot;",
         "link": "https://www.npr.org/2026/03/14/nx-s1-5748020/pentagon-tightens-controls-over-stars-and-stripes-after-calling-it-woke",
         "pubDate": "Sat, 14 Mar 2026 18:18:02 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Reactions from the hometown of man who attacked the synagogue in Michigan",
-        "link": "https://www.npr.org/2026/03/14/nx-s1-5747965/reactions-from-the-hometown-of-michigan-synagogue-attacker",
-        "pubDate": "Sat, 14 Mar 2026 16:57:31 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Russian strike on Kyiv region kills 4 and wounds 15, with peace talks stalled",
         "link": "https://www.npr.org/2026/03/14/nx-s1-5747959/russian-strike-kyiv-region",
         "pubDate": "Sat, 14 Mar 2026 11:35:42 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "In South Carolina, measles shows how far apart neighbors can be on vaccines",
-        "link": "https://www.npr.org/2026/03/14/nx-s1-5734051/measles-outbreak-parents-south-carolina-vaccines",
-        "pubDate": "Sat, 14 Mar 2026 08:42:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Brazil&apos;s ex-President Bolsonaro is in intensive care with pneumonia, hospital says",
-        "link": "https://www.npr.org/2026/03/14/nx-s1-5747897/brazils-ex-president-bolsonaro-intensive-care-pneumonia",
-        "pubDate": "Sat, 14 Mar 2026 08:24:12 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Opinion: An ancient, sophisticated palate",
-        "link": "https://www.npr.org/2026/03/14/nx-s1-5741107/opinion-an-ancient-sophisticated-palate",
-        "pubDate": "Sat, 14 Mar 2026 08:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Why women have an especially tough time in Senegal&apos;s prisons",
-        "link": "https://www.npr.org/2026/03/14/g-s1-113432/prisoners-women-jails-senegal",
-        "pubDate": "Sat, 14 Mar 2026 07:46:05 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A group of friends grew tired of the club scene. They started a monthly dance party",
-        "link": "https://www.npr.org/2026/03/14/nx-s1-5739209/a-group-of-friends-grew-tired-of-the-club-scene-they-started-a-monthly-dance-party",
-        "pubDate": "Sat, 14 Mar 2026 07:42:51 -0400",
-        "category": "us"
       }
     ],
     "bbc": [
       {
-        "title": "William shares unseen photo of Princess Diana for Mother's Day",
-        "link": "https://www.bbc.com/news/articles/cgjz9zx3xl5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Mar 2026 10:33:49 GMT",
+        "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+        "link": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Mar 2026 12:00:35 GMT",
         "category": "Top News"
       },
       {
         "title": "UK must build own nuclear missiles to end reliance on US, say Lib Dems",
         "link": "https://www.bbc.com/news/articles/cy0dz1k0rr4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Mar 2026 10:11:18 GMT",
+        "pubDate": "Sun, 15 Mar 2026 11:54:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "We will intervene on energy bills if necessary, says Miliband",
+        "link": "https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Mar 2026 11:42:38 GMT",
+        "category": "business"
+      },
+      {
+        "title": "William shares unseen photo of Princess Diana for Mother's Day",
+        "link": "https://www.bbc.com/news/articles/cgjz9zx3xl5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Mar 2026 11:00:27 GMT",
         "category": "Top News"
       },
       {
@@ -97,15 +90,9 @@
         "category": "us"
       },
       {
-        "title": "Banknotes, beavers and a very British backlash",
-        "link": "https://www.bbc.com/news/articles/cy03zy1lr8go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Mar 2026 00:51:10 GMT",
-        "category": "business"
-      },
-      {
-        "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-        "link": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Mar 2026 00:01:31 GMT",
+        "title": "An eccentric new friend entered her life. Then things took a strange, expensive turn",
+        "link": "https://www.bbc.com/news/articles/c5yvpl9jlpeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Mar 2026 00:42:18 GMT",
         "category": "Top News"
       },
       {
@@ -125,81 +112,45 @@
         "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 14 Mar 2026 22:55:40 GMT",
         "category": "world"
-      },
-      {
-        "title": "Three more Iran football team members change minds over asylum",
-        "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 14 Mar 2026 20:48:55 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
         "title": "US airline CEOs urge Congress to end standoff, pay airport security officers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bfc8daa4534957ef38b56a30388&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-airline-ceos-urge-congress-end-standoff-pay-airport-security-officers-2026-03-15%2f&amp;c=7507331903961314576&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6af129dd94cddabdf6a56e00639f5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-airline-ceos-urge-congress-end-standoff-pay-airport-security-officers-2026-03-15%2f&amp;c=7507331903961314576&amp;mkt=en-us",
         "pubDate": "Sun, 15 Mar 2026 02:03:00 GMT",
         "category": "us"
       },
       {
-        "title": "Uganda opposition leader Bobi Wine says he has left country after disputed vote",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bec40704cd593f76532840b02d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fuganda-opposition-leader-bobi-wine-says-he-has-left-country-after-disputed-vote-2026-03-15%2f&amp;c=11097850591501736820&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 02:01:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Business News | Today's International Headlines | Reuters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bfda7ad411bbd3cf273bc351517&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6af13345c400a81ede9b6416fc6c4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
         "pubDate": "Sun, 15 Mar 2026 01:13:00 GMT",
         "category": "business"
       },
       {
-        "title": "Oil poised for further gains as Middle East conflict threatens export facilities",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bec40704cd593f76532840b02d8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15%2f&amp;c=8757912906030597198&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 01:13:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Zelenskiy says Ukraine wants money, technology in return for Middle East drone help",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bec40704cd593f76532840b02d8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fzelenskiy-says-ukraine-wants-money-technology-return-middle-east-drone-help-2026-03-15%2f&amp;c=11915182328631034394&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 00:52:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Japan to release oil stocks as US says buy American",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bec40704cd593f76532840b02d8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fjapan-release-oil-stocks-us-says-buy-american-2026-03-15%2f&amp;c=12582410658734175330&amp;mkt=en-us",
-        "pubDate": "Sat, 14 Mar 2026 23:52:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Israeli forces kill Palestinian parents, two children, in West Bank, medics say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bec40704cd593f76532840b02d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-forces-kill-four-palestinians-west-bank-palestinian-health-authorities-2026-03-15%2f&amp;c=2561831723903107777&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6af23b0b24fdf8e37b35fa00841ca&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-forces-kill-four-palestinians-west-bank-palestinian-health-authorities-2026-03-15%2f&amp;c=2561831723903107777&amp;mkt=en-us",
         "pubDate": "Sat, 14 Mar 2026 21:42:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "French mayoral elections gauge far-right strength before presidential ballot",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bec40704cd593f76532840b02d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ffrench-mayoral-elections-gauge-far-right-strength-before-presidential-ballot-2026-03-15%2f&amp;c=5223824755600918473&amp;mkt=en-us",
-        "pubDate": "Sat, 14 Mar 2026 17:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US, China economic chiefs meet in Paris to clear path to Trump-Xi summit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bec40704cd593f76532840b02d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-china-economic-chiefs-meet-paris-clear-path-trump-xi-summit-2026-03-15%2f&amp;c=5079256564884862464&amp;mkt=en-us",
-        "pubDate": "Sat, 14 Mar 2026 16:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "WADA refutes report it is mulling rule that could bar US officials from LA Olympics",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b68bec40704cd593f76532840b02d8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fwada-refutes-report-it-is-mulling-rule-that-could-bar-us-officials-la-olympics--flm-2026-03-14%2f&amp;c=4602894962775523698&amp;mkt=en-us",
-        "pubDate": "Sat, 14 Mar 2026 11:08:00 GMT",
-        "category": "Top News"
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Iran threatens to retaliate against neighbors; Trump urges countries to assist in securing Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
-        "pubDate": "Sat, 14 Mar 2026 22:38:48 GMT",
+        "title": "Top Wall Street analysts are bullish on these 3 dividend-paying energy stocks",
+        "link": "https://www.cnbc.com/2026/03/15/top-wall-street-analysts-are-bullish-on-these-3-dividend-paying-energy-stocks.html",
+        "pubDate": "Sun, 15 Mar 2026 11:42:17 GMT",
+        "category": "us"
+      },
+      {
+        "title": "OpenClaw breathes new life into this Chinese tech stock ahead of earnings",
+        "link": "https://www.cnbc.com/2026/03/15/openclaw-breathes-new-life-into-this-chinese-tech-stock-ahead-of-earnings.html",
+        "pubDate": "Sun, 15 Mar 2026 11:38:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran vows to kill Israel&apos;s Netanyahu as impact of war on Gulf region widens",
+        "link": "https://www.cnbc.com/2026/03/15/iran-war.html",
+        "pubDate": "Sun, 15 Mar 2026 11:05:41 GMT",
         "category": "world"
       },
       {
@@ -207,18 +158,6 @@
         "link": "https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html",
         "pubDate": "Sat, 14 Mar 2026 15:00:01 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Peruvian stocks: Why they may be an unexpected winner of the AI boom, Iran war",
-        "link": "https://www.cnbc.com/2026/03/14/peruvian-stocks-why-they-may-be-an-unexpected-winner-of-the-ai-boom-iran-war.html",
-        "pubDate": "Sat, 14 Mar 2026 13:23:09 GMT",
-        "category": "us"
-      },
-      {
-        "title": "A Paramount-Warner Bros. movie slate could rule the 2027 box office, but is it sustainable?",
-        "link": "https://www.cnbc.com/2026/03/14/paramount-wbd-2027-movie-slate.html",
-        "pubDate": "Sat, 14 Mar 2026 11:00:01 GMT",
-        "category": "business"
       }
     ]
   }
