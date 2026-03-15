@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T14:40:08.892685",
+  "updated_at": "2026-03-15T16:40:27.266178",
   "news": {
     "ap": [],
     "npr": [
@@ -56,15 +56,15 @@
         "link": "https://www.npr.org/2026/03/14/nx-s1-5747965/lebanon-michigan-synagogue-attack",
         "pubDate": "Sat, 14 Mar 2026 16:57:31 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Russian strike on Kyiv region kills 4 and wounds 15, with peace talks stalled",
-        "link": "https://www.npr.org/2026/03/14/nx-s1-5747959/russian-strike-kyiv-region",
-        "pubDate": "Sat, 14 Mar 2026 11:35:42 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "UK looking at 'any options' to secure key oil route through Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Mar 2026 16:13:37 GMT",
+        "category": "Top News"
+      },
       {
         "title": "'I have four months left to preserve my fertility'",
         "link": "https://www.bbc.com/news/articles/cy4wxwqevp8o?at_medium=RSS&amp;at_campaign=rss",
@@ -72,21 +72,9 @@
         "category": "health"
       },
       {
-        "title": "UK looking at 'any options' to secure key oil route through Strait of Hormuz",
-        "link": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Mar 2026 13:28:29 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Police share details of tattoos as they trace man found dead in bin",
         "link": "https://www.bbc.com/news/articles/cly0dpl0438o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 15 Mar 2026 13:02:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
-        "link": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Mar 2026 12:00:35 GMT",
         "category": "Top News"
       },
       {
@@ -120,6 +108,12 @@
         "category": "Top News"
       },
       {
+        "title": "Sculpting jaws, giving scores: Inside the world of looksmaxxing",
+        "link": "https://www.bbc.com/news/articles/cx28z4zypkno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 15 Mar 2026 00:01:21 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
         "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 14 Mar 2026 22:55:40 GMT",
@@ -128,66 +122,79 @@
     ],
     "reuters": [
       {
+        "title": "Man United tighten hold on third in the Premier League with win over Villa",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6e0d25684420db1507e3ad1be01ec&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fman-united-tighten-hold-third-premier-league-with-win-over-villa-2026-03-15%2f&amp;c=14792403644519178737&amp;mkt=en-us",
+        "pubDate": "Sun, 15 Mar 2026 08:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three Iran women soccer players decide to go home not seek asylum",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6e0d25684420db1507e3ad1be01ec&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW417015032026RP1%2f&amp;c=12487281005754608290&amp;mkt=en-us",
+        "pubDate": "Sun, 15 Mar 2026 08:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Business News | Today's International Headlines | Reuters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6e0e66042446e8ce18e3360ecec07&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
+        "pubDate": "Sun, 15 Mar 2026 07:22:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Asia-Pacific allies ink $57 billion in deals with US companies, Burgum says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6e0d25684420db1507e3ad1be01ec&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fasia-pacific-allies-ink-57-billion-deals-with-us-companies-burgum-says-2026-03-15%2f&amp;c=1387811675811024415&amp;mkt=en-us",
+        "pubDate": "Sun, 15 Mar 2026 07:22:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Thiel's secretive Rome conference draws Church attention",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6c438eaa4483cbdeab1748bcb6ba3&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fthiels-secretive-rome-conference-draws-church-attention-2026-03-15%2f&amp;c=13865712952583919884&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6e0d25684420db1507e3ad1be01ec&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fthiels-secretive-rome-conference-draws-church-attention-2026-03-15%2f&amp;c=13865712952583919884&amp;mkt=en-us",
         "pubDate": "Sun, 15 Mar 2026 06:02:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Shiffrin extends World Cup overall lead with slalom win",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6c43962074ab18819d0748f95881d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fshiffrin-extends-world-cup-overall-lead-with-slalom-win-2026-03-15%2f&amp;c=12027696138721665852&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6e0d2c4df4643a5ff277efd900e9d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fshiffrin-extends-world-cup-overall-lead-with-slalom-win-2026-03-15%2f&amp;c=12027696138721665852&amp;mkt=en-us",
         "pubDate": "Sun, 15 Mar 2026 04:56:00 GMT",
         "category": "world"
       },
       {
-        "title": "Iran holds the key to reopening global energy markets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6c438eaa4483cbdeab1748bcb6ba3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2firan-holds-key-reopening-global-energy-markets-2026-03-15%2f&amp;c=2506963882029962449&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 04:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran arrests dozens of people accused of being informants for Israel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6c438eaa4483cbdeab1748bcb6ba3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-arrests-dozens-people-accused-being-informants-israel-2026-03-15%2f&amp;c=5748690214611618057&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 03:35:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "US airline CEOs urge Congress to end standoff, pay airport security officers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6c438eaa4483cbdeab1748bcb6ba3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-airline-ceos-urge-congress-end-standoff-pay-airport-security-officers-2026-03-15%2f&amp;c=7507331903961314576&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6e0d25684420db1507e3ad1be01ec&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-airline-ceos-urge-congress-end-standoff-pay-airport-security-officers-2026-03-15%2f&amp;c=7507331903961314576&amp;mkt=en-us",
         "pubDate": "Sun, 15 Mar 2026 02:03:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Business News | Today's International Headlines | Reuters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6c454f4134a1fa3466e77fcf1f69d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 01:13:00 GMT",
-        "category": "business"
-      },
-      {
         "title": "Oil poised for further gains as Middle East conflict threatens export facilities",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6c438eaa4483cbdeab1748bcb6ba3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15%2f&amp;c=8757912906030597198&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6e0d25684420db1507e3ad1be01ec&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15%2f&amp;c=8757912906030597198&amp;mkt=en-us",
         "pubDate": "Sun, 15 Mar 2026 01:13:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Zelenskiy says Ukraine wants money, technology in return for Middle East drone help",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6c438eaa4483cbdeab1748bcb6ba3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fzelenskiy-says-ukraine-wants-money-technology-return-middle-east-drone-help-2026-03-15%2f&amp;c=11915182328631034394&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6e0e6c9a346feba9b896cd699f155&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fzelenskiy-says-ukraine-wants-money-technology-return-middle-east-drone-help-2026-03-15%2f&amp;c=11915182328631034394&amp;mkt=en-us",
         "pubDate": "Sun, 15 Mar 2026 00:52:00 GMT",
-        "category": "Top News"
+        "category": "tech"
       },
       {
-        "title": "Israeli forces kill Palestinian parents, two children, in West Bank, medics say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6c438eaa4483cbdeab1748bcb6ba3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-forces-kill-four-palestinians-west-bank-palestinian-health-authorities-2026-03-15%2f&amp;c=2561831723903107777&amp;mkt=en-us",
+        "title": "Israeli forces kill 16 people in Gaza and the West Bank, medics say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6e0e796184ef6997faf97d352e21b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-forces-kill-four-palestinians-west-bank-palestinian-health-authorities-2026-03-15%2f&amp;c=2561831723903107777&amp;mkt=en-us",
         "pubDate": "Sat, 14 Mar 2026 21:42:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump warns of more strikes on Iran's Kharg Island, pressures allies to secure oil chokepoint",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b6c438eaa4483cbdeab1748bcb6ba3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-calls-allies-help-secure-strait-hormuz-iran-vows-step-up-retaliation-2026-03-15%2f&amp;c=10876664949128160941&amp;mkt=en-us",
-        "pubDate": "Sat, 14 Mar 2026 16:01:00 GMT",
-        "category": "Top News"
+        "category": "health"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Trump weighing options to strike Iran&apos;s critical oil hub, UN Ambassador Waltz says",
+        "link": "https://www.cnbc.com/2026/03/15/iran-war.html",
+        "pubDate": "Sun, 15 Mar 2026 15:56:50 GMT",
+        "category": "world"
+      },
+      {
+        "title": "OpenClaw breathes new life into this Chinese tech stock ahead of earnings",
+        "link": "https://www.cnbc.com/2026/03/15/openclaw-breathes-new-life-into-this-chinese-tech-stock-ahead-of-earnings.html",
+        "pubDate": "Sun, 15 Mar 2026 11:38:03 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
