@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-03-16T11:03:10.246588",
+  "updated_at": "2026-03-16T13:29:21.910783",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Poland is now among the world\u2019s 20 largest economies. How did it happen?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8050e3bff49c7ac36b01b04134060&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpoland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa&amp;c=5919184695334168080&amp;mkt=en-us",
+        "pubDate": "Mon, 16 Mar 2026 04:46:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
       {
-        "title": "Washington Post&apos;s David Ignatius says war on Iran won&apos;t change the country&apos;s regime",
-        "link": "https://www.npr.org/2026/03/16/nx-s1-5745888/washington-posts-david-ignatius-says-war-on-iran-wont-change-the-countrys-regime",
-        "pubDate": "Mon, 16 Mar 2026 06:51:05 -0400",
+        "title": "Senate prepares to vote on Trump&apos;s SAVE Act. And, takeaways from last night&apos;s Oscars",
+        "link": "https://www.npr.org/2026/03/16/g-s1-113909/up-first-newsletter-middle-east-war-trump-voting-act-academy-awards",
+        "pubDate": "Mon, 16 Mar 2026 07:28:21 -0400",
         "category": "world"
       },
       {
@@ -16,8 +23,8 @@
         "category": "us"
       },
       {
-        "title": "As parents clamor for a treatment touted for autism, doctors hesitate to prescribe it",
-        "link": "https://www.npr.org/2026/03/16/nx-s1-5742676/leucovorin-autism-parents-treatment-prescribe",
+        "title": "Influencers push &apos;parasite cleanses&apos; but doctors say to steer clear",
+        "link": "https://www.npr.org/2026/03/16/nx-s1-5745200/parasite-cleanse-safety-science",
         "pubDate": "Mon, 16 Mar 2026 05:00:00 -0400",
         "category": "health"
       },
@@ -28,8 +35,8 @@
         "category": "Top News"
       },
       {
-        "title": "Influencers push &apos;parasite cleanses&apos; but doctors say to steer clear",
-        "link": "https://www.npr.org/2026/03/16/nx-s1-5745200/parasite-cleanse-safety-science",
+        "title": "As parents clamor for a treatment touted for autism, doctors hesitate to prescribe it",
+        "link": "https://www.npr.org/2026/03/16/nx-s1-5742676/leucovorin-autism-parents-treatment-prescribe",
         "pubDate": "Mon, 16 Mar 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -52,36 +59,54 @@
         "category": "Top News"
       },
       {
-        "title": "Congress and the White House are taking different paths to address housing prices",
-        "link": "https://www.npr.org/2026/03/15/nx-s1-5747417/congress-and-the-white-house-are-taking-different-paths-to-address-housing-prices",
-        "pubDate": "Sun, 15 Mar 2026 08:10:03 -0400",
-        "category": "business"
+        "title": "&apos;One Battle After Another&apos; takes best picture. Here&apos;s the full list of Oscar winners",
+        "link": "https://www.npr.org/2026/03/15/nx-s1-5739287/oscars-2026-winners-list-best-picture-actor-actress",
+        "pubDate": "Sun, 15 Mar 2026 19:24:24 -0400",
+        "category": "Top News"
       },
       {
-        "title": "How the U.S. is using AI in the war in Iran",
-        "link": "https://www.npr.org/2026/03/15/nx-s1-5745863/how-the-u-s-is-using-ai-in-the-war-in-iran",
-        "pubDate": "Sun, 15 Mar 2026 08:09:57 -0400",
-        "category": "tech"
+        "title": "Selection Sunday: Duke No. 1 overall in men&apos;s tournament, UConn women get top seed",
+        "link": "https://www.npr.org/2026/03/15/g-s1-113846/selection-sunday-march-madness-duke-uconn-ucla",
+        "pubDate": "Sun, 15 Mar 2026 17:09:34 -0400",
+        "category": "Top News"
       }
     ],
     "bbc": [
       {
         "title": "Starmer announces \u00a353m support to help with heating oil costs",
         "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 16 Mar 2026 10:56:41 GMT",
+        "pubDate": "Mon, 16 Mar 2026 13:06:43 GMT",
         "category": "business"
+      },
+      {
+        "title": "Iran hits key UAE oil port and Dubai airport",
+        "link": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 16 Mar 2026 12:43:32 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Firms urged to check if other users edited their data on Companies House",
+        "link": "https://www.bbc.com/news/articles/c5y41p0dy1wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 16 Mar 2026 12:19:09 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Alcohol-free beer and houmous used to measure inflation as UK shifts to healthier living",
+        "link": "https://www.bbc.com/news/articles/c8eg3g4lklno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 16 Mar 2026 12:14:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Key Oscars moments as snubbed Chalamet becomes butt of jokes",
+        "link": "https://www.bbc.com/news/articles/cp9mg90k78eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 16 Mar 2026 10:32:03 GMT",
+        "category": "Top News"
       },
       {
         "title": "What are the symptoms of meningitis and is there a vaccine?",
         "link": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 16 Mar 2026 10:00:57 GMT",
         "category": "health"
-      },
-      {
-        "title": "Alcohol-free beer and houmous used to measure inflation as UK shifts to healthier living",
-        "link": "https://www.bbc.com/news/articles/c8eg3g4lklno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 16 Mar 2026 09:30:34 GMT",
-        "category": "Top News"
       },
       {
         "title": "Travelodge changes policy after attacker given room key",
@@ -96,28 +121,10 @@
         "category": "Top News"
       },
       {
-        "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-        "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 16 Mar 2026 05:14:45 GMT",
-        "category": "world"
-      },
-      {
         "title": "Jessie Buckley, Michael B Jordan and One Battle After Another reign at Oscars",
         "link": "https://www.bbc.com/news/articles/c9v0zzzwjzvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 16 Mar 2026 04:00:58 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "In pictures: Stars and fashion from the red carpet",
-        "link": "https://www.bbc.com/news/articles/cd9g331v315o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 16 Mar 2026 03:46:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Race on to establish globally recognised 'AI-free' logo",
-        "link": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 16 Mar 2026 00:32:50 GMT",
-        "category": "tech"
       },
       {
         "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
@@ -126,38 +133,19 @@
         "category": "us"
       }
     ],
-    "reuters": [
-      {
-        "title": "Middle East war disrupts pharma air routes, risks cancer drugs supply",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7e332c90a4431a4a9c2568ba2498f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fmiddle-east-war-disrupts-pharma-air-routes-risks-cancer-drugs-supply-2026-03-16%2f&amp;c=8381776232634812631&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 22:03:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "US, China seek to wrap Paris talks on managed trade, agriculture deals for Xi-Trump summit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7e3131e3f4177a2462bf810b1b535&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-china-seek-wrap-paris-talks-managed-trade-agriculture-deals-xi-trump-summit-2026-03-16%2f&amp;c=4516039655137404595&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 17:03:00 GMT",
-        "category": "us"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Holiday spending, export demand drive China\u2019s economic momentum as Iran war headwinds loom",
-        "link": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html",
-        "pubDate": "Mon, 16 Mar 2026 06:11:06 GMT",
-        "category": "Top News"
+        "title": "U.S. is allowing Iranian oil tankers through Strait of Hormuz, says Bessent",
+        "link": "https://www.cnbc.com/2026/03/16/us-is-allowing-iranian-tankers-through-strait-of-hormuz-says-bessent.html",
+        "pubDate": "Mon, 16 Mar 2026 13:17:10 GMT",
+        "category": "world"
       },
       {
-        "title": "China talks up oil sufficiency as Trump seeks Beijing&apos;s help on securing Hormuz energy route",
-        "link": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html",
-        "pubDate": "Mon, 16 Mar 2026 06:02:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "OpenClaw breathes new life into this Chinese tech stock ahead of earnings",
-        "link": "https://www.cnbc.com/2026/03/15/openclaw-breathes-new-life-into-this-chinese-tech-stock-ahead-of-earnings.html",
-        "pubDate": "Sun, 15 Mar 2026 11:38:03 GMT",
-        "category": "Top News"
+        "title": "Oil continues to rise, the Federal Reserve, Nvidia&apos;s big week and more in Morning Squawk",
+        "link": "https://www.cnbc.com/2026/03/16/5-things-to-know-before-the-market-opens.html",
+        "pubDate": "Mon, 16 Mar 2026 12:09:30 GMT",
+        "category": "tech"
       }
     ]
   }
