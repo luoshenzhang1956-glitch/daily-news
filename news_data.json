@@ -1,26 +1,56 @@
 {
-  "updated_at": "2026-03-16T07:28:27.428394",
+  "updated_at": "2026-03-16T09:07:18.778402",
   "news": {
     "ap": [
       {
         "title": "How Poland went from post-Communist wreck to one of the world\u2019s 20 biggest economies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0bba31542a2a5afa390261199e1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpoland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa&amp;c=5919184695334168080&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 00:03:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7c7899f104e6d8c81c20e6dae2f04&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpoland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa&amp;c=5919184695334168080&amp;mkt=en-us",
+        "pubDate": "Mon, 16 Mar 2026 01:19:00 GMT",
         "category": "world"
       },
       {
-        "title": "Severe storms pummel parts of US with snow and high winds and raise tornado threat",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0bc0f6445d5be7f0b0daa933e20&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsevere-weather-storm-snow-east-coast-a8bbd037aba99aaf0cc930e91fdb72ca&amp;c=15217296157085646075&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 21:32:00 GMT",
-        "category": "us"
+        "title": "After attacks on Iran\u2019s oil facilities, toxic black rain endangers the public",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7c7b3de354757ac0caf3913dc74d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-black-rain-pollution-d5f67db4a772775c83dfa3fd303cf25d&amp;c=6863259847582939988&amp;mkt=en-us",
+        "pubDate": "Sun, 15 Mar 2026 09:40:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
       {
+        "title": "Oil and gas prices are soaring. Some countries are ready with solar panels and EVs",
+        "link": "https://www.npr.org/2026/03/16/nx-s1-5732984/energy-iran-war-solar-pakistan-crisis-renewable-evs",
+        "pubDate": "Mon, 16 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "As parents clamor for a treatment touted for autism, doctors hesitate to prescribe it",
+        "link": "https://www.npr.org/2026/03/16/nx-s1-5742676/leucovorin-autism-parents-treatment-prescribe",
+        "pubDate": "Mon, 16 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/03/16/nx-s1-5745736/morning-news-brief",
+        "pubDate": "Mon, 16 Mar 2026 04:34:07 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Influencers push &apos;parasite cleanses&apos; but doctors say to steer clear",
+        "link": "https://www.npr.org/2026/03/16/nx-s1-5745200/influencers-push-parasite-cleanses-but-doctors-say-to-steer-clear",
+        "pubDate": "Mon, 16 Mar 2026 04:33:45 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Hungary&apos;s longtime prime minister rallies to keep seat as rival calls for a new era",
+        "link": "https://www.npr.org/2026/03/16/nx-s1-5744790/hungarys-longtime-prime-minister-rallies-to-keep-seat-as-rival-calls-for-a-new-era",
+        "pubDate": "Mon, 16 Mar 2026 04:33:39 -0400",
+        "category": "world"
+      },
+      {
         "title": "5th member of Iranian women&apos;s soccer team gives up asylum in Australia",
         "link": "https://www.npr.org/2026/03/16/g-s1-113899/5th-member-of-iranian-womens-soccer-team-gives-up-asylum-in-australia",
         "pubDate": "Mon, 16 Mar 2026 02:18:35 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "5 takeaways from an Oscars night that spread the love",
@@ -29,22 +59,10 @@
         "category": "Top News"
       },
       {
-        "title": "&apos;One Battle After Another&apos; takes best picture. Here&apos;s the full list of Oscar winners",
-        "link": "https://www.npr.org/2026/03/15/nx-s1-5739287/oscars-2026-winners-list-best-picture-actor-actress",
-        "pubDate": "Sun, 15 Mar 2026 19:24:24 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Selection Sunday: Duke No. 1 overall in men&apos;s tournament, UConn women get top seed",
         "link": "https://www.npr.org/2026/03/15/g-s1-113846/selection-sunday-march-madness-duke-uconn-ucla",
         "pubDate": "Sun, 15 Mar 2026 17:09:34 -0400",
         "category": "us"
-      },
-      {
-        "title": "Severe storms pummel parts of U.S. with snow, high winds, and risk of tornados",
-        "link": "https://www.npr.org/2026/03/15/g-s1-113841/snow-and-wind-batter-parts-of-us-with-threat-of-thunderstorms-and-tornadoes",
-        "pubDate": "Sun, 15 Mar 2026 13:41:04 -0400",
-        "category": "Top News"
       },
       {
         "title": "Congress and the White House are taking different paths to address housing prices",
@@ -57,27 +75,15 @@
         "link": "https://www.npr.org/2026/03/15/nx-s1-5745863/how-the-u-s-is-using-ai-in-the-war-in-iran",
         "pubDate": "Sun, 15 Mar 2026 08:09:57 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Texas&apos;s state animals, armadillos, are making North Carolina their home",
-        "link": "https://www.npr.org/2026/03/15/nx-s1-5745031/texass-state-animals-armadillos-are-making-north-carolina-their-home",
-        "pubDate": "Sun, 15 Mar 2026 08:09:56 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Israeli soldiers fire on family car in occupied West Bank, killing 4",
-        "link": "https://www.npr.org/2026/03/15/g-s1-113834/israeli-soldiers-fire-on-family-car-in-occupied-west-bank-killing-4",
-        "pubDate": "Sun, 15 Mar 2026 07:41:22 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;We never asked for a ceasefire,&apos; says Iran&apos;s foreign minister, as war keeps raging",
-        "link": "https://www.npr.org/2026/03/15/nx-s1-5748472/us-military-six-killed-iran-war",
-        "pubDate": "Sun, 15 Mar 2026 07:00:08 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Starmer to set out support plan for heating oil costs",
+        "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 16 Mar 2026 08:21:04 GMT",
+        "category": "business"
+      },
       {
         "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
         "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&amp;at_campaign=rss",
@@ -109,7 +115,7 @@
         "category": "Top News"
       },
       {
-        "title": "Historic firsts, risqu\u00e9 jokes, and a tie: watch the top Oscar moments",
+        "title": "Historic firsts, emotional speeches, and a tie: Watch the top Oscars moments",
         "link": "https://www.bbc.com/news/videos/cedzq0q6x5lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 16 Mar 2026 03:15:43 GMT",
         "category": "Top News"
@@ -121,15 +127,9 @@
         "category": "health"
       },
       {
-        "title": "Starmer to set out support plan for heating oil costs",
-        "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Mar 2026 23:10:19 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Uni student among two dead in Kent meningitis outbreak",
-        "link": "https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 15 Mar 2026 21:50:56 GMT",
+        "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+        "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 16 Mar 2026 00:31:48 GMT",
         "category": "Top News"
       },
       {
@@ -139,81 +139,7 @@
         "category": "us"
       }
     ],
-    "reuters": [
-      {
-        "title": "UK's Standard Life beats profit estimates on strength in pensions and savings business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0fb053e41ac92047e671ec55321&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fuks-standard-life-beats-profit-estimates-strength-pensions-savings-business-2026-03-16%2f&amp;c=14495318842162617183&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 23:08:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "UniCredit makes takeover bid for Commerzbank",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0e973e8488980158324806eb4bc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2funicredit-makes-takeover-bid-commerzbank-2026-03-16%2f&amp;c=7729280096660475826&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 23:05:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Former French President Sarkozy's appeal against conspiracy conviction opens",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0e973e8488980158324806eb4bc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fformer-french-president-sarkozys-appeal-against-conspiracy-conviction-opens-2026-03-16%2f&amp;c=16558844750270924287&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 23:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Spurred by Gulf war, Alaska LNG aims for go-ahead decisions in 2026-27 and exports in 2031",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0e973e8488980158324806eb4bc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fspurred-by-gulf-war-alaska-lng-aims-go-ahead-decisions-2026-27-exports-2031-2026-03-16%2f&amp;c=18186730742970051703&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 22:51:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "AFC has received no notification from Iran on World Cup withdrawal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0ea8875405592c30643d7fa53fa&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fafc-has-received-no-notification-iran-world-cup-withdrawal-2026-03-16%2f&amp;c=15477104750433836276&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 22:40:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Exclusive: US 'pro-family' group worked with Senegal activists pushing anti-LGBT law",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0ebd3994b4b9a233c3f78a2da38&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsociety-equity%2fus-pro-family-group-worked-with-senegal-activists-pushing-anti-lgbt-law-2026-03-16%2f&amp;c=8236461724709086673&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 22:33:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "China tech's old guard lose their AI thunder",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0fb8f2e4f5aa8df0148f70b9a5b&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2fbreakingviews%2fchina-techs-old-guard-lose-their-ai-thunder-2026-03-16%2f&amp;c=3710510673044115384&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 18:33:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "US, China seek to wrap Paris talks on managed trade, agriculture deals for Xi-Trump summit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0e973e8488980158324806eb4bc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-china-seek-wrap-paris-talks-managed-trade-agriculture-deals-xi-trump-summit-2026-03-16%2f&amp;c=4516039655137404595&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 17:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: Iran wants 'serious review' of Gulf ties, denies role in Saudi oil attacks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0e973e8488980158324806eb4bc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-wants-serious-review-arab-gulf-ties-denies-role-saudi-oil-attacks-2026-03-15%2f&amp;c=11220787367929827820&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 09:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "WHO releases $2 million in emergency funds to Lebanon, Iraq and Syria",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b7b0fc75184bbd8846369039bb611a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fwho-releases-2-million-emergency-funds-lebanon-iraq-syria-2026-03-15%2f&amp;c=5703997922382745586&amp;mkt=en-us",
-        "pubDate": "Sun, 15 Mar 2026 09:18:00 GMT",
-        "category": "health"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
-        "pubDate": "Mon, 16 Mar 2026 04:16:51 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Top Wall Street analysts are bullish on these 3 dividend-paying energy stocks",
-        "link": "https://www.cnbc.com/2026/03/15/top-wall-street-analysts-are-bullish-on-these-3-dividend-paying-energy-stocks.html",
-        "pubDate": "Sun, 15 Mar 2026 11:42:17 GMT",
-        "category": "us"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
