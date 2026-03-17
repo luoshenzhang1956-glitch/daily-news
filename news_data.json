@@ -1,26 +1,44 @@
 {
-  "updated_at": "2026-03-17T05:25:52.907147",
+  "updated_at": "2026-03-17T07:15:32.533919",
   "news": {
     "ap": [
       {
+        "title": "Venezuela rallies past Italy 4-2 with 3-run 7th and will face US for World Baseball Classic title",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8fefaf9a64d3293f03a928cd4e99d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fitaly-venezuela-score-wbc-892a822f7910f7f276d0bc1f8065ae1a&amp;c=14992840914011680221&amp;mkt=en-us",
+        "pubDate": "Mon, 16 Mar 2026 22:31:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Asian shares are mixed and US futures slip as Brent hovers at over $100 a barrel",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8fefc4f1f4e849cd6b962624b487a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-rates-oil-iran-trump-c206d3ca9d54f9cb2c0548eb6bb639d0&amp;c=2715231720569948313&amp;mkt=en-us",
+        "pubDate": "Mon, 16 Mar 2026 21:49:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Trump team applying pressure to media: Tell the war\u2019s story the way we see it",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8e5831c914e1fab26f999915e80c9&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-media-hegseth-carr-fcc-first-amendment-d8bba1bcfa09bd47a9e1523616be480c&amp;c=947432618950814672&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8ff007a2f4170bb96bea946fee184&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-media-hegseth-carr-fcc-first-amendment-d8bba1bcfa09bd47a9e1523616be480c&amp;c=947432618950814672&amp;mkt=en-us",
         "pubDate": "Mon, 16 Mar 2026 21:04:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Oregon QB Dante Moore reveals he has fought depression and seeks support for mental health services",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8e585e60d46e3b881de1ea976cd9f&amp;url=https%3a%2f%2fapnews.com%2farticle%2foregon-dante-moore-4789f921cd46fbd0e65985d6e6a1e9b1&amp;c=8665767550119966387&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 14:04:00 GMT",
-        "category": "health"
+        "title": "Reaching March Madness has been in the Martelli family business for years, and it is booming at VCU",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8feff366b40e08945d9b1d5c05410&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmarch-madness-ncaa-tournament-vcu-philip-martelli-0f7cf2fcc0abe23a89d6e5d5f8b15dcf&amp;c=7712144677469925443&amp;mkt=en-us",
+        "pubDate": "Mon, 16 Mar 2026 11:14:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
       {
+        "title": "Last protester in detention after Trump&apos;s campus crackdown has been released",
+        "link": "https://www.npr.org/2026/03/17/g-s1-114023/last-protester-campus-crackdown-released",
+        "pubDate": "Tue, 17 Mar 2026 02:56:39 -0400",
+        "category": "us"
+      },
+      {
         "title": "Tennessee teens sue Elon Musk&apos;s xAI over AI-generated child sexual abuse material",
         "link": "https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images",
         "pubDate": "Mon, 16 Mar 2026 21:02:37 -0400",
-        "category": "us"
+        "category": "tech"
       },
       {
         "title": "Afghanistan says 400 people killed in Pakistan strike on Kabul hospital",
@@ -69,19 +87,19 @@
         "link": "https://www.npr.org/2026/03/16/nx-s1-5742376/2026-winter-paralympics-highlights-usa-hockey-skiing-snowboarding",
         "pubDate": "Mon, 16 Mar 2026 11:34:45 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Senate prepares to vote on Trump&apos;s SAVE Act. And, takeaways from last night&apos;s Oscars",
-        "link": "https://www.npr.org/2026/03/16/g-s1-113909/up-first-newsletter-middle-east-war-trump-voting-act-academy-awards",
-        "pubDate": "Mon, 16 Mar 2026 07:28:21 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
+        "title": "Dozens killed after Afghanistan rehab centre struck",
         "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 03:17:57 GMT",
+        "pubDate": "Tue, 17 Mar 2026 06:19:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Will Scotland be the first nation in the UK to legalise assisted dying?",
+        "link": "https://www.bbc.com/news/articles/cg5nrv7nm56o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 06:15:03 GMT",
         "category": "Top News"
       },
       {
@@ -109,6 +127,12 @@
         "category": "tech"
       },
       {
+        "title": "Train delay repay rule changes to make claims easier",
+        "link": "https://www.bbc.com/news/articles/ce94k3v3rvro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 00:01:24 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
         "link": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Mar 2026 00:01:17 GMT",
@@ -121,18 +145,6 @@
         "category": "business"
       },
       {
-        "title": "Will Scotland be the first nation in the UK to legalise assisted dying?",
-        "link": "https://www.bbc.com/news/articles/cg5nrv7nm56o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 16 Mar 2026 22:58:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Family 'beyond devastated' by meningitis death as hundreds get antibiotics",
-        "link": "https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 16 Mar 2026 22:28:24 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "What are the symptoms of meningitis and is there a vaccine?",
         "link": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 16 Mar 2026 17:58:38 GMT",
@@ -141,48 +153,36 @@
     ],
     "reuters": [
       {
-        "title": "Iran negotiating with FIFA to move World Cup games to Mexico from US: Iran federation chief",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8e5892b444e3aadf7da60f7fad6d3&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2firan-negotiating-with-fifa-move-world-cup-games-mexico-us-iran-federation-chief-2026-03-17%2f&amp;c=16273474124478818228&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 20:35:00 GMT",
-        "category": "world"
-      },
-      {
         "title": "OpenAI to cut back on side projects to focus on core business, WSJ reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8e59948474fafa2c1506c9e53cc95&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-cut-back-side-projects-focus-core-business-wsj-reports-2026-03-17%2f&amp;c=10533297857406484519&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8ff3c7aa14184b8e3373dd3d7ebd1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-cut-back-side-projects-focus-core-business-wsj-reports-2026-03-17%2f&amp;c=10533297857406484519&amp;mkt=en-us",
         "pubDate": "Mon, 16 Mar 2026 16:00:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "Lawsuits against Trump administration's health policy changes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8e59bdff742d9b012f9b0180ffab9&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2flawsuits-against-trump-administrations-health-policy-changes-2026-03-16%2f&amp;c=5465636785022807390&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 12:24:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "US judge upends Kennedy's overhaul of childhood vaccine policies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8e5989322462c932e3364a58073b8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-blocks-efforts-reshape-childhood-vaccine-policy-2026-03-16%2f&amp;c=10522095465475531684&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 11:33:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "EU sanctions Chinese and Iranian companies for cyber attacks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8e59a4ec948979d68cf4925974792&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2feu-sanctions-chinese-iranian-companies-cyber-attacks-2026-03-16%2f&amp;c=4394023366601189056&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 05:39:00 GMT",
-        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Tuesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/03/16/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Mon, 16 Mar 2026 23:15:42 GMT",
-        "category": "us"
+        "title": "White House chief of staff Susie Wiles diagnosed with &apos;early stage breast cancer&apos;: Trump",
+        "link": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+        "pubDate": "Mon, 16 Mar 2026 20:20:44 GMT",
+        "category": "health"
       },
       {
-        "title": "Oil relief sparks a stock rally, but Cramer says Nvidia\u2019s AI boom is the real story",
-        "link": "https://www.cnbc.com/2026/03/16/oil-relief-sparks-a-stock-rally-but-cramer-says-nvidias-ai-boom-is-the-real-story.html",
-        "pubDate": "Mon, 16 Mar 2026 23:09:57 GMT",
-        "category": "tech"
+        "title": "Apollo&apos;s John Zito questions private equity&apos;s software valuations: &apos;All the marks are wrong&apos;",
+        "link": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
+        "pubDate": "Mon, 16 Mar 2026 17:17:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree &amp; more",
+        "link": "https://www.cnbc.com/2026/03/16/stocks-making-the-biggest-moves-midday-nvda-pton-meta-dltr.html",
+        "pubDate": "Mon, 16 Mar 2026 16:27:04 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China talks up oil sufficiency as Trump seeks Beijing&apos;s help on securing Hormuz energy route",
+        "link": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html",
+        "pubDate": "Mon, 16 Mar 2026 13:56:51 GMT",
+        "category": "Top News"
       }
     ]
   }
