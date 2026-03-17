@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-03-17T15:04:15.979623",
+  "updated_at": "2026-03-17T17:12:05.664581",
   "news": {
-    "ap": [
-      {
-        "title": "Trump team applying pressure to media: Tell the war\u2019s story the way we see it",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b96d3ca73545d5a52174a9eaf76fea&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-media-hegseth-carr-fcc-first-amendment-d8bba1bcfa09bd47a9e1523616be480c&amp;c=947432618950814672&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 04:18:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Sparse evidence for cannabis to treat mental health conditions highlights research gap",
+        "link": "https://www.npr.org/2026/03/17/nx-s1-5750489/cannabis-research-mental-health",
+        "pubDate": "Tue, 17 Mar 2026 12:57:21 -0400",
+        "category": "health"
+      },
       {
         "title": "The Postal Service may be out of cash in 2027 without Congress&apos; help, postmaster says",
         "link": "https://www.npr.org/2026/03/17/nx-s1-5750419/usps-running-out-of-money-postal-service-david-steiner",
@@ -50,12 +49,6 @@
         "title": "I&apos;m concerned about my blood pressure. Can I check it at home?",
         "link": "https://www.npr.org/2026/03/17/nx-s1-5747421/im-concerned-about-my-blood-pressure-can-i-check-it-at-home",
         "pubDate": "Tue, 17 Mar 2026 06:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Bringing marine life back to South Florida&apos;s &apos;forgotten edge&apos;",
-        "link": "https://www.npr.org/2026/03/17/nx-s1-5615448/seawall-marine-wildlife-biodiversity-artificial-habitat-mangrove",
-        "pubDate": "Tue, 17 Mar 2026 06:00:00 -0400",
         "category": "Top News"
       },
       {
@@ -73,16 +66,40 @@
     ],
     "bbc": [
       {
-        "title": "Top US counterterrorism official resigns over Iran war and urges Trump to 'reverse course'",
+        "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
         "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 14:49:18 GMT",
+        "pubDate": "Tue, 17 Mar 2026 16:43:34 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Dates confirmed for new driving test booking rules",
+        "link": "https://www.bbc.com/news/articles/c79522r09qqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 16:40:27 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Focus must remain on Ukraine despite Iran war, PM says as he meets President Zelensky",
+        "link": "https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 16:18:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Mayors to gain more spending power under Reeves tax plans",
+        "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 15:43:04 GMT",
+        "category": "business"
       },
       {
         "title": "Why is MenB vaccine not given to teenagers in UK and should they be offered it?",
         "link": "https://www.bbc.com/news/articles/c3rzg0vg947o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Mar 2026 14:49:17 GMT",
         "category": "health"
+      },
+      {
+        "title": "Prince William joins Greg James on Comic Relief tandem bike ride",
+        "link": "https://www.bbc.com/news/articles/c3rzgg8wp52o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 14:34:38 GMT",
+        "category": "Top News"
       },
       {
         "title": "'Many people fooled' by AI wedding pics, says Zendaya",
@@ -97,86 +114,38 @@
         "category": "tech"
       },
       {
-        "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
-        "link": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 13:33:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "MI5 to pay compensation to woman abused by neo-Nazi agent",
-        "link": "https://www.bbc.com/news/articles/cg5nrq287m4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 12:38:25 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Typical new mortgage costs soar \u00a3788 a year in two weeks",
         "link": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Mar 2026 11:25:13 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Trump seeks to delay meeting with Xi in China",
-        "link": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 10:33:49 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Utah mother who wrote book about grief found guilty of poisoning husband",
-        "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 01:14:04 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Bereavement author found guilty of fatally poisoning her husband",
-        "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 01:14:04 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Surge in US gas prices deepens political peril for Trump over Iran",
+        "link": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 00:24:01 GMT",
+        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "Israeli strike kills three people in Gaza as Iran war strains truce",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b96d4b18584e748d2a1e3286387780&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strike-kills-three-people-gaza-iran-war-strains-truce-2026-03-17%2f&amp;c=9264974346982010541&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 05:31:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Exclusive: EU foreign policy chief Kallas calls on US, Israel to end Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b96d437f464a2596e2193dc931178a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2feu-foreign-policy-chief-kallas-calls-us-israel-end-iran-war-2026-03-17%2f&amp;c=15860485094479007227&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 03:41:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "AI Inside Government: Lawmakers, Agencies, Researchers, and Tech Builders Convene at SXSW",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b96d492f7a49fb92dd981c6dafb1a2&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fai-inside-government-sxsw-lawmakers-agencies-researchers-tech-builders-2026-03-17%2f&amp;c=7065853702310234286&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 01:25:00 GMT",
+        "title": "Brazil to cut tariffs on capital, technology goods in April where there is no domestic output",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b98b24cb0c4c4bbdd90c11e7356ca6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbrazil-cut-tariffs-capital-technology-goods-april-where-there-is-no-domestic-2026-03-17%2f&amp;c=12758410911068738145&amp;mkt=en-us",
+        "pubDate": "Tue, 17 Mar 2026 07:42:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "OpenAI to cut back on side projects to focus on core business, WSJ reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b96d43fd63467b9579261f6ffc7d9b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-cut-back-side-projects-focus-core-business-wsj-reports-2026-03-17%2f&amp;c=10533297857406484519&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 16:00:00 GMT",
-        "category": "business"
       }
     ],
     "markets": [
       {
         "title": "This tech stock is primed for a big move higher. How to trade it using options",
         "link": "https://www.cnbc.com/2026/03/17/this-tech-stock-is-primed-for-a-big-move-higher-how-to-trade-it-using-options.html",
-        "pubDate": "Tue, 17 Mar 2026 15:00:01 GMT",
+        "pubDate": "Tue, 17 Mar 2026 15:30:28 GMT",
         "category": "us"
       },
       {
-        "title": "Mastercard says it&apos;s acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
-        "link": "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html",
-        "pubDate": "Tue, 17 Mar 2026 14:40:39 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
-        "pubDate": "Tue, 17 Mar 2026 14:28:31 GMT",
-        "category": "world"
+        "title": "White House chief of staff Susie Wiles diagnosed with &apos;early stage breast cancer&apos;: Trump",
+        "link": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
+        "pubDate": "Mon, 16 Mar 2026 20:20:44 GMT",
+        "category": "health"
       }
     ]
   }
