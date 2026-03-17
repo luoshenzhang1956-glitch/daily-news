@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-03-17T07:15:32.533919",
+  "updated_at": "2026-03-17T09:02:59.174459",
   "news": {
     "ap": [
       {
         "title": "Venezuela rallies past Italy 4-2 with 3-run 7th and will face US for World Baseball Classic title",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8fefaf9a64d3293f03a928cd4e99d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fitaly-venezuela-score-wbc-892a822f7910f7f276d0bc1f8065ae1a&amp;c=14992840914011680221&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b917f1865c447ca8997ff9a41fc6f1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fitaly-venezuela-score-wbc-892a822f7910f7f276d0bc1f8065ae1a&amp;c=14992840914011680221&amp;mkt=en-us",
         "pubDate": "Mon, 16 Mar 2026 22:31:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Asian shares are mixed and US futures slip as Brent hovers at over $100 a barrel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8fefc4f1f4e849cd6b962624b487a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-rates-oil-iran-trump-c206d3ca9d54f9cb2c0548eb6bb639d0&amp;c=2715231720569948313&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 21:49:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "Trump team applying pressure to media: Tell the war\u2019s story the way we see it",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8ff007a2f4170bb96bea946fee184&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-media-hegseth-carr-fcc-first-amendment-d8bba1bcfa09bd47a9e1523616be480c&amp;c=947432618950814672&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 21:04:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Reaching March Madness has been in the Martelli family business for years, and it is booming at VCU",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8feff366b40e08945d9b1d5c05410&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmarch-madness-ncaa-tournament-vcu-philip-martelli-0f7cf2fcc0abe23a89d6e5d5f8b15dcf&amp;c=7712144677469925443&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 11:14:00 GMT",
-        "category": "business"
       }
     ],
     "npr": [
       {
+        "title": "How the energy crisis fueled by the war in Iran is affecting Asia",
+        "link": "https://www.npr.org/2026/03/17/nx-s1-5746777/how-the-energy-crisis-fueled-by-the-war-in-iran-is-affecting-asia",
+        "pubDate": "Tue, 17 Mar 2026 04:49:15 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Federal judge halts RFK Jr.&apos;s changes to children&apos;s vaccine policies",
+        "link": "https://www.npr.org/2026/03/17/nx-s1-5749478/federal-judge-halts-rfk-jr-s-changes-to-childrens-vaccine-policies",
+        "pubDate": "Tue, 17 Mar 2026 04:48:55 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Many say they use cannabis for their mental health, but there&apos;s no evidence it helps",
+        "link": "https://www.npr.org/2026/03/17/nx-s1-5746825/many-say-they-use-cannabis-for-their-mental-health-but-theres-no-evidence-it-helps",
+        "pubDate": "Tue, 17 Mar 2026 04:48:49 -0400",
+        "category": "health"
+      },
+      {
         "title": "Last protester in detention after Trump&apos;s campus crackdown has been released",
         "link": "https://www.npr.org/2026/03/17/g-s1-114023/last-protester-campus-crackdown-released",
         "pubDate": "Tue, 17 Mar 2026 02:56:39 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Tennessee teens sue Elon Musk&apos;s xAI over AI-generated child sexual abuse material",
@@ -44,13 +44,7 @@
         "title": "Afghanistan says 400 people killed in Pakistan strike on Kabul hospital",
         "link": "https://www.npr.org/2026/03/16/g-s1-114013/pakistan-strike-kabul-hospital",
         "pubDate": "Mon, 16 Mar 2026 20:39:11 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Federal judge halts RFK Jr.&apos;s changes to children&apos;s vaccine policies",
-        "link": "https://www.npr.org/2026/03/16/nx-s1-5749530/judge-blocks-rfk-jr-vaccine-changes",
-        "pubDate": "Mon, 16 Mar 2026 19:03:44 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Supreme Court to hear expedited arguments on protected status for migrants",
@@ -71,25 +65,37 @@
         "category": "Top News"
       },
       {
-        "title": "Vaccine critics keep the pressure on, even as RFK Jr. shifts focus",
-        "link": "https://www.npr.org/2026/03/16/nx-s1-5739183/maha-vaccine-safety-kennedy",
-        "pubDate": "Mon, 16 Mar 2026 15:11:41 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Gasoline prices are still rising as the Iran war stretches into its third week",
         "link": "https://www.npr.org/2026/03/16/nx-s1-5749333/iran-war-gasoline-prices-day-17",
         "pubDate": "Mon, 16 Mar 2026 13:50:30 -0400",
         "category": "business"
-      },
-      {
-        "title": "Team USA won the second-most medals at these Paralympics. See the standout moments",
-        "link": "https://www.npr.org/2026/03/16/nx-s1-5742376/2026-winter-paralympics-highlights-usa-hockey-skiing-snowboarding",
-        "pubDate": "Mon, 16 Mar 2026 11:34:45 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "What are the symptoms of meningitis and is there a vaccine?",
+        "link": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 08:50:17 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
+        "link": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 08:10:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump seeks to delay meeting with Xi in China",
+        "link": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 07:52:40 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Reeves vows to stop UK tech from 'drifting abroad'",
+        "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 07:19:27 GMT",
+        "category": "business"
+      },
       {
         "title": "Dozens killed after Afghanistan rehab centre struck",
         "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&amp;at_campaign=rss",
@@ -115,74 +121,25 @@
         "category": "us"
       },
       {
-        "title": "Trump's confidence is undimmed - but every Iran option comes with risk",
-        "link": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 00:24:01 GMT",
-        "category": "world"
-      },
-      {
         "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
         "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Mar 2026 00:08:32 GMT",
         "category": "tech"
       },
       {
-        "title": "Train delay repay rule changes to make claims easier",
+        "title": "Train Delay Repay rule changes to make claims easier",
         "link": "https://www.bbc.com/news/articles/ce94k3v3rvro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Mar 2026 00:01:24 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
-        "link": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 00:01:17 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Reeves vows to stop UK tech from 'drifting abroad'",
-        "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 00:01:07 GMT",
-        "category": "business"
-      },
-      {
-        "title": "What are the symptoms of meningitis and is there a vaccine?",
-        "link": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 16 Mar 2026 17:58:38 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "OpenAI to cut back on side projects to focus on core business, WSJ reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b8ff3c7aa14184b8e3373dd3d7ebd1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-cut-back-side-projects-focus-core-business-wsj-reports-2026-03-17%2f&amp;c=10533297857406484519&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 16:00:00 GMT",
-        "category": "business"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "White House chief of staff Susie Wiles diagnosed with &apos;early stage breast cancer&apos;: Trump",
-        "link": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
-        "pubDate": "Mon, 16 Mar 2026 20:20:44 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Apollo&apos;s John Zito questions private equity&apos;s software valuations: &apos;All the marks are wrong&apos;",
-        "link": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
-        "pubDate": "Mon, 16 Mar 2026 17:17:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree &amp; more",
-        "link": "https://www.cnbc.com/2026/03/16/stocks-making-the-biggest-moves-midday-nvda-pton-meta-dltr.html",
-        "pubDate": "Mon, 16 Mar 2026 16:27:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China talks up oil sufficiency as Trump seeks Beijing&apos;s help on securing Hormuz energy route",
-        "link": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html",
-        "pubDate": "Mon, 16 Mar 2026 13:56:51 GMT",
-        "category": "Top News"
+        "title": "Tuesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/03/16/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Mon, 16 Mar 2026 23:15:42 GMT",
+        "category": "us"
       }
     ]
   }
