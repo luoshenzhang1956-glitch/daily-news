@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-03-17T10:58:11.468713",
+  "updated_at": "2026-03-17T13:27:36.867757",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "Israel says it killed two top Iranian commanders in targeted strike",
+        "title": "U.S. seeks NATO help with Strait of Hormuz. And, federal judge blocks vaccine changes",
+        "link": "https://www.npr.org/2026/03/17/g-s1-114032/up-first-newsletter-iran-israel-lebanon-us-war-cuba-power-outage-rfk-vaccine-protected-status-migrants",
+        "pubDate": "Tue, 17 Mar 2026 07:33:03 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Israel says it killed 2 top Iranian commanders in a targeted strike",
         "link": "https://www.npr.org/2026/03/17/nx-s1-5750253/israel-kills-two-top-iranian-commanders",
         "pubDate": "Tue, 17 Mar 2026 06:47:00 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Is there a more fair way to sell World Cup tickets?",
@@ -28,19 +34,19 @@
         "category": "Top News"
       },
       {
-        "title": "Reproductive health clinics scramble as Title X funding cliff approaches",
-        "link": "https://www.npr.org/2026/03/17/nx-s1-5745199/title-x-birth-control-sti-clinics-trump-rfk-jr-hhs-house-dems",
-        "pubDate": "Tue, 17 Mar 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "From Descartes to punk rock, X has an extraordinary history",
         "link": "https://www.npr.org/2026/03/17/nx-s1-5732951/letter-x-etymology-religion-punk-descartes-romans-algebra",
         "pubDate": "Tue, 17 Mar 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "&apos;Rewarding loyalists,&apos; punishing critics: How Trump&apos;s Treasury sanctions foreigners",
+        "title": "Reproductive health clinics scramble as Title X funding cliff approaches",
+        "link": "https://www.npr.org/2026/03/17/nx-s1-5745199/title-x-birth-control-sti-clinics-trump-rfk-jr-hhs-house-dems",
+        "pubDate": "Tue, 17 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "How Trump&apos;s Treasury is shifting sanctions to punish his critics and reward friends",
         "link": "https://www.npr.org/2026/03/17/nx-s1-5675211/treasury-sanctions-trump-foreign-punish",
         "pubDate": "Tue, 17 Mar 2026 05:00:00 -0400",
         "category": "Top News"
@@ -52,12 +58,6 @@
         "category": "us"
       },
       {
-        "title": "Last protester in detention after Trump&apos;s campus crackdown has been released",
-        "link": "https://www.npr.org/2026/03/17/g-s1-114023/last-protester-campus-crackdown-released",
-        "pubDate": "Tue, 17 Mar 2026 02:56:39 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Tennessee teens sue Elon Musk&apos;s xAI over AI-generated child sexual abuse material",
         "link": "https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images",
         "pubDate": "Mon, 16 Mar 2026 21:02:37 -0400",
@@ -66,10 +66,34 @@
     ],
     "bbc": [
       {
-        "title": "Typical new mortgage costs \u00a3788 a year more than before Iran war",
+        "title": "Why is MenB vaccine not given to teenagers in UK and should they be offered it?",
+        "link": "https://www.bbc.com/news/articles/c3rzg0vg947o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 12:49:41 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
+        "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 12:38:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "MI5 to pay compensation to woman abused by neo-Nazi agent",
+        "link": "https://www.bbc.com/news/articles/cg5nrq287m4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 12:38:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Typical new mortgage costs soar \u00a3788 a year in two weeks",
         "link": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 10:44:33 GMT",
+        "pubDate": "Tue, 17 Mar 2026 11:25:13 GMT",
         "category": "business"
+      },
+      {
+        "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
+        "link": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 11:21:19 GMT",
+        "category": "Top News"
       },
       {
         "title": "Trump seeks to delay meeting with Xi in China",
@@ -78,45 +102,21 @@
         "category": "world"
       },
       {
-        "title": "What are the symptoms of meningitis and is there a vaccine?",
-        "link": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 08:50:17 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
-        "link": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 08:10:24 GMT",
+        "title": "Zelensky to visit Starmer to sign new Ukraine-UK defence pact",
+        "link": "https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 08:34:43 GMT",
         "category": "Top News"
       },
       {
-        "title": "Quantum computing and AI to get \u00a32.5bn to stop UK tech 'drifting abroad', Reeves vows",
-        "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 07:19:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan",
-        "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 06:19:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Chris Mason: Why Starmer thinks he's called it right on war despite Trump barbs",
-        "link": "https://www.bbc.com/news/articles/cn9e0zr5qy2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 01:56:53 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Utah bereavement author found guilty of fatally poisoning her husband",
+        "title": "Utah mother who wrote book about grief found guilty of poisoning husband",
         "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Mar 2026 01:14:04 GMT",
         "category": "us"
       },
       {
-        "title": "Spring to make a comeback with warmest day of the year forecast",
-        "link": "https://www.bbc.com/weather/articles/cp8r3kgjmd5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 00:56:20 GMT",
+        "title": "Bereavement author found guilty of fatally poisoning her husband",
+        "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 01:14:04 GMT",
         "category": "Top News"
       },
       {
@@ -128,96 +128,36 @@
     ],
     "reuters": [
       {
-        "title": "Amazon launches 1-hour shipping in US cities to challenge Walmart",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b933692b1d4121bda5cba2000c2a82&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2famazon-launches-1-hour-shipping-us-cities-challenge-walmart-2026-03-17%2f&amp;c=18195750973838495845&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 02:05:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Insight: Minority contractors say Trump DEI rollback poses threat to their livelihoods",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b933692b1d4121bda5cba2000c2a82&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fminority-contractors-say-trump-dei-rollback-poses-threat-their-livelihoods-2026-03-17%2f&amp;c=8733790833704652251&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 02:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How Trump's long-shot voting bill could hurt his own supporters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b933692b1d4121bda5cba2000c2a82&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fhow-trumps-long-shot-voting-bill-could-hurt-his-own-supporters-2026-03-17%2f&amp;c=7460778716064491005&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 02:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Illinois US Senate primary to test power of progressive Democratic voters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b933692b1d4121bda5cba2000c2a82&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fillinois-us-senate-primary-test-power-progressive-democratic-voters-2026-03-17%2f&amp;c=18245562286847998068&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 02:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wall Street futures slip as higher oil prices fuel inflation worries ahead of Fed meeting",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b933692b1d4121bda5cba2000c2a82&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-street-futures-slip-higher-oil-prices-fuel-inflation-worries-ahead-fed-2026-03-17%2f&amp;c=13439260963831216240&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 01:43:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: EU seeks diplomatic solution for Hormuz Strait, Kallas says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b933692b1d4121bda5cba2000c2a82&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feu-seeks-diplomatic-solution-hormuz-strait-kallas-says-2026-03-17%2f&amp;c=11208906106428636894&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 00:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's summit delay casts pall over US-China trade truce",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b933692b1d4121bda5cba2000c2a82&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17%2f&amp;c=14029571454624110495&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 23:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nigel Farage declares war on the old order in his blueprint for Britain",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b933692b1d4121bda5cba2000c2a82&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fnigel-farage-declares-war-old-order-his-blueprint-britain-2026-03-17%2f&amp;c=3579745968695183534&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 22:05:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran negotiating with FIFA to move World Cup games to Mexico from US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b9337a3bcf45fdb8c8fca31f204bba&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2firan-negotiating-with-fifa-move-world-cup-games-mexico-us-iran-federation-chief-2026-03-17%2f&amp;c=16273474124478818228&amp;mkt=en-us",
-        "pubDate": "Mon, 16 Mar 2026 20:35:00 GMT",
+        "title": "Exclusive: EU foreign policy chief Kallas calls on US, Israel to end Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b956796f8843d89044cc35c7d29397&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2feu-foreign-policy-chief-kallas-calls-us-israel-end-iran-war-2026-03-17%2f&amp;c=15860485094479007227&amp;mkt=en-us",
+        "pubDate": "Tue, 17 Mar 2026 03:41:00 GMT",
         "category": "us"
       },
       {
+        "title": "Pediatricians win Round 1 in vaccine fight, but damage has been done",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b9568ef66841f09c55c86aa976e8f0&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fpediatricians-win-round-1-vaccine-fight-damage-has-been-done-2026-03-17%2f&amp;c=12141274641988397110&amp;mkt=en-us",
+        "pubDate": "Tue, 17 Mar 2026 02:04:00 GMT",
+        "category": "health"
+      },
+      {
         "title": "OpenAI to cut back on side projects to focus on core business, WSJ reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b9337b5a6b4b0ab2356c8f4cefca93&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-cut-back-side-projects-focus-core-business-wsj-reports-2026-03-17%2f&amp;c=10533297857406484519&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b9567aa28e46698878cffad1125a18&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-cut-back-side-projects-focus-core-business-wsj-reports-2026-03-17%2f&amp;c=10533297857406484519&amp;mkt=en-us",
         "pubDate": "Mon, 16 Mar 2026 16:00:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "Israel says Iran\u2019s security chief, Ali Larijani, has been killed in a strike",
-        "link": "https://www.cnbc.com/2026/03/17/iran-war-ali-larijani-israel-united-states-middle-east-crisis.html",
-        "pubDate": "Tue, 17 Mar 2026 10:44:07 GMT",
+        "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
+        "link": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
+        "pubDate": "Tue, 17 Mar 2026 12:48:36 GMT",
         "category": "world"
       },
       {
-        "title": "Nvidia adds Hyundai, BYD and other automakers to self-driving tech business",
-        "link": "https://www.cnbc.com/2026/03/16/nvidia-hyundai-byd-nissan-self-driving-tech.html",
-        "pubDate": "Mon, 16 Mar 2026 22:06:38 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Apollo&apos;s John Zito questions private equity&apos;s software valuations: &apos;All the marks are wrong&apos;",
-        "link": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
-        "pubDate": "Mon, 16 Mar 2026 17:17:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree &amp; more",
-        "link": "https://www.cnbc.com/2026/03/16/stocks-making-the-biggest-moves-midday-nvda-pton-meta-dltr.html",
-        "pubDate": "Mon, 16 Mar 2026 16:27:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China talks up oil sufficiency as Trump seeks Beijing&apos;s help on securing Hormuz energy route",
-        "link": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html",
-        "pubDate": "Mon, 16 Mar 2026 13:56:51 GMT",
-        "category": "Top News"
+        "title": "This travel stock has plunged on AI concerns. Why BMO says buy the dip",
+        "link": "https://www.cnbc.com/2026/03/17/this-travel-stock-has-plunged-on-ai-concerns-why-bmo-says-buy-the-dip.html",
+        "pubDate": "Tue, 17 Mar 2026 11:58:23 GMT",
+        "category": "us"
       }
     ]
   }
