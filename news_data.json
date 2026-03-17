@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-03-17T17:12:05.664581",
+  "updated_at": "2026-03-17T19:13:29.410712",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Trump team applying pressure to media: Tell the war\u2019s story the way we see it",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b9a75d680148c89e66c8d2346c81f8&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-media-hegseth-carr-fcc-first-amendment-d8bba1bcfa09bd47a9e1523616be480c&amp;c=947432618950814672&amp;mkt=en-us",
+        "pubDate": "Tue, 17 Mar 2026 08:20:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Argentina\u2019s wine industry withers on the vine as consumption hits a record low",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b9a75c27be4f55b96e65e029b14d97&amp;url=https%3a%2f%2fapnews.com%2farticle%2fargentina-wine-industry-crisis-exports-grape-mendoza-80e12920dafb4b2afbc0e503ae8a86db&amp;c=2916675171232554592&amp;mkt=en-us",
+        "pubDate": "Tue, 17 Mar 2026 07:32:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "She&apos;s won 24 Paralympic medals. But Oksana Masters wants to talk about times she lost",
+        "link": "https://www.npr.org/2026/03/17/nx-s1-5749163/oksana-masters-2026-winter-paralympics-medals",
+        "pubDate": "Tue, 17 Mar 2026 14:19:20 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Ukraine strings nets over cities as killer drones turn streets into war zones",
+        "link": "https://www.npr.org/2026/03/17/nx-s1-5743446/russia-ukraine-war-nets-drones",
+        "pubDate": "Tue, 17 Mar 2026 13:06:44 -0400",
+        "category": "world"
+      },
       {
         "title": "Sparse evidence for cannabis to treat mental health conditions highlights research gap",
         "link": "https://www.npr.org/2026/03/17/nx-s1-5750489/cannabis-research-mental-health",
@@ -19,7 +44,7 @@
         "title": "Joe Kent, a top counterterrorism official, resigns citing Iran war",
         "link": "https://www.npr.org/2026/03/17/nx-s1-5750426/joe-kent-counterterrorism-official-resigns-trump",
         "pubDate": "Tue, 17 Mar 2026 10:29:26 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Geopolitics may test the World Cup \u2014 a new book draws lessons from the past",
@@ -46,18 +71,6 @@
         "category": "business"
       },
       {
-        "title": "I&apos;m concerned about my blood pressure. Can I check it at home?",
-        "link": "https://www.npr.org/2026/03/17/nx-s1-5747421/im-concerned-about-my-blood-pressure-can-i-check-it-at-home",
-        "pubDate": "Tue, 17 Mar 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "New York City mayor celebrates Ramadan with inmates at Riker&apos;s Island",
-        "link": "https://www.npr.org/2026/03/17/nx-s1-5747956/new-york-city-mayor-celebrates-ramadan-with-inmates-at-rikers-island",
-        "pubDate": "Tue, 17 Mar 2026 04:47:39 -0400",
-        "category": "us"
-      },
-      {
         "title": "Tennessee teens sue Elon Musk&apos;s xAI over AI-generated child sexual abuse material",
         "link": "https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images",
         "pubDate": "Mon, 16 Mar 2026 21:02:37 -0400",
@@ -66,45 +79,45 @@
     ],
     "bbc": [
       {
+        "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+        "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 18:45:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Was response to meningitis outbreak too slow?",
+        "link": "https://www.bbc.com/news/articles/cjd9dk2v0z3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 18:33:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Mayors to gain more spending power under Reeves tax plans",
+        "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 18:26:30 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Iran and Russia are 'brothers in hatred', Zelensky tells MPs",
+        "link": "https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 18:26:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Iranians show daily life under air strikes and regime crackdown",
+        "link": "https://www.bbc.com/news/videos/cgk2lk86y3mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 17:04:20 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
         "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Mar 2026 16:43:34 GMT",
         "category": "world"
       },
       {
-        "title": "Dates confirmed for new driving test booking rules",
-        "link": "https://www.bbc.com/news/articles/c79522r09qqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 16:40:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Focus must remain on Ukraine despite Iran war, PM says as he meets President Zelensky",
-        "link": "https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 16:18:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Mayors to gain more spending power under Reeves tax plans",
-        "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 15:43:04 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Why is MenB vaccine not given to teenagers in UK and should they be offered it?",
-        "link": "https://www.bbc.com/news/articles/c3rzg0vg947o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 14:49:17 GMT",
-        "category": "health"
-      },
-      {
         "title": "Prince William joins Greg James on Comic Relief tandem bike ride",
         "link": "https://www.bbc.com/news/articles/c3rzgg8wp52o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Mar 2026 14:34:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Many people fooled' by AI wedding pics, says Zendaya",
-        "link": "https://www.bbc.com/news/articles/clyz7llp4k2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 14:29:29 GMT",
         "category": "Top News"
       },
       {
@@ -114,10 +127,10 @@
         "category": "tech"
       },
       {
-        "title": "Typical new mortgage costs soar \u00a3788 a year in two weeks",
-        "link": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 11:25:13 GMT",
-        "category": "Top News"
+        "title": "Scotland is about to vote on assisted dying. How would it work?",
+        "link": "https://www.bbc.com/news/articles/c8jg9kgz209o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 10:17:20 GMT",
+        "category": "health"
       },
       {
         "title": "Surge in US gas prices deepens political peril for Trump over Iran",
@@ -128,25 +141,12 @@
     ],
     "reuters": [
       {
-        "title": "Brazil to cut tariffs on capital, technology goods in April where there is no domestic output",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b98b24cb0c4c4bbdd90c11e7356ca6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbrazil-cut-tariffs-capital-technology-goods-april-where-there-is-no-domestic-2026-03-17%2f&amp;c=12758410911068738145&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 07:42:00 GMT",
-        "category": "tech"
+        "title": "Mexico open to hosting Iran's World Cup games, president says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69b9a7758cae46b8b0bd02f20ebd28e7&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fmexico-open-hosting-irans-world-cup-games-president-says-2026-03-17%2f&amp;c=4614152495132021028&amp;mkt=en-us",
+        "pubDate": "Tue, 17 Mar 2026 06:52:00 GMT",
+        "category": "world"
       }
     ],
-    "markets": [
-      {
-        "title": "This tech stock is primed for a big move higher. How to trade it using options",
-        "link": "https://www.cnbc.com/2026/03/17/this-tech-stock-is-primed-for-a-big-move-higher-how-to-trade-it-using-options.html",
-        "pubDate": "Tue, 17 Mar 2026 15:30:28 GMT",
-        "category": "us"
-      },
-      {
-        "title": "White House chief of staff Susie Wiles diagnosed with &apos;early stage breast cancer&apos;: Trump",
-        "link": "https://www.cnbc.com/2026/03/16/susie-wiles-trump-chief-of-staff.html",
-        "pubDate": "Mon, 16 Mar 2026 20:20:44 GMT",
-        "category": "health"
-      }
-    ]
+    "markets": []
   }
 }
