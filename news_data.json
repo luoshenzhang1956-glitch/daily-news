@@ -1,13 +1,32 @@
 {
-  "updated_at": "2026-03-18T15:13:37.497892",
+  "updated_at": "2026-03-18T17:12:39.666408",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US eases Venezuela oil sanctions as Trump seeks to boost world oil supply during Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69badc2134324c7a80c086791666c866&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-iran-war-venezuela-oil-supplies-prices-3a3ca446459b3ab0127c08ad0808cc15&amp;c=12032381070046154719&amp;mkt=en-us",
+        "pubDate": "Wed, 18 Mar 2026 07:23:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "Mamdani put Ramadan at the center of NYC&apos;s cultural life, bringing joy -- and a backlash",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5751787/mamdani-put-ramadan-at-the-center-of-nycs-cultural-life-bringing-joy-and-a-backlash",
+        "pubDate": "Wed, 18 Mar 2026 12:38:37 -0400",
+        "category": "us"
+      },
+      {
+        "title": "FAA tightens safety rules for helicopters and planes around major airports",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5752185/faa-airport-safety-rules-helicopters",
+        "pubDate": "Wed, 18 Mar 2026 12:21:06 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Trump temporarily waives the Jones Act to try to lower gas prices",
         "link": "https://www.npr.org/2026/03/18/nx-s1-5751854/gas-prices-trump-jones-act-iran",
         "pubDate": "Wed, 18 Mar 2026 10:49:07 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Greetings from Nyeri, Kenya, where grandmothers help coach the next generation",
@@ -34,12 +53,6 @@
         "category": "Top News"
       },
       {
-        "title": "Iran confirms the death of its intelligence chief, 3rd top official killed in 24 hours",
-        "link": "https://www.npr.org/2026/03/18/nx-s1-5751694/iran-retaliates-israel-kills-two-top-iranian-officials",
-        "pubDate": "Wed, 18 Mar 2026 06:14:38 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Red states move to protect crisis pregnancy centers using model legislation",
         "link": "https://www.npr.org/2026/03/18/nx-s1-5750548/crisis-pregnancy-centers-abortion-rights-wyoming-oklahoma-kansas",
         "pubDate": "Wed, 18 Mar 2026 06:00:00 -0400",
@@ -56,15 +69,39 @@
         "link": "https://www.npr.org/2026/03/18/nx-s1-5746115/billboards-san-francisco-tech-ai-advertising-marketing",
         "pubDate": "Wed, 18 Mar 2026 05:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "The threats to Minnesota&apos;s Medicaid funds are unprecedented. Other states could be next",
-        "link": "https://www.npr.org/2026/03/18/nx-s1-5751216/medicaid-minnesota-fraud-explained",
-        "pubDate": "Wed, 18 Mar 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Why is this meningitis outbreak so explosive?",
+        "link": "https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Mar 2026 16:34:33 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Fly tippers in England face clearing up own rubbish as punishment",
+        "link": "https://www.bbc.com/news/articles/c9dn770n1deo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Mar 2026 16:25:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil nears $110 a barrel after gas field strike",
+        "link": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Mar 2026 16:06:53 GMT",
+        "category": "business"
+      },
+      {
+        "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
+        "link": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Mar 2026 16:04:29 GMT",
+        "category": "world"
+      },
+      {
+        "title": "UK temperature reaches 21C in warmest day of year so far",
+        "link": "https://www.bbc.com/weather/articles/crl4g65wzepo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Mar 2026 15:41:47 GMT",
+        "category": "Top News"
+      },
       {
         "title": "PM swerves questions on whether he spoke to Mandelson over Epstein friendship",
         "link": "https://www.bbc.com/news/articles/c7vjv17q0rmo?at_medium=RSS&amp;at_campaign=rss",
@@ -72,22 +109,10 @@
         "category": "Top News"
       },
       {
-        "title": "UK temperature exceeds 20C in warmest day of year so far",
-        "link": "https://www.bbc.com/weather/articles/crl4g65wzepo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Mar 2026 14:21:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "People don't need to buy a meningitis vaccine, Streeting says",
-        "link": "https://www.bbc.com/news/articles/cy9g98g9eexo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Mar 2026 14:10:35 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Average age of first time buyer climbs to 34",
+        "title": "Average age of first time buyer in England climbs to 34",
         "link": "https://www.bbc.com/news/articles/cge8e2dq9plo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 18 Mar 2026 14:00:10 GMT",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Government backtracks on AI and copyright after outcry from major artists",
@@ -96,21 +121,9 @@
         "category": "tech"
       },
       {
-        "title": "MSP rules out reintroducing assisted dying bill after election",
-        "link": "https://www.bbc.com/news/articles/cx2r2qqw4npo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Mar 2026 12:58:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Senegal government alleges corruption after Morocco awarded Africa Cup of Nations following appeal",
-        "link": "https://www.bbc.com/sport/football/articles/cwygyq495j8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Mar 2026 12:54:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's homeland security pick Mullin faces senators' questions",
-        "link": "https://www.bbc.com/news/articles/cq575gyjgy9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Mar 2026 10:29:15 GMT",
+        "title": "Juliana Stratton wins Illinois Democratic primary for US Senate",
+        "link": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Mar 2026 11:36:15 GMT",
         "category": "us"
       },
       {
@@ -118,45 +131,15 @@
         "link": "https://www.bbc.com/news/articles/cpd8d10n9x5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 18 Mar 2026 09:21:14 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Total repression and air strikes bring unrelenting dread for Iranians",
-        "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Mar 2026 00:07:36 GMT",
-        "category": "world"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
-        "link": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
-        "pubDate": "Wed, 18 Mar 2026 14:44:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bain Capital taps buyer interest for Bridge Data Centres, offering up to 70% stake, sources say",
-        "link": "https://www.cnbc.com/2026/03/18/bain-capital-bridge-data-centres-ai-buildout.html",
-        "pubDate": "Wed, 18 Mar 2026 13:09:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Nvidia, Micron Technology, Macy&apos;s and more",
-        "link": "https://www.cnbc.com/2026/03/18/stocks-making-the-biggest-moves-premarket-nvda-mu-m.html",
-        "pubDate": "Wed, 18 Mar 2026 11:48:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Orlando Bravo pushes back on private markets criticism: &apos;Everybody&apos;s extremely comfortable&apos;",
-        "link": "https://www.cnbc.com/2026/03/17/orlando-bravo-pushes-back-on-private-markets-criticism-everybodys-extremely-comfortable.html",
-        "pubDate": "Tue, 17 Mar 2026 21:17:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The Fed issues its latest interest rate decision Wednesday. Here&apos;s what to expect",
-        "link": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
-        "pubDate": "Tue, 17 Mar 2026 20:29:55 GMT",
-        "category": "Top News"
+        "title": "Cramer weighs in on &apos;hack downgrade&apos; of Starbucks \u2014 and what&apos;s behind Amazon&apos;s dip",
+        "link": "https://www.cnbc.com/2026/03/18/cramer-weighs-in-on-starbucks-hack-downgrade-and-amazons-dip.html",
+        "pubDate": "Wed, 18 Mar 2026 17:05:14 GMT",
+        "category": "tech"
       }
     ]
   }
