@@ -1,135 +1,80 @@
 {
-  "updated_at": "2026-03-18T08:59:22.860167",
+  "updated_at": "2026-03-18T11:00:47.226808",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Saint Mary\u2019s (CA) and Texas A&amp;M square off in opening round of NCAA Tournament",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba68f94bf141ee92f95a8be8c5eb82&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftexas-a-m-aggies-saint-marys-gaels-texas-college-sports-basketball-31ea7076cd6c4c26809aa5f5a7c49914&amp;c=14396474786921309478&amp;mkt=en-us",
-        "pubDate": "Wed, 18 Mar 2026 01:44:00 GMT",
+        "title": "With strikes above and crackdowns on the ground, Iranians describe life under siege",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5750816/with-strikes-above-and-crackdowns-on-the-ground-iranians-describe-life-under-siege",
+        "pubDate": "Wed, 18 Mar 2026 06:45:16 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Iran retaliates after Israel kills two top Iranian officials",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5751694/iran-retaliates-israel-kills-two-top-iranian-officials",
+        "pubDate": "Wed, 18 Mar 2026 06:14:38 -0400",
         "category": "Top News"
       },
       {
-        "title": "Golden Knights host the Mammoth in Western Conference action",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba690a14b04917ad976a68a732f62c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvegas-golden-knights-utah-hockey-club-1aaf66757c7c4097986e13217c100e32&amp;c=8006064583695951654&amp;mkt=en-us",
-        "pubDate": "Wed, 18 Mar 2026 01:11:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Man arrested after climbing into pygmy hippo Moo Deng\u2019s enclosure at Thai zoo",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba68f94bf141ee92f95a8be8c5eb82&amp;url=https%3a%2f%2fapnews.com%2farticle%2fthailand-pygmy-hippo-moo-deng-intruder-793e2c6b1528be251e6730e1b53c8fe6&amp;c=392067555837591502&amp;mkt=en-us",
-        "pubDate": "Wed, 18 Mar 2026 00:21:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kenya\u2019s capital experiments with giving workers menstrual leave",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba690b863b41caa281bafb3a409474&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkenya-menstrual-leave-nairobi-health-dec3599e6042f53cf00ac367e3499f89&amp;c=17026969772680765513&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 23:33:00 GMT",
+        "title": "Red states move to protect crisis pregnancy centers using model legislation",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5750548/crisis-pregnancy-centers-abortion-rights-wyoming-oklahoma-kansas",
+        "pubDate": "Wed, 18 Mar 2026 06:00:00 -0400",
         "category": "health"
       },
       {
-        "title": "About 90 ships cross the Strait of Hormuz as Iran exports millions of barrels of oil despite the war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba68f94bf141ee92f95a8be8c5eb82&amp;url=https%3a%2f%2fapnews.com%2farticle%2fships-iran-oil-china-us-trump-hormuz-82a9acb473837f1bf7a821d0c3f95205&amp;c=10502754708849918347&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 23:06:00 GMT",
-        "category": "Top News"
+        "title": "The threats to Minnesota&apos;s Medicaid funds are unprecedented. Other states could be next",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5751216/medicaid-minnesota-fraud-explained",
+        "pubDate": "Wed, 18 Mar 2026 05:00:00 -0400",
+        "category": "us"
       },
       {
-        "title": "Live updates: Iran launches barrage of missiles after an Israeli strike kills its security chief",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba68f94bf141ee92f95a8be8c5eb82&amp;url=https%3a%2f%2fapnews.com%2flive%2firan-war-israel-trump-03-18-2026&amp;c=6622792824693275225&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 22:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Arizona hits Kalshi with criminal charges, escalating fight between states and prediction markets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba6909e63543a5a2fbd18c2a42cf5c&amp;url=https%3a%2f%2fapnews.com%2farticle%2farizona-kalshi-criminal-charges-prediction-markets-gambling-3687ec3ea6725fa53389d9d594433580&amp;c=10839182043139666699&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 20:44:00 GMT",
+        "title": "The Federal Reserve is facing tough choices as the economy faces deep uncertainty",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5750485/federal-reserve-policy-meeting-inflation-gas-iran-jobs",
+        "pubDate": "Wed, 18 Mar 2026 05:00:00 -0400",
         "category": "business"
       },
       {
-        "title": "WADA delays decision over potential ban of Trump from major sporting events until after World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba68fa3b2141e28bddb5797eec99d8&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-wada-world-cup-olympics-81c01ce41a6f0b5d965abee82aa02af5&amp;c=16206664741511094449&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 15:58:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Ali Larijani, believed to be running Iran since the beginning of the war, is killed in a strike",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba68f94bf141ee92f95a8be8c5eb82&amp;url=https%3a%2f%2fapnews.com%2farticle%2fali-larijani-dead-be5f46c171b2f9bf1dbd8325261a92a6&amp;c=5350233454816796310&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 15:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US drivers see gas prices jump to their highest level since 2023 as the Iran war drags on",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba68f94bf141ee92f95a8be8c5eb82&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-oil-trump-war-iran-gas-prices-edef1d6c5bf85ab64d959510fb50f0bd&amp;c=13593496628141002688&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 15:23:00 GMT",
-        "category": "Top News"
-      }
-    ],
-    "npr": [
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/03/18/nx-s1-5748542/morning-news-brief",
-        "pubDate": "Wed, 18 Mar 2026 04:50:34 -0400",
-        "category": "world"
-      },
-      {
-        "title": "How drones are reshaping modern warfare around the globe",
-        "link": "https://www.npr.org/2026/03/18/nx-s1-5749400/how-drones-are-reshaping-modern-warfare-around-the-globe",
-        "pubDate": "Wed, 18 Mar 2026 04:49:48 -0400",
+        "title": "Do you understand this billboard? If not, that&apos;s the whole point",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5746115/billboards-san-francisco-tech-ai-advertising-marketing",
+        "pubDate": "Wed, 18 Mar 2026 05:00:00 -0400",
         "category": "tech"
+      },
+      {
+        "title": "Cheap drones are reshaping modern warfare \u2014 and catching the U.S. off guard",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5749441/drones-iran-us-ukraine-epic-fury",
+        "pubDate": "Wed, 18 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Sen. Mullin faces confirmation hearing to lead Homeland Security Department",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5749360/markwayne-mullin-dhs-confirmation-hearing",
+        "pubDate": "Wed, 18 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel is a key issue in Democratic primaries as support for the U.S. ally drops",
+        "link": "https://www.npr.org/2026/03/18/nx-s1-5751167/israel-democrats-primaries-polling",
+        "pubDate": "Wed, 18 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "Ruling overturns Senegal&apos;s Africa Cup title and declares Morocco the champion",
         "link": "https://www.npr.org/2026/03/18/g-s1-114255/ruling-africa-cup-morocco-champion",
         "pubDate": "Wed, 18 Mar 2026 01:42:15 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Venezuela beats U.S. 3-2, wins first World Baseball Classic title",
-        "link": "https://www.npr.org/2026/03/18/g-s1-114247/venezuela-beats-u-s-3-2-wins-first-world-baseball-classic-title",
-        "pubDate": "Wed, 18 Mar 2026 01:20:24 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "EU offers to pay Ukraine to fix oil pipeline at the center of Ukraine-Hungary feud",
-        "link": "https://www.npr.org/2026/03/18/g-s1-114243/eu-offers-to-pay-ukraine-to-fix-oil-pipeline-at-the-center-of-ukraine-hungary-feud",
-        "pubDate": "Wed, 18 Mar 2026 01:10:37 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Daniel Biss wins Democratic primary for closely-watched Illinois House seat",
-        "link": "https://www.npr.org/2026/03/17/nx-s1-5751169/illinois-primary-ninth-district-daniel-biss-kat-abughazaleh",
-        "pubDate": "Tue, 17 Mar 2026 22:40:24 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Arizona AG files criminal charges against Kalshi over &apos;illegal gambling&apos;",
-        "link": "https://www.npr.org/2026/03/17/nx-s1-5751165/kalshi-criminal-charges-arizona",
-        "pubDate": "Tue, 17 Mar 2026 20:08:08 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Judge orders 1,000 Voice of America staffers back to work in rebuke to Kari Lake",
-        "link": "https://www.npr.org/2026/03/17/nx-s1-5751162/voice-of-america-lawsuit-kari-lake",
-        "pubDate": "Tue, 17 Mar 2026 19:46:08 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Iran expert says Trump&apos;s &apos;war of choice&apos; has morphed into a &apos;war of necessity&apos;",
-        "link": "https://www.npr.org/2026/03/17/nx-s1-5750397/iran-war-trump-karim-sadjadpour",
-        "pubDate": "Tue, 17 Mar 2026 18:27:41 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Sparse evidence for cannabis to treat mental health conditions highlights research gap",
-        "link": "https://www.npr.org/2026/03/17/nx-s1-5750489/cannabis-research-mental-health",
-        "pubDate": "Tue, 17 Mar 2026 12:57:21 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Rayner warns immigration reforms risk being 'un-British'",
-        "link": "https://www.bbc.com/news/articles/c7434xv1pmeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Mar 2026 08:35:09 GMT",
+        "title": "Trump's homeland security pick Mullin faces senators' questions",
+        "link": "https://www.bbc.com/news/articles/cq575gyjgy9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Mar 2026 10:29:15 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Angela Rayner's explosive speech reignites leadership speculation",
+        "link": "https://www.bbc.com/news/articles/cpd8d10n9x5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Mar 2026 09:21:14 GMT",
         "category": "Top News"
       },
       {
@@ -145,16 +90,16 @@
         "category": "Top News"
       },
       {
-        "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-        "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Mar 2026 02:12:16 GMT",
-        "category": "world"
+        "title": "Dog owners to face unlimited fines if their pets attack livestock under new law",
+        "link": "https://www.bbc.com/news/articles/cy0dxzz0pzro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 18 Mar 2026 02:26:55 GMT",
+        "category": "Top News"
       },
       {
         "title": "Total repression and air strikes bring unrelenting dread for Iranians",
         "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 18 Mar 2026 00:07:36 GMT",
-        "category": "Top News"
+        "category": "world"
       },
       {
         "title": "Scotland's assisted dying bill rejected after emotional debate",
@@ -169,74 +114,38 @@
         "category": "tech"
       },
       {
-        "title": "US Attorney General Bondi formally summoned to Congress in Epstein case",
-        "link": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 18:59:17 GMT",
-        "category": "us"
-      },
-      {
         "title": "Mayors to gain more spending power under Reeves tax plans",
         "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 17 Mar 2026 18:26:30 GMT",
         "category": "business"
       },
       {
-        "title": "Scotland is about to vote on assisted dying. How would it work?",
-        "link": "https://www.bbc.com/news/articles/c8jg9kgz209o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 17 Mar 2026 10:17:20 GMT",
+        "title": "Why is MenB vaccine not given to teenagers in UK and should they be offered it?",
+        "link": "https://www.bbc.com/news/articles/c3rzg0vg947o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 17 Mar 2026 14:49:17 GMT",
         "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "UBS faced technology outage that impacted trading business, Bloomberg News reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba69407119472e8fc930ed70458424&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fubs-faced-technology-outage-that-impacted-trading-business-bloomberg-news-2026-03-17%2f&amp;c=17741255944399572687&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 10:06:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Measles cases in South Carolina rise by one to 997, state health department says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba6941bc954c48be81e3c79851a642&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmeasles-cases-south-carolina-rise-by-one-997-state-health-department-says-2026-03-17%2f&amp;c=18204505519081730312&amp;mkt=en-us",
-        "pubDate": "Tue, 17 Mar 2026 09:03:00 GMT",
-        "category": "health"
+        "title": "BHP's new CEO seeks to firm ties in a rapidly changing world",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ba855dec3d4123a7a7605ce3862236&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fbhps-new-ceo-seeks-firm-ties-rapidly-changing-world-2026-03-18%2f&amp;c=15177104303314662950&amp;mkt=en-us",
+        "pubDate": "Tue, 17 Mar 2026 23:43:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "France ready to help U.S. secure Strait of Hormuz \u2014 but not while ships are under attack",
-        "link": "https://www.cnbc.com/2026/03/18/france-strait-of-hormuz-ships-attacks-trump-allies-insurance-drones.html",
-        "pubDate": "Wed, 18 Mar 2026 08:50:38 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/03/17/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Wed, 18 Mar 2026 00:01:39 GMT",
+        "title": "RBC downgrades Starbucks after strong 2026 start, says growth expectations are too high",
+        "link": "https://www.cnbc.com/2026/03/18/rbc-downgrades-starbucks-after-strong-2026-start-says-growth-expectations-are-too-high.html",
+        "pubDate": "Wed, 18 Mar 2026 10:57:15 GMT",
         "category": "us"
       },
       {
-        "title": "Orlando Bravo pushes back on private markets criticism: &apos;Everybody&apos;s extremely comfortable&apos;",
-        "link": "https://www.cnbc.com/2026/03/17/orlando-bravo-pushes-back-on-private-markets-criticism-everybodys-extremely-comfortable.html",
-        "pubDate": "Tue, 17 Mar 2026 21:17:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The Fed issues its latest interest rate decision Wednesday. Here&apos;s what to expect",
-        "link": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
-        "pubDate": "Tue, 17 Mar 2026 20:29:55 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Nvidia, Delta Air Lines, Eli Lilly &amp; more",
-        "link": "https://www.cnbc.com/2026/03/17/stocks-making-the-biggest-moves-premarket-nvda-dal-lly.html",
-        "pubDate": "Tue, 17 Mar 2026 17:30:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Mastercard says it&apos;s acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
-        "link": "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html",
-        "pubDate": "Tue, 17 Mar 2026 14:40:39 GMT",
-        "category": "Top News"
+        "title": "France ready to help U.S. secure Strait of Hormuz \u2014 but not while drones and missiles are flying",
+        "link": "https://www.cnbc.com/2026/03/18/france-strait-of-hormuz-ships-attacks-trump-allies-insurance-drones.html",
+        "pubDate": "Wed, 18 Mar 2026 09:58:34 GMT",
+        "category": "world"
       }
     ]
   }
