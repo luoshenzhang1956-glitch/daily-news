@@ -1,100 +1,112 @@
 {
-  "updated_at": "2026-03-19T08:54:02.159419",
+  "updated_at": "2026-03-19T10:51:05.323072",
   "news": {
     "ap": [
       {
+        "title": "Reported attack hits South Pars natural gas field, an energy lifeline for Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd4f9a55241e98c368c024aff40f7&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-gas-field-south-pars-attack-5ad45090d3b66444467cc255ee966a37&amp;c=18302687637861050830&amp;mkt=en-us",
+        "pubDate": "Thu, 19 Mar 2026 03:17:00 GMT",
+        "category": "business"
+      },
+      {
         "title": "Nvidia\u2019s DLSS 5 is the (glossy) subject of memes and backlash from gamers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb9577a7a4bcc967ab00c8f92ec8c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnvidia-dlss-5-memes-jensen-huang-c0042421aba959f1433ba8798553bf18&amp;c=6451777210618613397&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd4f9299e4c9a9559cea0585c7368&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnvidia-dlss-5-memes-jensen-huang-c0042421aba959f1433ba8798553bf18&amp;c=6451777210618613397&amp;mkt=en-us",
         "pubDate": "Wed, 18 Mar 2026 16:05:00 GMT",
         "category": "tech"
       },
       {
         "title": "2,400 Kaiser mental health professionals strike in Northern California over AI concerns",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb957e8b44c6cb7bddb3f11609961&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkaiser-mental-health-therapists-ai-2d05d37fd8be8f05491f0f15d97a78af&amp;c=7699031310010279524&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd4fa4a9f4a8d9a9987c04553290a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkaiser-mental-health-therapists-ai-2d05d37fd8be8f05491f0f15d97a78af&amp;c=7699031310010279524&amp;mkt=en-us",
         "pubDate": "Wed, 18 Mar 2026 14:12:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "US eases Venezuela oil sanctions as Trump seeks to boost world oil supply during Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb9442a3349f59d883b489accc95b&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-iran-war-venezuela-oil-supplies-prices-3a3ca446459b3ab0127c08ad0808cc15&amp;c=12032381070046154719&amp;mkt=en-us",
-        "pubDate": "Wed, 18 Mar 2026 13:12:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "The Hockey Hall of Fame expects to keep the US Olympic gold medal-winning pucks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb94542c9479c85d1fb495771e6f0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjack-hughes-golden-goal-puck-7d3fe9bf032c20a82a073a050c651fde&amp;c=4004743125199194463&amp;mkt=en-us",
-        "pubDate": "Wed, 18 Mar 2026 11:56:00 GMT",
-        "category": "us"
       }
     ],
     "npr": [
+      {
+        "title": "Japan&apos;s prime minister visits the White House under shadow of Iran war",
+        "link": "https://www.npr.org/2026/03/19/g-s1-114405/japan-takaichi-visit-white-house",
+        "pubDate": "Thu, 19 Mar 2026 06:24:19 -0400",
+        "category": "world"
+      },
+      {
+        "title": "New autism group meets to counter MAHA&apos;s &apos;ideological agenda&apos;",
+        "link": "https://www.npr.org/2026/03/19/nx-s1-5752354/new-autism-alternative-group-maha-ideological-agenda",
+        "pubDate": "Thu, 19 Mar 2026 06:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Cursive is back. But should students be learning the skill?",
+        "link": "https://www.npr.org/2026/03/19/nx-s1-5669426/cursive-handwriting-school-controversy",
+        "pubDate": "Thu, 19 Mar 2026 05:01:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "This tax season, there&apos;s a new deduction for interest on car loans",
+        "link": "https://www.npr.org/2026/03/19/nx-s1-5749420/auto-loan-interest-tax-deduction",
+        "pubDate": "Thu, 19 Mar 2026 05:00:00 -0400",
+        "category": "business"
+      },
+      {
+        "title": "It&apos;s called &apos;private credit&apos; \u2014 and it could lead to big trouble on Wall Street",
+        "link": "https://www.npr.org/2026/03/19/nx-s1-5747128/private-credit-equity-jamie-dimon-wall-street",
+        "pubDate": "Thu, 19 Mar 2026 05:00:00 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Trump started a war with no clear end in sight. They rarely end well for presidents",
+        "link": "https://www.npr.org/2026/03/19/nx-s1-5751262/war-polling-trump-presidents-iran",
+        "pubDate": "Thu, 19 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Why Trump&apos;s attacks and threats to Iran&apos;s Kharg Island are a big deal",
+        "link": "https://www.npr.org/2026/03/19/nx-s1-5750514/trump-iran-war-kharg-island-oil",
+        "pubDate": "Thu, 19 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "As overseas terrorists regroup, is the Iran war increasing danger in the U.S.?",
+        "link": "https://www.npr.org/2026/03/19/nx-s1-5752332/iran-war-terrorism-threat-us",
+        "pubDate": "Thu, 19 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Kick your tiredness with these 7 natural energy boosters",
+        "link": "https://www.npr.org/2026/03/19/nx-s1-5751855/tired-energy-fatigue",
+        "pubDate": "Thu, 19 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/03/19/nx-s1-5748547/morning-news-brief",
         "pubDate": "Thu, 19 Mar 2026 04:45:06 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Japan&apos;s PM to visit Trump as president continues pleas for help with Strait of Hormuz",
-        "link": "https://www.npr.org/2026/03/19/nx-s1-5749411/japans-pm-to-visit-trump-as-president-continues-pleas-for-help-with-strait-of-hormuz",
-        "pubDate": "Thu, 19 Mar 2026 04:44:58 -0400",
-        "category": "world"
-      },
-      {
-        "title": "ICE officers are taking DNA samples from protesters they&apos;ve arrested",
-        "link": "https://www.npr.org/2026/03/19/nx-s1-5739257/ice-officers-are-taking-dna-samples-from-protesters-theyve-arrested",
-        "pubDate": "Thu, 19 Mar 2026 04:44:38 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "National security officials say Iran is weaker, but its government is still standing",
-        "link": "https://www.npr.org/2026/03/19/nx-s1-5752341/national-security-officials-say-iran-is-weaker-but-its-government-is-still-standing",
-        "pubDate": "Thu, 19 Mar 2026 04:43:08 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Israel and Iran attack gas facilities, in a major escalation that rattles markets",
-        "link": "https://www.npr.org/2026/03/19/nx-s1-5753520/iran-israel-gas-field-attacks",
-        "pubDate": "Thu, 19 Mar 2026 04:16:52 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Former federal advisers on autism who were let go by RFK Jr. form a new committee",
-        "link": "https://www.npr.org/2026/03/18/nx-s1-5743563/former-federal-advisers-on-autism-who-were-let-go-by-rfk-jr-form-a-new-committee",
-        "pubDate": "Wed, 18 Mar 2026 16:07:54 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Cesar Chavez abused and raped women and girls, NYT investigation says",
-        "link": "https://www.npr.org/2026/03/18/nx-s1-5752253/cesar-chavez-sexual-assault-dolores-huerta-united-farm-workers",
-        "pubDate": "Wed, 18 Mar 2026 14:26:37 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A mom wrote a kids&apos; book on grief. She was just convicted of her husband&apos;s murder",
-        "link": "https://www.npr.org/2026/03/18/nx-s1-5751765/kouri-richins-trial-murder-husband-book",
-        "pubDate": "Wed, 18 Mar 2026 14:14:28 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Mamdani put Ramadan at the center of NYC&apos;s cultural life, bringing joy -- and a backlash",
-        "link": "https://www.npr.org/2026/03/18/nx-s1-5751787/mamdani-put-ramadan-at-the-center-of-nycs-cultural-life-bringing-joy-and-a-backlash",
-        "pubDate": "Wed, 18 Mar 2026 12:38:37 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Do you understand this billboard? If not, that&apos;s the whole point",
-        "link": "https://www.npr.org/2026/03/18/nx-s1-5746115/billboards-san-francisco-tech-ai-advertising-marketing",
-        "pubDate": "Wed, 18 Mar 2026 05:00:00 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
+        "title": "Gas price soars 25% after strikes on Qatar hub",
+        "link": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Mar 2026 10:02:06 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Police investigating bailout email from Mandelson to Epstein",
+        "link": "https://www.bbc.com/news/articles/c4g8ggelrd5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Mar 2026 09:50:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Health bosses can't confirm meningitis outbreak contained",
+        "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 19 Mar 2026 09:18:07 GMT",
+        "category": "health"
+      },
+      {
         "title": "Pay grows at slowest rate in more than five years",
         "link": "https://www.bbc.com/news/articles/cn0z0x82r00o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 19 Mar 2026 08:48:29 GMT",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Better NHS care might have saved 58 babies, BBC finds",
@@ -103,22 +115,10 @@
         "category": "Top News"
       },
       {
-        "title": "How the Iran war has left Europe facing yet another energy crisis",
+        "title": "How Europe sleepwalked into yet another energy crisis",
         "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 19 Mar 2026 05:59:49 GMT",
         "category": "world"
-      },
-      {
-        "title": "Public health alert as Kent meningitis cases rise",
-        "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 19 Mar 2026 04:17:14 GMT",
-        "category": "health"
-      },
-      {
-        "title": "All doctors in England warned to watch for meningitis symptoms after Kent outbreak",
-        "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 19 Mar 2026 04:17:14 GMT",
-        "category": "Top News"
       },
       {
         "title": "Child seen in sex abuse videos identified after researcher spots school badge",
@@ -139,12 +139,6 @@
         "category": "Top News"
       },
       {
-        "title": "Two men charged with allegedly spying on London Jewish community for Iran",
-        "link": "https://www.bbc.com/news/articles/cwygyvrwq89o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 18 Mar 2026 21:58:34 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
         "link": "https://www.bbc.com/news/articles/c2k8kp7d832o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 18 Mar 2026 18:51:07 GMT",
@@ -153,66 +147,91 @@
     ],
     "reuters": [
       {
-        "title": "Exxon, BP, Vitol ship most US fuels to Australia for a single month in three decades, traders say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb95ccd6a46a4a5323418bb2b01e0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fexxon-bp-vitol-ship-most-us-fuels-australia-single-month-three-decades-traders-2026-03-19%2f&amp;c=13924433235951753195&amp;mkt=en-us",
-        "pubDate": "Thu, 19 Mar 2026 00:36:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Musk says Tesla may 'tape out' next-generation AI6 chips in December",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb95a66d64a29b5d4a968b5ecaed1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fmusk-says-tesla-may-tape-out-next-generation-ai6-chips-december-2026-03-19%2f&amp;c=1986778898210056801&amp;mkt=en-us",
-        "pubDate": "Thu, 19 Mar 2026 00:29:00 GMT",
+        "title": "Iran war live: Tehran hits Qatar gas plant after Israel targeted South Pars gas field",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd4fe69744b4c95a9540959fbd463&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-updates-qatar-gas-price-hegseth-briefing-trump-takaichi-meeting-2026-03-19%2f&amp;c=12103446716406026316&amp;mkt=en-us",
+        "pubDate": "Thu, 19 Mar 2026 02:22:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "China offers to work with Southeast Asia on energy security",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb95da7d14e539fdcb03a1b4ad9b5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fchina-offers-work-with-southeast-asia-energy-security-2026-03-19%2f&amp;c=11097250525559984108&amp;mkt=en-us",
-        "pubDate": "Thu, 19 Mar 2026 00:22:00 GMT",
+        "title": "Exclusive: Airbus seeks Pratt &amp; Whitney damages over engine delays, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd501c4fd4d3f9c4afd890cfb702b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fairbus-seeks-pratt-whitney-damages-over-engine-delays-sources-say-2026-03-19%2f&amp;c=7816708329367631282&amp;mkt=en-us",
+        "pubDate": "Thu, 19 Mar 2026 02:17:00 GMT",
         "category": "business"
       },
       {
+        "title": "US bank regulators to unveil long-awaited capital rule rewrite",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd4fe69744b4c95a9540959fbd463&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fus-bank-regulators-unveil-long-awaited-capital-rule-rewrite-2026-03-19%2f&amp;c=10101965691566069523&amp;mkt=en-us",
+        "pubDate": "Thu, 19 Mar 2026 02:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US stock futures dip as soaring oil prices, Fed outlook spook investors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd4fe69744b4c95a9540959fbd463&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-dip-soaring-oil-prices-fed-outlook-spook-investors-2026-03-19%2f&amp;c=11714313041784499621&amp;mkt=en-us",
+        "pubDate": "Thu, 19 Mar 2026 01:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran considers levying transit fees on ships in Hormuz Strait, lawmaker says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd4fe69744b4c95a9540959fbd463&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-considers-levying-transit-fees-ships-hormuz-strait-lawmaker-says-2026-03-19%2f&amp;c=1270708136760554421&amp;mkt=en-us",
+        "pubDate": "Thu, 19 Mar 2026 01:49:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exxon, BP, Vitol ship most US fuels to Australia for a single month in three decades, traders say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd4fe69744b4c95a9540959fbd463&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fexxon-bp-vitol-ship-most-us-fuels-australia-single-month-three-decades-traders-2026-03-19%2f&amp;c=13924433235951753195&amp;mkt=en-us",
+        "pubDate": "Thu, 19 Mar 2026 00:36:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "As OpenClaw enthusiasm grips China, schoolkids and retirees alike raise 'lobsters'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb95e4a3b45cdbce4cb9a9dad318f&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fopenclaw-enthusiasm-grips-china-schoolkids-retirees-alike-raise-lobsters-2026-03-19%2f&amp;c=3188827443071847316&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd50274e54350883817b619f4f637&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fopenclaw-enthusiasm-grips-china-schoolkids-retirees-alike-raise-lobsters-2026-03-19%2f&amp;c=3188827443071847316&amp;mkt=en-us",
         "pubDate": "Thu, 19 Mar 2026 00:04:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Don't panic, don't capitulate: investors try to see beyond Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb95a66d64a29b5d4a968b5ecaed1&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fdont-panic-dont-capitulate-investors-try-see-beyond-iran-war-2026-03-19%2f&amp;c=8031242185376160661&amp;mkt=en-us",
-        "pubDate": "Wed, 18 Mar 2026 23:24:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prolonged Iran crisis to push buyers to non-Mideast supply, JERA executive says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb95a66d64a29b5d4a968b5ecaed1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fprolonged-iran-crisis-push-buyers-non-mideast-supply-jera-executive-says-2026-03-19%2f&amp;c=11225972198874370545&amp;mkt=en-us",
-        "pubDate": "Wed, 18 Mar 2026 23:24:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran war leaves deep, costly scar on Mideast energy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb95a66d64a29b5d4a968b5ecaed1&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fcommodities%2firan-war-leaves-deep-costly-scar-mideast-energy-2026-03-19%2f&amp;c=9526878091532186359&amp;mkt=en-us",
-        "pubDate": "Wed, 18 Mar 2026 23:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Eight states sue to block Nexstar's plan to acquire rival Tegna",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb95a66d64a29b5d4a968b5ecaed1&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2feight-states-sue-block-nexstars-plan-acquire-rival-tegna-2026-03-19%2f&amp;c=7131179229164210724&amp;mkt=en-us",
-        "pubDate": "Wed, 18 Mar 2026 21:52:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Judge ends asylum claim of Minnesotan boy detained by ICE, report says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb95a66d64a29b5d4a968b5ecaed1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fjudge-ends-asylum-claim-minnesotan-boy-detained-by-ice-report-says-2026-03-19%2f&amp;c=5119188395787046538&amp;mkt=en-us",
-        "pubDate": "Wed, 18 Mar 2026 20:44:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Mexican teachers protest, demand salary hikes ahead of World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbb95b7b1b4fdca0490f447c8575ee&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW540719032026RP1%2f&amp;c=14028197969568009397&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd4feb8474c52a5eedcb4e9802881&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW540719032026RP1%2f&amp;c=14028197969568009397&amp;mkt=en-us",
         "pubDate": "Wed, 18 Mar 2026 19:35:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "The fragile economies at the heart of rural hospitals",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd50350b44964a9d35ce8cc371a06&amp;url=https%3a%2f%2fwww.reuters.com%2fgraphics%2fUSA-HEALTH%2fRURAL-HOSPITALS%2fzgpolkmdbvd%2f&amp;c=16888518068417514123&amp;mkt=en-us",
+        "pubDate": "Wed, 18 Mar 2026 19:00:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Exclusive: US weighs military reinforcements as Iran war enters possible new phase",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bbd50054bd4b7ca556a2198eaa96d4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-weighs-military-reinforcements-iran-war-enters-possible-new-phase-2026-03-18%2f&amp;c=4960922844075836564&amp;mkt=en-us",
+        "pubDate": "Wed, 18 Mar 2026 15:47:00 GMT",
+        "category": "us"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Gold and silver sell off as inflation fears grip global markets",
+        "link": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
+        "pubDate": "Thu, 19 Mar 2026 10:47:19 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Eli Lilly\u2019s next-generation obesity drug retatrutide clears first late-stage diabetes trial",
+        "link": "https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html",
+        "pubDate": "Thu, 19 Mar 2026 10:45:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Alibaba revenue misses estimates in December quarter as net income drops 66%",
+        "link": "https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html",
+        "pubDate": "Thu, 19 Mar 2026 10:31:18 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Thursday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/03/18/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Wed, 18 Mar 2026 22:51:23 GMT",
+        "category": "us"
+      }
+    ]
   }
 }
