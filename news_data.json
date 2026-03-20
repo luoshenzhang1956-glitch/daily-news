@@ -1,25 +1,50 @@
 {
-  "updated_at": "2026-03-20T08:54:21.380309",
+  "updated_at": "2026-03-20T10:48:25.532343",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Heat wave in southwest US forecast to continue through weekend",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd255a15a24daba4426b22bdbd54ac&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fheat-wave-in-southwest-us-forecast-to-continue-through-weekend-f8c27a7edada475189a03d1ddeeb81b3&amp;c=13066285352904041061&amp;mkt=en-us",
+        "pubDate": "Fri, 20 Mar 2026 02:45:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/03/20/nx-s1-5748548/morning-news-brief",
-        "pubDate": "Fri, 20 Mar 2026 04:43:44 -0400",
+        "title": "Israel launches more strikes on Tehran as Iran continues attacks on Gulf oil facilities",
+        "link": "https://www.npr.org/2026/03/20/nx-s1-5754550/israel-strikes-tehran-iran-attacks-gulf",
+        "pubDate": "Fri, 20 Mar 2026 06:21:36 -0400",
         "category": "world"
       },
       {
-        "title": "Activist on reactions from the Latino community to Cesar Chavez abuse allegations",
-        "link": "https://www.npr.org/2026/03/20/nx-s1-5752240/activist-on-reactions-from-the-latino-community-to-cesar-chavez-abuse-allegations",
-        "pubDate": "Fri, 20 Mar 2026 04:42:57 -0400",
+        "title": "From mall to torture site: The debate over El Helicoide&apos;s future in Venezuela",
+        "link": "https://www.npr.org/2026/03/20/nx-s1-5745107/el-helicoides-venezuela-prison-torture",
+        "pubDate": "Fri, 20 Mar 2026 05:30:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Sorry, the quiz is SO GROSS this week. You&apos;ll see",
+        "link": "https://www.npr.org/2026/03/20/g-s1-114392/banksy-bat-oscars-postal-service-messi-war-news-quiz",
+        "pubDate": "Fri, 20 Mar 2026 05:01:00 -0400",
         "category": "us"
       },
       {
-        "title": "FCC approves the merger of local television owners Nexstar and Tegna",
-        "link": "https://www.npr.org/2026/03/20/nx-s1-5754031/fcc-approves-the-merger-of-local-television-owners-nexstar-and-tegna",
-        "pubDate": "Fri, 20 Mar 2026 04:42:12 -0400",
+        "title": "Why it&apos;s so hard for world leaders to bring down oil and gasoline prices",
+        "link": "https://www.npr.org/2026/03/20/nx-s1-5753985/oil-gasoline-prices-iran",
+        "pubDate": "Fri, 20 Mar 2026 05:00:00 -0400",
         "category": "business"
+      },
+      {
+        "title": "10 tried-and-true methods to stay off your phone, according to our readers",
+        "link": "https://www.npr.org/2026/03/20/nx-s1-5752170/clever-effective-ways-to-stay-off-your-phone",
+        "pubDate": "Fri, 20 Mar 2026 05:00:00 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "An immigration court few have heard of is quietly shaping policy behind the scenes",
+        "link": "https://www.npr.org/2026/03/20/nx-s1-5707535/trump-immigration-detention-appeals-board-deportation",
+        "pubDate": "Fri, 20 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "A Mexican teen migrant dies in a Florida jail holding ICE detainees",
@@ -40,60 +65,48 @@
         "category": "Top News"
       },
       {
-        "title": "U.S. Mint can begin to produce Trump commemorative gold coin",
-        "link": "https://www.npr.org/2026/03/20/g-s1-114533/us-mint-can-begin-to-produce-trump-commemorative-gold-coin",
-        "pubDate": "Fri, 20 Mar 2026 01:39:33 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump is dismantling democracy at &apos;unprecedented&apos; speed, global report finds",
-        "link": "https://www.npr.org/2026/03/20/nx-s1-5754021/trump-democracy-autocracy-dictatorship-reports",
-        "pubDate": "Fri, 20 Mar 2026 00:01:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "How an act of civil disobedience in 1978 Denver helped propel disability rights",
         "link": "https://www.npr.org/2026/03/19/nx-s1-5675264/how-an-act-of-civil-disobedience-in-1978-denver-helped-propel-disability-rights",
         "pubDate": "Thu, 19 Mar 2026 16:16:52 -0400",
         "category": "health"
-      },
-      {
-        "title": "Billboard ads for tech startups in San Francisco are cryptic on purpose",
-        "link": "https://www.npr.org/2026/03/19/nx-s1-5746115-e1/billboard-ads-for-tech-startups-in-san-francisco-are-cryptic-on-purpose",
-        "pubDate": "Thu, 19 Mar 2026 16:03:39 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "UK borrowing higher than expected in February",
-        "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 20 Mar 2026 08:14:17 GMT",
+        "title": "Typical energy bill forecast to rise by \u00a3332 a year in July",
+        "link": "https://www.bbc.com/news/articles/cede1nn8wp5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 20 Mar 2026 10:43:30 GMT",
         "category": "business"
       },
       {
-        "title": "The Salt Path author wrote secret first book despite claiming she was debut writer",
-        "link": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 20 Mar 2026 06:12:02 GMT",
+        "title": "Lab-grown food pipe offers new hope for young patients",
+        "link": "https://www.bbc.com/news/articles/c4gdvv8j2j1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 20 Mar 2026 10:41:40 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Warning UK borrowing rise makes energy bill help harder",
+        "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 20 Mar 2026 10:16:58 GMT",
         "category": "Top News"
       },
       {
-        "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-        "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 20 Mar 2026 01:41:58 GMT",
+        "title": "Trump's Pearl Harbor remark overshadows Japan PM visit",
+        "link": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 20 Mar 2026 09:55:19 GMT",
         "category": "us"
+      },
+      {
+        "title": "The Salt Path author confirms she wrote secret first book - despite claiming to be debut writer",
+        "link": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 20 Mar 2026 06:12:02 GMT",
+        "category": "Top News"
       },
       {
         "title": "Russia, China and the US \u2013 the global winners and losers of the Iran war",
         "link": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 20 Mar 2026 00:08:53 GMT",
         "category": "world"
-      },
-      {
-        "title": "Natural History Museum takes top spot as UK's most popular attraction",
-        "link": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 20 Mar 2026 00:05:07 GMT",
-        "category": "Top News"
       },
       {
         "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
@@ -118,82 +131,70 @@
         "link": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 19 Mar 2026 15:33:22 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Patients harmed as Covid pandemic brought NHS close to collapse, inquiry finds",
-        "link": "https://www.bbc.com/news/articles/ce8ldyy10z7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 19 Mar 2026 14:38:03 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "China's Sinochem cuts refinery runs, seeks prompt-delivery crude, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd0ac8120f455d86ca169c2a42df87&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fchinas-sinochem-cuts-refinery-runs-seeks-prompt-delivery-crude-sources-say-2026-03-20%2f&amp;c=14340246426844170262&amp;mkt=en-us",
-        "pubDate": "Fri, 20 Mar 2026 00:34:00 GMT",
+        "title": "US airlines lean on demand, fares as Iran war rattles overseas peers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd2585c5564862b1be4739579d09eb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-airlines-lean-demand-fares-iran-war-rattles-overseas-peers-2026-03-20%2f&amp;c=7040629308693825056&amp;mkt=en-us",
+        "pubDate": "Fri, 20 Mar 2026 02:03:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Spokesperson for Iran's Revolutionary Guards killed in strike, state TV says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd0ac8120f455d86ca169c2a42df87&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fspokesperson-irans-revolutionary-guards-killed-strike-state-tv-says-2026-03-20%2f&amp;c=9231444635841202654&amp;mkt=en-us",
-        "pubDate": "Thu, 19 Mar 2026 23:56:00 GMT",
+        "title": "Security concerns grow around World Cup in US after stalled funding",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd2586153d46e5a6ea60218ae7b46b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fsecurity-concerns-grow-around-world-cup-us-after-stalled-funding-2026-03-20%2f&amp;c=13004002539701392030&amp;mkt=en-us",
+        "pubDate": "Fri, 20 Mar 2026 02:01:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Exclusive: Amazon plans smartphone comeback more than a decade after Fire Phone flop",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd2585c5564862b1be4739579d09eb&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2famazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20%2f&amp;c=9708913369229006623&amp;mkt=en-us",
+        "pubDate": "Fri, 20 Mar 2026 02:01:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Unilever confirms McCormick offer that would unite Hellmann's with Cholula owner",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd0ac8120f455d86ca169c2a42df87&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fhellmans-mayonnaise-maker-unilever-takeover-talks-with-mccormick-food-business-2026-03-20%2f&amp;c=14097885131063402543&amp;mkt=en-us",
-        "pubDate": "Thu, 19 Mar 2026 23:08:00 GMT",
+        "title": "US regulator closes defect petition covering over 2 million Tesla vehicles",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd2585c5564862b1be4739579d09eb&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fus-auto-safety-regulator-closes-defect-petition-over-2-million-tesla-vehicles-2026-03-20%2f&amp;c=12081960559359629500&amp;mkt=en-us",
+        "pubDate": "Fri, 20 Mar 2026 01:57:00 GMT",
         "category": "Top News"
       },
       {
         "title": "War in Iran threatens fresh food-price shock across developing world",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd0ac8120f455d86ca169c2a42df87&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fwar-iran-threatens-fresh-food-price-shock-across-developing-world-2026-03-20%2f&amp;c=18052265595525349823&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd2585c5564862b1be4739579d09eb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fwar-iran-threatens-fresh-food-price-shock-across-developing-world-2026-03-20%2f&amp;c=18052265595525349823&amp;mkt=en-us",
         "pubDate": "Thu, 19 Mar 2026 23:03:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "China's record oil output reaches limits of what's possible",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd0ac8120f455d86ca169c2a42df87&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fchinas-record-oil-output-reaches-limits-whats-possible-2026-03-20%2f&amp;c=17184682899786105014&amp;mkt=en-us",
-        "pubDate": "Thu, 19 Mar 2026 22:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Japan may stockpile US oil domestically, PM says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd0ad8fff54d82ae430be667009234&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fjapan-may-stockpile-us-oil-domestically-pm-says-2026-03-20%2f&amp;c=6956527561089089315&amp;mkt=en-us",
-        "pubDate": "Thu, 19 Mar 2026 21:34:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "ECB to start lifting rates as soon as April on inflation pressures, brokerages say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd0ac8120f455d86ca169c2a42df87&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fjp-morgan-sees-ecb-hiking-rates-april-july-rising-inflation-risks-2026-03-20%2f&amp;c=5401246943175452429&amp;mkt=en-us",
-        "pubDate": "Thu, 19 Mar 2026 21:26:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Judge says he will bar RFK move aimed at cutting gender-affirming care for minors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd0afc4a624edc88ae8f22dcfea670&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fjudge-says-he-will-bar-rfk-move-aimed-cutting-gender-affirming-care-minors-2026-03-20%2f&amp;c=1904323648493899055&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd2585c5564862b1be4739579d09eb&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fjudge-says-he-will-bar-rfk-move-aimed-cutting-gender-affirming-care-minors-2026-03-20%2f&amp;c=1904323648493899055&amp;mkt=en-us",
         "pubDate": "Thu, 19 Mar 2026 18:02:00 GMT",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Israel launches new wave of attacks on Iran as crisis deepens",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd0ac8120f455d86ca169c2a42df87&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftrump-tells-israel-not-repeat-strikes-iranian-energy-crisis-deepens-2026-03-19%2f&amp;c=8296757982261486425&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd2585c5564862b1be4739579d09eb&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftrump-tells-israel-not-repeat-strikes-iranian-energy-crisis-deepens-2026-03-19%2f&amp;c=8296757982261486425&amp;mkt=en-us",
         "pubDate": "Thu, 19 Mar 2026 13:58:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Iran war live: Tehran hits Qatar gas plant as Trump warns against further attacks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd0ac8120f455d86ca169c2a42df87&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-updates-qatar-gas-price-hegseth-briefing-trump-takaichi-meeting-2026-03-19%2f&amp;c=12103446716406026316&amp;mkt=en-us",
-        "pubDate": "Thu, 19 Mar 2026 12:39:00 GMT",
+        "title": "High-speed combat drone production starts at new US Anduril plant in days",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd2585c5564862b1be4739579d09eb&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fhigh-speed-combat-drone-production-starts-new-us-anduril-plant-days-2026-03-19%2f&amp;c=14215477340476631305&amp;mkt=en-us",
+        "pubDate": "Thu, 19 Mar 2026 13:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "North Korean leader's teenage daughter drives tank in latest public appearance",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bd2585c5564862b1be4739579d09eb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fnorth-koreas-kim-leads-offensive-tactical-drill-with-new-tanks-kcna-says-2026-03-19%2f&amp;c=5295256559477510795&amp;mkt=en-us",
+        "pubDate": "Thu, 19 Mar 2026 13:23:00 GMT",
         "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Nvidia&apos;s Huang pitches AI tokens on top of salary as agents reshape how humans work",
-        "link": "https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html",
-        "pubDate": "Fri, 20 Mar 2026 07:57:45 GMT",
-        "category": "tech"
+        "title": "Buy Chevron as its Middle East exposure is lower than rival Exxon\u2019s, says HSBC",
+        "link": "https://www.cnbc.com/2026/03/20/buy-chevron-as-its-middle-east-exposure-is-lower-than-rival-exxons-says-hsbc.html",
+        "pubDate": "Fri, 20 Mar 2026 10:34:37 GMT",
+        "category": "us"
       },
       {
         "title": "FedEx beats on top and bottom lines, raises guidance on strong performance",
