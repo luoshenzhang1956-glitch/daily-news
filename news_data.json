@@ -1,38 +1,19 @@
 {
-  "updated_at": "2026-03-22T08:43:53.266216",
+  "updated_at": "2026-03-22T10:36:54.794200",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Lightning bring 3-game win streak into matchup against the Flames",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab5d0f5547e2ad50bed736bcecaf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcalgary-flames-tampa-bay-lightning-d386bc3dde4e44cc91f9e437c98df22e&amp;c=15133894826819321999&amp;mkt=en-us",
-        "pubDate": "Sun, 22 Mar 2026 01:11:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "A strike on a hospital in Sudan killed at least 64 people, WHO says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab5ea3b147bb925c2fa8657dae2a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsudan-strike-darfur-rsf-army-hospital-127fa3eb59ac1d19f72d1f7a1b2624bd&amp;c=9512749380702107367&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 23:46:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Seiya Suzuki to miss Cubs\u2019 opener after injuring his right knee in World Baseball Classic",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab47d7b44255ae4e0210ae8d9d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2fseiya-suzuki-chicago-cubs-knee-1eac12d1313a712e89b6cf696b06be21&amp;c=13946947729620507594&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 16:29:00 GMT",
+        "title": "Cortina d&apos;Ampezzo mixes Olympic legacy with Alpine glamour",
+        "link": "https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour",
+        "pubDate": "Sun, 22 Mar 2026 06:00:00 -0400",
         "category": "world"
       },
-      {
-        "title": "Iran targets British-US base and its main nuclear enrichment site is struck again",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab487fff49008402d753f9b46a57&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e&amp;c=12180080247312487202&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 10:13:00 GMT",
-        "category": "us"
-      }
-    ],
-    "npr": [
       {
         "title": "Cuba&apos;s power grid collapses leaving it without electricity for the 3rd time this month",
         "link": "https://www.npr.org/2026/03/22/nx-s1-5756288/cubas-power-grid-collapses",
         "pubDate": "Sun, 22 Mar 2026 04:12:26 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "A strike on a hospital in Sudan killed at least 64 people, WHO says",
@@ -77,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Opinion: Lessons from a bad weather forecast",
-        "link": "https://www.npr.org/2026/03/21/nx-s1-5747945/opinion-lessons-from-a-bad-weather-forecast",
-        "pubDate": "Sat, 21 Mar 2026 08:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "When health insurance costs $2,500 per month, families make tough choices",
         "link": "https://www.npr.org/2026/03/21/nx-s1-5735666/expensive-health-insurance-costs-affordability",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 -0400",
@@ -93,8 +68,20 @@
       {
         "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
         "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 22 Mar 2026 07:39:50 GMT",
+        "pubDate": "Sun, 22 Mar 2026 10:28:47 GMT",
         "category": "world"
+      },
+      {
+        "title": "I spent five months in a mother and baby mental health unit - here's what I want mums to know",
+        "link": "https://www.bbc.com/news/articles/c5yve15lvgko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 22 Mar 2026 07:09:49 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Who needs cup final victory most - Arteta or Guardiola?",
+        "link": "https://www.bbc.com/sport/football/articles/cvg03xv5qq0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 22 Mar 2026 06:09:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Foreign secretary denounces 'reckless Iran threats' after missiles fired at Diego Garcia",
@@ -103,13 +90,7 @@
         "category": "Top News"
       },
       {
-        "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
-        "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 22 Mar 2026 01:04:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Club vibes without the hangover': The twenty somethings going out - in the gym",
+        "title": "'Club vibes without the hangover': The twenty-somethings going out - in the gym",
         "link": "https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 22 Mar 2026 00:56:15 GMT",
         "category": "business"
@@ -143,77 +124,23 @@
         "link": "https://www.bbc.com/news/articles/cy413ke31d8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 21 Mar 2026 18:41:31 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Five questions that still need answering about the meningitis outbreak",
-        "link": "https://www.bbc.com/news/articles/cz783d70x8ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 21 Mar 2026 09:50:45 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Six killed in Qatar helicopter crash due to technical malfunction, ministry says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab66d993403ebeb9a06e582d49d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsix-killed-qatar-helicopter-crash-due-technical-malfunction-ministry-says-2026-03-22%2f&amp;c=5747419994230390432&amp;mkt=en-us",
-        "pubDate": "Sun, 22 Mar 2026 00:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab96a76147d88525885ef1ab8c81&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2ftencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22%2f&amp;c=13283748745909087065&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 23:36:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Flyers take down Sharks as road win streak hits 7",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab66d993403ebeb9a06e582d49d8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fflyers-take-down-sharks-road-win-streak-hits-7--flm-2026-03-22%2f&amp;c=5389322814907751955&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 22:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Italians begin voting in high-stakes justice referendum",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab66d993403ebeb9a06e582d49d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fitalians-begin-voting-high-stakes-justice-referendum-2026-03-22%2f&amp;c=8158897357572427297&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 22:20:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Vietnam's Communist Party secures nearly 97% of assembly seats",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab66d993403ebeb9a06e582d49d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fvietnams-communist-party-secures-nearly-97-assembly-seats-2026-03-22%2f&amp;c=9073269055701036376&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 21:29:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Osaka weighs clay court season, motherhood 'dilemma'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab66d993403ebeb9a06e582d49d8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ftennis%2fosaka-clay-court-season-motherhood-dilemma-2026-03-22%2f&amp;c=5217964564570696988&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 21:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Paris and Marseille in focus as French vote in local election runoffs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab66d993403ebeb9a06e582d49d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fparis-marseille-focus-french-vote-local-election-runoffs-2026-03-22%2f&amp;c=3998955434482314963&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 20:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Japan could consider Hormuz minesweeping if ceasefire reached, minister says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab66d993403ebeb9a06e582d49d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapan-could-consider-hormuz-minesweeping-if-ceasefire-reached-minister-says-2026-03-22%2f&amp;c=5879147283504439347&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 19:43:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump, Iran threaten power, energy targets as war escalates",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab66d993403ebeb9a06e582d49d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-threatens-iran-with-power-plant-strikes-over-hormuz-blockade-2026-03-22%2f&amp;c=15743070240430209943&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 16:16:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "G7 ready to act to protect global energy supplies, backs Hormuz Strait security",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfab66d993403ebeb9a06e582d49d8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fg7-ready-act-protect-global-energy-supplies-backs-hormuz-strait-security-2026-03-21%2f&amp;c=16824512313104685362&amp;mkt=en-us",
-        "pubDate": "Sat, 21 Mar 2026 10:58:00 GMT",
-        "category": "Top News"
+        "title": "Kerr regains world indoor 3,000m gold medal in Poland",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69bfc6002df74a10b134e317b67af9ba&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fkerr-regains-world-indoor-3000m-gold-medal-poland-2026-03-22%2f&amp;c=9816307176955146131&amp;mkt=en-us",
+        "pubDate": "Sat, 21 Mar 2026 18:50:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
+      {
+        "title": "From satellites to space data centers: Why low earth orbit is attracting billions in investment",
+        "link": "https://www.cnbc.com/2026/03/22/why-low-earth-orbit-is-attracting-billions-in-investment.html",
+        "pubDate": "Sun, 22 Mar 2026 07:10:09 GMT",
+        "category": "tech"
+      },
       {
         "title": "SEC Commissioner Hester Peirce on ETFs: &apos;We want to work with people on new products&apos;",
         "link": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
