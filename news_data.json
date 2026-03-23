@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-03-23T17:04:23.774501",
+  "updated_at": "2026-03-23T19:05:51.481850",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Live updates: Trump says Iran \u2018wants to make a deal\u2019 but the Islamic Republic denies any talks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c18ea02dde451cb87843a21023374b&amp;url=https%3a%2f%2fapnews.com%2flive%2firan-war-israel-trump-03-23-2026&amp;c=9456784592354919048&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Mar 2026 11:15:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "President Trump and Iranian officials have conflicting stories about ongoing talks",
+        "link": "https://www.npr.org/2026/03/23/nx-s1-5757380/president-trump-and-iranian-officials-have-conflicting-stories-about-ongoing-talks",
+        "pubDate": "Mon, 23 Mar 2026 14:10:22 -0400",
+        "category": "world"
+      },
+      {
+        "title": "8 architecture and culture groups sue Trump and the Kennedy Center board",
+        "link": "https://www.npr.org/2026/03/23/nx-s1-5757505/kennedy-center-trump-lawsuit",
+        "pubDate": "Mon, 23 Mar 2026 14:01:44 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Supreme Court\u00a0declines to\u00a0review\u00a0press freedom case",
         "link": "https://www.npr.org/2026/03/23/nx-s1-5757440/supreme-court-press-freedom",
@@ -19,10 +38,10 @@
         "title": "Trump delays strikes on Iran&apos;s power plants for 5 days. And, ICE deploys to airports",
         "link": "https://www.npr.org/2026/03/23/g-s1-114792/up-first-newsletter-trump-iran-strait-of-hormuz-dhs-funding-tsa-ice-agents-immigration",
         "pubDate": "Mon, 23 Mar 2026 08:02:59 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
-        "title": "Trump says Iran talks  striking Iran&apos;s power plants for 5 days during &apos;productive conversations&apos;",
+        "title": "Trump says the U.S. is in talks with Iran to end the war, which Iran denies",
         "link": "https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
         "pubDate": "Mon, 23 Mar 2026 06:37:23 -0400",
         "category": "Top News"
@@ -32,6 +51,12 @@
         "link": "https://www.npr.org/2026/03/23/nx-s1-5699407/glp-1-ozempic-zepbound-wegovy-nutrition",
         "pubDate": "Mon, 23 Mar 2026 05:00:00 -0400",
         "category": "health"
+      },
+      {
+        "title": "With more older drivers on the road, states try to balance safety and mobility",
+        "link": "https://www.npr.org/2026/03/23/nx-s1-5672445/older-drivers-licensing-safety",
+        "pubDate": "Mon, 23 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "As D.C.&apos;s cherry blossom trees near peak bloom, here&apos;s a guide to their history",
@@ -44,37 +69,37 @@
         "link": "https://www.npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back",
         "pubDate": "Mon, 23 Mar 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "With more older drivers on the road, states try to balance safety and mobility",
-        "link": "https://www.npr.org/2026/03/23/nx-s1-5672445/older-drivers-licensing-safety",
-        "pubDate": "Mon, 23 Mar 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Worried about a shaky stock market? This is what financial advisers suggest you do",
-        "link": "https://www.npr.org/2026/03/23/nx-s1-5742568/iran-war-investments-retirement-529-stock-market",
-        "pubDate": "Mon, 23 Mar 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A LaGuardia crash kills 2, hurts dozens and closes the airport. Here&apos;s what to know",
-        "link": "https://www.npr.org/2026/03/23/g-s1-114773/laguardia-air-canada-plane-collision-fire-truck",
-        "pubDate": "Mon, 23 Mar 2026 04:46:31 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-        "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Mar 2026 16:50:12 GMT",
+        "title": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
+        "link": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Mar 2026 18:55:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
+        "link": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Mar 2026 18:31:26 GMT",
         "category": "world"
+      },
+      {
+        "title": "Trump says 'good' talks ongoing with Iran - but offers few details",
+        "link": "https://www.bbc.com/news/articles/c75kl47zez3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Mar 2026 18:06:50 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Slovenia becomes first EU country to introduce fuel rationing",
+        "link": "https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 23 Mar 2026 17:45:25 GMT",
+        "category": "Top News"
       },
       {
         "title": "PM warns against 'false comfort' of thinking Iran war will end quickly",
         "link": "https://www.bbc.com/news/articles/cy01l49kkgdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Mar 2026 16:46:51 GMT",
+        "pubDate": "Mon, 23 Mar 2026 17:07:32 GMT",
         "category": "Top News"
       },
       {
@@ -84,13 +109,13 @@
         "category": "business"
       },
       {
-        "title": "How a content creator hoped a YouTube alibi would help him avoid justice for murder",
+        "title": "How a YouTuber used a fake live stream to cover up the murder of his pregnant partner",
         "link": "https://www.bbc.com/news/articles/c4g8d8pz0xyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 23 Mar 2026 16:08:35 GMT",
         "category": "Top News"
       },
       {
-        "title": "Huel bought by Danone in \u20ac1bn deal",
+        "title": "British supplement maker Huel bought by Danone for reported \u20ac1bn",
         "link": "https://www.bbc.com/news/articles/czre7pl600go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 23 Mar 2026 15:50:44 GMT",
         "category": "Top News"
@@ -102,31 +127,81 @@
         "category": "Top News"
       },
       {
-        "title": "Trump says 'good' talks ongoing with Iran - but offers few details",
-        "link": "https://www.bbc.com/news/articles/c75kl47zez3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Mar 2026 15:00:06 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Is ex-Google boss Matt Brittin the right person to steer the BBC?",
-        "link": "https://www.bbc.com/news/articles/ce9mz082y5go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Mar 2026 13:50:02 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Meningitis outbreak passes peak, says health agency",
         "link": "https://www.bbc.com/news/articles/ckgwrxdldmzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 23 Mar 2026 13:31:17 GMT",
         "category": "health"
-      },
-      {
-        "title": "Hospital apology over boy's death after trainee doctor pierced artery",
-        "link": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 23 Mar 2026 03:01:09 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Dutch doubt over Depay for World Cup warm-up matches",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c18ebc73f2415c9d84611e8dd8a930&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fdutch-doubt-over-depay-world-cup-warm-up-matches-2026-03-23%2f&amp;c=13307123185177683988&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Mar 2026 10:10:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Apple to hold annual developers conference from June 8",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c18ecc9d6141a1afcbc01d1c73086e&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fapple-hold-annual-developers-conference-june-2026-03-23%2f&amp;c=70787511625745030&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Mar 2026 09:05:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Two dead in New York jet collision, Trump deploys ICE to strained US airports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c18ebc61a34d2b86ad8cd76417e3b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-air-system-under-strain-frozen-funding-ice-agents-airports-crash-shutting-2026-03-23%2f&amp;c=5225160976932647779&amp;mkt=en-us",
+        "pubDate": "Mon, 23 Mar 2026 08:11:00 GMT",
+        "category": "us"
+      }
+    ],
+    "markets": [
+      {
+        "title": "What investor Stephanie Link is buying as stocks rip higher to start the week",
+        "link": "https://www.cnbc.com/2026/03/23/what-investor-stephanie-link-is-buying-as-stocks-rip-higher-to-start-the-week.html",
+        "pubDate": "Mon, 23 Mar 2026 18:33:06 GMT",
+        "category": "us"
+      },
+      {
+        "title": "WNBPA President Nneka Ogwumike says new CBA will have a major impact on players&apos; bank accounts",
+        "link": "https://www.cnbc.com/2026/03/23/wnbpa-nneka-ogwumike-cba-players-bank-accounts.html",
+        "pubDate": "Mon, 23 Mar 2026 18:09:50 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Palantir, Flutter, United Airlines, Synopsys, Insmed &amp; more",
+        "link": "https://www.cnbc.com/2026/03/23/stocks-making-biggest-midday-moves-pltr-flut-ual-snps-insm.html",
+        "pubDate": "Mon, 23 Mar 2026 17:58:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Volume in stock and oil futures surged minutes before Trump&apos;s market-turning post",
+        "link": "https://www.cnbc.com/2026/03/23/volume-in-stock-and-oil-futures-surged-minutes-before-trumps-market-turning-post.html",
+        "pubDate": "Mon, 23 Mar 2026 17:25:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed&apos;s Goolsbee says he&apos;s worried about inflation in &apos;fraught but intense&apos; climate",
+        "link": "https://www.cnbc.com/2026/03/23/feds-goolsbee-says-hes-worried-about-inflation-in-fraught-but-intense-climate.html",
+        "pubDate": "Mon, 23 Mar 2026 16:39:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "U.S. executives, from Apple to Eli Lilly, revamp their push into the world&apos;s second-largest economy at the China Development Forum",
+        "link": "https://www.cnbc.com/2026/03/23/apple-eli-lilly-us-china-market-push-trade-truce.html",
+        "pubDate": "Mon, 23 Mar 2026 14:52:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "BlackRock\u2019s Larry Fink warns against market timing, says missing best days can halve returns",
+        "link": "https://www.cnbc.com/2026/03/23/blackrocks-larry-fink-warns-against-trying-to-time-the-market-.html",
+        "pubDate": "Mon, 23 Mar 2026 14:06:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bain Capital taps buyer interest for Bridge Data Centres, offering up to 70% stake, sources say",
+        "link": "https://www.cnbc.com/2026/03/18/bain-capital-bridge-data-centres-ai-buildout.html",
+        "pubDate": "Mon, 23 Mar 2026 11:49:28 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
