@@ -1,13 +1,44 @@
 {
-  "updated_at": "2026-03-24T19:16:05.858456",
+  "updated_at": "2026-03-24T20:52:18.049807",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Trump administration\u2019s $1B deal to stop offshore wind shows an evolution in its anti-wind strategy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c2f8fa81d94df48ed30202b9d2300d&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-offshore-wind-energy-climate-totalenergies-interior-9e7d909510473f9eb13904c8035fe047&amp;c=17246044169453843204&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Mar 2026 12:57:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Brazil\u2019s Bolsonaro to serve 27-year sentence for attempted coup at home due to ill health",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c2f90aa640449c9d99e70430fe0278&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjair-bolsonaro-sentence-coup-home-bf37e7ee479349cb9c7a00339e984a83&amp;c=1863993040147420660&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Mar 2026 12:51:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Group\u2019s report highlights how guns in the US get from legitimate stores to crime scenes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c2f8fa80754553a9a1d67ce1a9960e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fguns-straw-purchases-trafficking-faf5df830c0a948b9f6a34767678f88f&amp;c=9142761286937675176&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Mar 2026 12:04:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "Despite state bans and restrictions, the number of abortions in the U.S. holds steady",
+        "link": "https://www.npr.org/2026/03/24/nx-s1-5757550-e1/despite-state-bans-and-restrictions-the-number-of-abortions-in-the-u-s-holds-steady",
+        "pubDate": "Tue, 24 Mar 2026 16:11:20 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Cuba sends doctors on medical missions. The U.S. isn&apos;t a fan",
+        "link": "https://www.npr.org/2026/03/24/nx-s1-5746626/cuba-doctors-mission-blockade",
+        "pubDate": "Tue, 24 Mar 2026 15:59:57 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Senate confirms Trump&apos;s pick for new role of fraud enforcement at Justice Department",
         "link": "https://www.npr.org/2026/03/24/g-s1-114956/trump-fraud-enforcement-justice-role",
         "pubDate": "Tue, 24 Mar 2026 15:06:59 -0400",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "The Israeli military wants several more weeks to fight Iran war, officials say",
@@ -25,7 +56,7 @@
         "title": "A professional cornhole player and quadruple amputee is arrested for murder",
         "link": "https://www.npr.org/2026/03/24/nx-s1-5759259/cornhole-amputee-dayton-webber-murder-arrest",
         "pubDate": "Tue, 24 Mar 2026 12:36:53 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Will President Trump act on his threat to take Cuba?",
@@ -50,25 +81,13 @@
         "link": "https://www.npr.org/2026/03/24/nx-s1-5751889/trump-delivers-farmers-another-financial-blow-with-iran-war",
         "pubDate": "Tue, 24 Mar 2026 05:00:00 -0400",
         "category": "business"
-      },
-      {
-        "title": "Despite state bans and restrictions, the number of abortions in the U.S. holds steady",
-        "link": "https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol",
-        "pubDate": "Tue, 24 Mar 2026 00:01:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Trump administration to pay French company $1B to drop U.S. offshore wind leases",
-        "link": "https://www.npr.org/2026/03/23/g-s1-114868/trump-totalenergies-offshore-wind-leases",
-        "pubDate": "Mon, 23 Mar 2026 16:36:57 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
         "title": "Mohamed Salah to leave Liverpool at end of season",
         "link": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 24 Mar 2026 19:11:50 GMT",
+        "pubDate": "Tue, 24 Mar 2026 20:34:23 GMT",
         "category": "Top News"
       },
       {
@@ -79,6 +98,12 @@
       },
       {
         "title": "Small window open for US-Iran talks, but swift end to war still unlikely",
+        "link": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 24 Mar 2026 18:04:04 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Lyse Doucet: Small window open for US-Iran talks, but swift end to war still unlikely",
         "link": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 24 Mar 2026 18:04:04 GMT",
         "category": "Top News"
@@ -94,12 +119,6 @@
         "link": "https://www.bbc.com/news/articles/c5yxv5kzlv5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 24 Mar 2026 16:48:34 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Pilots killed in LaGuardia plane crash named",
-        "link": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 24 Mar 2026 16:20:31 GMT",
-        "category": "us"
       },
       {
         "title": "Iran war shows norms of international conflicts have been overturned",
@@ -126,25 +145,68 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Baltimore is first U.S. city to sue over Grok deepfake porn as legal pressure mounts on Musk&apos;s xAI",
-        "link": "https://www.cnbc.com/2026/03/24/musk-xai-sued-baltimore-grok-deepfake-porn.html",
-        "pubDate": "Tue, 24 Mar 2026 19:10:26 GMT",
-        "category": "tech"
+        "title": "Estee Lauder's bet on Puig is bold fragrance play in a volatile world",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c2f91647e243eab5faa7f37e651d06&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2festee-lauders-bet-puig-is-bold-fragrance-play-volatile-world-2026-03-24%2f&amp;c=14852783515654083616&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Mar 2026 08:44:00 GMT",
+        "category": "world"
       },
       {
-        "title": "The charts to watch in tech, gold and emerging market stocks as volatility persists",
-        "link": "https://www.cnbc.com/2026/03/24/the-charts-to-watch-in-tech-gold-and-emerging-market-stocks-as-volatility-persists.html",
-        "pubDate": "Tue, 24 Mar 2026 18:44:34 GMT",
+        "title": "Apple to bring paid ads to maps to US, Canada this summer",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c2f9174cc447ffb6d5d7a49aa50b0d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fapple-bring-paid-ads-maps-us-canada-this-summer-2026-03-24%2f&amp;c=13626861725694529434&amp;mkt=en-us",
+        "pubDate": "Tue, 24 Mar 2026 07:01:00 GMT",
+        "category": "us"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Market sell-off lets investors turn straw into gold with these tax-smart moves",
+        "link": "https://www.cnbc.com/2026/03/24/turn-the-market-sell-off-into-a-tax-smart-advantage-for-your-portfolio-.html",
+        "pubDate": "Tue, 24 Mar 2026 19:38:22 GMT",
         "category": "us"
       },
       {
-        "title": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss",
-        "link": "https://www.cnbc.com/2026/03/23/pfizer-lyme-disease-vaccine-trial-fda-approval.html",
-        "pubDate": "Tue, 24 Mar 2026 18:13:35 GMT",
-        "category": "health"
+        "title": "World has &apos;never experienced&apos; soaring refining margins like this, TotalEnergies CEO tells CNBC",
+        "link": "https://www.cnbc.com/2026/03/24/totalenergies-ceo-world-has-never-experienced-refining-margins-like-this-.html",
+        "pubDate": "Tue, 24 Mar 2026 19:28:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
+        "link": "https://www.cnbc.com/2026/03/24/jamie-dimon-iran-war-middle-east-peace-prospects-long-term.html",
+        "pubDate": "Tue, 24 Mar 2026 18:14:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Moody&apos;s cuts rating on private credit fund run by KKR and Future Standard to junk as bad loans grow",
+        "link": "https://www.cnbc.com/2026/03/24/moodys-private-credit-fund-kkr-future-standard-junk.html",
+        "pubDate": "Tue, 24 Mar 2026 14:55:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jeffrey Gundlach says it&apos;s a \u2018going nowhere\u2019 market, warns of private credit strains",
+        "link": "https://www.cnbc.com/2026/03/23/jeffrey-gundlach-says-its-a-going-nowhere-market-warns-of-private-credit-strains.html",
+        "pubDate": "Tue, 24 Mar 2026 14:48:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Netgear, Jefferies Financial, Apollo Global &amp; more",
+        "link": "https://www.cnbc.com/2026/03/24/stocks-making-the-biggest-moves-premarket-ntgr-jef-apo.html",
+        "pubDate": "Tue, 24 Mar 2026 11:50:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Apollo gives investors only 45% of requested withdrawals from $15 billion private credit fund",
+        "link": "https://www.cnbc.com/2026/03/23/apollo-private-credit-fund-gives-investors-only-45percent-of-requested-withdrawals.html",
+        "pubDate": "Tue, 24 Mar 2026 00:48:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Volume in stock and oil futures surged minutes before Trump&apos;s market-turning post",
+        "link": "https://www.cnbc.com/2026/03/23/volume-in-stock-and-oil-futures-surged-minutes-before-trumps-market-turning-post.html",
+        "pubDate": "Mon, 23 Mar 2026 21:27:00 GMT",
+        "category": "Top News"
       }
     ]
   }
