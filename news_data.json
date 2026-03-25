@@ -1,26 +1,44 @@
 {
-  "updated_at": "2026-03-25T17:12:29.452692",
+  "updated_at": "2026-03-25T19:06:04.365836",
   "news": {
     "ap": [
       {
-        "title": "Don Granato selected as US coach for the world hockey championships",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c416fff7364503bd8843f9f62e6bed&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdon-granato-us-worlds-coach-83e63168a0b8ed93388c0114df420f62&amp;c=8965764343579432184&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Mar 2026 09:38:00 GMT",
-        "category": "world"
+        "title": "Melania Trump shares the spotlight with a robot at an education and technology event",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c431ab16364d239e981e6d281acaaf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmelania-trump-robot-technology-education-summit-4753e34c6c80ca49623fec95ba99a275&amp;c=9261104752424281398&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Mar 2026 11:28:00 GMT",
+        "category": "tech"
       },
       {
-        "title": "BBC names ex-Google executive Matt Brittin its new director-general as it faces a feud with Trump",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c41718828341c1814ac9b744008ca6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbbc-new-director-b455487b304f1177745d18bba42cd2a0&amp;c=4825117934117908800&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Mar 2026 07:12:00 GMT",
-        "category": "business"
+        "title": "Kaori Sakamoto takes the lead as she chases a fourth and last figure skating world title",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c43188abd6413da55e862172137251&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffigure-skating-worlds-36e38145e7be8b0a64849f2111da7f4f&amp;c=13030983962541235711&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Mar 2026 10:20:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
       {
+        "title": "Greetings from Turkey&apos;s border with Iran, where Iranians let loose on the dance floor",
+        "link": "https://www.npr.org/2026/03/25/nx-s1-5760830/iranian-disco-turkey-iran",
+        "pubDate": "Wed, 25 Mar 2026 14:27:54 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Jury orders Meta and Google to pay woman $3 million in social media addiction trial",
+        "link": "https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict",
+        "pubDate": "Wed, 25 Mar 2026 13:32:39 -0400",
+        "category": "us"
+      },
+      {
+        "title": "For the first time in more than 1,400 years, Church of England gets a woman leader",
+        "link": "https://www.npr.org/2026/03/25/nx-s1-5753707/archbishop-canterbury-church-england-sarah-mullally",
+        "pubDate": "Wed, 25 Mar 2026 13:11:19 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Savannah Guthrie&apos;s first interview since mother Nancy vanished: &apos;I imagine her terror&apos;",
         "link": "https://www.npr.org/2026/03/25/nx-s1-5760906/savannah-guthrie-interview-mother-nancy",
         "pubDate": "Wed, 25 Mar 2026 12:37:20 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "At the Legacy Museum, facing America&apos;s racist past is a path, not a punishment",
@@ -47,24 +65,6 @@
         "category": "Top News"
       },
       {
-        "title": "Yep, a mom&apos;s COVID shot during pregnancy protects her baby, a large study finds",
-        "link": "https://www.npr.org/2026/03/25/nx-s1-5759732/covid-vaccination-pregnancy-safety-efficacy",
-        "pubDate": "Wed, 25 Mar 2026 08:12:54 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Thousands of U.S. troops deploy to Middle East. And, the latest on DHS funding talks",
-        "link": "https://www.npr.org/2026/03/25/g-s1-115071/up-first-newsletter-trump-iran-israel-lebanon-dhs-funding-data-brokers",
-        "pubDate": "Wed, 25 Mar 2026 07:26:10 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Iran rejects Trump&apos;s proposal to end the war and lays out 5 conditions, state TV says",
-        "link": "https://www.npr.org/2026/03/25/nx-s1-5760675/iran-war-military-deployment",
-        "pubDate": "Wed, 25 Mar 2026 05:38:39 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "They gave her business a lifeline, then froze all her money",
         "link": "https://www.npr.org/2026/03/25/nx-s1-5745122/small-business-cash-advance-loans-connecticut",
         "pubDate": "Wed, 25 Mar 2026 05:01:00 -0400",
@@ -79,9 +79,33 @@
     ],
     "bbc": [
       {
-        "title": "Doctors announce six-day strike as talks break down",
+        "title": "Meta and Google found liable in landmark social media addiction trial",
+        "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Mar 2026 18:50:55 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Dead students were tested for drugs and alcohol - but their killer was not, Nottingham inquiry hears",
+        "link": "https://www.bbc.com/news/articles/c5ywd4gdzk1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Mar 2026 18:44:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Teenage me could not have imagined this' says first female Archbishop of Canterbury",
+        "link": "https://www.bbc.com/news/articles/c20356v74k7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Mar 2026 17:49:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Apple brings in age checks for UK iPhone users",
+        "link": "https://www.bbc.com/news/articles/c20qwz9xzr9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Mar 2026 17:41:20 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Doctors announce six-day strike in England as talks break down",
         "link": "https://www.bbc.com/news/articles/c62j7jx910go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Mar 2026 16:45:53 GMT",
+        "pubDate": "Wed, 25 Mar 2026 17:15:05 GMT",
         "category": "health"
       },
       {
@@ -89,24 +113,6 @@
         "link": "https://www.bbc.com/news/articles/ckgxzlny4w3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 25 Mar 2026 16:38:03 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "No 10 refuses to say if key Mandelson texts were lost when top aide's phone stolen",
-        "link": "https://www.bbc.com/news/articles/cvg09w1wvjqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Mar 2026 16:13:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "London Marathon considers two-day event in 2027",
-        "link": "https://www.bbc.com/sport/athletics/articles/cqxl8yn4gxwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Mar 2026 15:18:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Apple brings in age checks for UK iPhone users",
-        "link": "https://www.bbc.com/news/articles/c20qwz9xzr9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Mar 2026 15:13:47 GMT",
-        "category": "tech"
       },
       {
         "title": "Ex-Google boss confirmed as new BBC director general",
@@ -127,12 +133,6 @@
         "category": "Top News"
       },
       {
-        "title": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
-        "link": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Mar 2026 12:27:28 GMT",
-        "category": "world"
-      },
-      {
         "title": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
         "link": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 25 Mar 2026 06:00:23 GMT",
@@ -141,18 +141,25 @@
     ],
     "reuters": [
       {
-        "title": "Lyft rolls out driver-relief program as US fuel prices climb",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c41751cd894d6486ad48b5c40b6a1c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2flyft-rolls-out-driver-relief-program-us-fuel-prices-climb-2026-03-25%2f&amp;c=14683909824534538067&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Mar 2026 07:52:00 GMT",
-        "category": "us"
+        "title": "Iran train in Turkey with tight media control ahead of World Cup warm-ups",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c431cd2f074a37969d1bf1205ca198&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2firan-train-turkey-with-tight-media-control-ahead-world-cup-warm-ups-2026-03-25%2f&amp;c=2050391657402694395&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Mar 2026 10:14:00 GMT",
+        "category": "world"
       },
       {
-        "title": "Trump names Nvidia, Meta CEOs to science and tech council",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c41762768b42f28e71421d7bee8b62&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftrump-name-zuckerberg-ellison-huang-tech-panel-wsj-reports-2026-03-25%2f&amp;c=729191756463345154&amp;mkt=en-us",
-        "pubDate": "Wed, 25 Mar 2026 05:12:00 GMT",
-        "category": "tech"
+        "title": "CERAWEEK US suspends anti-smog fuel rules in bid to ease pump prices",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c431cef7c24e08a0f91fcc759971bf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-suspends-anti-smog-fuel-rules-bid-ease-pump-prices-2026-03-25%2f&amp;c=9269463698438090220&amp;mkt=en-us",
+        "pubDate": "Wed, 25 Mar 2026 09:19:00 GMT",
+        "category": "us"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Space stocks rally on reports of SpaceX&apos;s imminent IPO filing",
+        "link": "https://www.cnbc.com/2026/03/25/space-stocks-.html",
+        "pubDate": "Wed, 25 Mar 2026 18:22:51 GMT",
+        "category": "tech"
+      }
+    ]
   }
 }
