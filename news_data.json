@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-03-25T07:12:50.808019",
+  "updated_at": "2026-03-25T09:01:58.491686",
   "news": {
-    "ap": [
-      {
-        "title": "Brazil\u2019s Bolsonaro to serve sentence at home due to ill health, judge to review in 90 days",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a8748d943bbb2c20c75f4ddc03e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjair-bolsonaro-sentence-coup-home-bf37e7ee479349cb9c7a00339e984a83&amp;c=1863993040147420660&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 14:44:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Melania Trump hosts world counterparts and tech reps to discuss children, education and technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a86ba2b4b0c98bd753ed0456c36&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmelania-trump-education-technology-summit-children-188128cbb4952b104d3318ae4a2b1c80&amp;c=6662159680877544496&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 11:41:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Ilia Malinin and Amber Glenn chase figure skating world titles after Olympic disappointment",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a62a42240d3bbfd1676e50ac2ed&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffigure-skating-worlds-malinin-glenn-245129bb5287c0fcf721b0b85430a7d7&amp;c=1631697499004934240&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 10:48:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/03/25/nx-s1-5753815/morning-news-brief",
+        "pubDate": "Wed, 25 Mar 2026 04:42:29 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Islandwide blackouts bring life in Cuba to a near total halt",
+        "link": "https://www.npr.org/2026/03/25/nx-s1-5758009/islandwide-blackouts-bring-life-in-cuba-to-a-near-total-halt",
+        "pubDate": "Wed, 25 Mar 2026 04:41:59 -0400",
+        "category": "world"
+      },
       {
         "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
         "link": "https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns",
@@ -32,7 +25,7 @@
         "title": "Rubio plans travel to France to sell Iran war to skeptical G7 allies",
         "link": "https://www.npr.org/2026/03/25/g-s1-115053/rubio-plans-travel-to-france-to-sell-iran-war-to-skeptical-g7-allies",
         "pubDate": "Wed, 25 Mar 2026 01:23:03 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Judge says government&apos;s Anthropic ban looks like punishment",
@@ -44,7 +37,7 @@
         "title": "An air traffic controller was juggling extra roles during the LaGuardia plane crash",
         "link": "https://www.npr.org/2026/03/24/nx-s1-5759710/laguardia-airport-plane-crash",
         "pubDate": "Tue, 24 Mar 2026 20:10:25 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "New Mexico jury says Meta harms children&apos;s mental health and safety, violating state law",
@@ -69,32 +62,44 @@
         "link": "https://www.npr.org/2026/03/24/nx-s1-5759317/israel-iran-war",
         "pubDate": "Tue, 24 Mar 2026 14:42:30 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Congress loses a flying perk as DHS shutdown continues",
-        "link": "https://www.npr.org/2026/03/24/g-s1-114961/tsa-congress-dhs-shutdown",
-        "pubDate": "Tue, 24 Mar 2026 13:37:23 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A professional cornhole player and quadruple amputee is arrested for murder",
-        "link": "https://www.npr.org/2026/03/24/nx-s1-5759259/cornhole-amputee-dayton-webber-murder-arrest",
-        "pubDate": "Tue, 24 Mar 2026 12:36:53 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Two men arrested over Jewish charity ambulance arson attacks",
+        "link": "https://www.bbc.com/news/articles/c3v6rx6dxz6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Mar 2026 08:48:37 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "UK inflation rate remained at 3% in February",
         "link": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Mar 2026 07:08:05 GMT",
+        "pubDate": "Wed, 25 Mar 2026 08:47:54 GMT",
         "category": "business"
       },
       {
-        "title": "'He liked the fear in our eyes', Epstein survivors tell BBC",
+        "title": "Hospital waited two days before raising alarm about meningitis outbreak",
+        "link": "https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Mar 2026 08:14:20 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Playful lynx snatches top prize in photo competition",
+        "link": "https://www.bbc.com/news/articles/c150yl0y5vzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Mar 2026 06:29:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
         "link": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 25 Mar 2026 06:00:23 GMT",
         "category": "world"
+      },
+      {
+        "title": "'I hugged armed man to stop him bombing hospital'",
+        "link": "https://www.bbc.com/news/articles/c9q58xq9lxzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 25 Mar 2026 02:00:25 GMT",
+        "category": "Top News"
       },
       {
         "title": "NHS dentistry is rotting. Will the plan to fix it work?",
@@ -103,21 +108,9 @@
         "category": "Top News"
       },
       {
-        "title": "'Wildy unaffordable': The harsh reality of shared ownership",
+        "title": "'Wildly unaffordable': The harsh reality of shared ownership",
         "link": "https://www.bbc.com/news/articles/cm25e8k2je1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 25 Mar 2026 01:23:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "NHS waited two days before raising alarm about meningitis outbreak",
-        "link": "https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Mar 2026 00:26:15 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Oil at $150 would trigger global recession, says boss of financial giant BlackRock",
-        "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 25 Mar 2026 00:00:20 GMT",
         "category": "Top News"
       },
       {
@@ -127,98 +120,31 @@
         "category": "tech"
       },
       {
-        "title": "Hundreds of UK teenagers to trial social media ban and digital curfews",
-        "link": "https://www.bbc.com/news/articles/cn89g3ngkyzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 24 Mar 2026 22:37:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'It wasn't meant to end like this' - Salah exit tough but inevitable",
-        "link": "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 24 Mar 2026 22:33:11 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Small window open for US-Iran talks, but swift end to war still unlikely",
         "link": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 24 Mar 2026 18:04:04 GMT",
         "category": "us"
       }
     ],
-    "reuters": [
-      {
-        "title": "Chinese food delivery giants surge as regulator, state media call end to price war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a89b36f4073b09ae27fb60c9eab&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinese-food-delivery-giants-surge-regulator-state-media-call-end-price-war-2026-03-25%2f&amp;c=815575704405794544&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 22:50:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Premier League move puts Brobbey in World Cup contention",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a89b36f4073b09ae27fb60c9eab&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fpremier-league-move-puts-brobbey-world-cup-contention-2026-03-25%2f&amp;c=9252218294087511836&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 22:39:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Asia looks to COVID-era playbook to tackle fuel crisis",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a89b36f4073b09ae27fb60c9eab&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fasia-looks-covid-era-playbook-tackle-fuel-crisis-2026-03-25%2f&amp;c=5255539537366828276&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 22:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "South Korea to invest in cutting-edge aircraft technologies for defence, president says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a89b36f4073b09ae27fb60c9eab&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-korea-invest-cutting-edge-aircraft-technologies-defence-president-says-2026-03-25%2f&amp;c=5978855990656959364&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 22:13:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Which firms will clean up after the Iran war is finally over?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a89b36f4073b09ae27fb60c9eab&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fcommodities%2fwhich-firms-will-clean-up-after-iran-war-is-finally-over-2026-03-25%2f&amp;c=10454877107609119246&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 22:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China bars Manus co-founders from leaving country as it reviews sale to Meta, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a89b36f4073b09ae27fb60c9eab&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchina-bars-manus-co-founders-leaving-country-it-reviews-sale-meta-ft-reports-2026-03-25%2f&amp;c=7529532439094301223&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 20:47:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran's military rejects Trump's talk of negotiation, as Israel and Iran launch airstrikes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a89b36f4073b09ae27fb60c9eab&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fisrael-strikes-tehran-trump-says-us-negotiating-end-war-2026-03-25%2f&amp;c=12902751328847557107&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 19:49:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Meta boosts top executives' pay with stock options as AI race heats up",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a89b36f4073b09ae27fb60c9eab&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmeta-grants-senior-executives-stock-awards-retain-talent-2026-03-25%2f&amp;c=14210817956386213162&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 17:57:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lamborghinis stranded in Sri Lanka as war disrupts Asia's used-car trade",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38a89b36f4073b09ae27fb60c9eab&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2flamborghinis-stranded-sri-lanka-war-disrupts-asias-used-car-trade-2026-03-24%2f&amp;c=6290639674318635181&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 15:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "GameStop posts 14% fall in quarterly revenue amid digital gaming shift",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c38aa7d7ab4ce2bebab9d3f17df62c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fgamestop-posts-14-fall-quarterly-revenue-amid-digital-gaming-shift-2026-03-24%2f&amp;c=17161700871893307226&amp;mkt=en-us",
-        "pubDate": "Tue, 24 Mar 2026 12:46:00 GMT",
-        "category": "business"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Meta makes &apos;big bet&apos; on top leaders with stock options as pressure builds to catch up in AI",
-        "link": "https://www.cnbc.com/2026/03/24/meta-offers-stock-awards-options-for-executives-aggressive-timing.html",
-        "pubDate": "Wed, 25 Mar 2026 02:44:18 GMT",
-        "category": "tech"
+        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/03/24/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Tue, 24 Mar 2026 23:53:11 GMT",
+        "category": "us"
       },
       {
-        "title": "U.S. sent Iran 15-point plan to end war, report says; Trump says &apos;in negotiations right now&apos;",
-        "link": "https://www.cnbc.com/2026/03/24/trump-iran-war-negotiations.html",
-        "pubDate": "Tue, 24 Mar 2026 22:54:07 GMT",
-        "category": "world"
+        "title": "Delta suspends &apos;specialty services&apos; perk for members of Congress, cites DHS shutdown",
+        "link": "https://www.cnbc.com/2026/03/24/delta-airlines-congress-dhs-shutdown-tsa.html",
+        "pubDate": "Tue, 24 Mar 2026 18:50:33 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss",
+        "link": "https://www.cnbc.com/2026/03/23/pfizer-lyme-disease-vaccine-trial-fda-approval.html",
+        "pubDate": "Tue, 24 Mar 2026 18:13:35 GMT",
+        "category": "health"
       }
     ]
   }
