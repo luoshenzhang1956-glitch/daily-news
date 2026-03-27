@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-03-27T17:03:58.234783",
+  "updated_at": "2026-03-27T19:04:50.360007",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Missouri court says new Trump-backed US House districts are in effect ahead of midterm elections",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d47e4b75413db028a532c51ae185&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmissouri-election-redistricting-trump-329d7a25e67c5edddfc53327b1a0efe8&amp;c=9826585752281376346&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Mar 2026 11:43:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Yahoo turns to AI-powered answer engine Scout to lead it back to its roots in online search",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d47fbbb34f5194705e30df0fb9da&amp;url=https%3a%2f%2fapnews.com%2farticle%2fyahoo-artificial-intelligence-search-comeback-a9ec7ff0f7af72662b6d98ddd9c5280d&amp;c=2855666258762518142&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Mar 2026 10:07:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Judge won\u2019t block meeting that could exempt Gulf drilling from Endangered Species Act",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d47f21f64c438c3f2801080724df&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-oil-endangered-species-act-gulf-iran-725b8c1e5b13c249dac2080369166e2f&amp;c=10878618111743204446&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Mar 2026 09:43:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Dietary supplement makers push the FDA to allow peptides and other new ingredients",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d480b1f848c2bf33cdb56bc41c1e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdietary-supplements-fda-peptides-kennedy-064851593ec92f03b947dcd75dd88785&amp;c=9322467745291058664&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Mar 2026 08:20:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Research points to how companies could make social media less addictive for teens",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5763017/social-media-teens-addictive-design",
+        "pubDate": "Fri, 27 Mar 2026 13:50:47 -0400",
+        "category": "tech"
+      },
       {
         "title": "How long will the war last? No one knows, and it&apos;s making oil prices weird",
         "link": "https://www.npr.org/2026/03/27/nx-s1-5757946/oil-iran-war-markets-uncertainty",
@@ -52,12 +83,6 @@
         "category": "Top News"
       },
       {
-        "title": "Our quiz writer made yet another Tom Bombadil reference this week. Can you spot it?",
-        "link": "https://www.npr.org/2026/03/27/g-s1-115268/ai-columbus-cherry-blossom-trump-colbert-news-quiz",
-        "pubDate": "Fri, 27 Mar 2026 05:01:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Judge temporarily blocks Trump administration&apos;s Anthropic ban",
         "link": "https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban",
         "pubDate": "Thu, 26 Mar 2026 20:17:34 -0400",
@@ -66,16 +91,22 @@
     ],
     "bbc": [
       {
-        "title": "No evidence of 'family voting' in Gorton and Denton by-election",
-        "link": "https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 16:51:17 GMT",
+        "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
+        "link": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 18:43:35 GMT",
         "category": "Top News"
       },
       {
         "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
         "link": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 16:22:03 GMT",
+        "pubDate": "Fri, 27 Mar 2026 18:28:34 GMT",
         "category": "business"
+      },
+      {
+        "title": "No evidence of 'family voting' in Gorton and Denton by-election",
+        "link": "https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 17:20:30 GMT",
+        "category": "Top News"
       },
       {
         "title": "PS5 price hiked by \u00a390 due to global 'pressures'",
@@ -90,15 +121,15 @@
         "category": "Top News"
       },
       {
-        "title": "Why the geography of the Strait of Hormuz makes passing through it so risky",
+        "title": "Why mountainous coastline gives Iran such control over Strait of Hormuz",
         "link": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 14:10:30 GMT",
         "category": "Top News"
       },
       {
-        "title": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
-        "link": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 13:17:22 GMT",
+        "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
+        "link": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 13:25:57 GMT",
         "category": "world"
       },
       {
@@ -114,12 +145,6 @@
         "category": "us"
       },
       {
-        "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
-        "link": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 09:30:52 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
         "link": "https://www.bbc.com/news/articles/c3ex3j0w53yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 06:04:08 GMT",
@@ -128,12 +153,43 @@
     ],
     "reuters": [
       {
-        "title": "Nobel Prize winners face new loss in bid for US CRISPR patents",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6b81ba2c4438dba25bea2294e49be&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fnobel-prize-winners-face-new-loss-bid-us-crispr-patents-2026-03-27%2f&amp;c=15592794416202536708&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Mar 2026 07:43:00 GMT",
-        "category": "tech"
+        "title": "World Series winner Jason Heyward retires after 16 seasons",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d493c7cd4f8586329d8ee31b03e4&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fworld-series-winner-jason-heyward-retires-after-16-seasons--flm-2026-03-27%2f&amp;c=2564591623509296818&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Mar 2026 08:53:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Kremlin says Russia not seeking to undermine US business in CPC oil group",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d4a442f94e5cb5d08b6a7dd565c7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fkremlin-says-russia-not-seeking-undermine-us-business-cpc-oil-group-2026-03-27%2f&amp;c=17160590797288821627&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Mar 2026 02:08:00 GMT",
+        "category": "business"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "This fund delivers income and protects from volatility. It&apos;s also rated 5 stars by Morningstar",
+        "link": "https://www.cnbc.com/2026/03/27/this-fund-delivers-income-and-protects-from-volatility-.html",
+        "pubDate": "Fri, 27 Mar 2026 18:01:03 GMT",
+        "category": "us"
+      },
+      {
+        "title": "AstraZeneca stock jumps after surprise trial win for lung disease drug where rivals have failed",
+        "link": "https://www.cnbc.com/2026/03/27/astrazeneca-stock-az-trial-lung-drug-shares-tozorakimab.html",
+        "pubDate": "Fri, 27 Mar 2026 16:47:44 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Gulf markets are splintering as the Iran war continues. Here&apos;s what to know",
+        "link": "https://www.cnbc.com/2026/03/27/iran-war-oil-markets-middle-east-gulf-turmoil-strait-hormuz-investors.html",
+        "pubDate": "Fri, 27 Mar 2026 14:14:29 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Iran war wipes out $100 billion from luxury stocks",
+        "link": "https://www.cnbc.com/2026/03/27/iran-war-wipes-out-100-billion-from-luxury-stocks.html",
+        "pubDate": "Fri, 27 Mar 2026 14:01:07 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
