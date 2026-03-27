@@ -1,33 +1,27 @@
 {
-  "updated_at": "2026-03-27T19:04:50.360007",
+  "updated_at": "2026-03-27T20:49:14.298370",
   "news": {
     "ap": [
       {
-        "title": "Missouri court says new Trump-backed US House districts are in effect ahead of midterm elections",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d47e4b75413db028a532c51ae185&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmissouri-election-redistricting-trump-329d7a25e67c5edddfc53327b1a0efe8&amp;c=9826585752281376346&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Mar 2026 11:43:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Yahoo turns to AI-powered answer engine Scout to lead it back to its roots in online search",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d47fbbb34f5194705e30df0fb9da&amp;url=https%3a%2f%2fapnews.com%2farticle%2fyahoo-artificial-intelligence-search-comeback-a9ec7ff0f7af72662b6d98ddd9c5280d&amp;c=2855666258762518142&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Mar 2026 10:07:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Judge won\u2019t block meeting that could exempt Gulf drilling from Endangered Species Act",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d47f21f64c438c3f2801080724df&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-oil-endangered-species-act-gulf-iran-725b8c1e5b13c249dac2080369166e2f&amp;c=10878618111743204446&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Mar 2026 09:43:00 GMT",
+        "title": "Federal judge denies NCAA\u2019s restraining order request to make DraftKings stop using \u2018March Madness\u2019",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6ecbab3cb4e4791e5762b46c9326d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fncaa-draftkings-lawsuit-67de4b696fc146f674c6664e5296d289&amp;c=17272490906968993000&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Mar 2026 07:55:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "Dietary supplement makers push the FDA to allow peptides and other new ingredients",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d480b1f848c2bf33cdb56bc41c1e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdietary-supplements-fda-peptides-kennedy-064851593ec92f03b947dcd75dd88785&amp;c=9322467745291058664&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Mar 2026 08:20:00 GMT",
-        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Atlanta airport GM says passengers have been cooperative and understanding",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5762743/atlanta-airport-gm-says-passengers-have-been-cooperative-and-understanding",
+        "pubDate": "Fri, 27 Mar 2026 16:37:04 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Defense Secretary Hegseth intervened to stop promotions of Black and female officers",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5763863/hegseth-soldiers-promotions",
+        "pubDate": "Fri, 27 Mar 2026 15:06:19 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Research points to how companies could make social media less addictive for teens",
         "link": "https://www.npr.org/2026/03/27/nx-s1-5763017/social-media-teens-addictive-design",
@@ -62,24 +56,12 @@
         "title": "Americans seek redemption at figure skating worlds, just weeks after the Olympics",
         "link": "https://www.npr.org/2026/03/27/nx-s1-5761994/figure-skating-world-championships-malinin-glenn",
         "pubDate": "Fri, 27 Mar 2026 08:51:16 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Senate votes to fund most of DHS. And, Trump extends Iran&apos;s deadline to reopen strait",
         "link": "https://www.npr.org/2026/03/27/g-s1-115433/up-first-newsletter-dhs-funding-iran-strait-of-hormuz-cpac",
         "pubDate": "Fri, 27 Mar 2026 07:33:38 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Scientists watch sperm whales work as a team to assist a birth",
-        "link": "https://www.npr.org/2026/03/27/nx-s1-5762978/sperm-whale-birth-cooperation-coordination-marine-mammals-science",
-        "pubDate": "Fri, 27 Mar 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Marco Rubio heads to Europe to try to garner support for the Iran war",
-        "link": "https://www.npr.org/2026/03/27/nx-s1-5763475/iran-war-talks-rubio-markets-g7",
-        "pubDate": "Fri, 27 Mar 2026 05:49:02 -0400",
         "category": "Top News"
       },
       {
@@ -91,9 +73,15 @@
     ],
     "bbc": [
       {
+        "title": "Trump orders paychecks for TSA workers as Congress stalls and airport chaos grinds on",
+        "link": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 19:31:57 GMT",
+        "category": "us"
+      },
+      {
         "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
         "link": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 18:43:35 GMT",
+        "pubDate": "Fri, 27 Mar 2026 19:21:19 GMT",
         "category": "Top News"
       },
       {
@@ -139,12 +127,6 @@
         "category": "Top News"
       },
       {
-        "title": "US Senate votes to fund Homeland Security to end airports chaos - but ICE excluded",
-        "link": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 10:31:46 GMT",
-        "category": "us"
-      },
-      {
         "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
         "link": "https://www.bbc.com/news/articles/c3ex3j0w53yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 06:04:08 GMT",
@@ -153,25 +135,13 @@
     ],
     "reuters": [
       {
-        "title": "World Series winner Jason Heyward retires after 16 seasons",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d493c7cd4f8586329d8ee31b03e4&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fworld-series-winner-jason-heyward-retires-after-16-seasons--flm-2026-03-27%2f&amp;c=2564591623509296818&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Mar 2026 08:53:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Kremlin says Russia not seeking to undermine US business in CPC oil group",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6d4a442f94e5cb5d08b6a7dd565c7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fkremlin-says-russia-not-seeking-undermine-us-business-cpc-oil-group-2026-03-27%2f&amp;c=17160590797288821627&amp;mkt=en-us",
-        "pubDate": "Fri, 27 Mar 2026 02:08:00 GMT",
-        "category": "business"
+        "title": "Italy's top court bars separate hiring for abortion doctors in Sicily",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6ed1dbfd74ba582cda393e77a198f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fitalys-top-court-bars-separate-hiring-abortion-doctors-sicily-2026-03-27%2f&amp;c=17062501520162278369&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Mar 2026 08:41:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
-      {
-        "title": "This fund delivers income and protects from volatility. It&apos;s also rated 5 stars by Morningstar",
-        "link": "https://www.cnbc.com/2026/03/27/this-fund-delivers-income-and-protects-from-volatility-.html",
-        "pubDate": "Fri, 27 Mar 2026 18:01:03 GMT",
-        "category": "us"
-      },
       {
         "title": "AstraZeneca stock jumps after surprise trial win for lung disease drug where rivals have failed",
         "link": "https://www.cnbc.com/2026/03/27/astrazeneca-stock-az-trial-lung-drug-shares-tozorakimab.html",
@@ -179,16 +149,34 @@
         "category": "health"
       },
       {
-        "title": "Gulf markets are splintering as the Iran war continues. Here&apos;s what to know",
-        "link": "https://www.cnbc.com/2026/03/27/iran-war-oil-markets-middle-east-gulf-turmoil-strait-hormuz-investors.html",
-        "pubDate": "Fri, 27 Mar 2026 14:14:29 GMT",
-        "category": "world"
+        "title": "Sen. Warren rips Federal Reserve chair pick Kevin Warsh: &apos;You have learned nothing from your failures&apos;",
+        "link": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html",
+        "pubDate": "Fri, 27 Mar 2026 15:52:49 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Iran war wipes out $100 billion from luxury stocks",
-        "link": "https://www.cnbc.com/2026/03/27/iran-war-wipes-out-100-billion-from-luxury-stocks.html",
-        "pubDate": "Fri, 27 Mar 2026 14:01:07 GMT",
-        "category": "business"
+        "title": "This bargain fintech stock is stuck in a five-year rut. A turnaround is coming",
+        "link": "https://www.cnbc.com/2026/03/27/this-bargain-fintech-stock-is-stuck-in-a-five-year-rut-a-turnaround-is-coming.html",
+        "pubDate": "Fri, 27 Mar 2026 15:14:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: AstraZeneca, Unity Software, Coinbase &amp; more",
+        "link": "https://www.cnbc.com/2026/03/27/stocks-making-the-biggest-moves-premarket-azn-u-coin.html",
+        "pubDate": "Fri, 27 Mar 2026 11:40:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Why one hedge fund veteran is urging investors to &apos;prepare for the worst&apos;",
+        "link": "https://www.cnbc.com/2026/03/27/iran-to-economic-risks-markets-ability-to-forecast-world-in-question.html",
+        "pubDate": "Fri, 27 Mar 2026 11:00:01 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Private credit&apos;s cracks open door for Wall Street banks&apos; comeback: &apos;The tug of war is just starting&apos;",
+        "link": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html",
+        "pubDate": "Fri, 27 Mar 2026 06:15:02 GMT",
+        "category": "Top News"
       }
     ]
   }
