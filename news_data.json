@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-03-27T15:00:29.364763",
+  "updated_at": "2026-03-27T17:03:58.234783",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "How long will the war last? No one knows, and it&apos;s making oil prices weird",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5757946/oil-iran-war-markets-uncertainty",
+        "pubDate": "Fri, 27 Mar 2026 12:16:50 -0400",
+        "category": "world"
+      },
+      {
+        "title": "House panel finds Florida Democrat guilty of ethics violations",
+        "link": "https://www.npr.org/2026/03/27/g-s1-115336/house-panel-finds-florida-democrat-guilty-of-ethics-violations",
+        "pubDate": "Fri, 27 Mar 2026 11:32:06 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Her dad&apos;s dementia inspired her to create a guide for family caregivers",
         "link": "https://www.npr.org/2026/03/27/nx-s1-5732794/dementia-caregiving-alzheimers-kenya-support",
@@ -19,7 +31,7 @@
         "title": "Americans seek redemption at figure skating worlds, just weeks after the Olympics",
         "link": "https://www.npr.org/2026/03/27/nx-s1-5761994/figure-skating-world-championships-malinin-glenn",
         "pubDate": "Fri, 27 Mar 2026 08:51:16 -0400",
-        "category": "world"
+        "category": "us"
       },
       {
         "title": "Senate votes to fund most of DHS. And, Trump extends Iran&apos;s deadline to reopen strait",
@@ -34,27 +46,15 @@
         "category": "Top News"
       },
       {
-        "title": "Rubio heads to Europe to try garner support for Iran war",
+        "title": "Marco Rubio heads to Europe to try to garner support for the Iran war",
         "link": "https://www.npr.org/2026/03/27/nx-s1-5763475/iran-war-talks-rubio-markets-g7",
         "pubDate": "Fri, 27 Mar 2026 05:49:02 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Our quiz writer made yet another Tom Bombadil reference this week. Can you spot it?",
         "link": "https://www.npr.org/2026/03/27/g-s1-115268/ai-columbus-cherry-blossom-trump-colbert-news-quiz",
         "pubDate": "Fri, 27 Mar 2026 05:01:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "These trees brought a fishery back from the brink. They can help you too",
-        "link": "https://www.npr.org/2026/03/27/nx-s1-5671057/mangrove-fisheries-climate-change-cambodia",
-        "pubDate": "Fri, 27 Mar 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Do you lean optimistic or pessimistic? Take this quiz and find out",
-        "link": "https://www.npr.org/2026/03/27/nx-s1-5713624/optimism-quiz-worry-pessimism",
-        "pubDate": "Fri, 27 Mar 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
@@ -66,22 +66,46 @@
     ],
     "bbc": [
       {
-        "title": "Petrol price above 150p a litre for first time in nearly two years",
+        "title": "No evidence of 'family voting' in Gorton and Denton by-election",
+        "link": "https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 16:51:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
         "link": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 14:35:02 GMT",
+        "pubDate": "Fri, 27 Mar 2026 16:22:03 GMT",
         "category": "business"
+      },
+      {
+        "title": "PS5 price hiked by \u00a390 due to global 'pressures'",
+        "link": "https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 16:07:08 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "'I'd never get anything done': Parents on limiting screen time for under-5s",
+        "link": "https://www.bbc.com/news/articles/c1eqzqwxq8wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 14:50:13 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Why the geography of the Strait of Hormuz makes passing through it so risky",
+        "link": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 14:10:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
+        "link": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 13:17:22 GMT",
+        "category": "world"
       },
       {
         "title": "Afghan asylum seeker jailed for raping girl, 12",
         "link": "https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 13:12:01 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
-        "link": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 11:03:29 GMT",
-        "category": "tech"
       },
       {
         "title": "US Senate votes to fund Homeland Security to end airports chaos - but ICE excluded",
@@ -93,18 +117,6 @@
         "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
         "link": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 09:30:52 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Parents told under-5s should not be on screens more than an hour a day",
-        "link": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 09:24:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Housebound' benefit cheat caught ziplining in Mexico",
-        "link": "https://www.bbc.com/news/articles/cn4vmw27x13o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 08:10:36 GMT",
         "category": "Top News"
       },
       {
@@ -112,21 +124,16 @@
         "link": "https://www.bbc.com/news/articles/c3ex3j0w53yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 06:04:08 GMT",
         "category": "health"
-      },
-      {
-        "title": "Mum took own life after a forced adoption - now I want an apology",
-        "link": "https://www.bbc.com/news/articles/cpwj2nrnwwyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 05:59:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Three charts that are warning signs flashing for Trump on Iran war",
-        "link": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 00:13:09 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Nobel Prize winners face new loss in bid for US CRISPR patents",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6b81ba2c4438dba25bea2294e49be&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fnobel-prize-winners-face-new-loss-bid-us-crispr-patents-2026-03-27%2f&amp;c=15592794416202536708&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Mar 2026 07:43:00 GMT",
+        "category": "tech"
+      }
+    ],
     "markets": []
   }
 }
