@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-03-27T07:20:10.707500",
+  "updated_at": "2026-03-27T09:03:59.818887",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5753820/morning-news-brief",
+        "pubDate": "Fri, 27 Mar 2026 04:43:20 -0400",
+        "category": "us"
+      },
+      {
+        "title": "&apos;Fuel hedging&apos; once kept airline prices down. Now passengers bear the brunt",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5759203/fuel-hedging-once-kept-airline-prices-down-now-passengers-bear-the-brunt",
+        "pubDate": "Fri, 27 Mar 2026 04:42:48 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Cuban Americans face scrutiny for sending goods back to the island",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5759391/cuban-americans-face-scrutiny-for-sending-goods-back-to-the-island",
+        "pubDate": "Fri, 27 Mar 2026 04:42:34 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Senate votes to fund much of DHS, minus immigration enforcement",
+        "link": "https://www.npr.org/2026/03/27/g-s1-115366/senate-dhs-tsa-deal",
+        "pubDate": "Fri, 27 Mar 2026 03:19:44 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Judge weighs whether Venezuela can pay Maduro&apos;s legal costs in US drug trafficking case",
         "link": "https://www.npr.org/2026/03/27/nx-s1-5763491/judge-venezuela-maduro-legal-costs-us-drug-trafficking",
         "pubDate": "Fri, 27 Mar 2026 02:55:21 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "A surprise resignation could open the door for an independent to win a Montana Senate seat",
@@ -25,7 +49,7 @@
         "title": "Judge temporarily blocks Trump administration&apos;s Anthropic ban",
         "link": "https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban",
         "pubDate": "Thu, 26 Mar 2026 20:17:34 -0400",
-        "category": "business"
+        "category": "tech"
       },
       {
         "title": "Trump says he&apos;ll sign order to pay TSA agents as Congress struggles to reach funding deal",
@@ -34,53 +58,47 @@
         "category": "Top News"
       },
       {
-        "title": "Iran&apos;s war propaganda includes memes directed at Trump",
-        "link": "https://www.npr.org/2026/03/26/nx-s1-5760944/irans-war-propaganda-includes-memes-directed-at-trump",
-        "pubDate": "Thu, 26 Mar 2026 17:29:39 -0400",
-        "category": "world"
-      },
-      {
         "title": "The government may soon lift restrictions on some peptide treatments",
         "link": "https://www.npr.org/2026/03/26/nx-s1-5758017/the-government-may-soon-lift-restrictions-on-some-peptide-treatments",
         "pubDate": "Thu, 26 Mar 2026 17:13:55 -0400",
         "category": "health"
-      },
-      {
-        "title": "The Olympic committee bans trans athletes from women&apos;s events, raising many questions",
-        "link": "https://www.npr.org/2026/03/26/nx-s1-5762579/ioc-bans-trans-women-events-genetic-testing",
-        "pubDate": "Thu, 26 Mar 2026 16:56:43 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "As TSA agents miss another paycheck, what&apos;s happening at airports with private security?",
-        "link": "https://www.npr.org/2026/03/26/nx-s1-5759273/not-all-airports-use-tsa-agents-for-security-at-places-like-sfo-thats-helped-lines",
-        "pubDate": "Thu, 26 Mar 2026 16:45:23 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Jury finds Meta and Google negligent in social media addiction trial",
-        "link": "https://www.npr.org/2026/03/26/nx-s1-5761345/jury-finds-meta-and-google-negligent-in-social-media-addiction-trial",
-        "pubDate": "Thu, 26 Mar 2026 04:40:43 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "Under-5s should not be on screens more than an hour a day, parents told in new advice",
+        "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
+        "link": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 08:27:54 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Officials to ask Mandelson to hand over personal phone messages for release",
+        "link": "https://www.bbc.com/news/articles/czexpw3wgxeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 08:16:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Parents told under-5s should not be on screens more than an hour a day",
         "link": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 06:49:53 GMT",
         "category": "Top News"
       },
       {
+        "title": "Panic buying prompts PM to reassure Australians over fuel supply",
+        "link": "https://www.bbc.com/news/articles/cg73znr1vj7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 06:32:59 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
+        "link": "https://www.bbc.com/news/articles/c3ex3j0w53yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 06:04:08 GMT",
+        "category": "health"
+      },
+      {
         "title": "How Russia's threat forced Germany to radically rethink its military",
         "link": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 05:59:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Mandelson personal phone messages requested for files release",
-        "link": "https://www.bbc.com/news/articles/czexpw3wgxeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 02:21:40 GMT",
         "category": "Top News"
       },
       {
@@ -96,104 +114,50 @@
         "category": "Top News"
       },
       {
-        "title": "Bright future for Wales despite end of World Cup dream, says coach Bellamy",
-        "link": "https://www.bbc.com/sport/football/articles/cx235x4xynjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 00:08:55 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'Affordability is the biggest thing' - Conservatives mixed on economy under Trump",
         "link": "https://www.bbc.com/news/videos/cn08y2jgdxpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 00:01:51 GMT",
         "category": "us"
       },
       {
-        "title": "Trump's signature to appear on US dollars in first for sitting president",
-        "link": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Mar 2026 23:36:14 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
-        "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Mar 2026 17:57:41 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Jersey's wellbeing score is below UK and France",
-        "link": "https://www.bbc.com/news/articles/c3r3q789w8ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Mar 2026 08:58:57 GMT",
-        "category": "health"
+        "title": "Olivia Dean's streak continues as she wins big at Mobo Awards",
+        "link": "https://www.bbc.com/news/articles/clyerj082p1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 26 Mar 2026 22:44:17 GMT",
+        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Ex-rapper Shah sworn in as Nepal prime minister after sweeping election win",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c62f30890f485e8b928d7414ca65ed&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fex-rapper-shah-sworn-nepal-prime-minister-after-sweeping-election-win-2026-03-27%2f&amp;c=988969219110878852&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 23:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Chinese universities with military links bought Super Micro servers with restricted AI chips",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c62f30890f485e8b928d7414ca65ed&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinese-universities-with-military-links-bought-super-micro-servers-with-2026-03-27%2f&amp;c=1646003183251080680&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 22:16:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump orders government to pay airport security workers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c62f30890f485e8b928d7414ca65ed&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fnearly-500-tsa-agents-quit-us-airport-security-delays-continue-2026-03-26%2f&amp;c=11992176024869622449&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 20:17:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China detaining Panama-flagged ships amid battle over port control, FMC says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c62f30890f485e8b928d7414ca65ed&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-detaining-panama-flagged-ships-amid-battle-over-port-control-fmc-says-2026-03-27%2f&amp;c=9247108686441403197&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 18:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Drones and mines: taking Kharg Island would pose risks for US troops",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c62f30890f485e8b928d7414ca65ed&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fdrones-mines-taking-kharg-island-would-pose-risks-us-troops-2026-03-27%2f&amp;c=9983420752251565983&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 17:51:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "France says it approached 35 countries over future Hormuz mission",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c62f30890f485e8b928d7414ca65ed&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ffrance-says-it-approached-35-countries-over-future-hormuz-mission-2026-03-26%2f&amp;c=17724840986249108230&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 16:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump pauses attacks on Iran's energy plants, says talks 'going well'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c62f30890f485e8b928d7414ca65ed&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-says-it-is-reviewing-us-ceasefire-plan-no-talks-trump-says-tehran-leaders-2026-03-26%2f&amp;c=5352764586157777419&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 13:40:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: US deploys uncrewed drone boats in conflict with Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c62f30890f485e8b928d7414ca65ed&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-deploys-uncrewed-drone-boats-conflict-with-iran-2026-03-26%2f&amp;c=11886315869218544196&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 13:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran hardliners ramp up calls for a nuclear bomb, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c62f30890f485e8b928d7414ca65ed&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2firan-hardliners-ramp-up-calls-nuclear-bomb-sources-say-2026-03-26%2f&amp;c=5186966907173224171&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 09:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Defense technology startup Shield AI valued at $12.7 billion in latest funding round",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c62f601fc0428cb66e9a851ddff2c9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fdefense-technology-startup-shield-ai-valued-127-billion-latest-funding-round-2026-03-26%2f&amp;c=7236100410806132135&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 07:50:00 GMT",
-        "category": "tech"
+        "title": "Tom Brady-backed telehealth firm eMed valued at over $2 billion in latest funding round",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c647c3496946ec80f8c711f470d118&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2ftom-brady-backed-telehealth-firm-emed-valued-over-2-billion-latest-funding-round-2026-03-26%2f&amp;c=14718657606815241061&amp;mkt=en-us",
+        "pubDate": "Thu, 26 Mar 2026 11:06:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "These inflation-protected plays can help investors manage the impact of higher prices",
-        "link": "https://www.cnbc.com/2026/03/26/these-inflation-protected-plays-can-help-investors-manage-the-impact-of-higher-prices.html",
-        "pubDate": "Thu, 26 Mar 2026 19:50:15 GMT",
-        "category": "us"
+        "title": "Private credit&apos;s cracks open door for Wall Street banks&apos; comeback: &apos;The tug of war is just starting&apos;",
+        "link": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html",
+        "pubDate": "Fri, 27 Mar 2026 06:15:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sen. Warren rips Federal Reserve chair pick Kevin Warsh: &apos;You have learned nothing from your failures&apos;",
+        "link": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html",
+        "pubDate": "Fri, 27 Mar 2026 02:05:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Inifiniti hopes new SUV can turn around fortunes in the U.S.",
+        "link": "https://www.cnbc.com/2026/03/26/inifiniti-qx65-suv-nissan.html",
+        "pubDate": "Thu, 26 Mar 2026 23:00:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Meta, Best Buy, AppLovin, Scotts Miracle-Gro and more",
+        "link": "https://www.cnbc.com/2026/03/26/stocks-making-the-biggest-moves-midday-meta-bby-app-smg.html",
+        "pubDate": "Thu, 26 Mar 2026 16:51:26 GMT",
+        "category": "Top News"
       }
     ]
   }
