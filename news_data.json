@@ -1,25 +1,37 @@
 {
-  "updated_at": "2026-03-27T09:03:59.818887",
+  "updated_at": "2026-03-27T10:57:07.811058",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/03/27/nx-s1-5753820/morning-news-brief",
-        "pubDate": "Fri, 27 Mar 2026 04:43:20 -0400",
+        "title": "Scientists watch sperm whales work as a team to assist a birth",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5762978/sperm-whale-birth-cooperation-coordination-marine-mammals-science",
+        "pubDate": "Fri, 27 Mar 2026 06:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Rubio heads to Europe to try garner support for Iran war",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5763475/iran-war-talks-rubio-markets-g7",
+        "pubDate": "Fri, 27 Mar 2026 05:49:02 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Our quiz writer made yet another Tom Bombadil reference this week. Can you spot it?",
+        "link": "https://www.npr.org/2026/03/27/g-s1-115268/ai-columbus-cherry-blossom-trump-colbert-news-quiz",
+        "pubDate": "Fri, 27 Mar 2026 05:01:00 -0400",
         "category": "us"
       },
       {
-        "title": "&apos;Fuel hedging&apos; once kept airline prices down. Now passengers bear the brunt",
-        "link": "https://www.npr.org/2026/03/27/nx-s1-5759203/fuel-hedging-once-kept-airline-prices-down-now-passengers-bear-the-brunt",
-        "pubDate": "Fri, 27 Mar 2026 04:42:48 -0400",
-        "category": "business"
+        "title": "Do you lean optimistic or pessimistic? Take this quiz and find out",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5713624/optimism-quiz-worry-pessimism",
+        "pubDate": "Fri, 27 Mar 2026 05:00:00 -0400",
+        "category": "health"
       },
       {
-        "title": "Cuban Americans face scrutiny for sending goods back to the island",
-        "link": "https://www.npr.org/2026/03/27/nx-s1-5759391/cuban-americans-face-scrutiny-for-sending-goods-back-to-the-island",
-        "pubDate": "Fri, 27 Mar 2026 04:42:34 -0400",
-        "category": "world"
+        "title": "These trees brought a fishery back from the brink. They can help you too",
+        "link": "https://www.npr.org/2026/03/27/nx-s1-5671057/mangrove-fisheries-climate-change-cambodia",
+        "pubDate": "Fri, 27 Mar 2026 05:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "Senate votes to fund much of DHS, minus immigration enforcement",
@@ -49,45 +61,45 @@
         "title": "Judge temporarily blocks Trump administration&apos;s Anthropic ban",
         "link": "https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban",
         "pubDate": "Thu, 26 Mar 2026 20:17:34 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "Trump says he&apos;ll sign order to pay TSA agents as Congress struggles to reach funding deal",
-        "link": "https://www.npr.org/2026/03/26/g-s1-115401/trump-executive-order-tsa-agents-congress-shutdown-funding",
-        "pubDate": "Thu, 26 Mar 2026 20:17:32 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The government may soon lift restrictions on some peptide treatments",
-        "link": "https://www.npr.org/2026/03/26/nx-s1-5758017/the-government-may-soon-lift-restrictions-on-some-peptide-treatments",
-        "pubDate": "Thu, 26 Mar 2026 17:13:55 -0400",
-        "category": "health"
+        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
-        "link": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 08:27:54 GMT",
-        "category": "business"
+        "title": "'Ripple of fear' over Iran war hits consumer confidence",
+        "link": "https://www.bbc.com/news/articles/c8957kqqdg4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 10:45:59 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Officials to ask Mandelson to hand over personal phone messages for release",
-        "link": "https://www.bbc.com/news/articles/czexpw3wgxeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 08:16:15 GMT",
-        "category": "Top News"
+        "title": "US Senate votes to fund most of Homeland Security to end airports chaos - but ICE excluded",
+        "link": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 10:31:46 GMT",
+        "category": "us"
+      },
+      {
+        "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
+        "link": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 09:30:52 GMT",
+        "category": "world"
       },
       {
         "title": "Parents told under-5s should not be on screens more than an hour a day",
         "link": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 06:49:53 GMT",
+        "pubDate": "Fri, 27 Mar 2026 09:24:27 GMT",
         "category": "Top News"
       },
       {
-        "title": "Panic buying prompts PM to reassure Australians over fuel supply",
-        "link": "https://www.bbc.com/news/articles/cg73znr1vj7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 06:32:59 GMT",
-        "category": "world"
+        "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
+        "link": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 09:05:16 GMT",
+        "category": "business"
+      },
+      {
+        "title": "'Housebound' benefit cheat caught ziplining in Mexico",
+        "link": "https://www.bbc.com/news/articles/cn4vmw27x13o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 08:10:36 GMT",
+        "category": "Top News"
       },
       {
         "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
@@ -96,7 +108,7 @@
         "category": "health"
       },
       {
-        "title": "How Russia's threat forced Germany to radically rethink its military",
+        "title": "How Russia's threat has seen a German become Europe's most important soldier",
         "link": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 05:59:20 GMT",
         "category": "Top News"
@@ -112,26 +124,14 @@
         "link": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 00:13:09 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "'Affordability is the biggest thing' - Conservatives mixed on economy under Trump",
-        "link": "https://www.bbc.com/news/videos/cn08y2jgdxpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 00:01:51 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Olivia Dean's streak continues as she wins big at Mobo Awards",
-        "link": "https://www.bbc.com/news/articles/clyerj082p1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 26 Mar 2026 22:44:17 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Tom Brady-backed telehealth firm eMed valued at over $2 billion in latest funding round",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c647c3496946ec80f8c711f470d118&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2ftom-brady-backed-telehealth-firm-emed-valued-over-2-billion-latest-funding-round-2026-03-26%2f&amp;c=14718657606815241061&amp;mkt=en-us",
-        "pubDate": "Thu, 26 Mar 2026 11:06:00 GMT",
-        "category": "health"
+        "title": "Kremlin says Russia not seeking to undermine US business in CPC oil group",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c6622e2c6b41ea81106bc7e30f7929&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fkremlin-says-russia-not-seeking-undermine-us-business-cpc-oil-group-2026-03-27%2f&amp;c=17160590797288821627&amp;mkt=en-us",
+        "pubDate": "Fri, 27 Mar 2026 02:04:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
@@ -146,12 +146,6 @@
         "link": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html",
         "pubDate": "Fri, 27 Mar 2026 02:05:55 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Inifiniti hopes new SUV can turn around fortunes in the U.S.",
-        "link": "https://www.cnbc.com/2026/03/26/inifiniti-qx65-suv-nissan.html",
-        "pubDate": "Thu, 26 Mar 2026 23:00:01 GMT",
-        "category": "business"
       },
       {
         "title": "Stocks making the biggest moves midday: Meta, Best Buy, AppLovin, Scotts Miracle-Gro and more",
