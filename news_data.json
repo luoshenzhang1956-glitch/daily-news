@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T13:23:16.937241",
+  "updated_at": "2026-03-27T15:00:29.364763",
   "news": {
     "ap": [],
     "npr": [
@@ -7,13 +7,13 @@
         "title": "Her dad&apos;s dementia inspired her to create a guide for family caregivers",
         "link": "https://www.npr.org/2026/03/27/nx-s1-5732794/dementia-caregiving-alzheimers-kenya-support",
         "pubDate": "Fri, 27 Mar 2026 09:18:05 -0400",
-        "category": "Top News"
+        "category": "health"
       },
       {
-        "title": "Here&apos;s some new dirt on a source of antibiotic resistance",
+        "title": "Here&apos;s some new dirt on an unusual source of antibiotic resistance",
         "link": "https://www.npr.org/2026/03/27/g-s1-115318/antibiotic-resistance-bacteria-drought-climate-change",
         "pubDate": "Fri, 27 Mar 2026 08:59:30 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Americans seek redemption at figure skating worlds, just weeks after the Olympics",
@@ -66,16 +66,16 @@
     ],
     "bbc": [
       {
+        "title": "Petrol price above 150p a litre for first time in nearly two years",
+        "link": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 27 Mar 2026 14:35:02 GMT",
+        "category": "business"
+      },
+      {
         "title": "Afghan asylum seeker jailed for raping girl, 12",
         "link": "https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 13:12:01 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Petrol price above 150p a litre for first time in nearly two years",
-        "link": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 27 Mar 2026 12:36:30 GMT",
-        "category": "business"
       },
       {
         "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
@@ -84,7 +84,7 @@
         "category": "tech"
       },
       {
-        "title": "US Senate votes to fund most of Homeland Security to end airports chaos - but ICE excluded",
+        "title": "US Senate votes to fund Homeland Security to end airports chaos - but ICE excluded",
         "link": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 27 Mar 2026 10:31:46 GMT",
         "category": "us"
@@ -127,13 +127,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "TripAdvisor board shakeup could drive shares higher, Bank of America says",
-        "link": "https://www.cnbc.com/2026/03/27/tripadvisors-leadership-shakeup-could-drive-up-shares-bank-of-america-says.html",
-        "pubDate": "Fri, 27 Mar 2026 13:07:39 GMT",
-        "category": "us"
-      }
-    ]
+    "markets": []
   }
 }
