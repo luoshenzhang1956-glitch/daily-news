@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-03-29T13:10:38.417883",
+  "updated_at": "2026-03-29T14:42:39.089173",
   "news": {
-    "ap": [
-      {
-        "title": "Hacked hospitals, hidden spyware: Iran conflict shows how digital fight is ingrained in warfare",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c9246ef59d4d44af067544f653d12e&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-war-israel-data-centers-hacking-47fc34e48f2f952583d14b6c0664fc37&amp;c=5583281651429487228&amp;mkt=en-us",
-        "pubDate": "Sat, 28 Mar 2026 21:03:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Navy shipyard workers approve a contract deal with Bath Iron Works, ending weeklong strike",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c9246dbeac4a28a196135695f88c2a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fshipyard-strike-maine-bath-iron-works-b0e609d517213f718800844c10f7eb23&amp;c=11230478384429825198&amp;mkt=en-us",
-        "pubDate": "Sat, 28 Mar 2026 17:09:00 GMT",
-        "category": "business"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message",
@@ -29,16 +16,10 @@
         "category": "us"
       },
       {
-        "title": "The Trump administration&apos;s fix for the crisis in rural healthcare? AI nurses and more",
-        "link": "https://www.npr.org/2026/03/29/nx-s1-5761239/the-trump-administrations-fix-for-the-crisis-in-rural-healthcare-ai-nurses-and-more",
-        "pubDate": "Sun, 29 Mar 2026 08:36:26 -0400",
-        "category": "health"
-      },
-      {
         "title": "How to navigate the maze of drug discounts to get the best price",
         "link": "https://www.npr.org/2026/03/29/nx-s1-5724143/prescription-drug-shopping-deals",
         "pubDate": "Sun, 29 Mar 2026 07:30:00 -0400",
-        "category": "Top News"
+        "category": "health"
       },
       {
         "title": "Pakistan hosts diplomatic discussions on ending war",
@@ -79,16 +60,16 @@
     ],
     "bbc": [
       {
+        "title": "What can F1's bosses do to help keep Verstappen in the sport?",
+        "link": "https://www.bbc.com/sport/formula1/articles/cwykgvjxpwdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 29 Mar 2026 12:50:26 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Cut taxes on energy bills before giving bailouts, Badenoch says",
         "link": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 29 Mar 2026 11:12:33 GMT",
         "category": "business"
-      },
-      {
-        "title": "'Is it worth it?' - Max Verstappen considering F1 future after rule changes",
-        "link": "https://www.bbc.com/sport/formula1/articles/cx2695dkjzdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 29 Mar 2026 09:30:20 GMT",
-        "category": "Top News"
       },
       {
         "title": "No Kings protesters across the US rally against Donald Trump",
@@ -141,37 +122,66 @@
     ],
     "reuters": [
       {
+        "title": "India relaxes kerosene rules to tackle energy supply issues",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c939d542864be8a91f2f1250485adf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2findia-relaxes-kerosene-rules-tackle-energy-supply-issues-2026-03-29%2f&amp;c=17580608451888057680&amp;mkt=en-us",
+        "pubDate": "Sun, 29 Mar 2026 06:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pakistan hosts regional powers for Iran talks with focus on Hormuz proposals",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c939d542864be8a91f2f1250485adf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistan-hosts-regional-powers-iran-talks-with-focus-hormuz-proposals-2026-03-29%2f&amp;c=343850190855523936&amp;mkt=en-us",
+        "pubDate": "Sun, 29 Mar 2026 05:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Israeli police block Catholic cardinal from Jerusalem's Holy Sepulchre on Palm Sunday",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c939d542864be8a91f2f1250485adf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-police-block-catholic-cardinal-jerusalems-holy-sepulchre-palm-sunday-2026-03-29%2f&amp;c=8239721075430625069&amp;mkt=en-us",
+        "pubDate": "Sun, 29 Mar 2026 05:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Africa Cup of Nations to be increased to 28 teams",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c939d542864be8a91f2f1250485adf&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fafrica-cup-nations-be-increased-28-teams-2026-03-29%2f&amp;c=1036876336221217993&amp;mkt=en-us",
+        "pubDate": "Sun, 29 Mar 2026 05:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Italy's MPS board says proposed CEO change aims to boost internal cooperation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c939f5e58a4168846ab9ab9d59fd37&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fitalys-mps-board-says-proposed-ceo-change-aims-boost-internal-cooperation-2026-03-29%2f&amp;c=1787706565833488732&amp;mkt=en-us",
+        "pubDate": "Sun, 29 Mar 2026 05:44:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "'JD or Marco?\u2019: Iran war raises 2028 stakes as Trump weighs Vance vs. Rubio",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c939d542864be8a91f2f1250485adf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fjd-or-marco-iran-war-raises-2028-stakes-trump-weighs-vance-vs-rubio-2026-03-29%2f&amp;c=2352494166027210543&amp;mkt=en-us",
+        "pubDate": "Sun, 29 Mar 2026 04:46:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Swiss back tougher social media rules for minors, survey finds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c924a24a4a4a2fa2016e92d96d4607&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fswiss-back-tougher-social-media-rules-minors-survey-finds-2026-03-29%2f&amp;c=16200680169248475464&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c939f72eee49588c32cd08a8babeb3&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fswiss-back-tougher-social-media-rules-minors-survey-finds-2026-03-29%2f&amp;c=16200680169248475464&amp;mkt=en-us",
         "pubDate": "Sun, 29 Mar 2026 04:38:00 GMT",
         "category": "tech"
       },
       {
-        "title": "China's Hansoh Pharmaceutical Group beats net profit expectations in 2025",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c924a1567c4419a2d26236307a4548&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fchinas-hansoh-pharmaceutical-group-beats-net-profit-expectations-2025-2026-03-29%2f&amp;c=16351810302628992098&amp;mkt=en-us",
-        "pubDate": "Sun, 29 Mar 2026 04:16:00 GMT",
-        "category": "business"
+        "title": "CAF to make changes to regulations after Afcon final fiasco",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c939d542864be8a91f2f1250485adf&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fcaf-make-changes-regulations-after-afcon-final-fiasco-2026-03-29%2f&amp;c=4046656173738652968&amp;mkt=en-us",
+        "pubDate": "Sun, 29 Mar 2026 04:35:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Israeli strikes hit two Gaza police checkpoints, killing six, medics say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c924a291ab4a6b82695e2818bb8e27&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strikes-hit-two-gaza-police-checkpoints-killing-six-medics-say-2026-03-28%2f&amp;c=12594057797676918389&amp;mkt=en-us",
-        "pubDate": "Sat, 28 Mar 2026 15:37:00 GMT",
-        "category": "health"
+        "title": "Some trades ahead of Trump policy moves raise questions",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c939d542864be8a91f2f1250485adf&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fsome-trades-ahead-trump-policy-moves-raise-questions-2026-03-29%2f&amp;c=3195580813384919473&amp;mkt=en-us",
+        "pubDate": "Sun, 29 Mar 2026 02:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Yemen's Houthis enter Iran war with attacks on Israel, while US Marines arrive in region",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69c939d542864be8a91f2f1250485adf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fyemens-houthis-enter-iran-war-with-attacks-israel-while-us-marines-arrive-region-2026-03-28%2f&amp;c=2934397574382230559&amp;mkt=en-us",
+        "pubDate": "Sun, 29 Mar 2026 01:15:00 GMT",
+        "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "Top Wall Street analysts like these dividend stocks for solid returns",
-        "link": "https://www.cnbc.com/2026/03/29/top-wall-street-analysts-like-these-dividend-stocks-for-solid-returns.html",
-        "pubDate": "Sun, 29 Mar 2026 12:27:09 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Meta&apos;s court losses spell potential trouble for AI research, consumer safety",
-        "link": "https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html",
-        "pubDate": "Sun, 29 Mar 2026 12:00:01 GMT",
-        "category": "tech"
-      }
-    ]
+    "markets": []
   }
 }
