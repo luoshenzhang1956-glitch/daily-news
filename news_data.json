@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-03-30T20:57:14.649415",
+  "updated_at": "2026-03-30T22:45:54.252166",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Homesick in a foreign country, a teenager meets a lifelong friend",
+        "link": "https://www.npr.org/2026/03/30/nx-s1-5763981/homesick-in-a-foreign-country-a-teenager-meets-a-lifelong-friend",
+        "pubDate": "Mon, 30 Mar 2026 17:18:49 -0400",
+        "category": "us"
+      },
+      {
         "title": "Yemeni politician says former U.S. soldiers tried to kill him. Now he&apos;s suing in U.S. court",
         "link": "https://www.npr.org/2026/03/30/nx-s1-5707305/yemen-politician-assassination-us-soldiers-lawsuit",
         "pubDate": "Mon, 30 Mar 2026 16:22:34 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Trump rolls back pause on asylum decisions imposed after D.C. National Guard shooting",
@@ -40,12 +46,6 @@
         "category": "Top News"
       },
       {
-        "title": "TSA workers may receive pay soon. And, Israel plans to expand its invasion of Lebanon",
-        "link": "https://www.npr.org/2026/03/30/g-s1-115720/up-first-newsletter-israel-lebanon-strait-of-hormuz-tsa-dhs-birthright-citizenship",
-        "pubDate": "Mon, 30 Mar 2026 07:27:22 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "China&apos;s AI chatbots are advanced and versatile \u2014 and begging for more users",
         "link": "https://www.npr.org/2026/03/30/nx-s1-5760939/china-chatbot-industry-doubao-qwen-yuanbao",
         "pubDate": "Mon, 30 Mar 2026 05:00:00 -0400",
@@ -66,6 +66,12 @@
     ],
     "bbc": [
       {
+        "title": "Mills' abrupt sacking creates another headache for the BBC",
+        "link": "https://www.bbc.com/news/articles/clyr1z4kre0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 30 Mar 2026 21:31:02 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "C\u00e9line Dion announces comeback shows four years after Stiff Person Syndrome diagnosis",
         "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 30 Mar 2026 19:15:23 GMT",
@@ -76,12 +82,6 @@
         "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 30 Mar 2026 18:59:19 GMT",
         "category": "business"
-      },
-      {
-        "title": "Mills' abrupt sacking creates another headache for the BBC",
-        "link": "https://www.bbc.com/news/articles/clyr1z4kre0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 30 Mar 2026 17:59:20 GMT",
-        "category": "Top News"
       },
       {
         "title": "Beatrice and Eugenie won't be at royal Easter service",
@@ -128,54 +128,30 @@
     ],
     "reuters": [
       {
+        "title": "Coach Broos confident South Africa can surprise at World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cafcbb2af74006a365828887a29757&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fcoach-broos-confident-south-africa-can-surprise-world-cup-2026-03-30%2f&amp;c=15639957116103895248&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 11:55:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "Health, environmental groups sue EPA for rollback of mercury rule",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cae35eec424cdc9189dadb6f6d7dc7&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fhealth-environmental-groups-sue-epa-rollback-mercury-rule-2026-03-30%2f&amp;c=7865451708904043850&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cafce7bc394f9580d3f72f36b28bd8&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fhealth-environmental-groups-sue-epa-rollback-mercury-rule-2026-03-30%2f&amp;c=7865451708904043850&amp;mkt=en-us",
         "pubDate": "Mon, 30 Mar 2026 11:49:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "US business equipment borrowings rise more than 14% in February, ELFA says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cae356ffe2442aa2120635b0f418a0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-business-equipment-borrowings-rise-more-than-14-february-elfa-says-2026-03-30%2f&amp;c=2247354382532832548&amp;mkt=en-us",
-        "pubDate": "Mon, 30 Mar 2026 11:11:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Crypto fuels drone purchases in Russia and Iran, report says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cae35d71494847abf5f6c7aedafa10&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fcrypto-fuels-drone-purchases-russia-iran-report-says-2026-03-30%2f&amp;c=6016195906489532025&amp;mkt=en-us",
-        "pubDate": "Mon, 30 Mar 2026 10:46:00 GMT",
-        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
-        "link": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
-        "pubDate": "Mon, 30 Mar 2026 19:34:25 GMT",
-        "category": "Top News"
+        "title": "Micron stock sinks 10%, further cratering in post-earnings sell-off",
+        "link": "https://www.cnbc.com/2026/03/30/micron-stock-earnings-sell-off-memory-shortage.html",
+        "pubDate": "Mon, 30 Mar 2026 21:06:26 GMT",
+        "category": "tech"
       },
       {
-        "title": "Stocks making the biggest moves midday: Fannie Mae, Boston Scientific, Blackstone, Palo Alto Networks and more",
-        "link": "https://www.cnbc.com/2026/03/30/stocks-making-the-biggest-moves-midday-fnma-bsx-bx-panw.html",
-        "pubDate": "Mon, 30 Mar 2026 17:43:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bill Ackman says it\u2019s one of the best times in a long time to buy quality stocks",
-        "link": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html",
-        "pubDate": "Mon, 30 Mar 2026 15:46:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fed Governor Miran still backs cuts, says interest rates could be &apos;about a point&apos; lower this year",
-        "link": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html",
-        "pubDate": "Mon, 30 Mar 2026 14:54:18 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch Fed Chair Jerome Powell speak live to an economics class at Harvard",
-        "link": "https://www.cnbc.com/2026/03/30/watch-fed-chair-jerome-powell-speak-live-to-an-economics-class-at-harvard.html",
-        "pubDate": "Mon, 30 Mar 2026 14:47:39 GMT",
-        "category": "Top News"
+        "title": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market",
+        "link": "https://www.cnbc.com/2026/03/29/eli-lilly-reaches-deal-to-bring-ai-developed-drugs-to-global-market.html",
+        "pubDate": "Mon, 30 Mar 2026 05:35:02 GMT",
+        "category": "health"
       }
     ]
   }
