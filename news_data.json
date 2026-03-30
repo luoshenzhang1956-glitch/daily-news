@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-03-30T17:06:49.425497",
+  "updated_at": "2026-03-30T19:10:39.820770",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "A \u2018World Cup\u2019 for immigrant girls uses the joy of sport to counter ICE fears",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca0e44d946a9a18689cfec51f0fb&amp;url=https%3a%2f%2fapnews.com%2farticle%2fimmigration-refugee-girls-soccer-tournament-fa2e1b21aa68d120b3454a18d688e9ed&amp;c=10398644383728507226&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 11:36:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
-        "title": "Ilia Malinin rebounds from the Olympics to win his 3rd straight world championship",
+        "title": "Figure skating season ends with redemption and heartbreak. What do fans watch next?",
         "link": "https://www.npr.org/2026/03/30/nx-s1-5766046/ilia-malinin-world-champion-figure-skating-season",
         "pubDate": "Mon, 30 Mar 2026 12:30:19 -0400",
         "category": "world"
@@ -46,7 +53,7 @@
         "category": "Top News"
       },
       {
-        "title": "China&apos;s chatbot industry is fiercely competing for customers. Cue the freebies",
+        "title": "China&apos;s AI chatbots are advanced and versatile \u2014 and begging for more users",
         "link": "https://www.npr.org/2026/03/30/nx-s1-5760939/china-chatbot-industry-doubao-qwen-yuanbao",
         "pubDate": "Mon, 30 Mar 2026 05:00:00 -0400",
         "category": "business"
@@ -66,39 +73,45 @@
     ],
     "bbc": [
       {
+        "title": "Millions of drivers mis-sold car finance to receive average \u00a3829 in compensation",
+        "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 30 Mar 2026 18:59:19 GMT",
+        "category": "business"
+      },
+      {
         "title": "Mills' abrupt sacking creates another headache for the BBC",
         "link": "https://www.bbc.com/news/articles/clyr1z4kre0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 30 Mar 2026 16:41:48 GMT",
+        "pubDate": "Mon, 30 Mar 2026 17:59:20 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Beatrice and Eugenie won't be at royal Easter service",
+        "link": "https://www.bbc.com/news/articles/cx247087ejko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 30 Mar 2026 17:15:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Spain closes airspace to US aircraft involved in Iran war",
+        "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 30 Mar 2026 15:29:15 GMT",
+        "category": "world"
       },
       {
         "title": "What was the 1970s oil crisis, and are we heading for something worse?",
         "link": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 30 Mar 2026 15:22:18 GMT",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "How the US could try to seize Iran's Kharg Island",
         "link": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 30 Mar 2026 14:54:47 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Cardiff City damages claim over Emiliano Sala death dismissed",
-        "link": "https://www.bbc.com/news/articles/c8jkeprrn00o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 30 Mar 2026 14:24:02 GMT",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "Scott Mills sacked from BBC Radio 2 after allegations over 'historic relationship'",
         "link": "https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 30 Mar 2026 13:48:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Easter bank holiday weekend set to be busiest on roads in four years",
-        "link": "https://www.bbc.com/news/articles/cy81eryy125o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 30 Mar 2026 13:31:52 GMT",
         "category": "Top News"
       },
       {
@@ -118,28 +131,76 @@
         "link": "https://www.bbc.com/news/articles/c5ylgv14geno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 30 Mar 2026 05:07:55 GMT",
         "category": "health"
-      },
-      {
-        "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
-        "link": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 29 Mar 2026 23:50:21 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "Three million Indian officials to begin counting world\u2019s largest population",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caad2204b94cee9199a1172c88f6a8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fthree-million-indian-officials-begin-counting-worlds-largest-population-2026-03-30%2f&amp;c=17962497714022711958&amp;mkt=en-us",
-        "pubDate": "Mon, 30 Mar 2026 05:45:00 GMT",
-        "category": "world"
+        "title": "US business equipment borrowings rise more than 14% in February, ELFA says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca6d1fcd4cd1a7cfd074f4b15a48&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2feurope%2fus-business-equipment-borrowings-rise-more-than-14-february-elfa-says-2026-03-30%2f&amp;c=14581735715242441625&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 11:04:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "White House says no change in Cuba policy after Russian tanker waiver",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca4d875f44cfaf65a8a4999e7037&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fwhite-house-says-no-change-cuba-policy-after-russian-tanker-waiver-2026-03-30%2f&amp;c=17373645914530940226&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 10:23:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel passes law making death penalty default sentence for Palestinians convicted of lethal attacks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca4d875f44cfaf65a8a4999e7037&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisrael-passes-law-making-death-penalty-default-sentence-palestinians-convicted-2026-03-30%2f&amp;c=7908430133151035412&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 10:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump interested in calling on Arab states to help pay for Iran war, White House says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca4d875f44cfaf65a8a4999e7037&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-interested-calling-arab-states-help-pay-iran-war-white-house-says-2026-03-30%2f&amp;c=7624077773034565139&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 10:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Air Canada CEO to retire after French-language flub, Carney welcomes move",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca4d875f44cfaf65a8a4999e7037&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fair-canada-ceo-michael-rousseau-retire-2026-03-30%2f&amp;c=17172421500343947297&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 09:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fearing economic collapse after war, Iran cracks down on dissent",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca4d875f44cfaf65a8a4999e7037&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ffearing-economic-collapse-after-war-iran-cracks-down-dissent-2026-03-30%2f&amp;c=10861265759484574898&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 09:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US paves way for private assets to be included in 401(k) retirement plans",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca4d875f44cfaf65a8a4999e7037&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-department-labor-issues-401k-guidelines-private-assets-2026-03-30%2f&amp;c=6824409251504509057&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 09:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thousands of US Army paratroopers arrive in Middle East as buildup intensifies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca4d875f44cfaf65a8a4999e7037&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fthousands-us-army-paratroopers-arrive-middle-east-buildup-intensifies-2026-03-30%2f&amp;c=2322379303418005243&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 09:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Mexican immigrant died in US immigration custody, ICE says, marking 14 deaths in 2026",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca4d875f44cfaf65a8a4999e7037&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmexican-immigrant-died-us-immigration-custody-ice-says-marking-14-deaths-2026-2026-03-30%2f&amp;c=1170622760049231646&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 07:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine hits back against Rheinmetall CEO's housewives' drones comments",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69caca6f31b0432dab0afeba4040dad3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fukraine-hits-back-against-rheinmetall-ceos-housewives-drones-comments-2026-03-30%2f&amp;c=10158242823144842425&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 07:37:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO",
-        "link": "https://www.cnbc.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-ipo.html",
-        "pubDate": "Mon, 30 Mar 2026 13:00:01 GMT",
-        "category": "tech"
+        "title": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to &apos;immediately&apos; reopen Hormuz Strait",
+        "link": "https://www.cnbc.com/2026/03/30/trump-iran-war-obliterate-kharg-island-strait-of-hormuz-peace-deal.html",
+        "pubDate": "Mon, 30 Mar 2026 14:43:49 GMT",
+        "category": "world"
       }
     ]
   }
