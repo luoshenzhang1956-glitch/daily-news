@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-03-30T22:45:54.252166",
+  "updated_at": "2026-03-31T02:54:36.124793",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US stocks swing through another shaky day as oil prices keep climbing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cb36c4fa0047d4b63405720a569b93&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-war-oil-trump-iran-1aef947ecb395c3bb97fcdb5ed3826f1&amp;c=60808322307043179&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 13:17:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
       {
         "title": "Homesick in a foreign country, a teenager meets a lifelong friend",
@@ -66,15 +73,27 @@
     ],
     "bbc": [
       {
-        "title": "Mills' abrupt sacking creates another headache for the BBC",
-        "link": "https://www.bbc.com/news/articles/clyr1z4kre0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 30 Mar 2026 21:31:02 GMT",
+        "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
+        "link": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 31 Mar 2026 02:00:24 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Inside the cockpit of RAF tanker during defensive mission against Iranian drones",
+        "link": "https://www.bbc.com/news/articles/cdrmg6x2rgxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 30 Mar 2026 23:10:44 GMT",
         "category": "Top News"
       },
       {
-        "title": "C\u00e9line Dion announces comeback shows four years after Stiff Person Syndrome diagnosis",
-        "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 30 Mar 2026 19:15:23 GMT",
+        "title": "Why the benefit used by over 8 million people may not be fit for the future",
+        "link": "https://www.bbc.com/news/articles/c3r3w0w1gepo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 30 Mar 2026 23:09:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Starmer gives doctors 48 hours to cancel strike or lose new jobs package",
+        "link": "https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 30 Mar 2026 22:47:13 GMT",
         "category": "Top News"
       },
       {
@@ -96,12 +115,6 @@
         "category": "world"
       },
       {
-        "title": "What was the 1970s oil crisis, and are we heading for something worse?",
-        "link": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 30 Mar 2026 15:22:18 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "How the US could try to seize Iran's Kharg Island",
         "link": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 30 Mar 2026 14:54:47 GMT",
@@ -114,12 +127,6 @@
         "category": "Top News"
       },
       {
-        "title": "Kris Jenner's image spreads in Chinese social media good luck trend",
-        "link": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 30 Mar 2026 12:59:23 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Man fears stroke or heart attack due to aspirin shortage",
         "link": "https://www.bbc.com/news/articles/c5ylgv14geno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 30 Mar 2026 05:07:55 GMT",
@@ -128,24 +135,60 @@
     ],
     "reuters": [
       {
-        "title": "Coach Broos confident South Africa can surprise at World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cafcbb2af74006a365828887a29757&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fcoach-broos-confident-south-africa-can-surprise-world-cup-2026-03-30%2f&amp;c=15639957116103895248&amp;mkt=en-us",
-        "pubDate": "Mon, 30 Mar 2026 11:55:00 GMT",
-        "category": "world"
+        "title": "Thousands of US Army paratroopers arrive in Middle East as buildup intensifies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cb3703a91344d1a0527d627a132a41&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fthousands-us-army-paratroopers-arrive-middle-east-buildup-intensifies-2026-03-30%2f&amp;c=2322379303418005243&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 13:24:00 GMT",
+        "category": "us"
       },
       {
-        "title": "Health, environmental groups sue EPA for rollback of mercury rule",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cafce7bc394f9580d3f72f36b28bd8&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fhealth-environmental-groups-sue-epa-rollback-mercury-rule-2026-03-30%2f&amp;c=7865451708904043850&amp;mkt=en-us",
-        "pubDate": "Mon, 30 Mar 2026 11:49:00 GMT",
-        "category": "health"
+        "title": "Three million Indian officials to begin counting world\u2019s largest population",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cb36f52b9e4279891f27ab1230ab38&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fthree-million-indian-officials-begin-counting-worlds-largest-population-2026-03-30%2f&amp;c=17962497714022711958&amp;mkt=en-us",
+        "pubDate": "Mon, 30 Mar 2026 05:45:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Micron stock sinks 10%, further cratering in post-earnings sell-off",
-        "link": "https://www.cnbc.com/2026/03/30/micron-stock-earnings-sell-off-memory-shortage.html",
-        "pubDate": "Mon, 30 Mar 2026 21:06:26 GMT",
-        "category": "tech"
+        "title": "Evercore ISI predicts &apos;inflection point&apos; is days away, plans to commit capital if S&amp;P 500 drops to this level",
+        "link": "https://www.cnbc.com/2026/03/30/buy-stocks-if-sp-500-falls-to-this-level-evercore-isis-emanuel.html",
+        "pubDate": "Mon, 30 Mar 2026 23:22:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "JetBlue Airways raises checked bag fees at least $4 as fuel prices soar",
+        "link": "https://www.cnbc.com/2026/03/30/jetblue-airways-raises-checked-baggage-fees-as-fuel-prices-soar.html",
+        "pubDate": "Mon, 30 Mar 2026 20:35:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+        "link": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
+        "pubDate": "Mon, 30 Mar 2026 19:34:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Fannie Mae, Boston Scientific, Blackstone, Palo Alto Networks and more",
+        "link": "https://www.cnbc.com/2026/03/30/stocks-making-the-biggest-moves-midday-fnma-bsx-bx-panw.html",
+        "pubDate": "Mon, 30 Mar 2026 17:43:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bill Ackman says it\u2019s one of the best times in a long time to buy quality stocks",
+        "link": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html",
+        "pubDate": "Mon, 30 Mar 2026 15:46:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed Governor Miran still backs cuts, says interest rates could be &apos;about a point&apos; lower this year",
+        "link": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html",
+        "pubDate": "Mon, 30 Mar 2026 14:54:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch Fed Chair Jerome Powell speak live to an economics class at Harvard",
+        "link": "https://www.cnbc.com/2026/03/30/watch-fed-chair-jerome-powell-speak-live-to-an-economics-class-at-harvard.html",
+        "pubDate": "Mon, 30 Mar 2026 14:47:39 GMT",
+        "category": "Top News"
       },
       {
         "title": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market",
