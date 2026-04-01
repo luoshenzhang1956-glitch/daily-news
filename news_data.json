@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-04-01T13:52:14.414439",
+  "updated_at": "2026-04-01T15:14:19.662194",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "World Cup qualifying was long, wacky and historic. This is what we\u2019ve learned",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd359706654b92bf3bdd11e17742a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-qualification-145db57002baa7c9772683c32da862c4&amp;c=10060976348098900289&amp;mkt=en-us",
+        "pubDate": "Wed, 01 Apr 2026 06:29:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
         "title": "Greetings from London, where a big COVID memorial holds vigil over the halls of power",
@@ -28,6 +35,12 @@
         "category": "us"
       },
       {
+        "title": "Trump will address the nation after saying the U.S. may leave the Iran war within weeks",
+        "link": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump",
+        "pubDate": "Wed, 01 Apr 2026 06:02:54 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "From scrappy startup to tech giant, Apple celebrates its 50th year",
         "link": "https://www.npr.org/2026/04/01/nx-s1-5753784/apple-50-anniversary-think-different-myth-reality",
         "pubDate": "Wed, 01 Apr 2026 05:00:00 -0400",
@@ -46,12 +59,6 @@
         "category": "Top News"
       },
       {
-        "title": "Supreme Court considers a historic case about who is \u2014 and isn&apos;t \u2014 born a citizen",
-        "link": "https://www.npr.org/2026/04/01/nx-s1-5732437/supreme-court-birthright-citizenship-trump",
-        "pubDate": "Wed, 01 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "NASA&apos;s Artemis II astronauts launch to the moon today. Watch it here",
         "link": "https://www.npr.org/2026/04/01/nx-s1-5768254/nasa-astronauts-about-to-launch-moon-artemis-ii",
         "pubDate": "Wed, 01 Apr 2026 05:00:00 -0400",
@@ -65,6 +72,18 @@
       }
     ],
     "bbc": [
+      {
+        "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
+        "link": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Apr 2026 14:00:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Minimum wage rises to \u00a312.71 an hour as firms warn of impact",
+        "link": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Apr 2026 13:45:44 GMT",
+        "category": "Top News"
+      },
       {
         "title": "BBC knew about Scott Mills sexual offences investigation in 2017",
         "link": "https://www.bbc.com/news/articles/cwywvrye76lo?at_medium=RSS&amp;at_campaign=rss",
@@ -84,15 +103,9 @@
         "category": "tech"
       },
       {
-        "title": "Multiple driverless cars come to a halt in Wuhan in 'system malfunction'",
+        "title": "Over 100 driverless cars stop mid-traffic in Wuhan in 'system malfunction'",
         "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Apr 2026 11:34:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
-        "link": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Apr 2026 11:21:09 GMT",
         "category": "Top News"
       },
       {
@@ -100,12 +113,6 @@
         "link": "https://www.bbc.com/news/articles/c7vqny4e198o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Apr 2026 10:42:57 GMT",
         "category": "us"
-      },
-      {
-        "title": "Weather looks favourable for Artemis launch despite cloud",
-        "link": "https://www.bbc.com/weather/articles/cj6w4p106klo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Apr 2026 09:22:22 GMT",
-        "category": "Top News"
       },
       {
         "title": "Estate agents accuse Rightmove of charging excessive fees",
@@ -128,96 +135,24 @@
     ],
     "reuters": [
       {
-        "title": "US retail sales strong in February; Iran war expected to hurt spending",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd22aff1ec4839ad24e6b8f421647a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-retail-sales-increase-solidly-february-2026-04-01%2f&amp;c=14794672824824169628&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 05:41:00 GMT",
+        "title": "US business inventories unexpectedly fall in January",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd35e9863345d09b03052ff3b8d6a2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-business-inventories-unexpectedly-fall-january-2026-04-01%2f&amp;c=1317993846334984448&amp;mkt=en-us",
+        "pubDate": "Wed, 01 Apr 2026 06:25:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US to leave Iran 'pretty quickly' and return if needed, Trump tells Reuters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd35e899914ee3a505881990d2e579&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-leave-iran-pretty-quickly-return-if-needed-trump-tells-reuters-2026-04-01%2f&amp;c=9601428060488001457&amp;mkt=en-us",
+        "pubDate": "Wed, 01 Apr 2026 05:48:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "In historic visit, Trump to attend Supreme Court arguments",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd229e6ccd4c358033d4ad47f0709e&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fhistoric-visit-trump-attend-supreme-court-arguments-2026-04-01%2f&amp;c=15160828988852955183&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 05:32:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Intel to buy back Apollo stake in Ireland factory for $14.2 billion",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd229e6ccd4c358033d4ad47f0709e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fintel-buy-back-apollo-stake-ireland-factory-142-billion-2026-04-01%2f&amp;c=7536731547365741013&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 05:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SpaceX seen as make-or-break test for mega IPOs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd229e6ccd4c358033d4ad47f0709e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fspacex-seen-make-or-break-test-mega-ipos-2026-04-01%2f&amp;c=9001551558737663278&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 04:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says US may exit Iran war soon and threatens to quit NATO, as oil crisis escalates",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd229e6ccd4c358033d4ad47f0709e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-says-us-could-end-iran-war-two-three-weeks-2026-03-31%2f&amp;c=12565380600936021373&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 03:33:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Health Rounds: Genetic testing improves treatment, survival for Black breast cancer patients",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd22c11dc34fe5b6c6af20055549c5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-rounds-genetic-testing-improves-treatment-survival-black-breast-cancer-2026-04-01%2f&amp;c=5526867645186557660&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 03:10:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "A New York vintner raids US wine cellars to skirt Trump's tariffs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd229e6ccd4c358033d4ad47f0709e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnew-york-vintner-raids-us-wine-cellars-skirt-trumps-tariffs-2026-04-01%2f&amp;c=16748883308808875498&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 02:37:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Supreme Court considers Trump's effort to limit birthright citizenship",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd229e6ccd4c358033d4ad47f0709e&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-supreme-court-considers-trumps-effort-limit-birthright-citizenship-2026-04-01%2f&amp;c=12648573306374876944&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 02:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Apple's 50-year journey from garage to tech titan",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd22c09ba7438289c1c30e730fd4f6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fapples-50-year-journey-garage-tech-titan-2026-04-01%2f&amp;c=14821293924533267595&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 02:01:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Judicial panel in Wisconsin dismisses lawsuit challenging state's congressional map",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cd229e6ccd4c358033d4ad47f0709e&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fjudicial-panel-wisconsin-dismisses-lawsuit-challenging-states-congressional-map-2026-03-31%2f&amp;c=15606342865072264798&amp;mkt=en-us",
-        "pubDate": "Tue, 31 Mar 2026 15:44:00 GMT",
-        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Visa launches new AI tools to manage the charge dispute process",
-        "link": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html",
-        "pubDate": "Wed, 01 Apr 2026 12:51:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Nike, RH, Sandisk &amp; more",
-        "link": "https://www.cnbc.com/2026/04/01/stocks-making-the-biggest-moves-premarket-nike-rh-sandisk-more.html",
-        "pubDate": "Wed, 01 Apr 2026 11:47:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "While low-income consumers struggle with rising gas prices, higher earners grow nervous as markets fall",
-        "link": "https://www.cnbc.com/2026/03/31/gas-prices-hit-low-income-consumers-falling-markets-hurt-high-earners.html",
-        "pubDate": "Tue, 31 Mar 2026 20:05:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
-        "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-iran-bomb-would-make-nuclear-disaster-harder-to-avoid.html",
-        "pubDate": "Tue, 31 Mar 2026 17:16:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Warren Buffett teams up with NBA superstar Stephen Curry for charity lunch, reviving iconic auction",
-        "link": "https://www.cnbc.com/2026/03/31/warren-buffett-teams-up-with-stephen-curry-for-charity-lunch.html",
-        "pubDate": "Tue, 31 Mar 2026 16:37:47 GMT",
-        "category": "Top News"
+        "title": "Trump says Iran&apos;s president asked for ceasefire, but U.S. wants Hormuz Strait open first",
+        "link": "https://www.cnbc.com/2026/04/01/trump-iran-war-ceasefire.html",
+        "pubDate": "Wed, 01 Apr 2026 14:55:11 GMT",
+        "category": "world"
       }
     ]
   }
