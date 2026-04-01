@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-04-01T03:25:19.966008",
+  "updated_at": "2026-04-01T06:01:10.080241",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Record low Colorado mountain snow won\u2019t bode well for water in the drought-stricken US West",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ccb4194b9c4b5da67ec54ef488b256&amp;url=https%3a%2f%2fapnews.com%2farticle%2frockies-d204acb04bdac2524071b6bd627e4665&amp;c=18255591217979578226&amp;mkt=en-us",
+        "pubDate": "Tue, 31 Mar 2026 21:17:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Ex-Arkansas medical board chair indicted over alleged drugging and abduction of patients",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ccb43eda7e4899b5e32fe2d6a1807b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbrian-hyatt-psychiatrist-abduction-sedation-medicaid-fraud-1f7040820483e3a6b8ad3e484d45d96c&amp;c=2076664860148088400&amp;mkt=en-us",
+        "pubDate": "Tue, 31 Mar 2026 10:57:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Suspension lifted for helicopter pilots who hovered near Kid Rock&apos;s home",
+        "link": "https://www.npr.org/2026/04/01/nx-s1-5769800/suspension-lifted-helicopter-pilots-kid-rock",
+        "pubDate": "Wed, 01 Apr 2026 01:32:45 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Trump plans to attend Wednesday&apos;s Supreme Court hearing on birthright citizenship",
+        "link": "https://www.npr.org/2026/04/01/g-s1-116019/trump-attend-supreme-court-birthright-citizenship",
+        "pubDate": "Wed, 01 Apr 2026 01:26:14 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Food assistance slashed for hundreds of thousands of Rohingya refugees trapped in Bangladesh camps",
+        "link": "https://www.npr.org/2026/04/01/nx-s1-5769798/food-assistance-slashed-rohingya-refugees-bangladesh-camps",
+        "pubDate": "Wed, 01 Apr 2026 01:24:16 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Tiger Woods says he&apos;ll seek treatment after pleading not guilty to DUI",
+        "link": "https://www.npr.org/2026/04/01/g-s1-116015/tiger-woods-seek-treatment",
+        "pubDate": "Wed, 01 Apr 2026 01:14:35 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Trump signs a new executive order on voting. Experts say he lacks the authority",
         "link": "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order",
@@ -10,16 +47,10 @@
         "category": "Top News"
       },
       {
-        "title": "Here to help: These volunteers build and maintain hiking trails in North Carolina",
-        "link": "https://www.npr.org/2026/03/31/nx-s1-5727857/here-to-help-these-volunteers-build-and-maintain-hiking-trails-in-north-carolina",
-        "pubDate": "Tue, 31 Mar 2026 17:37:53 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Kherson, Ukraine: A hometown changed (Pt. 1)",
-        "link": "https://www.npr.org/2026/03/31/nx-s1-5719102/kherson-ukraine-a-hometown-changed-pt-1",
-        "pubDate": "Tue, 31 Mar 2026 17:37:50 -0400",
-        "category": "world"
+        "title": "Iranians debate whether the war is worth it",
+        "link": "https://www.npr.org/2026/03/31/nx-s1-5759351/iranians-debate-whether-the-war-is-worth-it",
+        "pubDate": "Tue, 31 Mar 2026 17:33:12 -0400",
+        "category": "Top News"
       },
       {
         "title": "Judge rules White House ballroom construction must halt until Congress OK&apos;s it",
@@ -34,28 +65,10 @@
         "category": "Top News"
       },
       {
-        "title": "Federal judge finds Trump violated free speech by ordering NPR defunded",
-        "link": "https://www.npr.org/2026/03/31/nx-s1-5768399/npr-pbs-trump-federal-funding",
-        "pubDate": "Tue, 31 Mar 2026 15:22:26 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump shares a look at his future presidential library. Here&apos;s what to know about it",
-        "link": "https://www.npr.org/2026/03/31/nx-s1-5768094/trump-presidential-library-renderings-miami",
-        "pubDate": "Tue, 31 Mar 2026 14:29:45 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "The wellness world is eager for RFK Jr.&apos;s promised move on peptides",
         "link": "https://www.npr.org/2026/03/31/nx-s1-5768206/peptides-rfk-fda-compounding-pharmacies",
         "pubDate": "Tue, 31 Mar 2026 13:52:49 -0400",
         "category": "health"
-      },
-      {
-        "title": "One of the first people known to change their gender was an ancient Egyptian pharaoh",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/03/31/g-s1-115791/hatshepsut-one-of-egypts-greatest-pharaohs",
-        "pubDate": "Tue, 31 Mar 2026 13:00:00 -0400",
-        "category": "Top News"
       },
       {
         "title": "Gas crosses $4 a gallon in the U.S. for the first time in 3 years",
@@ -66,22 +79,28 @@
     ],
     "bbc": [
       {
+        "title": "Energy bill support would be based on household income, Reeves says",
+        "link": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Apr 2026 05:30:31 GMT",
+        "category": "business"
+      },
+      {
         "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
         "link": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Apr 2026 00:00:18 GMT",
         "category": "Top News"
       },
       {
-        "title": "Weight-loss jabs will be offered on NHS for people at risk of further heart  attacks",
+        "title": "Weight-loss jabs will be offered on NHS for people at risk of further heart attacks",
         "link": "https://www.bbc.com/news/articles/cz90595pgzlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 31 Mar 2026 23:01:43 GMT",
         "category": "Top News"
       },
       {
-        "title": "Minimum wage rises to \u00a312.71 an hour",
+        "title": "Pay rise for 2.7 million people as minimum wage increase comes into force",
         "link": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 31 Mar 2026 23:01:15 GMT",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Failed experiment as England get grim glimpse of life without Kane",
@@ -100,12 +119,6 @@
         "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 31 Mar 2026 21:50:41 GMT",
         "category": "tech"
-      },
-      {
-        "title": "More UK troops to be sent to Middle East, defence secretary announces",
-        "link": "https://www.bbc.com/news/articles/c7vq76g45rvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 31 Mar 2026 20:25:20 GMT",
-        "category": "Top News"
       },
       {
         "title": "Hegseth calls on US allies to 'step up' over Strait of Hormuz",
@@ -128,36 +141,24 @@
     ],
     "reuters": [
       {
-        "title": "Trump says the US could end the Iran war in two to three weeks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cc8fc453154548a73e08b396899548&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-says-us-could-end-iran-war-two-three-weeks-2026-03-31%2f&amp;c=12565380600936021373&amp;mkt=en-us",
-        "pubDate": "Tue, 31 Mar 2026 17:53:00 GMT",
+        "title": "US eyes a swift end to war as fresh attacks hit Gulf states and Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ccb460672d4a7f97a7f52a4bb07c9f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-says-us-could-end-iran-war-two-three-weeks-2026-03-31%2f&amp;c=12565380600936021373&amp;mkt=en-us",
+        "pubDate": "Tue, 31 Mar 2026 20:46:00 GMT",
         "category": "us"
       },
       {
         "title": "British drug-cost watchdog recommends use of Novo's Wegovy to lower heart risks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cc8fe7cfb148a8b022b7f0e72f09d1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fbritish-drug-cost-watchdog-recommends-use-novos-wegovy-lower-heart-risks-2026-03-31%2f&amp;c=3570056767809060355&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ccb47c139640b8b3e3a93dc45d041e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fbritish-drug-cost-watchdog-recommends-use-novos-wegovy-lower-heart-risks-2026-03-31%2f&amp;c=3570056767809060355&amp;mkt=en-us",
         "pubDate": "Tue, 31 Mar 2026 15:05:00 GMT",
         "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Nike shares fall 9% on weak outlook, expected 20% sales decline in China",
-        "link": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
-        "pubDate": "Tue, 31 Mar 2026 22:45:18 GMT",
-        "category": "business"
-      },
-      {
         "title": "Crypto asset manager CoinShares to begin trading on Nasdaq through SPAC merger",
         "link": "https://www.cnbc.com/2026/03/31/crypto-asset-manager-coinshares-to-begin-trading-on-nasdaq-through-spac-merger.html",
         "pubDate": "Tue, 31 Mar 2026 22:24:29 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Stocks soar on hopes of Iran war resolution \u2014 plus, Lilly takes a big swing in sleep disorders",
-        "link": "https://www.cnbc.com/2026/03/31/stocks-soar-on-hopes-of-iran-war-resolution-plus-lilly-takes-a-big-swing-in-sleep-disorders.html",
-        "pubDate": "Tue, 31 Mar 2026 18:45:17 GMT",
-        "category": "health"
+        "category": "us"
       }
     ]
   }
