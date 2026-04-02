@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-04-02T13:30:08.156645",
+  "updated_at": "2026-04-02T15:07:16.413091",
   "news": {
-    "ap": [
-      {
-        "title": "To fix a patient\u2019s irregular heartbeat, doctors first tested its digital \u2018twin\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce6f07ef2c4149b561cf35292cc8a3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fheart-disease-arrhythmia-ventricular-tachycardia-73086c0c3df8758380bef539940fa826&amp;c=13693662750356664426&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 14:10:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "&apos;Stay Alive,&apos; about daily life in Nazi Berlin, shows how easy it is to just go along",
+        "link": "https://www.npr.org/2026/04/02/nx-s1-5763755/stay-alive-berlin-ian-buruma-review",
+        "pubDate": "Thu, 02 Apr 2026 09:31:57 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Trump makes case for Iran war. And, SCOTUS leans toward upholding birthright citizenship",
         "link": "https://www.npr.org/2026/04/02/g-s1-116162/up-first-newsletter-iran-war-trump-birthright-citizenship-va-program",
@@ -41,14 +40,14 @@
         "category": "business"
       },
       {
-        "title": "In a thunderous launch, Artemis II astronauts leave Earth. Here&apos;s what&apos;s next",
-        "link": "https://www.npr.org/2026/04/02/nx-s1-5770599/artemis-ii-10-day-mission-preview",
+        "title": "Trump&apos;s VA killed a home loan program. Vets are now losing their homes because of it",
+        "link": "https://www.npr.org/2026/04/02/nx-s1-5750814/veterans-mortgages-foreclosure-va-rescue",
         "pubDate": "Thu, 02 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Trump&apos;s VA killed a home loan program. Vets are now losing their homes because of it",
-        "link": "https://www.npr.org/2026/04/02/nx-s1-5750814/veterans-mortgages-foreclosure-va-rescue",
+        "title": "In a thunderous launch, Artemis II astronauts leave Earth. Here&apos;s what&apos;s next",
+        "link": "https://www.npr.org/2026/04/02/nx-s1-5770599/artemis-ii-10-day-mission-preview",
         "pubDate": "Thu, 02 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -56,12 +55,6 @@
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/04/02/nx-s1-5759077/morning-news-brief",
         "pubDate": "Thu, 02 Apr 2026 04:42:05 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Pakistan is playing intermediary in the Iran war, a role it has played before",
-        "link": "https://www.npr.org/2026/04/02/nx-s1-5767066/pakistan-is-playing-mediator-in-the-iran-war-its-a-role-the-country-is-used-to",
-        "pubDate": "Thu, 02 Apr 2026 04:41:41 -0400",
         "category": "Top News"
       },
       {
@@ -73,28 +66,34 @@
     ],
     "bbc": [
       {
+        "title": "Fewer UK adults posting on social media, Ofcom finds",
+        "link": "https://www.bbc.com/news/articles/cgqk718l4neo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Apr 2026 14:38:24 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Funeral director who kept bodies for months admits 30 counts of preventing lawful burial",
+        "link": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Apr 2026 13:49:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil prices soar and shares drop after Trump threatens more Iran strikes",
+        "link": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Apr 2026 13:34:19 GMT",
+        "category": "business"
+      },
+      {
         "title": "Fifa is charging up to $10,990 for World Cup final tickets in first open sale",
         "link": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 02 Apr 2026 13:10:43 GMT",
         "category": "Top News"
       },
       {
-        "title": "Funeral director admits preventing 30 burials and theft",
-        "link": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Apr 2026 13:09:30 GMT",
+        "title": "Artemis II is in orbit - what happens next?",
+        "link": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Apr 2026 12:20:34 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Oil prices soar and shares drop after Trump threatens more Iran strikes",
-        "link": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Apr 2026 12:44:18 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Macron calls Trump's remarks on his marriage 'inelegant'",
-        "link": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Apr 2026 12:33:03 GMT",
-        "category": "world"
       },
       {
         "title": "Fewer heat-related deaths in 2025 despite warmest summer",
@@ -109,22 +108,16 @@
         "category": "Top News"
       },
       {
-        "title": "How memories of my grandma are tainted by funeral boss's crimes",
+        "title": "We thought we'd buried my grandma, but her body was still at the funeral home",
         "link": "https://www.bbc.com/news/articles/c4gdp4n6nqvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 02 Apr 2026 10:54:03 GMT",
         "category": "Top News"
       },
       {
-        "title": "Petrol and diesel prices see biggest rise on record in March",
-        "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Apr 2026 07:41:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Elon Musk's SpaceX set to go public in $1 trillion share listing",
-        "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Apr 2026 07:05:05 GMT",
-        "category": "tech"
+        "title": "Man dies in storm as Saharan dust shrouds Crete",
+        "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Apr 2026 07:54:44 GMT",
+        "category": "world"
       },
       {
         "title": "'We go for all humanity' - emotional moment as Artemis II blasts off",
@@ -135,37 +128,12 @@
     ],
     "reuters": [
       {
-        "title": "US asset manager shares drop after Blue Owl limits withdrawals in two funds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce6f29fab5437996c0a4587c52c5c4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-asset-manager-shares-drop-after-blue-owl-limits-withdrawals-two-funds-2026-04-02%2f&amp;c=8736548110326306941&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Apr 2026 05:22:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Iran war knocks UK business confidence, survey shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce6f2895564afc8e856a5697a6fbbb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2firan-war-knocks-uk-business-confidence-survey-shows-2026-04-01%2f&amp;c=17819172920865830692&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 15:04:00 GMT",
-        "category": "business"
+        "title": "US labor market remains stable; trade deficit widens in February",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce859cc75f42cabd37c1fedbb41696&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-weekly-jobless-claims-fall-layoffs-remain-low-2026-04-02%2f&amp;c=14870822731961340033&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Apr 2026 06:43:00 GMT",
+        "category": "us"
       }
     ],
-    "markets": [
-      {
-        "title": "Blue Owl caps private credit funds redemptions at 5% after steep request levels",
-        "link": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html",
-        "pubDate": "Thu, 02 Apr 2026 13:18:07 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Novo Nordisk says Wegovy pill outperforms Lilly\u2019s oral GLP-1 in cross-trial comparison",
-        "link": "https://www.cnbc.com/2026/04/02/novo-nordisk-wegovy-pill-eli-lilly-glp1-stock-nvo-lly-foundayo.html",
-        "pubDate": "Thu, 02 Apr 2026 12:00:01 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Trump\u2019s Iran timeline may not be short enough to avoid oil demand destruction",
-        "link": "https://www.cnbc.com/2026/04/02/oil-demand-destruction-trump-energy-price-gasoline-ration-iran.html",
-        "pubDate": "Thu, 02 Apr 2026 10:47:52 GMT",
-        "category": "world"
-      }
-    ]
+    "markets": []
   }
 }
