@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-04-02T05:46:49.164752",
+  "updated_at": "2026-04-02T07:24:25.947587",
   "news": {
     "ap": [
       {
-        "title": "It\u2019s International Fact-Checking Day. Refresh your AI identification skills",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce0232f4434055b33351f27a110b5d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmisinformation-fact-checking-day-ai-iran-war-760d91b9658b4e40e653e84de09b27d6&amp;c=7423226993123080368&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 21:37:00 GMT",
-        "category": "tech"
+        "title": "US lifts sanctions on Venezuela\u2019s acting President Delcy Rodr&#237;guez",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce190d34904b7e933db2221877353e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvenezuela-delcy-rodriguez-sanctions-maduro-d819e64fcdefa132c5b06c3ce0a81f88&amp;c=3464319311350107197&amp;mkt=en-us",
+        "pubDate": "Wed, 01 Apr 2026 19:43:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "World Cup qualifying was long, wacky and historic. This is what we\u2019ve learned",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce190ccc1e45969624ef79c170cce1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-qualification-145db57002baa7c9772683c32da862c4&amp;c=10060976348098900289&amp;mkt=en-us",
+        "pubDate": "Wed, 01 Apr 2026 07:35:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
+      {
+        "title": "U.S. lifts sanctions on Venezuela&apos;s acting President Delcy Rodr\u00edguez",
+        "link": "https://www.npr.org/2026/04/02/g-s1-116142/u-s-lift-sanctions-venezuela-president-delcy-rodriguez",
+        "pubDate": "Thu, 02 Apr 2026 02:44:49 -0400",
+        "category": "world"
+      },
       {
         "title": "Appeals court rejects HUD homelessness overhaul saying it would be &quot;disastrous&quot;",
         "link": "https://www.npr.org/2026/04/01/nx-s1-5770629/appeals-court-rejects-hud-homelessness-overhaul",
@@ -27,12 +39,6 @@
         "link": "https://www.npr.org/2026/04/01/nx-s1-5770566/dhs-shutdown-congress-republicans",
         "pubDate": "Wed, 01 Apr 2026 17:27:46 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "25 years ago today, a mid-air collision sparked an 11-day U.S.\u2013China standoff",
-        "link": "https://www.npr.org/2026/04/01/nx-s1-5768269/25-years-ago-today-a-mid-air-collision-sparked-an-11-day-u-s-china-standoff",
-        "pubDate": "Wed, 01 Apr 2026 17:00:45 -0400",
-        "category": "world"
       },
       {
         "title": "The FDA approves a new obesity pill, giving patients another option",
@@ -73,25 +79,37 @@
     ],
     "bbc": [
       {
+        "title": "Elon Musk's SpaceX set to go public in $1 trillion share listing",
+        "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Apr 2026 07:05:05 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "New laws to make it easier to cancel subscriptions and get refunds",
+        "link": "https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Apr 2026 06:09:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil jumps and shares fall after Trump Iran address",
+        "link": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Apr 2026 05:57:13 GMT",
+        "category": "business"
+      },
+      {
         "title": "BBC sacked Scott Mills after learning alleged victim in police investigation was under 16",
         "link": "https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 02 Apr 2026 04:42:14 GMT",
         "category": "Top News"
       },
       {
-        "title": "Oil jumps and shares fall after Trump Iran address",
-        "link": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Apr 2026 04:05:27 GMT",
-        "category": "business"
-      },
-      {
-        "title": "'We go for all humanity' - emotional moment as Artemis II launches",
+        "title": "Cheers and euphoria as dream of space travel reignites",
         "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 02 Apr 2026 03:09:08 GMT",
         "category": "Top News"
       },
       {
-        "title": "Record monthly rise in petrol and diesel prices, says RAC",
+        "title": "Petrol and diesel prices rise at record rate in March, says RAC",
         "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Apr 2026 23:59:00 GMT",
         "category": "Top News"
@@ -100,7 +118,7 @@
         "title": "Doctors lose new jobs package as strike to go ahead",
         "link": "https://www.bbc.com/news/articles/cwyj7dwwlq9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Apr 2026 23:29:39 GMT",
-        "category": "Top News"
+        "category": "health"
       },
       {
         "title": "The delicate question of where responsibility lies for safety on our mountains",
@@ -115,93 +133,13 @@
         "category": "world"
       },
       {
-        "title": "Elon Musk's SpaceX moves to become a publicly traded company",
-        "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Apr 2026 22:35:23 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Suited up and ready to go: Watch the Artemis crew's journey to launch",
         "link": "https://www.bbc.com/news/videos/cx2vqz4wx9ko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Apr 2026 19:54:44 GMT",
         "category": "us"
-      },
-      {
-        "title": "Newly qualified paramedics told to apply for jobs abroad due to hire freeze",
-        "link": "https://www.bbc.com/news/articles/c70dnkqjyvlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Apr 2026 17:20:15 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Singapore charges one more individual with AI chip fraud",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce024300354ee781bc875b1857fec9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fsingapore-charges-one-more-individual-with-ai-chip-fraud-2026-04-02%2f&amp;c=11914327439036395059&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 21:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hopes dim for swift end to Iran war after Trump speech, oil prices surge anew",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce024300354ee781bc875b1857fec9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fhopes-dim-swift-end-iran-war-after-trump-speech-oil-prices-surge-anew-2026-04-02%2f&amp;c=15875761375927619414&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 20:26:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Indonesia earthquake damages buildings, but tsunami alerts have been lifted",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce024300354ee781bc875b1857fec9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fmagnitude-78-earthquake-strikes-near-ternate-indonesia-usgs-says-2026-04-01%2f&amp;c=16581125239427020494&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 19:58:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Artemis II crew includes first woman, Black astronaut and Canadian ever flown to moon",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce024300354ee781bc875b1857fec9&amp;url=https%3a%2f%2fwww.reuters.com%2fscience%2fartemis-ii-crew-includes-first-woman-black-astronaut-canadian-ever-flown-moon-2026-04-02%2f&amp;c=18110285127829114958&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 19:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SpaceX files for IPO, sources say, offering investors stake in Musk's space ambitions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce024300354ee781bc875b1857fec9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fspacex-registers-take-rocket-maker-public-blockbuster-ipo-bloomberg-news-reports-2026-04-01%2f&amp;c=6731955233015775396&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 18:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Gulf war batters India's glass heartland, testing New Delhi's manufacturing drive",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce024300354ee781bc875b1857fec9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fgulf-war-batters-indias-glass-heartland-testing-new-delhis-manufacturing-drive-2026-04-02%2f&amp;c=13154026941128986592&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 17:14:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Democrats ask judge to block Trump order tightening mail-in voting",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce024300354ee781bc875b1857fec9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdemocrats-ask-judge-block-trump-order-tightening-mail-in-voting-2026-04-02%2f&amp;c=14028970532957632743&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump may have given Iran a $500 bln money spinner",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce024300354ee781bc875b1857fec9&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2fbreakingviews%2ftrump-may-have-given-iran-500-bln-money-spinner-2026-04-01%2f&amp;c=15921768390367800097&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 16:24:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Unilever CEO Fernandez returns to his roots with health and beauty makeover",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce0279c8b54eff8d570fd799545ba2&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2funilever-ceo-fernandez-returns-his-roots-with-health-beauty-makeover-2026-04-01%2f&amp;c=2523082336345609396&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 09:50:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "NASA counts down for first crewed lunar mission in half a century",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ce024300354ee781bc875b1857fec9&amp;url=https%3a%2f%2fwww.reuters.com%2fscience%2fnasa-counts-down-first-crewed-lunar-mission-half-century-2026-04-01%2f&amp;c=15756794643142965102&amp;mkt=en-us",
-        "pubDate": "Wed, 01 Apr 2026 08:25:00 GMT",
-        "category": "Top News"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Thursday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/04/01/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Wed, 01 Apr 2026 23:12:09 GMT",
-        "category": "us"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
