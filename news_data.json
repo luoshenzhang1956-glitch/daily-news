@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-04-03T05:46:46.614595",
+  "updated_at": "2026-04-03T07:20:08.359610",
   "news": {
     "ap": [
       {
-        "title": "Eggs for Easter cost much less in the US than last year. A look at the numbers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf53b521844a12859dbf5836563ea6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fegg-prices-easter-passover-bird-flu-0f4f188f990d6c58bffa5907698548b5&amp;c=12089933180929250736&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Apr 2026 16:25:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Phil Mickelson cites family health matter in pulling out of the Masters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf53d7228a46bdb8e49cc68c5b510e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fphil-mickelson-masters-augusta-national-991cb3b41c5c8bf4399c80d578bfb2cf&amp;c=7600145954387389880&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Apr 2026 14:19:00 GMT",
-        "category": "health"
+        "title": "World\u2019s oldest known tortoise still very much alive despite rumor to the contrary",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf69b0470f46598dd666e28ac12f3d&amp;url=https%3a%2f%2fapnews.com%2farticle%2foldest-tortoise-death-hoax-jonathan-22e2960833b112c3b873e1ce4b089c20&amp;c=17836556998736056039&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Apr 2026 10:34:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
+      {
+        "title": "Blake Lively&apos;s sexual harassment claims against Justin Baldoni tossed out but robust case remains",
+        "link": "https://www.npr.org/2026/04/03/nx-s1-5772611/blake-lively-sexual-harassment-justin-baldoni-tossed-out",
+        "pubDate": "Fri, 03 Apr 2026 03:07:12 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Pakistan says a new round of peace talks with Afghanistan is underway in China",
         "link": "https://www.npr.org/2026/04/03/g-s1-116299/pakistan-says-a-new-round-of-peace-talks-with-afghanistan-is-underway-in-china",
@@ -69,15 +69,15 @@
         "link": "https://www.npr.org/2026/04/02/nx-s1-5771486/artemis-moon-mission-apollo-1972",
         "pubDate": "Thu, 02 Apr 2026 12:41:41 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "&apos;Stay Alive,&apos; about daily life in Nazi Berlin, shows how easy it is to just go along",
-        "link": "https://www.npr.org/2026/04/02/nx-s1-5763755/stay-alive-berlin-ian-buruma-review",
-        "pubDate": "Thu, 02 Apr 2026 09:31:57 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "M&S boss calls for more action on crime and abuse of staff",
+        "link": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Apr 2026 05:40:00 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Artemis II blasts ever closer to the far side of the Moon",
         "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&amp;at_campaign=rss",
@@ -121,12 +121,6 @@
         "category": "us"
       },
       {
-        "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-        "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Apr 2026 16:09:24 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Fewer UK adults posting on social media, Ofcom finds",
         "link": "https://www.bbc.com/news/articles/cgqk718l4neo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 02 Apr 2026 14:38:24 GMT",
@@ -141,36 +135,96 @@
     ],
     "reuters": [
       {
-        "title": "US vows to target more Iranian infrastructure as nations seek to open Hormuz",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf53ed0e974b39959c6275714ab0a6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-vows-target-more-iranian-infrastructure-nations-seek-open-hormuz-2026-04-03%2f&amp;c=7792333233806870459&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Apr 2026 20:31:00 GMT",
-        "category": "us"
+        "title": "Trump vows to hit more Iranian infrastructure as nations seek to open Hormuz",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf69e89c0940d6a3e0aab8a220205d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-vows-target-more-iranian-infrastructure-nations-seek-open-hormuz-2026-04-03%2f&amp;c=7792333233806870459&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Apr 2026 23:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump's anger over Iran thrusts NATO into fresh crisis",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf69e89c0940d6a3e0aab8a220205d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ftrumps-anger-over-iran-thrusts-nato-into-fresh-crisis-2026-04-03%2f&amp;c=9442865039472373919&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Apr 2026 21:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Business News | Today's International Headlines | Reuters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf69fa13214cc69c1b6b77647a8bba&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Apr 2026 20:12:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf69e89c0940d6a3e0aab8a220205d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fmicrosoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03%2f&amp;c=5038715324781450342&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Apr 2026 19:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UN to vote on Hormuz resolution as China opposes authorization of force",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf69e89c0940d6a3e0aab8a220205d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fbahrain-hopes-vote-revised-hormuz-resolution-friday-2026-04-02%2f&amp;c=9551287615168030107&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Apr 2026 19:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Inspection finds 49 violations of detention standards at largest US migrant detention camp",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf69e89c0940d6a3e0aab8a220205d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2finspection-finds-49-violations-detention-standards-largest-us-migrant-detention-2026-04-03%2f&amp;c=12391869264936820891&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Apr 2026 19:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US experts say American strikes on Iran may amount to war crimes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf69e89c0940d6a3e0aab8a220205d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-experts-say-american-strikes-iran-may-amount-war-crimes-2026-04-02%2f&amp;c=3846485939394044257&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Apr 2026 18:07:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "World anxious to open Hormuz Strait while Trump and Iran trade threats",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf53ea2b794422af5fb06d7c23093c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fhopes-dim-swift-end-iran-war-after-trump-speech-oil-prices-surge-anew-2026-04-02%2f&amp;c=15875761375927619414&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf69e8317a4e57aeee81c9669e0ab6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fhopes-dim-swift-end-iran-war-after-trump-speech-oil-prices-surge-anew-2026-04-02%2f&amp;c=15875761375927619414&amp;mkt=en-us",
         "pubDate": "Thu, 02 Apr 2026 18:03:00 GMT",
         "category": "world"
       },
       {
-        "title": "US health officials warn of veterinary sedative in illegal drug supply",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf53fafbea428b957993ffe01dda01&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-health-officials-warn-veterinary-sedative-illegal-drug-supply-2026-04-02%2f%3flink_source%3dta_bluesky_link&amp;c=16006294838852100090&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Apr 2026 13:42:00 GMT",
-        "category": "health"
+        "title": "Trump reflects on limits to his power",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf69e89c0940d6a3e0aab8a220205d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-off-script-2026-04-02%2f&amp;c=1022835956792664354&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Apr 2026 11:00:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "OpenAI acquires technology talk show TBPN in surprise move",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf53f975514ad391b5069c19a1866f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fopenai-acquires-technology-talk-show-tbpn-surprise-move-2026-04-02%2f&amp;c=11669510333206607118&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69cf6a04407843e1bc04ca69a2967452&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fopenai-acquires-technology-talk-show-tbpn-surprise-move-2026-04-02%2f&amp;c=11669510333206607118&amp;mkt=en-us",
         "pubDate": "Thu, 02 Apr 2026 10:46:00 GMT",
         "category": "tech"
       }
     ],
     "markets": [
       {
+        "title": "Trump threatens to destroy Iran power plants as reports emerge of downed U.S. F-35",
+        "link": "https://www.cnbc.com/2026/04/03/trump-iran-threats-un-resolution-blocked-strait-of-hormuz-f35-shot-down.html",
+        "pubDate": "Fri, 03 Apr 2026 07:05:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "Japan&apos;s Sakura Internet jumps 20% as Microsoft plans $10 billion AI push with SoftBank",
         "link": "https://www.cnbc.com/2026/04/03/sakura-internet-microsoft-ai-japan-softbank-investment.html",
         "pubDate": "Fri, 03 Apr 2026 05:19:48 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
+        "link": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
+        "pubDate": "Thu, 02 Apr 2026 21:11:48 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Blue Owl caps private credit funds redemptions at 5% after steep request levels",
+        "link": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html",
+        "pubDate": "Thu, 02 Apr 2026 20:08:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Exxon Mobil, Carnival, Delta, General Motors and more",
+        "link": "https://www.cnbc.com/2026/04/02/stocks-making-the-biggest-moves-premarket-.html",
+        "pubDate": "Thu, 02 Apr 2026 12:14:33 GMT",
+        "category": "Top News"
       }
     ]
   }
