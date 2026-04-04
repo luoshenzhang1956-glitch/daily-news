@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-04-04T05:26:13.468065",
+  "updated_at": "2026-04-04T07:11:32.192370",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b937ec0f4773afc5d6075a94ff52&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsudan-hospital-doctors-attack-drone-strike-army-rapid-support-forces-8b4a43addd4acb65176b72686b7f4958&amp;c=13342726586984835570&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 07:35:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
         "title": "65, single, seeking a roommate: More seniors are being priced out of living alone",
@@ -66,6 +73,24 @@
     ],
     "bbc": [
       {
+        "title": "AR tech prepares patients for endometriosis surgery",
+        "link": "https://www.bbc.com/news/articles/cwyv3x82qjro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 04 Apr 2026 06:59:29 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Five Met officers taken off duty after weapons find",
+        "link": "https://www.bbc.com/news/articles/cjd8y33ze08o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 04 Apr 2026 06:46:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+        "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 04 Apr 2026 06:42:48 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
         "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 04 Apr 2026 02:52:09 GMT",
@@ -106,94 +131,76 @@
         "link": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 03 Apr 2026 21:47:48 GMT",
         "category": "us"
-      },
-      {
-        "title": "Artemis II crew take 'spectacular' image of Earth",
-        "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Apr 2026 21:44:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
-        "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Apr 2026 20:43:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Men's group hopes to ease strain on NHS services",
-        "link": "https://www.bbc.com/news/articles/cn43z87dw3po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Apr 2026 05:25:00 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Blues boost playoff hopes with 4-goal win at Ducks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0a0a3ed4e4187a7643c9a0ed800a8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fnhl%2fblues-boost-playoff-hopes-with-4-goal-win-ducks--flm-2026-04-04%2f&amp;c=10211032439267705463&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 21:04:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Iran executes two linked to opposition group, media say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0a0a3ed4e4187a7643c9a0ed800a8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-executes-two-linked-opposition-group-media-say-2026-04-04%2f&amp;c=3880527850215730203&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 21:03:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-executes-two-linked-opposition-group-media-say-2026-04-04%2f&amp;c=3880527850215730203&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 22:32:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Reports: NBA probes Bucks' handling of Giannis Antetokounmpo",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0a0a3ed4e4187a7643c9a0ed800a8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2freports-nba-probes-bucks-handling-giannis-antetokounmpo--flm-2026-04-04%2f&amp;c=1585795815416578011&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 20:53:00 GMT",
+        "title": "Telegram's Durov says Russia triggered payment system problem by blocking VPNs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftelegrams-durov-says-russia-triggered-payment-system-problem-by-blocking-vpns-2026-04-04%2f&amp;c=14481278938548010496&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 22:31:00 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Ukrainian drone and missile attack kills at least one in southern Russia, governor says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fukrainian-drone-missile-attack-kills-least-one-southern-russia-governor-says-2026-04-04%2f&amp;c=8349974878120407082&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 22:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Braves hit back-to-back HRs in 9th, blank Diamondbacks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fbraves-hit-back-to-back-homers-9th-blank-diamondbacks--flm-2026-04-04%2f&amp;c=2323928732041599261&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 22:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Downed planes spell new peril for Trump as Tehran hunts missing US pilot",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b93b5f5c48e2814b3ce2fcc6eba7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdowned-planes-spell-new-peril-trump-tehran-hunts-missing-us-pilot-2026-04-04%2f&amp;c=4228808159994460522&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 21:49:00 GMT",
+        "category": "us"
       },
       {
         "title": "AI is rewiring the world\u2019s most prolific film industry",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0a0b1f943490db870b03d5c59582c&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04%2f&amp;c=4565036745858672302&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 17:00:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b93aaada4497b3ce3a749e44c246&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04%2f&amp;c=4565036745858672302&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 21:00:00 GMT",
         "category": "world"
       },
       {
-        "title": "Downed planes raise new perils for Trump as Tehran hunts for missing US pilot",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0a0a3ed4e4187a7643c9a0ed800a8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-vows-target-more-iranian-infrastructure-nations-seek-open-hormuz-2026-04-03%2f&amp;c=7792333233806870459&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 15:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Cuba begins releasing prisoners under scrutiny of rights groups, U.S. govt",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0a0a3ed4e4187a7643c9a0ed800a8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcuba-begins-releasing-prisoners-under-scrutiny-rights-groups-us-govt-2026-04-03%2f&amp;c=9255073928643391411&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 11:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump proposes &quot;historic&quot; defense spending budget, eyes 10% cut to other federal programs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0a0a3ed4e4187a7643c9a0ed800a8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-budget-proposes-10-cut-discretionary-spending-increased-defense-spending-2026-04-03%2f&amp;c=14812174921283643129&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 11:00:00 GMT",
+        "title": "Trump proposes to begin privatizing TSA screening operations",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-proposes-begin-privatizing-us-airport-security-operations-2026-04-03%2f&amp;c=17208367190511594707&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 13:38:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US judge upholds block on subpoenas to Fed's Powell, teeing up likely appeal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0a0b26a134a988f6ed42c41d26cf2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-upholds-block-subpoenas-feds-powell-teeing-up-likely-appeal-2026-04-03%2f&amp;c=6485556195733068857&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 09:32:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Trump seeks $152 million to reopen Alcatraz as active prison",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0a0a3ed4e4187a7643c9a0ed800a8&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-seeks-152-million-reopen-alcatraz-active-prison-2026-04-03%2f&amp;c=9006248416718238857&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 08:06:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-upholds-block-subpoenas-feds-powell-teeing-up-likely-appeal-2026-04-03%2f&amp;c=6485556195733068857&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 11:05:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "China's Space Pioneer says reusable rocket's maiden flight fails",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0a0c4166a4c5bbd9cb556baddc472&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fchinas-space-pioneer-says-reusable-rockets-maiden-flight-fails-2026-04-03%2f&amp;c=10854546840005978492&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 06:49:00 GMT",
-        "category": "tech"
+        "title": "Trump proposes &quot;historic&quot; defense spending budget, eyes 10% cut to other federal programs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b94dbe6b46f2a0846b1bad73f450&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-budget-proposes-10-cut-discretionary-spending-increased-defense-spending-2026-04-03%2f&amp;c=14812174921283643129&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 11:00:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Trump seeks $152 million to reopen Alcatraz as active prison",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-seeks-152-million-reopen-alcatraz-active-prison-2026-04-03%2f&amp;c=9006248416718238857&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 08:06:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "OpenAI&apos;s Fidji Simo takes medical leave, announces leadership changes",
-        "link": "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html",
-        "pubDate": "Fri, 03 Apr 2026 22:40:38 GMT",
-        "category": "tech"
+        "title": "One year of &apos;TACO&apos;: How the trade has fared since &apos;liberation day&apos;",
+        "link": "https://www.cnbc.com/2026/04/03/one-year-of-taco-how-the-trade-has-fared-since-liberation-day.html",
+        "pubDate": "Fri, 03 Apr 2026 10:46:18 GMT",
+        "category": "us"
       }
     ]
   }
