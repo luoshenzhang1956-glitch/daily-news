@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-04-04T07:11:32.192370",
+  "updated_at": "2026-04-04T08:53:12.265708",
   "news": {
-    "ap": [
-      {
-        "title": "Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b937ec0f4773afc5d6075a94ff52&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsudan-hospital-doctors-attack-drone-strike-army-rapid-support-forces-8b4a43addd4acb65176b72686b7f4958&amp;c=13342726586984835570&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 07:35:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "65, single, seeking a roommate: More seniors are being priced out of living alone",
@@ -79,7 +72,7 @@
         "category": "health"
       },
       {
-        "title": "Five Met officers taken off duty after weapons find",
+        "title": "Five Met Police officers taken off duty after bag of weapons is left in the street",
         "link": "https://www.bbc.com/news/articles/cjd8y33ze08o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 04 Apr 2026 06:46:54 GMT",
         "category": "Top News"
@@ -88,6 +81,12 @@
         "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
         "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 04 Apr 2026 06:42:48 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Football rally in Peru leaves one dead and dozens injured",
+        "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 04 Apr 2026 06:34:56 GMT",
         "category": "Top News"
       },
       {
@@ -109,13 +108,7 @@
         "category": "business"
       },
       {
-        "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
-        "link": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Apr 2026 23:14:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "After 16 years in power, can Viktor Orban finally be unseated?",
+        "title": "After 16 years in power, could Viktor Orban finally be unseated?",
         "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 03 Apr 2026 23:04:24 GMT",
         "category": "Top News"
@@ -135,73 +128,66 @@
     ],
     "reuters": [
       {
-        "title": "Iran executes two linked to opposition group, media say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-executes-two-linked-opposition-group-media-say-2026-04-04%2f&amp;c=3880527850215730203&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 22:32:00 GMT",
+        "title": "Proxy adviser ISS recommends vote against BP board over attempt to scrap some climate reporting",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0d1189c114df8ae275379dc4db9db&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fcop%2fproxy-adviser-iss-recommends-vote-against-bp-board-over-attempt-scrap-some-2026-04-04%2f&amp;c=10526553090793241529&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Apr 2026 00:31:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Telegram's Durov says Russia triggered payment system problem by blocking VPNs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftelegrams-durov-says-russia-triggered-payment-system-problem-by-blocking-vpns-2026-04-04%2f&amp;c=14481278938548010496&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 22:31:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0d1189c114df8ae275379dc4db9db&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftelegrams-durov-says-russia-triggered-payment-system-problem-by-blocking-vpns-2026-04-04%2f&amp;c=14481278938548010496&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Apr 2026 00:27:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Ukrainian drone and missile attack kills at least one in southern Russia, governor says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fukrainian-drone-missile-attack-kills-least-one-southern-russia-governor-says-2026-04-04%2f&amp;c=8349974878120407082&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 22:29:00 GMT",
+        "title": "Exclusive: Five EU finance ministers call for tax on energy companies' windfall profits",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0d1189c114df8ae275379dc4db9db&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2ffive-eu-finance-ministers-call-windfall-profit-tax-energy-companies-2026-04-04%2f&amp;c=4393360072917305743&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Apr 2026 00:24:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Braves hit back-to-back HRs in 9th, blank Diamondbacks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fbraves-hit-back-to-back-homers-9th-blank-diamondbacks--flm-2026-04-04%2f&amp;c=2323928732041599261&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 22:09:00 GMT",
+        "title": "UK charges three men with arson over attack on Jewish community ambulances",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0d1189c114df8ae275379dc4db9db&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fuk-charges-three-men-with-arson-over-attack-jewish-community-ambulances-2026-04-03%2f&amp;c=16870924183643965073&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 23:39:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Downed planes spell new peril for Trump as Tehran hunts missing US pilot",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b93b5f5c48e2814b3ce2fcc6eba7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdowned-planes-spell-new-peril-trump-tehran-hunts-missing-us-pilot-2026-04-04%2f&amp;c=4228808159994460522&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0d11d3a7646ac939c178c567a7fb6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdowned-planes-spell-new-peril-trump-tehran-hunts-missing-us-pilot-2026-04-04%2f&amp;c=4228808159994460522&amp;mkt=en-us",
         "pubDate": "Fri, 03 Apr 2026 21:49:00 GMT",
         "category": "us"
       },
       {
         "title": "AI is rewiring the world\u2019s most prolific film industry",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b93aaada4497b3ce3a749e44c246&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04%2f&amp;c=4565036745858672302&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0d11c2ff944cea73e053882784e18&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04%2f&amp;c=4565036745858672302&amp;mkt=en-us",
         "pubDate": "Fri, 03 Apr 2026 21:00:00 GMT",
         "category": "world"
       },
       {
         "title": "Trump proposes to begin privatizing TSA screening operations",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-proposes-begin-privatizing-us-airport-security-operations-2026-04-03%2f&amp;c=17208367190511594707&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0d1189c114df8ae275379dc4db9db&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-proposes-begin-privatizing-us-airport-security-operations-2026-04-03%2f&amp;c=17208367190511594707&amp;mkt=en-us",
         "pubDate": "Fri, 03 Apr 2026 13:38:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US judge upholds block on subpoenas to Fed's Powell, teeing up likely appeal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-upholds-block-subpoenas-feds-powell-teeing-up-likely-appeal-2026-04-03%2f&amp;c=6485556195733068857&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0d1189c114df8ae275379dc4db9db&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-upholds-block-subpoenas-feds-powell-teeing-up-likely-appeal-2026-04-03%2f&amp;c=6485556195733068857&amp;mkt=en-us",
         "pubDate": "Fri, 03 Apr 2026 11:05:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Trump proposes &quot;historic&quot; defense spending budget, eyes 10% cut to other federal programs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b94dbe6b46f2a0846b1bad73f450&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-budget-proposes-10-cut-discretionary-spending-increased-defense-spending-2026-04-03%2f&amp;c=14812174921283643129&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0d13b73374d1e8f3abb5aebc03f0d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-budget-proposes-10-cut-discretionary-spending-increased-defense-spending-2026-04-03%2f&amp;c=14812174921283643129&amp;mkt=en-us",
         "pubDate": "Fri, 03 Apr 2026 11:00:00 GMT",
         "category": "health"
       },
       {
-        "title": "Trump seeks $152 million to reopen Alcatraz as active prison",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0b939457b45329ce9679d1b94ce86&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-seeks-152-million-reopen-alcatraz-active-prison-2026-04-03%2f&amp;c=9006248416718238857&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Apr 2026 08:06:00 GMT",
+        "title": "US labor market posts largest jobs gain in 15 months, but clouds brewing from Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d0d1189c114df8ae275379dc4db9db&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-employment-growth-rebounded-march-unemployment-rate-falls-43-2026-04-03%2f&amp;c=10500307396086265163&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Apr 2026 10:44:00 GMT",
         "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "One year of &apos;TACO&apos;: How the trade has fared since &apos;liberation day&apos;",
-        "link": "https://www.cnbc.com/2026/04/03/one-year-of-taco-how-the-trade-has-fared-since-liberation-day.html",
-        "pubDate": "Fri, 03 Apr 2026 10:46:18 GMT",
-        "category": "us"
-      }
-    ]
+    "markets": []
   }
 }
