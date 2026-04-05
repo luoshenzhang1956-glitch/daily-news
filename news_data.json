@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-04-05T20:43:36.328830",
+  "updated_at": "2026-04-05T22:40:20.298459",
   "news": {
     "ap": [
       {
-        "title": "Adi&#243;s al CIA World Factbook: La gu&#237;a mundial que deja un vac&#237;o en aulas y bibliotecas",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d2c8c913284e7abaa6899d24b3f398&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcia-factbook-trump-inteligencia-917a5121e13bb0ae8b60d2da06235882&amp;c=12323580921176923894&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 12:42:00 GMT",
-        "category": "world"
-      },
-      {
         "title": "Trump issues fiery new threat against Iran as details of US aviator\u2019s rescue emerge",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d2c8e8a1f04cdebee44958633573ae&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962&amp;c=3135479619031736288&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 11:55:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d2e460ad5e4683b81425c25aa85629&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-israel-trump-lebanon-april-5-2026-pilot-cf4a792196259d6e9c066d0be1c57962&amp;c=3135479619031736288&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Apr 2026 14:16:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Can a single therapy session make a difference? Experts say yes, with the right mindset",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d2c8f402194d228f6324bfe67788d3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsingle-session-therapy-35f87c10746da33e090546b86fa828bb&amp;c=16778061055707809165&amp;mkt=en-us",
-        "pubDate": "Sat, 04 Apr 2026 21:06:00 GMT",
-        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Amid a high-profile scandal, Germany considers deepfake porn punishments",
+        "link": "https://www.npr.org/2026/04/05/nx-s1-5770462/amid-a-high-profile-scandal-germany-considers-deepfake-porn-punishments",
+        "pubDate": "Sun, 05 Apr 2026 17:37:33 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Will Hungary&apos;s far-right leader Viktor Orban be voted out of power?",
+        "link": "https://www.npr.org/2026/04/05/nx-s1-5770205/will-hungarys-far-right-leader-viktor-orban-be-voted-out-of-power",
+        "pubDate": "Sun, 05 Apr 2026 17:37:32 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Hollywood studios reach a tentative agreement with writers union",
+        "link": "https://www.npr.org/2026/04/05/nx-s1-5774517/hollywood-studios-wga-tentative-agreement-writers-union",
+        "pubDate": "Sun, 05 Apr 2026 17:09:10 -0400",
+        "category": "Top News"
+      },
       {
         "title": "New AHA guidelines on healthy eating emphasize plants, olive oil; limit saturated fat",
         "link": "https://www.npr.org/2026/04/05/nx-s1-5770641/new-aha-guidelines-on-healthy-eating-emphasize-plants-olive-oil-limit-saturated-fat",
@@ -38,7 +44,7 @@
         "title": "In Lebanon, more than 50 medics have been killed by Israel. Some say they&apos;re targeted",
         "link": "https://www.npr.org/2026/04/05/nx-s1-5763606/lebanon-medics-killed-targeted-israel",
         "pubDate": "Sun, 05 Apr 2026 06:00:00 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "More teens are getting hooked on gambling. Parents say it often goes undetected",
@@ -57,20 +63,26 @@
         "link": "https://www.npr.org/2026/04/05/nx-s1-5774368/iran-war-updates",
         "pubDate": "Sun, 05 Apr 2026 01:53:55 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "German researchers set right the story of a 9,000-year-old shaman&apos;s grave",
-        "link": "https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave",
-        "pubDate": "Sat, 04 Apr 2026 17:45:43 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
         "title": "How rescue of US airman in remote part of Iran unfolded",
         "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Apr 2026 20:00:20 GMT",
+        "pubDate": "Sun, 05 Apr 2026 21:19:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump issues expletive-laden threat  to Iran over Hormuz Strait blockage",
+        "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 05 Apr 2026 21:10:06 GMT",
         "category": "world"
+      },
+      {
+        "title": "Trump declares victory in Iran war after rescue, but threats to US operation still loom",
+        "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 05 Apr 2026 20:02:01 GMT",
+        "category": "us"
       },
       {
         "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
@@ -91,27 +103,15 @@
         "category": "Top News"
       },
       {
-        "title": "What we know about downed F-15 jet and US airmen's rescue",
-        "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Apr 2026 17:15:34 GMT",
+        "title": "Storm Dave hits road and rail travel but conditions easing",
+        "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 05 Apr 2026 15:12:16 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Seriously wounded US airman rescued from Iran, Trump says",
-        "link": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Apr 2026 16:46:33 GMT",
-        "category": "us"
       },
       {
         "title": "Artemis's stunning Moon pictures - science or holiday photos?",
         "link": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 05 Apr 2026 15:03:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
-        "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Apr 2026 12:35:36 GMT",
         "category": "Top News"
       },
       {
@@ -127,19 +127,20 @@
         "category": "tech"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Business News | Today's International Headlines | Reuters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d2e4846ac24680964a22f3486bc105&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2f&amp;c=11034538209126670263&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Apr 2026 00:40:00 GMT",
+        "category": "business"
+      }
+    ],
     "markets": [
       {
-        "title": "Trump vows Iran will be &apos;living in Hell&apos; by Tuesday if Strait of Hormuz deadline missed",
-        "link": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
-        "pubDate": "Sun, 05 Apr 2026 18:51:20 GMT",
+        "title": "Oil prices rise as Trump warns Iran to open Strait of Hormuz by Tuesday or face &apos;hell&apos;",
+        "link": "https://www.cnbc.com/2026/04/05/crude-oil-prices-iran-war-strait-hormuz.html",
+        "pubDate": "Sun, 05 Apr 2026 22:15:45 GMT",
         "category": "world"
-      },
-      {
-        "title": "Polymarket removes wagers on U.S. service member rescue mission in Iran",
-        "link": "https://www.cnbc.com/2026/04/04/polymarket-war-bet-iran-rescue-prediction-market-moulton.html",
-        "pubDate": "Sun, 05 Apr 2026 10:02:03 GMT",
-        "category": "tech"
       }
     ]
   }
