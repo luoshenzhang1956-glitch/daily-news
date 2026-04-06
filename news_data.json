@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-04-06T09:17:41.573480",
+  "updated_at": "2026-04-06T11:05:46.705512",
   "news": {
-    "ap": [
-      {
-        "title": "Live updates: Israel says it killed the head of intelligence for Iran\u2019s Revolutionary Guard",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379e4862f4d689c76efa43c6ed458&amp;url=https%3a%2f%2fapnews.com%2flive%2firan-war-israel-trump-04-06-2026&amp;c=15384747378250484616&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Apr 2026 02:04:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Trump threatens Iran&apos;s power plants, bridges. And, Artemis II readies for lunar flyby",
+        "link": "https://www.npr.org/2026/04/06/g-s1-116535/up-first-newsletter-trump-strait-of-hormuz-artemis-two-lunar-flyby-savannah-nancy-guthrie-ada",
+        "pubDate": "Mon, 06 Apr 2026 06:55:28 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Iran pushes back against Trump&apos;s deadline",
+        "link": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
+        "pubDate": "Mon, 06 Apr 2026 06:19:32 -0400",
+        "category": "us"
+      },
       {
         "title": "She paid into Medicare for years. Trump&apos;s immigration policy will end her coverage",
         "link": "https://www.npr.org/2026/04/06/nx-s1-5770484/immigrants-tps-medicare-social-security-eligibility",
@@ -20,7 +25,7 @@
         "title": "These blind students say their college blocked their education. A new rule could help",
         "link": "https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college-education-disability",
         "pubDate": "Mon, 06 Apr 2026 05:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Shingles can hit younger than you think. The vaccine can prevent excruciating pain",
@@ -29,7 +34,7 @@
         "category": "Top News"
       },
       {
-        "title": "Guthrie returns to &apos;Today&apos; show months after her mother&apos;s disappearance",
+        "title": "Savannah Guthrie returns to the &apos;Today&apos; show months after her mother&apos;s disappearance",
         "link": "https://www.npr.org/2026/04/06/nx-s1-5772715/savannah-guthrie-today-show-return",
         "pubDate": "Mon, 06 Apr 2026 05:00:00 -0400",
         "category": "Top News"
@@ -53,25 +58,19 @@
         "category": "Top News"
       },
       {
-        "title": "A music festival booked Kanye West, now known as Ye, and lost major sponsors",
-        "link": "https://www.npr.org/2026/04/05/nx-s1-5774562/kanye-west-ye-wireless-festival-london-uk-pepsi-diageo",
-        "pubDate": "Sun, 05 Apr 2026 21:20:21 -0400",
-        "category": "world"
-      },
-      {
         "title": "Amid a high-profile scandal, Germany considers deepfake porn punishments",
         "link": "https://www.npr.org/2026/04/05/nx-s1-5770462/amid-a-high-profile-scandal-germany-considers-deepfake-porn-punishments",
         "pubDate": "Sun, 05 Apr 2026 17:37:33 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Hollywood studios reach a tentative agreement with writers union",
-        "link": "https://www.npr.org/2026/04/05/nx-s1-5774517/hollywood-studios-wga-tentative-agreement-writers-union",
-        "pubDate": "Sun, 05 Apr 2026 17:09:10 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
+        "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Apr 2026 10:16:36 GMT",
+        "category": "us"
+      },
       {
         "title": "'Two weeks will make such a difference': UK first as NI brings in miscarriage leave",
         "link": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&amp;at_campaign=rss",
@@ -91,16 +90,10 @@
         "category": "Top News"
       },
       {
-        "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
-        "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Apr 2026 04:56:03 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
-        "link": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Apr 2026 03:33:35 GMT",
-        "category": "business"
+        "title": "Disability benefits change means my son could lose \u00a3200 a month - it's terrifying",
+        "link": "https://www.bbc.com/news/articles/c78ljve3x7xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 05 Apr 2026 23:10:50 GMT",
+        "category": "Top News"
       },
       {
         "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
@@ -112,7 +105,7 @@
         "title": "Benefits and pensions rise as two-child cap ends",
         "link": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 05 Apr 2026 23:00:58 GMT",
-        "category": "Top News"
+        "category": "business"
       },
       {
         "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
@@ -133,81 +126,7 @@
         "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "How one factory in China learned to live with Trump, tariffs and turmoil",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fhow-one-factory-china-learned-live-with-trump-tariffs-turmoil-2026-04-06%2f&amp;c=15875028237567999274&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Apr 2026 00:47:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US and Iran receive peace proposal as Trump vows 'hell' if Strait stays shut",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fffab24083a96d61180ddbaf14&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ftrump-vows-hell-iran-if-strait-stays-shut-says-deal-is-possible-2026-04-06%2f&amp;c=15574495380070273584&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Apr 2026 00:31:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Iran struck US forces relocated on Kuwait's Bubiyan island, military spokesperson says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d37a1425344e3ab45b739871e7cda9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-struck-us-forces-relocated-kuwaits-bubiyan-island-military-spokesperson-2026-04-06%2f&amp;c=4451054996105795882&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Apr 2026 00:20:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Two more Indian-flagged LPG ships exit the Gulf, tracking data shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2ftwo-more-indian-flagged-lpg-ships-exit-gulf-tracking-data-shows-2026-04-06%2f&amp;c=1054509280261400456&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 23:44:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Head of Iran's Revolutionary Guards' intelligence organisation announced as dead, state media reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fhead-irans-revolutionary-guards-intelligence-organisation-announced-dead-state-2026-04-06%2f&amp;c=4506744157892617338&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 23:37:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran, US receive plan to end hostilities, immediate ceasefire, source says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2firan-us-receive-plan-end-hostilities-immediate-ceasefire-source-says-2026-04-06%2f&amp;c=5957802199303835213&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 23:26:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UAE says the use of Hormuz must be guaranteed in any US-Iran deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fuae-says-use-hormuz-must-be-guaranteed-any-us-iran-deal-2026-04-06%2f&amp;c=6007954195293573414&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 21:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Thailand plans reforms to boost growth and cut business costs, PM draft statement says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d37a00585a49d6990d3c084dd67f10&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fthailand-plans-reforms-boost-growth-cut-business-costs-pm-draft-statement-says-2026-04-06%2f&amp;c=11939374935789102345&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 20:29:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Taiwan opposition leader to visit China as Beijing ramps up 'reunification' push",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftaiwan-opposition-leader-visit-china-beijing-ramps-up-reunification-push-2026-04-06%2f&amp;c=17530329389625763790&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 19:20:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump proposes &quot;historic&quot; defense spending budget, eyes 10% cut to other federal programs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-budget-proposes-10-cut-discretionary-spending-increased-defense-spending-2026-04-03%2f&amp;c=14812174921283643129&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 16:22:00 GMT",
-        "category": "Top News"
-      }
-    ],
-    "markets": [
-      {
-        "title": "AI data center boom \u2018stress tests\u2019 insurers as private capital floods in",
-        "link": "https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html",
-        "pubDate": "Mon, 06 Apr 2026 05:38:40 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Top Wall Street analysts see strong growth potential in these 3 stocks",
-        "link": "https://www.cnbc.com/2026/04/05/top-wall-street-analysts-see-strong-growth-potential-in-these-3-stocks.html",
-        "pubDate": "Sun, 05 Apr 2026 20:51:32 GMT",
-        "category": "us"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
