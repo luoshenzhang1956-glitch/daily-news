@@ -1,20 +1,50 @@
 {
-  "updated_at": "2026-04-06T06:04:33.062332",
+  "updated_at": "2026-04-06T09:17:41.573480",
   "news": {
     "ap": [
       {
-        "title": "A mountain hideout and aircraft under fire: US carries out daring rescue of service member in Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34c3e4c5046149cc8812eecbe23c9&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-pilot-military-rescue-fde473d07fb59e871a71cd2ad2ffe4fe&amp;c=15815230644484194555&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 12:57:00 GMT",
-        "category": "us"
+        "title": "Live updates: Israel says it killed the head of intelligence for Iran\u2019s Revolutionary Guard",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379e4862f4d689c76efa43c6ed458&amp;url=https%3a%2f%2fapnews.com%2flive%2firan-war-israel-trump-04-06-2026&amp;c=15384747378250484616&amp;mkt=en-us",
+        "pubDate": "Mon, 06 Apr 2026 02:04:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "She paid into Medicare for years. Trump&apos;s immigration policy will end her coverage",
+        "link": "https://www.npr.org/2026/04/06/nx-s1-5770484/immigrants-tps-medicare-social-security-eligibility",
+        "pubDate": "Mon, 06 Apr 2026 05:01:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "These blind students say their college blocked their education. A new rule could help",
+        "link": "https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college-education-disability",
+        "pubDate": "Mon, 06 Apr 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Shingles can hit younger than you think. The vaccine can prevent excruciating pain",
+        "link": "https://www.npr.org/2026/04/06/nx-s1-5745209/shingles-symptoms-vaccine-treatment",
+        "pubDate": "Mon, 06 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Guthrie returns to &apos;Today&apos; show months after her mother&apos;s disappearance",
+        "link": "https://www.npr.org/2026/04/06/nx-s1-5772715/savannah-guthrie-today-show-return",
+        "pubDate": "Mon, 06 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/04/06/nx-s1-5771649/morning-news-brief",
+        "pubDate": "Mon, 06 Apr 2026 04:46:15 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "NASA&apos;s Artemis II crew readies for Monday&apos;s lunar flyby. Here&apos;s what you need to know",
         "link": "https://www.npr.org/2026/04/06/nx-s1-5773187/nasa-artemis-ii-moon-lunar-flyby",
         "pubDate": "Mon, 06 Apr 2026 01:09:29 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "UCLA storms past South Carolina to claim its 1st NCAA women&apos;s basketball title",
@@ -39,39 +69,27 @@
         "link": "https://www.npr.org/2026/04/05/nx-s1-5774517/hollywood-studios-wga-tentative-agreement-writers-union",
         "pubDate": "Sun, 05 Apr 2026 17:09:10 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "New AHA guidelines on healthy eating emphasize plants, olive oil; limit saturated fat",
-        "link": "https://www.npr.org/2026/04/05/nx-s1-5770641/new-aha-guidelines-on-healthy-eating-emphasize-plants-olive-oil-limit-saturated-fat",
-        "pubDate": "Sun, 05 Apr 2026 08:07:27 -0400",
-        "category": "health"
-      },
-      {
-        "title": "These rock-climbing fish can shimmy up a 50-foot waterfall",
-        "link": "https://www.npr.org/2026/04/05/nx-s1-5773315/shellear-climbing-fish-congo-waterfall",
-        "pubDate": "Sun, 05 Apr 2026 07:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "In Lebanon, more than 50 medics have been killed by Israel. Some say they&apos;re targeted",
-        "link": "https://www.npr.org/2026/04/05/nx-s1-5763606/lebanon-medics-killed-targeted-israel",
-        "pubDate": "Sun, 05 Apr 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Questions to help you get &apos;financially naked&apos; with your partner",
-        "link": "https://www.npr.org/2026/04/05/nx-s1-5745032/questions-to-help-you-get-financially-naked-with-your-partner",
-        "pubDate": "Sun, 05 Apr 2026 05:00:00 -0400",
-        "category": "business"
-      },
-      {
-        "title": "More teens are getting hooked on gambling. Parents say it often goes undetected",
-        "link": "https://www.npr.org/2026/04/05/nx-s1-5762276/teens-getting-hooked-on-gambling-sports-betting",
-        "pubDate": "Sun, 05 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "'Two weeks will make such a difference': UK first as NI brings in miscarriage leave",
+        "link": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Apr 2026 09:10:03 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Northern Ireland becomes first in UK to give parents two weeks paid leave for miscarriage",
+        "link": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Apr 2026 09:10:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Don't put off treatment during doctors' strike, NHS tells patients",
+        "link": "https://www.bbc.com/news/articles/c5y9j02dvq5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Apr 2026 08:14:25 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
         "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&amp;at_campaign=rss",
@@ -79,22 +97,10 @@
         "category": "us"
       },
       {
-        "title": "'Two weeks will make such a difference': UK first as NI brings in miscarriage leave",
-        "link": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Apr 2026 04:44:13 GMT",
-        "category": "health"
-      },
-      {
         "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
         "link": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 06 Apr 2026 03:33:35 GMT",
         "category": "business"
-      },
-      {
-        "title": "Disability benefits change means my son could lose \u00a3200 a month - it's terrifying",
-        "link": "https://www.bbc.com/news/articles/c78ljve3x7xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Apr 2026 23:10:50 GMT",
-        "category": "Top News"
       },
       {
         "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
@@ -125,82 +131,82 @@
         "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 05 Apr 2026 19:58:17 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
-        "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Apr 2026 19:17:42 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Markets on edge as Trump threatens strikes on Iranian infrastructure",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34c72f86944f5b6dce8700e511280&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-wrapup-1-2026-04-06%2f&amp;c=18369526373253670890&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 21:00:00 GMT",
+        "title": "How one factory in China learned to live with Trump, tariffs and turmoil",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fhow-one-factory-china-learned-live-with-trump-tariffs-turmoil-2026-04-06%2f&amp;c=15875028237567999274&amp;mkt=en-us",
+        "pubDate": "Mon, 06 Apr 2026 00:47:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Citigroup pushes back Fed rate cut timeline after strong job numbers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34c72f86944f5b6dce8700e511280&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fcitigroup-pushes-back-fed-rate-cut-timeline-after-strong-job-numbers-2026-04-06%2f&amp;c=4820372518126834917&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 20:59:00 GMT",
+        "title": "US and Iran receive peace proposal as Trump vows 'hell' if Strait stays shut",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fffab24083a96d61180ddbaf14&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ftrump-vows-hell-iran-if-strait-stays-shut-says-deal-is-possible-2026-04-06%2f&amp;c=15574495380070273584&amp;mkt=en-us",
+        "pubDate": "Mon, 06 Apr 2026 00:31:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Iran struck US forces relocated on Kuwait's Bubiyan island, military spokesperson says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d37a1425344e3ab45b739871e7cda9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-struck-us-forces-relocated-kuwaits-bubiyan-island-military-spokesperson-2026-04-06%2f&amp;c=4451054996105795882&amp;mkt=en-us",
+        "pubDate": "Mon, 06 Apr 2026 00:20:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Two more Indian-flagged LPG ships exit the Gulf, tracking data shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2ftwo-more-indian-flagged-lpg-ships-exit-gulf-tracking-data-shows-2026-04-06%2f&amp;c=1054509280261400456&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Apr 2026 23:44:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump vows 'hell' for Iran if Strait stays shut, says a deal is possible",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34c72f86944f5b6dce8700e511280&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ftrump-vows-hell-iran-if-strait-stays-shut-says-deal-is-possible-2026-04-06%2f&amp;c=15574495380070273584&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 20:43:00 GMT",
+        "title": "Head of Iran's Revolutionary Guards' intelligence organisation announced as dead, state media reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fhead-irans-revolutionary-guards-intelligence-organisation-announced-dead-state-2026-04-06%2f&amp;c=4506744157892617338&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Apr 2026 23:37:00 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Iran, US receive plan to end hostilities, immediate ceasefire, source says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2firan-us-receive-plan-end-hostilities-immediate-ceasefire-source-says-2026-04-06%2f&amp;c=5957802199303835213&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Apr 2026 23:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UAE says the use of Hormuz must be guaranteed in any US-Iran deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fuae-says-use-hormuz-must-be-guaranteed-any-us-iran-deal-2026-04-06%2f&amp;c=6007954195293573414&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Apr 2026 21:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thailand plans reforms to boost growth and cut business costs, PM draft statement says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d37a00585a49d6990d3c084dd67f10&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fthailand-plans-reforms-boost-growth-cut-business-costs-pm-draft-statement-says-2026-04-06%2f&amp;c=11939374935789102345&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Apr 2026 20:29:00 GMT",
+        "category": "business"
       },
       {
         "title": "Taiwan opposition leader to visit China as Beijing ramps up 'reunification' push",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34c72f86944f5b6dce8700e511280&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftaiwan-opposition-leader-visit-china-beijing-ramps-up-reunification-push-2026-04-06%2f&amp;c=17530329389625763790&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftaiwan-opposition-leader-visit-china-beijing-ramps-up-reunification-push-2026-04-06%2f&amp;c=17530329389625763790&amp;mkt=en-us",
         "pubDate": "Sun, 05 Apr 2026 19:20:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Oil prices rise as US-Israeli war with Iran continues to disrupt supply",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34c72f86944f5b6dce8700e511280&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-prices-open-higher-us-israeli-war-with-iran-continues-disrupt-supply-2026-04-05%2f&amp;c=5902421242222502992&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 18:29:00 GMT",
+        "title": "Trump proposes &quot;historic&quot; defense spending budget, eyes 10% cut to other federal programs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d379fcfd92449d8f91ee63eb47c5d9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-budget-proposes-10-cut-discretionary-spending-increased-defense-spending-2026-04-03%2f&amp;c=14812174921283643129&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Apr 2026 16:22:00 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "How one factory in China learned to live with Trump, tariffs and turmoil",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34c72f86944f5b6dce8700e511280&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fhow-one-factory-china-learned-live-with-trump-tariffs-turmoil-2026-04-06%2f&amp;c=15875028237567999274&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 17:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Paramount in talks for Gulf backing in Warner takeover, WSJ reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34c72f86944f5b6dce8700e511280&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fthree-gulf-funds-agree-back-paramounts-81-billion-takeover-warner-wsj-reports-2026-04-05%2f&amp;c=166655885823339293&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 17:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump invokes religious rhetoric in praise of Iran rescue, drawing criticism",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34c72f86944f5b6dce8700e511280&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ftrump-invokes-religious-rhetoric-praise-iran-rescue-drawing-criticism-2026-04-05%2f&amp;c=10897247169195920412&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 16:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How a perilous US rescue mission in Iran nearly went off course",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34c72f86944f5b6dce8700e511280&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fhow-perilous-us-rescue-mission-iran-nearly-went-off-course-2026-04-05%2f&amp;c=6433476219067912171&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 13:22:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bangladesh launches emergency vaccination campaign as measles outbreak spreads",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d34cb5282c49e59d59ee61f069f361&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fbangladesh-launches-emergency-vaccination-campaign-measles-outbreak-spreads-2026-04-05%2f&amp;c=6651385046466854705&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Apr 2026 08:06:00 GMT",
-        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Trump&apos;s Iran ultimatum and signals of a possible deal keep investors on tenterhooks",
-        "link": "https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html",
-        "pubDate": "Mon, 06 Apr 2026 05:31:39 GMT",
-        "category": "world"
+        "title": "AI data center boom \u2018stress tests\u2019 insurers as private capital floods in",
+        "link": "https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html",
+        "pubDate": "Mon, 06 Apr 2026 05:38:40 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Top Wall Street analysts see strong growth potential in these 3 stocks",
+        "link": "https://www.cnbc.com/2026/04/05/top-wall-street-analysts-see-strong-growth-potential-in-these-3-stocks.html",
+        "pubDate": "Sun, 05 Apr 2026 20:51:32 GMT",
+        "category": "us"
       }
     ]
   }
