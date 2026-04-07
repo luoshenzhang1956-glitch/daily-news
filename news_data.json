@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-04-07T13:46:13.669466",
+  "updated_at": "2026-04-07T15:17:39.640568",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US Para Nordic ski team has new home with US SKI &amp; Snowboard fresh off winning 10 golds in Italy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d51f8a837d456797b48766fccd31de&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-ski-snowboard-paralympics-masters-c2c4a074734a2fc581e9f042268389b8&amp;c=9827674480902379440&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 07:17:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Achilles injury ends US forward Patrick Agyemang\u2019s World Cup hopes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d51f886f94451b8e12fceda136a97c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fagyemang-usa-world-cup-3d4520d2917eb2233b014dd54a153dd5&amp;c=7399688663140375454&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 04:41:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "Photos: NASA releases first images from moon flyby",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/04/07/nx-s1-5775935/picture-show-moon-eclipse-photos",
+        "pubDate": "Tue, 07 Apr 2026 10:35:44 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Australia charges ex\u2011soldier with 5 war\u2011crime murders in Afghanistan",
         "link": "https://www.npr.org/2026/04/07/g-s1-116644/australia-charges-ex-soldier-with-5-war-crime-murders-in-afghanistan",
@@ -46,12 +65,6 @@
         "category": "health"
       },
       {
-        "title": "Artemis II astronauts swung by the moon, broke an Apollo record, and saw an eclipse",
-        "link": "https://www.npr.org/2026/04/07/nx-s1-5775710/artemis-lunar-flyby-complete-heading-home",
-        "pubDate": "Tue, 07 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "AI in the mental health care workforce is met with fear, pushback \u2014 and enthusiasm",
         "link": "https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai",
         "pubDate": "Tue, 07 Apr 2026 05:00:00 -0400",
@@ -66,22 +79,28 @@
     ],
     "bbc": [
       {
+        "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
+        "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Apr 2026 14:53:18 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
         "link": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Apr 2026 13:03:54 GMT",
-        "category": "Top News"
+        "pubDate": "Tue, 07 Apr 2026 14:51:07 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Music giant Universal gets $64bn takeover offer",
+        "link": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Apr 2026 14:48:36 GMT",
+        "category": "business"
       },
       {
         "title": "Ex-footballer Joey Barton denies golf club attack",
         "link": "https://www.bbc.com/news/articles/c05d1j0q9jro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 07 Apr 2026 12:49:01 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Music giant Universal gets $64bn takeover offer",
-        "link": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Apr 2026 12:35:55 GMT",
-        "category": "business"
       },
       {
         "title": "OpenAI encourages firms to trial four-day weeks to adapt to AI era",
@@ -96,22 +115,16 @@
         "category": "Top News"
       },
       {
-        "title": "JD Vance arrives in Hungary to back Orb\u00e1n's re-election bid",
-        "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Apr 2026 10:57:44 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Watch: Artemis II's historic lunar flyby... in 90 seconds",
-        "link": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Apr 2026 10:56:44 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Disruption expected as six-day doctors' strike begins",
         "link": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 07 Apr 2026 08:33:02 GMT",
         "category": "health"
+      },
+      {
+        "title": "Warmest weather of the year expected with 25C on Wednesday",
+        "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Apr 2026 06:54:54 GMT",
+        "category": "Top News"
       },
       {
         "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
@@ -128,12 +141,37 @@
     ],
     "reuters": [
       {
-        "title": "ING terminates sale agreement for Russian business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d50a40c7d1415b8ac3bf7e6f4a73c2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fing-terminates-sale-agreement-russian-business-2026-04-07%2f&amp;c=16251304008887296468&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Apr 2026 23:05:00 GMT",
-        "category": "business"
+        "title": "World Athletics to launch standalone marathon championship from 2030",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d51f9eab98448bbb5d87a85e2eb3d5&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fworld-athletics-launch-standalone-marathon-championship-2030-2026-04-07%2f&amp;c=374305580049520628&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 01:55:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Depressed tech valuations could offer entry point for investors, Goldman Sachs says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d51fbed78748ca8ce139241e7e2d22&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fdepressed-tech-valuations-could-offer-entry-point-investors-goldman-sachs-says-2026-04-07%2f&amp;c=3259303084419540185&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 01:07:00 GMT",
+        "category": "tech"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "This languishing software giant is forming a base. Using options to trade a bounce",
+        "link": "https://www.cnbc.com/2026/04/07/this-languishing-software-giant-is-forming-a-base-using-options-to-trade-a-bounce.html",
+        "pubDate": "Tue, 07 Apr 2026 14:30:01 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Broadcom, UnitedHealth, Casey&apos;s General Stores and more",
+        "link": "https://www.cnbc.com/2026/04/07/stocks-making-the-biggest-moves-premarket-avgo-unh-casy.html",
+        "pubDate": "Tue, 07 Apr 2026 11:40:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here&apos;s what they learned",
+        "link": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html",
+        "pubDate": "Mon, 06 Apr 2026 20:47:02 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
