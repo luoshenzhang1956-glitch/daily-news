@@ -1,15 +1,39 @@
 {
-  "updated_at": "2026-04-07T19:16:21.183551",
+  "updated_at": "2026-04-07T20:56:21.353725",
   "news": {
     "ap": [
       {
-        "title": "Deere &amp; Co agrees to pay $99 million to settle \u2018right to repair\u2019 lawsuit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d55761fab24eaeba1d401a9e9a6d27&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjohn-deere-repair-lawsuit-settlement-595d4b089689cd94418991326275b68d&amp;c=6062884090319310496&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 09:05:00 GMT",
+        "title": "Delta joins the growing list of US airlines raising checked bag fees as jet fuel costs soar",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f3657ab4dc4a2bb07bc583322dc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdelta-air-fuel-bag-fees-5c1c2d4214ce745b03890f47850b9dd6&amp;c=13547653807746276055&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 11:01:00 GMT",
         "category": "business"
+      },
+      {
+        "title": "Hundreds of Cuban women rally against US energy blockade as crisis deepens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f35b88a419ba2b0c4335d33cb9d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuba-womens-march-espin-trump-blockade-protest-d90123810256fad9afb4b4f7351508ae&amp;c=10367618642468543576&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 10:54:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Judge tosses PETA\u2019s lawsuit against the American Kennel Club over dog breed health",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f38485c44d5a53758f18162547d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpeta-lawsuit-akc-dog-breeds-french-bulldog-d9726657b599325f223d8c37bfb6ef11&amp;c=14390991440990748302&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 10:37:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "The Masters has players from 23 countries. The world ranking is one reason for the global growth",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f343f2d476ba647bb3fd90f69bb&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-golf-ranking-langer-international-golf-0038badc939d10276cb6342e61288eb4&amp;c=5247698346183685180&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 10:27:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
+      {
+        "title": "A year after &apos;Liberation Day,&apos; Trump&apos;s tariffs are taking a toll on small businesses",
+        "link": "https://www.npr.org/2026/04/07/nx-s1-5768457/a-year-after-liberation-day-trumps-tariffs-are-taking-a-toll-on-small-businesses",
+        "pubDate": "Tue, 07 Apr 2026 16:33:52 -0400",
+        "category": "business"
+      },
       {
         "title": "Astronauts suggest naming a moon crater &apos;Carroll&apos; after their commander&apos;s late wife",
         "link": "https://www.npr.org/2026/04/07/nx-s1-5776440/artemis-moon-crater-carroll-wiseman",
@@ -20,7 +44,7 @@
         "title": "Drive slower, go electric, don&apos;t drive at all? Americans weigh options for saving gas",
         "link": "https://www.npr.org/2026/04/07/nx-s1-5775907/high-gas-prices-save-money-iran-war",
         "pubDate": "Tue, 07 Apr 2026 12:00:00 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Photos: NASA releases first images from moon flyby",
@@ -53,12 +77,6 @@
         "category": "Top News"
       },
       {
-        "title": "Beer cans, helium balloons and mortgages: An unexpected mix of things affected by war",
-        "link": "https://www.npr.org/2026/04/07/nx-s1-5773196/helium-aluminum-mortgages-cost-iran-war",
-        "pubDate": "Tue, 07 Apr 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "AI in the mental health care workforce is met with fear, pushback \u2014 and enthusiasm",
         "link": "https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai",
         "pubDate": "Tue, 07 Apr 2026 05:00:00 -0400",
@@ -73,16 +91,28 @@
     ],
     "bbc": [
       {
+        "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+        "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Apr 2026 19:40:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Iranians form human chains at bridges and power plants",
+        "link": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Apr 2026 19:36:03 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Bill Gates set to testify before US Congress in Epstein investigation",
         "link": "https://www.bbc.com/news/articles/cx2vdekdweqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 07 Apr 2026 18:40:52 GMT",
         "category": "Top News"
       },
       {
-        "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-        "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Apr 2026 18:37:19 GMT",
-        "category": "Top News"
+        "title": "What the US military could do if Iran fails to meet Trump's ultimatum",
+        "link": "https://www.bbc.com/news/articles/c98kn1zlxr1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Apr 2026 17:42:17 GMT",
+        "category": "us"
       },
       {
         "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
@@ -109,22 +139,10 @@
         "category": "Top News"
       },
       {
-        "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-        "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Apr 2026 14:53:18 GMT",
-        "category": "us"
-      },
-      {
         "title": "Music giant Universal gets $64bn takeover offer",
         "link": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 07 Apr 2026 14:48:36 GMT",
         "category": "business"
-      },
-      {
-        "title": "Plan 2 student loan interest rates capped at 6% in England",
-        "link": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Apr 2026 11:21:16 GMT",
-        "category": "Top News"
       },
       {
         "title": "Disruption expected as six-day doctors' strike begins",
@@ -135,18 +153,91 @@
     ],
     "reuters": [
       {
-        "title": "World Bank's Banga sees some degree of lower growth, higher inflation due to war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d5577df9db425f8c9ae1327944ff49&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fworld-banks-banga-sees-some-degree-lower-growth-higher-inflation-due-war-2026-04-07%2f&amp;c=3898853582864745834&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 09:16:00 GMT",
+        "title": "Wall Street closes mixed, with signs of progress as Trump's Iran deadline draws near",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f3b231c451993173a8999e19ae4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-inch-lower-investors-assess-mideast-developments-2026-04-07%2f&amp;c=16987498550554102499&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 12:20:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Banga defends World Bank's role on Trump's Board of Peace",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f3cf71b4d97b5831a97c991d713&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fbanga-defends-world-banks-role-trumps-board-peace-2026-04-07%2f&amp;c=8217655943324129256&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 12:07:00 GMT",
         "category": "world"
       },
       {
-        "title": "Depressed tech valuations could offer entry point for investors, Goldman Sachs says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d5579bd2684cfb95c423ad5673ea8e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fdepressed-tech-valuations-could-offer-entry-point-investors-goldman-sachs-says-2026-04-07%2f&amp;c=3259303084419540185&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 01:07:00 GMT",
-        "category": "tech"
+        "title": "Iran war live: US to weigh deadline extension while Tehran reviews Pakistan's ceasefire request",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f411adb4188abd47e2caa2508bd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-tehran-rejects-ceasefire-deal-trumps-deadline-reopen-strait-hormuz-2026-04-07%2f&amp;c=14330040456514671747&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 12:04:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Reform UK threatens to deny visas to citizens of countries demanding reparations",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f3b231c451993173a8999e19ae4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2freform-uk-threatens-deny-visas-citizens-countries-demanding-reparations-2026-04-07%2f&amp;c=9432666818609842795&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 11:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iraqi armed group says it will release abducted US journalist, says she must leave Iraq immediately",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f3b231c451993173a8999e19ae4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2firaqi-armed-group-says-it-will-release-abducted-us-journalist-says-she-must-2026-04-07%2f&amp;c=2874012256584043335&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 10:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iranian hackers' targeting of US critical infrastructure has escalated since start of war, US says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f3b231c451993173a8999e19ae4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firanian-hackers-targeting-us-critical-infrastructure-has-escalated-since-start-2026-04-07%2f&amp;c=11707008410695788163&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 10:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Health insurers rise after US lifts 2027 Medicare Advantage payment rates",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f532377442385ad820c0d35fe9c&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fhealth-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates-2026-04-07%2f&amp;c=15466756536549140432&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 09:35:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Fuel prices could keep rising for months even if Hormuz reopens, US EIA says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f3b231c451993173a8999e19ae4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ffuel-prices-could-keep-rising-months-after-hormuz-reopens-us-eia-says-2026-04-07%2f&amp;c=10381479350743833697&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 09:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Gilead to buy Germany's Tubulis for up to $5 billion to boost cancer pipeline",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f3b231c451993173a8999e19ae4&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fgilead-acquire-tubulis-gmbh-up-5-billion-2026-04-07%2f&amp;c=12722762848417851328&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 09:14:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US business spending on equipment on solid ground before Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d56f435a644b5d819f262e4f7aee84&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-core-capital-goods-orders-increase-february-2026-04-07%2f&amp;c=4126865502424411706&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 08:02:00 GMT",
+        "category": "business"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Iran updates: Pakistan seeks 2-week pause after Trump warns &apos;whole civilization will die&apos; if no deal by deadline",
+        "link": "https://www.cnbc.com/2026/04/07/iran-war-trump-deadline.html",
+        "pubDate": "Tue, 07 Apr 2026 20:30:56 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Levi Strauss beats expectations on the top and bottom lines, raises guidance",
+        "link": "https://www.cnbc.com/2026/04/07/levi-strauss-levi-earnings-q1-2026.html",
+        "pubDate": "Tue, 07 Apr 2026 20:10:54 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Is it time to buy tech, again? A flurry of good news from Broadcom may hold the answer",
+        "link": "https://www.cnbc.com/2026/04/07/is-it-time-to-buy-tech-again-a-flurry-of-good-news-from-broadcom-may-hold-the-answer.html",
+        "pubDate": "Tue, 07 Apr 2026 19:35:41 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Novo Nordisk&apos;s explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
+        "link": "https://www.cnbc.com/2026/04/07/novo-nordisks-wegovy-pill-launch-draws-new-wave-of-patients-to-glp-1s.html",
+        "pubDate": "Tue, 07 Apr 2026 15:37:05 GMT",
+        "category": "health"
+      }
+    ]
   }
 }
