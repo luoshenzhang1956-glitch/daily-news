@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-04-07T15:17:39.640568",
+  "updated_at": "2026-04-07T17:11:22.065087",
   "news": {
     "ap": [
       {
-        "title": "US Para Nordic ski team has new home with US SKI &amp; Snowboard fresh off winning 10 golds in Italy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d51f8a837d456797b48766fccd31de&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-ski-snowboard-paralympics-masters-c2c4a074734a2fc581e9f042268389b8&amp;c=9827674480902379440&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 07:17:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Achilles injury ends US forward Patrick Agyemang\u2019s World Cup hopes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d51f886f94451b8e12fceda136a97c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fagyemang-usa-world-cup-3d4520d2917eb2233b014dd54a153dd5&amp;c=7399688663140375454&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 04:41:00 GMT",
-        "category": "world"
+        "title": "Judge tosses PETA\u2019s lawsuit against the American Kennel Club over dog breed health",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a3235164516b738c10fd225446a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpeta-lawsuit-akc-dog-breeds-french-bulldog-d9726657b599325f223d8c37bfb6ef11&amp;c=14390991440990748302&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 10:06:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Drive slower, go electric, don&apos;t drive at all? Americans weigh options for saving gas",
+        "link": "https://www.npr.org/2026/04/07/nx-s1-5775907/high-gas-prices-save-money-iran-war",
+        "pubDate": "Tue, 07 Apr 2026 12:00:00 -0400",
+        "category": "business"
+      },
       {
         "title": "Photos: NASA releases first images from moon flyby",
         "link": "https://www.npr.org/sections/the-picture-show/2026/04/07/nx-s1-5775935/picture-show-moon-eclipse-photos",
@@ -35,7 +35,7 @@
         "category": "Top News"
       },
       {
-        "title": "As Trump&apos;s deadline approaches, Iranian leaders respond in defiance",
+        "title": "Trump warns &apos;a whole civilization will die tonight&apos; if Iran fails to meet his deadline",
         "link": "https://www.npr.org/2026/04/07/nx-s1-5776377/iran-war-updates",
         "pubDate": "Tue, 07 Apr 2026 06:40:13 -0400",
         "category": "us"
@@ -44,7 +44,7 @@
         "title": "How Bill Phillips used flowing water to model the economy",
         "link": "https://www.npr.org/sections/planet-money/2026/04/07/g-s1-116575/how-bill-phillips-used-flowing-water-to-model-the-economy",
         "pubDate": "Tue, 07 Apr 2026 06:30:00 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Beer cans, helium balloons and mortgages: An unexpected mix of things affected by war",
@@ -59,16 +59,10 @@
         "category": "Top News"
       },
       {
-        "title": "Bracing for federal cuts, some states are already paring back Medicaid services",
-        "link": "https://www.npr.org/2026/04/07/nx-s1-5775867/montana-federal-medicaid-cuts-doula-birth",
-        "pubDate": "Tue, 07 Apr 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
         "title": "AI in the mental health care workforce is met with fear, pushback \u2014 and enthusiasm",
         "link": "https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai",
         "pubDate": "Tue, 07 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
+        "category": "health"
       },
       {
         "title": "Building AI bots becomes the latest viral craze in China",
@@ -79,10 +73,28 @@
     ],
     "bbc": [
       {
+        "title": "Strictly star will not face rape charges, police say",
+        "link": "https://www.bbc.com/news/articles/cvgld1vjdewo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Apr 2026 16:25:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
+        "link": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Apr 2026 15:39:33 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Has Artemis II shown we can land on the Moon again?",
+        "link": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Apr 2026 15:23:05 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
         "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 07 Apr 2026 14:53:18 GMT",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
@@ -103,12 +115,6 @@
         "category": "Top News"
       },
       {
-        "title": "OpenAI encourages firms to trial four-day weeks to adapt to AI era",
-        "link": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Apr 2026 11:55:47 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Plan 2 student loan interest rates capped at 6% in England",
         "link": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 07 Apr 2026 11:21:16 GMT",
@@ -121,57 +127,74 @@
         "category": "health"
       },
       {
-        "title": "Warmest weather of the year expected with 25C on Wednesday",
+        "title": "Temperatures hit 25C making it the warmest day in the UK for six months",
         "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 07 Apr 2026 06:54:54 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
-        "link": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Apr 2026 06:33:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-        "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Apr 2026 21:55:50 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "World Athletics to launch standalone marathon championship from 2030",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d51f9eab98448bbb5d87a85e2eb3d5&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fworld-athletics-launch-standalone-marathon-championship-2030-2026-04-07%2f&amp;c=374305580049520628&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 01:55:00 GMT",
-        "category": "world"
+        "title": "Iran war live: Trump says 'a whole civilization will die tonight' if Tehran does not make a deal by deadline",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a36d6d24d86a39cd94949904f8f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-tehran-rejects-ceasefire-deal-trumps-deadline-reopen-strait-hormuz-2026-04-07%2f&amp;c=14330040456514671747&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 08:35:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Depressed tech valuations could offer entry point for investors, Goldman Sachs says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d51fbed78748ca8ce139241e7e2d22&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fdepressed-tech-valuations-could-offer-entry-point-investors-goldman-sachs-says-2026-04-07%2f&amp;c=3259303084419540185&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 01:07:00 GMT",
-        "category": "tech"
+        "title": "Lobbyist for man pardoned by Trump in plea talks on extortion charges",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a36d6d24d86a39cd94949904f8f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2flobbyist-man-pardoned-by-trump-plea-talks-extortion-charges-2026-04-07%2f&amp;c=4751624421340360218&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 08:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Southwest Airlines to limit passengers to one portable charger on flights",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a36d6d24d86a39cd94949904f8f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsouthwest-airlines-limit-passengers-one-portable-charger-flights-2026-04-07%2f&amp;c=6623689445792953022&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 08:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Vance says EU is meddling in Hungary's election as he backs Orban in Budapest",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a36d6d24d86a39cd94949904f8f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fvice-president-vance-visits-hungary-boost-orban-ahead-pivotal-election-2026-04-07%2f&amp;c=2743047787380154809&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 08:23:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "From falling U.S. wealth to Indian factory closures, oil shock raises global recession risk",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a36d6d24d86a39cd94949904f8f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ffalling-us-wealth-indian-factory-closures-oil-shock-raises-global-recession-risk-2026-04-07%2f&amp;c=275334846620217320&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 08:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "USTR Greer says US-Mexico-Canada pact talks may run past July 1 deadline",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a36d6d24d86a39cd94949904f8f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fustr-greer-says-us-mexico-canada-pact-talks-may-run-past-july-1-deadline-2026-04-07%2f&amp;c=16745958805205202500&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 08:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US business spending on equipment on solid ground before Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a36d6d24d86a39cd94949904f8f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-core-capital-goods-orders-increase-february-2026-04-07%2f&amp;c=4126865502424411706&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 08:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Vape makers turn to 'Made in America' credentials amid Trump's tariffs, crackdown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a36d6d24d86a39cd94949904f8f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fvape-makers-turn-made-america-credentials-amid-trumps-tariffs-crackdown-2026-04-07%2f&amp;c=3560061583289080552&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 08:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US lawmakers press Bessent on LNG ships that are taking tax credit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a36d6d24d86a39cd94949904f8f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-lawmakers-press-bessent-lng-ships-that-are-taking-tax-credit-2026-04-07%2f&amp;c=10538312366861136107&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 07:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Health insurers rise after US lifts 2027 Medicare Advantage payment rates",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d53a74f56e4689b76c58cbc9faafbe&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fhealth-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates-2026-04-07%2f&amp;c=15466756536549140432&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 01:23:00 GMT",
+        "category": "health"
       }
     ],
-    "markets": [
-      {
-        "title": "This languishing software giant is forming a base. Using options to trade a bounce",
-        "link": "https://www.cnbc.com/2026/04/07/this-languishing-software-giant-is-forming-a-base-using-options-to-trade-a-bounce.html",
-        "pubDate": "Tue, 07 Apr 2026 14:30:01 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Broadcom, UnitedHealth, Casey&apos;s General Stores and more",
-        "link": "https://www.cnbc.com/2026/04/07/stocks-making-the-biggest-moves-premarket-avgo-unh-casy.html",
-        "pubDate": "Tue, 07 Apr 2026 11:40:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here&apos;s what they learned",
-        "link": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html",
-        "pubDate": "Mon, 06 Apr 2026 20:47:02 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
