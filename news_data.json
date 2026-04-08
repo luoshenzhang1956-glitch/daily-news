@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-04-08T09:13:54.638988",
+  "updated_at": "2026-04-08T11:06:27.273021",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Jets visit the Blues after Connor\u2019s 2-goal game",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6363f3f6a4e89a0a67cfa9e8855a8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwinnipeg-jets-kyle-connor-st-louis-blues-seattle-kraken-seattle-redhawks-a8270ff0f5cb4cc0ae128804f8f0bef2&amp;c=3668054734990350423&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 01:11:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
         "title": "Colleges are trying to boost student voting. A Trump probe freezes data for that work",
@@ -66,6 +73,36 @@
     ],
     "bbc": [
       {
+        "title": "What we know about the two-week ceasefire between the US and Iran",
+        "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 11:00:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Hospitals coping well with doctors' strike so far - NHS boss",
+        "link": "https://www.bbc.com/news/articles/clyrzrp0x5go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 10:56:27 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Israel strikes southern Lebanon after US-Iran ceasefire",
+        "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 10:49:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK house prices fall as Iran war uncertainty dampens demand",
+        "link": "https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 10:48:58 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
+        "link": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 10:33:54 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Watch: Iranians gather in Tehran following ceasefire announcement",
         "link": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Apr 2026 08:22:15 GMT",
@@ -75,25 +112,13 @@
         "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
         "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Apr 2026 08:15:36 GMT",
-        "category": "business"
+        "category": "us"
       },
       {
         "title": "Oil prices plunge on agreement to reopen Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Apr 2026 08:15:36 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "How Pakistan helped secure a fragile truce between the US and Iran",
-        "link": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 05:03:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Doctors thought my endometriosis was IBS'",
-        "link": "https://www.bbc.com/news/articles/czx7x1j5j0wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 05:01:44 GMT",
-        "category": "health"
       },
       {
         "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
@@ -106,100 +131,40 @@
         "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Apr 2026 03:30:55 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "What we know about the two-week ceasefire between the US and Iran",
-        "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 02:58:55 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
-        "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 02:33:45 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
-        "link": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Apr 2026 15:39:33 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d61bcd906142779ee04803e2c41218&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-announces-two-week-ceasefire-iran-says-talks-begin-soon-2026-04-08%2f&amp;c=12830922390097704896&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 00:49:00 GMT",
-        "category": "Top News"
+        "title": "CK Hutchison's Panama unit to seek arbitration over Maersk ports takeover",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6366ec8ee4c1097be01ef3ab9039a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fck-hutchisons-panama-unit-files-arbitration-against-maersk-over-ports-takeover-2026-04-08%2f&amp;c=1767836171691603172&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 02:28:00 GMT",
+        "category": "business"
       },
       {
-        "title": "Wall Street futures climb on relief from US-Iran ceasefire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d61bcd906142779ee04803e2c41218&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-jump-relief-middle-east-ceasefire-2026-04-08%2f&amp;c=14763573467110434300&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 00:41:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Greece to ban social media for under-15s from 2027, PM says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d61bcd906142779ee04803e2c41218&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fgreece-ban-social-media-under-15s-2027-pm-says-2026-04-08%2f&amp;c=15867377276618420446&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 00:39:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US, Iran agree to two-week ceasefire with reopening of Strait of Hormuz",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d61bcd906142779ee04803e2c41218&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-agrees-two-week-ceasefire-iran-says-safe-passage-through-hormuz-possible-2026-04-08%2f&amp;c=3555787588331098356&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 00:34:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stellantis in advanced talks to develop Opel EV with China's Leapmotor, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d61bcd906142779ee04803e2c41218&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fclimate-energy%2fstellantis-advanced-talks-develop-opel-ev-with-chinas-leapmotor-sources-say-2026-04-08%2f&amp;c=14787583115707519228&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 23:57:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Gulf states eye cheap Ukrainian interceptor drone as Iranian attacks drain missile stocks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d61bcd906142779ee04803e2c41218&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fgulf-states-eye-cheap-ukrainian-interceptor-drone-iranian-attacks-drain-missile-2026-04-08%2f&amp;c=14107281138771371637&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 21:58:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says US will help with traffic buildup in Strait of Hormuz",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d61bcd906142779ee04803e2c41218&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-says-us-will-help-with-traffic-buildup-strait-hormuz-2026-04-08%2f&amp;c=1214926005812896249&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 20:39:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: Intelligence report warned of Iran's 'persistent threat' to US as White House downplayed the risk",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d61bcd906142779ee04803e2c41218&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fintelligence-report-warned-irans-persistent-threat-us-white-house-downplayed-2026-04-08%2f&amp;c=15160362941239339318&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 20:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Georgia runoff puts Trump influence to the test in MAGA stronghold",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d61bcd906142779ee04803e2c41218&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fgeorgia-runoff-puts-trump-influence-test-maga-stronghold-2026-04-07%2f&amp;c=9851917288042639761&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 14:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Reform UK threatens to deny visas to citizens of countries demanding reparations",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d61bcd906142779ee04803e2c41218&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2freform-uk-threatens-deny-visas-citizens-countries-demanding-reparations-2026-04-07%2f&amp;c=9432666818609842795&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 11:05:00 GMT",
-        "category": "Top News"
+        "title": "China's Sigenergy Technology aims to raise $562 mln in Hong Kong IPO",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6366fa6c044b992389e3772bf9af6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchinas-sigenergy-technology-aims-raise-562-mln-hong-kong-ipo-2026-04-07%2f&amp;c=3053425868050786331&amp;mkt=en-us",
+        "pubDate": "Tue, 07 Apr 2026 15:13:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Asian tech stocks surge as U.S.-Iran cease fire ease Hormuz disruption worries",
-        "link": "https://www.cnbc.com/2026/04/08/asian-chip-stocks-surge-us-iran-ceasefire-helium-supply-relief.html",
-        "pubDate": "Wed, 08 Apr 2026 06:47:47 GMT",
-        "category": "tech"
+        "title": "Why the U.S. Navy\u2019s retail business is fighting Walmart and Amazon to fund its own future",
+        "link": "https://www.cnbc.com/2026/04/08/navy-exchange-stores-compete-walmart-amazon-to-fund-future.html",
+        "pubDate": "Wed, 08 Apr 2026 11:00:01 GMT",
+        "category": "business"
       },
       {
-        "title": "Levi Strauss revenue jumps again, with DTC making up more than half of sales for the first time",
-        "link": "https://www.cnbc.com/2026/04/07/levi-strauss-levi-earnings-q1-2026.html",
-        "pubDate": "Tue, 07 Apr 2026 21:24:47 GMT",
-        "category": "business"
+        "title": "Earnings season kicks off next week. Morgan Stanley sees these stocks surprising to the upside",
+        "link": "https://www.cnbc.com/2026/04/08/these-stocks-earnings-set-to-surprise-to-upside-morgan-stanley-says-.html",
+        "pubDate": "Wed, 08 Apr 2026 10:42:24 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Novo Nordisk&apos;s explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
+        "link": "https://www.cnbc.com/2026/04/07/novo-nordisks-wegovy-pill-launch-draws-new-wave-of-patients-to-glp-1s.html",
+        "pubDate": "Tue, 07 Apr 2026 23:42:09 GMT",
+        "category": "health"
       }
     ]
   }
