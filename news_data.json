@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-04-08T20:56:45.229843",
+  "updated_at": "2026-04-08T22:52:13.061952",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "A first for Michigan\u2019s $2.4B SOAR business incentive program: New jobs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6db8c3261463db0665881ea493930&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmichigan-business-incentives-jobs-2e9b59d3a3291503e5638a5420baca95&amp;c=530885456804891425&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 11:29:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Jets visit the Blues after Connor\u2019s 2-goal game",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6db8d19d04a2bb5b0ce4e93425cb9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwinnipeg-jets-kyle-connor-st-louis-blues-seattle-kraken-seattle-redhawks-a8270ff0f5cb4cc0ae128804f8f0bef2&amp;c=3668054734990350423&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 01:11:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
-        "title": "What has the U.S. war with Iran accomplished?",
+        "title": "Bill Gates will testify in the Epstein probe; Pam Bondi testimony postponed",
+        "link": "https://www.npr.org/2026/04/08/nx-s1-5777585/bill-gates-pam-bondi-epstein-house-oversight",
+        "pubDate": "Wed, 08 Apr 2026 18:15:48 -0400",
+        "category": "us"
+      },
+      {
+        "title": "A measles outbreak that began in rural Utah continues to spread",
+        "link": "https://www.npr.org/2026/04/08/nx-s1-5771566/a-measles-outbreak-that-began-in-rural-utah-continues-to-spread",
+        "pubDate": "Wed, 08 Apr 2026 17:17:21 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Fact check: Trump&apos;s objectives in the war with Iran have largely not been achieved",
         "link": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
         "pubDate": "Wed, 08 Apr 2026 16:49:18 -0400",
         "category": "world"
@@ -25,13 +50,13 @@
         "title": "Democrats keep doing better in elections since Trump returned to office",
         "link": "https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-wisconsin-georgia-election-shift-overperformance-trump",
         "pubDate": "Wed, 08 Apr 2026 12:28:29 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "A humorist faces life with Stage 4 lung cancer: &apos;The future disappeared for me&apos;",
         "link": "https://www.npr.org/2026/04/08/nx-s1-5777417/a-humorist-faces-life-with-stage-4-lung-cancer-the-future-disappeared-for-me",
         "pubDate": "Wed, 08 Apr 2026 12:11:22 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Oil prices plunge and stocks soar after U.S. and Iran agree on a ceasefire",
@@ -46,29 +71,17 @@
         "category": "Top News"
       },
       {
-        "title": "Your sarcasm is showing \u2014 and its history is surprisingly violent",
-        "link": "https://www.npr.org/2026/04/08/nx-s1-5771648/sarcasm-origin-history-etymology",
+        "title": "Abortion clinics are closing nationwide. Could urgent care help fill the gap?",
+        "link": "https://www.npr.org/2026/04/08/nx-s1-5773333/planned-parenthood-urgent-care-medication-abortion-rural",
         "pubDate": "Wed, 08 Apr 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Colleges are trying to boost student voting. A Trump probe freezes data for that work",
-        "link": "https://www.npr.org/2026/04/08/nx-s1-5725279/college-trump-voting-data-probe-voting-registration",
-        "pubDate": "Wed, 08 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "ICE acknowledges it is using powerful spyware",
-        "link": "https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy",
-        "pubDate": "Tue, 07 Apr 2026 17:01:24 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
         "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
         "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 20:49:30 GMT",
+        "pubDate": "Wed, 08 Apr 2026 20:54:59 GMT",
         "category": "Top News"
       },
       {
@@ -126,13 +139,38 @@
         "category": "world"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "US crude futures rise after settling previous session with biggest fall in six years",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6dbc80fb14fe4b1b89ef666fdd5af&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-crude-futures-rise-after-settling-previous-session-with-biggest-fall-six-2026-04-08%2f&amp;c=15803223302867555203&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 14:43:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Kennedy to launch public health podcast ahead of US midterm elections",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6dbe61e9e4359bc911766aeadc8ba&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fkennedy-launch-public-health-podcast-ahead-us-midterm-elections-2026-04-08%2f&amp;c=16513984745287757914&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 12:13:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Citigroup says AI helps speed account openings and systems upgrades",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6dbe458c7437e87adfe0ba9ac20d1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fcitigroup-says-ai-helps-speed-account-openings-systems-upgrades-2026-04-08%2f&amp;c=697776193458997407&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 09:24:00 GMT",
+        "category": "tech"
+      }
+    ],
     "markets": [
       {
-        "title": "Latest investigation into bitcoin founder ties identity to Blockstream CEO Adam Back",
-        "link": "https://www.cnbc.com/2026/04/08/latest-investigation-of-bitcoin-founder-ties-identity-to-blockstream-ceo-adam-back.html",
-        "pubDate": "Wed, 08 Apr 2026 20:02:50 GMT",
+        "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
+        "link": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
+        "pubDate": "Wed, 08 Apr 2026 22:42:11 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Fundstrat&apos;s Tom Lee says the market has bottomed, stocks are headed to all-time highs",
+        "link": "https://www.cnbc.com/2026/04/08/fundstrats-tom-lee-says-the-market-has-bottomed-stocks-are-headed-to-all-time-highs.html",
+        "pubDate": "Wed, 08 Apr 2026 20:56:53 GMT",
+        "category": "us"
       },
       {
         "title": "Novo Nordisk&apos;s explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
