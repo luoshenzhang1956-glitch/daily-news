@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-08T13:48:27.346126",
+  "updated_at": "2026-04-08T15:18:37.367633",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "Oil prices plunge and stocks soar after U.S. and Iran agree on ceasefire",
+        "title": "Oil prices plunge and stocks soar after U.S. and Iran agree on a ceasefire",
         "link": "https://www.npr.org/2026/04/08/nx-s1-5776818/wall-street-stocks-oil-trump-iran-ceasefire",
         "pubDate": "Wed, 08 Apr 2026 09:33:28 -0400",
         "category": "world"
@@ -40,15 +40,15 @@
         "category": "Top News"
       },
       {
-        "title": "The U.S. and Iran agree to a 2-week ceasefire",
-        "link": "https://www.npr.org/2026/04/08/nx-s1-5777291/iran-war-updates",
-        "pubDate": "Wed, 08 Apr 2026 03:55:01 -0400",
+        "title": "Trump-backed Clay Fuller wins House race in Georgia to replace Greene",
+        "link": "https://www.npr.org/2026/04/08/nx-s1-5763997/trump-backed-clay-fuller-wins-house-race-in-georgia-to-replace-greene",
+        "pubDate": "Wed, 08 Apr 2026 04:46:26 -0400",
         "category": "Top News"
       },
       {
-        "title": "Telehealth abortion will remain available for now, after a federal judge&apos;s ruling",
-        "link": "https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone",
-        "pubDate": "Tue, 07 Apr 2026 21:52:15 -0400",
+        "title": "The U.S. and Iran agree to a 2-week ceasefire but some attacks continue",
+        "link": "https://www.npr.org/2026/04/08/nx-s1-5777291/iran-war-updates",
+        "pubDate": "Wed, 08 Apr 2026 03:55:01 -0400",
         "category": "Top News"
       },
       {
@@ -66,16 +66,28 @@
     ],
     "bbc": [
       {
+        "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+        "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 15:14:16 GMT",
+        "category": "us"
+      },
+      {
+        "title": "What we know about the two-week ceasefire between the US and Iran",
+        "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 14:14:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Will the ceasefire have any impact on UK fuel and food prices?",
+        "link": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 14:07:41 GMT",
+        "category": "business"
+      },
+      {
         "title": "Israel carries out large wave of air strikes across Lebanon",
         "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Apr 2026 13:13:46 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Faisal Islam: Iran war pause is welcome but the economic scars will last",
-        "link": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 12:44:15 GMT",
-        "category": "business"
       },
       {
         "title": "Faisal Islam: Pause in attacks is welcome but the economic scars will last",
@@ -84,15 +96,9 @@
         "category": "Top News"
       },
       {
-        "title": "What we know about the two-week ceasefire between the US and Iran",
-        "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 12:36:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: When will fuel prices go down?",
-        "link": "https://www.bbc.com/news/videos/c62je685v3vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 11:23:35 GMT",
+        "title": "UK house prices fall as Iran war uncertainty dampens demand",
+        "link": "https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 11:09:49 GMT",
         "category": "Top News"
       },
       {
@@ -106,12 +112,6 @@
         "link": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Apr 2026 10:33:54 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-        "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 08:15:36 GMT",
-        "category": "us"
       },
       {
         "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
@@ -128,24 +128,61 @@
     ],
     "reuters": [
       {
-        "title": "World Bank says South Asia growth to slow to 6.3% in 2026 amid Middle East conflict",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d65c48b1fd4f12853c6b7c6c7fcc70&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fworld-bank-says-south-asia-growth-slow-63-2026-amid-middle-east-conflict-2026-04-08%2f&amp;c=8893821810867420966&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 05:09:00 GMT",
-        "category": "world"
+        "title": "Israel pounds Lebanon with heaviest airstrikes of the war as Hezbollah pauses attacks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d671bb73984842bfb395c5691bbe65&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fhezbollah-pauses-attacks-under-us-iran-ceasefire-sources-close-group-say-2026-04-08%2f&amp;c=9109597015337487500&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 05:52:00 GMT",
+        "category": "health"
       },
       {
-        "title": "Britain picks business leader Ian Cheshire to chair media regulator",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d65c5bd43343d3a6b61cd4e5bca212&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fbritain-picks-business-leader-ian-cheshire-chair-media-regulator-2026-04-08%2f&amp;c=6197323983903965301&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 03:49:00 GMT",
-        "category": "business"
+        "title": "What the US, Iran, Israel and Pakistan have said about the ceasefire",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d671a93285477ca9cf3d2e8b11927e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fwhat-us-iran-israel-pakistan-have-said-about-ceasefire-2026-04-08%2f&amp;c=10341161046760135217&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 04:59:00 GMT",
+        "category": "us"
       },
       {
-        "title": "China's Sigenergy Technology aims to raise $562 mln in Hong Kong IPO",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d65c5d3b5b463695e2a163857e042f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchinas-sigenergy-technology-aims-raise-562-mln-hong-kong-ipo-2026-04-07%2f&amp;c=3053425868050786331&amp;mkt=en-us",
-        "pubDate": "Tue, 07 Apr 2026 15:13:00 GMT",
+        "title": "Swiss banks to test possible uses for Swiss franc stablecoin",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d671b9090948bfae36127dec876a4b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fswiss-banks-test-use-cases-swiss-franc-stablecoin-2026-04-08%2f&amp;c=15645155017632808570&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 00:41:00 GMT",
         "category": "tech"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Alphabet, Meta, Amazon, Nvidia lead tech rally after Trump announces ceasefire with Iran",
+        "link": "https://www.cnbc.com/2026/04/08/alphabet-nvidia-microsoft-tech-stocks-iran-ceasefire.html",
+        "pubDate": "Wed, 08 Apr 2026 15:16:39 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Ray Dalio: Trump-Xi meeting to focus on trade, capital flows",
+        "link": "https://www.cnbc.com/2026/04/08/ray-dalio-trump-xi-meeting-to-focus-on-trade-capital-flows.html",
+        "pubDate": "Wed, 08 Apr 2026 15:07:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Robinhood\u2019s Trump Accounts partnership signals big upside for the stock, analysts say",
+        "link": "https://www.cnbc.com/2026/04/08/robinhoods-trump-accounts-partnership-signals-big-upside-analysts-say-.html",
+        "pubDate": "Wed, 08 Apr 2026 15:00:04 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Trump threatens tariffs of 50% on countries &apos;supplying military weapons to Iran&apos;",
+        "link": "https://www.cnbc.com/2026/04/08/trump-threatens-tariffs-countries-supplying-weapons-iran-ceasefire.html",
+        "pubDate": "Wed, 08 Apr 2026 12:11:34 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Delta Air Lines, Levi Strauss, Exxon Mobil &amp; more",
+        "link": "https://www.cnbc.com/2026/04/08/stocks-making-the-biggest-moves-premarket-dal-levi-xom-more.html",
+        "pubDate": "Wed, 08 Apr 2026 11:42:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Novo Nordisk&apos;s explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
+        "link": "https://www.cnbc.com/2026/04/07/novo-nordisks-wegovy-pill-launch-draws-new-wave-of-patients-to-glp-1s.html",
+        "pubDate": "Tue, 07 Apr 2026 23:42:09 GMT",
+        "category": "health"
+      }
+    ]
   }
 }
