@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-04-08T22:52:13.061952",
+  "updated_at": "2026-04-09T02:52:22.676178",
   "news": {
     "ap": [
       {
-        "title": "A first for Michigan\u2019s $2.4B SOAR business incentive program: New jobs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6db8c3261463db0665881ea493930&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmichigan-business-incentives-jobs-2e9b59d3a3291503e5638a5420baca95&amp;c=530885456804891425&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 11:29:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Jets visit the Blues after Connor\u2019s 2-goal game",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6db8d19d04a2bb5b0ce4e93425cb9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwinnipeg-jets-kyle-connor-st-louis-blues-seattle-kraken-seattle-redhawks-a8270ff0f5cb4cc0ae128804f8f0bef2&amp;c=3668054734990350423&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 01:11:00 GMT",
-        "category": "tech"
+        "title": "Newly created Polymarket accounts bet big on US-Iran ceasefire in hours before Trump\u2019s announcement",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d713bd510243c4b5d15276a20fd2e3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpolymarket-iran-trump-ceasefire-prediction-markets-350d9fe5ffefa74080ff5dd973aef48b&amp;c=9140282451419073254&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 16:52:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
+      {
+        "title": "Once seen as a war hero, Australian ex-soldier will stand trial for alleged war crimes",
+        "link": "https://www.npr.org/2026/04/08/nx-s1-5776855/once-seen-as-a-war-hero-australian-ex-soldier-will-stand-trial-for-alleged-war-crimes",
+        "pubDate": "Wed, 08 Apr 2026 18:59:22 -0400",
+        "category": "world"
+      },
       {
         "title": "Bill Gates will testify in the Epstein probe; Pam Bondi testimony postponed",
         "link": "https://www.npr.org/2026/04/08/nx-s1-5777585/bill-gates-pam-bondi-epstein-house-oversight",
@@ -29,10 +29,10 @@
         "category": "health"
       },
       {
-        "title": "Fact check: Trump&apos;s objectives in the war with Iran have largely not been achieved",
+        "title": "What has the U.S. war with Iran accomplished?",
         "link": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
         "pubDate": "Wed, 08 Apr 2026 16:49:18 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Why OpenAI bought &apos;SportsCenter for Silicon Valley&apos;",
@@ -69,19 +69,31 @@
         "link": "https://www.npr.org/2026/04/08/g-s1-116752/up-first-newsletter-iran-trump-israel-ceasefire-clay-fuller-ice-spyware-telehealth-abortions",
         "pubDate": "Wed, 08 Apr 2026 07:55:39 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Abortion clinics are closing nationwide. Could urgent care help fill the gap?",
-        "link": "https://www.npr.org/2026/04/08/nx-s1-5773333/planned-parenthood-urgent-care-medication-abortion-rural",
-        "pubDate": "Wed, 08 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-        "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 20:54:59 GMT",
+        "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+        "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 01:59:34 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Oil prices rise as traders eye fragile US-Iran ceasefire",
+        "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 01:58:34 GMT",
+        "category": "business"
+      },
+      {
+        "title": "22,000 students told to pay back 'mis-sold' maintenance loans",
+        "link": "https://www.bbc.com/news/articles/cq593g970z7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 00:01:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Even if Iran war ends now, farmers' costs will have to be passed on'",
+        "link": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 23:03:53 GMT",
         "category": "Top News"
       },
       {
@@ -103,12 +115,6 @@
         "category": "Top News"
       },
       {
-        "title": "Why ceasefire deal with US has unsettled Iran's hardliners",
-        "link": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 17:16:37 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Jeremy Bowen: Ceasefire means respite for civilians, but it might not last long",
         "link": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Apr 2026 17:05:54 GMT",
@@ -121,61 +127,36 @@
         "category": "health"
       },
       {
-        "title": "Why fuel and food prices could still be affected for months",
-        "link": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 14:07:41 GMT",
-        "category": "business"
-      },
-      {
         "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
         "link": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Apr 2026 10:33:54 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
-        "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 03:30:55 GMT",
-        "category": "world"
       }
     ],
-    "reuters": [
-      {
-        "title": "US crude futures rise after settling previous session with biggest fall in six years",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6dbc80fb14fe4b1b89ef666fdd5af&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-crude-futures-rise-after-settling-previous-session-with-biggest-fall-six-2026-04-08%2f&amp;c=15803223302867555203&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 14:43:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Kennedy to launch public health podcast ahead of US midterm elections",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6dbe61e9e4359bc911766aeadc8ba&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fkennedy-launch-public-health-podcast-ahead-us-midterm-elections-2026-04-08%2f&amp;c=16513984745287757914&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 12:13:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Citigroup says AI helps speed account openings and systems upgrades",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d6dbe458c7437e87adfe0ba9ac20d1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fcitigroup-says-ai-helps-speed-account-openings-systems-upgrades-2026-04-08%2f&amp;c=697776193458997407&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 09:24:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
         "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
         "link": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
-        "pubDate": "Wed, 08 Apr 2026 22:42:11 GMT",
+        "pubDate": "Wed, 08 Apr 2026 23:52:04 GMT",
         "category": "tech"
       },
       {
-        "title": "Fundstrat&apos;s Tom Lee says the market has bottomed, stocks are headed to all-time highs",
-        "link": "https://www.cnbc.com/2026/04/08/fundstrats-tom-lee-says-the-market-has-bottomed-stocks-are-headed-to-all-time-highs.html",
-        "pubDate": "Wed, 08 Apr 2026 20:56:53 GMT",
+        "title": "Thursday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/04/08/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Wed, 08 Apr 2026 23:05:54 GMT",
         "category": "us"
       },
       {
-        "title": "Novo Nordisk&apos;s explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
-        "link": "https://www.cnbc.com/2026/04/07/novo-nordisks-wegovy-pill-launch-draws-new-wave-of-patients-to-glp-1s.html",
-        "pubDate": "Tue, 07 Apr 2026 23:42:09 GMT",
+        "title": "Constellation Brands, U.S. maker of Modelo and Corona, withdraws 2028 guidance due to uncertainty",
+        "link": "https://www.cnbc.com/2026/04/08/constellation-brands-stz-q4-2026-earnings.html",
+        "pubDate": "Wed, 08 Apr 2026 22:48:45 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
+        "link": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
+        "pubDate": "Wed, 08 Apr 2026 14:40:18 GMT",
         "category": "health"
       }
     ]
