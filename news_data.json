@@ -1,21 +1,33 @@
 {
-  "updated_at": "2026-04-09T15:47:05.100104",
+  "updated_at": "2026-04-09T17:16:28.747334",
   "news": {
     "ap": [
       {
-        "title": "Oil prices rise to $100 as stocks slow on doubts about the US-Iran ceasefire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7c9372a5b47db9225250c8b752329&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-trump-iran-ceasefire-oil-857ae30b3be4441819b2848fd594a33d&amp;c=14730499271753333386&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 08:32:00 GMT",
-        "category": "us"
+        "title": "Kara Swisher examines the science, tech and business of living longer in new CNN docuseries",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7de5128ae49cc89c18e92987fd350&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkara-swisher-cnn-1ff67bdeb15db4b6737b89ed69d077d2&amp;c=7633073191419231868&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Apr 2026 09:48:00 GMT",
+        "category": "business"
       },
       {
-        "title": "Kara Swisher examines the science, tech and business of living longer in new CNN docuseries",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7c938b17c454cb64c8e194e1e3ed4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkara-swisher-cnn-1ff67bdeb15db4b6737b89ed69d077d2&amp;c=7633073191419231868&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 07:10:00 GMT",
-        "category": "business"
+        "title": "As Trump throws lifeline to coal plants, critics warn of higher costs and health risks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7de56bf0e4fbc9d0a167b61e1b025&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-climate-coal-revival-9440fa44ad8f0cce0ef50b22e00cad8e&amp;c=11011952055060971359&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Apr 2026 08:49:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7de52d3f74d5d99afb281f47f043d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fanthropic-security-risk-trump-artificial-intelligence-8478be7d5e275dee43d9814ebb2a69d3&amp;c=3357862497416144435&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 23:37:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
+      {
+        "title": "This doctor turned a 31-foot RV into one of the country&apos;s only mobile OB-GYN clinics",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5775761/this-doctor-turned-a-31-foot-rv-into-one-of-the-countrys-only-mobile-ob-gyn-clinics",
+        "pubDate": "Thu, 09 Apr 2026 12:27:10 -0400",
+        "category": "health"
+      },
       {
         "title": "In the Trump era, everybody&apos;s talking about &apos;soft power.&apos; But ... what is it exactly?",
         "link": "https://www.npr.org/2026/04/09/nx-s1-5777584/trump-administration-soft-power",
@@ -44,7 +56,13 @@
         "title": "How to make a high-deductible health plan and HSA work for you",
         "link": "https://www.npr.org/2026/04/09/nx-s1-5745203/high-deductible-health-plans-hsa-advice",
         "pubDate": "Thu, 09 Apr 2026 05:00:00 -0400",
-        "category": "health"
+        "category": "Top News"
+      },
+      {
+        "title": "Iran expert discusses whether the war has made the Iranian regime stronger",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5777657/expert-discusses-whether-the-war-has-made-irans-regime-stronger",
+        "pubDate": "Thu, 09 Apr 2026 04:46:28 -0400",
+        "category": "Top News"
       },
       {
         "title": "Jim Whittaker, the first American to summit Mount Everest, dies at 97",
@@ -59,18 +77,6 @@
         "category": "Top News"
       },
       {
-        "title": "Guatemalan man pleads guilty in federal court in crash that killed over 50 in Mexico",
-        "link": "https://www.npr.org/2026/04/09/g-s1-116845/man-plead-guilty-crash-mexico",
-        "pubDate": "Thu, 09 Apr 2026 01:04:52 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Teen birth rates hit another historical low in 2025, CDC says",
-        "link": "https://www.npr.org/2026/04/09/nx-s1-5777587/teen-birth-rates-hit-another-historical-low-2025-cdc",
-        "pubDate": "Thu, 09 Apr 2026 00:01:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Why OpenAI bought &apos;SportsCenter for Silicon Valley&apos;",
         "link": "https://www.npr.org/2026/04/08/nx-s1-5775734/openai-tbpn-tech-media-silicon-valley",
         "pubDate": "Wed, 08 Apr 2026 15:17:45 -0400",
@@ -81,14 +87,26 @@
       {
         "title": "UK says Russia ran submarine operation over cables and pipelines",
         "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 14:49:54 GMT",
+        "pubDate": "Thu, 09 Apr 2026 17:09:57 GMT",
         "category": "Top News"
       },
       {
-        "title": "Four people die trying to board boat in Channel crossing attempt",
-        "link": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 13:56:14 GMT",
+        "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
+        "link": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 17:04:50 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Man jailed after grooming girl he met on gaming platform Roblox",
+        "link": "https://www.bbc.com/news/articles/cgqkl8j75k3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 16:50:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
+        "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 16:06:39 GMT",
+        "category": "world"
       },
       {
         "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
@@ -121,37 +139,30 @@
         "category": "us"
       },
       {
-        "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
-        "link": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 11:46:19 GMT",
-        "category": "world"
-      },
-      {
         "title": "Best-selling The Housemaid author Freida McFadden reveals true identity",
         "link": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 09 Apr 2026 09:35:01 GMT",
         "category": "Top News"
+      }
+    ],
+    "reuters": [],
+    "markets": [
+      {
+        "title": "Meta released a new AI model this week. JPMorgan sees it as a turning point for the stock",
+        "link": "https://www.cnbc.com/2026/04/09/meta-released-a-new-ai-model-this-week-jpmorgan-sees-it-as-a-turning-point-for-the-stock.html",
+        "pubDate": "Thu, 09 Apr 2026 17:00:01 GMT",
+        "category": "us"
       },
       {
-        "title": "22,000 students told to pay back 'mis-sold' maintenance loans",
-        "link": "https://www.bbc.com/news/articles/cq593g970z7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 00:01:40 GMT",
-        "category": "Top News"
-      }
-    ],
-    "reuters": [
-      {
-        "title": "SiFive raises $400 million from Atreides, Nvidia for data-center chip technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7c99aa5c04578a8e8113e76f6308b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsifive-raises-400-million-atreides-nvidia-data-center-chip-technology-2026-04-09%2f&amp;c=6744316509095730814&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 05:07:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "markets": [
+        "title": "The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says",
+        "link": "https://www.cnbc.com/2026/04/09/iran-war-oil-strait-hormuz-tanker-ship-uae.html",
+        "pubDate": "Thu, 09 Apr 2026 16:43:20 GMT",
+        "category": "world"
+      },
       {
         "title": "Amazon CEO Jassy defends $200 billion AI spend: &quot;We&apos;re not going to be conservative&quot;",
         "link": "https://www.cnbc.com/2026/04/09/amazon-ceo-andy-jassy-ai-spending.html",
-        "pubDate": "Thu, 09 Apr 2026 15:46:06 GMT",
+        "pubDate": "Thu, 09 Apr 2026 16:15:25 GMT",
         "category": "tech"
       }
     ]
