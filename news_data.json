@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-04-09T09:19:21.458852",
+  "updated_at": "2026-04-09T11:07:49.248202",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Trump meets with NATO chief about the future of the partnership",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5777600/trump-meets-with-nato-chief-about-the-future-of-the-partnership",
+        "pubDate": "Thu, 09 Apr 2026 06:46:54 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Trump warns strikes will resume if Iran doesn&apos;t agree to his peace terms",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5779000/iran-war-updates",
+        "pubDate": "Thu, 09 Apr 2026 05:20:19 -0400",
+        "category": "us"
+      },
       {
         "title": "Why high oil prices are good for oil companies \u2014 until they aren&apos;t",
         "link": "https://www.npr.org/2026/04/09/nx-s1-5745144/oil-company-profits-high-oil-prices",
@@ -14,18 +26,6 @@
         "link": "https://www.npr.org/2026/04/09/nx-s1-5745203/high-deductible-health-plans-hsa-advice",
         "pubDate": "Thu, 09 Apr 2026 05:00:00 -0400",
         "category": "health"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/04/09/nx-s1-5777387/morning-news-brief",
-        "pubDate": "Thu, 09 Apr 2026 04:47:12 -0400",
-        "category": "world"
-      },
-      {
-        "title": "What&apos;s behind Trump&apos;s seemingly lackluster response to Artemis II&apos;s lunar mission",
-        "link": "https://www.npr.org/2026/04/09/nx-s1-5777551/whats-behind-trumps-seemingly-lackluster-response-to-artemis-iis-lunar-mission",
-        "pubDate": "Thu, 09 Apr 2026 04:47:00 -0400",
-        "category": "us"
       },
       {
         "title": "Jim Whittaker, the first American to summit Mount Everest, dies at 97",
@@ -66,21 +66,21 @@
     ],
     "bbc": [
       {
-        "title": "Oil prices rise as concerns grow over 'fragile' US-Iran ceasefire",
-        "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 09:16:29 GMT",
-        "category": "business"
-      },
-      {
         "title": "Four people die trying to board boat in Channel crossing attempt",
         "link": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 09:01:42 GMT",
+        "pubDate": "Thu, 09 Apr 2026 10:48:14 GMT",
         "category": "Top News"
       },
       {
-        "title": "Cooper urges full and toll-free reopening of Strait of Hormuz",
-        "link": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 08:14:15 GMT",
+        "title": "Oil prices rise as concerns grow over 'fragile' US-Iran ceasefire",
+        "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 09:55:31 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Best-selling The Housemaid author Freida McFadden reveals true identity",
+        "link": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 09:35:01 GMT",
         "category": "Top News"
       },
       {
@@ -108,9 +108,9 @@
         "category": "Top News"
       },
       {
-        "title": "Jeremy Bowen: Ceasefire means respite for civilians, but it might not last long",
-        "link": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 17:05:54 GMT",
+        "title": "RSPCA says 250 dogs found crammed into one home",
+        "link": "https://www.bbc.com/news/articles/c4gxkdeyk7ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 20:00:20 GMT",
         "category": "Top News"
       },
       {
@@ -120,74 +120,38 @@
         "category": "health"
       },
       {
-        "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
-        "link": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 10:33:54 GMT",
+        "title": "Greece to ban social media for under-15s from next year",
+        "link": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Apr 2026 11:39:43 GMT",
         "category": "tech"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "Trump threatens 50% tariffs on countries supplying Iran with weapons",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-announces-50-tariffs-nations-supplying-iran-with-weapons-2026-04-08%2f&amp;c=50769860150450927&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 01:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Glencore, Taiwan refiner book tankers to load Middle East oil after ceasefire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fglencore-charters-supertanker-load-oil-middle-east-sources-say-2026-04-09%2f&amp;c=9639998059230891063&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 00:39:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Oil gains 4% as fragile ceasefire, Hormuz restrictions keep supply risks elevated",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-crude-futures-rise-after-settling-previous-session-with-biggest-fall-six-2026-04-08%2f&amp;c=15803223302867555203&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 00:20:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Spain condemns Israeli attacks on Lebanon, reopens Tehran embassy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fspain-condemns-israeli-attacks-lebanon-reopens-tehran-embassy-2026-04-09%2f&amp;c=11157144775008547254&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 23:48:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New Zealand's Wood returns from injury ahead of World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9c99424ea4b05988ff5a650e6e&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnew-zealand-striker-wood-returns-injury-ahead-world-cup-2026-04-09%2f&amp;c=18147171182894796990&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 23:45:00 GMT",
+        "title": "Britain to call for toll-free Strait of Hormuz, says Lebanon must be part of Iran ceasefire",
+        "link": "https://www.cnbc.com/2026/04/09/uk-cooper-iran-war-strait-of-hormuz-tolls-lebanon-israel-ceasefire.html",
+        "pubDate": "Thu, 09 Apr 2026 09:04:03 GMT",
         "category": "world"
       },
       {
-        "title": "Seven &amp; i delays listing of North America business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76ea8c98c4b7bbb4825682f0b3331&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fseven-i-delays-listing-north-america-business-2026-04-09%2f&amp;c=1475973300369854029&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 23:31:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Bondi will not appear for House interview on Epstein files, DOJ says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fbondi-will-not-appear-house-interview-epstein-files-doj-says-2026-04-08%2f&amp;c=13608024992528580808&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 22:52:00 GMT",
+        "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
+        "link": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
+        "pubDate": "Wed, 08 Apr 2026 18:26:37 GMT",
         "category": "Top News"
       },
       {
-        "title": "Bessent urges Congress to pass crypto regulation bill",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fbessent-urges-congress-pass-crypto-regulation-bill-2026-04-09%2f&amp;c=15449508494028179315&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 20:47:00 GMT",
+        "title": "Ray Dalio: Trump-Xi meeting to focus on trade, capital flows",
+        "link": "https://www.cnbc.com/2026/04/08/ray-dalio-trump-xi-meeting-to-focus-on-trade-capital-flows.html",
+        "pubDate": "Wed, 08 Apr 2026 15:07:38 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump's abrupt Iran reversal exposes limits of his leverage",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrumps-abrupt-iran-reversal-exposes-limits-his-leverage-2026-04-08%2f&amp;c=10672311158394092972&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 20:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Police arrest Michigan man after wife's Bahamas disappearance",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbahamian-police-arrest-michigan-man-after-wifes-disappearance-2026-04-09%2f&amp;c=10060654077296655313&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 19:13:00 GMT",
+        "title": "Stocks making the biggest moves premarket: Delta Air Lines, Levi Strauss, Exxon Mobil &amp; more",
+        "link": "https://www.cnbc.com/2026/04/08/stocks-making-the-biggest-moves-premarket-dal-levi-xom-more.html",
+        "pubDate": "Wed, 08 Apr 2026 11:42:37 GMT",
         "category": "Top News"
       }
-    ],
-    "markets": []
+    ]
   }
 }
