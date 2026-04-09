@@ -1,32 +1,38 @@
 {
-  "updated_at": "2026-04-09T21:00:17.413869",
+  "updated_at": "2026-04-09T22:53:09.824586",
   "news": {
     "ap": [
       {
-        "title": "Plaintiffs settle with Trump administration, halting cuts to agency that funds US libraries",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d812e07fbc417b95d9dd67ee982d96&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdoge-libraries-museums-justice-department-lawsuit-a4dde0417f208054533aa726fceefc13&amp;c=18219053645589700455&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 13:43:00 GMT",
-        "category": "us"
+        "title": "World leaders react to 2 week-ceasefire agreement between Iran and US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d82d2963884757a76a1534865b8e4d&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fworld-leaders-react-to-2-week-ceasefire-agreement-between-iran-and-us-ea20a262a2c84bfb9d56f7e3b4f50a33&amp;c=13807583950705679292&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Apr 2026 15:45:00 GMT",
+        "category": "world"
       },
       {
         "title": "As Trump throws lifeline to coal plants, critics warn of higher costs and health risks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d812ef5dcf417a9aaa718edb928f5a&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-climate-coal-revival-9440fa44ad8f0cce0ef50b22e00cad8e&amp;c=11011952055060971359&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d82d3186bd42dbb9fb5ccfc7d9f674&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-climate-coal-revival-9440fa44ad8f0cce0ef50b22e00cad8e&amp;c=11011952055060971359&amp;mkt=en-us",
         "pubDate": "Thu, 09 Apr 2026 08:49:00 GMT",
         "category": "health"
       },
       {
         "title": "Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d812eeb45b49a2a40c3cf20baa535a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fanthropic-security-risk-trump-artificial-intelligence-8478be7d5e275dee43d9814ebb2a69d3&amp;c=3357862497416144435&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d82d3016144ccc916bf034ba98378a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fanthropic-security-risk-trump-artificial-intelligence-8478be7d5e275dee43d9814ebb2a69d3&amp;c=3357862497416144435&amp;mkt=en-us",
         "pubDate": "Wed, 08 Apr 2026 23:37:00 GMT",
         "category": "tech"
       }
     ],
     "npr": [
       {
-        "title": "How did Pakistan bring Iran and the U.S. to the negotiating table?",
-        "link": "https://www.npr.org/2026/04/09/nx-s1-5777753/how-did-pakistan-bring-iran-and-the-u-s-to-the-negotiating-table",
-        "pubDate": "Thu, 09 Apr 2026 16:42:20 -0400",
+        "title": "A fragile ceasefire and emboldened Iran",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5779231/a-fragile-ceasefire-and-emboldened-iran",
+        "pubDate": "Thu, 09 Apr 2026 17:14:03 -0400",
         "category": "world"
+      },
+      {
+        "title": "Melania Trump denies close ties to Jeffrey Epstein in rare public statement",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5779783/melania-trump-jeffrey-epstein",
+        "pubDate": "Thu, 09 Apr 2026 17:05:21 -0400",
+        "category": "us"
       },
       {
         "title": "How an ancient resin traded for centuries got snarled up by the Iran war",
@@ -44,7 +50,7 @@
         "title": "How a cheese sandwich at the Masters is still $1.50 in an era of price hikes",
         "link": "https://www.npr.org/2026/04/09/nx-s1-5779202/masters-concessions-prices-augusta-national",
         "pubDate": "Thu, 09 Apr 2026 14:16:20 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "How bad for humans is wildlife trade? A new study has answers",
@@ -75,19 +81,19 @@
         "link": "https://www.npr.org/2026/04/09/g-s1-116863/up-first-newsletter-iran-us-israel-ceasefire-nato-teen-birth-rates-bill-gates",
         "pubDate": "Thu, 09 Apr 2026 08:02:03 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Israel vows to continue fighting Hezbollah but agrees to talks with Lebanon",
-        "link": "https://www.npr.org/2026/04/09/nx-s1-5779000/iran-war-updates",
-        "pubDate": "Thu, 09 Apr 2026 05:20:19 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Melania Trump says rumours linking her to Epstein 'need to stop'",
+        "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
         "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 20:53:42 GMT",
+        "pubDate": "Thu, 09 Apr 2026 22:27:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Israeli strikes on Lebanon are wrong and should stop, PM says",
+        "link": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 21:49:31 GMT",
         "category": "Top News"
       },
       {
@@ -95,12 +101,6 @@
         "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 09 Apr 2026 20:47:02 GMT",
         "category": "world"
-      },
-      {
-        "title": "Israeli strikes on Lebanon are wrong and should stop, PM says",
-        "link": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 20:45:34 GMT",
-        "category": "Top News"
       },
       {
         "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
@@ -145,32 +145,19 @@
         "category": "us"
       }
     ],
-    "reuters": [
-      {
-        "title": "SiFive raises $400 million from Atreides, Nvidia for data-center chip technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d8131af9214adeb24ae11e278c9d2a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsifive-raises-400-million-atreides-nvidia-data-center-chip-technology-2026-04-09%2f&amp;c=6744316509095730814&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 12:48:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Argentina to face Honduras and Iceland in World Cup warm-ups",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d813050bc14a75a6d2e0b34a406255&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fargentina-face-honduras-iceland-world-cup-warm-ups-2026-04-09%2f&amp;c=1830474602617129518&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 11:01:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "CFO Anthony Armstrong leaves xAI, the Information reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d813184ecd4338a8e7262993a38e9c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fcfo-anthony-armstrong-leaves-xai-information-reports-2026-04-09%2f&amp;c=5613585737144240887&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 11:01:00 GMT",
-        "category": "business"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "DOJ launches probe into NFL over media rights packages and antitrust concerns",
-        "link": "https://www.cnbc.com/2026/04/09/doj-investigating-nfl-media-rights-antitrust.html",
-        "pubDate": "Thu, 09 Apr 2026 17:56:44 GMT",
-        "category": "business"
+        "title": "AI threat&apos;s relentless flogging of software stocks shows no end in sight with Anthropic&apos;s new agent",
+        "link": "https://www.cnbc.com/2026/04/09/anthropic-new-ai-agent-software-stocks-selloff.html",
+        "pubDate": "Thu, 09 Apr 2026 19:30:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Constellation Brands, Datadog, Occidental Petroleum, CoreWeave and more",
+        "link": "https://www.cnbc.com/2026/04/09/stocks-making-the-biggest-moves-premarket-.html",
+        "pubDate": "Thu, 09 Apr 2026 11:58:17 GMT",
+        "category": "Top News"
       }
     ]
   }
