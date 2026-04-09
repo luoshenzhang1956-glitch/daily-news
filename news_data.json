@@ -1,26 +1,37 @@
 {
-  "updated_at": "2026-04-09T07:48:56.201299",
+  "updated_at": "2026-04-09T09:19:21.458852",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "How US communities have responded to plans to convert warehouses into immigration detention centers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7594d635a45ebbf123fa58170e7c7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fimmigration-detention-warehouses-backlash-states-d2f4cfd885f013d51477b5926d4d2c3c&amp;c=8977265590530543401&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 21:13:00 GMT",
-        "category": "us"
+        "title": "Why high oil prices are good for oil companies \u2014 until they aren&apos;t",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5745144/oil-company-profits-high-oil-prices",
+        "pubDate": "Thu, 09 Apr 2026 05:00:00 -0400",
+        "category": "business"
       },
       {
-        "title": "RFK Jr is launching a podcast to expose \u2018lies\u2019 that have made Americans sick",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7596e2cbe4dc9bed326517491a75f&amp;url=https%3a%2f%2fapnews.com%2farticle%2frfk-jr-kennedy-podcast-hhs-secretary-trump-d097d0f51a17618d78d2f2a15a068ba5&amp;c=778416154347062636&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 13:49:00 GMT",
+        "title": "How to make a high-deductible health plan and HSA work for you",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5745203/high-deductible-health-plans-hsa-advice",
+        "pubDate": "Thu, 09 Apr 2026 05:00:00 -0400",
         "category": "health"
-      }
-    ],
-    "npr": [
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5777387/morning-news-brief",
+        "pubDate": "Thu, 09 Apr 2026 04:47:12 -0400",
+        "category": "world"
+      },
+      {
+        "title": "What&apos;s behind Trump&apos;s seemingly lackluster response to Artemis II&apos;s lunar mission",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5777551/whats-behind-trumps-seemingly-lackluster-response-to-artemis-iis-lunar-mission",
+        "pubDate": "Thu, 09 Apr 2026 04:47:00 -0400",
+        "category": "us"
+      },
       {
         "title": "Jim Whittaker, the first American to summit Mount Everest, dies at 97",
         "link": "https://www.npr.org/2026/04/09/g-s1-116847/mountaineer-jim-whittaker-dies",
         "pubDate": "Thu, 09 Apr 2026 01:22:24 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "North Korea says its latest weapons tests included missiles with cluster-bomb warheads",
@@ -32,13 +43,13 @@
         "title": "Guatemalan man pleads guilty in federal court in crash that killed over 50 in Mexico",
         "link": "https://www.npr.org/2026/04/09/g-s1-116845/man-plead-guilty-crash-mexico",
         "pubDate": "Thu, 09 Apr 2026 01:04:52 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Teen birth rates hit another historical low in 2025, CDC says",
         "link": "https://www.npr.org/2026/04/09/nx-s1-5777587/teen-birth-rates-hit-another-historical-low-2025-cdc",
         "pubDate": "Thu, 09 Apr 2026 00:01:00 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Once seen as a war hero, Australian ex-soldier will stand trial for alleged war crimes",
@@ -47,42 +58,36 @@
         "category": "Top News"
       },
       {
-        "title": "Bill Gates will testify in the Epstein probe; Pam Bondi testimony postponed",
-        "link": "https://www.npr.org/2026/04/08/nx-s1-5777585/bill-gates-pam-bondi-epstein-house-oversight",
-        "pubDate": "Wed, 08 Apr 2026 18:15:48 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "What has the U.S. war with Iran accomplished?",
-        "link": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-        "pubDate": "Wed, 08 Apr 2026 16:49:18 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Why OpenAI bought &apos;SportsCenter for Silicon Valley&apos;",
         "link": "https://www.npr.org/2026/04/08/nx-s1-5775734/openai-tbpn-tech-media-silicon-valley",
         "pubDate": "Wed, 08 Apr 2026 15:17:45 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Greetings from downtown Cairo, where unpretentious caf\u00e9s are part of centuries-old charm",
-        "link": "https://www.npr.org/2026/04/08/g-s1-116552/cairo-wust-el-balad-sheesha-cafe",
-        "pubDate": "Wed, 08 Apr 2026 13:58:10 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Democrats keep doing better in elections since Trump returned to office",
-        "link": "https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-wisconsin-georgia-election-shift-overperformance-trump",
-        "pubDate": "Wed, 08 Apr 2026 12:28:29 -0400",
-        "category": "Top News"
+        "category": "tech"
       }
     ],
     "bbc": [
       {
         "title": "Oil prices rise as concerns grow over 'fragile' US-Iran ceasefire",
         "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 07:40:20 GMT",
+        "pubDate": "Thu, 09 Apr 2026 09:16:29 GMT",
         "category": "business"
+      },
+      {
+        "title": "Four people die trying to board boat in Channel crossing attempt",
+        "link": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 09:01:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cooper urges full and toll-free reopening of Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 08:14:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "BBC at the site of Israeli air strikes in Beirut",
+        "link": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 07:45:26 GMT",
+        "category": "Top News"
       },
       {
         "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
@@ -100,24 +105,6 @@
         "title": "22,000 students told to pay back 'mis-sold' maintenance loans",
         "link": "https://www.bbc.com/news/articles/cq593g970z7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 09 Apr 2026 00:01:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Farmers warn of higher food costs due to Iran war",
-        "link": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 23:03:53 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
-        "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 20:26:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Israel says it hit Lebanon 100 times in just 10 minutes",
-        "link": "https://www.bbc.com/news/videos/c75k1p625ngo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 18:37:48 GMT",
         "category": "Top News"
       },
       {
@@ -141,49 +128,66 @@
     ],
     "reuters": [
       {
-        "title": "World Bank says risks to India's projected 6.6% growth in FY27 skewed to downside",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d75981d8674fcf8cf8ade96049d524&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fworld-bank-says-risks-indias-projected-66-growth-fy27-skewed-downside-2026-04-09%2f&amp;c=10633016465699568996&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 22:47:00 GMT",
+        "title": "Trump threatens 50% tariffs on countries supplying Iran with weapons",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-announces-50-tariffs-nations-supplying-iran-with-weapons-2026-04-08%2f&amp;c=50769860150450927&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Apr 2026 01:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Glencore, Taiwan refiner book tankers to load Middle East oil after ceasefire",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fglencore-charters-supertanker-load-oil-middle-east-sources-say-2026-04-09%2f&amp;c=9639998059230891063&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Apr 2026 00:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil gains 4% as fragile ceasefire, Hormuz restrictions keep supply risks elevated",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-crude-futures-rise-after-settling-previous-session-with-biggest-fall-six-2026-04-08%2f&amp;c=15803223302867555203&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Apr 2026 00:20:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Spain condemns Israeli attacks on Lebanon, reopens Tehran embassy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fspain-condemns-israeli-attacks-lebanon-reopens-tehran-embassy-2026-04-09%2f&amp;c=11157144775008547254&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 23:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New Zealand's Wood returns from injury ahead of World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9c99424ea4b05988ff5a650e6e&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnew-zealand-striker-wood-returns-injury-ahead-world-cup-2026-04-09%2f&amp;c=18147171182894796990&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 23:45:00 GMT",
         "category": "world"
       },
       {
-        "title": "As US and Iran talk truce, Israel digs in for a 'forever war'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d75984cd08469f84bf9694d8b4b880&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-iran-talk-truce-israel-digs-forever-war-2026-04-09%2f&amp;c=7428774940910864916&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 21:15:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Kennedy to launch public health podcast ahead of US midterm elections",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d759a63b034fa482de310e7c9cd80c&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fkennedy-launch-public-health-podcast-ahead-us-midterm-elections-2026-04-08%2f&amp;c=16513984745287757914&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 12:13:00 GMT",
-        "category": "health"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Constellation Brands, U.S. maker of Modelo and Corona, withdraws 2028 guidance due to uncertainty",
-        "link": "https://www.cnbc.com/2026/04/08/constellation-brands-stz-q4-2026-earnings.html",
-        "pubDate": "Wed, 08 Apr 2026 22:48:45 GMT",
+        "title": "Seven &amp; i delays listing of North America business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76ea8c98c4b7bbb4825682f0b3331&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fseven-i-delays-listing-north-america-business-2026-04-09%2f&amp;c=1475973300369854029&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 23:31:00 GMT",
         "category": "business"
       },
       {
-        "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
-        "link": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
-        "pubDate": "Wed, 08 Apr 2026 18:26:37 GMT",
+        "title": "Bondi will not appear for House interview on Epstein files, DOJ says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fbondi-will-not-appear-house-interview-epstein-files-doj-says-2026-04-08%2f&amp;c=13608024992528580808&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 22:52:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Ray Dalio: Trump-Xi meeting to focus on trade, capital flows",
-        "link": "https://www.cnbc.com/2026/04/08/ray-dalio-trump-xi-meeting-to-focus-on-trade-capital-flows.html",
-        "pubDate": "Wed, 08 Apr 2026 15:07:38 GMT",
+        "title": "Bessent urges Congress to pass crypto regulation bill",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fbessent-urges-congress-pass-crypto-regulation-bill-2026-04-09%2f&amp;c=15449508494028179315&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 20:47:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Delta Air Lines, Levi Strauss, Exxon Mobil &amp; more",
-        "link": "https://www.cnbc.com/2026/04/08/stocks-making-the-biggest-moves-premarket-dal-levi-xom-more.html",
-        "pubDate": "Wed, 08 Apr 2026 11:42:37 GMT",
+        "title": "Trump's abrupt Iran reversal exposes limits of his leverage",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrumps-abrupt-iran-reversal-exposes-limits-his-leverage-2026-04-08%2f&amp;c=10672311158394092972&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 20:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Police arrest Michigan man after wife's Bahamas disappearance",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d76e9a09044e948a73f271c5763a1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbahamian-police-arrest-michigan-man-after-wifes-disappearance-2026-04-09%2f&amp;c=10060654077296655313&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Apr 2026 19:13:00 GMT",
         "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
