@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-04-09T13:59:30.232762",
+  "updated_at": "2026-04-09T15:47:05.100104",
   "news": {
     "ap": [
       {
-        "title": "Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b05234b5421493d8c4b4963aa9f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fanthropic-security-risk-trump-artificial-intelligence-8478be7d5e275dee43d9814ebb2a69d3&amp;c=3357862497416144435&amp;mkt=en-us",
-        "pubDate": "Wed, 08 Apr 2026 23:37:00 GMT",
+        "title": "Oil prices rise to $100 as stocks slow on doubts about the US-Iran ceasefire",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7c9372a5b47db9225250c8b752329&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-trump-iran-ceasefire-oil-857ae30b3be4441819b2848fd594a33d&amp;c=14730499271753333386&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Apr 2026 08:32:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Kara Swisher examines the science, tech and business of living longer in new CNN docuseries",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7c938b17c454cb64c8e194e1e3ed4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkara-swisher-cnn-1ff67bdeb15db4b6737b89ed69d077d2&amp;c=7633073191419231868&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Apr 2026 07:10:00 GMT",
         "category": "business"
       }
     ],
     "npr": [
       {
+        "title": "In the Trump era, everybody&apos;s talking about &apos;soft power.&apos; But ... what is it exactly?",
+        "link": "https://www.npr.org/2026/04/09/nx-s1-5777584/trump-administration-soft-power",
+        "pubDate": "Thu, 09 Apr 2026 11:21:57 -0400",
+        "category": "world"
+      },
+      {
         "title": "Iran-U.S. ceasefire off to a shaky start. And, Bill Gates to testify in Epstein probe",
         "link": "https://www.npr.org/2026/04/09/g-s1-116863/up-first-newsletter-iran-us-israel-ceasefire-nato-teen-birth-rates-bill-gates",
         "pubDate": "Thu, 09 Apr 2026 08:02:03 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump warns strikes will resume if Iran doesn&apos;t agree to his peace terms",
@@ -59,12 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "Once seen as a war hero, Australian ex-soldier will stand trial for alleged war crimes",
-        "link": "https://www.npr.org/2026/04/08/nx-s1-5776855/once-seen-as-a-war-hero-australian-ex-soldier-will-stand-trial-for-alleged-war-crimes",
-        "pubDate": "Wed, 08 Apr 2026 18:59:22 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Why OpenAI bought &apos;SportsCenter for Silicon Valley&apos;",
         "link": "https://www.npr.org/2026/04/08/nx-s1-5775734/openai-tbpn-tech-media-silicon-valley",
         "pubDate": "Wed, 08 Apr 2026 15:17:45 -0400",
@@ -72,6 +78,12 @@
       }
     ],
     "bbc": [
+      {
+        "title": "UK says Russia ran submarine operation over cables and pipelines",
+        "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 14:49:54 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Four people die trying to board boat in Channel crossing attempt",
         "link": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&amp;at_campaign=rss",
@@ -85,10 +97,16 @@
         "category": "business"
       },
       {
-        "title": "UK says Russia ran submarine operation over cables and pipelines",
-        "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 13:31:14 GMT",
+        "title": "Pub thief jailed for stealing handbag with \u00a32m Faberg\u00e9 egg inside",
+        "link": "https://www.bbc.com/news/articles/cj6098jngryo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 13:27:46 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Incontinence problems leave me 'leaking while competing'",
+        "link": "https://www.bbc.com/news/articles/c1mk3kp8jd1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 13:19:03 GMT",
+        "category": "health"
       },
       {
         "title": "Amazon to end support for older Kindles, prompting user outcry",
@@ -97,116 +115,44 @@
         "category": "tech"
       },
       {
+        "title": "Has US achieved its war objectives in Iran?",
+        "link": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 13:11:03 GMT",
+        "category": "us"
+      },
+      {
         "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
         "link": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 09 Apr 2026 11:46:19 GMT",
         "category": "world"
       },
       {
-        "title": "Hundreds of dogs found crammed in living room 'doing really well', says RSPCA",
-        "link": "https://www.bbc.com/news/articles/c625l7qen3jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 11:42:32 GMT",
+        "title": "Best-selling The Housemaid author Freida McFadden reveals true identity",
+        "link": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Apr 2026 09:35:01 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "BBC at the site of Israeli air strikes in Beirut",
-        "link": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 07:45:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
-        "link": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Apr 2026 05:57:18 GMT",
-        "category": "us"
       },
       {
         "title": "22,000 students told to pay back 'mis-sold' maintenance loans",
         "link": "https://www.bbc.com/news/articles/cq593g970z7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 09 Apr 2026 00:01:40 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "New light shed on who benefits most from weight-loss jabs",
-        "link": "https://www.bbc.com/news/articles/cn5317dkqnxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Apr 2026 15:07:19 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Israeli strikes on Lebanon jeopardise Iran truce; talks planned but Strait still shut",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b07431404cef89c2aa6248ca17d2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-warns-major-war-escalation-if-iran-peace-process-fails-2026-04-09%2f&amp;c=14484755766724158954&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 05:40:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "White House confident Warsh will lead Fed in May",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b07431404cef89c2aa6248ca17d2&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2fwhite-house-confident-warsh-will-lead-fed-may-2026-04-09%2f&amp;c=5913650969378786733&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 05:40:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "NATO's Rutte told allies Trump wants Hormuz commitments within days, diplomats say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b07431404cef89c2aa6248ca17d2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fnatos-rutte-told-allies-trump-wants-hormuz-commitments-within-days-diplomats-say-2026-04-09%2f&amp;c=14685905912659113063&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 05:27:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US fourth-quarter GDP growth revised lower to a 0.5% rate",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b07431404cef89c2aa6248ca17d2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-fourth-quarter-gdp-growth-revised-lower-05-rate-2026-04-09%2f&amp;c=3757394664233625677&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 05:27:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "SiFive raises $400 million from Atreides, Nvidia for data-center chip technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b07594544abfb06db663ca982b54&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsifive-raises-400-million-atreides-nvidia-data-center-chip-technology-2026-04-09%2f&amp;c=6744316509095730814&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7c99aa5c04578a8e8113e76f6308b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsifive-raises-400-million-atreides-nvidia-data-center-chip-technology-2026-04-09%2f&amp;c=6744316509095730814&amp;mkt=en-us",
         "pubDate": "Thu, 09 Apr 2026 05:07:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "US weekly jobless claims rise, but remain at low levels",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b07431404cef89c2aa6248ca17d2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-weekly-jobless-claims-rise-remain-low-levels-2026-04-09%2f&amp;c=9876660964824844203&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 04:52:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US PCE inflation picks up in February; consumer spending solid",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b07431404cef89c2aa6248ca17d2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-pce-inflation-picks-up-february-consumer-spending-solid-2026-04-09%2f&amp;c=15752447831243499559&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 04:52:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Can the US and Iran bridge their differences in talks?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b07431404cef89c2aa6248ca17d2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fwhat-us-iran-israel-pakistan-have-said-about-ceasefire-2026-04-08%2f&amp;c=10341161046760135217&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 04:26:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Senate to vote on resolution to curb Trump's Iran war powers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b07431404cef89c2aa6248ca17d2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-senate-vote-resolution-curb-trumps-iran-war-powers-2026-04-08%2f&amp;c=3979437086194289532&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 02:48:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Arm CEO Haas in line to lead much of parent SoftBank's international business, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d7b074c570459fb94d8b0269628a6f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2farm-chief-haas-line-lead-much-softbanks-international-business-ft-reports-2026-04-09%2f&amp;c=1086437069169086548&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Apr 2026 01:27:00 GMT",
-        "category": "business"
       }
     ],
     "markets": [
       {
         "title": "Amazon CEO Jassy defends $200 billion AI spend: &quot;We&apos;re not going to be conservative&quot;",
         "link": "https://www.cnbc.com/2026/04/09/amazon-ceo-andy-jassy-ai-spending.html",
-        "pubDate": "Thu, 09 Apr 2026 13:57:18 GMT",
+        "pubDate": "Thu, 09 Apr 2026 15:46:06 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
-        "link": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
-        "pubDate": "Wed, 08 Apr 2026 14:40:18 GMT",
-        "category": "health"
       }
     ]
   }
