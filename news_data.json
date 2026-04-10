@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-04-10T16:58:06.610345",
+  "updated_at": "2026-04-10T19:05:27.428091",
   "news": {
     "ap": [
       {
-        "title": "Federal judge extends restraining order on $6.2B merger of local TV giants Nexstar and Tegna",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d92be02d95488684f6752502f464b8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnexstar-tenga-tv-merger-settlement-fcc-lawsuit-72bdd9927bef9d7a0a014eda13d32ff1&amp;c=11117902279099317358&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Apr 2026 09:10:00 GMT",
-        "category": "business"
+        "title": "Vance warns Iran not to \u2018play\u2019 the US as he departs for negotiations aimed at ending the war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d9495bd5c84e3ca553647382a41e0a&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-negotiations-vance-trump-b82625fd24adb2336a5a9615b6953629&amp;c=15197865375746799018&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Apr 2026 11:19:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
+      {
+        "title": "Shortlisted for an Oscar, &apos;Homebound&apos; is a daring movie about two dear friends",
+        "link": "https://www.npr.org/2026/04/10/g-s1-116860/oscar-homebound-india-pandemic-hindu-dalit-muslim",
+        "pubDate": "Fri, 10 Apr 2026 13:22:44 -0400",
+        "category": "health"
+      },
       {
         "title": "Five things to know about Hungary&apos;s election",
         "link": "https://www.npr.org/2026/04/10/nx-s1-5779931/hungary-election-orban-challenger",
@@ -20,7 +26,7 @@
         "title": "&apos;How are you using AI?&apos; Your therapist should ask you that question, experts argue",
         "link": "https://www.npr.org/2026/04/10/nx-s1-5780796/artificial-intelligence-ai-mental-health-chatgpt-jama-psychiatry",
         "pubDate": "Fri, 10 Apr 2026 09:30:11 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Inflation surges to highest level in nearly 2 years as energy costs spike",
@@ -59,12 +65,6 @@
         "category": "us"
       },
       {
-        "title": "Communities are waiting on billions in disaster funding from the Trump administration",
-        "link": "https://www.npr.org/2026/04/10/nx-s1-5770433/delay-funding-fema-hurricanes-disasters-wildfires-floods",
-        "pubDate": "Fri, 10 Apr 2026 05:15:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "How governments have tried to hide information about the Iran war online",
         "link": "https://www.npr.org/2026/04/10/nx-s1-5775780/us-iran-war-israel-satellite-imagery-planet-vantor-censorship",
         "pubDate": "Fri, 10 Apr 2026 05:00:00 -0400",
@@ -73,9 +73,15 @@
     ],
     "bbc": [
       {
+        "title": "Prince Harry sued for defamation by charity Sentebale he co-founded",
+        "link": "https://www.bbc.com/news/articles/cr517n2v7myo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Apr 2026 18:29:16 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "One dead after bus carrying British tourists crashes in Canary Islands, officials say",
         "link": "https://www.bbc.com/news/articles/c75kv5vz66yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Apr 2026 16:25:28 GMT",
+        "pubDate": "Fri, 10 Apr 2026 17:54:45 GMT",
         "category": "Top News"
       },
       {
@@ -83,12 +89,6 @@
         "link": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Apr 2026 16:20:58 GMT",
         "category": "us"
-      },
-      {
-        "title": "Man jailed for killing abused wife who jumped from bridge",
-        "link": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Apr 2026 15:51:36 GMT",
-        "category": "Top News"
       },
       {
         "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
@@ -133,20 +133,25 @@
         "category": "world"
       }
     ],
-    "reuters": [
-      {
-        "title": "US judge extends temporary order halting Nexstar, Tegna merger",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69d92bf88c974abca01d0bc7fecc3dd2&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fus-judge-extends-temporary-order-halting-nexstar-tegna-merger-2026-04-10%2f&amp;c=4941685265026923878&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Apr 2026 08:28:00 GMT",
-        "category": "us"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Michael Burry says he&apos;s still betting against Palantir after Trump post boosts stock",
-        "link": "https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html",
-        "pubDate": "Fri, 10 Apr 2026 16:52:40 GMT",
-        "category": "Top News"
+        "title": "Former Sen. Ben Sasse shines the spotlight on a possible breakthrough for pancreatic cancer",
+        "link": "https://www.cnbc.com/2026/04/10/ben-sasse-shines-spotlight-on-daraxonrasib-for-pancreatic-cancer.html",
+        "pubDate": "Fri, 10 Apr 2026 17:49:43 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Merck shares are forming a bullish chart pattern, and a breakout could be on the horizon",
+        "link": "https://www.cnbc.com/2026/04/10/merck-is-forming-a-bullish-chart-pattern-and-a-breakout-could-be-on-the-horizon.html",
+        "pubDate": "Fri, 10 Apr 2026 17:26:21 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Apple unveils its most affordable laptop ever. What the MacBook Neo means for investors",
+        "link": "https://www.cnbc.com/2026/04/10/apple-unveils-its-most-affordable-laptop-ever-what-the-macbook-neo-means-for-investors.html",
+        "pubDate": "Fri, 10 Apr 2026 16:12:39 GMT",
+        "category": "tech"
       },
       {
         "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
@@ -155,34 +160,10 @@
         "category": "world"
       },
       {
-        "title": "BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds",
-        "link": "https://www.cnbc.com/2026/04/10/blackrock-rips-page-from-hedge-fund-playbook-applies-it-to-etfs.html",
-        "pubDate": "Fri, 10 Apr 2026 15:23:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Lumentum, ServiceNow, Sandisk &amp; more",
-        "link": "https://www.cnbc.com/2026/04/10/stocks-making-the-biggest-moves-premarket-lite-now-sndk-more.html",
-        "pubDate": "Fri, 10 Apr 2026 12:32:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Behind China&apos;s &apos;active efforts&apos; for an Iran ceasefire: Business trumps politics",
-        "link": "https://www.cnbc.com/2026/04/10/china-iran-ceasefire-role-energy-economy-strategy.html",
-        "pubDate": "Fri, 10 Apr 2026 08:51:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Alibaba leads $290 million investment for building a new kind of AI model as LLM limits emerge",
-        "link": "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html",
-        "pubDate": "Fri, 10 Apr 2026 02:00:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "AI threat&apos;s relentless flogging of software stocks shows no end in sight with Anthropic&apos;s new agent",
-        "link": "https://www.cnbc.com/2026/04/09/anthropic-new-ai-agent-software-stocks-selloff.html",
-        "pubDate": "Thu, 09 Apr 2026 19:30:25 GMT",
-        "category": "Top News"
+        "title": "The Masters has become the biggest event of the year for private jet companies",
+        "link": "https://www.cnbc.com/2026/04/10/masters-tournament-golf-luxury-private-jet.html",
+        "pubDate": "Fri, 10 Apr 2026 13:41:47 GMT",
+        "category": "business"
       }
     ]
   }
