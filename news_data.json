@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-04-13T17:14:08.194644",
+  "updated_at": "2026-04-13T19:24:54.959960",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "5 things to know about P\u00e9ter Magyar, Hungary&apos;s new prime minister",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election",
+        "pubDate": "Mon, 13 Apr 2026 13:56:07 -0400",
+        "category": "world"
+      },
       {
         "title": "Judge dismisses Trump&apos;s $10B lawsuit over the Wall Street Journal&apos;s Epstein reporting",
         "link": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch",
@@ -13,7 +19,7 @@
         "title": "Trump says U.S. will blockade Iranian ports. And, Orb\u00e1n loses Hungarian election",
         "link": "https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election",
         "pubDate": "Mon, 13 Apr 2026 07:56:36 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump vows to sink Iranian ships approaching a U.S. blockade of Strait of Hormuz",
@@ -46,29 +52,35 @@
         "category": "health"
       },
       {
-        "title": "The FAA takes a rare step to head off a traffic jam at Chicago&apos;s O&apos;Hare Airport",
-        "link": "https://www.npr.org/2026/04/13/nx-s1-5775899/faa-flight-cuts-chicago-ohare-airport",
-        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "2025 was one of most volatile years ever for U.S. naturalizations",
-        "link": "https://www.npr.org/2026/04/13/g-s1-117050/us-trump-immigration-2025-naturalizations-citizenship-drop",
-        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "How a $75 billion windfall from Congress has insulated ICE",
         "link": "https://www.npr.org/2026/04/13/nx-s1-5771608/immigration-congress-75-billion",
+        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "More than a quarter of private colleges are at risk of closing, a new projection shows",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5777582/many-private-colleges-at-risk-of-closing",
         "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Ex-Nigerian oil minister denies taking bribes",
-        "link": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 16:05:59 GMT",
+        "title": "Oil jumps back above $100 after US-Iran peace talks fail",
+        "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 19:17:57 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Southport killer's parents failed in 'moral duty' to report son, public inquiry finds",
+        "link": "https://www.bbc.com/news/articles/cx2rgyeqv1yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 19:10:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
+        "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 17:32:43 GMT",
         "category": "Top News"
       },
       {
@@ -76,12 +88,6 @@
         "link": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 13 Apr 2026 15:27:43 GMT",
         "category": "us"
-      },
-      {
-        "title": "Oil jumps back above $100 after US-Iran peace talks fail",
-        "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 13:56:20 GMT",
-        "category": "business"
       },
       {
         "title": "Five key failures of killer's parents and agencies ahead of Southport attack",
@@ -99,12 +105,6 @@
         "title": "EasyJet passengers describe EU border 'nightmare' after flight leaves without them",
         "link": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 13 Apr 2026 12:56:34 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pope says he has 'no fear' of Trump after scathing criticism",
-        "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 12:50:30 GMT",
         "category": "Top News"
       },
       {
@@ -128,78 +128,72 @@
     ],
     "reuters": [
       {
-        "title": "EU Commission raids chocolate confectionery company on suspected antitrust breach",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feu-commission-raids-chocolate-confectionery-company-suspected-antitrust-breach-2026-04-13%2f&amp;c=6327964526540977735&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 09:04:00 GMT",
+        "title": "Israel presses assault on Lebanon border town ahead of US-hosted talks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisrael-presses-assault-lebanon-border-town-ahead-us-hosted-talks-2026-04-13%2f&amp;c=653278840885831533&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 11:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US begins blockade of Iran's ports, Tehran threatens retaliation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-blockade-iran-after-talks-fail-yield-a-deal-2026-04-13%2f&amp;c=17669906981847377486&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 11:03:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Iran War Live: Trump warns Iranian ships challenging Hormuz ports blockade will be \u2018eliminated\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-says-us-begin-naval-blockade-irans-ports-strait-hormuz-2026-04-13%2f&amp;c=5237698856647443924&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 08:49:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-says-us-begin-naval-blockade-irans-ports-strait-hormuz-2026-04-13%2f&amp;c=5237698856647443924&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 10:44:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "NATO allies refuse to join Trump's Iranian port blockade",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fnato-allies-refuse-join-trumps-strait-hormuz-blockade-2026-04-13%2f&amp;c=3404426773453406976&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 08:47:00 GMT",
+        "title": "Oil prices jump 4% on US blockade of Iran after peace talks collapse",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-bounces-back-above-100-after-us-iran-talks-end-stalemate-2026-04-12%2f&amp;c=4211586015259647028&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 10:41:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Oil prices jump 6% to above $100 a barrel on US blockade of Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-bounces-back-above-100-after-us-iran-talks-end-stalemate-2026-04-12%2f&amp;c=4211586015259647028&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 08:38:00 GMT",
+        "title": "US government agrees to return rainbow pride flag to New York's Stonewall Monument",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-government-agrees-return-rainbow-pride-flag-new-yorks-stonewall-monument-2026-04-13%2f&amp;c=1814837313390235749&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 10:37:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US existing home sales hit nine-month low in March, rising mortgage rates cloud outlook",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-existing-home-sales-drop-nine-month-low-march-amid-tight-supply-2026-04-13%2f&amp;c=17012985601152023330&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 08:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Deadline passes for US blockade of Iran's ports, Tehran threatens to retaliate",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-blockade-iran-after-talks-fail-yield-a-deal-2026-04-13%2f&amp;c=17669906981847377486&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 08:30:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "McDonald's to add refreshers, crafted sodas to US menus",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmcdonalds-add-energy-drinks-crafted-sodas-menus-wsj-reports-2026-04-13%2f&amp;c=1526879334321537343&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 08:27:00 GMT",
+        "title": "Former Brazil spy chief arrested by ICE in the United States",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fformer-brazil-intelligence-chief-arrested-by-ice-us-brazilian-media-says-2026-04-13%2f&amp;c=101271348252740542&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 09:59:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US judge throws out Trump's defamation case against Wall Street Journal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrumps-lawsuit-against-wall-street-journal-over-epstein-story-dismissed-now-2026-04-13%2f&amp;c=17857953663883292116&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 08:23:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrumps-lawsuit-against-wall-street-journal-over-epstein-story-dismissed-now-2026-04-13%2f&amp;c=17857953663883292116&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 09:23:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump posts AI image of himself as Jesus-like figure, drawing outrage",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ftrump-posts-ai-image-himself-jesus-like-figure-drawing-outrage-2026-04-13%2f&amp;c=3337084655680910401&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 08:09:00 GMT",
+        "title": "Hollywood stars sign open letter opposing Paramount-Warner Bros deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fhollywood-stars-sign-open-letter-opposing-paramount-warner-bros-deal-2026-04-13%2f&amp;c=3921333038528130653&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 09:10:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Meta poised to surpass Google in digital ad revenue for first time, report says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fmeta-poised-surpass-google-digital-ad-revenue-first-time-report-says-2026-04-13%2f&amp;c=15396924363073935027&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 07:51:00 GMT",
+        "title": "Venezuela hopes to lure back international miners, but it's a risky business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fvenezuela-hopes-lure-back-international-miners-its-risky-business-2026-04-13%2f&amp;c=8517849243556253822&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 07:33:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pope says he will continue to speak out against war after Trump attack",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fpope-says-he-will-continue-speak-out-against-war-after-trump-attack-2026-04-13%2f&amp;c=8439286961793112927&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 04:10:00 GMT",
         "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran &apos;attack ships&apos; to stay away",
-        "link": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
-        "pubDate": "Mon, 13 Apr 2026 15:57:21 GMT",
-        "category": "world"
-      },
-      {
-        "title": "These chip stocks on Josh Brown&apos;s list have been home runs, and can continue rising",
-        "link": "https://www.cnbc.com/2026/04/13/these-chip-stocks-on-josh-browns-list-have-been-home-runs-and-can-continue-rising.html",
-        "pubDate": "Mon, 13 Apr 2026 15:23:50 GMT",
-        "category": "us"
+        "title": "Wall Street still loves streaming, but are its affections well placed?",
+        "link": "https://www.cnbc.com/2026/04/13/wall-street-streaming-focus-future.html",
+        "pubDate": "Mon, 13 Apr 2026 19:22:43 GMT",
+        "category": "business"
       }
     ]
   }
