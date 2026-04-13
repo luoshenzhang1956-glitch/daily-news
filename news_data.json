@@ -1,19 +1,68 @@
 {
-  "updated_at": "2026-04-13T03:33:52.616509",
+  "updated_at": "2026-04-13T06:23:05.703003",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Election loss for Hungarian Prime Minister Orb&#225;n has ripple effects for Trump, US conservatives",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc8b35f86a4e30a68437fe8cbcd0c3&amp;url=https%3a%2f%2fapnews.com%2farticle%2forban-hungary-election-trump-republicans-6be613a3ac64c5efdb94b31be4bf18e6&amp;c=2737016303841498673&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Apr 2026 21:14:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "As AI use increases at work, many employees still choose not to use it: Gallup poll",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc8b384189499b857a6b5238ead33b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-workplace-poll-gallup-gemini-chatgpt-e4c129e9773255203ccae208bfccb367&amp;c=12691149135085316133&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Apr 2026 21:09:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Workers at major Colorado meatpacking plan win wage increases in deal with JBS USA",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc8b3bf944430891f1b9cfcbd3c028&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjbs-meatpacking-union-deal-e41f4f8ffbe03c6942c0e863b444beb3&amp;c=13750763254624135417&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Apr 2026 16:45:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Former major league infielder Phil Garner, who managed Astros\u2019 first World Series team, dies at 76",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc8b32f2ec49fb80512417a6a8d2da&amp;url=https%3a%2f%2fapnews.com%2farticle%2fphil-garner-astros-pirates-brewers-4a02705cb28ddf2ce85e0d3504c70d3a&amp;c=13964036785217249702&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Apr 2026 10:31:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "Strikes on alleged drug boats kill 5 in eastern Pacific, U.S. military says",
+        "link": "https://www.npr.org/2026/04/13/g-s1-117217/strikes-alleged-drug-boats-kill-5",
+        "pubDate": "Mon, 13 Apr 2026 01:52:16 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Rory McIlroy wins the Masters for second year in a row",
+        "link": "https://www.npr.org/2026/04/13/g-s1-117215/rory-mcilroy-wins-the-masters",
+        "pubDate": "Mon, 13 Apr 2026 01:44:11 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "A stampede at a Haitian mountaintop fortress kills at least 25 people and injures dozens",
+        "link": "https://www.npr.org/2026/04/13/g-s1-117209/a-stampede-at-a-haitian-mountaintop-fortress-kills-at-least-25-people",
+        "pubDate": "Mon, 13 Apr 2026 01:13:15 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Peru election results delayed after thousands get a one-day voting extension",
+        "link": "https://www.npr.org/2026/04/13/g-s1-117208/peru-election-results-delayed",
+        "pubDate": "Mon, 13 Apr 2026 01:08:42 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump lambasts Pope Leo XIV, extending feud over Iran war with American pontiff",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5783008/trump-pope-leo",
+        "pubDate": "Mon, 13 Apr 2026 00:11:53 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Fighting assault allegations, Eric Swalwell suspends his bid for California governor",
         "link": "https://www.npr.org/2026/04/12/nx-s1-5782055/swalwell-suspends-campaign-assault-allegations-governor-california",
         "pubDate": "Sun, 12 Apr 2026 20:59:10 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "After failed peace talks, President Trump threatens to blockade the Strait of Hormuz",
-        "link": "https://www.npr.org/2026/04/12/nx-s1-5782653/after-failed-peace-talks-president-trump-threatens-to-blockade-the-strait-of-hormuz",
-        "pubDate": "Sun, 12 Apr 2026 17:37:21 -0400",
-        "category": "world"
       },
       {
         "title": "Will Orb\u00e1n&apos;s defeat change Hungary&apos;s relationship to the EU?",
@@ -28,24 +77,6 @@
         "category": "Top News"
       },
       {
-        "title": "The consequences of Hungary&apos;s election, for Viktor Orban and the world",
-        "link": "https://www.npr.org/2026/04/12/nx-s1-5773326/the-consequences-of-hungarys-election-for-viktor-orban-and-the-world",
-        "pubDate": "Sun, 12 Apr 2026 17:37:15 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Hungary&apos;s Viktor Orb\u00e1n concedes defeat, ending 16 years in power",
-        "link": "https://www.npr.org/2026/04/12/nx-s1-5782671/hungary-viktor-orban-concedes-defeat",
-        "pubDate": "Sun, 12 Apr 2026 16:14:18 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A country-by-country glance at Pope Leo XIV&apos;s trip to Africa",
-        "link": "https://www.npr.org/2026/04/12/nx-s1-5782636/a-country-by-country-glance-at-pope-leo-xivs-trip-to-africa",
-        "pubDate": "Sun, 12 Apr 2026 13:16:18 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Drug overdose deaths drop sharply in the U.S. even as new street drugs emerge",
         "link": "https://www.npr.org/2026/04/12/nx-s1-5776933/drug-overdose-deaths-drop-sharply-in-the-u-s-even-as-new-street-drugs-emerge",
         "pubDate": "Sun, 12 Apr 2026 08:46:25 -0400",
@@ -56,20 +87,20 @@
         "link": "https://www.npr.org/2026/04/12/nx-s1-5771782/busting-common-myths-about-head-lice-and-why-theyre-here-to-stay",
         "pubDate": "Sun, 12 Apr 2026 08:09:48 -0400",
         "category": "health"
-      },
-      {
-        "title": "A Hezbollah commander describes battling Israel in Lebanon",
-        "link": "https://www.npr.org/2026/04/12/g-s1-117045/hezbollah-commander-lebanon-israel",
-        "pubDate": "Sun, 12 Apr 2026 06:02:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
         "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
         "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 03:06:49 GMT",
+        "pubDate": "Mon, 13 Apr 2026 05:24:51 GMT",
         "category": "business"
+      },
+      {
+        "title": "UK could adopt EU single market rules under new legislation",
+        "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 04:00:34 GMT",
+        "category": "Top News"
       },
       {
         "title": "Orb\u00e1n era swept away by P\u00e9ter Magyar's Hungary election landslide",
@@ -102,7 +133,7 @@
         "category": "us"
       },
       {
-        "title": "Olivier Awards 2026: Rachel Zegler's heroes, Brian Cranston's nap schedule and more moments from the night",
+        "title": "Olivier Awards 2026: Rachel Zegler's heroes, Bryan Cranston's nap schedule and more moments from the night",
         "link": "https://www.bbc.com/news/articles/c78rjxj19mno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 12 Apr 2026 22:13:28 GMT",
         "category": "Top News"
@@ -114,12 +145,6 @@
         "category": "Top News"
       },
       {
-        "title": "Swinney says Scottish independence referendum could be held in 2028",
-        "link": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Apr 2026 21:07:24 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Streeting denies changing pay deal for resident doctors",
         "link": "https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 12 Apr 2026 13:49:48 GMT",
@@ -128,23 +153,17 @@
     ],
     "reuters": [
       {
-        "title": "McDonald's to add energy drinks, crafted sodas to US menus, WSJ reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc63bf9e0d4ac58726256d46f64da1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmcdonalds-add-energy-drinks-crafted-sodas-menus-wsj-reports-2026-04-13%2f&amp;c=1526879334321537343&amp;mkt=en-us",
-        "pubDate": "Sun, 12 Apr 2026 18:47:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "US to blockade Iran after talks fail to yield a deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc63be32e141d680f023539c479a62&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-blockade-iran-after-talks-fail-yield-a-deal-2026-04-13%2f&amp;c=17669906981847377486&amp;mkt=en-us",
-        "pubDate": "Sun, 12 Apr 2026 18:19:00 GMT",
+        "title": "US to blockade Iran ports after talks fail to yield a deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc8b61951b4a56a278f9ca815b619e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-blockade-iran-after-talks-fail-yield-a-deal-2026-04-13%2f&amp;c=17669906981847377486&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Apr 2026 21:21:00 GMT",
         "category": "us"
       }
     ],
     "markets": [
       {
-        "title": "Trump blasts Pope Leo for criticism of U.S. foreign policy",
-        "link": "https://www.cnbc.com/2026/04/12/trump-pope-leo-catholic-church-iran.html",
-        "pubDate": "Mon, 13 Apr 2026 02:08:52 GMT",
+        "title": "From panic to pricing in: Are markets past &apos;peak fear and sell-off&apos; despite oil price surge?",
+        "link": "https://www.cnbc.com/2026/04/13/markets-trump-strait-of-hormuz-blockade-gold-stocks-dollar.html",
+        "pubDate": "Mon, 13 Apr 2026 05:25:02 GMT",
         "category": "world"
       },
       {
