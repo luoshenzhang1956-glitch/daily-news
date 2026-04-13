@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-04-13T19:24:54.959960",
+  "updated_at": "2026-04-13T21:04:11.830751",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Sexual misconduct on Capitol Hill: The problem that won&apos;t go away",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5783823/sexual-misconduct-on-capitol-hill-the-problem-that-wont-go-away",
+        "pubDate": "Mon, 13 Apr 2026 16:49:31 -0400",
+        "category": "us"
+      },
       {
         "title": "5 things to know about P\u00e9ter Magyar, Hungary&apos;s new prime minister",
         "link": "https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election",
@@ -13,7 +19,7 @@
         "title": "Judge dismisses Trump&apos;s $10B lawsuit over the Wall Street Journal&apos;s Epstein reporting",
         "link": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch",
         "pubDate": "Mon, 13 Apr 2026 11:55:09 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Trump says U.S. will blockade Iranian ports. And, Orb\u00e1n loses Hungarian election",
@@ -52,30 +58,24 @@
         "category": "health"
       },
       {
-        "title": "How a $75 billion windfall from Congress has insulated ICE",
-        "link": "https://www.npr.org/2026/04/13/nx-s1-5771608/immigration-congress-75-billion",
-        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "More than a quarter of private colleges are at risk of closing, a new projection shows",
-        "link": "https://www.npr.org/2026/04/13/nx-s1-5777582/many-private-colleges-at-risk-of-closing",
+        "title": "2025 was one of most volatile years ever for U.S. naturalizations",
+        "link": "https://www.npr.org/2026/04/13/g-s1-117050/us-trump-immigration-2025-naturalizations-citizenship-drop",
         "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Southport killer's parents failed in 'moral duty' to report son, public inquiry finds",
+        "link": "https://www.bbc.com/news/articles/cx2rgyeqv1yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 19:26:15 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Oil jumps back above $100 after US-Iran peace talks fail",
         "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 13 Apr 2026 19:17:57 GMT",
         "category": "business"
-      },
-      {
-        "title": "Southport killer's parents failed in 'moral duty' to report son, public inquiry finds",
-        "link": "https://www.bbc.com/news/articles/cx2rgyeqv1yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 19:10:53 GMT",
-        "category": "Top News"
       },
       {
         "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
@@ -128,72 +128,24 @@
     ],
     "reuters": [
       {
-        "title": "Israel presses assault on Lebanon border town ahead of US-hosted talks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisrael-presses-assault-lebanon-border-town-ahead-us-hosted-talks-2026-04-13%2f&amp;c=653278840885831533&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 11:04:00 GMT",
-        "category": "Top News"
+        "title": "TSX rises to near six-week high, led by financial and technology shares",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd59f956344f749622698abc4e9d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftsx-futures-slip-us-iran-talks-collapse-2026-04-13%2f&amp;c=5091346827380662801&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 12:38:00 GMT",
+        "category": "tech"
       },
       {
-        "title": "US begins blockade of Iran's ports, Tehran threatens retaliation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-blockade-iran-after-talks-fail-yield-a-deal-2026-04-13%2f&amp;c=17669906981847377486&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 11:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran War Live: Trump warns Iranian ships challenging Hormuz ports blockade will be \u2018eliminated\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-says-us-begin-naval-blockade-irans-ports-strait-hormuz-2026-04-13%2f&amp;c=5237698856647443924&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 10:44:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Oil prices jump 4% on US blockade of Iran after peace talks collapse",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-bounces-back-above-100-after-us-iran-talks-end-stalemate-2026-04-12%2f&amp;c=4211586015259647028&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 10:41:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US government agrees to return rainbow pride flag to New York's Stonewall Monument",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-government-agrees-return-rainbow-pride-flag-new-yorks-stonewall-monument-2026-04-13%2f&amp;c=1814837313390235749&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 10:37:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Former Brazil spy chief arrested by ICE in the United States",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fformer-brazil-intelligence-chief-arrested-by-ice-us-brazilian-media-says-2026-04-13%2f&amp;c=101271348252740542&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 09:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US judge throws out Trump's defamation case against Wall Street Journal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrumps-lawsuit-against-wall-street-journal-over-epstein-story-dismissed-now-2026-04-13%2f&amp;c=17857953663883292116&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 09:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hollywood stars sign open letter opposing Paramount-Warner Bros deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fhollywood-stars-sign-open-letter-opposing-paramount-warner-bros-deal-2026-04-13%2f&amp;c=3921333038528130653&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 09:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Venezuela hopes to lure back international miners, but it's a risky business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fvenezuela-hopes-lure-back-international-miners-its-risky-business-2026-04-13%2f&amp;c=8517849243556253822&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 07:33:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pope says he will continue to speak out against war after Trump attack",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd426d16b042909e66b7132f373387&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fpope-says-he-will-continue-speak-out-against-war-after-trump-attack-2026-04-13%2f&amp;c=8439286961793112927&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 04:10:00 GMT",
-        "category": "Top News"
+        "title": "Exclusive: Manulife Investment Management eyes Cellnex Swiss business, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd59f888e1410e9bb48412b6a648b7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fmanulife-investment-management-eyes-cellnex-swiss-business-sources-say-2026-04-13%2f&amp;c=12053293885480700585&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 10:53:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "Wall Street still loves streaming, but are its affections well placed?",
-        "link": "https://www.cnbc.com/2026/04/13/wall-street-streaming-focus-future.html",
-        "pubDate": "Mon, 13 Apr 2026 19:22:43 GMT",
-        "category": "business"
+        "title": "Revolution Medicines says its potential breakthrough pancreatic cancer drug succeeds in late-stage trial",
+        "link": "https://www.cnbc.com/2026/04/13/pancreatic-cancer-drug-daraxonrasib-from-revolution-medicines-succeeds-in-trial.html",
+        "pubDate": "Mon, 13 Apr 2026 16:38:53 GMT",
+        "category": "health"
       }
     ]
   }
