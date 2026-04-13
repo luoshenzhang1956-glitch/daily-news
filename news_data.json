@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-04-13T15:23:51.501571",
+  "updated_at": "2026-04-13T17:14:08.194644",
   "news": {
-    "ap": [
-      {
-        "title": "Live updates: US military set to begin its blockade of Iranian ports and coastal areas",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd09b0ff7a40ae850f15a675204b97&amp;url=https%3a%2f%2fapnews.com%2flive%2firan-war-israel-trump-04-13-2026&amp;c=13101007968464048740&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 06:40:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Judge dismisses Trump&apos;s $10B lawsuit over the Wall Street Journal&apos;s Epstein reporting",
+        "link": "https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch",
+        "pubDate": "Mon, 13 Apr 2026 11:55:09 -0400",
+        "category": "us"
+      },
       {
         "title": "Trump says U.S. will blockade Iranian ports. And, Orb\u00e1n loses Hungarian election",
         "link": "https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election",
@@ -17,10 +16,10 @@
         "category": "world"
       },
       {
-        "title": "The U.S. military is about to block ships from Iran&apos;s ports after talks failed",
+        "title": "Trump vows to sink Iranian ships approaching a U.S. blockade of Strait of Hormuz",
         "link": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
         "pubDate": "Mon, 13 Apr 2026 07:03:13 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Retired U.S. Navy admiral on Trump&apos;s threat to blockade the Strait of Hormuz",
@@ -29,8 +28,8 @@
         "category": "Top News"
       },
       {
-        "title": "Pope Leo stands firm with Trump as Vatican\u2013Washington rift deepens over Iran war",
-        "link": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-as-row-with-trump-over-iran-war-intensifies",
+        "title": "Pope Leo brushes off Trump criticism amid growing Vatican\u2013U.S. tensions over Iran war",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-row-with-trump-iran-war",
         "pubDate": "Mon, 13 Apr 2026 06:43:31 -0400",
         "category": "Top News"
       },
@@ -63,20 +62,20 @@
         "link": "https://www.npr.org/2026/04/13/nx-s1-5771608/immigration-congress-75-billion",
         "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "More than a quarter of private colleges are at risk of closing, a new projection shows",
-        "link": "https://www.npr.org/2026/04/13/nx-s1-5777582/many-private-colleges-at-risk-of-closing",
-        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "US judge dismisses $10bn Trump defamation suit against Wall Street Journal",
-        "link": "https://www.bbc.com/news/articles/c995j57xepmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 14:30:27 GMT",
+        "title": "Ex-Nigerian oil minister denies taking bribes",
+        "link": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 16:05:59 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "The US blockade of Iran is a gamble. Will it work?",
+        "link": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 15:27:43 GMT",
+        "category": "us"
       },
       {
         "title": "Oil jumps back above $100 after US-Iran peace talks fail",
@@ -97,9 +96,15 @@
         "category": "health"
       },
       {
-        "title": "EasyJet passengers describe EU border 'nightmare'",
+        "title": "EasyJet passengers describe EU border 'nightmare' after flight leaves without them",
         "link": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 13 Apr 2026 12:56:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pope says he has 'no fear' of Trump after scathing criticism",
+        "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 12:50:30 GMT",
         "category": "Top News"
       },
       {
@@ -119,33 +124,82 @@
         "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 13 Apr 2026 11:03:12 GMT",
         "category": "world"
-      },
-      {
-        "title": "Where does McIlroy rank among golf's greats after Masters defence?",
-        "link": "https://www.bbc.com/sport/golf/articles/cz78ge3g77qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 04:16:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
-        "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Apr 2026 22:57:22 GMT",
-        "category": "us"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Goldman Sachs tops estimates on record equities trading \u2014 here&apos;s why the stock is falling",
-        "link": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html",
-        "pubDate": "Mon, 13 Apr 2026 15:20:53 GMT",
+        "title": "EU Commission raids chocolate confectionery company on suspected antitrust breach",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feu-commission-raids-chocolate-confectionery-company-suspected-antitrust-breach-2026-04-13%2f&amp;c=6327964526540977735&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 09:04:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Goldman Sachs, Revolution Medicines, Fastenal &amp; more",
-        "link": "https://www.cnbc.com/2026/04/13/stocks-making-the-biggest-moves-premarket-bby-wsm-fast-more.html",
-        "pubDate": "Mon, 13 Apr 2026 12:28:26 GMT",
+        "title": "Iran War Live: Trump warns Iranian ships challenging Hormuz ports blockade will be \u2018eliminated\u2019",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-says-us-begin-naval-blockade-irans-ports-strait-hormuz-2026-04-13%2f&amp;c=5237698856647443924&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 08:49:00 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "NATO allies refuse to join Trump's Iranian port blockade",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fnato-allies-refuse-join-trumps-strait-hormuz-blockade-2026-04-13%2f&amp;c=3404426773453406976&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 08:47:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil prices jump 6% to above $100 a barrel on US blockade of Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-bounces-back-above-100-after-us-iran-talks-end-stalemate-2026-04-12%2f&amp;c=4211586015259647028&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 08:38:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US existing home sales hit nine-month low in March, rising mortgage rates cloud outlook",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-existing-home-sales-drop-nine-month-low-march-amid-tight-supply-2026-04-13%2f&amp;c=17012985601152023330&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 08:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Deadline passes for US blockade of Iran's ports, Tehran threatens to retaliate",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-blockade-iran-after-talks-fail-yield-a-deal-2026-04-13%2f&amp;c=17669906981847377486&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 08:30:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "McDonald's to add refreshers, crafted sodas to US menus",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmcdonalds-add-energy-drinks-crafted-sodas-menus-wsj-reports-2026-04-13%2f&amp;c=1526879334321537343&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 08:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US judge throws out Trump's defamation case against Wall Street Journal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrumps-lawsuit-against-wall-street-journal-over-epstein-story-dismissed-now-2026-04-13%2f&amp;c=17857953663883292116&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 08:23:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump posts AI image of himself as Jesus-like figure, drawing outrage",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ftrump-posts-ai-image-himself-jesus-like-figure-drawing-outrage-2026-04-13%2f&amp;c=3337084655680910401&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 08:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Meta poised to surpass Google in digital ad revenue for first time, report says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd23e14a4847c3aad583f2f6e7c57c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fmeta-poised-surpass-google-digital-ad-revenue-first-time-report-says-2026-04-13%2f&amp;c=15396924363073935027&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 07:51:00 GMT",
+        "category": "Top News"
+      }
+    ],
+    "markets": [
+      {
+        "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran &apos;attack ships&apos; to stay away",
+        "link": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
+        "pubDate": "Mon, 13 Apr 2026 15:57:21 GMT",
+        "category": "world"
+      },
+      {
+        "title": "These chip stocks on Josh Brown&apos;s list have been home runs, and can continue rising",
+        "link": "https://www.cnbc.com/2026/04/13/these-chip-stocks-on-josh-browns-list-have-been-home-runs-and-can-continue-rising.html",
+        "pubDate": "Mon, 13 Apr 2026 15:23:50 GMT",
+        "category": "us"
       }
     ]
   }
