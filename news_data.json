@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-04-13T21:04:11.830751",
+  "updated_at": "2026-04-13T22:53:32.513980",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "How a US blockade near the Strait of Hormuz could work and the impact ahead for the global economy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd736806e84915a72e9a8b155db59f&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-strait-of-hormuz-blockade-trump-bf6a057faebfc11eb0c76510a4fc20b1&amp;c=7181120165323740992&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 14:36:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Patriots exec says \u2018Business as usual\u2019 for Mike Vrabel ahead of the NFL draft",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd7369a58f44ce94354f5f66e97fdb&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmike-vrabel-patriots-nfl-draft-f138394b643c1595dbf8855065e557a1&amp;c=15659123356703147968&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 14:03:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Ghana turns to veteran Carlos Queiroz as coach just weeks out from World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd736625c749cd8026dd591c386d67&amp;url=https%3a%2f%2fapnews.com%2farticle%2fghana-coach-queiroz-291343e35ecc5c4c423f8637a118c804&amp;c=14885585796800500797&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 13:51:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "After years of speculation, a reporter claims to have uncovered the founder of Bitcoin",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5778501/after-years-of-speculation-a-reporter-claims-to-have-uncovered-the-founder-of-bitcoin",
+        "pubDate": "Mon, 13 Apr 2026 18:06:32 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Eric Swalwell will resign from Congress as he faces backlash over assault allegations",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5784030/eric-swalwell-resigns-from-congress",
+        "pubDate": "Mon, 13 Apr 2026 17:49:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Sexual misconduct on Capitol Hill: The problem that won&apos;t go away",
         "link": "https://www.npr.org/2026/04/13/nx-s1-5783823/sexual-misconduct-on-capitol-hill-the-problem-that-wont-go-away",
@@ -13,7 +44,7 @@
         "title": "5 things to know about P\u00e9ter Magyar, Hungary&apos;s new prime minister",
         "link": "https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election",
         "pubDate": "Mon, 13 Apr 2026 13:56:07 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Judge dismisses Trump&apos;s $10B lawsuit over the Wall Street Journal&apos;s Epstein reporting",
@@ -46,25 +77,19 @@
         "category": "Top News"
       },
       {
-        "title": "What a chimpanzee &apos;civil war&apos; can teach us about how societies fall apart",
-        "link": "https://www.npr.org/2026/04/13/nx-s1-5781149/chimpanzee-civil-war-primate-conflict-anthropology",
-        "pubDate": "Mon, 13 Apr 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Can red light therapy really deliver a beauty and health glow-up? Here&apos;s the science",
         "link": "https://www.npr.org/2026/04/13/nx-s1-5759287/red-light-therapy-science-skin-hair",
         "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
         "category": "health"
-      },
-      {
-        "title": "2025 was one of most volatile years ever for U.S. naturalizations",
-        "link": "https://www.npr.org/2026/04/13/g-s1-117050/us-trump-immigration-2025-naturalizations-citizenship-drop",
-        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+        "link": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 21:28:14 GMT",
+        "category": "world"
+      },
       {
         "title": "Southport killer's parents failed in 'moral duty' to report son, public inquiry finds",
         "link": "https://www.bbc.com/news/articles/cx2rgyeqv1yo?at_medium=RSS&amp;at_campaign=rss",
@@ -78,9 +103,9 @@
         "category": "business"
       },
       {
-        "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
-        "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 17:32:43 GMT",
+        "title": "Ex-Nigerian oil minister denies taking bribes",
+        "link": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 16:05:59 GMT",
         "category": "Top News"
       },
       {
@@ -118,34 +143,70 @@
         "link": "https://www.bbc.com/news/articles/c0rxj4yygdwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 13 Apr 2026 12:13:42 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Orb\u00e1n era swept away by P\u00e9ter Magyar's Hungary election landslide",
-        "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 11:03:12 GMT",
-        "category": "world"
       }
     ],
     "reuters": [
       {
-        "title": "TSX rises to near six-week high, led by financial and technology shares",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd59f956344f749622698abc4e9d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftsx-futures-slip-us-iran-talks-collapse-2026-04-13%2f&amp;c=5091346827380662801&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 12:38:00 GMT",
-        "category": "tech"
+        "title": "Millions of Rockstar Games business records stolen, hacking group says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd73a3e8de4ef9b7a1b272f0a9cbfc&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fmillions-rockstar-games-business-records-stolen-hacking-group-says-2026-04-13%2f&amp;c=5237210214417804510&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 14:14:00 GMT",
+        "category": "business"
       },
       {
-        "title": "Exclusive: Manulife Investment Management eyes Cellnex Swiss business, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd59f888e1410e9bb48412b6a648b7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fmanulife-investment-management-eyes-cellnex-swiss-business-sources-say-2026-04-13%2f&amp;c=12053293885480700585&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 10:53:00 GMT",
-        "category": "business"
+        "title": "IMF, World Bank, IEA urge countries to stop hoarding energy supplies, imposing export controls",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd739d57ab4cb9ad442f9a496d516b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fimf-world-bank-iea-urge-countries-stop-hoarding-energy-supplies-imposing-export-2026-04-13%2f&amp;c=10929097283547554315&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 13:29:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US fires more immigration judges, including two who blocked deporting pro-Palestinian students",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd73a0b5f048f1945ea3366146c986&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-fires-more-immigration-judges-including-two-who-blocked-deporting-pro-2026-04-13%2f&amp;c=145855678381890574&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Texas attorney general probes Lululemon over potential 'forever chemicals' in its activewear",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dd73b5d7fe406781be780bd0fcaae5&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2ftexas-attorney-general-probes-lululemon-over-potential-forever-chemicals-its-2026-04-13%2f&amp;c=9033345874538551674&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 10:33:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Revolution Medicines says its potential breakthrough pancreatic cancer drug succeeds in late-stage trial",
-        "link": "https://www.cnbc.com/2026/04/13/pancreatic-cancer-drug-daraxonrasib-from-revolution-medicines-succeeds-in-trial.html",
-        "pubDate": "Mon, 13 Apr 2026 16:38:53 GMT",
-        "category": "health"
+        "title": "Oracle expands Bloom Energy deal days after receiving $400 million stock warrant",
+        "link": "https://www.cnbc.com/2026/04/13/oracle-expands-bloom-energy-deal-days-after-400-million-stock-warrant.html",
+        "pubDate": "Mon, 13 Apr 2026 22:32:50 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Goldman Sachs tops estimates on record equities trading",
+        "link": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html",
+        "pubDate": "Mon, 13 Apr 2026 21:21:59 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How bond market&apos;s private credit crisis fears are playing out in fixed-income ETFs",
+        "link": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
+        "pubDate": "Mon, 13 Apr 2026 21:02:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Investor Joe Terranova says one public stock is a back door way to play the booming fortunes of private Anthropic",
+        "link": "https://www.cnbc.com/2026/04/13/one-public-stock-is-back-door-way-to-play-boom-in-private-anthropic.html",
+        "pubDate": "Mon, 13 Apr 2026 19:35:20 GMT",
+        "category": "us"
+      },
+      {
+        "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran &apos;attack ships&apos; to stay away",
+        "link": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
+        "pubDate": "Mon, 13 Apr 2026 18:52:28 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Goldman Sachs, Revolution Medicines, Fastenal &amp; more",
+        "link": "https://www.cnbc.com/2026/04/13/stocks-making-the-biggest-moves-premarket-bby-wsm-fast-more.html",
+        "pubDate": "Mon, 13 Apr 2026 12:28:26 GMT",
+        "category": "Top News"
       }
     ]
   }
