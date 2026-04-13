@@ -1,38 +1,56 @@
 {
-  "updated_at": "2026-04-13T06:23:05.703003",
+  "updated_at": "2026-04-13T10:03:43.227161",
   "news": {
     "ap": [
       {
-        "title": "Election loss for Hungarian Prime Minister Orb&#225;n has ripple effects for Trump, US conservatives",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc8b35f86a4e30a68437fe8cbcd0c3&amp;url=https%3a%2f%2fapnews.com%2farticle%2forban-hungary-election-trump-republicans-6be613a3ac64c5efdb94b31be4bf18e6&amp;c=2737016303841498673&amp;mkt=en-us",
-        "pubDate": "Sun, 12 Apr 2026 21:14:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "As AI use increases at work, many employees still choose not to use it: Gallup poll",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc8b384189499b857a6b5238ead33b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-workplace-poll-gallup-gemini-chatgpt-e4c129e9773255203ccae208bfccb367&amp;c=12691149135085316133&amp;mkt=en-us",
-        "pubDate": "Sun, 12 Apr 2026 21:09:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Workers at major Colorado meatpacking plan win wage increases in deal with JBS USA",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc8b3bf944430891f1b9cfcbd3c028&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjbs-meatpacking-union-deal-e41f4f8ffbe03c6942c0e863b444beb3&amp;c=13750763254624135417&amp;mkt=en-us",
-        "pubDate": "Sun, 12 Apr 2026 16:45:00 GMT",
-        "category": "health"
-      },
-      {
         "title": "Former major league infielder Phil Garner, who managed Astros\u2019 first World Series team, dies at 76",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc8b32f2ec49fb80512417a6a8d2da&amp;url=https%3a%2f%2fapnews.com%2farticle%2fphil-garner-astros-pirates-brewers-4a02705cb28ddf2ce85e0d3504c70d3a&amp;c=13964036785217249702&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbecf1c034e178a26da914b7ed5be&amp;url=https%3a%2f%2fapnews.com%2farticle%2fphil-garner-astros-pirates-brewers-4a02705cb28ddf2ce85e0d3504c70d3a&amp;c=13964036785217249702&amp;mkt=en-us",
         "pubDate": "Sun, 12 Apr 2026 10:31:00 GMT",
         "category": "world"
       }
     ],
     "npr": [
       {
+        "title": "More than a quarter of private colleges are at risk of closing, a new projection shows",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5777582/many-private-colleges-at-risk-of-closing",
+        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Can red light therapy really deliver a beauty and health glow up? Here&apos;s the science",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5759287/red-light-therapy-science-skin-hair",
+        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "How a $75 billion windfall from Congress has insulated ICE",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5771608/immigration-congress-75-billion",
+        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "2025 was one of most volatile years ever for U.S. naturalizations",
+        "link": "https://www.npr.org/2026/04/13/g-s1-117050/us-trump-immigration-2025-naturalizations-citizenship-drop",
+        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The FAA takes a rare step to head off a traffic jam at Chicago&apos;s O&apos;Hare Airport",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5775899/faa-flight-cuts-chicago-ohare-airport",
+        "pubDate": "Mon, 13 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/04/13/nx-s1-5780733/morning-news-brief",
+        "pubDate": "Mon, 13 Apr 2026 04:46:04 -0400",
+        "category": "world"
+      },
+      {
         "title": "Strikes on alleged drug boats kill 5 in eastern Pacific, U.S. military says",
         "link": "https://www.npr.org/2026/04/13/g-s1-117217/strikes-alleged-drug-boats-kill-5",
         "pubDate": "Mon, 13 Apr 2026 01:52:16 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Rory McIlroy wins the Masters for second year in a row",
@@ -51,74 +69,50 @@
         "link": "https://www.npr.org/2026/04/13/g-s1-117208/peru-election-results-delayed",
         "pubDate": "Mon, 13 Apr 2026 01:08:42 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Trump lambasts Pope Leo XIV, extending feud over Iran war with American pontiff",
-        "link": "https://www.npr.org/2026/04/13/nx-s1-5783008/trump-pope-leo",
-        "pubDate": "Mon, 13 Apr 2026 00:11:53 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Fighting assault allegations, Eric Swalwell suspends his bid for California governor",
-        "link": "https://www.npr.org/2026/04/12/nx-s1-5782055/swalwell-suspends-campaign-assault-allegations-governor-california",
-        "pubDate": "Sun, 12 Apr 2026 20:59:10 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Will Orb\u00e1n&apos;s defeat change Hungary&apos;s relationship to the EU?",
-        "link": "https://www.npr.org/2026/04/12/nx-s1-5773328/will-orbans-defeat-change-hungarys-relationship-to-the-eu",
-        "pubDate": "Sun, 12 Apr 2026 17:37:17 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Viktor Orb\u00e1n concedes defeat in historic Hungary election",
-        "link": "https://www.npr.org/2026/04/12/nx-s1-5773324/viktor-orban-concedes-defeat-in-historic-hungary-election",
-        "pubDate": "Sun, 12 Apr 2026 17:37:16 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Drug overdose deaths drop sharply in the U.S. even as new street drugs emerge",
-        "link": "https://www.npr.org/2026/04/12/nx-s1-5776933/drug-overdose-deaths-drop-sharply-in-the-u-s-even-as-new-street-drugs-emerge",
-        "pubDate": "Sun, 12 Apr 2026 08:46:25 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Busting common myths about head lice \u2014 and why they&apos;re here to stay",
-        "link": "https://www.npr.org/2026/04/12/nx-s1-5771782/busting-common-myths-about-head-lice-and-why-theyre-here-to-stay",
-        "pubDate": "Sun, 12 Apr 2026 08:09:48 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
+        "title": "Pope says he will 'speak out loudly' against war after Trump criticism",
+        "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 09:50:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Streeting denies changing pay deal for resident doctors",
+        "link": "https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 09:46:28 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Oil jumps back above $100 after US-Iran peace talks fail",
         "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 05:24:51 GMT",
+        "pubDate": "Mon, 13 Apr 2026 09:00:54 GMT",
         "category": "business"
+      },
+      {
+        "title": "Deep-fried food and daily sausage rolls banned in new school dinner plans",
+        "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 08:36:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Katya Adler: Celebration in Budapest, relief in Brussels but a blow for Moscow",
+        "link": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Apr 2026 08:28:35 GMT",
+        "category": "Top News"
       },
       {
         "title": "UK could adopt EU single market rules under new legislation",
         "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 04:00:34 GMT",
+        "pubDate": "Mon, 13 Apr 2026 06:51:45 GMT",
         "category": "Top News"
       },
       {
         "title": "Orb\u00e1n era swept away by P\u00e9ter Magyar's Hungary election landslide",
         "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 02:52:39 GMT",
+        "pubDate": "Mon, 13 Apr 2026 06:25:29 GMT",
         "category": "world"
-      },
-      {
-        "title": "Viktor Orb\u00e1n's Hungarian experiment runs out of steam",
-        "link": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 01:58:32 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "McIlroy defends Masters title, underlining why he is one of the game's greats",
-        "link": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Apr 2026 23:16:50 GMT",
-        "category": "Top News"
       },
       {
         "title": "The surprising reality of how teenage girls still define themselves",
@@ -127,51 +121,80 @@
         "category": "Top News"
       },
       {
-        "title": "Iran talks were a major test for JD Vance. How did he do?",
-        "link": "https://www.bbc.com/news/articles/c5y7k4y0veyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Apr 2026 22:22:42 GMT",
+        "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+        "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 12 Apr 2026 22:57:22 GMT",
         "category": "us"
       },
       {
-        "title": "Olivier Awards 2026: Rachel Zegler's heroes, Bryan Cranston's nap schedule and more moments from the night",
+        "title": "Rachel Zegler's heroes, prizes for Paddington and more moments from the Olivier Awards",
         "link": "https://www.bbc.com/news/articles/c78rjxj19mno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 12 Apr 2026 22:13:28 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Deep-fried food banned in new plans for school dinners",
-        "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Apr 2026 21:55:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Streeting denies changing pay deal for resident doctors",
-        "link": "https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Apr 2026 13:49:48 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "US to blockade Iran ports after talks fail to yield a deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dc8b61951b4a56a278f9ca815b619e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-blockade-iran-after-talks-fail-yield-a-deal-2026-04-13%2f&amp;c=17669906981847377486&amp;mkt=en-us",
-        "pubDate": "Sun, 12 Apr 2026 21:21:00 GMT",
-        "category": "us"
-      }
-    ],
-    "markets": [
-      {
-        "title": "From panic to pricing in: Are markets past &apos;peak fear and sell-off&apos; despite oil price surge?",
-        "link": "https://www.cnbc.com/2026/04/13/markets-trump-strait-of-hormuz-blockade-gold-stocks-dollar.html",
-        "pubDate": "Mon, 13 Apr 2026 05:25:02 GMT",
-        "category": "world"
+        "title": "India's HPCL issues rare tender seeking tanker to load Russian LPG, document shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbf10ac20456d8ce0b6aef1550dac&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2findias-hpcl-issues-rare-tender-seeking-tanker-load-russian-lpg-document-shows-2026-04-13%2f&amp;c=14987002765842953124&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 01:39:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Top Wall Street analysts prefer these dividend stocks for steady income",
-        "link": "https://www.cnbc.com/2026/04/12/top-street-analysts-prefer-these-dividend-stocks-for-steady-income-.html",
-        "pubDate": "Sun, 12 Apr 2026 11:18:07 GMT",
+        "title": "Polish PM hopes Hungary opposition victory ends asylum for ex-ministers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbf10ac20456d8ce0b6aef1550dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fpolish-pm-hopes-hungary-opposition-victory-ends-asylum-ex-ministers-2026-04-13%2f&amp;c=16807789499910881059&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 01:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "India's SP Group seeks to extend unit's debt maturity as refinancing delayed, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbf10ac20456d8ce0b6aef1550dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findias-sp-group-seeks-extend-units-debt-maturity-refinancing-delayed-sources-say-2026-04-13%2f&amp;c=13929722182682729571&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 01:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil rises over 7% to above $100 ahead of US blockade on Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbf21853642fd9417f7592c0e6c45&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-bounces-back-above-100-after-us-iran-talks-end-stalemate-2026-04-12%2f&amp;c=4211586015259647028&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 01:24:00 GMT",
         "category": "us"
+      },
+      {
+        "title": "China urges restraint over US blockade of Strait of Hormuz, backs talks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbf10ac20456d8ce0b6aef1550dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-urges-restraint-over-us-blockade-strait-hormuz-backs-talks-2026-04-13%2f&amp;c=1627102773903474082&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 01:14:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pope says he will continue to speak out against war after Trump attack",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbf10ac20456d8ce0b6aef1550dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fpope-says-he-will-continue-speak-out-against-war-after-trump-attack-2026-04-13%2f&amp;c=8439286961793112927&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 01:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Volkswagen posts weak start to year as China, US demand slumps further",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbf10ac20456d8ce0b6aef1550dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fvolkswagen-deliveries-down-start-year-weighed-by-china-woes-2026-04-13%2f&amp;c=8401024104788024490&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 01:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil leaps, dollar firm and stocks wobble as US-Iran peace talks collapse",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbf10ac20456d8ce0b6aef1550dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-wrapup-1-2026-04-12%2f&amp;c=14528387631786865118&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 00:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US to blockade Iran ports after talks fail to yield a deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbf10ac20456d8ce0b6aef1550dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-blockade-iran-after-talks-fail-yield-a-deal-2026-04-13%2f&amp;c=17669906981847377486&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Apr 2026 23:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Baker Hughes sells Waygate unit to Hexagon for about $1.45 billion",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dcbf10ac20456d8ce0b6aef1550dac&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fbaker-hughes-sells-waygate-unit-hexagon-about-145-billion-2026-04-13%2f&amp;c=12858874359026577875&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Apr 2026 23:07:00 GMT",
+        "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
