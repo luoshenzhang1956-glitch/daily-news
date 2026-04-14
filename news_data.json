@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-04-14T14:02:12.525760",
+  "updated_at": "2026-04-14T15:24:02.974506",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "You can order your own bloodwork now. Interpreting the results is another story",
+        "link": "https://www.npr.org/2026/04/14/nx-s1-5780066/oura-function-wearables-blood-testing-bloodwork",
+        "pubDate": "Tue, 14 Apr 2026 10:58:24 -0400",
+        "category": "health"
+      },
+      {
+        "title": "After losing loved ones, an Israeli and a Palestinian work together for Middle East peace",
+        "link": "https://www.npr.org/2026/04/14/g-s1-111652/aziz-abu-sarah-maoz-inon-future-is-peace-book",
+        "pubDate": "Tue, 14 Apr 2026 10:09:11 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Fuel protests have Ireland&apos;s government facing possible no-confidence vote",
+        "link": "https://www.npr.org/2026/04/14/g-s1-117383/fuel-protests-have-irelands-government-facing-possible-no-confidence-vote",
+        "pubDate": "Tue, 14 Apr 2026 09:56:41 -0400",
+        "category": "business"
+      },
       {
         "title": "Millions of people are pretending to be AI chatbots \u2014 for fun",
         "link": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
@@ -19,7 +37,7 @@
         "title": "Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War",
         "link": "https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act",
         "pubDate": "Tue, 14 Apr 2026 07:27:38 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Israel and Lebanon set to meet for first direct talks in more than 30 years",
@@ -31,7 +49,7 @@
         "title": "The labor economics of &apos;Alien&apos; \u2014 and its lessons for inequality on Earth",
         "link": "https://www.npr.org/sections/planet-money/2026/04/14/g-s1-117075/the-labor-economics-of-alien-and-its-lessons-for-inequality-on-earth",
         "pubDate": "Tue, 14 Apr 2026 06:30:00 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "In the brain, objects seen and imagined follow the same neural path",
@@ -44,38 +62,38 @@
         "link": "https://www.npr.org/2026/04/14/nx-s1-5782043/nexstar-tegna-local-tv-deal-lawsuit-antitrust",
         "pubDate": "Tue, 14 Apr 2026 06:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Why Congress is fighting over a central tool of American surveillance",
-        "link": "https://www.npr.org/2026/04/14/nx-s1-5768270/what-to-know-about-section-702-surveillance",
-        "pubDate": "Tue, 14 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/04/14/nx-s1-5780735/morning-news-brief",
-        "pubDate": "Tue, 14 Apr 2026 04:43:31 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Jesuit priest shares how Catholics are reacting to Trump&apos;s criticism of Pope Leo",
-        "link": "https://www.npr.org/2026/04/14/nx-s1-5783880/jesuit-priest-shares-how-catholics-are-reacting-to-trumps-criticism-of-pope-leo",
-        "pubDate": "Tue, 14 Apr 2026 04:40:38 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Carney says Canadians trust his plan after he wins majority",
+        "link": "https://www.bbc.com/news/articles/cp9vmepn010o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 15:05:21 GMT",
+        "category": "us"
+      },
+      {
+        "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+        "link": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 14:14:53 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
+        "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 14:02:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
+        "link": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 14:01:05 GMT",
+        "category": "world"
+      },
       {
         "title": "Households could get free electricity for doing washing on sunny weekends",
         "link": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 14 Apr 2026 13:52:22 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
-        "link": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 13:22:08 GMT",
-        "category": "business"
       },
       {
         "title": "Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'",
@@ -90,13 +108,7 @@
         "category": "Top News"
       },
       {
-        "title": "Carney says Canadians trust his plan after he wins majority",
-        "link": "https://www.bbc.com/news/articles/cp9vmepn010o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 10:24:31 GMT",
-        "category": "us"
-      },
-      {
-        "title": "We will name police and social workers unless action taken, Southport families lawyer says",
+        "title": "We will name police and social workers unless action taken, lawyer for Southport families says",
         "link": "https://www.bbc.com/news/articles/cr411lzn1qwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 14 Apr 2026 09:45:40 GMT",
         "category": "Top News"
@@ -108,25 +120,81 @@
         "category": "tech"
       },
       {
-        "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-        "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 23:26:46 GMT",
-        "category": "world"
-      },
-      {
         "title": "Doctors' strikes can have surprising benefits - but are they sustainable?",
         "link": "https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 13 Apr 2026 23:06:45 GMT",
         "category": "health"
+      }
+    ],
+    "reuters": [
+      {
+        "title": "Exclusive: Trump\u2019s son Eric to join father's state visit to China",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de5b897af24078a636012fc1cdd19b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrumps-son-eric-join-fathers-state-visit-china-2026-04-14%2f&amp;c=14300321540601513363&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 06:55:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "US blockade of Iranian ports explained in two minutes",
-        "link": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 17:33:26 GMT",
+        "title": "Bessent says confident that core inflation is going down, Fed will need to cut rates",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de5b897af24078a636012fc1cdd19b&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2fbessent-says-confident-that-core-inflation-is-going-down-fed-will-need-cut-rates-2026-04-14%2f&amp;c=8400999627400911326&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 06:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US producer inflation increases less than expected in March, but war boosts energy prices",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de5b897af24078a636012fc1cdd19b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-producer-prices-increase-less-than-expected-march-2026-04-14%2f&amp;c=15507878033786707789&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 06:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US, Iran may resume talks this week despite port blockade",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de5b897af24078a636012fc1cdd19b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-begins-iran-port-blockade-oil-prices-ease-hopes-dialogue-2026-04-14%2f&amp;c=2672702855735087350&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 06:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall St jumps on Mideast de-escalation hopes; earnings in focus",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de5b897af24078a636012fc1cdd19b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-climb-traders-cling-de-escalation-hopes-await-earnings-2026-04-14%2f&amp;c=8391173716423764725&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 06:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "IMF cuts growth outlook, warns of potential global recession if Iran war worsens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de5b897af24078a636012fc1cdd19b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fimf-cuts-growth-outlook-warns-potential-global-recession-if-iran-war-worsens-2026-04-14%2f&amp;c=10064419856150861004&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 06:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed nominee Warsh's financial disclosures point to well over $100 million in assets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de5b897af24078a636012fc1cdd19b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffed-nominee-warsh-files-financial-disclosure-step-towards-confirmation-2026-04-14%2f&amp;c=6756135662371425351&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 06:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "IMF slashes growth forecast for Middle East as Gulf exporters reel from impact of war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de5b897af24078a636012fc1cdd19b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fimf-slashes-growth-forecast-middle-east-gulf-exporters-reel-impact-war-2026-04-14%2f&amp;c=12731776258601030529&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 05:49:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Global satellite internet companies at a glance",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de5bb9e7604cdca5191c99695249df&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fglobal-satellite-internet-companies-glance-2026-04-14%2f&amp;c=13676322867501474089&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 05:04:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Despite Israeli firepower, Netanyahu struggles for political gains in Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de5b897af24078a636012fc1cdd19b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdespite-israeli-firepower-netanyahu-struggles-political-gains-iran-war-2026-04-14%2f&amp;c=18260575497411384369&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 04:55:00 GMT",
         "category": "Top News"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Iran war will hit UK growth the hardest of any rich economies, IMF says",
+        "link": "https://www.cnbc.com/2026/04/14/uk-downgrade-iran-war-uk-growth-middle-east-conflict-global-economy.html",
+        "pubDate": "Tue, 14 Apr 2026 15:17:16 GMT",
+        "category": "world"
+      }
+    ]
   }
 }
