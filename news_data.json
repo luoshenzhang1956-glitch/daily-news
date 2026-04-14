@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-04-14T03:24:14.012428",
+  "updated_at": "2026-04-14T06:07:06.440255",
   "news": {
-    "ap": [
-      {
-        "title": "Ghana turns to veteran Carlos Queiroz as coach just weeks out from World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ddb297b9bf43ac91d567bb6ee9d78f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fghana-coach-queiroz-291343e35ecc5c4c423f8637a118c804&amp;c=14885585796800500797&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Apr 2026 13:51:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "U.K. inquiry lays bare &apos;catastrophic&apos; missed chances before stabbings at dance class",
+        "link": "https://www.npr.org/2026/04/14/g-s1-117332/uk-report-stabbings-at-dance-class",
+        "pubDate": "Tue, 14 Apr 2026 01:41:14 -0400",
+        "category": "world"
+      },
       {
         "title": "Man accused in Molotov cocktail attack of OpenAI CEO&apos;s home charged with attempted murder",
         "link": "https://www.npr.org/2026/04/13/g-s1-117320/openai-sam-altman-molotov-cocktail",
         "pubDate": "Mon, 13 Apr 2026 21:02:10 -0400",
         "category": "us"
-      },
-      {
-        "title": "After years of speculation, a reporter claims to have uncovered the founder of Bitcoin",
-        "link": "https://www.npr.org/2026/04/13/nx-s1-5778501/after-years-of-speculation-a-reporter-claims-to-have-uncovered-the-founder-of-bitcoin",
-        "pubDate": "Mon, 13 Apr 2026 18:06:32 -0400",
-        "category": "world"
       },
       {
         "title": "Eric Swalwell will resign from Congress as he faces backlash over assault allegations",
@@ -73,28 +66,46 @@
     ],
     "bbc": [
       {
-        "title": "Former Nato chief to say UK's national security 'in peril'",
+        "title": "Former Nato chief warns UK's national security 'in peril'",
         "link": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 02:13:47 GMT",
+        "pubDate": "Tue, 14 Apr 2026 05:55:24 GMT",
         "category": "Top News"
       },
       {
-        "title": "Oasis among record number of Brits entering Rock & Roll Hall of Fame",
+        "title": "Founder of China's Evergrande pleads guilty to fraud",
+        "link": "https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 05:19:43 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Greek police using masked migrants to forcibly push other migrants back across border",
+        "link": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 05:02:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watchdog investigates 11 police officers over handling of Wimbledon school crash",
+        "link": "https://www.bbc.com/news/articles/c1d96220wyro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 04:59:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Harry and Meghan arrive in Australia for four-day tour",
+        "link": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 04:09:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oasis among record number of British acts entering Rock & Roll Hall of Fame",
         "link": "https://www.bbc.com/news/articles/c9qd5537zxpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 14 Apr 2026 01:09:49 GMT",
         "category": "Top News"
       },
       {
-        "title": "Man faces attempted murder charges in attack on home of OpenAI's Sam Altman",
+        "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
         "link": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 14 Apr 2026 01:05:54 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Harry and Meghan arrive in Australia for four-day tour",
-        "link": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 00:14:27 GMT",
-        "category": "Top News"
+        "category": "tech"
       },
       {
         "title": "Lebanon enters talks with Israel but with no cards to play",
@@ -103,61 +114,44 @@
         "category": "world"
       },
       {
-        "title": "How Trump\u2019s Jesus-like image and feud with the Pope are sparking backlash",
-        "link": "https://www.bbc.com/news/videos/c624dy3pgg2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 21:45:42 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "The US blockade of Iran is a gamble. Will it work?",
         "link": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 13 Apr 2026 15:27:43 GMT",
         "category": "us"
       },
       {
-        "title": "Five key failures of killer's parents and agencies ahead of Southport attack",
-        "link": "https://www.bbc.com/news/articles/c239zz1m324o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 13:46:41 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Is the bite of the false widow spider dangerous?",
         "link": "https://www.bbc.com/news/articles/cwyvg1jyry0o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 13 Apr 2026 13:41:57 GMT",
         "category": "health"
+      }
+    ],
+    "reuters": [
+      {
+        "title": "Australian business sentiment crashes in March on worries about fallout from Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ddd932e4a9436598486e56f0e6b9b4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2faustralian-business-sentiment-crashes-march-worries-about-fallout-iran-war-2026-04-14%2f&amp;c=14178965104337692952&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 17:33:00 GMT",
+        "category": "business"
       },
       {
-        "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
-        "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 13 Apr 2026 12:19:13 GMT",
+        "title": "Heartflow sues rival Cleerly over AI cardiology technology",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ddd93657d248b29ba4141b0131140c&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fheartflow-sues-rival-cleerly-over-ai-cardiology-technology-2026-04-13%2f&amp;c=16813105742079414729&amp;mkt=en-us",
+        "pubDate": "Mon, 13 Apr 2026 08:13:00 GMT",
         "category": "tech"
       }
     ],
-    "reuters": [],
     "markets": [
       {
-        "title": "China exports miss estimates in March, imports post best growth in more than four years",
-        "link": "https://www.cnbc.com/2026/04/14/china-trade-data-march-exports-imports-march.html",
-        "pubDate": "Tue, 14 Apr 2026 03:10:44 GMT",
-        "category": "Top News"
+        "title": "European markets set to rise on hopes that Iran peace talks can resume",
+        "link": "https://www.cnbc.com/2026/04/14/european-markets-stoxx-600-ftse-dax-iran-latest-oil-prices.html",
+        "pubDate": "Tue, 14 Apr 2026 05:19:44 GMT",
+        "category": "world"
       },
       {
-        "title": "Goldman Sachs tops estimates on record equities trading",
-        "link": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html",
-        "pubDate": "Mon, 13 Apr 2026 21:21:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How bond market&apos;s private credit crisis fears are playing out in fixed-income ETFs",
-        "link": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
-        "pubDate": "Mon, 13 Apr 2026 21:02:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Goldman Sachs, Revolution Medicines, Fastenal &amp; more",
-        "link": "https://www.cnbc.com/2026/04/13/stocks-making-the-biggest-moves-premarket-bby-wsm-fast-more.html",
-        "pubDate": "Mon, 13 Apr 2026 12:28:26 GMT",
-        "category": "Top News"
+        "title": "Suspect in attack at Sam Altman&apos;s house aimed to kill OpenAI CEO, warned of humanity&apos;s extinction from AI",
+        "link": "https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html",
+        "pubDate": "Mon, 13 Apr 2026 23:27:13 GMT",
+        "category": "tech"
       }
     ]
   }
