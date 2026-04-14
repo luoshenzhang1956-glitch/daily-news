@@ -1,21 +1,26 @@
 {
-  "updated_at": "2026-04-14T17:20:35.778503",
+  "updated_at": "2026-04-14T19:27:20.429236",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Wall Street rises toward the edge of its all-time high as oil prices ease",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de76ca2b78438eb0993e3d828bf145&amp;url=https%3a%2f%2fapnews.com%2farticle%2foil-prices-stock-markets-trump-iran-ceasefire-9690717f561076a0909f7a5e820f02d6&amp;c=4447781573148871215&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 09:18:00 GMT",
-        "category": "business"
+        "title": "Justice Department says Biden DOJ weaponized law to go after anti-abortion activists",
+        "link": "https://www.npr.org/2026/04/14/g-s1-117430/doj-biden-weaponization-report",
+        "pubDate": "Tue, 14 Apr 2026 15:13:24 -0400",
+        "category": "us"
       },
       {
-        "title": "New trial over Diego Maradona\u2019s death resumes in Argentina against 7 health care professionals",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de76da10c849fbade4a3597f7aefc8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdiego-maradona-death-trial-soccer-health-professionals-f89775668926225a61fc7c13c303f7c2&amp;c=16483981074475083509&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 08:42:00 GMT",
-        "category": "health"
-      }
-    ],
-    "npr": [
+        "title": "Law enforcement is trying to combat abusive AI. Experts say easier said than done",
+        "link": "https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse",
+        "pubDate": "Tue, 14 Apr 2026 14:11:32 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The Iran war created a global natural gas shortage \u2014 a windfall for U.S. companies",
+        "link": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+        "pubDate": "Tue, 14 Apr 2026 13:50:57 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Historic decline in U.S. overdose deaths threatened by changing street drug supply",
         "link": "https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine",
@@ -29,7 +34,7 @@
         "category": "world"
       },
       {
-        "title": "You can order your own bloodwork now. Interpreting the results is another story",
+        "title": "You can order your own blood work now. Interpreting the results is another story",
         "link": "https://www.npr.org/2026/04/14/nx-s1-5780066/oura-function-wearables-blood-testing-bloodwork",
         "pubDate": "Tue, 14 Apr 2026 10:58:24 -0400",
         "category": "Top News"
@@ -57,37 +62,25 @@
         "link": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
         "pubDate": "Tue, 14 Apr 2026 08:34:57 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War",
-        "link": "https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act",
-        "pubDate": "Tue, 14 Apr 2026 07:27:38 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Israel and Lebanon are holding rare diplomatic talks in D.C.",
-        "link": "https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks",
-        "pubDate": "Tue, 14 Apr 2026 07:27:21 -0400",
-        "category": "us"
-      },
-      {
-        "title": "The labor economics of &apos;Alien&apos; \u2014 and its lessons for inequality on Earth",
-        "link": "https://www.npr.org/sections/planet-money/2026/04/14/g-s1-117075/the-labor-economics-of-alien-and-its-lessons-for-inequality-on-earth",
-        "pubDate": "Tue, 14 Apr 2026 06:30:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-        "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 17:10:52 GMT",
+        "title": "US Treasury secretary tells BBC 'bit of pain' worth long-term security",
+        "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 18:16:44 GMT",
+        "category": "business"
+      },
+      {
+        "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+        "link": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 17:18:19 GMT",
         "category": "Top News"
       },
       {
-        "title": "Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'",
-        "link": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 16:48:33 GMT",
+        "title": "As former Nato chief warns about defence spending, how much has the military shrunk?",
+        "link": "https://www.bbc.com/news/articles/c6244zqnk16o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 16:53:25 GMT",
         "category": "Top News"
       },
       {
@@ -95,12 +88,6 @@
         "link": "https://www.bbc.com/news/videos/clyxxnz97wxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 14 Apr 2026 16:12:27 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
-        "link": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 15:35:38 GMT",
-        "category": "business"
       },
       {
         "title": "JD Vance defends backing 'great guy' Orb\u00e1n's campaign after landslide defeat",
@@ -139,31 +126,32 @@
         "category": "tech"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "IMF cuts growth outlook, warns world already drifting toward more adverse scenario",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de94b4c43649d98c4872c5fbf9473a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fimf-cuts-growth-outlook-warns-potential-global-recession-if-iran-war-worsens-2026-04-14%2f&amp;c=10064419856150861004&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 09:48:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Israeli fire kills six in Gaza, including two children, medics say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69de94d00049432d9551753a8fd4febc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strike-hits-police-car-gaza-killing-four-medics-say-2026-04-14%2f&amp;c=10946417871529156534&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 08:28:00 GMT",
+        "category": "health"
+      }
+    ],
     "markets": [
       {
-        "title": "Jamie Dimon says Anthropic&apos;s Mythos reveals &apos;a lot more vulnerabilities&apos; for cyberattacks",
-        "link": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html",
-        "pubDate": "Tue, 14 Apr 2026 16:46:10 GMT",
-        "category": "business"
-      },
-      {
-        "title": "David Einhorn signals caution as his hedge fund Greenlight prioritizes capital protection",
-        "link": "https://www.cnbc.com/2026/04/14/david-einhorn-signals-caution-as-his-hedge-fund-greenlight-prioritizes-capital-protection.html",
-        "pubDate": "Tue, 14 Apr 2026 16:35:27 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Oracle jumps for a second day, Bloom Energy soars 23% on AI data center power deal",
-        "link": "https://www.cnbc.com/2026/04/14/oracle-orcl-bloom-energy-be-stock-data-center-ai-power.html",
-        "pubDate": "Tue, 14 Apr 2026 16:32:43 GMT",
+        "title": "Nvidia stock is on a 10-day winning streak and up 18% over that stretch",
+        "link": "https://www.cnbc.com/2026/04/14/nvidia-stock-nvda-ai-streak.html",
+        "pubDate": "Tue, 14 Apr 2026 18:24:23 GMT",
         "category": "tech"
       },
       {
-        "title": "Iran war will hit UK growth the hardest of any rich economies, IMF says",
-        "link": "https://www.cnbc.com/2026/04/14/uk-downgrade-iran-war-uk-growth-middle-east-conflict-global-economy.html",
-        "pubDate": "Tue, 14 Apr 2026 15:17:16 GMT",
-        "category": "world"
+        "title": "Jamie Dimon says Anthropic&apos;s Mythos reveals &apos;a lot more vulnerabilities&apos; for cyberattacks",
+        "link": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html",
+        "pubDate": "Tue, 14 Apr 2026 17:50:17 GMT",
+        "category": "business"
       }
     ]
   }
