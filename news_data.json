@@ -1,61 +1,122 @@
 {
-  "updated_at": "2026-04-15T06:06:36.277867",
+  "updated_at": "2026-04-15T09:29:54.982264",
   "news": {
-    "ap": [],
-    "npr": [
+    "ap": [
       {
-        "title": "New species of glass frog identified in Ecuador",
-        "link": "https://www.npr.org/2026/04/14/nx-s1-5776612/new-species-of-glass-frog-identified-in-ecuador",
-        "pubDate": "Tue, 14 Apr 2026 16:50:14 -0400",
+        "title": "Rolls-Royce unveils Project Nightingale its limited-edition electric luxury car",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df59c1566b4931956fec8aa5a02503&amp;url=https%3a%2f%2fapnews.com%2fvideo%2frolls-royce-unveils-project-nightingale-its-limited-edition-electric-luxury-car-df09f43959944249b3cb6581c55b1351&amp;c=15716335721067758468&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 02:20:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Israel is building a buffer zone inside Lebanon",
-        "link": "https://www.npr.org/2026/04/14/nx-s1-5783915/israel-plans-to-create-buffer-zones-in-lebanon-and-gaza-to-protect-its-territory",
-        "pubDate": "Tue, 14 Apr 2026 16:34:06 -0400",
+        "title": "ERIC FERKENHOFF/LEE ENTERPRISES",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df59c1566b4931956fec8aa5a02503&amp;url=https%3a%2f%2fapnews.com%2fauthor%2feric-ferkenhoff-lee-enterprises&amp;c=13725652553449380349&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 02:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "JOSH KELETY/AP",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df59c1566b4931956fec8aa5a02503&amp;url=https%3a%2f%2fapnews.com%2fauthor%2fjosh-kelety-ap&amp;c=4700529964658375634&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 02:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Children killed in Lebanon as Israeli strikes hit homes far from front lines of war with Hezbollah",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df59c1566b4931956fec8aa5a02503&amp;url=https%3a%2f%2fapnews.com%2farticle%2flebanon-children-killed-israel-war-hezbollah-beirut-49b7e5a3aa477368c099f9bf6d88c005&amp;c=12753617961134058545&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 01:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ye postpones Marseille concert after French authorities say they will seek a ban",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df59c1566b4931956fec8aa5a02503&amp;url=https%3a%2f%2fapnews.com%2farticle%2fye-kanye-west-marseille-concert-postponed-a1af91f7cec09df8323b390e74c8ed57&amp;c=12075141707198933287&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 01:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Canucks visit the Oilers after shootout victory",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df59c1566b4931956fec8aa5a02503&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvancouver-canucks-edmonton-oilers-los-angeles-kings-ece578b3a7c8434f9c05c6f2ee2da337&amp;c=13373032772396797587&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 01:12:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rockies look to break 5-game slide, take on the Astros",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df59f7f1dd44ad804917b971db199b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhouston-astros-colorado-rockies-jose-quintana-athlete-injuries-baseball-25bebd97b692435aad723a50e0f0219f&amp;c=6062177338290116992&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 01:02:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Mets look to stop losing streak in game against the Dodgers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df59c1566b4931956fec8aa5a02503&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnew-york-mets-los-angeles-dodgers-clay-holmes-shohei-ohtani-athlete-injuries-c6a5b19be9db46d4b9f8e94a1b447414&amp;c=15090812121967195597&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 01:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Hopes rise for renewed talks as US military says Iran blockade is in force",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df59c1566b4931956fec8aa5a02503&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-iran-war-lebanon-israel-talks-hormuz-15-april-2026-f1b02d16f81d6fdcf68c0ed16d7a719d&amp;c=5358367642619403918&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 22:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Why many Americans are turning to AI for health advice, according to recent polls",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df59f9ccdf46589b1f053efd4f60bb&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-chatbots-health-care-poll-0ea249aa0db3fa351efa2a76af3a2348&amp;c=2112570445022961329&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Apr 2026 21:14:00 GMT",
+        "category": "health"
+      }
+    ],
+    "npr": [
+      {
+        "title": "Pope heads to Cameroon as separatists announce 3-day pause in fighting",
+        "link": "https://www.npr.org/2026/04/15/g-s1-117486/pope-heads-to-cameroon",
+        "pubDate": "Wed, 15 Apr 2026 05:14:59 -0400",
         "category": "world"
       },
       {
-        "title": "Can red light therapy really deliver a beauty and health glow-up? Here&apos;s the science",
-        "link": "https://www.npr.org/2026/04/14/nx-s1-5759287-e1/can-red-light-therapy-really-deliver-a-beauty-and-health-glow-up-heres-the-science",
-        "pubDate": "Tue, 14 Apr 2026 16:01:40 -0400",
+        "title": "No one likes being discombobulated. How did the feeling get such a fun name?",
+        "link": "https://www.npr.org/2026/04/15/nx-s1-5779282/discombobulated-origins-history",
+        "pubDate": "Wed, 15 Apr 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "They counted on a rural dialysis unit to keep them alive. Then it closed",
+        "link": "https://www.npr.org/2026/04/15/nx-s1-5785126/rural-health-dialysis-clinic-funding",
+        "pubDate": "Wed, 15 Apr 2026 05:00:00 -0400",
         "category": "health"
+      },
+      {
+        "title": "&apos;No peace&apos;: Nearly a year after her son&apos;s death, she learned that ICE was responsible",
+        "link": "https://www.npr.org/2026/04/15/nx-s1-5782114/ice-shooting-texas-ruben-ray-martinez-mother",
+        "pubDate": "Wed, 15 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Quit a GLP-1? Plan to start again? It&apos;s not recommended, but plenty of people do it",
+        "link": "https://www.npr.org/2026/04/15/nx-s1-5712532/glp-1-quit-begin-ozempic-wegovy-mounjaro-zepbound",
+        "pubDate": "Wed, 15 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/04/15/nx-s1-5780736/morning-news-brief",
+        "pubDate": "Wed, 15 Apr 2026 04:46:18 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
+        "link": "https://www.npr.org/2026/04/15/g-s1-117480/raffle-winner-picasso",
+        "pubDate": "Wed, 15 Apr 2026 04:20:44 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Super Typhoon Sinlaku pounds remote U.S. islands in the Pacific Ocean",
+        "link": "https://www.npr.org/2026/04/15/g-s1-117475/super-typhoon-sinlaku",
+        "pubDate": "Wed, 15 Apr 2026 03:43:09 -0400",
+        "category": "Top News"
       },
       {
         "title": "Hollywood heavyweights oppose Paramount deal",
         "link": "https://www.npr.org/2026/04/14/nx-s1-5783927/hollywood-heavyweights-oppose-paramount-deal",
         "pubDate": "Tue, 14 Apr 2026 15:57:43 -0400",
         "category": "business"
-      },
-      {
-        "title": "Justice Department says Biden DOJ weaponized law to go after anti-abortion activists",
-        "link": "https://www.npr.org/2026/04/14/g-s1-117430/doj-biden-weaponization-report",
-        "pubDate": "Tue, 14 Apr 2026 15:13:24 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Law enforcement is trying to combat abusive AI. Experts say easier said than done",
-        "link": "https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse",
-        "pubDate": "Tue, 14 Apr 2026 14:11:32 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The Iran war created a global natural gas shortage \u2014 a windfall for U.S. companies",
-        "link": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-        "pubDate": "Tue, 14 Apr 2026 13:50:57 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Historic decline in U.S. overdose deaths threatened by changing street drug supply",
-        "link": "https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine",
-        "pubDate": "Tue, 14 Apr 2026 13:03:04 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Veteran diplomat offers insights into the war in Iran \u2014 and thoughts on what&apos;s next",
-        "link": "https://www.npr.org/2026/04/14/nx-s1-5784072/veteran-diplomat-offers-insights-into-the-war-in-iran-and-thoughts-on-whats-next",
-        "pubDate": "Tue, 14 Apr 2026 12:11:09 -0400",
-        "category": "Top News"
       },
       {
         "title": "Millions of people are pretending to be AI chatbots \u2014 for fun",
@@ -66,21 +127,45 @@
     ],
     "bbc": [
       {
-        "title": "Chris Mason: Iran war means government's vicious circles tighten and darken",
-        "link": "https://www.bbc.com/news/articles/ce8ll6pyvdzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 05:20:51 GMT",
-        "category": "Top News"
+        "title": "'I'm not being listened to' - new health plan launched as women say they are still ignored",
+        "link": "https://www.bbc.com/news/articles/cm2kke1jn8xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 09:23:36 GMT",
+        "category": "health"
       },
       {
-        "title": "Watch: Reporter is helped to pose as gay for asylum claim",
-        "link": "https://www.bbc.com/news/videos/cjd89jy7lp7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 05:00:15 GMT",
+        "title": "AA and BSM ordered to refund learner drivers for hidden fees",
+        "link": "https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 09:05:48 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Watch: Moment gunman tackled by school principal",
+        "link": "https://www.bbc.com/news/videos/c8dll87rrm4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 09:03:51 GMT",
         "category": "Top News"
       },
       {
         "title": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
         "link": "https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 04:58:25 GMT",
+        "pubDate": "Wed, 15 Apr 2026 09:00:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chris Mason: Iran war has trapped Labour in a vicious circle",
+        "link": "https://www.bbc.com/news/articles/ce8ll6pyvdzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 05:20:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Reporter told to pose as gay for asylum claim",
+        "link": "https://www.bbc.com/news/videos/cjd89jy7lp7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 05:00:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Australia's richest person must share part of her mining fortunes, court rules",
+        "link": "https://www.bbc.com/news/articles/cq5990nqjg2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 04:40:30 GMT",
         "category": "Top News"
       },
       {
@@ -90,165 +175,19 @@
         "category": "us"
       },
       {
-        "title": "'I'm not being listened to' - new health plan launched as women say they are still ignored",
-        "link": "https://www.bbc.com/news/articles/cm2kke1jn8xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 00:03:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Butterfly numbers are dropping but here are five species you may see more of",
-        "link": "https://www.bbc.com/news/articles/c75kk7p41npo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 23:14:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Help to Buy mostly helped high earners, IFS says",
-        "link": "https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 23:03:25 GMT",
-        "category": "business"
-      },
-      {
         "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
         "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 14 Apr 2026 19:47:53 GMT",
         "category": "world"
       },
       {
-        "title": "Single-sex space guidance for organisations to be published after May elections",
-        "link": "https://www.bbc.com/news/articles/cn08849wz07o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 14:54:17 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Rolls-Royce launches new two-seater electric car",
-        "link": "https://www.bbc.com/news/articles/c1eqqlnzq7yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Apr 2026 12:06:48 GMT",
+        "title": "Palantir defends its record as MPs demand more scrutiny of data use",
+        "link": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Apr 2026 18:57:51 GMT",
         "category": "tech"
       }
     ],
-    "reuters": [
-      {
-        "title": "IMF cuts growth outlook, warns world already drifting toward more adverse scenario",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df2a776dd347698dcc2c71f8a8f5b3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fimf-cuts-growth-outlook-warns-potential-global-recession-if-iran-war-worsens-2026-04-14%2f&amp;c=10064419856150861004&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 21:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "A shipment of Austrian timber and its tortuous new route to Qatar",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df2a776dd347698dcc2c71f8a8f5b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fshipment-austrian-timber-its-tortuous-new-route-qatar-2026-04-15%2f&amp;c=17920050249392672064&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 21:37:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Strait of Hormuz traffic barely affected on first day of US blockade, data shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df2a776dd347698dcc2c71f8a8f5b3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-sanctioned-chinese-tanker-passes-strait-hormuz-despite-us-blockade-data-shows-2026-04-14%2f&amp;c=12744204813104664705&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 21:36:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: Congo to receive first group of deportees from US this week, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df2a776dd347698dcc2c71f8a8f5b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fcongo-receive-first-group-deportees-us-this-week-sources-say-2026-04-14%2f&amp;c=1557790416153252826&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 21:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hormuz pipeline workaround looks worth the cost",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df2a776dd347698dcc2c71f8a8f5b3&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2fbreakingviews%2fhormuz-pipeline-workaround-looks-worth-cost-2026-04-15%2f&amp;c=12928821251745269710&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 21:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Higher oil prices, higher yields, no more rate cuts? No problem for US stocks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df2a776dd347698dcc2c71f8a8f5b3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhigher-oil-prices-higher-yields-no-more-rate-cuts-no-problem-us-stocks-2026-04-14%2f&amp;c=12180557295207779627&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 21:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran war promises green edge for Asia as plastic packaging runs short",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df2a776dd347698dcc2c71f8a8f5b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-war-promises-green-edge-asia-plastic-packaging-runs-short-2026-04-15%2f&amp;c=10408552481280322052&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 19:53:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Canada, UK, Australia and Japan call for 'urgent end to hostilities in Lebanon'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df2a776dd347698dcc2c71f8a8f5b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcanada-uk-other-nations-condemn-killings-un-peacekeepers-lebanon-2026-04-15%2f&amp;c=8497799177253970718&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 18:41:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "White House favors former deputy surgeon general to lead CDC, Washington Post says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df2ab275b2436f9d19e7a824f662a5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fwhite-house-favors-former-deputy-surgeon-general-schwartz-lead-cdc-washington-2026-04-15%2f&amp;c=5019933774567502915&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 18:39:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "US destroyer interdicts two oil tankers attempting to leave Iran, official says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df2a776dd347698dcc2c71f8a8f5b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-destroyer-interdicts-two-oil-tankers-attempting-leave-iran-official-says-2026-04-14%2f&amp;c=7049199753265713498&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Apr 2026 15:56:00 GMT",
-        "category": "Top News"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/04/14/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Tue, 14 Apr 2026 23:50:27 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Jamie Dimon says Anthropic&apos;s Mythos reveals &apos;a lot more vulnerabilities&apos; for cyberattacks",
-        "link": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html",
-        "pubDate": "Tue, 14 Apr 2026 20:55:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "David Einhorn signals caution as his hedge fund Greenlight prioritizes capital protection",
-        "link": "https://www.cnbc.com/2026/04/14/david-einhorn-signals-caution-as-his-hedge-fund-greenlight-prioritizes-capital-protection.html",
-        "pubDate": "Tue, 14 Apr 2026 18:23:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prediction markets will grow to $1 trillion by 2030, Bernstein estimates",
-        "link": "https://www.cnbc.com/2026/04/14/prediction-markets-will-grow-to-1-trillion-by-2030-bernstein-says.html",
-        "pubDate": "Tue, 14 Apr 2026 18:12:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel&apos;s Ken Griffin",
-        "link": "https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html",
-        "pubDate": "Tue, 14 Apr 2026 16:04:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
-        "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html",
-        "pubDate": "Tue, 14 Apr 2026 16:03:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Citigroup beats estimates, boosted by gains in fixed income",
-        "link": "https://www.cnbc.com/2026/04/14/citigroup-c-earnings-1q-2026.html",
-        "pubDate": "Tue, 14 Apr 2026 14:49:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Investor survey shows most bearishness in 11 months. So the contrarian call is to buy",
-        "link": "https://www.cnbc.com/2026/04/14/investor-survey-shows-most-bearishness-in-11-months-so-the-contrarian-call-is-to-buy.html",
-        "pubDate": "Tue, 14 Apr 2026 13:59:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "JPMorgan tops estimates on Wall Street results, Dimon flags &apos;increasingly complex&apos; economic risks",
-        "link": "https://www.cnbc.com/2026/04/14/jpmorgan-chase-jpm-earnings-1q-2026.html",
-        "pubDate": "Tue, 14 Apr 2026 13:14:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Novo Nordisk, JPMorgan Chase, United Airlines &amp; more",
-        "link": "https://www.cnbc.com/2026/04/14/stocks-making-the-biggest-moves-premarket-nvo-jpm-ual.html",
-        "pubDate": "Tue, 14 Apr 2026 12:49:26 GMT",
-        "category": "Top News"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
