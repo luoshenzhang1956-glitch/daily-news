@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-04-15T13:55:20.174004",
+  "updated_at": "2026-04-15T15:14:19.899887",
   "news": {
-    "ap": [
-      {
-        "title": "Why many Americans are turning to AI for health advice, according to recent polls",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df982a1b6d4179a650a964b1cec567&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-chatbots-health-care-poll-0ea249aa0db3fa351efa2a76af3a2348&amp;c=2112570445022961329&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Apr 2026 06:14:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Greetings from Nairobi, where taking a matatu is no ordinary bus ride",
+        "link": "https://www.npr.org/2026/04/15/g-s1-117275/nairobi-matatu-bus-kenya",
+        "pubDate": "Wed, 15 Apr 2026 10:30:42 -0400",
+        "category": "world"
+      },
       {
         "title": "Trump administration moves to erase Jan. 6 riot convictions for seditious conspiracy",
         "link": "https://www.npr.org/2026/04/15/nx-s1-5785318/trump-jan-6-capitol-riot-seditious-conspiracy",
@@ -20,7 +19,7 @@
         "title": "Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations",
         "link": "https://www.npr.org/2026/04/15/g-s1-117501/up-first-newsletter-israel-iran-lebanon-us-strait-eric-swalwell-virginia-face-act",
         "pubDate": "Wed, 15 Apr 2026 07:36:17 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump says peace talks could resume in days as U.S. military blocks Iranian ports",
@@ -47,12 +46,6 @@
         "category": "Top News"
       },
       {
-        "title": "No one likes being discombobulated. How did the feeling get such a fun name?",
-        "link": "https://www.npr.org/2026/04/15/nx-s1-5779282/discombobulated-origins-history",
-        "pubDate": "Wed, 15 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "&apos;No peace&apos;: Nearly a year after her son&apos;s death, she learned that ICE was responsible",
         "link": "https://www.npr.org/2026/04/15/nx-s1-5782114/ice-shooting-texas-ruben-ray-martinez-mother",
         "pubDate": "Wed, 15 Apr 2026 05:00:00 -0400",
@@ -73,22 +66,40 @@
     ],
     "bbc": [
       {
-        "title": "Four killed in second Turkish school shooting in two days",
-        "link": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 13:51:40 GMT",
+        "title": "Mahmood promises action against 'sham lawyers' abusing asylum system",
+        "link": "https://www.bbc.com/news/articles/cj944dgwvm8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 14:49:31 GMT",
         "category": "Top News"
       },
       {
-        "title": "Two Met PCs charged over death of pregnant woman",
+        "title": "British doubles legend Jamie Murray retires from tennis",
+        "link": "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 14:35:59 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Two officers charged after pregnant woman killed in crash with police car",
         "link": "https://www.bbc.com/news/articles/ce844e6rjnyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 13:49:45 GMT",
+        "pubDate": "Wed, 15 Apr 2026 14:31:18 GMT",
         "category": "Top News"
       },
       {
-        "title": "Starmer 'not going to yield' to pressure from Trump on Iran war",
+        "title": "Israel and Hezbollah continue attacks after Israel-Lebanon talks in US",
+        "link": "https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 14:15:50 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Starmer says he's 'not going to yield' to pressure from Trump on Iran war",
         "link": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 15 Apr 2026 13:25:06 GMT",
         "category": "us"
+      },
+      {
+        "title": "Starmer says he is 'not going to yield' to pressure from Trump on Iran war",
+        "link": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 13:25:06 GMT",
+        "category": "Top News"
       },
       {
         "title": "Booking.com customers warned of 'reservation hijacking' after hack",
@@ -109,24 +120,6 @@
         "category": "Top News"
       },
       {
-        "title": "Bogus websites, staged protests and pretend atheists: Inside the fake asylum industry",
-        "link": "https://www.bbc.com/news/articles/c86eew6jpjgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 10:40:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "More than 200 Iranian sailors stranded after US torpedo attack return home",
-        "link": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 10:00:41 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Watch: Moment gunman tackled by school principal in Oklahoma",
-        "link": "https://www.bbc.com/news/videos/c8dll87rrm4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 09:03:51 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Don't feel like exercising? Maybe it's the wrong time of day for you",
         "link": "https://www.bbc.com/news/articles/cd6lzpxwx50o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 14 Apr 2026 23:54:08 GMT",
@@ -135,18 +128,72 @@
     ],
     "reuters": [
       {
-        "title": "Morning Bid: Back to business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69df985e3c9e43e4986e089809737c4d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fglobal-markets-view-usa-2026-04-15%2f&amp;c=15054721712377167383&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Apr 2026 02:50:00 GMT",
-        "category": "business"
+        "title": "Trump backs government AI safeguards in banking system, acknowledges risks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dfaafa702c422abf38e32a11a5719e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-backs-government-ai-safeguards-banking-system-acknowledges-risks-2026-04-15%2f&amp;c=7296199634476476210&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 04:13:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Iran war &apos;very close to over,&apos; Trump says \u2014 and the stock market &apos;is going to boom&apos;",
-        "link": "https://www.cnbc.com/2026/04/15/iran-war-trump-peace-deal-us-talks-stock-market-oil-prices-.html",
-        "pubDate": "Wed, 15 Apr 2026 13:28:53 GMT",
-        "category": "world"
+        "title": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is &apos;healthy&apos;",
+        "link": "https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html",
+        "pubDate": "Wed, 15 Apr 2026 14:54:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chinese robotaxi companies forge ahead with UAE expansion despite Iran war",
+        "link": "https://www.cnbc.com/2026/04/15/china-robotaxi-didi-weride-baidu-dubai-uae-expansion.html",
+        "pubDate": "Wed, 15 Apr 2026 14:13:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Morgan Stanley tops estimates as trading revenue exceeds expectations by nearly $1 billion",
+        "link": "https://www.cnbc.com/2026/04/15/morgan-stanley-ms-earnings-1q-2026.html",
+        "pubDate": "Wed, 15 Apr 2026 13:24:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Starbucks launches beta app in ChatGPT to fuel new drink discovery",
+        "link": "https://www.cnbc.com/2026/04/15/starbucks-launches-beta-app-in-chatgpt-to-fuel-new-drink-discovery.html",
+        "pubDate": "Wed, 15 Apr 2026 12:00:05 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Bank of America, Morgan Stanley, Robinhood &amp; more",
+        "link": "https://www.cnbc.com/2026/04/15/stocks-making-the-biggest-moves-premarket-bac-avgo-hood.html",
+        "pubDate": "Wed, 15 Apr 2026 11:52:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jamie Dimon says Anthropic&apos;s Mythos reveals &apos;a lot more vulnerabilities&apos; for cyberattacks",
+        "link": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html",
+        "pubDate": "Tue, 14 Apr 2026 20:55:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "David Einhorn signals caution as his hedge fund Greenlight prioritizes capital protection",
+        "link": "https://www.cnbc.com/2026/04/14/david-einhorn-signals-caution-as-his-hedge-fund-greenlight-prioritizes-capital-protection.html",
+        "pubDate": "Tue, 14 Apr 2026 18:23:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Prediction markets will grow to $1 trillion by 2030, Bernstein estimates",
+        "link": "https://www.cnbc.com/2026/04/14/prediction-markets-will-grow-to-1-trillion-by-2030-bernstein-says.html",
+        "pubDate": "Tue, 14 Apr 2026 18:12:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel&apos;s Ken Griffin",
+        "link": "https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html",
+        "pubDate": "Tue, 14 Apr 2026 16:04:48 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
+        "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html",
+        "pubDate": "Tue, 14 Apr 2026 16:03:43 GMT",
+        "category": "Top News"
       }
     ]
   }
