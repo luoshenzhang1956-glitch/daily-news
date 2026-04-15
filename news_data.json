@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-04-15T17:15:29.181763",
+  "updated_at": "2026-04-15T19:29:16.023991",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Why many Americans are turning to AI for health advice, according to recent polls",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dfe68bff874a73b80d48810f12c754&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-chatbots-health-care-poll-0ea249aa0db3fa351efa2a76af3a2348&amp;c=2112570445022961329&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 06:14:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
         "title": "Visionary NPR leader Kevin Klose, who led network to new heights, has died",
@@ -58,13 +65,37 @@
         "category": "Top News"
       },
       {
-        "title": "Quit a GLP-1? Plan to start again? It&apos;s not recommended, but plenty of people do it",
-        "link": "https://www.npr.org/2026/04/15/nx-s1-5712532/glp-1-quit-begin-ozempic-wegovy-mounjaro-zepbound",
+        "title": "No one likes being discombobulated. How did the feeling get such a fun name?",
+        "link": "https://www.npr.org/2026/04/15/nx-s1-5779282/discombobulated-origins-history",
         "pubDate": "Wed, 15 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "US war on Iran was a 'mistake', says Reeves",
+        "link": "https://www.bbc.com/news/articles/cr5110n2l3mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 18:58:18 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Three paramedics killed in successive Israeli strikes in Lebanon, officials say",
+        "link": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 18:48:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
+        "link": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 18:29:50 GMT",
+        "category": "us"
+      },
+      {
+        "title": "British doubles legend Jamie Murray retires from tennis",
+        "link": "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Apr 2026 17:58:23 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Mahmood promises action against 'sham lawyers' abusing asylum system after BBC investigation",
         "link": "https://www.bbc.com/news/articles/cj944dgwvm8o?at_medium=RSS&amp;at_campaign=rss",
@@ -72,28 +103,10 @@
         "category": "Top News"
       },
       {
-        "title": "Starmer says he is 'not going to yield' to pressure from Trump on Iran war",
-        "link": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 15:27:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "British doubles legend Jamie Murray retires from tennis",
-        "link": "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 14:35:59 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Two officers charged after pregnant woman killed in crash with police car",
         "link": "https://www.bbc.com/news/articles/ce844e6rjnyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 15 Apr 2026 14:31:18 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
-        "link": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 14:14:41 GMT",
-        "category": "us"
       },
       {
         "title": "Booking.com customers warned of 'reservation hijacking' after hack",
@@ -106,12 +119,6 @@
         "link": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 15 Apr 2026 11:25:09 GMT",
         "category": "world"
-      },
-      {
-        "title": "AA and BSM ordered to refund learner drivers for hidden fees",
-        "link": "https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 11:25:05 GMT",
-        "category": "business"
       },
       {
         "title": "Legal advisers help migrants pose as gay to get asylum, BBC finds",
@@ -128,24 +135,24 @@
     ],
     "reuters": [
       {
-        "title": "US import prices increase below expectations; sharp rise anticipated due to Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dfc76075ba4609a58bcc19399b6a50&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fus%2fus-import-prices-increase-less-than-expected-march-2026-04-15%2f&amp;c=7514149933974985816&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Apr 2026 08:19:00 GMT",
+        "title": "US Senate Republicans block latest bid to rein in Trump Iran war powers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dfe6a9ec0944f39252074b9f9c0e06&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-senate-republicans-block-bid-rein-trump-iran-war-powers-voting-continues-2026-04-15%2f&amp;c=2772027851495339386&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 11:13:00 GMT",
         "category": "us"
       },
       {
-        "title": "Morning Bid: Back to business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dfc76129ef41008d33ecefb36657ec&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fglobal-markets-view-usa-2026-04-15%2f&amp;c=15054721712377167383&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Apr 2026 02:50:00 GMT",
-        "category": "business"
+        "title": "Trump backs government AI safeguards in banking system, acknowledges risks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69dfe6bbf1d942218c3369a051478d69&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-backs-government-ai-safeguards-banking-system-acknowledges-risks-2026-04-15%2f&amp;c=7296199634476476210&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Apr 2026 04:13:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Starbucks launches beta app in ChatGPT to fuel new drink discovery",
-        "link": "https://www.cnbc.com/2026/04/15/starbucks-launches-beta-app-in-chatgpt-to-fuel-new-drink-discovery.html",
-        "pubDate": "Wed, 15 Apr 2026 12:00:05 GMT",
-        "category": "business"
+        "title": "Amazon sellers boycott ads in policy change revolt: &apos;We&apos;re running out of f---ing margin&apos;",
+        "link": "https://www.cnbc.com/2026/04/15/amazon-sellers-boycott-ads-payment-changes.html",
+        "pubDate": "Wed, 15 Apr 2026 19:03:40 GMT",
+        "category": "tech"
       }
     ]
   }
