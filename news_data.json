@@ -1,27 +1,26 @@
 {
-  "updated_at": "2026-04-16T11:10:18.659610",
+  "updated_at": "2026-04-16T14:04:31.254397",
   "news": {
-    "ap": [
-      {
-        "title": "Astronomers measure the mind-blowing power and speed of black hole jets for the first time",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c38d382b4b289ba8f7fbef83eadc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fblack-hole-jets-star-cygnus-ea0e02e81081889ae9262e7a25b7fda9&amp;c=1299465185650161420&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 02:44:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Ukraine\u2019s army evolves under fire, with new units challenging Soviet legacy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c38c410042d8b54496837647c70f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwar-russia-ukraine-army-technology-business-military-a135fe06f5a4ffd9ea0fb49a6c41e0e4&amp;c=9973459707647670408&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Apr 2026 23:06:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Live updates: Pakistan delegation to meet with Iranian officials hoping for more US-Iran talks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c37ad9b34f6892f93717f802bcfb&amp;url=https%3a%2f%2fapnews.com%2flive%2firan-war-israel-trump-04-16-2026&amp;c=869633148815980800&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Apr 2026 21:30:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "A Polymarket trader made $300,000 betting on Biden&apos;s pardons, a new analysis shows",
+        "link": "https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons",
+        "pubDate": "Thu, 16 Apr 2026 08:00:00 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Iran War timeline continues to shift. And, jury rules Live Nation acted as monopoly",
+        "link": "https://www.npr.org/2026/04/16/g-s1-117639/up-first-newsletter-trump-iran-war-strait-pope-leo-ticketmaster-live-nation-january-6",
+        "pubDate": "Thu, 16 Apr 2026 07:59:11 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Mediators are pushing to extend the U.S.-Iran ceasefire",
+        "link": "https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates",
+        "pubDate": "Thu, 16 Apr 2026 07:45:30 -0400",
+        "category": "us"
+      },
       {
         "title": "How seals&apos; whiskers make them master underwater hunters",
         "link": "https://www.npr.org/2026/04/16/nx-s1-5786687/harbor-seals-whiskers-fish-science",
@@ -32,19 +31,19 @@
         "title": "Indonesia&apos;s capital of the future faces doubts in the present",
         "link": "https://www.npr.org/2026/04/16/g-s1-117409/indonesia-capital-nusantara-future-faces-doubts-present",
         "pubDate": "Thu, 16 Apr 2026 06:02:00 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "&apos;Dear America&apos;: HUD workers say they&apos;re being blocked from doing their jobs",
         "link": "https://www.npr.org/2026/04/16/nx-s1-5780859/hud-employees-trump-policy-protest-letters-website",
         "pubDate": "Thu, 16 Apr 2026 06:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
-        "title": "Your next flight could be more expensive as jet fuel costs soar",
+        "title": "Jet fuel prices double, leading airlines to increase baggage fees, raise fares",
         "link": "https://www.npr.org/2026/04/16/nx-s1-5785258/jet-fuel-airline-cost-iran-war-oil",
         "pubDate": "Thu, 16 Apr 2026 06:00:00 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "We watched 2 focus groups of Georgia swing voters. They&apos;re not happy with the Iran war",
@@ -59,24 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/04/16/nx-s1-5780737/morning-news-brief",
-        "pubDate": "Thu, 16 Apr 2026 04:45:06 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Russian missiles and drones bombard Ukraine in hourslong attack",
-        "link": "https://www.npr.org/2026/04/16/g-s1-117623/russian-missiles-drones-bombard-ukraine",
-        "pubDate": "Thu, 16 Apr 2026 04:27:40 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "French government seeking release of 86-year-old French widow detained by ICE",
-        "link": "https://www.npr.org/2026/04/16/g-s1-117615/france-seeks-release-of-86-year-old-detained-by-ice",
-        "pubDate": "Thu, 16 Apr 2026 01:35:49 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "A Colorado hospital profits from resolving language barriers",
         "link": "https://www.npr.org/2026/04/16/nx-s1-5780035/rural-hospital-colorado-medical-translators",
         "pubDate": "Thu, 16 Apr 2026 00:01:00 -0400",
@@ -85,22 +66,46 @@
     ],
     "bbc": [
       {
-        "title": "Woman dies after being attacked by dogs at house",
-        "link": "https://www.bbc.com/news/articles/c05d2675pelo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Apr 2026 11:08:08 GMT",
+        "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+        "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 16 Apr 2026 13:59:45 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Former Arsenal goalkeeper Alex Manninger dies after car struck by train in Austria",
+        "link": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 16 Apr 2026 13:53:25 GMT",
         "category": "Top News"
       },
       {
         "title": "UK prepares for food shortages in worst case scenario as Iran war continues",
         "link": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Apr 2026 10:47:22 GMT",
+        "pubDate": "Thu, 16 Apr 2026 13:43:40 GMT",
         "category": "Top News"
       },
       {
-        "title": "UK economy grew faster than expected in February ahead of Iran war",
-        "link": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Apr 2026 10:22:48 GMT",
+        "title": "Home Office investigating after BBC finds migrants making false claims to stay in UK",
+        "link": "https://www.bbc.com/news/articles/c0q92lg9ln5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 16 Apr 2026 13:38:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Europe has 'maybe 6 weeks of jet fuel left', energy boss warns",
+        "link": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 16 Apr 2026 13:13:24 GMT",
         "category": "business"
+      },
+      {
+        "title": "Covid jabs huge success, but work needed on trust in vaccines - key findings from Covid report",
+        "link": "https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 16 Apr 2026 13:02:12 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Church warden murder conviction quashed",
+        "link": "https://www.bbc.com/news/articles/c93elnv973ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 16 Apr 2026 12:10:03 GMT",
+        "category": "Top News"
       },
       {
         "title": "Things can't go on like this with online safety, Starmer tells tech bosses",
@@ -109,19 +114,7 @@
         "category": "tech"
       },
       {
-        "title": "'I was the most trolled person in the world,' Meghan says during Australia visit",
-        "link": "https://www.bbc.com/news/articles/c8r48l0kd2do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Apr 2026 08:24:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Breakthrough \u00a390,000 Alzheimer's drugs unlikely to benefit patients, report suggests",
-        "link": "https://www.bbc.com/news/articles/cql77wlqlx7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Apr 2026 08:01:52 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Migrants making false domestic abuse claims to stay in UK, BBC investigation finds",
+        "title": "Migrants making false domestic abuse claims to stay in UK, BBC investigation reveals",
         "link": "https://www.bbc.com/news/articles/crl19dzdd38o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 16 Apr 2026 04:58:15 GMT",
         "category": "Top News"
@@ -131,125 +124,16 @@
         "link": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 16 Apr 2026 01:55:12 GMT",
         "category": "us"
-      },
-      {
-        "title": "Why cheap power could matter more than clean power in the push for net zero",
-        "link": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 23:20:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-        "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Apr 2026 21:10:14 GMT",
-        "category": "world"
       }
     ],
     "reuters": [
       {
-        "title": "Iran war brings US close to net crude exporter for first time since World War Two",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c39485a84f5bae7a8e2e7c0f2fbf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2firan-war-brings-us-close-net-crude-exporter-first-time-since-world-war-two-2026-04-16%2f&amp;c=1200191851924297825&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 02:59:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "South African opposition leader Malema gets jail sentence for firing gun",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c392837941f7b087e09088cd0d50&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fsouth-african-politician-malema-sentenced-prison-firearm-case-2026-04-16%2f&amp;c=6874235268861017477&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 02:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: Starlink outage hit drone tests, exposing Pentagon\u2019s growing reliance on SpaceX",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c392837941f7b087e09088cd0d50&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fstarlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-spacex-2026-04-16%2f&amp;c=14933328330929456463&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 02:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Relaxation of US day-trading rules opens door to YOLO trading, higher risk",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c395f2764db2ae5713c132b1127d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2frelaxation-us-day-trading-rules-opens-door-yolo-trading-higher-risk-2026-04-16%2f&amp;c=5221269249808057295&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 02:17:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Fed leadership transition on shaky ground as clock ticks on Powell's term",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c392837941f7b087e09088cd0d50&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffed-leadership-transition-shaky-ground-clock-ticks-powells-term-2026-04-16%2f&amp;c=5346302070771220047&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 02:13:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kennedy to tout new food policies but skip vaccines in remarks to US Congress",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c3966a284a6cb545870338c35441&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fkennedy-tout-new-food-policies-skip-vaccines-remarks-us-congress-2026-04-16%2f&amp;c=13050785774365110110&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 02:07:00 GMT",
+        "title": "Wall Street indexes open higher as Mideast diplomacy hopes, earnings lift sentiment",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0ec173291430aa43cc4064e74def7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-edge-higher-mideast-diplomacy-hopes-strong-earnings-2026-04-16%2f&amp;c=1428876169363740470&amp;mkt=en-us",
+        "pubDate": "Thu, 16 Apr 2026 05:34:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "Hopes for deal to end Iran war grow, but nuclear issues unresolved",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c392837941f7b087e09088cd0d50&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fhopes-middle-east-peace-grow-israel-discusses-lebanon-ceasefire-2026-04-16%2f&amp;c=3826623319687764609&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 02:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "OpenAI CEO Altman seeks dismissal of sister's punitive damages claims in sexual abuse lawsuit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c392837941f7b087e09088cd0d50&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fopenai-ceo-altman-seeks-dismissal-sisters-punitive-damages-claims-sexual-abuse-2026-04-16%2f&amp;c=12592623582773488847&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 01:39:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Goldman Sachs rates business hit by Iran war volatility, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c39597544a7fb0b36bf90a5382b4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fgoldman-sachs-rates-business-hit-by-iran-war-volatility-sources-say-2026-04-16%2f&amp;c=8228915158039815062&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Apr 2026 16:33:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Nasdaq sets record highs as investors return to tech stocks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e0c3962ed449ff97d65f775b09d176&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnasdaq-sets-record-highs-investors-return-tech-stocks-2026-04-15%2f&amp;c=2903491063779490852&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Apr 2026 12:50:00 GMT",
-        "category": "tech"
       }
     ],
-    "markets": [
-      {
-        "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post",
-        "link": "https://www.cnbc.com/2026/04/15/regulators-reportedly-zeroing-in-on-suspicious-trades-ahead-of-trump-post.html",
-        "pubDate": "Thu, 16 Apr 2026 11:08:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Don&apos;t call time on dollar dominance just yet, say analysts as &apos;petroyuan&apos; call sparks debate",
-        "link": "https://www.cnbc.com/2026/04/16/us-dollar-dominance-reserve-currency-iran-war-oil-china.html",
-        "pubDate": "Thu, 16 Apr 2026 08:40:59 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Goldman Sachs bond traders stumbled as Wall Street rivals thrived: &apos;A fire is being lit under&apos; them",
-        "link": "https://www.cnbc.com/2026/04/15/goldman-sachs-bond-traders-wall-street-rivals.html",
-        "pubDate": "Wed, 15 Apr 2026 21:31:54 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is &apos;healthy&apos;",
-        "link": "https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html",
-        "pubDate": "Wed, 15 Apr 2026 14:54:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Chinese robotaxi companies forge ahead with UAE expansion despite Iran war",
-        "link": "https://www.cnbc.com/2026/04/15/china-robotaxi-didi-weride-baidu-dubai-uae-expansion.html",
-        "pubDate": "Wed, 15 Apr 2026 14:13:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Morgan Stanley tops estimates as trading revenue exceeds expectations by nearly $1 billion",
-        "link": "https://www.cnbc.com/2026/04/15/morgan-stanley-ms-earnings-1q-2026.html",
-        "pubDate": "Wed, 15 Apr 2026 13:24:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Bank of America, Morgan Stanley, Robinhood &amp; more",
-        "link": "https://www.cnbc.com/2026/04/15/stocks-making-the-biggest-moves-premarket-bac-avgo-hood.html",
-        "pubDate": "Wed, 15 Apr 2026 11:52:17 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
