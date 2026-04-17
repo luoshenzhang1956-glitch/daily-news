@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-04-17T11:06:03.104651",
+  "updated_at": "2026-04-17T13:47:30.066372",
   "news": {
     "ap": [
       {
-        "title": "Man with AR-style pistol arrested at Aetna\u2019s Connecticut headquarters without incident",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2138eb7ab4ba0b3888d9956b7c4fb&amp;url=https%3a%2f%2fapnews.com%2farticle%2faetna-gun-arrest-hartford-connecticut-497fab2d1cd6165ce98a11d28108f038&amp;c=9319060153954891762&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 14:33:00 GMT",
-        "category": "health"
+        "title": "Netflix cofounder and chairman Reed Hastings to step down from board of directors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2391cd1104a5ea650fd0eebde1e0a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnetflix-reed-hastings-leaving-board-5abdd3ed967bbbf6b889b82f9ac90fe5&amp;c=16039917557763088611&amp;mkt=en-us",
+        "pubDate": "Thu, 16 Apr 2026 14:28:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "Why scientists are nervous about fungi",
+        "link": "https://www.npr.org/2026/04/17/g-s1-117632/fungi-drug-resistant-yeast-infection",
+        "pubDate": "Fri, 17 Apr 2026 09:14:18 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Leaders urge for restraint as 10-day Israel-Lebanon ceasefire takes effect",
+        "link": "https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates",
+        "pubDate": "Fri, 17 Apr 2026 08:36:18 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Israel starts a tense ceasefire in Lebanon. And, Trump nominates a new CDC director.",
+        "link": "https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs",
+        "pubDate": "Fri, 17 Apr 2026 07:06:48 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Who says they have no fear of the Trump administration? The quiz knows",
         "link": "https://www.npr.org/2026/04/17/g-s1-117603/pope-trump-fela-swalwell-picasso-news-quiz",
@@ -23,14 +41,14 @@
         "category": "tech"
       },
       {
-        "title": "Do less, ask for more: How to make life easier as a working parent",
-        "link": "https://www.npr.org/2026/04/17/nx-s1-5787794/return-to-work-baby-schedule-adjustment-parental-leave",
-        "pubDate": "Fri, 17 Apr 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
         "title": "Families left reeling after hospitals in blue states drop transgender care for youth",
         "link": "https://www.npr.org/2026/04/17/nx-s1-5780011/blue-state-hospitals-drop-transgender-affirming-care-minors",
+        "pubDate": "Fri, 17 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Do less, ask for more: How to make life easier as a working parent",
+        "link": "https://www.npr.org/2026/04/17/nx-s1-5787794/return-to-work-baby-schedule-adjustment-parental-leave",
         "pubDate": "Fri, 17 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -47,24 +65,6 @@
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/04/17/nx-s1-5780738/morning-news-brief",
-        "pubDate": "Fri, 17 Apr 2026 04:42:49 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "In China, swapping out an EV battery is as fast as filling up a gas tank",
-        "link": "https://www.npr.org/2026/04/17/nx-s1-5786722/in-china-swapping-out-an-ev-battery-is-as-fast-as-filling-up-a-gas-tank",
-        "pubDate": "Fri, 17 Apr 2026 04:42:16 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Trump rails against court decision that once again stalls his White House ballroom project",
-        "link": "https://www.npr.org/2026/04/17/nx-s1-5788576/trump-rails-against-court-decision-that-once-again-stalls-his-white-house-ballroom-project",
-        "pubDate": "Fri, 17 Apr 2026 04:07:59 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "NPR receives $113 million in charitable gifts",
         "link": "https://www.npr.org/2026/04/16/nx-s1-5787634/npr-113-million-charitable-gifts-connie-ballmer",
         "pubDate": "Thu, 16 Apr 2026 10:18:37 -0400",
@@ -73,9 +73,27 @@
     ],
     "bbc": [
       {
-        "title": "Harry and Meghan meet Bondi shooting survivors",
-        "link": "https://www.bbc.com/news/articles/c625dd1zjy3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Apr 2026 10:37:05 GMT",
+        "title": "What is Claude Mythos and what risks does it pose?",
+        "link": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Apr 2026 13:41:01 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Kensington Gardens shut after claims of drones near Israeli embassy",
+        "link": "https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Apr 2026 13:21:48 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66",
+        "link": "https://www.bbc.com/news/articles/cn9qprx2ljlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Apr 2026 12:08:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK petrol and diesel prices fall after weeks of rises",
+        "link": "https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Apr 2026 11:42:41 GMT",
         "category": "Top News"
       },
       {
@@ -85,9 +103,15 @@
         "category": "business"
       },
       {
-        "title": "Three charged with arson on Persian media offices",
-        "link": "https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Apr 2026 08:22:33 GMT",
+        "title": "What we know about the Israel-Lebanon ceasefire",
+        "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Apr 2026 08:44:20 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Avengers reassemble and Ariana meets the Fockers - Hollywood studios preview new movies",
+        "link": "https://www.bbc.com/news/articles/cwyk2xrkvnzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Apr 2026 08:30:34 GMT",
         "category": "Top News"
       },
       {
@@ -103,57 +127,13 @@
         "category": "Top News"
       },
       {
-        "title": "Chris Mason: Mandelson nightmare haunts Starmer again",
-        "link": "https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Apr 2026 00:40:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK seeks closer EU ties in volatile times - but at what cost?",
-        "link": "https://www.bbc.com/news/articles/cqj8pg5yppwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Apr 2026 23:49:34 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Could a digital twin make you into a 'superworker'?",
-        "link": "https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Apr 2026 23:04:15 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Trump's Lebanon ceasefire takes Israel by surprise",
-        "link": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Apr 2026 22:55:59 GMT",
-        "category": "world"
-      },
-      {
         "title": "Rollout of Covid vaccines extraordinary feat - inquiry report",
         "link": "https://www.bbc.com/news/articles/cp8dpjx1yvmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 16 Apr 2026 14:39:07 GMT",
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Companies scramble for tariff refunds as US prepares to launch claim process",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e213ac87724bf7a50d8bc1da3d5a23&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fcompanies-scramble-tariff-refunds-us-prepares-launch-claim-process-2026-04-17%2f&amp;c=11028878632569911121&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 02:04:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "LIV CEO claims 'business as usual' amid reports of demise",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e213b0a5244e188ce3b8e7a4018984&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2fliv-ceo-claims-business-usual-amid-reports-demise--flm-2026-04-17%2f&amp;c=7920312856554609358&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 17:41:00 GMT",
-        "category": "business"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Trump nominates Erica Schwartz as CDC director amid turmoil around leadership, vaccine policy",
-        "link": "https://www.cnbc.com/2026/04/16/trump-nominates-erica-schwartz-as-cdc-director.html",
-        "pubDate": "Thu, 16 Apr 2026 22:39:45 GMT",
-        "category": "health"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
