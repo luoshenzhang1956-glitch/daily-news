@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-04-18T16:53:06.745744",
+  "updated_at": "2026-04-18T19:02:41.680392",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Trump signs order fast tracking review of psychedelics for mental health disorders",
+        "link": "https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health",
+        "pubDate": "Sat, 18 Apr 2026 14:56:06 -0400",
+        "category": "health"
+      },
       {
         "title": "Photos: How overfishing in Southeast Asia is an ecological and human crisis",
         "link": "https://www.npr.org/sections/the-picture-show/2026/04/18/nx-s1-5766110/overfishing-in-southeast-asia",
@@ -43,7 +49,7 @@
         "title": "She invited her friends to come together to make her casket",
         "link": "https://www.npr.org/2026/04/18/nx-s1-5786831/dying-terminally-ill-casket-weaving",
         "pubDate": "Sat, 18 Apr 2026 06:00:00 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Caracas&apos; iconic macaws threatened by vanishing palm trees",
@@ -56,26 +62,26 @@
         "link": "https://www.npr.org/2026/04/18/nx-s1-5789780/iran-middle-east-updates",
         "pubDate": "Sat, 18 Apr 2026 05:15:18 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "What&apos;s it like to negotiate with Iran? We asked people who have done it",
-        "link": "https://www.npr.org/2026/04/18/nx-s1-5783873/iran-talks-islamabad-nuclear-jcpoa",
-        "pubDate": "Sat, 18 Apr 2026 05:01:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
         "title": "Senior official ousted over Mandelson security row to face MPs",
         "link": "https://www.bbc.com/news/articles/c0kryzd8l7no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 18 Apr 2026 16:41:33 GMT",
+        "pubDate": "Sat, 18 Apr 2026 18:51:40 GMT",
         "category": "Top News"
       },
       {
         "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
         "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 18 Apr 2026 16:38:31 GMT",
+        "pubDate": "Sat, 18 Apr 2026 18:09:57 GMT",
         "category": "world"
+      },
+      {
+        "title": "Pope says 'tyrants' speech was not aimed at Trump",
+        "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 18 Apr 2026 16:44:39 GMT",
+        "category": "us"
       },
       {
         "title": "What life is like when you have an unfortunate surname",
@@ -118,34 +124,88 @@
         "link": "https://www.bbc.com/news/articles/c2032x399w1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 17 Apr 2026 23:05:09 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Ontario Premier Doug Ford criticised for $21m private jet purchase",
-        "link": "https://www.bbc.com/news/articles/cvg354r158go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Apr 2026 19:11:16 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "Netherlands to activate first phase of energy crisis plan, ANP reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3b6b862db4fe994c602be4aaa8034&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fnetherlands-activate-first-phase-energy-crisis-plan-anp-reports-2026-04-18%2f&amp;c=15914997422359744468&amp;mkt=en-us",
-        "pubDate": "Sat, 18 Apr 2026 07:45:00 GMT",
-        "category": "business"
+        "title": "Napoli's Serie A title defence all but over after home loss to Lazio",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3d4f665e446a09c0f5ceaabcff394&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnapoli-title-defence-all-over-after-home-loss-lazio-2026-04-18%2f&amp;c=3641948903680670067&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Apr 2026 10:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cubs fill out bullpen after RHP Daniel Palencia moved to IL",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3d4f665e446a09c0f5ceaabcff394&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcubs-fill-out-bullpen-after-rhp-daniel-palencia-moved-il-2026-04-18%2f&amp;c=4824892301112464749&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Apr 2026 10:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wolves on brink of relegation after defeat at Leeds, Bournemouth boost European hopes with win over Newcastle",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3d4f665e446a09c0f5ceaabcff394&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fwrapup1-soccer-wolves-brink-relegation-after-3-0-defeat-leeds-bournemouth-boost-2026-04-18%2f&amp;c=11496664374506901515&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Apr 2026 10:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "NHL Draft Lottery set for May 5",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3d4f665e446a09c0f5ceaabcff394&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fnhl-draft-lottery-set-may-5--flm-2026-04-18%2f&amp;c=11473456991810735430&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Apr 2026 10:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Magyar's parliamentary majority in Hungary increases after final count",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3d4f665e446a09c0f5ceaabcff394&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmagyars-parliamentary-majority-hungary-increases-after-final-count-2026-04-18%2f&amp;c=8623236468551327264&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Apr 2026 10:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Six die in Kyiv shooting, hostage situation; police kill suspect",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3d4f665e446a09c0f5ceaabcff394&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fshooter-opens-fire-kyiv-district-several-dead-mayor-says-2026-04-18%2f&amp;c=15299447269696297456&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Apr 2026 10:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran tightens control of Strait of Hormuz, Trump warns against 'blackmail'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3d4f665e446a09c0f5ceaabcff394&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-says-he-has-good-news-iran-no-clarity-peace-deal-2026-04-18%2f&amp;c=2742961279008833360&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Apr 2026 09:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump signs order to accelerate access to psychedelic drug treatments",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3d4f665e446a09c0f5ceaabcff394&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-announces-reforms-accelerate-access-psychedelic-drug-treatments-2026-04-18%2f&amp;c=7684946495846893291&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Apr 2026 08:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Seventeen people have died in US immigration custody this year, ICE says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3d4f665e446a09c0f5ceaabcff394&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feleven-people-died-us-immigration-custody-this-year-ice-says-2026-04-18%2f&amp;c=2599816215553517010&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Apr 2026 08:54:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "New Jersey's $150 transit fare at World Cup will have 'chilling effect', FIFA warns",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3b6a8fff34cb4b8512cf27e22e956&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnew-jerseys-150-transit-fare-will-have-chilling-effect-fifa-warns-2026-04-18%2f&amp;c=3956385753394534290&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e3d4f9de8446cfb041b4c628a30d73&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnew-jerseys-150-transit-fare-will-have-chilling-effect-fifa-warns-2026-04-18%2f&amp;c=3956385753394534290&amp;mkt=en-us",
         "pubDate": "Sat, 18 Apr 2026 05:24:00 GMT",
         "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Iran says Strait of Hormuz is closed again as vessel attempting to cross comes under gunfire",
+        "title": "Iran says Strait of Hormuz is closed again as vessels attempting to cross come under fire",
         "link": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
-        "pubDate": "Sat, 18 Apr 2026 15:49:11 GMT",
+        "pubDate": "Sat, 18 Apr 2026 18:22:37 GMT",
         "category": "world"
+      },
+      {
+        "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
+        "link": "https://www.cnbc.com/2026/04/18/the-3-forces-that-drove-a-remarkable-record-setting-week-on-wall-street.html",
+        "pubDate": "Sat, 18 Apr 2026 14:13:04 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "&apos;It&apos;s just scale&apos;: Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers",
+        "link": "https://www.cnbc.com/2026/04/18/car-dealerships-auto-retail.html",
+        "pubDate": "Sat, 18 Apr 2026 12:00:01 GMT",
+        "category": "business"
       }
     ]
   }
