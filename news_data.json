@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-04-17T22:52:40.259142",
+  "updated_at": "2026-04-18T02:56:35.255431",
   "news": {
     "ap": [
       {
-        "title": "FACT FOCUS: RFK Jr. says the US is limiting measles outbreaks better than the rest of the world",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b92542c94712b1427658a003419a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeasles-vaccine-outbreak-mmr-rfk-canada-mexico-bed6d69b668b9d8548ad65dab1a4fd9c&amp;c=16406393708049624253&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 15:09:00 GMT",
-        "category": "health"
+        "title": "US extends waiver on Russian oil sanctions to ease Iran war shortages despite Bessent denial",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2f23a25fa4c528258e5aeeb2f44c8&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussian-oil-sanctions-iran-war-95ae06ece63f4f8c1f72ac3c2dc4251f&amp;c=7487930806919468604&amp;mkt=en-us",
+        "pubDate": "Fri, 17 Apr 2026 19:45:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "White House chief of staff meets with Anthropic CEO over its new AI technology",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2f24db9b941d887cee3a85569e1ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwhite-house-anthropic-meeting-ai-mythos-f3c590fcee98297832973d02d3979c87&amp;c=1445740373348175399&amp;mkt=en-us",
+        "pubDate": "Fri, 17 Apr 2026 15:21:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
+      {
+        "title": "Judge halts local TV giant Nexstar&apos;s takeover of rival Tegna until trial",
+        "link": "https://www.npr.org/2026/04/17/nx-s1-5789059/judge-halts-nexstar-tegna-merger-lawsuits",
+        "pubDate": "Fri, 17 Apr 2026 22:24:06 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Deaths of migrants in ICE custody hit record high under Trump",
+        "link": "https://www.npr.org/2026/04/17/nx-s1-5789092/deaths-of-migrants-in-ice-custody-hit-record-high-under-trump",
+        "pubDate": "Fri, 17 Apr 2026 20:39:50 -0400",
+        "category": "us"
+      },
       {
         "title": "Animal activists celebrate their first global &apos;Sanctuary Day&apos;",
         "link": "https://www.npr.org/2026/04/17/nx-s1-5775921/animal-activists-are-celebrating-their-first-global-sanctuary-day",
@@ -20,7 +38,7 @@
         "title": "Gasoline could drop below $4 in coming days",
         "link": "https://www.npr.org/2026/04/17/nx-s1-5788819/oil-gasoline-cheaper-war-iran",
         "pubDate": "Fri, 17 Apr 2026 14:47:31 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Why scientists are nervous about fungi",
@@ -44,7 +62,7 @@
         "title": "Who says they have no fear of the Trump administration? The quiz knows",
         "link": "https://www.npr.org/2026/04/17/g-s1-117603/pope-trump-fela-swalwell-picasso-news-quiz",
         "pubDate": "Fri, 17 Apr 2026 05:01:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "The Labor Department wants to teach you to use AI more. Here&apos;s what we found",
@@ -57,21 +75,33 @@
         "link": "https://www.npr.org/2026/04/17/nx-s1-5721174/rights-groups-raise-alarm-over-fate-of-salvadorans-deported-from-us-trump",
         "pubDate": "Fri, 17 Apr 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Do less, ask for more: How to make life easier as a working parent",
-        "link": "https://www.npr.org/2026/04/17/nx-s1-5787794/return-to-work-baby-schedule-adjustment-parental-leave",
-        "pubDate": "Fri, 17 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Logjam of U.S. immigration applications puts millions at greater risk of deportation",
-        "link": "https://www.npr.org/2026/04/17/nx-s1-5777632/us-trump-immigration-delay-applications-citizenship-deportation",
-        "pubDate": "Fri, 17 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
+        "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 18 Apr 2026 00:37:06 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
+        "link": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 18 Apr 2026 00:00:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
+        "link": "https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Apr 2026 23:35:23 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Mortgage rates show signs of falling after Iran war peak",
+        "link": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Apr 2026 23:33:10 GMT",
+        "category": "business"
+      },
       {
         "title": "Iran says Strait of Hormuz is 'open' but tracking shows few ships moving",
         "link": "https://www.bbc.com/news/articles/cwydexp39ddo?at_medium=RSS&amp;at_campaign=rss",
@@ -97,12 +127,6 @@
         "category": "us"
       },
       {
-        "title": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
-        "link": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Apr 2026 19:05:43 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Irish fugitive and alleged crime boss Daniel Kinahan arrested in Dubai",
         "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 17 Apr 2026 17:48:13 GMT",
@@ -113,88 +137,35 @@
         "link": "https://www.bbc.com/news/articles/cq6jq12dmmro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 17 Apr 2026 16:39:42 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
-        "link": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Apr 2026 16:23:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Mental health support to be offered to people with diabetes in UK first",
-        "link": "https://www.bbc.com/news/articles/c3wlpw3l03qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Apr 2026 10:47:31 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-        "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Apr 2026 10:22:46 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "American rejects merger talks with United Airlines",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b929066b47f9b0d235e9f1808bc9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2famerican-denies-that-it-is-merger-talks-with-united-airlines-2026-04-17%2f&amp;c=3643996395937726940&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 14:36:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wall Street indexes hit record highs as oil falls with Strait of Hormuz declared open",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b929066b47f9b0d235e9f1808bc9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-climb-middle-east-peace-hopes-investors-eye-strong-finish-week-2026-04-17%2f&amp;c=12774524033694059378&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 14:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran says Strait of Hormuz open as Trump sees deal 'soon' to end war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b929066b47f9b0d235e9f1808bc9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-says-iran-war-should-end-soon-both-sides-may-meet-weekend-2026-04-17%2f&amp;c=11461148987732581295&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 14:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Mythos a serious threat but more will follow, Barclays CEO says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b959e6bc4ec7b9c066f927385ed1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fmythos-serious-threat-more-will-follow-barclays-ceo-says-2026-04-17%2f&amp;c=5740340164388370313&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 14:04:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Utah judge weighs Tyler Robinson request to ban TV from courtroom",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b929066b47f9b0d235e9f1808bc9&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2futah-judge-weighs-tyler-robinson-request-ban-tv-courtroom-2026-04-17%2f&amp;c=7636528956693280965&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 14:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "White House and Anthropic CEO discuss working together amid rising fear about Mythos model",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b929066b47f9b0d235e9f1808bc9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fanthropic-ceo-dario-amodei-arrives-white-house-talks-2026-04-17%2f&amp;c=9553975008489315577&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 13:44:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump set to ease restrictions on psychedelic drug used to treat PTSD",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b929066b47f9b0d235e9f1808bc9&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2ftrump-set-ease-restrictions-psychedelic-drug-used-treat-ptsd-2026-04-17%2f&amp;c=164873039583370210&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 13:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Exclusive: US Fed has told big banks not to push back aggressively on new capital rules",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b929066b47f9b0d235e9f1808bc9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-fed-has-told-big-banks-not-push-back-aggressively-new-capital-rules-2026-04-17%2f&amp;c=6275497038666280656&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 12:49:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How 50 days of the Iran war led to the loss of $50 billion worth of oil",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b929066b47f9b0d235e9f1808bc9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fhow-50-days-iran-war-led-loss-50-billion-worth-oil-2026-04-17%2f&amp;c=5883439317687919589&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Apr 2026 12:17:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Musician D4vd arrested on suspicion of murder of 14-year-old girl",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2b929066b47f9b0d235e9f1808bc9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fmusician-d4vd-arrested-suspicion-murder-14-year-old-girl-2026-04-17%2f&amp;c=3650170384006482806&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Apr 2026 23:35:00 GMT",
-        "category": "Top News"
+        "title": "Vondrousova reveals mental health struggles behind doping control incident",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e2f2a06fe6494d8513184afc0d5f15&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ftennis%2fvondrousova-reveals-mental-health-struggles-behind-doping-control-incident-2026-04-17%2f&amp;c=11541397196965279731&amp;mkt=en-us",
+        "pubDate": "Fri, 17 Apr 2026 09:20:00 GMT",
+        "category": "health"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "These stocks reporting next week are seeing their earnings momentum rise",
+        "link": "https://www.cnbc.com/2026/04/17/these-stocks-reporting-next-week-are-seeing-their-earnings-momentum-rise.html",
+        "pubDate": "Fri, 17 Apr 2026 20:01:39 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix &amp; more",
+        "link": "https://www.cnbc.com/2026/04/17/stocks-making-the-biggest-moves-midday-rcl-xom-crml-nflx.html",
+        "pubDate": "Fri, 17 Apr 2026 18:57:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "If a violent downturn strikes the market, new ETF strategies may be vulnerable. Here&apos;s why",
+        "link": "https://www.cnbc.com/2026/04/17/violent-downturns-could-test-new-etf-strategies-warns-mfs-investment.html",
+        "pubDate": "Fri, 17 Apr 2026 11:00:01 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
