@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-19T14:51:16.071183",
+  "updated_at": "2026-04-19T16:53:36.353493",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "Photos: In this part of the world, nearly every chile pepper farmer is a woman",
+        "title": "Why nearly every farmer who grows these chile peppers is a woman",
         "link": "https://www.npr.org/2026/04/19/g-s1-116759/red-hot-peppers-women-farmers-india",
         "pubDate": "Sun, 19 Apr 2026 07:16:30 -0400",
         "category": "health"
@@ -34,7 +34,7 @@
         "category": "Top News"
       },
       {
-        "title": "School choice is booming in Iowa. Are students better off?",
+        "title": "Iowa went all-in on school choice. It&apos;s hurting this city&apos;s public schools",
         "link": "https://www.npr.org/2026/04/19/nx-s1-5683199/education-school-choice-iowa-students-charter-school-cedar-rapids",
         "pubDate": "Sun, 19 Apr 2026 05:00:00 -0400",
         "category": "Top News"
@@ -66,15 +66,21 @@
     ],
     "bbc": [
       {
-        "title": "Chief Rabbi says attacks 'gathering momentum' after new synagogue arson attempt",
-        "link": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 14:39:54 GMT",
+        "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
+        "link": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Apr 2026 15:50:48 GMT",
         "category": "Top News"
       },
       {
         "title": "Attempted murder arrest after car hits pedestrians in central London",
         "link": "https://www.bbc.com/news/articles/cm2kgvlrmdeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 12:36:30 GMT",
+        "pubDate": "Sun, 19 Apr 2026 15:48:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chief Rabbi says attacks 'gathering momentum' after another synagogue targeted",
+        "link": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Apr 2026 14:39:54 GMT",
         "category": "Top News"
       },
       {
@@ -102,16 +108,10 @@
         "category": "business"
       },
       {
-        "title": "Australia's most-decorated soldier vows to fight war crime charges",
-        "link": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 05:12:40 GMT",
+        "title": "Pope says 'tyrants' speech was not aimed at Trump",
+        "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Apr 2026 07:47:35 GMT",
         "category": "world"
-      },
-      {
-        "title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
-        "link": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 18 Apr 2026 23:09:30 GMT",
-        "category": "Top News"
       },
       {
         "title": "Should you really trust health advice from an AI chatbot?",
@@ -126,19 +126,74 @@
         "category": "us"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "From AI shopping to video, Alibaba is making the investments analysts want to see",
-        "link": "https://www.cnbc.com/2026/04/19/baba-makes-ai-investments-stock-analysts-want-to-see.html",
-        "pubDate": "Sun, 19 Apr 2026 12:21:37 GMT",
+        "title": "Afiq Fitri Alias",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fauthors%2fafiq-fitri-alias%2f&amp;c=14677767451066046956&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 09:48:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "SiIicon Valley&apos;s AI agent hiccups: Wasted tokens and &apos;chaotic&apos; systems",
-        "link": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html",
-        "pubDate": "Sun, 19 Apr 2026 12:00:01 GMT",
-        "category": "tech"
+        "title": "Fire in Malaysia's Sabah destroys 1,000 homes, thousands displaced",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2ffire-malaysias-sabah-destroys-200-homes-hundreds-displaced-2026-04-19%2f&amp;c=2103747222422196467&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 08:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US energy chief says gas prices could stay above $3 per gallon until next year",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5082f89fe496e8358a6b247ced2a5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-energy-chief-says-gas-prices-could-stay-above-3-per-gallon-until-next-year-2026-04-19%2f&amp;c=10419004961876407119&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 08:28:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Van Dijk scores late winner to snatch 2-1 derby win for Liverpool over Everton",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fvan-dijk-scores-late-winner-snatch-2-1-derby-win-over-everton-2026-04-19%2f&amp;c=4246999905449150196&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 07:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fhumanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19%2f&amp;c=1159334059483870521&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 07:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Eight people remain in hospital after Kyiv shooting, mayor says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2feight-people-remain-hospital-after-kyiv-shooting-mayor-says-2026-04-19%2f&amp;c=5148489855833530524&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 07:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says US delegation to go to Pakistan for Iran talks, threatens new strikes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-iran-cite-progress-talks-uncertainty-hangs-over-strait-2026-04-19%2f&amp;c=6092297718261784664&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 07:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran currently has no decision to send a negotiating delegation to Pakistan, Tasnim reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-currently-has-no-decision-send-negotiating-delegation-pakistan-tasnim-2026-04-19%2f&amp;c=3577678450888812003&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 06:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iranians expect no post-war respite under military rule",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firanians-fear-sharpening-pressure-after-war-crackdown-2026-04-18%2f&amp;c=9482753412278145279&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 05:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump signs order to accelerate access to psychedelic drug treatments",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-announces-reforms-accelerate-access-psychedelic-drug-treatments-2026-04-18%2f&amp;c=7684946495846893291&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Apr 2026 17:17:00 GMT",
+        "category": "Top News"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+        "link": "https://www.cnbc.com/2026/04/19/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
+        "pubDate": "Sun, 19 Apr 2026 12:26:04 GMT",
+        "category": "us"
       }
     ]
   }
