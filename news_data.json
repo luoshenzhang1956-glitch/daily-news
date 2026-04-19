@@ -1,26 +1,50 @@
 {
-  "updated_at": "2026-04-19T20:47:10.727957",
+  "updated_at": "2026-04-19T22:44:16.340025",
   "news": {
     "ap": [
       {
-        "title": "Canada\u2019s prime minister says economic ties with US are a weakness that must be corrected",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f0560a34afbafc398d32f554109&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcanada-carney-economic-ties-us-cbf3bc6cbfde27cfae7d85602126785a&amp;c=17888378257455769758&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 12:33:00 GMT",
+        "title": "US seizes Iranian-flagged ship near Strait of Hormuz and Tehran vows to respond",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e55a3ca6e942d3a762754c5b72d352&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3&amp;c=16378558225355583575&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 15:24:00 GMT",
         "category": "us"
       },
       {
         "title": "A humanoid robot sprints to victory in Beijing, beating the human half-marathon world record",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f0455f147fd814008d47a03c6bc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhumanoid-robots-half-marathon-beijing-302d0c4781bab20100d6a0bb4e77b629&amp;c=1851711162595239084&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e55a3bfe6647268c615b3439dc3040&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhumanoid-robots-half-marathon-beijing-302d0c4781bab20100d6a0bb4e77b629&amp;c=1851711162595239084&amp;mkt=en-us",
         "pubDate": "Sun, 19 Apr 2026 04:01:00 GMT",
         "category": "world"
       }
     ],
     "npr": [
       {
-        "title": "Eight children killed in a shooting in Louisiana, police say",
+        "title": "Communities launch cleanup after severe weather and tornadoes churn across Midwest",
+        "link": "https://www.npr.org/2026/04/19/nx-s1-5790463/midwest-tornadoes-cleanup-illinois-minnesota-wisconsin",
+        "pubDate": "Sun, 19 Apr 2026 17:57:21 -0400",
+        "category": "us"
+      },
+      {
+        "title": "U.S. says it seized an Iranian cargo ship, ceasefire expires soon",
+        "link": "https://www.npr.org/2026/04/19/nx-s1-5790487/u-s-says-it-seized-an-iranian-cargo-ship-ceasefire-expires-soon",
+        "pubDate": "Sun, 19 Apr 2026 17:01:39 -0400",
+        "category": "world"
+      },
+      {
+        "title": "At the Canton Fair, Chinese manufacturing takes center stage",
+        "link": "https://www.npr.org/2026/04/19/nx-s1-5789961/at-the-canton-fair-chinese-manufacturing-takes-center-stage",
+        "pubDate": "Sun, 19 Apr 2026 17:01:38 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Will the DHS shutdown affect security for the World Cup?",
+        "link": "https://www.npr.org/2026/04/19/nx-s1-5787954/will-the-dhs-shutdown-affect-security-for-the-world-cup",
+        "pubDate": "Sun, 19 Apr 2026 17:01:35 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "8 children killed in a shooting in Louisiana, police say",
         "link": "https://www.npr.org/2026/04/19/nx-s1-5790483/mass-shooting-eight-children-louisiana-shreveport",
         "pubDate": "Sun, 19 Apr 2026 13:26:42 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Why nearly every farmer who grows these chile peppers is a woman",
@@ -29,10 +53,10 @@
         "category": "health"
       },
       {
-        "title": "U.S. seizes Iranian cargo ship in Strait of Hormuz, Trump says",
+        "title": "U.S. seizes Iranian cargo ship in Strait of Hormuz",
         "link": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
         "pubDate": "Sun, 19 Apr 2026 07:12:37 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Real estate investors are buying up long-term care facilities. Residents can suffer",
@@ -44,62 +68,38 @@
         "title": "This tariff-refund portal is about to be America&apos;s hottest website",
         "link": "https://www.npr.org/2026/04/19/nx-s1-5786635/tariff-refunds-customs-ace-portal",
         "pubDate": "Sun, 19 Apr 2026 06:30:00 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "She no longer remembers it&apos;s her birthday. He got her a present anyway",
         "link": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
         "pubDate": "Sun, 19 Apr 2026 06:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Iowa went all-in on school choice. It&apos;s hurting this city&apos;s public schools",
-        "link": "https://www.npr.org/2026/04/19/nx-s1-5683199/education-school-choice-iowa-students-charter-school-cedar-rapids",
-        "pubDate": "Sun, 19 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The Little Probe That Could: Why Voyager 1 Matters, and Why NASA Just Switched Part of It Off",
-        "link": "https://www.npr.org/2026/04/19/nx-s1-5789935/voyager-1-probe-nasa",
-        "pubDate": "Sun, 19 Apr 2026 01:40:28 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "North Korea launches ballistic missiles toward sea",
-        "link": "https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles",
-        "pubDate": "Sat, 18 Apr 2026 20:54:43 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "US Coast Guard spots overturned vessel near Saipan during search for missing ship",
-        "link": "https://www.npr.org/2026/04/18/nx-s1-5789936/us-coast-guard-overturned-vessel-mariana",
-        "pubDate": "Sat, 18 Apr 2026 20:11:09 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Ontario Premier Doug Ford agrees to sell $21m private jet following outcry",
-        "link": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 19:25:22 GMT",
+        "title": "Eight children killed in Louisiana shooting, police say",
+        "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Apr 2026 22:24:00 GMT",
         "category": "us"
       },
       {
-        "title": "Eight children killed in Louisiana shooting, police say",
-        "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 19:22:44 GMT",
+        "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+        "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Apr 2026 21:39:43 GMT",
         "category": "world"
+      },
+      {
+        "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+        "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Apr 2026 21:09:06 GMT",
+        "category": "Top News"
       },
       {
         "title": "Chief Rabbi says attacks 'gathering momentum' after another synagogue targeted",
         "link": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Apr 2026 17:03:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
-        "link": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 15:50:48 GMT",
         "category": "Top News"
       },
       {
@@ -141,77 +141,35 @@
     ],
     "reuters": [
       {
-        "title": "Keller directs Pirates over Rays to clinch series win",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f195f0348b79fe4f6c7ea36c774&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fkeller-directs-pirates-over-rays-clinch-series-win--flm-2026-04-19%2f&amp;c=2719969099687288441&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 13:20:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Angels activate OF/DH Jorge Soler from four-game suspension",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f195f0348b79fe4f6c7ea36c774&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fangels-activate-ofdh-jorge-soler-four-game-suspension--flm-2026-04-19%2f&amp;c=11574449572734863241&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 12:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Celtics storm to early lead, roll past 76ers in series opener",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f195f0348b79fe4f6c7ea36c774&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbasketball%2fceltics-storm-early-lead-roll-past-76ers-series-opener--flm-2026-04-19%2f&amp;c=17620576202498117411&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 12:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US seizes Iranian cargo ship as Tehran rejects a second round of peace talks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f195f0348b79fe4f6c7ea36c774&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-iran-cite-progress-talks-uncertainty-hangs-over-strait-2026-04-19%2f&amp;c=6092297718261784664&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 12:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US energy chief says gas prices could stay above $3 per gallon until next year",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f1b3f974852ae4813561662f7e2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-energy-chief-says-gas-prices-could-stay-above-3-per-gallon-until-next-year-2026-04-19%2f&amp;c=10419004961876407119&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 12:11:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Ukraine pushes for Europe to build defense system against ballistic weapons",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f195f0348b79fe4f6c7ea36c774&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fukraine-pushes-europe-build-defense-system-against-ballistic-weapons-2026-04-19%2f&amp;c=9353512275572372428&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 11:43:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Title race starts now, says defiant Arsenal boss Arteta",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f195f0348b79fe4f6c7ea36c774&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ftitle-race-starts-now-says-defiant-arsenal-boss-arteta-2026-04-19%2f&amp;c=10092934771461275637&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 11:42:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US security agency is using Anthropic's Mythos despite blacklist, Axios reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f1cec6b4cf2bbb206b00e2947a6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19%2f&amp;c=17698197407765184017&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 10:32:00 GMT",
-        "category": "business"
+        "title": "Rat poison found in HiPP baby food jar in Austria, police say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e55a82b080457a9e5b21cd59b43a20&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2frat-poison-found-hipp-baby-food-jar-austria-police-say-2026-04-19%2f&amp;c=15162047077438791926&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 05:50:00 GMT",
+        "category": "health"
       },
       {
         "title": "Two foreigners arrested in Iran for importing Starlink technology, Tasnim reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f1ed90d4e9b8a8d55f1929e91f3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftwo-foreigners-arrested-iran-importing-starlink-technology-tasnim-reports-2026-04-19%2f&amp;c=6499343708155295663&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e55a81b566493b84fdb41cfa7d584f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftwo-foreigners-arrested-iran-importing-starlink-technology-tasnim-reports-2026-04-19%2f&amp;c=6499343708155295663&amp;mkt=en-us",
         "pubDate": "Sun, 19 Apr 2026 02:53:00 GMT",
         "category": "tech"
       },
       {
         "title": "IMF, World Bank meetings show limits in mitigating shocks, reliance on US for solutions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e53f1ad66047c08185444062d6bbe0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fimf-world-bank-meetings-show-limits-mitigating-shocks-reliance-us-solutions-2026-04-19%2f&amp;c=14173378181774984080&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e55a6c03f440e0bb9b4f6ec1a5bc71&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fimf-world-bank-meetings-show-limits-mitigating-shocks-reliance-us-solutions-2026-04-19%2f&amp;c=14173378181774984080&amp;mkt=en-us",
         "pubDate": "Sun, 19 Apr 2026 02:12:00 GMT",
         "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
-        "link": "https://www.cnbc.com/2026/04/19/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
-        "pubDate": "Sun, 19 Apr 2026 12:26:04 GMT",
-        "category": "us"
+        "title": "U.S. struck, seized Iranian-flagged ship Touska in Gulf of Oman, Trump says",
+        "link": "https://www.cnbc.com/2026/04/19/trump-navy-iran-ship-gulf-of-oman.html",
+        "pubDate": "Sun, 19 Apr 2026 21:28:47 GMT",
+        "category": "world"
       },
       {
-        "title": "SiIicon Valley&apos;s AI agent hiccups: Wasted tokens and &apos;chaotic&apos; systems",
-        "link": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html",
-        "pubDate": "Sun, 19 Apr 2026 12:00:01 GMT",
+        "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
+        "link": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
+        "pubDate": "Sun, 19 Apr 2026 21:19:57 GMT",
         "category": "tech"
       }
     ]
