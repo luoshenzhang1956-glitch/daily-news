@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-04-19T16:53:36.353493",
+  "updated_at": "2026-04-19T19:02:01.574436",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "To make hosting less stressful, strive for connection and not perfection",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5264510a74b33a5b7a153a1d384d8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhosting-party-stress-food-guests-2b5e6b08fda9776a2e27e1f1775439d5&amp;c=10060753639942786904&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 06:36:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Trump wants to stop states from regulating AI. This Utah Republican isn\u2019t listening",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5264489264b2fb92de6385241fb77&amp;url=https%3a%2f%2fapnews.com%2farticle%2fartificial-intelligence-trump-national-standard-states-rights-93367902d4569bb1b1260d48744b1578&amp;c=8972213455451966621&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 05:46:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "Eight children killed in a shooting in Louisiana, police say",
+        "link": "https://www.npr.org/2026/04/19/nx-s1-5790483/mass-shooting-eight-children-louisiana-shreveport",
+        "pubDate": "Sun, 19 Apr 2026 13:26:42 -0400",
+        "category": "us"
+      },
       {
         "title": "Why nearly every farmer who grows these chile peppers is a woman",
         "link": "https://www.npr.org/2026/04/19/g-s1-116759/red-hot-peppers-women-farmers-india",
@@ -19,7 +38,7 @@
         "title": "Real estate investors are buying up long-term care facilities. Residents can suffer",
         "link": "https://www.npr.org/2026/04/19/nx-s1-5786242/profit-landlord-real-estate-investment-trust-nursing-homes-safety",
         "pubDate": "Sun, 19 Apr 2026 07:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "This tariff-refund portal is about to be America&apos;s hottest website",
@@ -56,15 +75,21 @@
         "link": "https://www.npr.org/2026/04/18/nx-s1-5789936/us-coast-guard-overturned-vessel-mariana",
         "pubDate": "Sat, 18 Apr 2026 20:11:09 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Life jacket worn by a passenger who survived the Titanic auctioned off for over $900,000",
-        "link": "https://www.npr.org/2026/04/18/nx-s1-5789909/life-jacket-titanic-auction",
-        "pubDate": "Sat, 18 Apr 2026 17:43:56 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Eight children killed in Louisiana shooting, police say",
+        "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Apr 2026 17:36:38 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Chief Rabbi says attacks 'gathering momentum' after another synagogue targeted",
+        "link": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Apr 2026 17:03:47 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
         "link": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&amp;at_campaign=rss",
@@ -78,9 +103,9 @@
         "category": "Top News"
       },
       {
-        "title": "Chief Rabbi says attacks 'gathering momentum' after another synagogue targeted",
-        "link": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 14:39:54 GMT",
+        "title": "Twenty goals and a burning yellow card - the best bits from Sidemen charity match",
+        "link": "https://www.bbc.com/news/articles/ckgedvmzv2mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Apr 2026 12:57:56 GMT",
         "category": "Top News"
       },
       {
@@ -96,22 +121,10 @@
         "category": "Top News"
       },
       {
-        "title": "Watch: Runners v robots at China half marathon",
-        "link": "https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 08:46:34 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'My school cannot afford free breakfast club'",
         "link": "https://www.bbc.com/news/articles/c8x7217vv28o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Apr 2026 08:24:53 GMT",
         "category": "business"
-      },
-      {
-        "title": "Pope says 'tyrants' speech was not aimed at Trump",
-        "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 07:47:35 GMT",
-        "category": "world"
       },
       {
         "title": "Should you really trust health advice from an AI chatbot?",
@@ -128,72 +141,48 @@
     ],
     "reuters": [
       {
-        "title": "Afiq Fitri Alias",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fauthors%2fafiq-fitri-alias%2f&amp;c=14677767451066046956&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 09:48:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fire in Malaysia's Sabah destroys 1,000 homes, thousands displaced",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2ffire-malaysias-sabah-destroys-200-homes-hundreds-displaced-2026-04-19%2f&amp;c=2103747222422196467&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 08:36:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "US energy chief says gas prices could stay above $3 per gallon until next year",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5082f89fe496e8358a6b247ced2a5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-energy-chief-says-gas-prices-could-stay-above-3-per-gallon-until-next-year-2026-04-19%2f&amp;c=10419004961876407119&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 08:28:00 GMT",
-        "category": "business"
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5266bd14548d0abf4bb4d9ac739c7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-energy-chief-says-gas-prices-could-stay-above-3-per-gallon-until-next-year-2026-04-19%2f&amp;c=10419004961876407119&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 09:39:00 GMT",
+        "category": "us"
       },
       {
-        "title": "Van Dijk scores late winner to snatch 2-1 derby win for Liverpool over Everton",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fvan-dijk-scores-late-winner-snatch-2-1-derby-win-over-everton-2026-04-19%2f&amp;c=4246999905449150196&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 07:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fhumanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19%2f&amp;c=1159334059483870521&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 07:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Eight people remain in hospital after Kyiv shooting, mayor says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2feight-people-remain-hospital-after-kyiv-shooting-mayor-says-2026-04-19%2f&amp;c=5148489855833530524&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 07:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says US delegation to go to Pakistan for Iran talks, threatens new strikes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-iran-cite-progress-talks-uncertainty-hangs-over-strait-2026-04-19%2f&amp;c=6092297718261784664&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 07:27:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran currently has no decision to send a negotiating delegation to Pakistan, Tasnim reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-currently-has-no-decision-send-negotiating-delegation-pakistan-tasnim-2026-04-19%2f&amp;c=3577678450888812003&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 06:08:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iranians expect no post-war respite under military rule",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firanians-fear-sharpening-pressure-after-war-crackdown-2026-04-18%2f&amp;c=9482753412278145279&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Apr 2026 05:24:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump signs order to accelerate access to psychedelic drug treatments",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5080b647d46b4ba2ac10ef2366bd0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-announces-reforms-accelerate-access-psychedelic-drug-treatments-2026-04-18%2f&amp;c=7684946495846893291&amp;mkt=en-us",
-        "pubDate": "Sat, 18 Apr 2026 17:17:00 GMT",
-        "category": "Top News"
+        "title": "Rat poison found in HiPP baby food jar in Austria, police say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5268a7fcb4e1182a926ba254fc1d8&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2frat-poison-found-hipp-baby-food-jar-austria-police-say-2026-04-19%2f&amp;c=15162047077438791926&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 05:50:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
+      {
+        "title": "Iran rebuffs Trump&apos;s plan for new round of peace talks, state media reports",
+        "link": "https://www.cnbc.com/2026/04/19/iran-says-talks-continue-while-it-retains-control-of-strait-of-hormuz-.html",
+        "pubDate": "Sun, 19 Apr 2026 18:57:26 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Software stock dogs have joined market rally. There&apos;s a classic investing lesson in the rebound",
+        "link": "https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html",
+        "pubDate": "Sun, 19 Apr 2026 18:38:11 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
         "link": "https://www.cnbc.com/2026/04/19/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
         "pubDate": "Sun, 19 Apr 2026 12:26:04 GMT",
         "category": "us"
+      },
+      {
+        "title": "From AI shopping to video, Alibaba is making the investments analysts want to see",
+        "link": "https://www.cnbc.com/2026/04/19/baba-makes-ai-investments-stock-analysts-want-to-see.html",
+        "pubDate": "Sun, 19 Apr 2026 12:21:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "SiIicon Valley&apos;s AI agent hiccups: Wasted tokens and &apos;chaotic&apos; systems",
+        "link": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html",
+        "pubDate": "Sun, 19 Apr 2026 12:00:01 GMT",
+        "category": "tech"
       }
     ]
   }
