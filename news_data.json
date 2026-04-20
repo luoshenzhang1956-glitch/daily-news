@@ -1,19 +1,32 @@
 {
-  "updated_at": "2026-04-20T03:35:17.121096",
+  "updated_at": "2026-04-20T06:23:06.317809",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Oil prices and stocks climb as the US-Iran standoff keeps the Strait of Hormuz in limbo",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c5d8759f4fcebba70c5b201e1b45&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-oil-iran-trump-6786cc283bc5b7cb78a3a9b7b5c2b1ac&amp;c=3595951894696490632&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 20:54:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "A humanoid robot sprints past the human half-marathon world record in Beijing race",
+        "link": "https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon",
+        "pubDate": "Mon, 20 Apr 2026 02:10:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "U.K police investigating if attacks in London are the work of Iranian proxies",
+        "link": "https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies",
+        "pubDate": "Mon, 20 Apr 2026 01:34:19 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Communities launch cleanup after severe weather and tornadoes churn across Midwest",
         "link": "https://www.npr.org/2026/04/19/nx-s1-5790463/midwest-tornadoes-cleanup-illinois-minnesota-wisconsin",
         "pubDate": "Sun, 19 Apr 2026 17:57:21 -0400",
         "category": "us"
-      },
-      {
-        "title": "U.S. says it seized an Iranian cargo ship, ceasefire expires soon",
-        "link": "https://www.npr.org/2026/04/19/nx-s1-5790487/u-s-says-it-seized-an-iranian-cargo-ship-ceasefire-expires-soon",
-        "pubDate": "Sun, 19 Apr 2026 17:01:39 -0400",
-        "category": "world"
       },
       {
         "title": "At the Canton Fair, Chinese manufacturing takes center stage",
@@ -56,32 +69,38 @@
         "link": "https://www.npr.org/2026/04/19/nx-s1-5786635/tariff-refunds-customs-ace-portal",
         "pubDate": "Sun, 19 Apr 2026 06:30:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "She no longer remembers it&apos;s her birthday. He got her a present anyway",
-        "link": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
-        "pubDate": "Sun, 19 Apr 2026 06:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Reform pledges to review all asylum claims since 2021 if it wins power",
+        "link": "https://www.bbc.com/news/articles/c0rxd5wpyqwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 06:14:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The insider trading suspicions looming over Trump's presidency",
+        "link": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 05:13:58 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Spat at, threatened and kidnapped: British Jews tell of rising antisemitism",
+        "link": "https://www.bbc.com/news/articles/cwyxxjgdn94o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 05:00:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
+        "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 04:10:40 GMT",
+        "category": "world"
+      },
       {
         "title": "Oil prices rise after Trump says Iranian ship seized",
         "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 20 Apr 2026 02:29:04 GMT",
         "category": "business"
-      },
-      {
-        "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
-        "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 01:38:17 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Five questions awaiting Starmer as he faces Commons over Mandelson scandal",
-        "link": "https://www.bbc.com/news/articles/c5yw6egnjg2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 23:32:56 GMT",
-        "category": "Top News"
       },
       {
         "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
@@ -90,9 +109,9 @@
         "category": "Top News"
       },
       {
-        "title": "The insider trading suspicions looming over Trump's presidency",
-        "link": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 23:02:06 GMT",
+        "title": "New university free speech complaints system to come into force this year",
+        "link": "https://www.bbc.com/news/articles/cm29dngvjqeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Apr 2026 23:06:13 GMT",
         "category": "Top News"
       },
       {
@@ -102,21 +121,9 @@
         "category": "health"
       },
       {
-        "title": "Eight children killed in Louisiana shooting, police say",
-        "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 22:54:51 GMT",
-        "category": "us"
-      },
-      {
         "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
         "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Apr 2026 21:09:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Chief Rabbi says attacks 'gathering momentum' after another synagogue targeted",
-        "link": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Apr 2026 17:03:47 GMT",
         "category": "Top News"
       },
       {
@@ -126,7 +133,68 @@
         "category": "Top News"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Gold falls on stronger dollar amid renewed US-Iran tensions",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c60814304abb911b1d2682d1be84&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fgold-falls-stronger-dollar-amid-renewed-us-iran-tensions-2026-04-20%2f&amp;c=10790656253018150743&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 21:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil jumps, stocks wobble as Mideast ceasefire hangs in the balance",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c60814304abb911b1d2682d1be84&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-wrapup-1-graphic-2026-04-19%2f&amp;c=16419338382669809766&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 21:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil rises 5% on renewed US-Iran tension",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c60afdbb49b4b557e7a124b70f12&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-prices-rebound-7-strait-hormuz-is-closed-again-2026-04-19%2f&amp;c=9142044790116783734&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 21:30:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Japan households' inflation expectations roughly steady, BOJ survey shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c60814304abb911b1d2682d1be84&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapan-households-inflation-expectations-roughly-steady-boj-survey-shows-2026-04-20%2f&amp;c=3210705786887384317&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 21:14:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bulgaria's Kremlin-friendly ex-president set for landslide election win",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c60814304abb911b1d2682d1be84&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fbulgarias-kremlin-friendly-ex-president-set-landslide-election-win-2026-04-20%2f&amp;c=11207847541461124519&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 21:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Taiwan business group urges Beijing, Taipei to keep politics out of trade",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c60d03904dcd8f8a194370a10b3b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftaiwan-business-group-urges-beijing-taipei-keep-politics-out-trade-2026-04-20%2f&amp;c=6584803920549570967&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 20:42:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Huawei signs deal with Vietnamese bank SHB to expand Vietnam footprint",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c60e05144be4ad930647c26c0193&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fhuawei-signs-deal-with-vietnamese-bank-shb-expand-vietnam-footprint-2026-04-20%2f&amp;c=1808072656464246678&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 20:32:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Eight children killed at home in Louisiana domestic violence, police say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c60814304abb911b1d2682d1be84&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feight-children-killed-louisiana-mass-shooting-media-reports-say-2026-04-19%2f&amp;c=15851049210351270262&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 18:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran war live: New peace talks uncertain after US seizes cargo ship",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c60814304abb911b1d2682d1be84&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-new-peace-talks-uncertain-after-us-seizes-cargo-ship-2026-04-20%2f&amp;c=4573636517163684726&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 18:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US seizes Iranian cargo ship, Tehran vows to retaliate",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e5c60814304abb911b1d2682d1be84&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-iran-cite-progress-talks-uncertainty-hangs-over-strait-2026-04-19%2f&amp;c=6092297718261784664&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Apr 2026 17:41:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "markets": []
   }
 }
