@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-04-20T20:58:11.103893",
+  "updated_at": "2026-04-20T22:54:34.229014",
   "news": {
     "ap": [
       {
-        "title": "Mississippi law school is among first in nation to require AI education",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e692ed31a34f259fd21b35d986ebae&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmississippi-law-school-ai-education-requirement-7fd0cff2b71f174f11a043d6b4218e1c&amp;c=15532592787823503002&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Apr 2026 10:47:00 GMT",
-        "category": "tech"
+        "title": "Trump offers mixed messages about path ahead for US war against Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ae2f0bdd44a9ae3eee03dead9ed0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-iran-war-israel-hormuz-20-april-2026-a3ddc59230ae7de719a9ff9e7595e375&amp;c=14338504381509262306&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Apr 2026 15:20:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "War, climate change and AI: What\u2019s at stake at this year\u2019s UN Indigenous forum",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ae46cc3b4bd6891da4c71f5adb42&amp;url=https%3a%2f%2fapnews.com%2farticle%2findigenous-un-permanent-forum-new-york-31c1cf969f27eb07d0625f8da8a73189&amp;c=11489377469341275134&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Apr 2026 10:38:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
       {
-        "title": "How Saudi Arabia&apos;s entertainment investments are playing out at home and abroad",
-        "link": "https://www.npr.org/2026/04/20/nx-s1-5788812/how-saudi-arabias-entertainment-investments-are-playing-out-at-home-and-abroad",
-        "pubDate": "Mon, 20 Apr 2026 16:31:25 -0400",
+        "title": "Canada&apos;s PM Carney indicates a move away from economic reliance on the U.S.",
+        "link": "https://www.npr.org/2026/04/20/nx-s1-5791353/canadas-pm-carney-indicates-a-move-away-from-economic-reliance-on-the-u-s",
+        "pubDate": "Mon, 20 Apr 2026 18:07:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "The Onion has agreed to a new deal to take over Infowars",
+        "link": "https://www.npr.org/2026/04/20/nx-s1-5791726/the-onion-satirical-takeover-infowars-new-plan",
+        "pubDate": "Mon, 20 Apr 2026 17:59:46 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Tim Cook will step down as Apple CEO",
+        "link": "https://www.npr.org/2026/04/20/g-s1-118159/apple-ceo-tim-cook-stepping-down",
+        "pubDate": "Mon, 20 Apr 2026 17:57:52 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Trump&apos;s labor secretary resigns amid investigation into misconduct",
+        "link": "https://www.npr.org/2026/04/20/nx-s1-5739251/labor-secretary-trump-chavez-deremer",
+        "pubDate": "Mon, 20 Apr 2026 17:43:38 -0400",
         "category": "business"
       },
       {
@@ -21,12 +45,6 @@
         "link": "https://www.npr.org/2026/04/20/nx-s1-5746639-e1/got-wearable-data-your-doctor-can-help-you-connect-the-dots",
         "pubDate": "Mon, 20 Apr 2026 16:14:53 -0400",
         "category": "health"
-      },
-      {
-        "title": "U.S.-Iran talks are uncertain as ceasefire is set to expire",
-        "link": "https://www.npr.org/2026/04/20/nx-s1-5791630/u-s-iran-talks-are-uncertain-as-ceasefire-is-set-to-expire",
-        "pubDate": "Mon, 20 Apr 2026 16:14:52 -0400",
-        "category": "world"
       },
       {
         "title": "The 11 most challenged books of 2025, according to the American Library Association",
@@ -38,7 +56,7 @@
         "title": "Peace talks are in doubt as the U.S. seizes an Iranian ship",
         "link": "https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates",
         "pubDate": "Mon, 20 Apr 2026 07:02:32 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action",
@@ -57,21 +75,27 @@
         "link": "https://www.npr.org/2026/04/20/nx-s1-5790809/virginia-redistricting-election-trump-gerrymandering",
         "pubDate": "Mon, 20 Apr 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Spanish speakers learn strategies to pass English-only driving test in Florida",
-        "link": "https://www.npr.org/2026/04/20/nx-s1-5783923/spanish-speakers-get-strategy-pass-english-only-driving-test-florida",
-        "pubDate": "Mon, 20 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A humanoid robot sprints past the human half-marathon world record in Beijing race",
-        "link": "https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon",
-        "pubDate": "Mon, 20 Apr 2026 02:10:00 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
+      {
+        "title": "Apple names new chief executive to replace Tim Cook",
+        "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 22:03:26 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+        "link": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 21:52:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wolves relegation from Premier League confirmed - and why it had been coming",
+        "link": "https://www.bbc.com/sport/football/articles/ckg3l2k81x5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 20:56:09 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Phones to be banned in schools by law in England under government plans",
         "link": "https://www.bbc.com/news/articles/c5y7vd6gpq1o?at_medium=RSS&amp;at_campaign=rss",
@@ -89,12 +113,6 @@
         "link": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 20 Apr 2026 18:57:25 GMT",
         "category": "world"
-      },
-      {
-        "title": "Attempted murder charge after car hit pedestrians",
-        "link": "https://www.bbc.com/news/articles/cr71k157lrlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 18:33:35 GMT",
-        "category": "Top News"
       },
       {
         "title": "Trump tariff refunds begin but consumers likely to miss out",
@@ -115,44 +133,63 @@
         "category": "Top News"
       },
       {
-        "title": "The insider trading suspicions looming over Trump's presidency",
-        "link": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 13:53:22 GMT",
-        "category": "business"
-      },
-      {
         "title": "Health visitors call for limits on 'impossible' 1,000-family caseloads",
         "link": "https://www.bbc.com/news/articles/ce8lp0pz3y9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 20 Apr 2026 11:08:51 GMT",
         "category": "health"
-      },
-      {
-        "title": "Spat at, threatened and kidnapped: British Jews tell of rising antisemitism",
-        "link": "https://www.bbc.com/news/articles/cwyxxjgdn94o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 05:00:02 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Philadelphia to provide free transport for fans after World Cup games",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6930142114870a05c6091fe9667b1&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fphiladelphia-provide-free-transport-fans-after-world-cup-games-2026-04-20%2f&amp;c=1139830756357872589&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Apr 2026 11:42:00 GMT",
+        "title": "Apple names insider John Ternus as CEO, Cook to become executive chairman",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ae7460c145e7a2133da524ca20da&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fjohn-ternus-become-apple-ceo-tim-cook-become-executive-chairman-2026-04-20%2f&amp;c=14557055464948263752&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Apr 2026 14:28:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "US crude futures fall as investors reassess US-Iran risks ahead of ceasefire deadline",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ae62f150445e857d08b0778422e5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-crude-futures-fall-investors-reassess-us-iran-risks-ahead-ceasefire-deadline-2026-04-20%2f&amp;c=7949862779139169194&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Apr 2026 14:24:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Psychedelic drug developers rally after Trump orders FDA to expedite reviews",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ae7591674bdcac1859177c782729&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fpsychedelic-drug-makers-rally-trump-orders-fda-expedite-reviews-2026-04-20%2f&amp;c=6554925136631578788&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Apr 2026 07:37:00 GMT",
+        "category": "health"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Stocks making the biggest moves after hours: Amazon, Apple, Steel Dynamics and more",
+        "link": "https://www.cnbc.com/2026/04/20/stocks-making-the-biggest-moves-after-hours-amzn-aapl-stld.html",
+        "pubDate": "Mon, 20 Apr 2026 21:06:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "AST SpaceMobile shares drop after its satellite is placed in wrong orbit by Bezos&apos; Blue Origin",
+        "link": "https://www.cnbc.com/2026/04/20/ast-falls-after-bezos-blue-origin-places-satellite-in-wrong-orbit.html",
+        "pubDate": "Mon, 20 Apr 2026 20:01:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump threatens Iran again as ceasefire deadline looms, U.S. gears up for peace talks",
+        "link": "https://www.cnbc.com/2026/04/20/trump-defense-iran-war-pakistan-vance-witkoff-kushner.html",
+        "pubDate": "Mon, 20 Apr 2026 18:55:17 GMT",
         "category": "world"
       },
       {
-        "title": "GLP-1 boom nudges cannabis dispensaries to rethink offerings",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e69326d06544fd8efcc3056ab5ca51&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fglp-1-boom-nudges-cannabis-dispensaries-rethink-offerings-2026-04-20%2f&amp;c=18008140373517766248&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Apr 2026 11:16:00 GMT",
-        "category": "health"
+        "title": "Howard Marks says there are very few cheap stocks: &apos;Bargains come when people panic&apos;",
+        "link": "https://www.cnbc.com/2026/04/20/howard-marks-says-there-are-very-few-cheap-stocks-bargains-come-when-people-panic.html",
+        "pubDate": "Mon, 20 Apr 2026 15:42:38 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Tax relief on the horizon: How federal rescheduling could reshape cannabis business taxes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6931655374619a5aaf4f1b3bc88df&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2ftax-relief-horizon-how-federal-rescheduling-could-reshape-cannabis-business--pracin-2026-04-20%2f&amp;c=11616488675843405178&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Apr 2026 08:22:00 GMT",
-        "category": "business"
+        "title": "Greg Abel is shaking up Berkshire Hathaway&apos;s portfolio. These stocks could be affected",
+        "link": "https://www.cnbc.com/2026/04/20/greg-abel-is-shaking-up-berkshire-hathaways-portfolio-these-stocks-could-be-affected.html",
+        "pubDate": "Mon, 20 Apr 2026 13:53:16 GMT",
+        "category": "Top News"
       }
-    ],
-    "markets": []
+    ]
   }
 }
