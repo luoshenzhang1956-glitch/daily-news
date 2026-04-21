@@ -1,21 +1,14 @@
 {
-  "updated_at": "2026-04-20T22:54:34.229014",
+  "updated_at": "2026-04-21T03:26:46.348193",
   "news": {
-    "ap": [
-      {
-        "title": "Trump offers mixed messages about path ahead for US war against Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ae2f0bdd44a9ae3eee03dead9ed0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-iran-war-israel-hormuz-20-april-2026-a3ddc59230ae7de719a9ff9e7595e375&amp;c=14338504381509262306&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Apr 2026 15:20:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "War, climate change and AI: What\u2019s at stake at this year\u2019s UN Indigenous forum",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ae46cc3b4bd6891da4c71f5adb42&amp;url=https%3a%2f%2fapnews.com%2farticle%2findigenous-un-permanent-forum-new-york-31c1cf969f27eb07d0625f8da8a73189&amp;c=11489377469341275134&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Apr 2026 10:38:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Tim Cook to step down as Apple CEO",
+        "link": "https://www.npr.org/2026/04/20/nx-s1-5792865/tim-cook-to-step-down-as-apple-ceo",
+        "pubDate": "Mon, 20 Apr 2026 19:05:50 -0400",
+        "category": "business"
+      },
       {
         "title": "Canada&apos;s PM Carney indicates a move away from economic reliance on the U.S.",
         "link": "https://www.npr.org/2026/04/20/nx-s1-5791353/canadas-pm-carney-indicates-a-move-away-from-economic-reliance-on-the-u-s",
@@ -29,16 +22,16 @@
         "category": "us"
       },
       {
-        "title": "Tim Cook will step down as Apple CEO",
-        "link": "https://www.npr.org/2026/04/20/g-s1-118159/apple-ceo-tim-cook-stepping-down",
-        "pubDate": "Mon, 20 Apr 2026 17:57:52 -0400",
-        "category": "tech"
-      },
-      {
         "title": "Trump&apos;s labor secretary resigns amid investigation into misconduct",
         "link": "https://www.npr.org/2026/04/20/nx-s1-5739251/labor-secretary-trump-chavez-deremer",
         "pubDate": "Mon, 20 Apr 2026 17:43:38 -0400",
-        "category": "business"
+        "category": "Top News"
+      },
+      {
+        "title": "These robots can figure out how to do a task after watching humans do it",
+        "link": "https://www.npr.org/2026/04/20/nx-s1-5785241/these-robots-can-figure-out-how-to-do-a-task-after-watching-humans-do-it",
+        "pubDate": "Mon, 20 Apr 2026 17:23:58 -0400",
+        "category": "tech"
       },
       {
         "title": "Got wearable data? Your doctor can help you connect the dots",
@@ -69,49 +62,43 @@
         "link": "https://www.npr.org/2026/04/20/g-s1-118095/up-first-newsletter-us-iran-peace-talks-strait-of-hormuz-tariff-refunds-louisiana-shooting",
         "pubDate": "Mon, 20 Apr 2026 06:30:10 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Voters say they feel confused and misled on Virginia&apos;s redistricting vote",
-        "link": "https://www.npr.org/2026/04/20/nx-s1-5790809/virginia-redistricting-election-trump-gerrymandering",
-        "pubDate": "Mon, 20 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Apple names new chief executive to replace Tim Cook",
-        "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 22:03:26 GMT",
+        "title": "If Plaid win in Wales, that won't mean independence - at least not yet",
+        "link": "https://www.bbc.com/news/articles/c9958227r38o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Apr 2026 02:25:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Government to propose electricity price changes in clean power push",
+        "link": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Apr 2026 00:51:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The 'dumb machine' promising a clean energy breakthrough",
+        "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 23:09:41 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Petrol thefts surge as Iran war pushes up fuel costs",
+        "link": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 23:04:23 GMT",
         "category": "business"
+      },
+      {
+        "title": "King honours his 'darling Mama', the late Queen, on her centenary",
+        "link": "https://www.bbc.com/news/articles/cz9077ezlpno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 23:02:26 GMT",
+        "category": "Top News"
       },
       {
         "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
         "link": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 20 Apr 2026 21:52:12 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wolves relegation from Premier League confirmed - and why it had been coming",
-        "link": "https://www.bbc.com/sport/football/articles/ckg3l2k81x5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 20:56:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Phones to be banned in schools by law in England under government plans",
-        "link": "https://www.bbc.com/news/articles/c5y7vd6gpq1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 20:53:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Blue Origin rocket grounded after satellite 'mishap'",
-        "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 19:56:11 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-        "link": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 18:57:25 GMT",
         "category": "world"
       },
       {
@@ -141,55 +128,12 @@
     ],
     "reuters": [
       {
-        "title": "Apple names insider John Ternus as CEO, Cook to become executive chairman",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ae7460c145e7a2133da524ca20da&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fjohn-ternus-become-apple-ceo-tim-cook-become-executive-chairman-2026-04-20%2f&amp;c=14557055464948263752&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Apr 2026 14:28:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "US crude futures fall as investors reassess US-Iran risks ahead of ceasefire deadline",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ae62f150445e857d08b0778422e5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-crude-futures-fall-investors-reassess-us-iran-risks-ahead-ceasefire-deadline-2026-04-20%2f&amp;c=7949862779139169194&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Apr 2026 14:24:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Psychedelic drug developers rally after Trump orders FDA to expedite reviews",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ae7591674bdcac1859177c782729&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fpsychedelic-drug-makers-rally-trump-orders-fda-expedite-reviews-2026-04-20%2f&amp;c=6554925136631578788&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Apr 2026 07:37:00 GMT",
-        "category": "health"
+        "title": "Philadelphia to provide free transport for fans after World Cup games",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ede684c34aaaa8abdd4f2ab33939&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fphiladelphia-provide-free-transport-fans-after-world-cup-games-2026-04-20%2f&amp;c=1139830756357872589&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Apr 2026 11:42:00 GMT",
+        "category": "world"
       }
     ],
-    "markets": [
-      {
-        "title": "Stocks making the biggest moves after hours: Amazon, Apple, Steel Dynamics and more",
-        "link": "https://www.cnbc.com/2026/04/20/stocks-making-the-biggest-moves-after-hours-amzn-aapl-stld.html",
-        "pubDate": "Mon, 20 Apr 2026 21:06:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "AST SpaceMobile shares drop after its satellite is placed in wrong orbit by Bezos&apos; Blue Origin",
-        "link": "https://www.cnbc.com/2026/04/20/ast-falls-after-bezos-blue-origin-places-satellite-in-wrong-orbit.html",
-        "pubDate": "Mon, 20 Apr 2026 20:01:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump threatens Iran again as ceasefire deadline looms, U.S. gears up for peace talks",
-        "link": "https://www.cnbc.com/2026/04/20/trump-defense-iran-war-pakistan-vance-witkoff-kushner.html",
-        "pubDate": "Mon, 20 Apr 2026 18:55:17 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Howard Marks says there are very few cheap stocks: &apos;Bargains come when people panic&apos;",
-        "link": "https://www.cnbc.com/2026/04/20/howard-marks-says-there-are-very-few-cheap-stocks-bargains-come-when-people-panic.html",
-        "pubDate": "Mon, 20 Apr 2026 15:42:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Greg Abel is shaking up Berkshire Hathaway&apos;s portfolio. These stocks could be affected",
-        "link": "https://www.cnbc.com/2026/04/20/greg-abel-is-shaking-up-berkshire-hathaways-portfolio-these-stocks-could-be-affected.html",
-        "pubDate": "Mon, 20 Apr 2026 13:53:16 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
