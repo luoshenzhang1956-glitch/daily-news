@@ -1,19 +1,50 @@
 {
-  "updated_at": "2026-04-21T03:26:46.348193",
+  "updated_at": "2026-04-21T06:09:00.107930",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Did Pope Leo find his voice in Africa? Or did the world finally hear him?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e713d2bd894cf189ceca55c4d6901e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fafrica-pope-leo-trump-iran-war-d72ee89589d821785fa4ed195f0e99f6&amp;c=10965434783879506153&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Apr 2026 20:32:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Iranian extradited to US to face 2014 smuggling indictment over export of military sonar gear",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e713d41007408f8357f094c4f7fb29&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-military-export-sanctions-a34a6fce5ee61acf60944d34aeeb1523&amp;c=17664086883957291830&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Apr 2026 16:20:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "Gunman shoots several tourists at historic pyramids in Mexico",
+        "link": "https://www.npr.org/2026/04/21/g-s1-118185/gunman-pyramids-mexico",
+        "pubDate": "Tue, 21 Apr 2026 01:18:53 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Cuba confirms meeting with US officials on island, wants energy blockade lifted",
+        "link": "https://www.npr.org/2026/04/21/g-s1-118182/cuba-meeting-with-us-officials-on-island",
+        "pubDate": "Tue, 21 Apr 2026 01:10:26 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Japan approves scrapping a ban on lethal weapons exports",
+        "link": "https://www.npr.org/2026/04/21/g-s1-118178/japan-ban-lethal-weapons-exports",
+        "pubDate": "Tue, 21 Apr 2026 00:04:56 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Here are the results for Virginia&apos;s 2026 redistricting ballot measure",
+        "link": "https://www.npr.org/2026/04/21/g-s1-118123/virginia-special-election-redistricting-results-2026",
+        "pubDate": "Tue, 21 Apr 2026 00:01:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Tim Cook to step down as Apple CEO",
         "link": "https://www.npr.org/2026/04/20/nx-s1-5792865/tim-cook-to-step-down-as-apple-ceo",
         "pubDate": "Mon, 20 Apr 2026 19:05:50 -0400",
         "category": "business"
-      },
-      {
-        "title": "Canada&apos;s PM Carney indicates a move away from economic reliance on the U.S.",
-        "link": "https://www.npr.org/2026/04/20/nx-s1-5791353/canadas-pm-carney-indicates-a-move-away-from-economic-reliance-on-the-u-s",
-        "pubDate": "Mon, 20 Apr 2026 18:07:00 -0400",
-        "category": "world"
       },
       {
         "title": "The Onion has agreed to a new deal to take over Infowars",
@@ -44,27 +75,27 @@
         "link": "https://www.npr.org/2026/04/20/nx-s1-5791617/american-library-association-challenged-books",
         "pubDate": "Mon, 20 Apr 2026 13:33:50 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Peace talks are in doubt as the U.S. seizes an Iranian ship",
-        "link": "https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates",
-        "pubDate": "Mon, 20 Apr 2026 07:02:32 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action",
-        "link": "https://www.npr.org/2026/04/20/g-s1-117830/goldman-environmental-prize-papua-new-guinea-mining",
-        "pubDate": "Mon, 20 Apr 2026 06:58:26 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. seizes Iranian cargo ship. And, tariff refund portal launches",
-        "link": "https://www.npr.org/2026/04/20/g-s1-118095/up-first-newsletter-us-iran-peace-talks-strait-of-hormuz-tariff-refunds-louisiana-shooting",
-        "pubDate": "Mon, 20 Apr 2026 06:30:10 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "King honours his 'darling Mama', the late Queen, on her centenary",
+        "link": "https://www.bbc.com/news/articles/cz9077ezlpno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Apr 2026 05:58:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chris Mason: A chance for key aide to explain why he didn't tell Starmer",
+        "link": "https://www.bbc.com/news/articles/czrezg3vyzjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Apr 2026 05:58:06 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New era for Apple as names new boss to replace Tim Cook after 15 years",
+        "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Apr 2026 05:57:56 GMT",
+        "category": "tech"
+      },
       {
         "title": "If Plaid win in Wales, that won't mean independence - at least not yet",
         "link": "https://www.bbc.com/news/articles/c9958227r38o?at_medium=RSS&amp;at_campaign=rss",
@@ -78,22 +109,10 @@
         "category": "Top News"
       },
       {
-        "title": "The 'dumb machine' promising a clean energy breakthrough",
-        "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 23:09:41 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Petrol thefts surge as Iran war pushes up fuel costs",
         "link": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 20 Apr 2026 23:04:23 GMT",
         "category": "business"
-      },
-      {
-        "title": "King honours his 'darling Mama', the late Queen, on her centenary",
-        "link": "https://www.bbc.com/news/articles/cz9077ezlpno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 23:02:26 GMT",
-        "category": "Top News"
       },
       {
         "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
@@ -102,22 +121,16 @@
         "category": "world"
       },
       {
+        "title": "Phones to be banned in schools by law in England under government plans",
+        "link": "https://www.bbc.com/news/articles/c5y7vd6gpq1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Apr 2026 20:53:11 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Trump tariff refunds begin but consumers likely to miss out",
         "link": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 20 Apr 2026 18:25:17 GMT",
         "category": "us"
-      },
-      {
-        "title": "Officials deliberately withheld Mandelson vetting result from me, Starmer says",
-        "link": "https://www.bbc.com/news/articles/cx2wllel54no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 18:06:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Key points from Starmer's Mandelson statement",
-        "link": "https://www.bbc.com/news/articles/cjd8448m959o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Apr 2026 17:00:45 GMT",
-        "category": "Top News"
       },
       {
         "title": "Health visitors call for limits on 'impossible' 1,000-family caseloads",
@@ -128,10 +141,16 @@
     ],
     "reuters": [
       {
-        "title": "Philadelphia to provide free transport for fans after World Cup games",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e6ede684c34aaaa8abdd4f2ab33939&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fphiladelphia-provide-free-transport-fans-after-world-cup-games-2026-04-20%2f&amp;c=1139830756357872589&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Apr 2026 11:42:00 GMT",
-        "category": "world"
+        "title": "OPmobility reports 0.4% revenue fall as autos industry weakens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e71425413e46d0a02657d8acf7cfc7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fopmobility-reports-04-revenue-fall-autos-industry-weakens-2026-04-21%2f&amp;c=4453125340976026462&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Apr 2026 21:08:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Australian rules-'Mental health episode' during game puts AFL player welfare in spotlight",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e71430cd2f4c10af1628f38ac6fb13&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2faustralian-rules-mental-health-episode-during-game-puts-afl-player-welfare-2026-04-21%2f&amp;c=7721380480570056215&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Apr 2026 20:43:00 GMT",
+        "category": "health"
       }
     ],
     "markets": []
