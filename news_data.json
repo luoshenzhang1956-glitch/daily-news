@@ -1,18 +1,30 @@
 {
-  "updated_at": "2026-04-22T09:29:26.484561",
+  "updated_at": "2026-04-22T11:13:57.832377",
   "news": {
     "ap": [
       {
+        "title": "Iran fires on 3 ships in the Strait of Hormuz, complicating efforts to resume US-Iran talks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad0c6d5849eeb9d799a104ff96ce&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7&amp;c=14463401814567540305&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 03:26:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Mexico to beef up security at tourist sites after shooting at pyramids in lead up to World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e894519dd04b44a75512c80b61daf4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmexico-world-cup-pyramids-security-guadalajara-42a151e52f5c177284027948744162b6&amp;c=18337007324254193805&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad0b064c45bcba2114f3e279402f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmexico-world-cup-pyramids-security-guadalajara-42a151e52f5c177284027948744162b6&amp;c=18337007324254193805&amp;mkt=en-us",
         "pubDate": "Tue, 21 Apr 2026 21:32:00 GMT",
         "category": "world"
       }
     ],
     "npr": [
       {
-        "title": "From the Himalayas to Newt Gingrich, the &apos;tree-huggers&apos; prevail",
-        "link": "https://www.npr.org/2026/04/22/nx-s1-5787684/tree-hugger-history-earth-day",
+        "title": "Ships attacked in Strait of Hormuz after ceasefire extension",
+        "link": "https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates",
+        "pubDate": "Wed, 22 Apr 2026 06:53:59 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Trump administration delays rule aimed at improving disability access in schools",
+        "link": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
         "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
         "category": "us"
       },
@@ -35,8 +47,8 @@
         "category": "health"
       },
       {
-        "title": "Trump administration delays rule aimed at improving disability access in schools",
-        "link": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
+        "title": "From the Himalayas to Newt Gingrich, the &apos;tree-huggers&apos; prevail",
+        "link": "https://www.npr.org/2026/04/22/nx-s1-5787684/tree-hugger-history-earth-day",
         "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -50,7 +62,7 @@
         "title": "Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid",
         "link": "https://www.npr.org/2026/04/22/nx-s1-5795403/golden-helmet-romania-recovery",
         "pubDate": "Wed, 22 Apr 2026 01:24:08 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Mexico to beef up security at tourist sites after shooting at pyramids",
@@ -63,15 +75,39 @@
         "link": "https://www.npr.org/2026/04/21/nx-s1-5793878/virginia-redistricting-results-trump",
         "pubDate": "Tue, 21 Apr 2026 20:50:52 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Southern Poverty Law Center indicted on federal fraud charges",
-        "link": "https://www.npr.org/2026/04/21/g-s1-118275/southern-poverty-law-center-fraud-charges-paid-informants",
-        "pubDate": "Tue, 21 Apr 2026 18:52:27 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Hay fever misery does last longer - here is how to cope",
+        "link": "https://www.bbc.com/news/articles/cqj8kk0z0l5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 10:41:51 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+        "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 10:31:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "McDonald's boss on abuse claims: 'I don't want to talk about the past'",
+        "link": "https://www.bbc.com/news/articles/cp9v3lk34yvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 10:18:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
+        "link": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 10:13:35 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "'Superstar' runners praised for helping exhausted man finish marathon",
+        "link": "https://www.bbc.com/news/articles/cj0v632yddzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 09:50:06 GMT",
+        "category": "Top News"
+      },
       {
         "title": "UK inflation rises after Iran war pushes up fuel prices",
         "link": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&amp;at_campaign=rss",
@@ -82,18 +118,6 @@
         "title": "UK inflation rate rises to 3.3% in March after Iran war pushes up fuel prices",
         "link": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 22 Apr 2026 08:38:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ideal conditions to see peak of Lyrid meteor shower in UK",
-        "link": "https://www.bbc.com/weather/articles/cede7gpjn85o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 08:35:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "PM sends 'chill' through civil service, its union boss says",
-        "link": "https://www.bbc.com/news/articles/c1krxlvjezro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 08:07:16 GMT",
         "category": "Top News"
       },
       {
@@ -109,62 +133,122 @@
         "category": "Top News"
       },
       {
-        "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
-        "link": "https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Apr 2026 23:00:24 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "How Leicester went from Premier League champions to League One in a decade",
-        "link": "https://www.bbc.com/sport/football/articles/cm2kkr9dkrlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Apr 2026 20:39:29 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
         "link": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 21 Apr 2026 18:59:39 GMT",
         "category": "us"
-      },
-      {
-        "title": "Smoking ban for people born after 2008 in the UK agreed",
-        "link": "https://www.bbc.com/news/articles/cn08jy6w0l5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Apr 2026 11:39:52 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "UK's Senior expects 2026 performance above expectations on stronger aerospace demand",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e894b8e4544ca29591ed6172b2d634&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fuks-senior-expects-2026-performance-above-expectations-stronger-aerospace-demand-2026-04-22%2f&amp;c=14677605892163655925&amp;mkt=en-us",
-        "pubDate": "Wed, 22 Apr 2026 00:58:00 GMT",
-        "category": "business"
+        "title": "Trump's deportation push could cost Republicans in midterm elections, Reuters/Ipsos poll finds",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad321a854fc9a0c77936cb7b1275&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-deportation-push-could-cost-republicans-midterm-elections-reutersipsos-2026-04-22%2f&amp;c=12098208147910489369&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 02:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump declares Iran ceasefire extension with Hormuz strait still blocked",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad321a854fc9a0c77936cb7b1275&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-will-indefinitely-extend-ceasefire-unclear-if-iran-agrees-2026-04-22%2f&amp;c=7251165730871200560&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 02:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: US turns to Ukrainian counter-drone tech after Iran attacks, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad321a854fc9a0c77936cb7b1275&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-turns-ukrainian-counter-drone-tech-after-iran-attacks-sources-say-2026-04-22%2f&amp;c=5697976644012453685&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 02:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "OpenAI briefs US agencies, Five Eyes on new cybersecurity product, Axios reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad321a854fc9a0c77936cb7b1275&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-briefs-us-agencies-five-eyes-new-cyber-product-axios-reports-2026-04-22%2f&amp;c=6833180221120842276&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 02:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "California governor hopefuls debate as Swalwell exit reshapes race",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad321a854fc9a0c77936cb7b1275&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fcalifornia-governor-hopefuls-debate-swalwell-exit-reshapes-race-2026-04-22%2f&amp;c=7641284523570966342&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 02:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tables turn as Republicans face gas-price attacks they once used on Democrats",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad321a854fc9a0c77936cb7b1275&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftables-turn-republicans-face-gas-price-attacks-they-once-used-democrats-2026-04-22%2f&amp;c=3044747490697143701&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 02:12:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US CDC will not publish report showing COVID vaccine benefits, Washington Post reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad321a854fc9a0c77936cb7b1275&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-cdc-will-not-publish-report-showing-covid-vaccine-benefits-washington-post-2026-04-22%2f&amp;c=6843378371073033282&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 01:16:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Former Samsung Electronics researcher jailed for leaking chip technology to Chinese firm",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e894bac9fe44fdac285b3af2eb579e&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fformer-samsung-electronics-researcher-jailed-leaking-chip-technology-chinese-2026-04-22%2f&amp;c=7729867281456314680&amp;mkt=en-us",
-        "pubDate": "Wed, 22 Apr 2026 00:58:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad52fd924307bfab5bb0c099ae80&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fformer-samsung-electronics-researcher-jailed-leaking-chip-technology-chinese-2026-04-22%2f&amp;c=7729867281456314680&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 00:59:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Reckitt's Russia unit develops new local products after EU sanctions harden",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad51e83142ac816388b03d5445cc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2freckitts-russia-unit-develops-new-local-products-after-eu-sanctions-harden-2026-04-22%2f&amp;c=5305540210780917944&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 00:45:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Expert quits US HIV role, rebukes Trump's global health approach",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e8ad53d7904c2ca08913d4bbefa362&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fexpert-quits-us-hiv-role-rebukes-trump-global-health-approach-2026-04-21%2f&amp;c=1869940928789825873&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Apr 2026 17:08:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Lawmakers seek to override state data privacy laws with new bill",
-        "link": "https://www.cnbc.com/2026/04/22/data-privacy-bill-congress-states.html",
-        "pubDate": "Wed, 22 Apr 2026 09:00:01 GMT",
-        "category": "tech"
+        "title": "Airbnb is in the middle of a big overhaul. Wells Fargo says it&apos;s time to buy the stock",
+        "link": "https://www.cnbc.com/2026/04/22/airbnb-is-in-the-middle-of-a-big-overhaul-wells-fargo-says-its-time-to-buy-the-stock.html",
+        "pubDate": "Wed, 22 Apr 2026 11:02:10 GMT",
+        "category": "us"
       },
       {
-        "title": "United Airlines slashes 2026 forecast as fuel costs surge",
-        "link": "https://www.cnbc.com/2026/04/21/united-airlines-ual-q1-2026-earnings.html",
-        "pubDate": "Tue, 21 Apr 2026 22:09:01 GMT",
+        "title": "Best Buy names Jason Bonfig as new CEO, replacing Corie Barry in late October",
+        "link": "https://www.cnbc.com/2026/04/22/best-buy-jason-bonfig-ceo-corie-barry.html",
+        "pubDate": "Wed, 22 Apr 2026 11:00:27 GMT",
         "category": "business"
       },
       {
-        "title": "These stocks may rip if the Iran conflict is resolved, UBS says",
-        "link": "https://www.cnbc.com/2026/04/21/these-stocks-may-rip-if-the-iran-conflict-is-resolved-ubs-says.html",
-        "pubDate": "Tue, 21 Apr 2026 20:16:26 GMT",
-        "category": "us"
+        "title": "Palantir inks $300 million deal with USDA to safeguard food supply",
+        "link": "https://www.cnbc.com/2026/04/22/palantir-inks-300-million-deal-with-usda-to-safeguard-food-supply.html",
+        "pubDate": "Wed, 22 Apr 2026 11:00:01 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Two ships attacked in Strait of Hormuz, UK says, after U.S. extends Iran ceasefire",
+        "link": "https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html",
+        "pubDate": "Wed, 22 Apr 2026 10:18:56 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trump administration discussing currency swap line with United Arab Emirates",
+        "link": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html",
+        "pubDate": "Tue, 21 Apr 2026 22:09:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Adobe, United Airlines, Capital One and more",
+        "link": "https://www.cnbc.com/2026/04/21/stocks-making-the-biggest-moves-after-hours-adbe-ual-cof.html",
+        "pubDate": "Tue, 21 Apr 2026 21:25:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
+        "link": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
+        "pubDate": "Tue, 21 Apr 2026 13:36:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Here&apos;s what to expect from Fed chair nominee Kevin Warsh&apos;s Senate hearing Tuesday",
+        "link": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html",
+        "pubDate": "Tue, 21 Apr 2026 13:13:52 GMT",
+        "category": "Top News"
       }
     ]
   }
