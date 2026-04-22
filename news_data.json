@@ -1,19 +1,37 @@
 {
-  "updated_at": "2026-04-22T14:01:23.439062",
+  "updated_at": "2026-04-22T15:24:52.506479",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Iranians are leaving the country just to access the internet",
+        "link": "https://www.npr.org/2026/04/22/g-s1-118339/iran-internet-access-turkey",
+        "pubDate": "Wed, 22 Apr 2026 11:12:09 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Gene therapy for a rare type of deafness shows lasting results",
+        "link": "https://www.npr.org/2026/04/22/nx-s1-5791478/gene-therapy-deafness-hearing",
+        "pubDate": "Wed, 22 Apr 2026 11:00:04 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Family influencers make the lifestyle look good. But kids pay the price, new book says",
+        "link": "https://www.npr.org/2026/04/22/nx-s1-5794005/like-follow-subscribe-influencer-book-review",
+        "pubDate": "Wed, 22 Apr 2026 10:46:32 -0400",
+        "category": "tech"
+      },
+      {
         "title": "Greetings from an Islamabad park, a peaceful vantage point in an uncertain world",
         "link": "https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park",
         "pubDate": "Wed, 22 Apr 2026 09:46:42 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Restrictions on obesity drug coverage force patients to pivot",
         "link": "https://www.npr.org/2026/04/22/nx-s1-5794613/health-insurance-wegovy-zepbound",
         "pubDate": "Wed, 22 Apr 2026 09:25:13 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Ships attacked in Strait of Hormuz. And, VA voters approve redistricting effort",
@@ -34,41 +52,35 @@
         "category": "business"
       },
       {
-        "title": "&apos;We can do better,&apos; FAA head says of work to update U.S. analog air traffic system",
-        "link": "https://www.npr.org/2026/04/22/nx-s1-5791744/faa-dot-air-traffic-control-system-revamp",
-        "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "Trump administration delays rule aimed at improving disability access in schools",
-        "link": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
-        "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "From the Himalayas to Newt Gingrich, the &apos;tree-huggers&apos; prevail",
-        "link": "https://www.npr.org/2026/04/22/nx-s1-5787684/tree-hugger-history-earth-day",
-        "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "RFK Jr. is on a congressional hearing blitz, after a long absence from Capitol Hill",
         "link": "https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid",
         "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "With Virginia vote, Democrats gain edge over Trump&apos;s national GOP redistricting push",
-        "link": "https://www.npr.org/2026/04/22/nx-s1-5787989/redistricting-map-trump-midterms-congress",
+        "title": "Trump administration delays rule aimed at improving disability access in schools",
+        "link": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
         "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+        "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 15:00:40 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Husband cleared of manslaughter over wife's suicide",
         "link": "https://www.bbc.com/news/articles/cqxl98zvvw5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 13:51:44 GMT",
+        "pubDate": "Wed, 22 Apr 2026 14:36:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "PM's ex-chief of staff to give evidence on Mandelson vetting",
+        "link": "https://www.bbc.com/news/articles/c5yjl1pmv55o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 14:28:01 GMT",
         "category": "Top News"
       },
       {
@@ -93,19 +105,13 @@
         "title": "EU approves \u20ac90bn loan for Ukraine as pipeline is turned on ending deadlock",
         "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 22 Apr 2026 11:19:57 GMT",
-        "category": "Top News"
+        "category": "world"
       },
       {
         "title": "Hay fever misery does last longer - here is how to cope",
         "link": "https://www.bbc.com/news/articles/cqj8kk0z0l5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 22 Apr 2026 10:41:51 GMT",
         "category": "health"
-      },
-      {
-        "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
-        "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 10:31:29 GMT",
-        "category": "Top News"
       },
       {
         "title": "'Superstar' runners praised for helping exhausted man finish marathon",
@@ -117,23 +123,10 @@
         "title": "Trump buys time for Iran deal after frantic day of diplomacy",
         "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 22 Apr 2026 00:32:10 GMT",
-        "category": "world"
-      },
-      {
-        "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
-        "link": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Apr 2026 18:59:39 GMT",
         "category": "us"
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Amazon launches GLP-1 weight loss program, promising &apos;fast, convenient&apos; access",
-        "link": "https://www.cnbc.com/2026/04/21/amazon-glp-1-weight-loss-program.html",
-        "pubDate": "Tue, 21 Apr 2026 18:27:58 GMT",
-        "category": "health"
-      }
-    ]
+    "markets": []
   }
 }
