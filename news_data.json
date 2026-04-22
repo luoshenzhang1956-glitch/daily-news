@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-04-22T17:12:09.096148",
+  "updated_at": "2026-04-22T19:24:34.898035",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Iran fires on 3 ships in the Strait of Hormuz as US maintains blockade and diplomacy stalls",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e91ff50a0c433c8266e44f53bcde76&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7&amp;c=14463401814567540305&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 12:17:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Trump media company replaces ex-congressman Nunes as CEO after stock plunge that wiped out billions",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e91ff86ecb4fa487411699012c5675&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-media-truth-social-nunes-ceo-don-jr-f528dc294683c7f132c063b4a21dd68e&amp;c=10268125276528732864&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 09:49:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "A robot is beating human pros at table tennis. Its maker calls it a milestone for machines",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e91ffb99d548c48857c09f454c6c6f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-table-tennis-robot-ping-pong-sony-995b239945e0dc8d7bea918a850969dc&amp;c=12533281751594521183&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 09:25:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "The tariff refund process has begun for businesses. What about customers?",
+        "link": "https://www.npr.org/2026/04/22/nx-s1-5791663/the-tariff-refund-customers",
+        "pubDate": "Wed, 22 Apr 2026 13:32:09 -0400",
+        "category": "business"
+      },
       {
         "title": "Inside Linda McMahon&apos;s effort to dismantle the Department of Education",
         "link": "https://www.npr.org/2026/04/22/nx-s1-5794689/from-professional-wrestling-to-the-department-of-education-inside-linda-mcmahons-effort-to-dismantle-the-department-of-education",
@@ -52,15 +77,9 @@
         "category": "Top News"
       },
       {
-        "title": "How the airline industry could be impacted if Spirit Airlines is liquidated",
-        "link": "https://www.npr.org/2026/04/22/nx-s1-5789050/spirit-airlines-liquidation-bankruptcy-impact",
-        "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Trump administration delays rule aimed at improving disability access in schools",
-        "link": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
-        "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
+        "title": "Hakeem Jeffries says Virginia redistricting assures a &apos;free and fair midterm&apos;",
+        "link": "https://www.npr.org/2026/04/22/nx-s1-5794699/hakeem-jeffries-virginia-redistricting-election-midterms",
+        "pubDate": "Wed, 22 Apr 2026 06:42:15 -0400",
         "category": "Top News"
       }
     ],
@@ -68,13 +87,25 @@
       {
         "title": "Head coach Liam Rosenior sacked by Chelsea after three months in charge",
         "link": "https://www.bbc.com/sport/football/articles/c9d4w8032vno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 17:00:17 GMT",
+        "pubDate": "Wed, 22 Apr 2026 19:19:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Georgia Democrat David Scott, 80, dies after casting final House vote",
+        "link": "https://www.bbc.com/news/articles/cp8dg10myz0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 19:01:13 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+        "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 18:10:42 GMT",
         "category": "Top News"
       },
       {
         "title": "PM's ex-chief of staff to give evidence on Mandelson vetting",
         "link": "https://www.bbc.com/news/articles/c5yjl1pmv55o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 16:23:15 GMT",
+        "pubDate": "Wed, 22 Apr 2026 17:52:58 GMT",
         "category": "Top News"
       },
       {
@@ -84,21 +115,9 @@
         "category": "world"
       },
       {
-        "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-        "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 16:14:20 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Black children eight times more likely to be strip searched by police, report says",
-        "link": "https://www.bbc.com/news/articles/cn8de0dg5j9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 15:55:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Husband cleared of manslaughter over wife's suicide",
-        "link": "https://www.bbc.com/news/articles/cqxl98zvvw5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 14:36:53 GMT",
+        "title": "'My instinct was to help him': Runners help exhausted man finish Boston Marathon",
+        "link": "https://www.bbc.com/news/videos/cj0v65l4y9yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 14:22:24 GMT",
         "category": "Top News"
       },
       {
@@ -106,6 +125,12 @@
         "link": "https://www.bbc.com/news/articles/cq59xx6n3j7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 22 Apr 2026 13:13:14 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
+        "link": "https://www.bbc.com/news/articles/cgrlvvrn409o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 12:03:10 GMT",
+        "category": "tech"
       },
       {
         "title": "Three ways the latest inflation figures affect you",
@@ -118,26 +143,81 @@
         "link": "https://www.bbc.com/news/articles/cqj8kk0z0l5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 22 Apr 2026 10:41:51 GMT",
         "category": "health"
-      },
-      {
-        "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-        "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 00:32:10 GMT",
-        "category": "us"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Adobe tries to climb out of the software stock abyss, with a little help from a buyback and Jensen Huang",
-        "link": "https://www.cnbc.com/2026/04/22/adobe-tries-to-climb-out-of-abyss-with-help-from-a-buyback-and-nvidia.html",
-        "pubDate": "Wed, 22 Apr 2026 16:17:20 GMT",
-        "category": "us"
+        "title": "Boeing posts smaller-than-expected loss as recovery gains traction, shares jump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e92004b6ed4cd1a220eec969a273dc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fboeing-posts-smaller-than-expected-quarterly-loss-recovery-gains-traction-2026-04-22%2f&amp;c=1948399113497145480&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 11:12:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Stocks making the biggest moves premarket: GE Vernova, Vertiv, Best Buy &amp; more",
-        "link": "https://www.cnbc.com/2026/04/22/stocks-making-the-biggest-moves-premarket-gev-vrt-bby.html",
-        "pubDate": "Wed, 22 Apr 2026 11:43:39 GMT",
+        "title": "Iran seizes two container ships attempting to leave Gulf",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e92004b6ed4cd1a220eec969a273dc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fthree-vessels-hit-by-gunfire-strait-hormuz-crews-safe-2026-04-22%2f&amp;c=2547463340660482265&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 11:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall Street rises on Iran ceasefire extension and solid earnings",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e92004b6ed4cd1a220eec969a273dc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-index-futures-climb-after-trump-extends-iran-truce-2026-04-22%2f&amp;c=1555771255298209547&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 10:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Colombian sent from US to Congo says she faces pressure to risk danger back home",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e92004b6ed4cd1a220eec969a273dc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcolombian-sent-us-congo-says-she-faces-pressure-risk-danger-back-home-2026-04-22%2f&amp;c=5519480242173949182&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 10:52:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "United Airlines CEO plays down merger talk as White House signals skepticism",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e92004b6ed4cd1a220eec969a273dc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2funited-airlines-ceo-plays-down-merger-talk-white-house-signals-skepticism-2026-04-22%2f&amp;c=5076227026259882706&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 10:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US Health Secretary Kennedy to share David Geier's HHS contract with senators by week's end",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e920433c9f49d489cba416a49d4056&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-health-secretary-kennedy-share-david-geiers-hhs-contract-with-senators-by-2026-04-22%2f&amp;c=1632280409179491369&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 10:24:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Google puts AI agents at heart of its enterprise money-making push",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e92004b6ed4cd1a220eec969a273dc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fgoogle-puts-ai-agents-heart-its-enterprise-money-making-push-2026-04-22%2f&amp;c=15939801963887809972&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 10:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US CDC will not publish report showing COVID vaccine effectiveness",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e92004b6ed4cd1a220eec969a273dc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-cdc-will-not-publish-report-showing-covid-vaccine-benefits-washington-post-2026-04-22%2f&amp;c=6843378371073033282&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 06:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Blockchain billionaire Sun takes Trump family\u2019s crypto firm to court",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e92004b6ed4cd1a220eec969a273dc&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fjustin-sun-sues-trump-backed-world-liberty-financial-over-wlfi-token-rights-2026-04-22%2f&amp;c=7195306206337392431&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 05:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "From paint to planes, Iran war lifts costs, darkens outlooks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69e92004b6ed4cd1a220eec969a273dc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpaint-planes-iran-war-lifts-costs-darkens-outlooks-2026-04-22%2f&amp;c=14740353960092256924&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Apr 2026 04:31:00 GMT",
+        "category": "Top News"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Bessent says &apos;many&apos; U.S. allies have asked for currency swaps amid Iran war turbulence",
+        "link": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html",
+        "pubDate": "Wed, 22 Apr 2026 18:46:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Axe Compute, AST SpaceMobile, United Airlines, GE Vernova &amp; more",
+        "link": "https://www.cnbc.com/2026/04/22/stocks-making-the-biggest-moves-midday-agpu-asts-ual-gev.html",
+        "pubDate": "Wed, 22 Apr 2026 18:02:53 GMT",
         "category": "Top News"
       },
       {
