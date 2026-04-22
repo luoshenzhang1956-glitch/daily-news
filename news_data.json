@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-04-22T15:24:52.506479",
+  "updated_at": "2026-04-22T17:12:09.096148",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Inside Linda McMahon&apos;s effort to dismantle the Department of Education",
+        "link": "https://www.npr.org/2026/04/22/nx-s1-5794689/from-professional-wrestling-to-the-department-of-education-inside-linda-mcmahons-effort-to-dismantle-the-department-of-education",
+        "pubDate": "Wed, 22 Apr 2026 11:21:52 -0400",
+        "category": "us"
+      },
       {
         "title": "Iranians are leaving the country just to access the internet",
         "link": "https://www.npr.org/2026/04/22/g-s1-118339/iran-internet-access-turkey",
@@ -40,22 +46,16 @@
         "category": "Top News"
       },
       {
-        "title": "Iran attacks ships in Hormuz Strait as the U.S. continues its blockade amid ceasefire",
+        "title": "Iran says it seized ships in Strait of Hormuz as U.S. blockade continues amid ceasefire",
         "link": "https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates",
         "pubDate": "Wed, 22 Apr 2026 06:53:59 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "How the airline industry could be impacted if Spirit Airlines is liquidated",
         "link": "https://www.npr.org/2026/04/22/nx-s1-5789050/spirit-airlines-liquidation-bankruptcy-impact",
         "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
         "category": "business"
-      },
-      {
-        "title": "RFK Jr. is on a congressional hearing blitz, after a long absence from Capitol Hill",
-        "link": "https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid",
-        "pubDate": "Wed, 22 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
       },
       {
         "title": "Trump administration delays rule aimed at improving disability access in schools",
@@ -66,9 +66,33 @@
     ],
     "bbc": [
       {
-        "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
-        "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 15:00:40 GMT",
+        "title": "Head coach Liam Rosenior sacked by Chelsea after three months in charge",
+        "link": "https://www.bbc.com/sport/football/articles/c9d4w8032vno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 17:00:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "PM's ex-chief of staff to give evidence on Mandelson vetting",
+        "link": "https://www.bbc.com/news/articles/c5yjl1pmv55o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 16:23:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
+        "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 16:19:36 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+        "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 16:14:20 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Black children eight times more likely to be strip searched by police, report says",
+        "link": "https://www.bbc.com/news/articles/cn8de0dg5j9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Apr 2026 15:55:22 GMT",
         "category": "Top News"
       },
       {
@@ -78,22 +102,10 @@
         "category": "Top News"
       },
       {
-        "title": "PM's ex-chief of staff to give evidence on Mandelson vetting",
-        "link": "https://www.bbc.com/news/articles/c5yjl1pmv55o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 14:28:01 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Starmer admits No 10 asked about job for aide Matthew Doyle",
         "link": "https://www.bbc.com/news/articles/cq59xx6n3j7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 22 Apr 2026 13:13:14 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
-        "link": "https://www.bbc.com/news/articles/cgrlvvrn409o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 12:03:10 GMT",
-        "category": "tech"
       },
       {
         "title": "Three ways the latest inflation figures affect you",
@@ -102,22 +114,10 @@
         "category": "business"
       },
       {
-        "title": "EU approves \u20ac90bn loan for Ukraine as pipeline is turned on ending deadlock",
-        "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 11:19:57 GMT",
-        "category": "world"
-      },
-      {
         "title": "Hay fever misery does last longer - here is how to cope",
         "link": "https://www.bbc.com/news/articles/cqj8kk0z0l5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 22 Apr 2026 10:41:51 GMT",
         "category": "health"
-      },
-      {
-        "title": "'Superstar' runners praised for helping exhausted man finish marathon",
-        "link": "https://www.bbc.com/news/articles/cj0v632yddzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Apr 2026 09:50:06 GMT",
-        "category": "Top News"
       },
       {
         "title": "Trump buys time for Iran deal after frantic day of diplomacy",
@@ -127,6 +127,25 @@
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Adobe tries to climb out of the software stock abyss, with a little help from a buyback and Jensen Huang",
+        "link": "https://www.cnbc.com/2026/04/22/adobe-tries-to-climb-out-of-abyss-with-help-from-a-buyback-and-nvidia.html",
+        "pubDate": "Wed, 22 Apr 2026 16:17:20 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: GE Vernova, Vertiv, Best Buy &amp; more",
+        "link": "https://www.cnbc.com/2026/04/22/stocks-making-the-biggest-moves-premarket-gev-vrt-bby.html",
+        "pubDate": "Wed, 22 Apr 2026 11:43:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump administration discussing currency swap line with United Arab Emirates",
+        "link": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html",
+        "pubDate": "Tue, 21 Apr 2026 22:09:55 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
