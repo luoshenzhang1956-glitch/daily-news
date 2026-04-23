@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-04-23T14:01:23.822855",
+  "updated_at": "2026-04-23T16:05:36.071697",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "How mosquitoes \u2014 and malaria \u2014 helped shaped the whereabouts of early humankind",
+        "link": "https://www.npr.org/2026/04/23/g-s1-118443/mosquitoes-malaria-human-civilization",
+        "pubDate": "Thu, 23 Apr 2026 11:50:18 -0400",
+        "category": "health"
+      },
       {
         "title": "Tensions rise in two ceasefires in the Middle East. And, the Navy secretary ousted",
         "link": "https://www.npr.org/2026/04/23/g-s1-118440/up-first-newsletter-us-iran-john-phelan-trump-republican-democrat-midterm-fundraising-budget-reconciliation-ice",
@@ -19,7 +25,7 @@
         "title": "Two startlingly different views on long-awaited data on America&apos;s anti-HIV efforts",
         "link": "https://www.npr.org/2026/04/23/g-s1-118221/hiv-aids-pepfar-trump-foreign-aid",
         "pubDate": "Thu, 23 Apr 2026 06:51:12 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Peace talks between U.S. and Iran at a standstill as Trump extends ceasefire",
@@ -34,13 +40,13 @@
         "category": "tech"
       },
       {
-        "title": "How TikTok is driving American expats to Southeast Asia",
-        "link": "https://www.npr.org/2026/04/23/nx-s1-5763809/tiktok-moving-vietnam-thailand-american-expats",
+        "title": "4 charts show where money is going in the midterms -- and who has the most cash",
+        "link": "https://www.npr.org/2026/04/23/nx-s1-5795841/democrats-senate-fundraising-republican-maga-cash-on-hand-campaign-finance",
         "pubDate": "Thu, 23 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Senate GOP is kickstarting budget reconciliation to fund ICE. Here&apos;s how that works",
+        "title": "Senate votes to kickstart partisan funding process for ICE. Here&apos;s how that works",
         "link": "https://www.npr.org/2026/04/23/g-s1-118330/congress-dhs-spending-reconciliation",
         "pubDate": "Thu, 23 Apr 2026 05:00:00 -0400",
         "category": "Top News"
@@ -52,30 +58,48 @@
         "category": "Top News"
       },
       {
-        "title": "4 charts show where money is going in the midterms -- and who has the most cash",
-        "link": "https://www.npr.org/2026/04/23/nx-s1-5795841/democrats-senate-fundraising-republican-maga-cash-on-hand-campaign-finance",
-        "pubDate": "Thu, 23 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Tesla&apos;s making money. But it&apos;s planning to spend an awful lot more",
-        "link": "https://www.npr.org/2026/04/22/nx-s1-5791653/tesla-earnings-first-quarter-2026",
-        "pubDate": "Wed, 22 Apr 2026 19:23:43 -0400",
+        "title": "Warner Bros. Discovery shareholders approve $110B merger with Paramount Skydance",
+        "link": "https://www.npr.org/2026/04/23/nx-s1-5793628/warner-bros-discovery-paramount-skydance-merger",
+        "pubDate": "Thu, 23 Apr 2026 04:45:58 -0400",
         "category": "business"
       }
     ],
     "bbc": [
       {
+        "title": "Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation",
+        "link": "https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 23 Apr 2026 15:59:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rapist who infected men and boys with HIV jailed",
+        "link": "https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 23 Apr 2026 15:53:36 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Three men guilty of 'callous' Brighton beach rape",
         "link": "https://www.bbc.com/news/articles/cvg090pe65vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Apr 2026 13:51:34 GMT",
+        "pubDate": "Thu, 23 Apr 2026 15:36:57 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+        "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 23 Apr 2026 15:34:15 GMT",
+        "category": "world"
       },
       {
         "title": "Sara Cox replaces Scott Mills on Radio 2 breakfast show",
         "link": "https://www.bbc.com/news/articles/cx2ev8zed5zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Apr 2026 13:29:00 GMT",
+        "pubDate": "Thu, 23 Apr 2026 15:23:25 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
+        "link": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 23 Apr 2026 14:55:21 GMT",
+        "category": "business"
       },
       {
         "title": "US Senate clears key hurdle in bid to fund two immigration agencies",
@@ -96,68 +120,25 @@
         "category": "Top News"
       },
       {
-        "title": "UK borrowing lowest for three years  but Iran war clouds outlook",
-        "link": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Apr 2026 11:37:59 GMT",
-        "category": "business"
-      },
-      {
-        "title": "In Tehran, money is short and a return to war looms over daily life",
-        "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Apr 2026 11:26:01 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Lyse Doucet: In Tehran, money is short and a return to war looms over daily life",
-        "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Apr 2026 11:26:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals",
-        "link": "https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Apr 2026 04:59:56 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'My baby scratches and scratches': Families say their homes are making their children sick",
         "link": "https://www.bbc.com/news/articles/cm2r70gwkjjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 23 Apr 2026 00:35:10 GMT",
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Intel lands Tesla as first major customer for 14A chip technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ea2601d46f45338bcfdb13c237ec26&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2ftesla-ceo-musk-says-company-plans-use-intels-14a-process-terafab-2026-04-22%2f&amp;c=15387375272319030276&amp;mkt=en-us",
-        "pubDate": "Wed, 22 Apr 2026 19:14:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
         "title": "Trump administration moves to reclassify cannabis in major shift that could expand research",
         "link": "https://www.cnbc.com/2026/04/23/trump-administration-reclassifies-cannabis.html",
-        "pubDate": "Thu, 23 Apr 2026 13:21:43 GMT",
+        "pubDate": "Thu, 23 Apr 2026 15:59:14 GMT",
         "category": "health"
       },
       {
-        "title": "This retailer is due for a bounce despite recent headwinds, Raymond James says",
-        "link": "https://www.cnbc.com/2026/04/23/this-retailer-is-due-for-a-bounce-despite-headwinds-raymond-james-says-.html",
-        "pubDate": "Thu, 23 Apr 2026 13:04:09 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Tesla earnings, the future of Spirit Airlines, WBD shareholder vote and more in Morning Squawk",
-        "link": "https://www.cnbc.com/2026/04/23/5-things-to-know-before-the-market-opens.html",
-        "pubDate": "Thu, 23 Apr 2026 12:27:15 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Warner Bros. Discovery shareholders to vote on Paramount deal",
-        "link": "https://www.cnbc.com/2026/04/23/warner-bros-discovery-shareholder-vote-paramount-deal.html",
-        "pubDate": "Thu, 23 Apr 2026 11:30:01 GMT",
-        "category": "business"
+        "title": "Trump orders Navy to &apos;shoot and kill any boat&apos; laying mines in Hormuz Strait",
+        "link": "https://www.cnbc.com/2026/04/23/trump-hormuz-strait-iran-war.html",
+        "pubDate": "Thu, 23 Apr 2026 15:45:14 GMT",
+        "category": "world"
       }
     ]
   }
