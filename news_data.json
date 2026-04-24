@@ -1,30 +1,12 @@
 {
-  "updated_at": "2026-04-24T15:15:20.036604",
+  "updated_at": "2026-04-24T17:07:18.318528",
   "news": {
     "ap": [
       {
-        "title": "Tech stocks rise on a mostly subdued Wall Street, while oil prices keep swinging",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69eb88817eb04066badbe90131921339&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-trump-iran-oil-75bd462d6795062bed788709d647dc68&amp;c=4718925853386138530&amp;mkt=en-us",
-        "pubDate": "Fri, 24 Apr 2026 07:27:00 GMT",
+        "title": "Intel carries Wall Street toward another record, while oil prices yo-yo lower",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69eba2b277204e2899e8f860e53f81f8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-trump-iran-oil-75bd462d6795062bed788709d647dc68&amp;c=4718925853386138530&amp;mkt=en-us",
+        "pubDate": "Fri, 24 Apr 2026 09:14:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "Trump administration vows crackdown on Chinese companies \u2018exploiting\u2019 AI models made in US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69eb8883508e4a2a8fa3b5306a8d09ea&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-china-us-model-distillation-kratsios-a5c40346394ef5fa9ae710c5aabdc62c&amp;c=10575766058549673499&amp;mkt=en-us",
-        "pubDate": "Fri, 24 Apr 2026 06:01:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Spain heads to World Cup with its image battered by cases of racism, sexism and xenophobia",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69eb887d827141aa855f58eaaf3735c3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-spain-racism-575143c83582927027b68431fff7b2aa&amp;c=4753485561531664568&amp;mkt=en-us",
-        "pubDate": "Fri, 24 Apr 2026 05:43:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Analysis: The US protected ships from Iran in the Strait of Hormuz in the \u201880s. Could it again?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69eb88809d384af390067d7a81db2fe6&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-strait-hormuz-closed-us-military-analysis-5df204d8321e76cfad30c4329eb8d1ac&amp;c=11808871508628627229&amp;mkt=en-us",
-        "pubDate": "Fri, 24 Apr 2026 02:29:00 GMT",
-        "category": "us"
       }
     ],
     "npr": [
@@ -71,8 +53,8 @@
         "category": "tech"
       },
       {
-        "title": "After 2 failed votes, Mike Johnson unveils new plan to extend key U.S. spy powers",
-        "link": "https://www.npr.org/2026/04/24/nx-s1-5797964/after-2-failed-votes-mike-johnson-unveils-new-plan-to-extend-key-u-s-spy-powers",
+        "title": "Why Trump wants to spend $1 billion on Great Salt Lake",
+        "link": "https://www.npr.org/2026/04/24/nx-s1-5746844/why-trump-wants-to-spend-1-billion-on-great-salt-lake",
         "pubDate": "Fri, 24 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -91,40 +73,46 @@
     ],
     "bbc": [
       {
-        "title": "Man given life sentence for rape and religiously aggravated assault of Sikh woman",
-        "link": "https://www.bbc.com/news/articles/cpqxrzr29pxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Apr 2026 15:01:08 GMT",
+        "title": "Assisted dying bill runs out of time but supporters vow to try again",
+        "link": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Apr 2026 16:29:30 GMT",
+        "category": "health"
+      },
+      {
+        "title": "US justice department drops probe into Fed chairman Jerome Powell",
+        "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Apr 2026 16:21:41 GMT",
+        "category": "us"
+      },
+      {
+        "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+        "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Apr 2026 16:19:56 GMT",
         "category": "Top News"
       },
       {
         "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
         "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Apr 2026 14:44:13 GMT",
+        "pubDate": "Fri, 24 Apr 2026 16:04:29 GMT",
         "category": "world"
+      },
+      {
+        "title": "The assisted dying bill has failed but the debate isn't over",
+        "link": "https://www.bbc.com/news/articles/cm2k59l2l02o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Apr 2026 15:45:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man given life sentence for rape and religiously aggravated assault of Sikh woman",
+        "link": "https://www.bbc.com/news/articles/cpqxrzr29pxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Apr 2026 15:15:04 GMT",
+        "category": "Top News"
       },
       {
         "title": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
         "link": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 24 Apr 2026 14:40:23 GMT",
         "category": "tech"
-      },
-      {
-        "title": "The assisted dying bill has failed but the debate isn't over",
-        "link": "https://www.bbc.com/news/articles/cm2k59l2l02o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Apr 2026 14:19:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Assisted dying bill runs out of time to become law",
-        "link": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Apr 2026 14:17:42 GMT",
-        "category": "health"
-      },
-      {
-        "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-        "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Apr 2026 14:17:38 GMT",
-        "category": "Top News"
       },
       {
         "title": "Chris Mason: A grim week for Starmer \u2013 but things could be about to get worse",
@@ -143,45 +131,51 @@
         "link": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 24 Apr 2026 05:00:03 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "US soldier charged after winning $400,000 betting on removal of Maduro",
-        "link": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Apr 2026 00:21:32 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "China to curb US investment in tech companies, Bloomberg News reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69eb88ccd47e4af2bf0e0bd298eb9448&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-curb-us-investment-tech-companies-bloomberg-news-reports-2026-04-24%2f&amp;c=16058795616619769470&amp;mkt=en-us",
-        "pubDate": "Fri, 24 Apr 2026 05:44:00 GMT",
-        "category": "tech"
-      },
-      {
         "title": "US health insurers advance measures to standardize prior authorization requirements",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69eb88cd361c4394bf7b46fd950eb74f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-health-insurers-advance-measures-standardize-prior-authorization-requirements-2026-04-24%2f&amp;c=1476640863671794574&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69eba322436c44e28131b1ffca0d306d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-health-insurers-advance-measures-standardize-prior-authorization-requirements-2026-04-24%2f&amp;c=1476640863671794574&amp;mkt=en-us",
         "pubDate": "Fri, 24 Apr 2026 05:09:00 GMT",
         "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "FDA fast-tracks psychedelic drug research following Trump executive order",
-        "link": "https://www.cnbc.com/2026/04/24/fda-psychedelic-drug-research-trump.html",
-        "pubDate": "Fri, 24 Apr 2026 14:32:20 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Kalshi traders don&apos;t see Strait of Hormuz traffic returning to normal until July",
-        "link": "https://www.cnbc.com/2026/04/23/kalshi-bettors-see-strait-of-hormuz-traffic-normal-by-july.html",
-        "pubDate": "Fri, 24 Apr 2026 14:05:55 GMT",
+        "title": "Stocks making the biggest moves midday: Intel, AMD, Charter, Hims &amp; Hers, Eli Lilly and more",
+        "link": "https://www.cnbc.com/2026/04/24/stocks-making-the-biggest-moves-midday-chtr-hims-intc-amd-lly.html",
+        "pubDate": "Fri, 24 Apr 2026 17:02:28 GMT",
         "category": "Top News"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Intel, Advanced Micro Devices, Procter &amp; Gamble &amp; more",
-        "link": "https://www.cnbc.com/2026/04/24/stocks-making-the-biggest-moves-premarket-intc-amd-pg.html",
-        "pubDate": "Fri, 24 Apr 2026 13:14:51 GMT",
+        "title": "Nuclear reactor company X-energy shares surge 34% as AI drives interest in the industry its IPO",
+        "link": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html",
+        "pubDate": "Fri, 24 Apr 2026 17:00:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
+        "link": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html",
+        "pubDate": "Fri, 24 Apr 2026 16:54:35 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bettors on Kalshi now see Warsh likely confirmed by mid-May after DOJ drops Powell probe",
+        "link": "https://www.cnbc.com/2026/04/24/kalshi-bettors-see-warsh-confirmed-in-may-after-doj-drops-powell-probe.html",
+        "pubDate": "Fri, 24 Apr 2026 16:20:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "FDA fast-tracks psychedelic drug research following Trump executive order",
+        "link": "https://www.cnbc.com/2026/04/24/fda-psychedelic-drug-research-trump.html",
+        "pubDate": "Fri, 24 Apr 2026 16:06:42 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Risky meme trading is back. A trading rule change may have lit the fuse",
+        "link": "https://www.cnbc.com/2026/04/23/risky-meme-trading-is-back-a-trading-rule-change-may-have-lit-the-fuse.html",
+        "pubDate": "Fri, 24 Apr 2026 15:42:10 GMT",
         "category": "Top News"
       },
       {
@@ -206,12 +200,6 @@
         "title": "Traders are betting on big moves in Intel on earnings",
         "link": "https://www.cnbc.com/2026/04/23/traders-are-betting-on-big-moves-in-intel-on-earnings.html",
         "pubDate": "Thu, 23 Apr 2026 17:59:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Risky meme trading is back. A trading rule change may have lit the fuse",
-        "link": "https://www.cnbc.com/2026/04/23/risky-meme-trading-is-back-a-trading-rule-change-may-have-lit-the-fuse.html",
-        "pubDate": "Thu, 23 Apr 2026 17:15:49 GMT",
         "category": "Top News"
       }
     ]
