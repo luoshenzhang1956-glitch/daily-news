@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-04-26T16:55:34.763588",
+  "updated_at": "2026-04-26T19:06:15.088030",
   "news": {
-    "ap": [
-      {
-        "title": "Dirk Kempthorne, former Idaho governor and US Interior secretary, dies at 74",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ee42ed8f0e4514bbf7f9c41994fb21&amp;url=https%3a%2f%2fapnews.com%2farticle%2fidaho-kempthorne-interior-endangered-species-f46d872d26378c033053da0198b14bab&amp;c=14323493498214935449&amp;mkt=en-us",
-        "pubDate": "Sat, 25 Apr 2026 16:57:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Photos: The aftermath of the White House Correspondents&apos; Dinner shooting",
@@ -29,6 +22,12 @@
         "category": "health"
       },
       {
+        "title": "How China is responding to the stalling of talks between the U.S. and Iran",
+        "link": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran",
+        "pubDate": "Sun, 26 Apr 2026 08:08:51 -0400",
+        "category": "world"
+      },
+      {
         "title": "How the Iran war is impacting the airline industry",
         "link": "https://www.npr.org/2026/04/26/nx-s1-5795931/how-the-iran-war-is-impacting-the-airline-industry",
         "pubDate": "Sun, 26 Apr 2026 08:08:50 -0400",
@@ -44,7 +43,7 @@
         "title": "Trump doubts shooter motivated by Iran war as peace talks on hold",
         "link": "https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan",
         "pubDate": "Sun, 26 Apr 2026 07:40:10 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Kenya&apos;s Sabastian Sawe is first person to run sub-2-hour marathon to win in London",
@@ -63,25 +62,19 @@
         "link": "https://www.npr.org/2026/04/26/g-s1-118359/supreme-court-geofencing-explainer-video",
         "pubDate": "Sun, 26 Apr 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Why emotional disturbance, a special ed category, is a double-edged sword for students",
-        "link": "https://www.npr.org/2026/04/26/g-s1-117447/school-disability-emotional-behavioral-disorder-special-education",
-        "pubDate": "Sun, 26 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Final decision expected on King's US visit after DC shooting",
+        "title": "King's US visit will go ahead as planned, Buckingham Palace says",
         "link": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 26 Apr 2026 16:26:25 GMT",
+        "pubDate": "Sun, 26 Apr 2026 18:33:04 GMT",
         "category": "Top News"
       },
       {
-        "title": "Russian mercenaries to withdraw from Mali city after attacks",
+        "title": "Mali defence minister killed in rebel attacks",
         "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 26 Apr 2026 15:23:04 GMT",
+        "pubDate": "Sun, 26 Apr 2026 17:23:46 GMT",
         "category": "Top News"
       },
       {
@@ -133,20 +126,7 @@
         "category": "tech"
       }
     ],
-    "reuters": [
-      {
-        "title": "Raizen proposes alternative terms to creditors for debt restructuring, Bloomberg reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ee431211d24d7187e91b54919c4a33&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fraizen-proposes-alternative-terms-creditors-debt-restructuring-bloomberg-reports-2026-04-26%2f&amp;c=9638264211334876783&amp;mkt=en-us",
-        "pubDate": "Sun, 26 Apr 2026 07:49:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Trump was likely target of shooting at White House Correspondents' dinner, says US official",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ee43114a58424ea66ea9d309990084&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-removed-white-house-correspondents-dinner-attendees-take-cover-2026-04-26%2f&amp;c=14030354847018713237&amp;mkt=en-us",
-        "pubDate": "Sun, 26 Apr 2026 06:07:00 GMT",
-        "category": "us"
-      }
-    ],
+    "reuters": [],
     "markets": []
   }
 }
