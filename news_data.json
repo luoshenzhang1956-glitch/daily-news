@@ -1,26 +1,25 @@
 {
-  "updated_at": "2026-04-27T19:43:57.679695",
+  "updated_at": "2026-04-27T21:11:13.098050",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69efbbe57c8843aa8550107b6da7f950&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103&amp;c=7060973997150729914&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Apr 2026 12:23:00 GMT",
+        "title": "Alleged gunman at White House Correspondents&apos; Dinner appeared in court",
+        "link": "https://www.npr.org/2026/04/27/nx-s1-5801430/alleged-gunman-at-white-house-correspondents-dinner-appeared-in-court",
+        "pubDate": "Mon, 27 Apr 2026 16:55:13 -0400",
         "category": "us"
       },
       {
-        "title": "South Carolina\u2019s measles outbreak is over after sickening nearly 1,000 people",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69efbbf69fe1439fb6a155213026b79e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsouth-carolina-measles-outbreak-vaccine-58457097adcad30127c992511069d10c&amp;c=4267811531546001361&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Apr 2026 09:53:00 GMT",
+        "title": "Scientists search the microbiome for clues to the rise in colorectal cancers",
+        "link": "https://www.npr.org/2026/04/27/nx-s1-5766512-e1/scientists-search-the-microbiome-for-clues-to-the-rise-in-colorectal-cancers",
+        "pubDate": "Mon, 27 Apr 2026 16:27:36 -0400",
         "category": "health"
-      }
-    ],
-    "npr": [
+      },
       {
         "title": "Here&apos;s a look inside security at the White House Correspondents&apos; Association Dinner",
         "link": "https://www.npr.org/2026/04/27/nx-s1-5801476/whca-dinner-security-secret-service-president-trump",
         "pubDate": "Mon, 27 Apr 2026 15:15:25 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Melania Trump wants ABC to &apos;take a stand&apos; against Jimmy Kimmel after &apos;hateful&apos; joke",
@@ -47,7 +46,7 @@
         "category": "Top News"
       },
       {
-        "title": "Iran&apos;s flurry of diplomacy continues in Russia, as Trump insists U.S. has &apos;the cards&apos;",
+        "title": "Iran&apos;s flurry of diplomacy continues in Russia, as Trump reviews Iran&apos;s latest proposal",
         "link": "https://www.npr.org/2026/04/27/nx-s1-5800669/iran-middle-east-updates",
         "pubDate": "Mon, 27 Apr 2026 07:32:55 -0400",
         "category": "Top News"
@@ -63,21 +62,15 @@
         "link": "https://www.npr.org/2026/04/27/nx-s1-5795661/trial-openai-elon-musk-sam-altman",
         "pubDate": "Mon, 27 Apr 2026 05:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Scientists search the microbiome for clues to the rise in colorectal cancers",
-        "link": "https://www.npr.org/2026/04/27/nx-s1-5766512/colorectal-cancer-rise-young-gut-microbes",
-        "pubDate": "Mon, 27 Apr 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Inflation is sucking the life out of teacher pay raises, report says",
-        "link": "https://www.npr.org/2026/04/27/nx-s1-5791733/teacher-pay-rising-inflation",
-        "pubDate": "Mon, 27 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Starmer faces vote on inquiry over Mandelson vetting claims",
+        "link": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Apr 2026 21:06:18 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Neighbours of White House correspondents' dinner shooting suspect react",
         "link": "https://www.bbc.com/news/videos/c77m77krx44o?at_medium=RSS&amp;at_campaign=rss",
@@ -89,12 +82,6 @@
         "link": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 27 Apr 2026 18:44:10 GMT",
         "category": "business"
-      },
-      {
-        "title": "Starmer faces vote on inquiry over Mandelson vetting claims",
-        "link": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Apr 2026 17:47:42 GMT",
-        "category": "Top News"
       },
       {
         "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
@@ -141,24 +128,30 @@
     ],
     "reuters": [
       {
-        "title": "Thermo Fisher to sell microbiology business to PE firm Astorg for over $1 billion",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69efbc2a390843faa462add05a50a194&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fthermo-fisher-sell-its-microbiology-business-astorg-about-108-billion-2026-04-27%2f&amp;c=11397985577087394814&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Apr 2026 05:11:00 GMT",
+        "title": "Geely Technology Ecosystem on Full Display and Debut of China\u2019s First Purpose-Built Robotaxi at Auto China 2026",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69efd0bb003642b8ba52dd76a14b0d05&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fgeely-tech-ecosystem-robotaxi-auto-china-2026-2026-04-27%2f&amp;c=1691230878815204196&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Apr 2026 04:37:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Forvia to sell its interiors business to Apollo Funds for $2.1 billion",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69efd0b98cef4126aa2a99bb1b069d1b&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fforvia-sell-its-interiors-business-apollo-funds-21-billion-2026-04-27%2f&amp;c=5111927692198624263&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Apr 2026 02:51:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "New Wall Street research touts our long-held view on AI and cybersecurity stocks",
-        "link": "https://www.cnbc.com/2026/04/27/street-research-adopts-our-long-held-view-on-ai-and-cybersecurity-stocks.html",
-        "pubDate": "Mon, 27 Apr 2026 18:11:10 GMT",
+        "title": "Micron and Sandisk continue rally as demand for memory expected to persist",
+        "link": "https://www.cnbc.com/2026/04/27/micron-and-sandisk-pop-as-memory-demand-to-remain-high-through-2030.html",
+        "pubDate": "Mon, 27 Apr 2026 20:26:31 GMT",
         "category": "tech"
       },
       {
-        "title": "Trump discussed Iran&apos;s Hormuz Strait proposal with top aides, White House says",
-        "link": "https://www.cnbc.com/2026/04/27/trump-iran-war-strait-of-hormuz-rubio.html",
-        "pubDate": "Mon, 27 Apr 2026 18:10:42 GMT",
-        "category": "world"
+        "title": "Nvidia just hit an all-time high. Why some think a rally is just getting started",
+        "link": "https://www.cnbc.com/2026/04/27/nvidia-just-hit-an-all-time-high-why-some-think-a-rally-is-just-getting-started.html",
+        "pubDate": "Mon, 27 Apr 2026 18:07:45 GMT",
+        "category": "us"
       }
     ]
   }
