@@ -1,32 +1,56 @@
 {
-  "updated_at": "2026-04-28T10:23:44.550804",
+  "updated_at": "2026-04-28T14:30:36.463360",
   "news": {
     "ap": [
       {
-        "title": "US energy blockade leaves Cuban farmers struggling to feed a nation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f08a12ffc04a59baaeaaa1c711fa20&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuba-farms-united-states-energy-blockade-power-gas-82881e367d0934d92c632791bbfa28f0&amp;c=10373252940713739759&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Apr 2026 21:20:00 GMT",
+        "title": "Sinking AI stocks and rising oil prices weigh on Wall Street",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f0c3d5d1c5415c844af32dcb26a96b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-trump-oil-iran-war-1901470c64a6055c80656fad64f863e5&amp;c=1665867351848460706&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Apr 2026 07:17:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Live updates: United Arab Emirates says it will exit OPEC, while US-Iran negotiations stall",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f0c3cb478d47818242e2a26b4af157&amp;url=https%3a%2f%2fapnews.com%2flive%2firan-war-israel-trump-04-28-2026&amp;c=17565558183423454591&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Apr 2026 07:01:00 GMT",
         "category": "us"
       },
       {
-        "title": "Carney unveils $18 billion Canadian government-owned investment fund",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f08a24508644e4bd6728d737a4cbaf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcarney-canada-sovereign-wealth-fund-4be2e01a820382f42dcf7af7cc4f90c1&amp;c=11767155407610636508&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Apr 2026 12:48:00 GMT",
-        "category": "tech"
+        "title": "Real Madrid and Brazil defender Milit&#227;o has hamstring op and will miss World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f0c3caf76e46bbb16e358bf989e830&amp;url=https%3a%2f%2fapnews.com%2farticle%2feder-militao-real-madrid-brazil-world-cup-4f107aff2c50ab03369c419aec8bbee2&amp;c=8424080547142761776&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Apr 2026 05:35:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
       {
-        "title": "&apos;We don&apos;t know what will happen to us&apos;: U.S. deportees in limbo in DRC",
-        "link": "https://www.npr.org/2026/04/28/nx-s1-5798775/drc-latin-america-deportees-asylum-migration",
-        "pubDate": "Tue, 28 Apr 2026 06:00:00 -0400",
+        "title": "The United Arab Emirates is quitting OPEC oil cartel after nearly 60 years",
+        "link": "https://www.npr.org/2026/04/28/nx-s1-5802735/uae-leaves-opec-oil",
+        "pubDate": "Tue, 28 Apr 2026 10:09:53 -0400",
+        "category": "business"
+      },
+      {
+        "title": "WHCA dinner shooter charged. And, Charles III to address Congress",
+        "link": "https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm",
+        "pubDate": "Tue, 28 Apr 2026 07:43:14 -0400",
         "category": "world"
       },
       {
-        "title": "The MAHA movement is mad about glyphosate and Trump&apos;s EPA",
+        "title": "Deadlock over Iran&apos;s nuclear program and the Strait of Hormuz cripples peace efforts",
+        "link": "https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates",
+        "pubDate": "Tue, 28 Apr 2026 06:59:44 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The MAHA movement is mad about the weedkiller glyphosate and Trump&apos;s EPA",
         "link": "https://www.npr.org/2026/04/28/nx-s1-5801645/maha-epa-pesticide-glyphosate-trump",
         "pubDate": "Tue, 28 Apr 2026 06:00:00 -0400",
         "category": "health"
+      },
+      {
+        "title": "&apos;We don&apos;t know what will happen to us&apos;: U.S. deportees in limbo in DRC",
+        "link": "https://www.npr.org/2026/04/28/nx-s1-5798775/drc-latin-america-deportees-asylum-migration",
+        "pubDate": "Tue, 28 Apr 2026 06:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "Millions of homes in the U.S. are uninsured. NPR wants to hear your story",
@@ -38,18 +62,6 @@
         "title": "Lawsuits accuse State Farm of secretly working to cut insurance payouts",
         "link": "https://www.npr.org/2026/04/28/nx-s1-5793997/state-farm-home-insurance-hail-climate-change",
         "pubDate": "Tue, 28 Apr 2026 05:21:00 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Should schools get rid of homework? Some educators are saying yes",
-        "link": "https://www.npr.org/2026/04/28/nx-s1-5795647/should-schools-get-rid-of-homework",
-        "pubDate": "Tue, 28 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Stuck in limbo: millions of professionals risk losing legal status under Trump pause",
-        "link": "https://www.npr.org/2026/04/28/nx-s1-5775869/trump-travel-ban-pause-limbo-professionals",
-        "pubDate": "Tue, 28 Apr 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
@@ -59,15 +71,9 @@
         "category": "Top News"
       },
       {
-        "title": "Trump&apos;s embrace of King Charles comes at a fraught time for U.S.-UK relations",
-        "link": "https://www.npr.org/2026/04/28/nx-s1-5800874/trump-king-charles-relationship-congress-state-dinner",
+        "title": "Should schools get rid of homework? Some educators are saying yes",
+        "link": "https://www.npr.org/2026/04/28/nx-s1-5795647/should-schools-get-rid-of-homework",
         "pubDate": "Tue, 28 Apr 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "NEWSBRIEF: WHCA SUSPECT IN COURT, TRUMP-KING RELATIONSHIP, LEBANON CEASEFIRE FRAYS",
-        "link": "https://www.npr.org/2026/04/28/nx-s1-5797894/newsbrief-whca-suspect-in-court-trump-king-relationship-lebanon-ceasefire-frays",
-        "pubDate": "Tue, 28 Apr 2026 04:13:41 -0400",
         "category": "Top News"
       },
       {
@@ -79,45 +85,45 @@
     ],
     "bbc": [
       {
-        "title": "No way to raise Mandelson concerns, former senior official says",
-        "link": "https://www.bbc.com/news/articles/c4g8x7vez4no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Apr 2026 10:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Musk v Altman: The most toxic row in tech goes on trial",
-        "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Apr 2026 10:10:54 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
-        "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Apr 2026 10:08:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "BP profits more than double as Iran war sends oil prices higher",
-        "link": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Apr 2026 10:02:19 GMT",
+        "title": "United Arab Emirates to quit oil cartel Opec",
+        "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Apr 2026 14:12:53 GMT",
         "category": "business"
       },
       {
-        "title": "Social media restrictions for under-16s even if no ban, minister says",
-        "link": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Apr 2026 09:50:19 GMT",
-        "category": "health"
+        "title": "I made 'serious mistake' advising Starmer to appoint Mandelson, PM's ex-top adviser McSweeney says",
+        "link": "https://www.bbc.com/news/articles/czx26yz7kxzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Apr 2026 14:11:14 GMT",
+        "category": "Top News"
       },
       {
-        "title": "UK and US always find ways to come together, King to tell Congress",
-        "link": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Apr 2026 08:25:45 GMT",
+        "title": "Watch: Jimmy Kimmel defends 'expectant widow' joke after first lady criticism",
+        "link": "https://www.bbc.com/news/videos/c62d4n5rzr7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Apr 2026 13:10:16 GMT",
         "category": "Top News"
       },
       {
         "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
         "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Apr 2026 07:17:06 GMT",
+        "pubDate": "Tue, 28 Apr 2026 12:03:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Social media restrictions for under-16s even if no ban, minister says",
+        "link": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Apr 2026 10:46:55 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Musk v Altman: Why the tech billionaires and former friends are now facing off in court",
+        "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Apr 2026 10:10:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
+        "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Apr 2026 10:08:01 GMT",
         "category": "Top News"
       },
       {
@@ -139,38 +145,19 @@
         "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "US seeks to accelerate deportations of migrant children in custody, CNN reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f08a59e5a342ffb573897a2acafde1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-seeks-accelerate-deportations-migrant-children-custody-cnn-reports-2026-04-28%2f&amp;c=2144492491477995019&amp;mkt=en-us",
-        "pubDate": "Tue, 28 Apr 2026 01:49:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Exclusive: Ghana rejects proposed US health aid deal, citing data concerns, source says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f08a7b0df240daa1b4f637449e9a1a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fghana-rejects-proposed-us-health-aid-deal-citing-data-concerns-source-says-2026-04-28%2f&amp;c=3798862850703610093&amp;mkt=en-us",
-        "pubDate": "Tue, 28 Apr 2026 01:39:00 GMT",
-        "category": "health"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Novartis CEO warns reality of Trump&apos;s drug pricing policy will set in over &apos;the next 18 months&apos;",
-        "link": "https://www.cnbc.com/2026/04/28/novartis-ceo-stock-earnings-mfn-trump-drug-pricing-policy.html",
-        "pubDate": "Tue, 28 Apr 2026 10:19:07 GMT",
-        "category": "health"
+        "title": "GM raises 2026 guidance amid $500 million tariff refund, topping Wall Street&apos;s earnings expectations",
+        "link": "https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html",
+        "pubDate": "Tue, 28 Apr 2026 14:12:13 GMT",
+        "category": "business"
       },
       {
-        "title": "True Anomaly raises $650 million to support space interceptors for Trump&apos;s Golden Dome",
-        "link": "https://www.cnbc.com/2026/04/28/true-anomaly-trump-golden-dome.html",
-        "pubDate": "Tue, 28 Apr 2026 09:45:01 GMT",
+        "title": "OpenAI&apos;s revenue, growth estimates fall short as company races toward IPO: Report",
+        "link": "https://www.cnbc.com/2026/04/28/openais-revenue-growth-estimates-fall-short-report.html",
+        "pubDate": "Tue, 28 Apr 2026 14:02:45 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Saba Capital finds little appetite for tender offer of shares in Blue Owl, Starwood private credit funds",
-        "link": "https://www.cnbc.com/2026/04/27/private-credit-funds-saba-capital-tender-offers-for-shares-are-below-initial-expectations.html",
-        "pubDate": "Mon, 27 Apr 2026 23:02:22 GMT",
-        "category": "us"
       }
     ]
   }
