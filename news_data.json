@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-04-28T03:45:09.935297",
+  "updated_at": "2026-04-28T06:36:57.303872",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Paige Bueckers says it\u2019s all business with Azzi Fudd as they try to win with the Dallas Wings",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f054f366324b1ca9075ddaa2cf3e0a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwings-uconn-paige-bueckers-azzi-fudd-a05e2857493da604be4711545b97f9eb&amp;c=13504155845860029213&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Apr 2026 13:46:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "China blocks Meta from acquiring startup Manus as global AI rivalry deepens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f054fe04cc47119def4cf1286389f5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a&amp;c=15751030635669400474&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Apr 2026 10:19:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "Pompeii archaeologists use AI to reconstruct man killed in volcano&apos;s eruption",
+        "link": "https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption",
+        "pubDate": "Tue, 28 Apr 2026 01:20:05 -0400",
+        "category": "world"
+      },
       {
         "title": "South Carolina&apos;s measles outbreak is over. But more are brewing around the country",
         "link": "https://www.npr.org/2026/04/27/nx-s1-5801665/south-carolina-measles-outbreak-vaccination",
@@ -49,24 +68,36 @@
         "title": "China blocks Meta from acquiring AI startup Manus",
         "link": "https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus",
         "pubDate": "Mon, 27 Apr 2026 08:47:46 -0400",
-        "category": "world"
+        "category": "tech"
       },
       {
         "title": "Alleged Correspondents&apos; Dinner shooter to appear in court. And, Charles III visits U.S.",
         "link": "https://www.npr.org/2026/04/27/g-s1-118874/up-first-newsletter-white-house-correspondence-dinner-cole-allen-king-charles-spacex-openai-elon-musk",
         "pubDate": "Mon, 27 Apr 2026 08:11:18 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Musk vs. Altman: Tech CEOs head to court over the fate of OpenAI",
-        "link": "https://www.npr.org/2026/04/27/nx-s1-5795661/trial-openai-elon-musk-sam-altman",
-        "pubDate": "Mon, 27 Apr 2026 05:00:00 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "King to defend 'democratic values' as US state visit begins",
+        "title": "BP profits more than double as Iran war sends oil prices higher",
+        "link": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Apr 2026 06:23:45 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+        "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Apr 2026 06:09:43 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+        "link": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Apr 2026 04:17:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "King to defend democratic values as US state visit begins",
         "link": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 28 Apr 2026 01:44:46 GMT",
         "category": "Top News"
@@ -90,34 +121,16 @@
         "category": "Top News"
       },
       {
-        "title": "Terror trial to begin for man accused of plotting attack on Taylor Swift concert",
-        "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Apr 2026 23:05:27 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Why Spotify has no button to filter out AI music",
         "link": "https://www.bbc.com/news/articles/cd7jpg4w181o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 27 Apr 2026 23:03:10 GMT",
         "category": "tech"
       },
       {
-        "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
-        "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Apr 2026 21:14:23 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Starmer faces vote on inquiry over Mandelson vetting claims",
-        "link": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Apr 2026 21:06:18 GMT",
+        "title": "When Attenborough met the gorillas - the story behind his iconic TV moment",
+        "link": "https://www.bbc.com/news/articles/ce9n794g42zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Apr 2026 16:05:56 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "European flight prices are falling in short term, Wizz Air boss says",
-        "link": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Apr 2026 18:44:10 GMT",
-        "category": "business"
       },
       {
         "title": "UK healthy life expectancy falls by two years in past decade",
@@ -128,36 +141,48 @@
     ],
     "reuters": [
       {
-        "title": "Box to launch Box Automate to speed up customers' business with AI, CEO says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f02d1b4954414c94678427052a5770&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fbox-launch-box-automate-service-expedite-enterprise-business-processes-ceo-says-2026-04-27%2f&amp;c=14042417796263949409&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Apr 2026 14:05:00 GMT",
-        "category": "business"
+        "title": "Trump not happy with latest Iran proposal to end the war, US official says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f0552426514b8a890222b871c11e79&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-not-happy-with-latest-iran-proposal-end-war-us-official-says-2026-04-28%2f&amp;c=6335990515748415664&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Apr 2026 21:33:00 GMT",
+        "category": "us"
       },
       {
-        "title": "Geely Technology Ecosystem on Full Display and Debut of China\u2019s First Purpose-Built Robotaxi at Auto China 2026",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f02d1d253e41ae99497d0a40319a5e&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fgeely-tech-ecosystem-robotaxi-auto-china-2026-2026-04-27%2f&amp;c=1691230878815204196&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Apr 2026 04:37:00 GMT",
-        "category": "tech"
+        "title": "UNICEF warns Afghanistan could lose up to 25,000 female health workers, teachers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f0554a7b894bfea5e828714569a5e0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2funicef-warns-afghanistan-could-lose-up-25000-female-health-workers-teachers-2026-04-28%2f&amp;c=190095177168475370&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Apr 2026 16:12:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Bank of Japan keeps policy rate steady while raising inflation forecast on Iran war worries",
-        "link": "https://www.cnbc.com/2026/04/28/bank-of-japan-keeps-policy-rate-steady-cpi-iran-war-gdp.html",
-        "pubDate": "Tue, 28 Apr 2026 03:44:40 GMT",
-        "category": "world"
-      },
-      {
         "title": "Saba Capital finds little appetite for tender offer of shares in Blue Owl, Starwood private credit funds",
         "link": "https://www.cnbc.com/2026/04/27/private-credit-funds-saba-capital-tender-offers-for-shares-are-below-initial-expectations.html",
         "pubDate": "Mon, 27 Apr 2026 23:02:22 GMT",
-        "category": "us"
+        "category": "Top News"
       },
       {
-        "title": "Pharma bets a little-known form of cholesterol will underpin its next blockbuster heart drugs",
-        "link": "https://www.cnbc.com/2026/04/27/lpa-drugs-from-novartis-amgen-and-eli-lilly-aim-to-prevent-heart-attacks.html",
-        "pubDate": "Mon, 27 Apr 2026 19:28:58 GMT",
-        "category": "business"
+        "title": "Stocks making the biggest moves after hours: LendingClub, Nucor, Rambus, Bed Bath &amp; Beyond and more",
+        "link": "https://www.cnbc.com/2026/04/27/stocks-making-the-biggest-moves-after-hours-lc-nue-rmbs-bbby.html",
+        "pubDate": "Mon, 27 Apr 2026 21:17:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Investors usually &apos;sell in May and go away.&apos; Why that may not work this year",
+        "link": "https://www.cnbc.com/2026/04/27/investors-usually-sell-in-may-and-go-away-why-that-may-not-work-this-year.html",
+        "pubDate": "Mon, 27 Apr 2026 19:04:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "This bank CEO let his AI clone handle an earnings call \u2014 now he&apos;s signing an OpenAI deal",
+        "link": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html",
+        "pubDate": "Mon, 27 Apr 2026 18:45:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ray Dalio says Kevin Warsh shouldn&apos;t cut interest rates in a \u2018stagflation\u2019 era",
+        "link": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html",
+        "pubDate": "Mon, 27 Apr 2026 18:36:16 GMT",
+        "category": "Top News"
       }
     ]
   }
