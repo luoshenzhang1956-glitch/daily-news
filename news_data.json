@@ -1,26 +1,25 @@
 {
-  "updated_at": "2026-04-30T03:44:52.226128",
+  "updated_at": "2026-04-30T06:36:20.656781",
   "news": {
-    "ap": [
-      {
-        "title": "Amazon reports increased 1Q profits and net sales fueled by cloud computing demand",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfa8a7da4f6faaa1bf78a1706540&amp;url=https%3a%2f%2fapnews.com%2farticle%2famazon-earnings-aws-profit-1q-5c2356e39214d3d4a4949b63027a3c43&amp;c=13654837921063166424&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 16:01:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "How a father and daughter duped NYC&apos;s art world with fake Warhols and Banksys",
+        "link": "https://www.npr.org/2026/04/30/g-s1-119482/how-a-father-and-daughter-duped-nycs-art-world-with-fake-warhols-and-banksys",
+        "pubDate": "Thu, 30 Apr 2026 01:52:23 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Trump says he is weighing reducing American troop presence in Germany after Iran feud",
+        "link": "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
+        "pubDate": "Thu, 30 Apr 2026 01:41:44 -0400",
+        "category": "world"
+      },
       {
         "title": "Musk continued his testimony from yesterday in lawsuit against OpenAI",
         "link": "https://www.npr.org/2026/04/29/nx-s1-5803566/musk-continued-his-testimony-from-yesterday-in-lawsuit-against-openai",
         "pubDate": "Wed, 29 Apr 2026 18:52:55 -0400",
         "category": "business"
-      },
-      {
-        "title": "Camp Mystic parents ask Texas lawmakers to block the camp from re-opening",
-        "link": "https://www.npr.org/2026/04/29/nx-s1-5803533/camp-mystic-parents-ask-texas-lawmakers-to-block-the-camp-from-re-opening",
-        "pubDate": "Wed, 29 Apr 2026 18:50:39 -0400",
-        "category": "us"
       },
       {
         "title": "Supreme Court appears to lean toward ending TPS for some migrants",
@@ -38,7 +37,7 @@
         "title": "The Austrian nuns who fled their care home are now in Rome and visited the Vatican",
         "link": "https://www.npr.org/2026/04/29/g-s1-119191/austria-nuns-vatican-rome",
         "pubDate": "Wed, 29 Apr 2026 17:48:17 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "House extends a controversial spy tool, but Senate path is unclear ahead of deadline",
@@ -59,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "The Iran war now has a price tag ($25 billion), but still no end date",
-        "link": "https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date",
-        "pubDate": "Wed, 29 Apr 2026 15:48:24 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Elon Musk accuses OpenAI&apos;s leaders of &apos;looting the nonprofit&apos; in court testimony",
         "link": "https://www.npr.org/2026/04/29/nx-s1-5803833/elon-musk-testimony-openai-altman-day-2",
         "pubDate": "Wed, 29 Apr 2026 13:30:27 -0400",
@@ -73,15 +66,27 @@
     ],
     "bbc": [
       {
-        "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
-        "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 01:46:52 GMT",
+        "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+        "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 30 Apr 2026 06:12:50 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Oil price jumps after report Trump to be briefed on new Iran options",
+        "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 30 Apr 2026 06:12:50 GMT",
         "category": "Top News"
       },
       {
-        "title": "Police declare terrorist incident after two Jewish men stabbed in London",
-        "link": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 00:29:54 GMT",
+        "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
+        "link": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 30 Apr 2026 05:00:04 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Have the royals got their mojo back from US visit?",
+        "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 30 Apr 2026 03:48:53 GMT",
         "category": "Top News"
       },
       {
@@ -94,12 +99,6 @@
         "title": "The city caught in the middle of the big energy shift debate",
         "link": "https://www.bbc.com/news/articles/c1k239p409po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 30 Apr 2026 00:08:10 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-        "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 29 Apr 2026 23:33:22 GMT",
         "category": "Top News"
       },
       {
@@ -124,84 +123,10 @@
         "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
         "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 29 Apr 2026 20:24:48 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
-        "link": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 29 Apr 2026 20:18:28 GMT",
         "category": "us"
       }
     ],
-    "reuters": [
-      {
-        "title": "Trump holds talks on prolonged Iran blockade, urges Tehran to reach a deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfba8153414983de94158d1825b9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-urges-iran-sign-deal-after-report-suggests-us-may-extend-blockade-2026-04-29%2f&amp;c=54836020278932679&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 19:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US war in Iran has cost $25 billion so far, says Pentagon official",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfba8153414983de94158d1825b9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29%2f&amp;c=4247461676631850116&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 19:14:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iranian soccer officials set to miss pre-World Cup FIFA meeting after turning back at Toronto airport",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfba8153414983de94158d1825b9&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2firanian-officials-will-not-attend-fifa-congress-canada-tasnim-reports-citing-2026-04-29%2f&amp;c=16636167473785560055&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 19:09:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What is 'Taiwan independence' and is Taiwan already independent?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfba8153414983de94158d1825b9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fwhat-is-taiwan-independence-is-taiwan-already-independent-2026-04-29%2f&amp;c=7756399575212751598&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 18:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Taiwan tops Beijing's agenda for Trump-Xi summit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfba8153414983de94158d1825b9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftaiwan-tops-beijings-agenda-trump-xi-summit-2026-04-29%2f&amp;c=12813235883807233242&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 18:50:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tech shares rise in Asia, bonds scarred by central bank hawks as oil spikes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfba8153414983de94158d1825b9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-04-30%2f&amp;c=4106573339145808115&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 17:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Meta shares fall on concerns over AI spending, legal scrutiny",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfba8153414983de94158d1825b9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmeta-lifts-capital-expenditure-forecast-doubling-down-ai-push-2026-04-29%2f&amp;c=7166325088296155810&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 17:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Microsoft expects strong cloud business growth, plans record capital spending",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfdef4d94e51918cd91adb686b8a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fmicrosoft-reports-cloud-growth-line-with-expectations-2026-04-29%2f&amp;c=11737747027734872737&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 17:48:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "US court ruling clears Republican path to redraw House districts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfba8153414983de94158d1825b9&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-court-ruling-clears-republican-path-redraw-house-districts-2026-04-29%2f&amp;c=14511086266357288698&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 15:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Align Technology beats quarterly estimates, plans $200 million buyback",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f2cfdf35c547078aaa44dd8ce8e199&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2falign-technology-beats-quarterly-estimates-plans-200-million-buyback-2026-04-29%2f&amp;c=7471501150579914409&amp;mkt=en-us",
-        "pubDate": "Wed, 29 Apr 2026 14:01:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Thursday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/04/29/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Thu, 30 Apr 2026 00:03:20 GMT",
-        "category": "us"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
