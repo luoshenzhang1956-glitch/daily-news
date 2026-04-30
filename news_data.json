@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-04-30T06:36:20.656781",
+  "updated_at": "2026-04-30T10:14:47.334349",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "New FDA analysis says US infant formula supply is safe after testing for potential contaminants",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f32af90c8640f3862a40baa770bf39&amp;url=https%3a%2f%2fapnews.com%2farticle%2finfant-formula-heavy-metals-pesticide-42684eb7959346fe0479824344e81972&amp;c=13851675066557898883&amp;mkt=en-us",
+        "pubDate": "Wed, 29 Apr 2026 18:35:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "To catch colorectal cancer early, advocates push to make &apos;poop talk&apos; OK",
+        "link": "https://www.npr.org/2026/04/30/nx-s1-5762752/colorectal-cancer-rates-young-screening",
+        "pubDate": "Thu, 30 Apr 2026 06:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon",
+        "link": "https://www.npr.org/2026/04/30/g-s1-119210/lebanon-israel-war",
+        "pubDate": "Thu, 30 Apr 2026 05:00:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "The Iraq vet redefining mindfulness, one bourbon at a time",
+        "link": "https://www.npr.org/2026/04/30/nx-s1-5786543/veteran-bourbon-mindfulness",
+        "pubDate": "Thu, 30 Apr 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "These fans are boycotting the World Cup. Will they make it a bust?",
+        "link": "https://www.npr.org/2026/04/30/nx-s1-5803486/fifa-world-cup-soccer-football-tickets",
+        "pubDate": "Thu, 30 Apr 2026 05:00:00 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Supreme Court paves the way for largest-ever drop in Black representation in Congress",
+        "link": "https://www.npr.org/2026/04/30/nx-s1-5805050/supreme-court-voting-rights-congressional-black-caucus",
+        "pubDate": "Thu, 30 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "After lackluster tour turnout, Turning Point wraps things up with excited crowd in Idaho",
+        "link": "https://www.npr.org/2026/04/30/nx-s1-5803865/turning-point-idaho-college-campus-tour-kirk",
+        "pubDate": "Thu, 30 Apr 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Activists say Israel has intercepted their Gaza aid flotilla near Crete",
+        "link": "https://www.npr.org/2026/04/30/g-s1-119486/israel-intercept-gaza-aid-flotilla",
+        "pubDate": "Thu, 30 Apr 2026 03:59:37 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "How rising jet fuel prices are driving up the cost of fighting wildfires",
+        "link": "https://www.npr.org/2026/04/30/nx-s1-5775794/fuel-costs-iran-war-wildfires",
+        "pubDate": "Thu, 30 Apr 2026 03:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "How a father and daughter duped NYC&apos;s art world with fake Warhols and Banksys",
         "link": "https://www.npr.org/2026/04/30/g-s1-119482/how-a-father-and-daughter-duped-nycs-art-world-with-fake-warhols-and-banksys",
         "pubDate": "Thu, 30 Apr 2026 01:52:23 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Trump says he is weighing reducing American troop presence in Germany after Iran feud",
-        "link": "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
-        "pubDate": "Thu, 30 Apr 2026 01:41:44 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Musk continued his testimony from yesterday in lawsuit against OpenAI",
-        "link": "https://www.npr.org/2026/04/29/nx-s1-5803566/musk-continued-his-testimony-from-yesterday-in-lawsuit-against-openai",
-        "pubDate": "Wed, 29 Apr 2026 18:52:55 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Supreme Court appears to lean toward ending TPS for some migrants",
-        "link": "https://www.npr.org/2026/04/29/nx-s1-5804707/supreme-court-tps",
-        "pubDate": "Wed, 29 Apr 2026 18:04:37 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A look at one of the farms RFK Jr. has pointed to as a model for &apos;reparenting&apos;",
-        "link": "https://www.npr.org/2026/04/29/nx-s1-5745097/a-look-at-one-of-the-farms-rfk-jr-has-pointed-to-as-a-model-for-reparenting",
-        "pubDate": "Wed, 29 Apr 2026 17:55:10 -0400",
-        "category": "health"
-      },
-      {
-        "title": "The Austrian nuns who fled their care home are now in Rome and visited the Vatican",
-        "link": "https://www.npr.org/2026/04/29/g-s1-119191/austria-nuns-vatican-rome",
-        "pubDate": "Wed, 29 Apr 2026 17:48:17 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "House extends a controversial spy tool, but Senate path is unclear ahead of deadline",
-        "link": "https://www.npr.org/2026/04/29/g-s1-119094/congress-fisa-702",
-        "pubDate": "Wed, 29 Apr 2026 17:30:34 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Long a dream, it&apos;s now real: a fast and accurate TB test that doesn&apos;t need phlegm",
-        "link": "https://www.npr.org/2026/04/29/nx-s1-5802789/tb-tuberculosis-rapid-test",
-        "pubDate": "Wed, 29 Apr 2026 17:01:46 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "DOD officials say Iran war has cost $25 billion so far during Congressional grilling",
-        "link": "https://www.npr.org/2026/04/29/nx-s1-5804516/dod-officials-say-iran-war-has-cost-25-billion-so-far-during-congressional-grilling",
-        "pubDate": "Wed, 29 Apr 2026 16:58:39 -0400",
         "category": "Top News"
       },
       {
@@ -66,16 +73,34 @@
     ],
     "bbc": [
       {
-        "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
         "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 06:12:50 GMT",
+        "pubDate": "Thu, 30 Apr 2026 09:51:52 GMT",
         "category": "world"
       },
       {
-        "title": "Oil price jumps after report Trump to be briefed on new Iran options",
+        "title": "Oil price jumps after report Trump to be given new Iran options",
         "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 06:12:50 GMT",
+        "pubDate": "Thu, 30 Apr 2026 09:51:52 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Statue with Banksy's signature appears in London",
+        "link": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 30 Apr 2026 09:08:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
+        "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 30 Apr 2026 08:59:35 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "'Amazing' moment for communities given right to buy for the first time",
+        "link": "https://www.bbc.com/news/articles/clypwyzk71po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 30 Apr 2026 08:00:41 GMT",
+        "category": "health"
       },
       {
         "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
@@ -88,24 +113,6 @@
         "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 30 Apr 2026 03:48:53 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Women can wait years for an endometriosis diagnosis. New tech could change that",
-        "link": "https://www.bbc.com/news/articles/clyplwvgxjvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 00:08:59 GMT",
-        "category": "health"
-      },
-      {
-        "title": "The city caught in the middle of the big energy shift debate",
-        "link": "https://www.bbc.com/news/articles/c1k239p409po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 00:08:10 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
-        "link": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 29 Apr 2026 23:18:08 GMT",
-        "category": "tech"
       },
       {
         "title": "Interest rates expected to be held as uncertainty over Iran war continues",
