@@ -1,13 +1,44 @@
 {
-  "updated_at": "2026-04-30T19:45:10.202656",
+  "updated_at": "2026-04-30T21:09:20.919432",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Gianni Infantino affirms at the FIFA Congress that Iran will participate in the World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4632b64433a9343f6260549371b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-canada-fifa-congress-gianni-infantino-5580c8a59a11158f8c16059cea428169&amp;c=3282232626929891314&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 12:39:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "From grading papers to decoding jargon, here are some ways people are putting AI to work",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c482d6414182b0fa0a83ab442724&amp;url=https%3a%2f%2fapnews.com%2farticle%2fartificial-intelligence-work-jobs-tools-2547bc5e66b79f218296b29463ac27d2&amp;c=1223911166273917691&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 10:04:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Valtteri Bottas says stronger mental health support in F1 helped him open up about his battles",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c48351174d659660e5a6c9a87dd5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbottas-mental-health-f1-7bfba99f16384a7252ae7fdd2b39e779&amp;c=11050521509950782436&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 09:47:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Taxpayers might pay millions more to fight wildfires as jet fuel skyrockets",
+        "link": "https://www.npr.org/2026/04/30/nx-s1-5775794-e1/taxpayers-might-pay-millions-more-to-fight-wildfires-as-jet-fuel-skyrockets",
+        "pubDate": "Thu, 30 Apr 2026 16:56:50 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Will.i.am wants to future-proof a new generation",
+        "link": "https://www.npr.org/2026/04/30/nx-s1-5803133/black-eyed-peas-will-i-am-profile-arizona-state-ai-agent",
+        "pubDate": "Thu, 30 Apr 2026 16:00:00 -0400",
+        "category": "tech"
+      },
       {
         "title": "Trump pulls Casey Means&apos; stalled surgeon general nomination, announces new pick",
         "link": "https://www.npr.org/2026/04/30/g-s1-119571/nicole-saphier-trump-casey-means-surgeon-general-nomination",
         "pubDate": "Thu, 30 Apr 2026 15:33:04 -0400",
-        "category": "us"
+        "category": "health"
       },
       {
         "title": "U.S. House primaries in Louisiana are suspended after Voting Rights Act ruling",
@@ -19,7 +50,7 @@
         "title": "In real-world test, an AI model did better than ER doctors at diagnosing patients",
         "link": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
         "pubDate": "Thu, 30 Apr 2026 14:00:35 -0400",
-        "category": "tech"
+        "category": "Top News"
       },
       {
         "title": "The Onion&apos;s bid to take over Infowars hits another snag",
@@ -50,32 +81,20 @@
         "link": "https://www.npr.org/2026/04/30/nx-s1-5803003/fool-me-once-lawyers-argue-kennedy-center-should-not-meet-same-fate-as-the-east-wing",
         "pubDate": "Thu, 30 Apr 2026 10:40:41 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "U.K. calls antisemitism an emergency after arson and stabbing attacks on Jewish people",
-        "link": "https://www.npr.org/2026/04/30/nx-s1-5805890/uk-stabbing-jewish-community-attacks-antisemitism",
-        "pubDate": "Thu, 30 Apr 2026 10:31:17 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "To catch colorectal cancer early, advocates push to make &apos;poop talk&apos; OK",
-        "link": "https://www.npr.org/2026/04/30/nx-s1-5762752/colorectal-cancer-rates-young-screening",
-        "pubDate": "Thu, 30 Apr 2026 06:00:00 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Trump to lift some whisky tariffs after King's visit",
-        "link": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 19:33:35 GMT",
-        "category": "business"
-      },
-      {
         "title": "US House votes to end government shutdown over immigration operations",
         "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 19:12:03 GMT",
+        "pubDate": "Thu, 30 Apr 2026 20:53:36 GMT",
         "category": "us"
+      },
+      {
+        "title": "Trump to remove whisky tariffs after King's visit",
+        "link": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 30 Apr 2026 20:34:22 GMT",
+        "category": "business"
       },
       {
         "title": "WW2 bomb to be blown up as 1,200 homes evacuated",
@@ -126,14 +145,68 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Trump taps Nicole Saphier for surgeon general after pulling Casey Means nomination",
-        "link": "https://www.cnbc.com/2026/04/30/trump-taps-nicole-saphier-for-surgeon-general-after-pulling-casey-means.html",
-        "pubDate": "Thu, 30 Apr 2026 18:38:33 GMT",
-        "category": "health"
+        "title": "Britain's King Charles says quick goodbye to Trump, heads to Appalachian mountains",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4929b1540eaa853efbff2ea8e32&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fking-charles-queen-camilla-say-farewell-trump-first-lady-melania-last-day-us-2026-04-30%2f&amp;c=539287802834807627&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 12:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Apple sales beat expectations powered by Mac, but iPhone hits supply constraints",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4929b1540eaa853efbff2ea8e32&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fapple-sales-beat-expectations-powered-by-mac-iphone-hits-supply-constraints-2026-04-30%2f&amp;c=17269900893645589558&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 12:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump: ABC in jeopardy by keeping Kimmel on air",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4929b1540eaa853efbff2ea8e32&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ftrump-abc-jeopardy-by-keeping-kimmel-air-2026-04-30%2f&amp;c=7732650256702508513&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 12:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Louisiana delays US House primary to draw new map after Supreme Court ruling",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4929b1540eaa853efbff2ea8e32&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2flouisiana-delays-us-house-primary-draw-new-map-after-supreme-court-ruling-2026-04-30%2f&amp;c=16162782618303741936&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 12:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall Street ends higher, S&amp;P 500, Nasdaq notch biggest monthly gains in years",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4929b1540eaa853efbff2ea8e32&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-street-futures-mixed-oil-spike-overshadows-tech-earnings-strength-2026-04-30%2f&amp;c=12783009665651197056&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 12:28:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US House passes bill to fund DHS after lengthy shutdown over ICE operations",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4a349da43e8a81c13d92005cba5&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fhouse-republicans-undecided-dhs-funding-secret-service-tsa-pressure-action-2026-04-30%2f&amp;c=7573315442848062342&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 12:23:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "US consumer finance watchdog narrows Biden-era anti-discrimination rule on small business lending",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4a807414123abe56ee873f998d2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-consumer-financial-bureau-finalizes-new-rule-small-business-census-2026-04-30%2f&amp;c=1400809681862679292&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 12:12:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Iran threatens painful response if US renews attacks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4929b1540eaa853efbff2ea8e32&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-seeks-international-help-reopen-strait-hormuz-crude-prices-surge-2026-04-30%2f&amp;c=3708746758596824916&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 12:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4929b1540eaa853efbff2ea8e32&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2felon-musk-return-witness-stand-cross-examination-by-openais-lawyer-2026-04-30%2f&amp;c=8535940217221443741&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 11:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Blue Owl sold about half its SpaceX holding at $1.25 trillion valuation, co-CEO says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f3c4a91210401686749bdfb7ba3313&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fblue-owl-sold-about-half-its-spacex-holding-125-trillion-valuation-co-ceo-says-2026-04-30%2f&amp;c=6385596132010402134&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 11:43:00 GMT",
+        "category": "tech"
       }
-    ]
+    ],
+    "markets": []
   }
 }
