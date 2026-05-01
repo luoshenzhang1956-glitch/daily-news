@@ -1,25 +1,38 @@
 {
-  "updated_at": "2026-05-01T03:58:36.835993",
+  "updated_at": "2026-05-01T06:44:09.654285",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Clashes erupt with police as people in Manila march to the US Embassy on May Day",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f44b2308814c969b5105c5cdc3e9bc&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fclashes-erupt-with-police-as-people-in-manila-march-to-the-us-embassy-on-may-day-dadeefc019fd4d1e8c1858bf38f7370b&amp;c=1113422777702354041&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 23:19:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "Prosecutors release video of armed man storming correspondents&apos; dinner",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5807081/prosecutors-release-video-of-armed-man-storming-correspondents-dinner",
+        "pubDate": "Fri, 01 May 2026 01:41:09 -0400",
+        "category": "us"
+      },
+      {
+        "title": "The Venice Biennale jury resigns amid tensions over awards ban, Russian participation",
+        "link": "https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns",
+        "pubDate": "Fri, 01 May 2026 01:19:17 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Zelenskyy says he&apos;s seeking details of Putin&apos;s May 9 ceasefire proposal",
+        "link": "https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal",
+        "pubDate": "Fri, 01 May 2026 01:04:38 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Trump gives the go-ahead for a major new Canada-U.S. oil pipeline",
         "link": "https://www.npr.org/2026/04/30/g-s1-119648/trump-canada-us-oil-bridger-pipeline-expansion",
         "pubDate": "Thu, 30 Apr 2026 19:18:15 -0400",
-        "category": "us"
-      },
-      {
-        "title": "The economy is growing \u2013 but soaring energy prices could put a damper on that",
-        "link": "https://www.npr.org/2026/04/30/nx-s1-5805905/the-economy-is-growing-but-soaring-energy-prices-could-put-a-damper-on-that",
-        "pubDate": "Thu, 30 Apr 2026 17:58:25 -0400",
         "category": "business"
-      },
-      {
-        "title": "20,000 civilian sailors are stuck in the gulf that opens to the Strait of Hormuz",
-        "link": "https://www.npr.org/2026/04/30/nx-s1-5802991/20-000-civilian-sailors-are-stuck-in-the-gulf-that-opens-to-the-strait-of-hormuz",
-        "pubDate": "Thu, 30 Apr 2026 17:53:24 -0400",
-        "category": "world"
       },
       {
         "title": "Will.i.am wants to future-proof a new generation",
@@ -56,20 +69,32 @@
         "link": "https://www.npr.org/2026/04/30/nx-s1-5806054/congress-dhs-shutdown",
         "pubDate": "Thu, 30 Apr 2026 13:36:46 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Myanmar junta says Suu Kyi moved to house arrest, doubts linger",
-        "link": "https://www.npr.org/2026/04/30/g-s1-119543/myanmar-junta-says-suu-kyi-moved-to-house-arrest-doubts-linger",
-        "pubDate": "Thu, 30 Apr 2026 13:26:23 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Public told 'be alert, not alarmed' as terror threat level raised after Golders Green attack",
-        "link": "https://www.bbc.com/news/articles/cq6p4pz6p62o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 01 May 2026 03:41:25 GMT",
+        "title": "Fertiliser boss says Iran war puts 10 billion meals a week at risk",
+        "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 06:38:37 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Why Labour's London squeeze exposes a fragmented modern British politics",
+        "link": "https://www.bbc.com/news/articles/cwy2vlww2ezo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 06:09:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+        "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 05:04:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Violence in Australian town after arrest of man over girl's murder",
+        "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 04:08:19 GMT",
+        "category": "world"
       },
       {
         "title": "New footage shows how Trump dinner gunman charged through security in four seconds",
@@ -78,22 +103,16 @@
         "category": "us"
       },
       {
-        "title": "Violence in Australian town after arrest of man over girl's murder",
-        "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 01 May 2026 02:21:03 GMT",
-        "category": "world"
-      },
-      {
-        "title": "King arrives in Bermuda after ending US trip with visit to small town America",
-        "link": "https://www.bbc.com/news/articles/cdrpjm47jv4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 01 May 2026 02:19:06 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "The struggle to get hold of medication in England is set to get worse",
         "link": "https://www.bbc.com/news/articles/c202jqn3jzro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 01 May 2026 00:23:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "Chippies sell catfish as 'traditional fish supper'",
+        "link": "https://www.bbc.com/news/articles/cvg0337n0y1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 00:11:27 GMT",
+        "category": "Top News"
       },
       {
         "title": "UK should not keep changing prime ministers, warns John Major",
@@ -108,32 +127,51 @@
         "category": "tech"
       },
       {
-        "title": "Fertiliser boss says Iran war puts 10 billion meals a week at risk",
-        "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 23:08:09 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
         "link": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 30 Apr 2026 23:07:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "'I held down Golders Green suspect' says volunteer who grabbed ankle",
-        "link": "https://www.bbc.com/news/articles/cn7pyp13y8no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 20:54:50 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Blue Owl sold about half its SpaceX holding at $1.25 trillion valuation, co-CEO says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4248662fe4cd6b9377ebd62a18a0f&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fblue-owl-sold-about-half-its-spacex-holding-125-trillion-valuation-co-ceo-says-2026-04-30%2f&amp;c=6385596132010402134&amp;mkt=en-us",
-        "pubDate": "Thu, 30 Apr 2026 11:43:00 GMT",
+        "title": "Apple shares rise as iPhone 17 and MacBook Neo drive forecast",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f44b6d5d744915b3431271302fb2ef&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fapple-sales-beat-expectations-powered-by-mac-iphone-hits-supply-constraints-2026-04-30%2f&amp;c=17269900893645589558&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 21:05:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Pivotal US-Iran war deadline approaches with no end in sight for conflict",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f44b63dfc2436bb9e8513e2ea22e96&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpivotal-us-iran-war-deadline-approaches-with-no-end-sight-conflict-2026-04-30%2f&amp;c=4179459876085484787&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 18:45:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "US consumer finance watchdog narrows Biden-era anti-discrimination rule on small business lending",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f44b657226404eaf2b90277595be76&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-consumer-financial-bureau-finalizes-new-rule-small-business-census-2026-04-30%2f&amp;c=1400809681862679292&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 12:12:00 GMT",
+        "category": "business"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "China\u2019s EV price war turns into AI arms race beyond cheaper cars",
+        "link": "https://www.cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html",
+        "pubDate": "Fri, 01 May 2026 04:19:25 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Oil rises as White House says Iran ceasefire halts 60-day war deadline",
+        "link": "https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
+        "pubDate": "Fri, 01 May 2026 03:48:31 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trump taps Nicole Saphier for surgeon general after pulling Casey Means nomination",
+        "link": "https://www.cnbc.com/2026/04/30/trump-taps-nicole-saphier-for-surgeon-general-after-pulling-casey-means.html",
+        "pubDate": "Thu, 30 Apr 2026 18:38:33 GMT",
+        "category": "health"
+      }
+    ]
   }
 }
