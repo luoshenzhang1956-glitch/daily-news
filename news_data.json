@@ -1,31 +1,73 @@
 {
-  "updated_at": "2026-05-01T06:44:09.654285",
+  "updated_at": "2026-05-01T09:53:28.509743",
   "news": {
     "ap": [
       {
-        "title": "Clashes erupt with police as people in Manila march to the US Embassy on May Day",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f44b2308814c969b5105c5cdc3e9bc&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fclashes-erupt-with-police-as-people-in-manila-march-to-the-us-embassy-on-may-day-dadeefc019fd4d1e8c1858bf38f7370b&amp;c=1113422777702354041&amp;mkt=en-us",
-        "pubDate": "Thu, 30 Apr 2026 23:19:00 GMT",
+        "title": "Republicans say they will defer to Trump on Iran war despite arrival of 60-day deadline",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f477a15e684e3792f0d6c0a5501a99&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-congress-war-powers-republicans-trump-authorization-41ef029df176a6486422e9d68aa6d872&amp;c=15575702090457206656&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 23:33:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US stocks rally to the finish of their best month since 2020, even as oil prices whipsaw",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4779b3eb740cbb1c2d2c2cc6c46d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2foil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de&amp;c=11020048466932393855&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 13:15:00 GMT",
         "category": "us"
+      },
+      {
+        "title": "They sought help for son with mental illness. He ended up in jail",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f477b4f802455cb9636cf0cda2ee3b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmichigan-mental-health-crisis-responses-ecb70ec19d3a7ba87a96a0269983620f&amp;c=13338245297899660978&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Apr 2026 11:02:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
       {
-        "title": "Prosecutors release video of armed man storming correspondents&apos; dinner",
-        "link": "https://www.npr.org/2026/05/01/nx-s1-5807081/prosecutors-release-video-of-armed-man-storming-correspondents-dinner",
-        "pubDate": "Fri, 01 May 2026 01:41:09 -0400",
+        "title": "How to talk to boys about looksmaxxing",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5795549/looksmaxxing-teen-boys-clavicular",
+        "pubDate": "Fri, 01 May 2026 05:01:00 -0400",
         "category": "us"
       },
       {
-        "title": "The Venice Biennale jury resigns amid tensions over awards ban, Russian participation",
-        "link": "https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns",
-        "pubDate": "Fri, 01 May 2026 01:19:17 -0400",
+        "title": "Fill in the blank for the quiz: The Trump admin took aim at _____ this week",
+        "link": "https://www.npr.org/2026/05/01/g-s1-119353/trump-kimmel-king-charles-comey-musk-news-quiz",
+        "pubDate": "Fri, 01 May 2026 05:01:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "&apos;Decimate&apos; means much more today than it did in ancient Rome",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5775464/decimate-ancient-rome-punishment-trump",
+        "pubDate": "Fri, 01 May 2026 05:00:00 -0400",
         "category": "world"
       },
       {
-        "title": "Zelenskyy says he&apos;s seeking details of Putin&apos;s May 9 ceasefire proposal",
-        "link": "https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal",
-        "pubDate": "Fri, 01 May 2026 01:04:38 -0400",
+        "title": "It&apos;s Day 1 of Medicaid work requirements in Nebraska. People are worried",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5806260/trump-medicaid-work-requirements-nebraska-big-beautiful-bill-hr1-obbba",
+        "pubDate": "Fri, 01 May 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Nationwide May Day protests expected to pick up mantle of &apos;No Kings&apos;",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5805805/may-day-protests-boycott-schools-trump",
+        "pubDate": "Fri, 01 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Passenger railroads see a sharp jump in ridership as gas prices climb",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5801525/gas-prices-rail-ridership-jumps",
+        "pubDate": "Fri, 01 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5798791/morning-news-brief",
+        "pubDate": "Fri, 01 May 2026 04:44:38 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Myanmar attempts to rehabilitate image with Suu Kyi move",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5807098/myanmar-suu-kyi-house-arrest",
+        "pubDate": "Fri, 01 May 2026 04:30:26 -0400",
         "category": "Top News"
       },
       {
@@ -39,47 +81,23 @@
         "link": "https://www.npr.org/2026/04/30/nx-s1-5803133/black-eyed-peas-will-i-am-profile-arizona-state-ai-agent",
         "pubDate": "Thu, 30 Apr 2026 16:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Trump pulls Casey Means&apos; stalled surgeon general nomination, announces new pick",
-        "link": "https://www.npr.org/2026/04/30/g-s1-119571/nicole-saphier-trump-casey-means-surgeon-general-nomination",
-        "pubDate": "Thu, 30 Apr 2026 15:33:04 -0400",
-        "category": "health"
-      },
-      {
-        "title": "U.S. House primaries in Louisiana are suspended after Voting Rights Act ruling",
-        "link": "https://www.npr.org/2026/04/30/nx-s1-5806000/louisiana-suspends-house-primaries-supreme-court",
-        "pubDate": "Thu, 30 Apr 2026 15:08:44 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "In real-world test, an AI model did better than ER doctors at diagnosing patients",
-        "link": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
-        "pubDate": "Thu, 30 Apr 2026 14:00:35 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The Onion&apos;s bid to take over Infowars moves to the Texas Supreme Court",
-        "link": "https://www.npr.org/2026/04/30/nx-s1-5806038/the-onion-infowars-alex-jones-texas-supreme-court",
-        "pubDate": "Thu, 30 Apr 2026 13:56:17 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Congress ends record shutdown at the Department of Homeland Security",
-        "link": "https://www.npr.org/2026/04/30/nx-s1-5806054/congress-dhs-shutdown",
-        "pubDate": "Thu, 30 Apr 2026 13:36:46 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Fertiliser boss says Iran war puts 10 billion meals a week at risk",
-        "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 01 May 2026 06:38:37 GMT",
-        "category": "Top News"
+        "title": "Apple says iPhone 17 'most popular ever' as sales soar",
+        "link": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 09:33:43 GMT",
+        "category": "tech"
       },
       {
-        "title": "Why Labour's London squeeze exposes a fragmented modern British politics",
+        "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+        "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 08:41:52 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Labour's London squeeze exposes a fragmented British politics",
         "link": "https://www.bbc.com/news/articles/cwy2vlww2ezo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 01 May 2026 06:09:47 GMT",
         "category": "Top News"
@@ -109,68 +127,44 @@
         "category": "health"
       },
       {
+        "title": "Why hundreds of everyday medicines are now so hard to get",
+        "link": "https://www.bbc.com/news/articles/c202jqn3jzro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 00:23:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Chippies sell catfish as 'traditional fish supper'",
         "link": "https://www.bbc.com/news/articles/cvg0337n0y1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 01 May 2026 00:11:27 GMT",
         "category": "Top News"
       },
       {
-        "title": "UK should not keep changing prime ministers, warns John Major",
-        "link": "https://www.bbc.com/news/articles/cgepy0xw1nzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 23:44:54 GMT",
+        "title": "The Renters' Rights Act is here - this is what it means for tenants and landlords",
+        "link": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 30 Apr 2026 16:42:58 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Will AI lead to more accurate opinion polls?",
-        "link": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 23:11:37 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
-        "link": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Apr 2026 23:07:00 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "Apple shares rise as iPhone 17 and MacBook Neo drive forecast",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f44b6d5d744915b3431271302fb2ef&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fapple-sales-beat-expectations-powered-by-mac-iphone-hits-supply-constraints-2026-04-30%2f&amp;c=17269900893645589558&amp;mkt=en-us",
-        "pubDate": "Thu, 30 Apr 2026 21:05:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Pivotal US-Iran war deadline approaches with no end in sight for conflict",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f44b63dfc2436bb9e8513e2ea22e96&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpivotal-us-iran-war-deadline-approaches-with-no-end-sight-conflict-2026-04-30%2f&amp;c=4179459876085484787&amp;mkt=en-us",
-        "pubDate": "Thu, 30 Apr 2026 18:45:00 GMT",
-        "category": "us"
-      },
-      {
         "title": "US consumer finance watchdog narrows Biden-era anti-discrimination rule on small business lending",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f44b657226404eaf2b90277595be76&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-consumer-financial-bureau-finalizes-new-rule-small-business-census-2026-04-30%2f&amp;c=1400809681862679292&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f477d6b5e74f138f8b84a234ad38b1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-consumer-financial-bureau-finalizes-new-rule-small-business-census-2026-04-30%2f&amp;c=1400809681862679292&amp;mkt=en-us",
         "pubDate": "Thu, 30 Apr 2026 12:12:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "China\u2019s EV price war turns into AI arms race beyond cheaper cars",
-        "link": "https://www.cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html",
-        "pubDate": "Fri, 01 May 2026 04:19:25 GMT",
+        "title": "Apple CEO Tim Cook warns of extended memory crunch. &apos;We&apos;ll look at a range of options&apos;",
+        "link": "https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html",
+        "pubDate": "Fri, 01 May 2026 07:00:01 GMT",
         "category": "tech"
       },
       {
-        "title": "Oil rises as White House says Iran ceasefire halts 60-day war deadline",
-        "link": "https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
-        "pubDate": "Fri, 01 May 2026 03:48:31 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Trump taps Nicole Saphier for surgeon general after pulling Casey Means nomination",
-        "link": "https://www.cnbc.com/2026/04/30/trump-taps-nicole-saphier-for-surgeon-general-after-pulling-casey-means.html",
-        "pubDate": "Thu, 30 Apr 2026 18:38:33 GMT",
-        "category": "health"
+        "title": "Rivian renegotiates DOE loan down to $4.5 billion, adjusts capacity plans for Georgia plant",
+        "link": "https://www.cnbc.com/2026/04/30/rivian-renegotiates-doe-loan-adjusts-capacity-plans-for-georgia-plant.html",
+        "pubDate": "Thu, 30 Apr 2026 22:21:00 GMT",
+        "category": "business"
       }
     ]
   }
