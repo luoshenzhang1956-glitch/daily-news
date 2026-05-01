@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-05-01T15:03:59.146098",
+  "updated_at": "2026-05-01T17:05:15.274720",
   "news": {
     "ap": [
       {
         "title": "King Charles III wins praise for deft handling of Trump on his US state visit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4c057fb8546678a5b417f2df9f4de&amp;url=https%3a%2f%2fapnews.com%2farticle%2fking-charles-iii-trump-state-visit-3dbe93e7c379d5ef6fe08864db2f8a2c&amp;c=17977163304381495022&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4dcb3bce64f2286b72428297f12c3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fking-charles-iii-trump-state-visit-3dbe93e7c379d5ef6fe08864db2f8a2c&amp;c=17977163304381495022&amp;mkt=en-us",
         "pubDate": "Fri, 01 May 2026 06:52:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "Trump pulls Casey Means\u2019 stalled surgeon general nomination. New pick is radiologist Nicole Saphier",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4c0713b404d16bf2c27ca7672551a&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-surgeon-general-means-saphier-cebadfb452fb577b6cd5254e2e55d86b&amp;c=13294174406545432992&amp;mkt=en-us",
-        "pubDate": "Thu, 30 Apr 2026 15:42:00 GMT",
-        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Kneecap is used to controversy. On new album &apos;Fenian,&apos; they&apos;re leaning further in",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5692750/kneecap-fenian-album-hip-hop",
+        "pubDate": "Fri, 01 May 2026 11:30:08 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Several states \u2014 and the LA public schools \u2014 are setting limits on screen time",
         "link": "https://www.npr.org/2026/05/01/nx-s1-5791657/states-schools-restricting-screen-time",
@@ -59,35 +59,53 @@
         "category": "Top News"
       },
       {
+        "title": "It&apos;s Day 1 of Medicaid work requirements in Nebraska. People are worried",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5806260/trump-medicaid-work-requirements-nebraska-big-beautiful-bill-hr1-obbba",
+        "pubDate": "Fri, 01 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "&apos;Decimate&apos; means much more today than it did in ancient Rome",
         "link": "https://www.npr.org/2026/05/01/nx-s1-5775464/decimate-ancient-rome-punishment-trump",
-        "pubDate": "Fri, 01 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Nationwide May Day protests expected to pick up mantle of &apos;No Kings&apos;",
-        "link": "https://www.npr.org/2026/05/01/nx-s1-5805805/may-day-protests-boycott-schools-trump",
-        "pubDate": "Fri, 01 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Passenger railroads see a sharp jump in ridership as gas prices climb",
-        "link": "https://www.npr.org/2026/05/01/nx-s1-5801525/gas-prices-rail-ridership-jumps",
         "pubDate": "Fri, 01 May 2026 05:00:00 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Man appears in court charged with attempted murder of two Jewish men",
-        "link": "https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 01 May 2026 14:49:52 GMT",
-        "category": "Top News"
+        "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+        "link": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 16:54:21 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trump says he will hike tariffs on EU cars to 25%",
+        "link": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 16:41:46 GMT",
+        "category": "business"
       },
       {
         "title": "Polanski apologises for sharing post criticising officers who arrested Golders Green suspect",
         "link": "https://www.bbc.com/news/articles/cp8p7k4k8xno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 01 May 2026 14:36:14 GMT",
+        "pubDate": "Fri, 01 May 2026 16:41:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
+        "link": "https://www.bbc.com/news/articles/cd6pv55y51wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 16:41:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
+        "link": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 16:23:13 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Man appears in court charged with attempted murder of two Jewish men",
+        "link": "https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 14:49:52 GMT",
         "category": "Top News"
       },
       {
@@ -97,27 +115,9 @@
         "category": "Top News"
       },
       {
-        "title": "No evidence of widespread fuel price-gouging, watchdog says",
-        "link": "https://www.bbc.com/news/articles/c62djjj0z09o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 01 May 2026 13:35:05 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-        "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 01 May 2026 13:12:10 GMT",
-        "category": "world"
-      },
-      {
         "title": "Woman charged over fatal Wimbledon school crash",
         "link": "https://www.bbc.com/news/articles/c2026d7586zo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 01 May 2026 13:10:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
-        "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 01 May 2026 12:42:29 GMT",
         "category": "Top News"
       },
       {
@@ -125,12 +125,6 @@
         "link": "https://www.bbc.com/news/articles/c202jqn3jzro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 01 May 2026 11:33:26 GMT",
         "category": "health"
-      },
-      {
-        "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-        "link": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 01 May 2026 11:29:35 GMT",
-        "category": "tech"
       },
       {
         "title": "New footage shows how Trump dinner gunman charged through security in four seconds",
@@ -141,31 +135,31 @@
     ],
     "reuters": [
       {
-        "title": "Meta and Google verdict offers roadmap for future liability claims",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4c09ab8344ee4ad0d51b346046559&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2fmeta-google-verdict-offers-roadmap-future-liability-claims--pracin-2026-05-01%2f&amp;c=12336833994652254919&amp;mkt=en-us",
-        "pubDate": "Fri, 01 May 2026 06:20:00 GMT",
+        "title": "Pentagon reaches agreements with top AI companies, but not Anthropic",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4dd0e8da14f96ba49971e48e13863&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fpentagon-reaches-agreements-with-leading-ai-companies-2026-05-01%2f&amp;c=13844022468722047388&amp;mkt=en-us",
+        "pubDate": "Fri, 01 May 2026 07:44:00 GMT",
         "category": "tech"
       },
       {
-        "title": "US manufacturing sector steady in April, but input costs surge amid Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4c08974e94b9d8ff1b2c98033d353&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-manufacturing-sector-steady-april-input-costs-surge-amid-iran-war-2026-05-01%2f&amp;c=7296665143892182902&amp;mkt=en-us",
-        "pubDate": "Fri, 01 May 2026 06:04:00 GMT",
+        "title": "Exclusive: US to close its flagship Gaza mission as Trump plan stalls, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4dcff7804482c8f6cc040b5769c39&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-close-its-flagship-gaza-mission-trump-plan-stalls-sources-say-2026-05-01%2f&amp;c=12812187952114108361&amp;mkt=en-us",
+        "pubDate": "Fri, 01 May 2026 07:12:00 GMT",
         "category": "us"
       },
       {
         "title": "Medicare Advantage health plans may cut extra benefits in 2027",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4c09c000f48958ec54eb7921d7e92&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmedicare-advantage-health-plans-may-cut-extra-benefits-2027-2026-05-01%2f&amp;c=13663105286018976980&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4dd10a9194e758e0a196b50739740&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmedicare-advantage-health-plans-may-cut-extra-benefits-2027-2026-05-01%2f&amp;c=13663105286018976980&amp;mkt=en-us",
         "pubDate": "Fri, 01 May 2026 03:25:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "South Africa plan early Mexico arrival to adapt for World Cup opener",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f4c088201e455f9df2e8a40a161c17&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fsouth-africa-plan-early-mexico-arrival-adapt-world-cup-opener-2026-05-01%2f&amp;c=13219432063605963112&amp;mkt=en-us",
-        "pubDate": "Fri, 01 May 2026 00:22:00 GMT",
-        "category": "world"
       }
     ],
     "markets": [
+      {
+        "title": "Apple stages sharpest rally in 9 months as execs cite iPhone, Mac demand in boosting guidance",
+        "link": "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html",
+        "pubDate": "Fri, 01 May 2026 16:35:56 GMT",
+        "category": "tech"
+      },
       {
         "title": "Smoothie King plots expansion as wellness trends boost sales",
         "link": "https://www.cnbc.com/2026/05/01/smoothie-king-plots-expansion-as-wellness-trends-boost-sales.html",
