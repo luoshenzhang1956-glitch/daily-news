@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-05-02T19:10:40.254173",
+  "updated_at": "2026-05-02T20:53:13.711327",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Spain\u2019s Carvajal injures foot six weeks before World Cup and may have played last game for Madrid",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f663a4daf94ca7854670735464ec3a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdani-carvajal-real-madrid-spain-injury-world-cup-f3cdbedbdb9f0846068a595593fafc4e&amp;c=8640603976409757059&amp;mkt=en-us",
+        "pubDate": "Sat, 02 May 2026 09:52:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Iranian Nobel laureate Narges Mohammadi hospitalized after a health crisis in prison",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f663d4825f4da5baf0c5f7148a4c0f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnarges-mohammadi-hospitalized-iran-304524aaf3158ea4e28cf2ed684752a6&amp;c=17670531819152388582&amp;mkt=en-us",
+        "pubDate": "Sat, 02 May 2026 04:31:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Academy announces major overhaul to rules",
+        "link": "https://www.npr.org/2026/05/02/nx-s1-5808894/oscars-2027-99th-academy-awards-rule-changes",
+        "pubDate": "Sat, 02 May 2026 16:34:59 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Taiwan&apos;s Lai lands in Eswatini in a trip delayed by lack of overflight clearance",
+        "link": "https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance",
+        "pubDate": "Sat, 02 May 2026 15:48:30 -0400",
+        "category": "world"
+      },
       {
         "title": "Banksy confirms new statue installed in central London is his work",
         "link": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
         "pubDate": "Sat, 02 May 2026 13:25:40 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Imprisoned Iranian Nobel Peace Prize winner in critical condition",
@@ -20,12 +45,6 @@
         "link": "https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence",
         "pubDate": "Sat, 02 May 2026 08:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "How the war in Iran is affecting jet fuel prices and flights",
-        "link": "https://www.npr.org/2026/05/02/nx-s1-5806108/how-the-war-in-iran-is-affecting-jet-fuel-prices-and-flights",
-        "pubDate": "Sat, 02 May 2026 07:45:18 -0400",
-        "category": "us"
       },
       {
         "title": "Can Trump&apos;s latest pick for surgeon general make it through confirmation?",
@@ -46,12 +65,6 @@
         "category": "Top News"
       },
       {
-        "title": "After Assad&apos;s fall, Syria&apos;s Kurds are left in limbo, feeling abandoned by the U.S.",
-        "link": "https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us",
-        "pubDate": "Sat, 02 May 2026 05:02:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Spirit Airlines ceases operations after escalating financial struggles",
         "link": "https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds",
         "pubDate": "Sat, 02 May 2026 02:42:14 -0400",
@@ -66,6 +79,18 @@
     ],
     "bbc": [
       {
+        "title": "Four injured in Brixton drive-by shooting",
+        "link": "https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 02 May 2026 20:50:59 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "King launches Space Agency project on final day in Bermuda",
+        "link": "https://www.bbc.com/news/articles/cn4pvnpejw9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 02 May 2026 20:07:41 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Spirit Airlines shutting down after rescue talks collapse",
         "link": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 02 May 2026 18:47:35 GMT",
@@ -75,12 +100,6 @@
         "title": "Some protests may need to stop, PM suggests, after calls for pause on pro-Palestinian marches",
         "link": "https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 02 May 2026 18:45:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "King launches Space Agency project on final day in Bermuda",
-        "link": "https://www.bbc.com/news/articles/cn4pvnpejw9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 02 May 2026 18:08:38 GMT",
         "category": "Top News"
       },
       {
@@ -94,12 +113,6 @@
         "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 02 May 2026 16:29:06 GMT",
         "category": "us"
-      },
-      {
-        "title": "Four injured in Brixton drive-by shooting",
-        "link": "https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 02 May 2026 16:11:05 GMT",
-        "category": "Top News"
       },
       {
         "title": "Winners, losers and a PM on the brink - what to expect in next week's elections",
@@ -129,27 +142,21 @@
     "reuters": [
       {
         "title": "CEO Greg Abel moves to assure Berkshire shareholders in a post-Buffett world, with record cash",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f64be6a7cd4f909f5d84266cb0ad4a&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fberkshire-shareholders-head-greg-abels-first-annual-meeting-with-buffett-2026-05-02%2f&amp;c=10522503200461734193&amp;mkt=en-us",
-        "pubDate": "Sat, 02 May 2026 09:52:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Germany says US troop drawdown should spur Europe, but top Republicans worried",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f64be9441d4a05bb3d55e826b88639&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-troop-drawback-underlines-european-defence-responsibility-german-minister-2026-05-02%2f&amp;c=8799525270610926889&amp;mkt=en-us",
-        "pubDate": "Sat, 02 May 2026 09:17:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Nobel laureate Mohammadi's life in Iran's hands, Nobel committee chief says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f64bf82e3a491f9f065a52dd488911&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fnobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02%2f&amp;c=13674458325431415570&amp;mkt=en-us",
-        "pubDate": "Sat, 02 May 2026 07:56:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Berkshire Hathaway profit rises despite consumer stress, cash sets record",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f64bf651974ec09bf675af921228c6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fberkshire-hathaway-operating-profit-rises-2026-05-02%2f&amp;c=14865393688493227676&amp;mkt=en-us",
-        "pubDate": "Sat, 02 May 2026 07:28:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f66402989547439f6bbaba466e54ba&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fberkshire-shareholders-head-greg-abels-first-annual-meeting-with-buffett-2026-05-02%2f&amp;c=10522503200461734193&amp;mkt=en-us",
+        "pubDate": "Sat, 02 May 2026 12:32:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Canadian player celebrates goal by promoting his real estate business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f66401efe7493b9c3141a10dd2d2b3&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fcanadian-player-celebrates-goal-by-promoting-his-real-estate-business-2026-05-02%2f&amp;c=14892720730492529696&amp;mkt=en-us",
+        "pubDate": "Sat, 02 May 2026 03:25:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US withdrawing 5,000 troops from Germany, US officials say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f663ff7dfa4f77918b5f8eeee780a4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-withdrawing-5000-troops-germany-us-officials-say-2026-05-01%2f&amp;c=1165210662026033821&amp;mkt=en-us",
+        "pubDate": "Sat, 02 May 2026 01:14:00 GMT",
+        "category": "us"
       }
     ],
     "markets": [
@@ -160,10 +167,10 @@
         "category": "Top News"
       },
       {
-        "title": "The S&amp;P 500 and Nasdaq kept their record rallies going. Here are 3 key takeaways",
-        "link": "https://www.cnbc.com/2026/05/02/the-sp-500-and-nasdaq-kept-their-record-rallies-going-here-are-3-key-takeaways-.html",
-        "pubDate": "Sat, 02 May 2026 15:13:09 GMT",
-        "category": "tech"
+        "title": "Weight loss and hair loss: The growing hair treatment market from GLP-1s",
+        "link": "https://www.cnbc.com/2026/05/02/hair-loss-glp-1s.html",
+        "pubDate": "Sat, 02 May 2026 12:00:01 GMT",
+        "category": "health"
       },
       {
         "title": "Berkshire Hathaway\u2019s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
