@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-05-02T13:27:44.566716",
+  "updated_at": "2026-05-02T14:56:51.091534",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Spirit Airlines goes out of business after 34 years, ending operations immediately",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f61023add04a8282168fe4ccf2e520&amp;url=https%3a%2f%2fapnews.com%2farticle%2fspirit-airlines-trump-bailout-bankruptcy-37a4818e1b71c0905d022f669d85948c&amp;c=5090799160163667763&amp;mkt=en-us",
+        "pubDate": "Sat, 02 May 2026 07:32:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Yemen introduced the world to coffee. Now, its coffeehouse culture is booming in the US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f61012f2d84e54ae16c88b0a9b2915&amp;url=https%3a%2f%2fapnews.com%2farticle%2fyemen-coffee-cafes-taste-spices-war-72b5d2fdec7375cf476a6881810d8ce6&amp;c=3806974356515342507&amp;mkt=en-us",
+        "pubDate": "Sat, 02 May 2026 06:47:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
         "title": "Opinion: The everyday tragedy of gun violence",
@@ -96,12 +109,6 @@
         "category": "world"
       },
       {
-        "title": "These twins were born within minutes of each other - but have different dads",
-        "link": "https://www.bbc.com/news/articles/cx21k6rzpdpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 02 May 2026 07:59:50 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'I bought a baseball cap to hide my kippah': Jews observe first Shabbat after Golders Green attack",
         "link": "https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 02 May 2026 05:00:19 GMT",
@@ -112,6 +119,12 @@
         "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 02 May 2026 00:41:43 GMT",
         "category": "us"
+      },
+      {
+        "title": "My shopping addiction hijacked my life. Now I realise what caused it",
+        "link": "https://www.bbc.com/news/articles/cm2pzv484nlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 01 May 2026 23:12:17 GMT",
+        "category": "Top News"
       },
       {
         "title": "Oscars says AI actors and writing cannot win awards",
@@ -128,18 +141,55 @@
     ],
     "reuters": [
       {
-        "title": "US Justice Department can use military lawyer to prosecute civilian, judge rules",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f5fb5ebe9448fbae127860b42c12b8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-justice-department-can-use-military-lawyers-prosecute-civilians-judge-rules-2026-05-02%2f&amp;c=7887009580826973073&amp;mkt=en-us",
-        "pubDate": "Sat, 02 May 2026 03:58:00 GMT",
+        "title": "Germany urges stronger European defence after US announces troop drawdown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f6104e9d8844a6bc799f360c0d2113&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-troop-drawback-underlines-european-defence-responsibility-german-minister-2026-05-02%2f&amp;c=8799525270610926889&amp;mkt=en-us",
+        "pubDate": "Sat, 02 May 2026 06:09:00 GMT",
         "category": "us"
       },
       {
-        "title": "Canadian player celebrates goal by promoting his real estate business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f5fb5f36324fb6af2208a71321dc0b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fcanadian-player-celebrates-goal-by-promoting-his-real-estate-business-2026-05-02%2f&amp;c=14892720730492529696&amp;mkt=en-us",
-        "pubDate": "Sat, 02 May 2026 03:25:00 GMT",
-        "category": "business"
+        "title": "Nobel laureate Mohammadi in Iran hospital after 'cardiac crisis', foundation says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f610706d9443bf9cd45c1ce1dfb9fc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fnobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02%2f&amp;c=13674458325431415570&amp;mkt=en-us",
+        "pubDate": "Sat, 02 May 2026 06:06:00 GMT",
+        "category": "health"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Why Kevin Warsh&apos;s arrival at the Fed may catch fixed-income investors off guard",
+        "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
+        "pubDate": "Sat, 02 May 2026 14:23:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Weight loss and hair loss: The growing hair treatment market from GLP-1s",
+        "link": "https://www.cnbc.com/2026/05/02/hair-loss-glp-1s.html",
+        "pubDate": "Sat, 02 May 2026 12:00:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Berkshire Hathaway\u2019s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
+        "link": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html",
+        "pubDate": "Fri, 01 May 2026 22:18:59 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
+        "link": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html",
+        "pubDate": "Fri, 01 May 2026 21:39:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
+        "link": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+        "pubDate": "Fri, 01 May 2026 18:12:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Six months out, control of the Senate is a dead heat, traders on Kalshi say",
+        "link": "https://www.cnbc.com/2026/05/01/6-months-out-control-of-the-senate-is-50-50-traders-on-kalshi-say.html",
+        "pubDate": "Fri, 01 May 2026 18:03:21 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
