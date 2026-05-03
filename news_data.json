@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-05-03T17:01:59.561998",
+  "updated_at": "2026-05-03T19:12:02.601513",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Ship is attacked near Strait of Hormuz as Iran reviews US response to latest proposal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f79d32732b49c3a881772de0733c12&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-war-ceasefire-negotiations-strait-454006a0a9bb19a45a2f299c0869cefb&amp;c=10474782915387783634&amp;mkt=en-us",
+        "pubDate": "Sun, 03 May 2026 11:13:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
       {
         "title": "AI robot tech bros dogs run wild in Berlin gallery",
@@ -34,14 +41,14 @@
         "category": "business"
       },
       {
-        "title": "Why this tribe is buying up hundreds of acres of farmland \u2014 and flooding it",
-        "link": "https://www.npr.org/2026/05/03/nx-s1-5806062/washington-tribe-restore-wetlands-fish",
+        "title": "How algorithms wreaked havoc with these workers&apos; schedules and cut their pay",
+        "link": "https://www.npr.org/2026/05/03/nx-s1-5786926/jobs-labor-productivity-languageline-unionize",
         "pubDate": "Sun, 03 May 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "How algorithms wreaked havoc with these workers&apos; schedules and cut their pay",
-        "link": "https://www.npr.org/2026/05/03/nx-s1-5786926/jobs-labor-productivity-languageline-unionize",
+        "title": "Why this tribe is buying up hundreds of acres of farmland \u2014 and flooding it",
+        "link": "https://www.npr.org/2026/05/03/nx-s1-5806062/washington-tribe-restore-wetlands-fish",
         "pubDate": "Sun, 03 May 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -66,9 +73,27 @@
     ],
     "bbc": [
       {
+        "title": "Iran says US has responded to its latest peace proposal",
+        "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 03 May 2026 18:56:17 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Three die after suspected virus outbreak on Atlantic cruise ship",
+        "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 03 May 2026 18:41:48 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Man and woman die and three injured in house blast",
         "link": "https://www.bbc.com/news/articles/c202w3lzdvjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 03 May 2026 16:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Police officer lowered into crocodile-infested river to recover human remains",
+        "link": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 03 May 2026 15:47:59 GMT",
         "category": "Top News"
       },
       {
@@ -76,18 +101,6 @@
         "link": "https://www.bbc.com/sport/football/articles/c0r2nvpvylxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 03 May 2026 14:56:40 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Police probe link between drive-by shooting and stabbing",
-        "link": "https://www.bbc.com/news/articles/c6267xve17xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 03 May 2026 14:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Two US service members reported missing in Morocco, officials say",
-        "link": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 03 May 2026 14:13:58 GMT",
-        "category": "us"
       },
       {
         "title": "Polanski says police 'should not be above scrutiny' over Golders Green response",
@@ -105,13 +118,7 @@
         "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
         "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 03 May 2026 08:41:23 GMT",
-        "category": "world"
-      },
-      {
-        "title": "King's speech was a 'high stakes' moment of US visit, Palace says",
-        "link": "https://www.bbc.com/news/articles/cy72d4g5pdyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 03 May 2026 00:03:32 GMT",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
@@ -126,7 +133,33 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Jamaica set another world record in mixed 4x100m relay",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f79d78515f429e9897af61a98d9501&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fjamaica-set-another-world-record-mixed-4x100m-relay-2026-05-03%2f&amp;c=17381574316437603188&amp;mkt=en-us",
+        "pubDate": "Sun, 03 May 2026 07:18:00 GMT",
+        "category": "world"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Greg Abel earns solid scorecard from Berkshire shareholders after first annual meeting",
+        "link": "https://www.cnbc.com/2026/05/03/berkshire-ceo-greg-abel-earns-solid-first-scorecard-after-first-annual-meeting.html",
+        "pubDate": "Sun, 03 May 2026 17:30:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chinese stocks are about to get a big AI boost, Morgan Stanley predicts",
+        "link": "https://www.cnbc.com/2026/05/03/chinese-stocks-are-about-to-get-a-big-ai-boost-morgan-stanley-predicts.html",
+        "pubDate": "Sun, 03 May 2026 11:11:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "JPMorgan&apos;s Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
+        "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
+        "pubDate": "Sat, 02 May 2026 23:23:07 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
