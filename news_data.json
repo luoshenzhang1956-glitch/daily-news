@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-05-03T14:57:11.311569",
+  "updated_at": "2026-05-03T17:01:59.561998",
   "news": {
-    "ap": [
-      {
-        "title": "Nationals host the Brewers on home losing streak",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b386804ce4a73a1cd237cab058&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmilwaukee-brewers-washington-nationals-23e897d18be346528ed1922f92abaa61&amp;c=15100108535641076995&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 01:01:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "1 person dead after vehicle crashes into an Oregon health club, police say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b651bd4fadb2c8940e60b8e00f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fportland-health-club-crash-2817ebdcd10010fcaabb7bae68060bfe&amp;c=9744381789420441239&amp;mkt=en-us",
-        "pubDate": "Sat, 02 May 2026 16:08:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "AI robot tech bros dogs run wild in Berlin gallery",
         "link": "https://www.npr.org/2026/05/03/nx-s1-5795427-e1/ai-robot-tech-bros-dogs-run-wild-in-berlin-gallery",
         "pubDate": "Sun, 03 May 2026 09:39:31 -0400",
         "category": "tech"
+      },
+      {
+        "title": "&apos;I just want to see her again&apos; says son of imprisoned Myanmar ex-leader Aung San Suu Kyi",
+        "link": "https://www.npr.org/2026/05/03/nx-s1-5808875/aung-san-suu-kyi-myanmar-son-house-arrest",
+        "pubDate": "Sun, 03 May 2026 08:07:07 -0400",
+        "category": "world"
       },
       {
         "title": "Politics chat: Trump on Iran&apos;s proposal to end war, SCOTUS weakens Voting Rights Act",
@@ -56,7 +49,7 @@
         "title": "Germany says U.S. troop withdrawal &apos;anticipated&apos;, Spain and Italy could be next",
         "link": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us",
         "pubDate": "Sat, 02 May 2026 20:57:59 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Bard College&apos;s president to retire after scrutiny of relationship with Jeffrey Epstein",
@@ -69,26 +62,32 @@
         "link": "https://www.npr.org/2026/05/02/nx-s1-5808929/golden-tempo-kentucky-derby-winner-cherie-devaux",
         "pubDate": "Sat, 02 May 2026 19:44:38 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Iran submits 14-point response to U.S. proposal to end war",
-        "link": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
-        "pubDate": "Sat, 02 May 2026 19:35:01 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Man and woman die and three injured in house blast",
+        "link": "https://www.bbc.com/news/articles/c202w3lzdvjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 03 May 2026 16:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sir Alex Ferguson taken to hospital as precaution before Man Utd v Liverpool",
+        "link": "https://www.bbc.com/sport/football/articles/c0r2nvpvylxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 03 May 2026 14:56:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Police probe link between drive-by shooting and stabbing",
+        "link": "https://www.bbc.com/news/articles/c6267xve17xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 03 May 2026 14:45:00 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Two US service members reported missing in Morocco, officials say",
         "link": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 03 May 2026 14:13:58 GMT",
         "category": "us"
-      },
-      {
-        "title": "Two dead and major incident declared after explosion",
-        "link": "https://www.bbc.com/news/articles/c202w3lzdvjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 03 May 2026 13:21:28 GMT",
-        "category": "Top News"
       },
       {
         "title": "Polanski says police 'should not be above scrutiny' over Golders Green response",
@@ -109,12 +108,6 @@
         "category": "world"
       },
       {
-        "title": "Musk's AI told me people were coming to kill me. I grabbed a hammer and prepared for war",
-        "link": "https://www.bbc.com/news/articles/c242pzr1zp2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 03 May 2026 01:48:55 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "King's speech was a 'high stakes' moment of US visit, Palace says",
         "link": "https://www.bbc.com/news/articles/cy72d4g5pdyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 03 May 2026 00:03:32 GMT",
@@ -127,87 +120,13 @@
         "category": "Top News"
       },
       {
-        "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-        "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 02 May 2026 23:17:17 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "What death doulas can teach us about dying",
         "link": "https://www.bbc.com/news/articles/cp9vp0ld1leo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 02 May 2026 23:10:38 GMT",
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Swedish coast guard seizes suspected false flag tanker in Baltic Sea",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b86eee42b58bd419614e1b8d56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fswedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03%2f&amp;c=3289796652603202343&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 06:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hezbollah pays steep price in battle to reverse its fortunes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b86eee42b58bd419614e1b8d56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fhezbollah-pays-steep-price-battle-reverse-its-fortunes-2026-05-03%2f&amp;c=9528189740948154390&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 06:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "ADB launches finance scheme for critical mineral supply chains",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b86eee42b58bd419614e1b8d56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fadb-launches-finance-scheme-critical-mineral-supply-chains-2026-05-03%2f&amp;c=9500625886699042021&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 05:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Asia finance leaders say they are ready to act to stem volatility risks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b86eee42b58bd419614e1b8d56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fasia-finance-leaders-say-they-are-ready-act-stem-volatility-risks-2026-05-03%2f&amp;c=16190157814026536080&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 05:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration cites national security to halt US wind farm projects, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b86eee42b58bd419614e1b8d56&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftrump-administration-cites-national-security-halt-us-wind-farm-projects-ft-2026-05-03%2f&amp;c=10794536120254511649&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 05:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Attorney Pirro says she has evidence officer was shot during White House correspondents' dinner",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b86eee42b58bd419614e1b8d56&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-attorney-pirro-says-she-has-evidence-officer-was-shot-during-white-house-2026-05-03%2f&amp;c=9958403941823049892&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 05:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "American Walsh improves own 100m butterfly world record for third time in a year",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b86eee42b58bd419614e1b8d56&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2famerican-walsh-improves-own-100m-butterfly-world-record-third-time-year-2026-05-03%2f&amp;c=15801556902647612009&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 03:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "OPEC+ agrees third oil output quota hike since Hormuz closure",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761d98e01421d8c6f0e520a249634&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fopec-set-agree-third-oil-output-quota-hike-since-hormuz-closure-sources-say-2026-05-03%2f&amp;c=15929005466458810097&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 03:34:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b86eee42b58bd419614e1b8d56&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fisrael-approves-plan-buy-f-35-f-15i-aircraft-us-2026-05-03%2f&amp;c=2896532173922382566&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 03:26:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How redistricting and the Supreme Court have cut voters out of US House races",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f761b86eee42b58bd419614e1b8d56&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fhow-redistricting-supreme-court-have-cut-voters-out-us-house-races-2026-05-03%2f&amp;c=1361199640822951063&amp;mkt=en-us",
-        "pubDate": "Sun, 03 May 2026 02:37:00 GMT",
-        "category": "Top News"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Top Wall Street analysts like these 3 stocks for their long-term prospects",
-        "link": "https://www.cnbc.com/2026/05/03/top-street-analysts-like-these-3-stocks-for-their-long-term-prospects.html",
-        "pubDate": "Sun, 03 May 2026 11:13:01 GMT",
-        "category": "us"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
