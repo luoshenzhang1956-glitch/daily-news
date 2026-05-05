@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-05-05T21:09:19.962744",
+  "updated_at": "2026-05-05T23:01:49.003696",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "&apos;Transformation&apos; of the U.S. Forest Service looks like dismantling to critics",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5779730/transformation-of-the-u-s-forest-service-looks-like-dismantling-to-critics",
-        "pubDate": "Tue, 05 May 2026 16:50:44 -0400",
+        "title": "Pennsylvania sues Character.AI over claims chatbot posed as doctor",
+        "link": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
+        "pubDate": "Tue, 05 May 2026 17:26:55 -0400",
         "category": "us"
+      },
+      {
+        "title": "Scott Turow&apos;s latest real-life legal thriller: Suing Meta for copyright infringement",
+        "link": "https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit",
+        "pubDate": "Tue, 05 May 2026 17:13:10 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans",
+        "link": "https://www.npr.org/2026/05/05/g-s1-120234/cruise-ship-with-hantavirus-may-have-seen-a-rare-occurrence-humans-infecting-humans",
+        "pubDate": "Tue, 05 May 2026 17:08:37 -0400",
+        "category": "health"
+      },
+      {
+        "title": "From ICE detention to center stage: The Texas mariachi brothers opening for Kacey Musgraves",
+        "link": "https://www.npr.org/2026/05/05/nx-s1-5806609/from-ice-detention-to-center-stage-texas-mariachi-brothers-opening-for-kacey-musgraves",
+        "pubDate": "Tue, 05 May 2026 16:47:26 -0400",
+        "category": "Top News"
       },
       {
         "title": "U.S. says it&apos;s made Hormuz safe for commercial shipping, but standoff hasn&apos;t changed",
@@ -19,7 +37,7 @@
         "title": "Midwives saved his mom&apos;s life -- and inspired him to pursue the profession",
         "link": "https://www.npr.org/2026/05/05/g-s1-119984/midwife-midwives-childbirth",
         "pubDate": "Tue, 05 May 2026 15:13:17 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "NPR went looking for Polymarket&apos;s Panama headquarters. It&apos;s elusive",
@@ -44,38 +62,32 @@
         "link": "https://www.npr.org/2026/05/05/nx-s1-5812641/uss-ford-deployment",
         "pubDate": "Tue, 05 May 2026 14:02:41 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Did FBI Director Kash Patel use AI to rip off the Beastie Boys?",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5812509/kash-patel-fbi-beastie-boys-spike-jonze-ai",
-        "pubDate": "Tue, 05 May 2026 13:15:11 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "ICE is giving local police big money to help with immigration enforcement",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5805996/ice-pays-local-police-incentives-immigration",
-        "pubDate": "Tue, 05 May 2026 12:42:03 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Here&apos;s a look at the 36 races for governor this year",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5739331/governor-2026-election",
-        "pubDate": "Tue, 05 May 2026 09:34:34 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Offensive stage of Iran war is over, US Secretary of State Rubio says",
+        "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 22:17:44 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
+        "link": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 21:44:38 GMT",
+        "category": "health"
+      },
+      {
+        "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
+        "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 21:22:31 GMT",
+        "category": "Top News"
+      },
       {
         "title": "US to safety test new AI models from Google, Microsoft, xAI",
         "link": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 05 May 2026 20:16:24 GMT",
         "category": "tech"
-      },
-      {
-        "title": "No obligation to declare \u00a35m gift, Farage says",
-        "link": "https://www.bbc.com/news/articles/c8jv8xl17l8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 18:51:47 GMT",
-        "category": "Top News"
       },
       {
         "title": "Watch: Captain of stranded ship in Strait of Hormuz tells BBC of 'pressure'",
@@ -102,22 +114,10 @@
         "category": "Top News"
       },
       {
-        "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-        "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 16:38:50 GMT",
-        "category": "world"
-      },
-      {
         "title": "UK long-term borrowing costs reach 28-year high",
         "link": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 05 May 2026 16:30:23 GMT",
         "category": "business"
-      },
-      {
-        "title": "Cruise passengers tell of life on board stranded ship after hantavirus outbreak",
-        "link": "https://www.bbc.com/news/articles/clype7ededzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 15:40:36 GMT",
-        "category": "health"
       },
       {
         "title": "Bowen: Strait of Hormuz standoff raises risk of US sliding back into all-out war",
@@ -129,64 +129,22 @@
     "reuters": [],
     "markets": [
       {
+        "title": "Jim Cramer: Here&apos;s the list of AI winners to buy for 2026 and beyond",
+        "link": "https://www.cnbc.com/2026/05/05/jim-cramer-ai-winners-to-buy.html",
+        "pubDate": "Tue, 05 May 2026 22:29:17 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "AMC to screen live concerts through Arena One partnership",
+        "link": "https://www.cnbc.com/2026/05/05/amc-arena-one-live-concerts.html",
+        "pubDate": "Tue, 05 May 2026 21:24:21 GMT",
+        "category": "business"
+      },
+      {
         "title": "Small caps put on their best monthly showing since 2020. Bank of America says there&apos;s more upside ahead",
         "link": "https://www.cnbc.com/2026/05/05/small-caps-have-more-upside-after-big-april-bank-of-america-says.html",
         "pubDate": "Tue, 05 May 2026 20:12:19 GMT",
         "category": "us"
-      },
-      {
-        "title": "Anthropic CEO warns of cyber \u2018moment of danger\u2019 as AI exposes thousands of vulnerabilities",
-        "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
-        "pubDate": "Tue, 05 May 2026 19:36:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Intel and Micron are poised to break major milestones",
-        "link": "https://www.cnbc.com/2026/05/05/intel-and-micron-are-poised-to-break-major-milestones.html",
-        "pubDate": "Tue, 05 May 2026 18:55:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SEC advances Trump-backed proposal to end mandatory quarterly earnings reports",
-        "link": "https://www.cnbc.com/2026/05/05/sec-is-close-to-ending-mandatory-quarterly-earnings-reports-that-trump-called-for.html",
-        "pubDate": "Tue, 05 May 2026 18:05:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "After Coinbase, prediction market traders forecast more tech layoffs ahead",
-        "link": "https://www.cnbc.com/2026/05/05/after-coinbase-prediction-markets-traders-see-more-tech-layoffs.html",
-        "pubDate": "Tue, 05 May 2026 16:26:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Michael Burry sells GameStop after Ryan Cohen&apos;s hefty eBay bid: &apos;Never confuse debt for creativity&apos;",
-        "link": "https://www.cnbc.com/2026/05/05/burry-sells-gamestop-after-cohens-ebay-bid-never-confuse-debt-for-creativity.html",
-        "pubDate": "Tue, 05 May 2026 13:44:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Palantir Technologies, PayPal, Intel, Anheuser-Busch InBev &amp; more",
-        "link": "https://www.cnbc.com/2026/05/05/stocks-making-the-biggest-moves-premarket-pltr-pypl-intc-bud.html",
-        "pubDate": "Tue, 05 May 2026 13:15:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Milken-adjacent Power100 attendees aim to reclaim the DEI in finance narrative",
-        "link": "https://www.cnbc.com/2026/05/05/dei-diversity-milken-blueprint-capital-power100.html",
-        "pubDate": "Tue, 05 May 2026 11:00:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UniCredit CEO says taking control of Commerzbank \u2018not the expected scenario\u2019",
-        "link": "https://www.cnbc.com/2026/05/05/unicredit-takeover-commerzbank-ceo-control-scenario.html",
-        "pubDate": "Tue, 05 May 2026 09:19:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "HSBC shares drop as first-quarter pre-tax profit misses estimates on higher expected credit losses",
-        "link": "https://www.cnbc.com/2026/05/05/hsbc-q1-earnings-banking-finance.html",
-        "pubDate": "Tue, 05 May 2026 08:38:15 GMT",
-        "category": "Top News"
       }
     ]
   }
