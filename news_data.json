@@ -1,13 +1,86 @@
 {
-  "updated_at": "2026-05-05T14:13:28.642541",
+  "updated_at": "2026-05-05T17:45:16.299810",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Mark Zuckerberg \u2018personally authorized\u2019 Meta\u2019s copyright infringement, publishers allege",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fa2be5de2c41b9acf1040fdade9394&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32&amp;c=1690556949204388226&amp;mkt=en-us",
+        "pubDate": "Tue, 05 May 2026 10:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wild make switch in net for Game 2, go with Gustavsson after Wallstedt allows 8 goals against Avs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fa2be5de2c41b9acf1040fdade9394&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwild-goaltender-avalanche-stanley-cup-a50d66d724cc906a927cd8ece941df68&amp;c=15825422904524955031&amp;mkt=en-us",
+        "pubDate": "Tue, 05 May 2026 10:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US stocks climb toward records as oil prices fall and earnings beat forecasts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fa2becf9c9459b9c279a8c0fb8c468&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-trump-oil-iran-e1c194b5266c4eb58dc993cc4a9f9b50&amp;c=7609185826509928196&amp;mkt=en-us",
+        "pubDate": "Tue, 05 May 2026 10:06:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Inside the cruise ship at the center of a rare hantavirus outbreak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fa2be5de2c41b9acf1040fdade9394&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhantavirus-ship-cape-verde-mv-hondius-footage-c6b3db5ab10fefbd9ece0b036e47188b&amp;c=1282595993946999278&amp;mkt=en-us",
+        "pubDate": "Tue, 05 May 2026 10:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pennsylvania sues AI company, saying its chatbots illegally hold themselves out as licensed doctors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fa2be5de2c41b9acf1040fdade9394&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcharacter-ai-chatbots-medical-advice-pennsylvania-46502067ed5b3cd9f9173f194ad30070&amp;c=2639114146390088540&amp;mkt=en-us",
+        "pubDate": "Tue, 05 May 2026 09:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US says ceasefire with Iran is holding despite attacks in the Strait of Hormuz and against the UAE",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fa2be95e37485fbbedacbb97173bca&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-war-ceasefire-negotiations-strait-hormuz-b8a77d16945085e5a5039032a55b3a90&amp;c=4662164492506908885&amp;mkt=en-us",
+        "pubDate": "Tue, 05 May 2026 09:04:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Snooker\u2019s Olympic push gets a jolt from China\u2019s back-to-back world champions",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fa2be713804ab7a57147786f86698f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsnooker-olympics-wu-yize-world-championship-china-0edabf1d5cddd4d25667efe552f1cc32&amp;c=3942307137140358946&amp;mkt=en-us",
+        "pubDate": "Tue, 05 May 2026 09:00:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Chef declines to answer money questions in assault trial of former Patriots player Diggs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fa2be5de2c41b9acf1040fdade9394&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpatriots-new-england-stefon-diggs-assault-chef-7128f3d02e1058120d0d5423f0ec72f5&amp;c=5252198730083394943&amp;mkt=en-us",
+        "pubDate": "Tue, 05 May 2026 08:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Injured Mbapp&#233; defends commitment to rehab after out-of-town trip before clasico",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fa2be5de2c41b9acf1040fdade9394&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmbappe-real-madrid-injury-650e7ceca7f25c1211024022a897278b&amp;c=6823769226010669106&amp;mkt=en-us",
+        "pubDate": "Tue, 05 May 2026 08:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "USPS unveils Route 66 centennial stamps, born from a photographer\u2019s 42 trips",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fa2be5de2c41b9acf1040fdade9394&amp;url=https%3a%2f%2fapnews.com%2farticle%2froute-66-potage-stamps-centennial-road-trip-84815c35b1f1536176d5040615c5e5c2&amp;c=13711331460214434785&amp;mkt=en-us",
+        "pubDate": "Tue, 05 May 2026 06:06:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "npr": [
+      {
+        "title": "Did FBI Director Kash Patel use AI to rip off the Beastie Boys?",
+        "link": "https://www.npr.org/2026/05/05/nx-s1-5812509/kash-patel-fbi-beastie-boys-spike-jonze-ai",
+        "pubDate": "Tue, 05 May 2026 13:15:11 -0400",
+        "category": "us"
+      },
+      {
+        "title": "ICE is giving local police big money to help with immigration enforcement",
+        "link": "https://www.npr.org/2026/05/05/nx-s1-5805996/ice-pays-local-police-incentives-immigration",
+        "pubDate": "Tue, 05 May 2026 12:42:03 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Here&apos;s a look at the 36 races for governor this year",
         "link": "https://www.npr.org/2026/05/05/nx-s1-5739331/governor-2026-election",
         "pubDate": "Tue, 05 May 2026 09:34:34 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "If you are struggling to make ends meet, NPR wants to hear from you",
@@ -22,7 +95,7 @@
         "category": "world"
       },
       {
-        "title": "U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
+        "title": "U.S. says the Iran ceasefire holds despite attacks in Strait of Hormuz and against UAE",
         "link": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
         "pubDate": "Tue, 05 May 2026 06:39:41 -0400",
         "category": "Top News"
@@ -50,84 +123,96 @@
         "link": "https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china",
         "pubDate": "Tue, 05 May 2026 02:59:43 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak",
-        "link": "https://www.npr.org/2026/05/05/g-s1-120130/cruise-ship-hantavirus-outbreak",
-        "pubDate": "Tue, 05 May 2026 01:49:20 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Russia declares a truce in Ukraine to mark Victory Day",
-        "link": "https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day",
-        "pubDate": "Tue, 05 May 2026 01:47:24 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Pornhub to become accessible again for some UK users",
-        "link": "https://www.bbc.com/news/articles/cwy27q05gj2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 14:09:28 GMT",
+        "title": "Woman, 35, died in explosion after ex-partner 'forced entry' into her home",
+        "link": "https://www.bbc.com/news/articles/cx21q55gz12o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 17:25:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US to safety test new AI models from Google, Microsoft, xAI",
+        "link": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 17:21:32 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Hate crime prosecutions to be fast-tracked after antisemitic attacks",
+        "link": "https://www.bbc.com/news/articles/cz72eye5zzeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 16:56:37 GMT",
+        "category": "Top News"
       },
       {
         "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
         "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 13:17:07 GMT",
+        "pubDate": "Tue, 05 May 2026 16:38:50 GMT",
         "category": "world"
       },
       {
-        "title": "Counter-terror police investigating arson at disused synagogue",
-        "link": "https://www.bbc.com/news/articles/c89370yygx5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 12:32:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Inciting antisemitism will not be tolerated, Starmer warns Iran",
-        "link": "https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 12:32:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all out war",
-        "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 11:38:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Gap co-founder Doris Fisher dies aged 94",
-        "link": "https://www.bbc.com/news/articles/c0q2w7e41wxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 11:31:06 GMT",
+        "title": "UK long-term borrowing costs reach 28-year high",
+        "link": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 16:30:23 GMT",
         "category": "business"
       },
       {
-        "title": "'I went undercover to expose dangerous advice given to parents'",
-        "link": "https://www.bbc.com/news/videos/ckgp9gx4myxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 05:09:08 GMT",
+        "title": "Palestine Action activists guilty of criminal damage",
+        "link": "https://www.bbc.com/news/articles/cm2p99rxr5po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 15:49:11 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cruise passengers tell of life on board stranded ship after hantavirus outbreak",
+        "link": "https://www.bbc.com/news/articles/clype7ededzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 15:40:36 GMT",
         "category": "health"
+      },
+      {
+        "title": "Nissan to close one UK production line and cut 900 jobs in Europe",
+        "link": "https://www.bbc.com/news/articles/cdep9g8dp36o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 15:39:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bowen: Strait of Hormuz standoff raises risk of US sliding back into all-out war",
+        "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 11:38:03 GMT",
+        "category": "us"
       },
       {
         "title": "Dangerous baby-sleep advice given to parents by self-described experts, secret filming reveals",
         "link": "https://www.bbc.com/news/articles/ce84e1vn1l2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 05 May 2026 05:01:18 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-        "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 04:34:15 GMT",
-        "category": "us"
-      },
-      {
-        "title": "The most talked-about looks at this year's Met Gala",
-        "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 04:05:39 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [],
     "markets": [
+      {
+        "title": "SEC is close to ending mandatory quarterly earnings reports that Trump called for",
+        "link": "https://www.cnbc.com/2026/05/05/sec-is-close-to-ending-mandatory-quarterly-earnings-reports-that-trump-called-for.html",
+        "pubDate": "Tue, 05 May 2026 17:28:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Intel soars 14% on report of Apple chip talks, hits new all-time high",
+        "link": "https://www.cnbc.com/2026/05/05/intel-intc-stock-apple-talks-report.html",
+        "pubDate": "Tue, 05 May 2026 16:28:23 GMT",
+        "category": "world"
+      },
+      {
+        "title": "After Coinbase, prediction market traders forecast more tech layoffs ahead",
+        "link": "https://www.cnbc.com/2026/05/05/after-coinbase-prediction-markets-traders-see-more-tech-layoffs.html",
+        "pubDate": "Tue, 05 May 2026 16:26:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "FDA commissioner defends agency&apos;s drug approval decisions after wave of backlash",
+        "link": "https://www.cnbc.com/2026/05/05/fda-commissioner-marty-makary-defends-himself-under-pressure-.html",
+        "pubDate": "Tue, 05 May 2026 16:04:21 GMT",
+        "category": "business"
+      },
       {
         "title": "Michael Burry sells GameStop after Ryan Cohen&apos;s hefty eBay bid: &apos;Never confuse debt for creativity&apos;",
         "link": "https://www.cnbc.com/2026/05/05/burry-sells-gamestop-after-cohens-ebay-bid-never-confuse-debt-for-creativity.html",
@@ -147,12 +232,6 @@
         "category": "Top News"
       },
       {
-        "title": "Markets on edge as fresh U.S.-Iran attacks dent optimism over a peace deal",
-        "link": "https://www.cnbc.com/2026/05/05/us-iran-attacks-markets-peace-deal-talks.html",
-        "pubDate": "Tue, 05 May 2026 09:50:28 GMT",
-        "category": "world"
-      },
-      {
         "title": "UniCredit CEO says taking control of Commerzbank \u2018not the expected scenario\u2019",
         "link": "https://www.cnbc.com/2026/05/05/unicredit-takeover-commerzbank-ceo-control-scenario.html",
         "pubDate": "Tue, 05 May 2026 09:19:40 GMT",
@@ -168,24 +247,6 @@
         "title": "Traders are doubtful Cohen&apos;s GameStop can pull off monster eBay acquisition",
         "link": "https://www.cnbc.com/2026/05/04/traders-are-doubtful-cohens-gamestop-can-pull-off-monster-ebay-acquisition.html",
         "pubDate": "Mon, 04 May 2026 19:30:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
-        "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
-        "pubDate": "Mon, 04 May 2026 18:55:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kalshi traders see April jobs report coming in better than economists&apos; estimates",
-        "link": "https://www.cnbc.com/2026/05/04/kalshi-traders-see-april-jobs-report-coming-in-better-than-economists-estimates.html",
-        "pubDate": "Mon, 04 May 2026 18:48:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Traffic in the Strait of Hormuz won\u2019t return to normal until August or later, according to Kalshi traders",
-        "link": "https://www.cnbc.com/2026/05/04/strait-of-hormuz-traffic-disrupted-until-september-kalshi-traders-say.html",
-        "pubDate": "Mon, 04 May 2026 18:46:25 GMT",
         "category": "Top News"
       }
     ]
