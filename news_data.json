@@ -1,16 +1,40 @@
 {
-  "updated_at": "2026-05-05T10:10:02.654390",
+  "updated_at": "2026-05-05T14:13:28.642541",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "This flashy group of Portland mall-walkers puts neon pep into step",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5806606/portland-mall-walkers-lloyd-center-food-court-5000",
-        "pubDate": "Tue, 05 May 2026 05:30:00 -0400",
+        "title": "Here&apos;s a look at the 36 races for governor this year",
+        "link": "https://www.npr.org/2026/05/05/nx-s1-5739331/governor-2026-election",
+        "pubDate": "Tue, 05 May 2026 09:34:34 -0400",
         "category": "us"
       },
       {
-        "title": "Minneapolis immigrants still feeling the sting of Trump&apos;s largest crackdown yet",
+        "title": "If you are struggling to make ends meet, NPR wants to hear from you",
+        "link": "https://www.npr.org/2026/05/05/g-s1-120051/cost-of-living-gas-prices-jobs",
+        "pubDate": "Tue, 05 May 2026 08:42:27 -0400",
+        "category": "business"
+      },
+      {
+        "title": "SCOTUS temporarily restores mifepristone access. And, Indiana, Ohio vote in primaries",
+        "link": "https://www.npr.org/2026/05/05/g-s1-120151/up-first-newsletter-iran-us-strait-of-hormuz-ohio-indiana-primaries-medication-abortion",
+        "pubDate": "Tue, 05 May 2026 07:53:47 -0400",
+        "category": "world"
+      },
+      {
+        "title": "U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
+        "link": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
+        "pubDate": "Tue, 05 May 2026 06:39:41 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "This flashy group of Portland mall walkers puts neon pep into their step",
+        "link": "https://www.npr.org/2026/05/05/nx-s1-5806606/portland-mall-walkers-lloyd-center-food-court-5000",
+        "pubDate": "Tue, 05 May 2026 05:30:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Minneapolis grapples with the impact of Trump&apos;s largest immigration crackdown yet",
         "link": "https://www.npr.org/2026/05/05/nx-s1-5801473/minneapolis-immigrants-grapple-with-economic-impact-of-operation-metro-surge",
         "pubDate": "Tue, 05 May 2026 05:12:00 -0400",
         "category": "Top News"
@@ -22,16 +46,10 @@
         "category": "Top News"
       },
       {
-        "title": "GameStop makes unsolicited bid to acquire online auction giant eBay for $56B",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5810499/gamestop-makes-unsolicited-bid-to-acquire-online-auction-giant-ebay-for-56b",
-        "pubDate": "Tue, 05 May 2026 04:42:39 -0400",
-        "category": "business"
-      },
-      {
         "title": "An explosion at a fireworks plant in China kills at least 26 people, state media says",
         "link": "https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china",
         "pubDate": "Tue, 05 May 2026 02:59:43 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak",
@@ -44,50 +62,44 @@
         "link": "https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day",
         "pubDate": "Tue, 05 May 2026 01:47:24 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Wyoming lawmakers use pro-natalist arguments to justify proposed new partial abortion ban",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5810606/wyoming-lawmakers-use-pro-natalist-arguments-to-justify-proposed-new-partial-abortion-ban",
-        "pubDate": "Tue, 05 May 2026 00:01:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "See the looks from the 2026 Met Gala red carpet",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/05/04/nx-s1-5803014/met-gala-red-carpet",
-        "pubDate": "Mon, 04 May 2026 19:09:08 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change",
-        "link": "https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-appeals-telehealth",
-        "pubDate": "Mon, 04 May 2026 12:15:13 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Second hantavirus case confirmed after deaths on cruise ship",
-        "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 10:07:26 GMT",
+        "title": "Pornhub to become accessible again for some UK users",
+        "link": "https://www.bbc.com/news/articles/cwy27q05gj2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 14:09:28 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+        "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 13:17:07 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Counter-terror police investigating arson at disused synagogue",
+        "link": "https://www.bbc.com/news/articles/c89370yygx5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 12:32:21 GMT",
         "category": "Top News"
       },
       {
         "title": "Inciting antisemitism will not be tolerated, Starmer warns Iran",
         "link": "https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 09:41:27 GMT",
+        "pubDate": "Tue, 05 May 2026 12:32:19 GMT",
         "category": "Top News"
       },
       {
-        "title": "Modern slavery at record levels in UK, report warns",
-        "link": "https://www.bbc.com/news/articles/c1j2gd8yr6go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 07:17:22 GMT",
+        "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all out war",
+        "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 11:38:03 GMT",
         "category": "Top News"
       },
       {
-        "title": "Explosion at China fireworks factory kills 26 people",
-        "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 06:06:42 GMT",
-        "category": "world"
+        "title": "Gap co-founder Doris Fisher dies aged 94",
+        "link": "https://www.bbc.com/news/articles/c0q2w7e41wxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 11:31:06 GMT",
+        "category": "business"
       },
       {
         "title": "'I went undercover to expose dangerous advice given to parents'",
@@ -108,39 +120,32 @@
         "category": "us"
       },
       {
-        "title": "Beyonc\u00e9, Rihanna and Heidi Klum turn heads at the Met Gala",
+        "title": "The most talked-about looks at this year's Met Gala",
         "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 05 May 2026 04:05:39 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "British pubs closing at a rate of almost two per day in 2026",
-        "link": "https://www.bbc.com/news/articles/c9d355nw7jzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 01:55:39 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Dolly Parton cancels Las Vegas residency over health issues",
-        "link": "https://www.bbc.com/news/articles/c98ryegj3m4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 04 May 2026 21:18:19 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "Middle East truce in doubt as US and Iran fight for control of Strait of Hormuz",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f9c19990cf49b5a6abbe0afe4a673a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fmiddle-east-truce-doubt-us-iran-fight-control-strait-hormuz-2026-05-05%2f&amp;c=3927129120163126583&amp;mkt=en-us",
-        "pubDate": "Tue, 05 May 2026 01:20:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "World Cup viewing in doubt for millions of fans in India and China",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69f9c196297f4fa3aadb1c9ba2771ed2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ffifa-faces-world-cup-broadcast-crisis-indias-reliance-offers-20-mln-china-deal-2026-05-04%2f&amp;c=1361978950524547518&amp;mkt=en-us",
-        "pubDate": "Mon, 04 May 2026 22:32:00 GMT",
-        "category": "world"
-      }
-    ],
+    "reuters": [],
     "markets": [
+      {
+        "title": "Michael Burry sells GameStop after Ryan Cohen&apos;s hefty eBay bid: &apos;Never confuse debt for creativity&apos;",
+        "link": "https://www.cnbc.com/2026/05/05/burry-sells-gamestop-after-cohens-ebay-bid-never-confuse-debt-for-creativity.html",
+        "pubDate": "Tue, 05 May 2026 13:44:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Palantir Technologies, PayPal, Intel, Anheuser-Busch InBev &amp; more",
+        "link": "https://www.cnbc.com/2026/05/05/stocks-making-the-biggest-moves-premarket-pltr-pypl-intc-bud.html",
+        "pubDate": "Tue, 05 May 2026 13:15:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Milken-adjacent Power100 attendees aim to reclaim the DEI in finance narrative",
+        "link": "https://www.cnbc.com/2026/05/05/dei-diversity-milken-blueprint-capital-power100.html",
+        "pubDate": "Tue, 05 May 2026 11:00:01 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Markets on edge as fresh U.S.-Iran attacks dent optimism over a peace deal",
         "link": "https://www.cnbc.com/2026/05/05/us-iran-attacks-markets-peace-deal-talks.html",
@@ -157,24 +162,6 @@
         "title": "HSBC shares drop as first-quarter pre-tax profit misses estimates on higher expected credit losses",
         "link": "https://www.cnbc.com/2026/05/05/hsbc-q1-earnings-banking-finance.html",
         "pubDate": "Tue, 05 May 2026 08:38:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Andy Jassy says Amazon investors will be rewarded by all its AI spending",
-        "link": "https://www.cnbc.com/2026/05/04/andy-jassy-amazon-investors-rewarded-ai-spending.html",
-        "pubDate": "Tue, 05 May 2026 00:38:58 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Stocks making the biggest moves after hours: Palantir, Pinterest, Duolingo, Paramount Skydance &amp; more",
-        "link": "https://www.cnbc.com/2026/05/04/stocks-making-the-biggest-moves-after-hours-pltr-pins-duol-psky.html",
-        "pubDate": "Mon, 04 May 2026 23:23:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Berkshire shares trade lower even after Abel scores good marks at meeting, earnings jump",
-        "link": "https://www.cnbc.com/2026/05/04/berkshire-shares-trade-higher-as-buffett-successor-abel-scores-good-marks-at-meeting-earnings-jump.html",
-        "pubDate": "Mon, 04 May 2026 20:03:39 GMT",
         "category": "Top News"
       },
       {
