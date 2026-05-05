@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-05-05T19:44:40.618305",
+  "updated_at": "2026-05-05T21:09:19.962744",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "&apos;Transformation&apos; of the U.S. Forest Service looks like dismantling to critics",
+        "link": "https://www.npr.org/2026/05/05/nx-s1-5779730/transformation-of-the-u-s-forest-service-looks-like-dismantling-to-critics",
+        "pubDate": "Tue, 05 May 2026 16:50:44 -0400",
+        "category": "us"
+      },
+      {
+        "title": "U.S. says it&apos;s made Hormuz safe for commercial shipping, but standoff hasn&apos;t changed",
+        "link": "https://www.npr.org/2026/05/05/nx-s1-5812487/u-s-says-its-made-hormuz-safe-for-commercial-shipping-but-standoff-hasnt-changed",
+        "pubDate": "Tue, 05 May 2026 16:44:09 -0400",
+        "category": "world"
+      },
       {
         "title": "Midwives saved his mom&apos;s life -- and inspired him to pursue the profession",
         "link": "https://www.npr.org/2026/05/05/g-s1-119984/midwife-midwives-childbirth",
@@ -13,7 +25,7 @@
         "title": "NPR went looking for Polymarket&apos;s Panama headquarters. It&apos;s elusive",
         "link": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
         "pubDate": "Tue, 05 May 2026 14:46:08 -0400",
-        "category": "world"
+        "category": "business"
       },
       {
         "title": "A legal scholar and &apos;Backtalker&apos; defends critical race theory -- a term she helped coin",
@@ -25,7 +37,7 @@
         "title": "The Iran war sent jet fuel prices sky-high. Here&apos;s what air travelers should know",
         "link": "https://www.npr.org/2026/05/05/nx-s1-5811918/iran-war-jet-fuel-baggage-fees-travel-tips",
         "pubDate": "Tue, 05 May 2026 14:33:19 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "A nearly year-long deployment at sea takes a toll on military families",
@@ -50,25 +62,13 @@
         "link": "https://www.npr.org/2026/05/05/nx-s1-5739331/governor-2026-election",
         "pubDate": "Tue, 05 May 2026 09:34:34 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "If you are struggling to make ends meet, NPR wants to hear from you",
-        "link": "https://www.npr.org/2026/05/05/g-s1-120051/cost-of-living-gas-prices-jobs",
-        "pubDate": "Tue, 05 May 2026 08:42:27 -0400",
-        "category": "business"
-      },
-      {
-        "title": "SCOTUS temporarily restores mifepristone access. And, Indiana, Ohio vote in primaries",
-        "link": "https://www.npr.org/2026/05/05/g-s1-120151/up-first-newsletter-iran-us-strait-of-hormuz-ohio-indiana-primaries-medication-abortion",
-        "pubDate": "Tue, 05 May 2026 07:53:47 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "'I thought he was going to hit me' OpenAI co-founder says of Musk",
-        "link": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 19:40:22 GMT",
+        "title": "US to safety test new AI models from Google, Microsoft, xAI",
+        "link": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 05 May 2026 20:16:24 GMT",
         "category": "tech"
       },
       {
@@ -129,6 +129,12 @@
     "reuters": [],
     "markets": [
       {
+        "title": "Small caps put on their best monthly showing since 2020. Bank of America says there&apos;s more upside ahead",
+        "link": "https://www.cnbc.com/2026/05/05/small-caps-have-more-upside-after-big-april-bank-of-america-says.html",
+        "pubDate": "Tue, 05 May 2026 20:12:19 GMT",
+        "category": "us"
+      },
+      {
         "title": "Anthropic CEO warns of cyber \u2018moment of danger\u2019 as AI exposes thousands of vulnerabilities",
         "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
         "pubDate": "Tue, 05 May 2026 19:36:16 GMT",
@@ -141,12 +147,6 @@
         "category": "Top News"
       },
       {
-        "title": "Why Palantir&apos;s stock is down despite a stellar first quarter",
-        "link": "https://www.cnbc.com/2026/05/05/why-palantirs-stock-is-down-despite-a-stellar-first-quarter.html",
-        "pubDate": "Tue, 05 May 2026 18:42:06 GMT",
-        "category": "us"
-      },
-      {
         "title": "SEC advances Trump-backed proposal to end mandatory quarterly earnings reports",
         "link": "https://www.cnbc.com/2026/05/05/sec-is-close-to-ending-mandatory-quarterly-earnings-reports-that-trump-called-for.html",
         "pubDate": "Tue, 05 May 2026 18:05:44 GMT",
@@ -157,12 +157,6 @@
         "link": "https://www.cnbc.com/2026/05/05/after-coinbase-prediction-markets-traders-see-more-tech-layoffs.html",
         "pubDate": "Tue, 05 May 2026 16:26:27 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "FDA commissioner defends agency&apos;s drug approval decisions after wave of backlash",
-        "link": "https://www.cnbc.com/2026/05/05/fda-commissioner-marty-makary-defends-himself-under-pressure-.html",
-        "pubDate": "Tue, 05 May 2026 16:04:21 GMT",
-        "category": "health"
       },
       {
         "title": "Michael Burry sells GameStop after Ryan Cohen&apos;s hefty eBay bid: &apos;Never confuse debt for creativity&apos;",
@@ -186,6 +180,12 @@
         "title": "UniCredit CEO says taking control of Commerzbank \u2018not the expected scenario\u2019",
         "link": "https://www.cnbc.com/2026/05/05/unicredit-takeover-commerzbank-ceo-control-scenario.html",
         "pubDate": "Tue, 05 May 2026 09:19:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "HSBC shares drop as first-quarter pre-tax profit misses estimates on higher expected credit losses",
+        "link": "https://www.cnbc.com/2026/05/05/hsbc-q1-earnings-banking-finance.html",
+        "pubDate": "Tue, 05 May 2026 08:38:15 GMT",
         "category": "Top News"
       }
     ]
