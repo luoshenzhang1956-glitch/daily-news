@@ -1,13 +1,49 @@
 {
-  "updated_at": "2026-05-06T06:36:24.471010",
+  "updated_at": "2026-05-06T10:25:49.504159",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "A new Medicare option for weight loss drugs is coming: Here&apos;s what to know",
+        "link": "https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay",
+        "pubDate": "Wed, 06 May 2026 06:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Poll: Trump blamed for gas prices as Democrats gain midterm edge",
+        "link": "https://www.npr.org/2026/05/06/nx-s1-5810555/trump-iran-gas-prices-midterms-polling",
+        "pubDate": "Wed, 06 May 2026 05:01:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Skeletons in their clothing: Recovering bodies from the rubble in Gaza",
+        "link": "https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies",
+        "pubDate": "Wed, 06 May 2026 05:00:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Do you say &apos;wash&apos; or &apos;warsh?&apos; Here&apos;s where the pronunciation comes from",
+        "link": "https://www.npr.org/2026/05/06/nx-s1-5805005/kevin-wash-warsh-linguistics",
+        "pubDate": "Wed, 06 May 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "A trip to Europe? In this economy? Expensive flights keep vacations closer to home",
+        "link": "https://www.npr.org/2026/05/06/nx-s1-5806596/iran-war-expensive-travel-flights-jet-fuel",
+        "pubDate": "Wed, 06 May 2026 05:00:00 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Lindsey Vonn&apos;s Olympic crash was a horrific setback. But she&apos;s never been one to hide",
+        "link": "https://www.npr.org/2026/05/06/g-s1-120257/lindsey-vonn-winter-olympics-crash-recovery-cortina",
+        "pubDate": "Wed, 06 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire",
         "link": "https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine",
         "pubDate": "Wed, 06 May 2026 02:27:48 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Police say Australian women with alleged IS ties face charges on return from Syria",
@@ -19,69 +55,57 @@
         "title": "Trump-backed Ramaswamy wins Ohio governor primary, setting up a competitive Nov. race",
         "link": "https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor",
         "pubDate": "Tue, 05 May 2026 20:11:35 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Pennsylvania sues Character.AI over claims chatbot posed as doctor",
         "link": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
         "pubDate": "Tue, 05 May 2026 17:26:55 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Scott Turow&apos;s latest real-life legal thriller: Suing Meta for copyright infringement",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit",
-        "pubDate": "Tue, 05 May 2026 17:13:10 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans",
-        "link": "https://www.npr.org/2026/05/05/g-s1-120234/cruise-ship-with-hantavirus-may-have-seen-a-rare-occurrence-humans-infecting-humans",
-        "pubDate": "Tue, 05 May 2026 17:08:37 -0400",
-        "category": "health"
-      },
-      {
-        "title": "From ICE detention to center stage: The Texas mariachi brothers opening for Kacey Musgraves",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5806609/from-ice-detention-to-center-stage-texas-mariachi-brothers-opening-for-kacey-musgraves",
-        "pubDate": "Tue, 05 May 2026 16:47:26 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The oldest U.S. Jewish seminary, Hebrew Union College, shuts down a rabbinical program",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5805224/the-oldest-u-s-jewish-seminary-hebrew-union-college-shuts-down-the-rabbinical-program-where-it-all-began",
-        "pubDate": "Tue, 05 May 2026 16:15:33 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Midwives saved his mom&apos;s life -- and inspired him to pursue the profession",
-        "link": "https://www.npr.org/2026/05/05/g-s1-119984/midwife-midwives-childbirth",
-        "pubDate": "Tue, 05 May 2026 15:13:17 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "NPR went looking for Polymarket&apos;s Panama headquarters. It&apos;s elusive",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
-        "pubDate": "Tue, 05 May 2026 14:46:08 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
+      {
+        "title": "Hantavirus strain that spreads between humans found in cruise ship passengers",
+        "link": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 10:17:15 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Airlines cut 13,000 flights in May as jet fuel prices soar",
+        "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 10:10:46 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Met forms team after attacks on Jewish community",
+        "link": "https://www.bbc.com/news/articles/ceqp9zj9j9eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 10:06:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
+        "link": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 07:10:16 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Catherine to return to overseas visits with Italy trip",
+        "link": "https://www.bbc.com/news/articles/c707k90lplno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 06:49:06 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: The Lebanese neighbourhoods shattered by Israel's ten minute bombing raid",
+        "link": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 06:39:27 GMT",
+        "category": "Top News"
+      },
       {
         "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
         "link": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 04:53:31 GMT",
         "category": "world"
-      },
-      {
-        "title": "Oil prices ease as US pauses Project Freedom to seek deal with Iran",
-        "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 03:05:16 GMT",
-        "category": "business"
-      },
-      {
-        "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
-        "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 02:23:36 GMT",
-        "category": "Top News"
       },
       {
         "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
@@ -96,43 +120,19 @@
         "category": "Top News"
       },
       {
-        "title": "Apple to pay $250m to US iPhone buyers over AI features lawsuit",
-        "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 00:15:14 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Catherine to return to overseas visits with Italy trip",
-        "link": "https://www.bbc.com/news/articles/c707k90lplno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 00:04:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
-        "link": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 00:01:28 GMT",
-        "category": "health"
-      },
-      {
-        "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
+        "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
         "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 05 May 2026 21:22:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hate crime prosecutions to be fast-tracked after antisemitic attacks",
-        "link": "https://www.bbc.com/news/articles/cz72eye5zzeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 16:56:37 GMT",
         "category": "Top News"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "Samsung crossses $1 trillion valuation as AI frenzy drives historic rally, lifting shares over 15%",
-        "link": "https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html",
-        "pubDate": "Wed, 06 May 2026 04:26:00 GMT",
-        "category": "tech"
+        "title": "Oil prices plunge on report U.S. and Iran closing in on a deal to end war; Brent crude down to $100",
+        "link": "https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html",
+        "pubDate": "Wed, 06 May 2026 10:17:02 GMT",
+        "category": "world"
       },
       {
         "title": "Disney reports earnings before the bell. Here&apos;s what to expect",
