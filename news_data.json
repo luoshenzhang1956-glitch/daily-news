@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-05-06T17:45:37.628680",
+  "updated_at": "2026-05-06T19:56:21.702783",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "These companies help parents try to pick their babies&apos; traits. Experts are wary",
+        "link": "https://www.npr.org/2026/05/06/nx-s1-5704317/genetic-embryo-screening",
+        "pubDate": "Wed, 06 May 2026 14:30:38 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Republicans want to add $1 billion for Trump&apos;s ballroom security to ICE funding plan",
+        "link": "https://www.npr.org/2026/05/06/g-s1-120455/republicans-trump-ballroom-billion",
+        "pubDate": "Wed, 06 May 2026 14:16:31 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Preserving pollinators is good for health -- and income",
+        "link": "https://www.npr.org/2026/05/06/nx-s1-5807663/preserving-pollinators-is-good-for-health-and-income",
+        "pubDate": "Wed, 06 May 2026 14:05:59 -0400",
+        "category": "Top News"
+      },
       {
         "title": "How Silicon Valley&apos;s new tech right has profited by aligning with MAGA",
         "link": "https://www.npr.org/2026/05/06/nx-s1-5813505/how-silicon-valleys-new-tech-right-has-profited-by-aligning-with-maga",
@@ -40,24 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "A new Medicare option for weight loss drugs is coming: Here&apos;s what to know",
-        "link": "https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay",
-        "pubDate": "Wed, 06 May 2026 06:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Poll: Trump blamed for gas prices as Democrats gain midterm edge",
-        "link": "https://www.npr.org/2026/05/06/nx-s1-5810555/trump-iran-gas-prices-midterms-polling",
-        "pubDate": "Wed, 06 May 2026 05:01:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Do you say &apos;wash&apos; or &apos;warsh?&apos; Here&apos;s where the pronunciation comes from",
-        "link": "https://www.npr.org/2026/05/06/nx-s1-5805005/kevin-wash-warsh-linguistics",
-        "pubDate": "Wed, 06 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Pennsylvania sues Character.AI over claims chatbot posed as doctor",
         "link": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
         "pubDate": "Tue, 05 May 2026 17:26:55 -0400",
@@ -66,10 +66,22 @@
     ],
     "bbc": [
       {
-        "title": "What is the cruise ship hantavirus and how does it spread?",
-        "link": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 16:57:49 GMT",
+        "title": "Hantavirus-hit cruise ships leaves Cape Verde after three evacuated",
+        "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 19:49:12 GMT",
         "category": "health"
+      },
+      {
+        "title": "Two Britons self-isolating in UK after being on hantavirus cruise ship",
+        "link": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 19:42:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump's hopes for an Iran peace deal come with caveats",
+        "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 17:32:04 GMT",
+        "category": "Top News"
       },
       {
         "title": "What is hantavirus and how does it spread? Key questions after outbreak",
@@ -96,18 +108,6 @@
         "category": "Top News"
       },
       {
-        "title": "Political parties make final pitches ahead of key elections",
-        "link": "https://www.bbc.com/news/articles/cvgzwdee72eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 15:16:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump pauses Hormuz ships plan 50 hours after he announced it - what happened?",
-        "link": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 13:39:09 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Massive Alaska megatsunami was second largest ever recorded",
         "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 12:00:25 GMT",
@@ -127,6 +127,43 @@
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "This is what it costs investors to stay in cash \u2014 and what to do instead",
+        "link": "https://www.cnbc.com/2026/05/06/this-is-what-it-costs-investors-to-stay-in-cash-and-what-to-do-instead-.html",
+        "pubDate": "Wed, 06 May 2026 19:12:05 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Cramer: Investors&apos; selling Microsoft stock to fund flashier AI picks won&apos;t last forever",
+        "link": "https://www.cnbc.com/2026/05/06/cramer-investors-selling-microsoft-stock-to-fund-flashier-ai-picks-wont-last-forever.html",
+        "pubDate": "Wed, 06 May 2026 18:54:20 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Goodbye quarterly earnings? Here&apos;s when traders believe this big change will happen",
+        "link": "https://www.cnbc.com/2026/05/06/kalshi-traders-confident-sec-will-end-mandatory-quarterly-earnings-reports.html",
+        "pubDate": "Wed, 06 May 2026 17:48:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
+        "link": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
+        "pubDate": "Wed, 06 May 2026 16:18:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Apollo CEO Rowan warns of market correction, slams \u2018egregious\u2019 practices at rival insurers",
+        "link": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
+        "pubDate": "Wed, 06 May 2026 16:18:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: AMD, Disney, Uber, Corning, Super Micro Computer &amp; more",
+        "link": "https://www.cnbc.com/2026/05/06/stocks-making-the-biggest-moves-premarket-amd-dis-uber-anet-smci.html",
+        "pubDate": "Wed, 06 May 2026 13:35:42 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
