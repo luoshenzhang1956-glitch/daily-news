@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-05-06T03:43:13.288456",
+  "updated_at": "2026-05-06T06:36:24.471010",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire",
+        "link": "https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine",
+        "pubDate": "Wed, 06 May 2026 02:27:48 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Police say Australian women with alleged IS ties face charges on return from Syria",
+        "link": "https://www.npr.org/2026/05/06/g-s1-120373/australian-women-return-syria",
+        "pubDate": "Wed, 06 May 2026 02:07:37 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Trump-backed Ramaswamy wins Ohio governor primary, setting up a competitive Nov. race",
         "link": "https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor",
@@ -34,12 +46,6 @@
         "category": "Top News"
       },
       {
-        "title": "U.S. says it&apos;s made Hormuz safe for commercial shipping, but standoff hasn&apos;t changed",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5812487/u-s-says-its-made-hormuz-safe-for-commercial-shipping-but-standoff-hasnt-changed",
-        "pubDate": "Tue, 05 May 2026 16:44:09 -0400",
-        "category": "world"
-      },
-      {
         "title": "The oldest U.S. Jewish seminary, Hebrew Union College, shuts down a rabbinical program",
         "link": "https://www.npr.org/2026/05/05/nx-s1-5805224/the-oldest-u-s-jewish-seminary-hebrew-union-college-shuts-down-the-rabbinical-program-where-it-all-began",
         "pubDate": "Tue, 05 May 2026 16:15:33 -0400",
@@ -56,17 +62,23 @@
         "link": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
         "pubDate": "Tue, 05 May 2026 14:46:08 -0400",
         "category": "business"
-      },
-      {
-        "title": "A legal scholar and &apos;Backtalker&apos; defends critical race theory -- a term she helped coin",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5806015/kimberle-williams-crenshaw-backtalker",
-        "pubDate": "Tue, 05 May 2026 14:33:59 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "What we know about Trump's 'Project Freedom' in Strait of Hormuz",
+        "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+        "link": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 04:53:31 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Oil prices ease as US pauses Project Freedom to seek deal with Iran",
+        "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 03:05:16 GMT",
+        "category": "business"
+      },
+      {
+        "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
         "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 02:23:36 GMT",
         "category": "Top News"
@@ -75,7 +87,7 @@
         "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 02:18:45 GMT",
-        "category": "world"
+        "category": "us"
       },
       {
         "title": "Campaigning sprint finish ahead of elections around Britain tomorrow",
@@ -112,81 +124,27 @@
         "link": "https://www.bbc.com/news/articles/cz72eye5zzeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 05 May 2026 16:56:37 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "UK long-term borrowing costs reach 28-year high",
-        "link": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 16:30:23 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Bowen: Strait of Hormuz standoff raises risk of US sliding back into all-out war",
-        "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 05 May 2026 11:38:03 GMT",
-        "category": "us"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "China hosts Iran&apos;s top diplomat just days ahead of Trump&apos;s high-stakes visit",
-        "link": "https://www.cnbc.com/2026/05/06/china-iran-araghchi-wang-yi-trump-beijing-hormuz-talks.html",
-        "pubDate": "Wed, 06 May 2026 03:25:09 GMT",
-        "category": "world"
+        "title": "Samsung crossses $1 trillion valuation as AI frenzy drives historic rally, lifting shares over 15%",
+        "link": "https://www.cnbc.com/2026/05/06/samsung-electronics-ai-chip-rally-kospi-record-1-trillion.html",
+        "pubDate": "Wed, 06 May 2026 04:26:00 GMT",
+        "category": "tech"
       },
       {
-        "title": "Bitcoin treasury firm Strategy breaks from &apos;never sell&apos; approach to the flagship crypto",
-        "link": "https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html",
-        "pubDate": "Tue, 05 May 2026 23:54:03 GMT",
-        "category": "us"
-      },
-      {
-        "title": "AMC to screen live concerts through Arena One partnership",
-        "link": "https://www.cnbc.com/2026/05/05/amc-arena-one-live-concerts.html",
-        "pubDate": "Tue, 05 May 2026 21:24:21 GMT",
+        "title": "Disney reports earnings before the bell. Here&apos;s what to expect",
+        "link": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
+        "pubDate": "Wed, 06 May 2026 04:01:01 GMT",
         "category": "business"
       },
       {
-        "title": "Stocks making the biggest moves after hours: Advanced Micro Devices, Super Micro Computer, Arista Networks &amp; more",
-        "link": "https://www.cnbc.com/2026/05/05/stocks-making-the-biggest-moves-after-hours-amd-smci-anet.html",
-        "pubDate": "Tue, 05 May 2026 21:19:55 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Anthropic CEO warns of cyber \u2018moment of danger\u2019 as AI exposes thousands of vulnerabilities",
-        "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
-        "pubDate": "Tue, 05 May 2026 19:36:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Intel and Micron are poised to break major milestones",
-        "link": "https://www.cnbc.com/2026/05/05/intel-and-micron-are-poised-to-break-major-milestones.html",
-        "pubDate": "Tue, 05 May 2026 18:55:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SEC advances Trump-backed proposal to end mandatory quarterly earnings reports",
-        "link": "https://www.cnbc.com/2026/05/05/sec-is-close-to-ending-mandatory-quarterly-earnings-reports-that-trump-called-for.html",
-        "pubDate": "Tue, 05 May 2026 18:05:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "After Coinbase, prediction market traders forecast more tech layoffs ahead",
-        "link": "https://www.cnbc.com/2026/05/05/after-coinbase-prediction-markets-traders-see-more-tech-layoffs.html",
-        "pubDate": "Tue, 05 May 2026 16:26:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Michael Burry sells GameStop after Ryan Cohen&apos;s hefty eBay bid: &apos;Never confuse debt for creativity&apos;",
-        "link": "https://www.cnbc.com/2026/05/05/burry-sells-gamestop-after-cohens-ebay-bid-never-confuse-debt-for-creativity.html",
-        "pubDate": "Tue, 05 May 2026 13:44:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Milken-adjacent Power100 attendees aim to reclaim the DEI in finance narrative",
-        "link": "https://www.cnbc.com/2026/05/05/dei-diversity-milken-blueprint-capital-power100.html",
-        "pubDate": "Tue, 05 May 2026 11:00:01 GMT",
-        "category": "Top News"
+        "title": "FDA withdrew studies finding Covid, shingles vaccines were safe",
+        "link": "https://www.cnbc.com/2026/05/05/fda-studies-covid-shingles-vaccines-safe.html",
+        "pubDate": "Tue, 05 May 2026 20:45:44 GMT",
+        "category": "health"
       }
     ]
   }
