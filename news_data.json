@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T21:18:51.955396",
+  "updated_at": "2026-05-06T22:58:36.407391",
   "news": {
     "ap": [],
     "npr": [
@@ -66,6 +66,18 @@
     ],
     "bbc": [
       {
+        "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
+        "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 22:10:40 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Iran considering US proposal to end war, official says",
+        "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 21:27:59 GMT",
+        "category": "world"
+      },
+      {
         "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship early",
         "link": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 21:07:17 GMT",
@@ -76,12 +88,6 @@
         "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 20:05:02 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
-        "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 19:49:12 GMT",
-        "category": "health"
       },
       {
         "title": "Trump's hopes for an Iran peace deal come with caveats",
@@ -100,12 +106,6 @@
         "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 16:11:59 GMT",
         "category": "business"
-      },
-      {
-        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-        "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 16:11:44 GMT",
-        "category": "world"
       },
       {
         "title": "Up to 150 former WHSmith high street stores to close",
@@ -127,6 +127,13 @@
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "This is what it costs investors to stay in cash \u2014 and what to do instead",
+        "link": "https://www.cnbc.com/2026/05/06/this-is-what-it-costs-investors-to-stay-in-cash-and-what-to-do-instead-.html",
+        "pubDate": "Wed, 06 May 2026 19:12:05 GMT",
+        "category": "us"
+      }
+    ]
   }
 }
