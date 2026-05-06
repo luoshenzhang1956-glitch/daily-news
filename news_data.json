@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-05-06T19:56:21.702783",
+  "updated_at": "2026-05-06T21:18:51.955396",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "How the petrodollar regime came to be, and what losing it would mean for the U.S.",
+        "link": "https://www.npr.org/2026/05/06/nx-s1-5800887/how-the-petrodollar-regime-came-to-be-and-what-losing-it-would-mean-for-the-u-s",
+        "pubDate": "Wed, 06 May 2026 16:20:42 -0400",
+        "category": "business"
+      },
       {
         "title": "These companies help parents try to pick their babies&apos; traits. Experts are wary",
         "link": "https://www.npr.org/2026/05/06/nx-s1-5704317/genetic-embryo-screening",
@@ -25,7 +31,7 @@
         "title": "How Silicon Valley&apos;s new tech right has profited by aligning with MAGA",
         "link": "https://www.npr.org/2026/05/06/nx-s1-5813505/how-silicon-valleys-new-tech-right-has-profited-by-aligning-with-maga",
         "pubDate": "Wed, 06 May 2026 11:34:31 -0400",
-        "category": "business"
+        "category": "tech"
       },
       {
         "title": "Greetings from a sea village in Indonesia, where Indigenous fishing gets help from mangroves",
@@ -56,26 +62,26 @@
         "link": "https://www.npr.org/2026/05/06/g-s1-120384/up-first-newsletter-economy-democrats-poll-advantage-indiana-primary-project-freedom-paused",
         "pubDate": "Wed, 06 May 2026 07:32:52 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Pennsylvania sues Character.AI over claims chatbot posed as doctor",
-        "link": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
-        "pubDate": "Tue, 05 May 2026 17:26:55 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "Hantavirus-hit cruise ships leaves Cape Verde after three evacuated",
+        "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship early",
+        "link": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 21:07:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
+        "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 20:05:02 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
         "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 19:49:12 GMT",
         "category": "health"
-      },
-      {
-        "title": "Two Britons self-isolating in UK after being on hantavirus cruise ship",
-        "link": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 19:42:38 GMT",
-        "category": "Top News"
       },
       {
         "title": "Trump's hopes for an Iran peace deal come with caveats",
@@ -114,12 +120,6 @@
         "category": "Top News"
       },
       {
-        "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
-        "link": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 11:59:44 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 02:18:45 GMT",
@@ -127,43 +127,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "This is what it costs investors to stay in cash \u2014 and what to do instead",
-        "link": "https://www.cnbc.com/2026/05/06/this-is-what-it-costs-investors-to-stay-in-cash-and-what-to-do-instead-.html",
-        "pubDate": "Wed, 06 May 2026 19:12:05 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Cramer: Investors&apos; selling Microsoft stock to fund flashier AI picks won&apos;t last forever",
-        "link": "https://www.cnbc.com/2026/05/06/cramer-investors-selling-microsoft-stock-to-fund-flashier-ai-picks-wont-last-forever.html",
-        "pubDate": "Wed, 06 May 2026 18:54:20 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Goodbye quarterly earnings? Here&apos;s when traders believe this big change will happen",
-        "link": "https://www.cnbc.com/2026/05/06/kalshi-traders-confident-sec-will-end-mandatory-quarterly-earnings-reports.html",
-        "pubDate": "Wed, 06 May 2026 17:48:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
-        "link": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
-        "pubDate": "Wed, 06 May 2026 16:18:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Apollo CEO Rowan warns of market correction, slams \u2018egregious\u2019 practices at rival insurers",
-        "link": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
-        "pubDate": "Wed, 06 May 2026 16:18:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: AMD, Disney, Uber, Corning, Super Micro Computer &amp; more",
-        "link": "https://www.cnbc.com/2026/05/06/stocks-making-the-biggest-moves-premarket-amd-dis-uber-anet-smci.html",
-        "pubDate": "Wed, 06 May 2026 13:35:42 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
