@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-05-06T14:31:28.245089",
+  "updated_at": "2026-05-06T17:45:37.628680",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "Brash CNN founder Ted Turner dies",
+        "title": "How Silicon Valley&apos;s new tech right has profited by aligning with MAGA",
+        "link": "https://www.npr.org/2026/05/06/nx-s1-5813505/how-silicon-valleys-new-tech-right-has-profited-by-aligning-with-maga",
+        "pubDate": "Wed, 06 May 2026 11:34:31 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Greetings from a sea village in Indonesia, where Indigenous fishing gets help from mangroves",
+        "link": "https://www.npr.org/2026/05/06/g-s1-119852/indonesia-mangrove-conservation-fishing-sulawesi-bajau",
+        "pubDate": "Wed, 06 May 2026 10:38:43 -0400",
+        "category": "world"
+      },
+      {
+        "title": "&apos;A trailblazer, a rabble-rouser, a do-gooder&apos;: CNN founder Ted Turner dies at 87",
         "link": "https://www.npr.org/2026/05/06/nx-s1-3059290/ted-turner-obituary-cnn",
         "pubDate": "Wed, 06 May 2026 10:23:25 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Have you lost or are worried about losing SNAP benefits? NPR wants to hear your story",
@@ -16,10 +28,10 @@
         "category": "us"
       },
       {
-        "title": "Iran says ships can pass Strait of Hormuz as Trump warns of bombings without a deal",
+        "title": "Iran is reviewing a U.S. proposal as Trump threatens renewed bombing if it doesn&apos;t agree",
         "link": "https://www.npr.org/2026/05/06/nx-s1-5813497/iran-war-strait-hormuz-updates",
         "pubDate": "Wed, 06 May 2026 08:33:09 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Democrats gain midterm edge, NPR poll shows. And, U.S. pauses &apos;Project Freedom&apos;",
@@ -40,20 +52,8 @@
         "category": "Top News"
       },
       {
-        "title": "Skeletons in their clothing: Recovering bodies from the rubble in Gaza",
-        "link": "https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies",
-        "pubDate": "Wed, 06 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Lindsey Vonn&apos;s Olympic crash was a horrific setback. But she&apos;s never been one to hide",
-        "link": "https://www.npr.org/2026/05/06/g-s1-120257/lindsey-vonn-winter-olympics-crash-recovery-cortina",
-        "pubDate": "Wed, 06 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A trip to Europe? In this economy? Expensive flights keep vacations closer to home",
-        "link": "https://www.npr.org/2026/05/06/nx-s1-5806596/iran-war-expensive-travel-flights-jet-fuel",
+        "title": "Do you say &apos;wash&apos; or &apos;warsh?&apos; Here&apos;s where the pronunciation comes from",
+        "link": "https://www.npr.org/2026/05/06/nx-s1-5805005/kevin-wash-warsh-linguistics",
         "pubDate": "Wed, 06 May 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -66,25 +66,43 @@
     ],
     "bbc": [
       {
-        "title": "CNN founder Ted Turner dies at 87",
-        "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 14:26:15 GMT",
+        "title": "What is the cruise ship hantavirus and how does it spread?",
+        "link": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 16:57:49 GMT",
+        "category": "health"
+      },
+      {
+        "title": "What is hantavirus and how does it spread? Key questions after outbreak",
+        "link": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 16:57:49 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "People urged not to cancel flights over fuel shortage fears",
+        "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 16:11:59 GMT",
+        "category": "business"
       },
       {
         "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
         "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 14:03:53 GMT",
+        "pubDate": "Wed, 06 May 2026 16:11:44 GMT",
         "category": "world"
       },
       {
-        "title": "Airlines cut 13,000 flights in May as jet fuel prices soar",
-        "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 13:57:46 GMT",
-        "category": "business"
+        "title": "Up to 150 former WHSmith high street stores to close",
+        "link": "https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 15:22:58 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Hormuz ships plan paused 50 hours after Trump announced it - what happened?",
+        "title": "Political parties make final pitches ahead of key elections",
+        "link": "https://www.bbc.com/news/articles/cvgzwdee72eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 06 May 2026 15:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump pauses Hormuz ships plan 50 hours after he announced it - what happened?",
         "link": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 13:39:09 GMT",
         "category": "Top News"
@@ -102,24 +120,6 @@
         "category": "tech"
       },
       {
-        "title": "What is the cruise ship hantavirus and how does it spread?",
-        "link": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 11:59:10 GMT",
-        "category": "health"
-      },
-      {
-        "title": "What is hantavirus and how does it spread? Key questions after outbreak",
-        "link": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 11:59:10 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Strictly Come Dancing: Five pros to leave the show as line-up confirmed",
-        "link": "https://www.bbc.com/news/articles/c20214nnggdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 11:39:31 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 02:18:45 GMT",
@@ -127,13 +127,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
-        "link": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
-        "pubDate": "Wed, 06 May 2026 13:43:08 GMT",
-        "category": "us"
-      }
-    ]
+    "markets": []
   }
 }
