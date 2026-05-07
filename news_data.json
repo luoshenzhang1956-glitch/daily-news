@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-05-07T19:49:12.156374",
+  "updated_at": "2026-05-07T21:11:59.227803",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "New Mexico opens investigations into possible crimes at Epstein&apos;s old ranch",
+        "link": "https://www.npr.org/2026/05/07/nx-s1-5746082/new-mexico-opens-investigations-into-possible-crimes-at-epsteins-old-ranch",
+        "pubDate": "Thu, 07 May 2026 16:47:57 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Confused about the abortion pill news? Here&apos;s where things stand",
+        "link": "https://www.npr.org/2026/05/07/nx-s1-5815294/abortion-pill-mifepristone-supreme-court-telemedicine",
+        "pubDate": "Thu, 07 May 2026 16:33:54 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Former U.S. analyst, once jailed for spying for Israel, to run for Israeli parliament",
+        "link": "https://www.npr.org/2026/05/07/nx-s1-5812527-e1/former-u-s-analyst-once-jailed-for-spying-for-israel-to-run-for-israeli-parliament",
+        "pubDate": "Thu, 07 May 2026 15:58:04 -0400",
+        "category": "world"
+      },
       {
         "title": "A Trump council recommends overhauling FEMA. Here are 3 key changes",
         "link": "https://www.npr.org/2026/05/07/nx-s1-5803121/trump-fema-reform-wildfire-flood-hurricane",
@@ -19,7 +37,7 @@
         "title": "A judge unsealed Epstein&apos;s purported 2019 suicide note. More documents could follow",
         "link": "https://www.npr.org/2026/05/07/nx-s1-5814808/jeffrey-epstein-suicide-note",
         "pubDate": "Thu, 07 May 2026 14:56:15 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Tennessee Republicans pass a map to break up the state&apos;s lone Democratic House seat",
@@ -31,7 +49,7 @@
         "title": "Rubio visits Vatican amid escalating tensions between Trump and Pope Leo",
         "link": "https://www.npr.org/2026/05/07/g-s1-120813/rubio-visits-vatican-amid-escalating-tensions-between-trump-and-pope-leo",
         "pubDate": "Thu, 07 May 2026 12:18:21 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "China gives suspended death sentences to 2 ex-defense ministers",
@@ -40,36 +58,18 @@
         "category": "Top News"
       },
       {
-        "title": "Studying these young Alzheimer&apos;s patients led to breakthroughs. Trump cut the funding",
-        "link": "https://www.npr.org/2026/05/07/nx-s1-5759696/early-alzheimers-families-network-risk",
-        "pubDate": "Thu, 07 May 2026 09:32:13 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump&apos;s criticism",
-        "link": "https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets",
-        "pubDate": "Thu, 07 May 2026 07:04:29 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Gas prices keep rising, but do big oil companies plan to drill more? Not so far",
         "link": "https://www.npr.org/2026/05/07/nx-s1-5810511/oil-company-earnings-production-gas-prices",
         "pubDate": "Thu, 07 May 2026 06:00:00 -0400",
         "category": "business"
-      },
-      {
-        "title": "As federal scientists faced turmoil, the Devils Hole pupfish reached a crisis point",
-        "link": "https://www.npr.org/2026/05/07/nx-s1-5803173/devils-hole-pupfish-crisis-federal-science-trump",
-        "pubDate": "Thu, 07 May 2026 06:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Bonnie Tyler in induced coma after emergency surgery",
-        "link": "https://www.bbc.com/news/articles/c707edw539ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 07 May 2026 19:46:01 GMT",
-        "category": "Top News"
+        "title": "Colorado firebombing suspect pleads guilty to murder",
+        "link": "https://www.bbc.com/news/articles/c2e2ryl13k8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 07 May 2026 20:50:52 GMT",
+        "category": "us"
       },
       {
         "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
@@ -96,12 +96,6 @@
         "category": "tech"
       },
       {
-        "title": "White House Press Secretary Karoline Leavitt announces birth of baby girl",
-        "link": "https://www.bbc.com/news/articles/cx21e1zx30ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 07 May 2026 16:28:30 GMT",
-        "category": "us"
-      },
-      {
         "title": "David Attenborough says he is 'overwhelmed' by 100th birthday messages",
         "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 07 May 2026 16:00:10 GMT",
@@ -124,39 +118,21 @@
         "link": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 07 May 2026 15:01:07 GMT",
         "category": "health"
+      },
+      {
+        "title": "What you need to know about the elections in England, Scotland and Wales",
+        "link": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 07 May 2026 14:39:10 GMT",
+        "category": "Top News"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "These banks just raised their CD rates. Where to find the highest yields",
-        "link": "https://www.cnbc.com/2026/05/07/these-banks-just-raised-their-cd-rates-where-to-find-the-highest-yields.html",
-        "pubDate": "Thu, 07 May 2026 19:37:29 GMT",
+        "title": "Coinbase posts steep first-quarter loss after slide in crypto prices, shares fall 4%",
+        "link": "https://www.cnbc.com/2026/05/07/coinbase-coin-earnings-q1-2026.html",
+        "pubDate": "Thu, 07 May 2026 21:03:44 GMT",
         "category": "us"
-      },
-      {
-        "title": "CNBC Sport: Media&apos;s TV upfront presentations have become an NFL showcase",
-        "link": "https://www.cnbc.com/2026/05/07/media-tv-upfront-presentations-nfl-showcase.html",
-        "pubDate": "Thu, 07 May 2026 19:16:40 GMT",
-        "category": "business"
-      },
-      {
-        "title": "S&amp;P 500 retreats from record, hurt by a turn higher in oil prices: Live updates",
-        "link": "https://www.cnbc.com/2026/05/06/stock-market-today-live-updates.html",
-        "pubDate": "Thu, 07 May 2026 19:03:36 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Healthy Returns: First Ozempic generics in Canada will be a test case for Novo Nordisk",
-        "link": "https://www.cnbc.com/2026/05/07/healthy-returns-novo-nordisk-faces-ozempic-generics-in-canada-.html",
-        "pubDate": "Thu, 07 May 2026 18:39:44 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Paul Tudor Jones says U.S. is late to regulating AI: &apos;We should have already done it&apos;",
-        "link": "https://www.cnbc.com/2026/05/07/paul-tudor-jones-ai-regulation-warning.html",
-        "pubDate": "Thu, 07 May 2026 18:12:29 GMT",
-        "category": "tech"
       }
     ]
   }
