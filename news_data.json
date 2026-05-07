@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T03:44:17.262933",
+  "updated_at": "2026-05-07T06:45:47.153796",
   "news": {
     "ap": [],
     "npr": [
@@ -66,40 +66,46 @@
     ],
     "bbc": [
       {
-        "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship early",
+        "title": "Shell profits rise as Iran war pushes oil prices higher",
+        "link": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 07 May 2026 06:28:41 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship",
         "link": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 07 May 2026 03:07:25 GMT",
+        "pubDate": "Thu, 07 May 2026 06:18:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine is a global surrogacy hub - but that could be about to end",
+        "link": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 07 May 2026 05:02:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Serving Met officer and four ex-officers investigated for handling of Al Fayed allegations",
+        "link": "https://www.bbc.com/news/articles/crepwqzppqgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 07 May 2026 05:01:20 GMT",
         "category": "Top News"
       },
       {
         "title": "What is hantavirus and how does it spread?",
         "link": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 07 May 2026 01:33:04 GMT",
+        "pubDate": "Thu, 07 May 2026 04:16:41 GMT",
         "category": "health"
       },
       {
-        "title": "German tourist wins payout after losing sun lounger race",
-        "link": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 07 May 2026 00:41:21 GMT",
-        "category": "Top News"
+        "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+        "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 07 May 2026 04:06:33 GMT",
+        "category": "world"
       },
       {
-        "title": "'We had people come just to see it': Amazon delivers its first UK parcels by drone",
-        "link": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 23:02:06 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Can CCTV really stop children being abused in nurseries?",
+        "title": "Shocking stories of nursery abuse have emerged. Could cameras really prevent more?",
         "link": "https://www.bbc.com/news/articles/czx2kn4n5wxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 22:59:03 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Iran considering US proposal to end war, official says",
-        "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 21:27:59 GMT",
-        "category": "world"
       },
       {
         "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
@@ -118,39 +124,15 @@
         "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 06 May 2026 17:32:04 GMT",
         "category": "us"
-      },
-      {
-        "title": "Up to 150 former WHSmith high street stores to close",
-        "link": "https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 06 May 2026 15:22:58 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "Stocks making the biggest moves after hours: DoorDash, Zillow Group, ARM Holdings, Fortinet and more",
-        "link": "https://www.cnbc.com/2026/05/06/stocks-making-the-biggest-moves-after-hours-dash-z-arm-ftnt.html",
-        "pubDate": "Wed, 06 May 2026 22:53:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Apollo CEO Rowan warns of market correction, slams &apos;egregious&apos; practices at rival insurers",
-        "link": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
-        "pubDate": "Wed, 06 May 2026 20:33:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
-        "link": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
-        "pubDate": "Wed, 06 May 2026 20:04:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Goodbye quarterly earnings? Here&apos;s when traders believe this big change will happen",
-        "link": "https://www.cnbc.com/2026/05/06/kalshi-traders-confident-sec-will-end-mandatory-quarterly-earnings-reports.html",
-        "pubDate": "Wed, 06 May 2026 17:48:21 GMT",
-        "category": "Top News"
+        "title": "Novo Nordisk CEO says the drugmaker is more active than ever in seeking out deals",
+        "link": "https://www.cnbc.com/2026/05/06/novo-nordisk-ceo-mike-doustdar-ozempic-maker-looking-for-deals.html",
+        "pubDate": "Wed, 06 May 2026 17:00:21 GMT",
+        "category": "health"
       }
     ]
   }
