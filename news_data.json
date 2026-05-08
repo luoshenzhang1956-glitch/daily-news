@@ -1,25 +1,49 @@
 {
-  "updated_at": "2026-05-08T19:29:28.844872",
+  "updated_at": "2026-05-08T21:11:23.254036",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Lack of U.S. response to hantavirus outbreak worries public health experts",
+        "link": "https://www.npr.org/2026/05/08/nx-s1-5816041/lack-of-u-s-response-to-hantavirus-outbreak-worries-public-health-experts",
+        "pubDate": "Fri, 08 May 2026 16:40:02 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Why Trump&apos;s efforts to force Iran to concede to U.S. demands aren&apos;t working",
+        "link": "https://www.npr.org/2026/05/08/nx-s1-5813719/why-trumps-efforts-to-force-iran-to-concede-to-u-s-demands-arent-working",
+        "pubDate": "Fri, 08 May 2026 16:30:32 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Organizers of a canceled human rights conference in Zambia say China intervened",
+        "link": "https://www.npr.org/2026/05/08/nx-s1-5809455/organizers-of-a-canceled-human-rights-conference-in-zambia-say-china-intervened",
+        "pubDate": "Fri, 08 May 2026 16:30:29 -0400",
+        "category": "world"
+      },
+      {
+        "title": "UFO files spanning decades are released by Defense Department",
+        "link": "https://www.npr.org/2026/05/08/g-s1-121186/ufo-files-released-defense-department",
+        "pubDate": "Fri, 08 May 2026 15:39:45 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Canvas is back online, but questions \u2014 and final exam disruptions \u2014 linger",
         "link": "https://www.npr.org/2026/05/08/nx-s1-5815956/canvas-data-breach-school-finals",
         "pubDate": "Fri, 08 May 2026 14:09:42 -0400",
-        "category": "us"
+        "category": "tech"
       },
       {
         "title": "Colombia&apos;s rogue hippos could find refuge in India",
         "link": "https://www.npr.org/2026/05/08/nx-s1-5814169/cocaine-hippos-colombia-india",
         "pubDate": "Fri, 08 May 2026 12:24:19 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Contact tracing could be key in halting the spread of hantavirus. Here&apos;s how it works",
         "link": "https://www.npr.org/2026/05/08/g-s1-121074/hantavirus-contact-tracing",
         "pubDate": "Fri, 08 May 2026 11:46:04 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "As federal government pulls back, Colorado charts independent course with vaccines",
@@ -34,30 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Rooted in nature, &apos;Silent Friend&apos; will change the way you see the trees",
-        "link": "https://www.npr.org/2026/05/08/nx-s1-5815957/silent-friend-review",
-        "pubDate": "Fri, 08 May 2026 10:30:10 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus",
-        "link": "https://www.npr.org/2026/05/08/g-s1-121064/up-first-newsletter-iran-us-tennessee-congressional-maps-hantavirus-tariffs",
-        "pubDate": "Fri, 08 May 2026 07:26:37 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The U.S. fires on 2 Iranian tankers trying to evade its blockade in Gulf of Oman",
-        "link": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
-        "pubDate": "Fri, 08 May 2026 06:44:36 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Military drills on the edge: U.S. and allies test capabilities near Asia&apos;s flash points",
-        "link": "https://www.npr.org/2026/05/08/g-s1-120681/drills-us-allies-test-capabilities-asia-flash-points",
-        "pubDate": "Fri, 08 May 2026 06:30:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Prices are up, but Mother&apos;s Day still means brunch",
         "link": "https://www.npr.org/2026/05/08/nx-s1-5813684/prices-mothers-day-brunch-restaurants-flowers",
         "pubDate": "Fri, 08 May 2026 05:30:00 -0400",
@@ -65,6 +65,12 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Analysis: Many Labour MPs are blaming the boss for elections body blow",
+        "link": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 08 May 2026 20:54:06 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Sir John Curtice: Election results show politics in the UK has fragmented",
         "link": "https://www.bbc.com/news/articles/ce8p4yn448vo?at_medium=RSS&amp;at_campaign=rss",
@@ -78,9 +84,9 @@
         "category": "Top News"
       },
       {
-        "title": "US jobs data beats expectations for second month in a row",
-        "link": "https://www.bbc.com/news/articles/cx21664lp32o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 08 May 2026 17:24:42 GMT",
+        "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+        "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 08 May 2026 18:59:58 GMT",
         "category": "us"
       },
       {
@@ -94,12 +100,6 @@
         "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 08 May 2026 16:11:06 GMT",
         "category": "world"
-      },
-      {
-        "title": "Henry Zeffman: Election results leave Starmer vulnerable",
-        "link": "https://www.bbc.com/news/videos/clyp1qgxke7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 08 May 2026 15:13:04 GMT",
-        "category": "Top News"
       },
       {
         "title": "Reform election gains show shift in British politics, says Farage",
@@ -127,43 +127,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Michael Burry says the market today feels like &apos;the last months of the 1999-2000 bubble&apos;",
-        "link": "https://www.cnbc.com/2026/05/08/michael-burry-says-the-market-today-feels-like-the-last-months-of-the-1999-2000-bubble.html",
-        "pubDate": "Fri, 08 May 2026 18:54:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
-        "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
-        "pubDate": "Fri, 08 May 2026 18:44:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How much further does this Teflon market have to go? Here&apos;s what traders say",
-        "link": "https://www.cnbc.com/2026/05/08/how-much-further-can-this-teflon-market-go-heres-what-traders-say.html",
-        "pubDate": "Fri, 08 May 2026 18:19:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Cloudflare, Akamai Technologies, JFrog, Trade Desk &amp; more",
-        "link": "https://www.cnbc.com/2026/05/08/stocks-making-the-biggest-moves-premarket-net-akam-frog-ttd-.html",
-        "pubDate": "Fri, 08 May 2026 16:56:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Anthropic&apos;s Mythos set off a cybersecurity &apos;hysteria.&apos; Experts say the threat was already here",
-        "link": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
-        "pubDate": "Fri, 08 May 2026 16:39:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Whirlpool says Iran war causing &apos;recession-level industry decline.&apos; The shares are down 12%",
-        "link": "https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html",
-        "pubDate": "Thu, 07 May 2026 21:35:53 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
