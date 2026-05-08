@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T23:04:29.239763",
+  "updated_at": "2026-05-08T03:38:09.473717",
   "news": {
     "ap": [],
     "npr": [
@@ -28,13 +28,19 @@
         "category": "health"
       },
       {
+        "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update",
+        "link": "https://www.npr.org/2026/05/07/nx-s1-5814761/hantavirus-likely-not-the-next-covid",
+        "pubDate": "Thu, 07 May 2026 16:43:27 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "She helps families in need. As gas and grocery prices rise, she needs help, too",
         "link": "https://www.npr.org/2026/05/07/nx-s1-5813500/gasoline-grocery-prices-increase-people-struggling",
         "pubDate": "Thu, 07 May 2026 16:34:41 -0400",
         "category": "Top News"
       },
       {
-        "title": "Supreme Court weighs the fate of telehealth access to the abortion pill",
+        "title": "With legal briefs in, Supreme Court weighs telehealth access for the abortion pill",
         "link": "https://www.npr.org/2026/05/07/nx-s1-5815294/abortion-pill-mifepristone-supreme-court-telemedicine",
         "pubDate": "Thu, 07 May 2026 16:33:54 -0400",
         "category": "Top News"
@@ -56,25 +62,37 @@
         "link": "https://www.npr.org/2026/05/07/nx-s1-5814808/jeffrey-epstein-suicide-note",
         "pubDate": "Thu, 07 May 2026 14:56:15 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Tennessee Republicans pass a map to break up the state&apos;s lone Democratic House seat",
-        "link": "https://www.npr.org/2026/05/07/nx-s1-5815023/tennessee-redistricting-map-passage",
-        "pubDate": "Thu, 07 May 2026 14:54:21 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "How sunburn inspired a new way to store energy",
-        "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 07 May 2026 23:03:04 GMT",
+        "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+        "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 08 May 2026 02:23:03 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 08 May 2026 02:07:54 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Instagram privacy tech is turned off today- what does this mean for your DMs?",
+        "link": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 08 May 2026 01:31:55 GMT",
         "category": "tech"
       },
       {
         "title": "Man charged with allegedly threatening Andrew Mountbatten-Windsor",
         "link": "https://www.bbc.com/news/articles/c4g0d1wp6g8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 07 May 2026 22:39:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "English clubs reach all three European finals for first time",
+        "link": "https://www.bbc.com/sport/football/articles/c5yr4vle9w2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 07 May 2026 22:24:29 GMT",
         "category": "Top News"
       },
       {
@@ -99,25 +117,7 @@
         "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
         "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 07 May 2026 17:55:08 GMT",
-        "category": "world"
-      },
-      {
-        "title": "David Attenborough says he is 'overwhelmed' by 100th birthday messages",
-        "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 07 May 2026 16:00:10 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-        "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 07 May 2026 16:00:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Portugal and Italy will not suspend digital border checks for Brits",
-        "link": "https://www.bbc.com/news/articles/c78k9ke78ljo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 07 May 2026 15:41:28 GMT",
-        "category": "business"
       },
       {
         "title": "How worried should we be about hantavirus?",
@@ -129,22 +129,10 @@
     "reuters": [],
     "markets": [
       {
-        "title": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4%",
-        "link": "https://www.cnbc.com/2026/05/07/coinbase-coin-earnings-q1-2026.html",
-        "pubDate": "Thu, 07 May 2026 23:00:21 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Nvidia CEO says AI partnership with Corning will &apos;revitalize American manufacturing&apos;",
-        "link": "https://www.cnbc.com/2026/05/07/nvidia-ceo-ai-partnership-corning-revitalize-american-manufacturing.html",
-        "pubDate": "Thu, 07 May 2026 22:57:30 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "U.S. and Iran trade fire in Strait of Hormuz; each claims other shot first",
-        "link": "https://www.cnbc.com/2026/05/07/iran-war-hormuz-strait-ceasefire-trump.html",
-        "pubDate": "Thu, 07 May 2026 22:48:26 GMT",
-        "category": "world"
+        "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+        "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+        "pubDate": "Fri, 08 May 2026 00:56:49 GMT",
+        "category": "Top News"
       },
       {
         "title": "Stocks making the biggest moves after hours: Akamai Technologies, CoreWeave, Expedia, Lyft and more",
@@ -157,18 +145,6 @@
         "link": "https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html",
         "pubDate": "Thu, 07 May 2026 21:35:53 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "CNBC Sport: Media &apos;upfront&apos; advertising presentations have become an NFL showcase",
-        "link": "https://www.cnbc.com/2026/05/07/media-tv-upfront-presentations-nfl-showcase.html",
-        "pubDate": "Thu, 07 May 2026 21:24:25 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Healthy Returns: First Ozempic generics in Canada will be a test case for Novo Nordisk",
-        "link": "https://www.cnbc.com/2026/05/07/healthy-returns-novo-nordisk-faces-ozempic-generics-in-canada-.html",
-        "pubDate": "Thu, 07 May 2026 18:39:44 GMT",
-        "category": "health"
       },
       {
         "title": "Ryan Cohen&apos;s mysterious bank letter backing GameStop&apos;s eBay bid reveals a big issue with deal",
