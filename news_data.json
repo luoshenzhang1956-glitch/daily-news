@@ -1,19 +1,62 @@
 {
-  "updated_at": "2026-05-09T11:03:49.258877",
+  "updated_at": "2026-05-09T13:40:28.303590",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "A fragile ceasefire holds as US awaits Iran response, Bahrain detains dozens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38cefc3f412386f6fcac49a82d12&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-war-0c25b2ca53ee90bc19bfbf6c44a66e6e&amp;c=14670604211919447286&amp;mkt=en-us",
+        "pubDate": "Sat, 09 May 2026 06:05:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "WHO head seeks to reassure Tenerife residents ahead of arrival of hantavirus cruise ship",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38e11ded4f2f861f3a5bea9f3f66&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhantavirus-cruise-ship-hondius-spain-53d606306e31bf220d92614d9de519dd&amp;c=3811743333342643188&amp;mkt=en-us",
+        "pubDate": "Sat, 09 May 2026 06:05:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Dozens of artists bring new life to a gigantic former ironworks on UNESCO\u2019s world heritage list",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38cc95314251a1e2212331403ee3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgermany-ironworks-voelklingen-unesco-heritage-urban-art-93e6a615e04cc68b79f45d29b5d39ea6&amp;c=7073570586324819349&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 22:40:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Rubio defends new US sanctions on Cuba, targeting military-run conglomerate GAESA",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38cfd0a846d0a36142b14299b38d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-sanctions-cuba-gaesa-moa-nickel-fe68b795495c84760a392db2affc10b9&amp;c=1174881954568133856&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 18:40:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
       {
-        "title": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
-        "link": "https://www.npr.org/2026/05/09/nx-s1-5812908/trump-midterms-redistricting-election",
-        "pubDate": "Sat, 09 May 2026 06:00:00 -0400",
+        "title": "Florida&apos;s controversial &apos;Alligator Alcatraz&apos; immigration detention center faces closure",
+        "link": "https://www.npr.org/2026/05/09/nx-s1-5816182/floridas-controversial-alligator-alcatraz-immigration-detention-center-faces-closure",
+        "pubDate": "Sat, 09 May 2026 07:43:07 -0400",
         "category": "us"
+      },
+      {
+        "title": "An expert on Iranian politics reviews the status of negotiations to end the war on Iran",
+        "link": "https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran",
+        "pubDate": "Sat, 09 May 2026 07:43:02 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Why saying hello to strangers can be good for you",
+        "link": "https://www.npr.org/2026/05/09/g-s1-119761/hello-greeting-strangers-benefit-social-ties",
+        "pubDate": "Sat, 09 May 2026 07:20:44 -0400",
+        "category": "health"
       },
       {
         "title": "They graduate to six figure salaries, and grueling work",
         "link": "https://www.npr.org/2026/05/09/nx-s1-5789051/merchant-marine-sealift-jobs",
         "pubDate": "Sat, 09 May 2026 06:00:00 -0400",
         "category": "business"
+      },
+      {
+        "title": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
+        "link": "https://www.npr.org/2026/05/09/nx-s1-5812908/trump-midterms-redistricting-election",
+        "pubDate": "Sat, 09 May 2026 06:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "How the 1994 World Cup kicked off America&apos;s love affair with soccer",
@@ -25,7 +68,7 @@
         "title": "Moscow marks Victory Day with a Red Square parade under tight security",
         "link": "https://www.npr.org/2026/05/09/nx-s1-5816876/russia-victory-day",
         "pubDate": "Sat, 09 May 2026 05:24:45 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "What is a radical? It&apos;s the question of M.I.A.&apos;s vexing career",
@@ -40,24 +83,6 @@
         "category": "Top News"
       },
       {
-        "title": "ABC argues Trump administration is trying to chill free speech",
-        "link": "https://www.npr.org/2026/05/09/nx-s1-5816844/abc-trump-administration-free-speech",
-        "pubDate": "Sat, 09 May 2026 00:37:43 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire",
-        "link": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire",
-        "pubDate": "Sat, 09 May 2026 00:04:26 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Lack of U.S. response to hantavirus outbreak worries public health experts",
-        "link": "https://www.npr.org/2026/05/08/nx-s1-5816041/lack-of-u-s-response-to-hantavirus-outbreak-worries-public-health-experts",
-        "pubDate": "Fri, 08 May 2026 16:40:02 -0400",
-        "category": "health"
-      },
-      {
         "title": "Canvas is back online, but questions \u2014 and final exam disruptions \u2014 linger",
         "link": "https://www.npr.org/2026/05/08/nx-s1-5815956/canvas-data-breach-school-finals",
         "pubDate": "Fri, 08 May 2026 14:09:42 -0400",
@@ -66,15 +91,27 @@
     ],
     "bbc": [
       {
+        "title": "PM turns to old Labour hands after election losses but some MPs left baffled",
+        "link": "https://www.bbc.com/news/articles/c2k2vyw88n8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 09 May 2026 13:32:04 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Starmer's done nothing for the country': Why one heartland council abandoned Labour",
+        "link": "https://www.bbc.com/news/videos/c2e2wleez4yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 09 May 2026 12:33:52 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Putin denounces Nato at scaled back Victory Day parade",
         "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 09 May 2026 09:26:54 GMT",
+        "pubDate": "Sat, 09 May 2026 12:18:58 GMT",
         "category": "world"
       },
       {
-        "title": "Reform UK will never take voters for granted, Zia Yusuf says",
+        "title": "We welcome scrutiny, Reform UK says after major election gains",
         "link": "https://www.bbc.com/news/articles/cz62d2482x1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 09 May 2026 09:13:26 GMT",
+        "pubDate": "Sat, 09 May 2026 11:22:03 GMT",
         "category": "Top News"
       },
       {
@@ -96,12 +133,6 @@
         "category": "business"
       },
       {
-        "title": "No leadership pressure on Badenoch despite Tory losses",
-        "link": "https://www.bbc.com/news/articles/cnvp5rqrde3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 08 May 2026 22:26:48 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
         "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 08 May 2026 22:04:55 GMT",
@@ -114,12 +145,6 @@
         "category": "health"
       },
       {
-        "title": "Analysis: Many Labour MPs are blaming Starmer himself for elections body blow",
-        "link": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 08 May 2026 20:54:06 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Polanski says two-party politics 'dead' after election gains for Greens",
         "link": "https://www.bbc.com/news/articles/c4g08e97523o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 08 May 2026 19:05:16 GMT",
@@ -128,66 +153,78 @@
     ],
     "reuters": [
       {
+        "title": "Magyar sworn in as Hungary's prime minister on promises of change",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38e30ac94ecfa170bd13f7f5d67a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmagyar-sworn-hungarys-prime-minister-promises-change-2026-05-09%2f&amp;c=9944328152385298541&amp;mkt=en-us",
+        "pubDate": "Sat, 09 May 2026 05:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "European states to send planes to evacuate citizens from hantavirus-hit cruise ship",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38e30ac94ecfa170bd13f7f5d67a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fgermany-france-belgium-ireland-netherlands-send-planes-passengers-hantavirus-hit-2026-05-09%2f&amp;c=3896934649012169980&amp;mkt=en-us",
+        "pubDate": "Sat, 09 May 2026 05:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Gaza flotilla activists to be released from Israel detention and deported",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38e30ac94ecfa170bd13f7f5d67a&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsociety-equity%2fgaza-flotilla-activists-be-released-israel-detention-deported-2026-05-09%2f&amp;c=8590096164437206837&amp;mkt=en-us",
+        "pubDate": "Sat, 09 May 2026 05:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Australia's Starc eyes 2027 World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38e5feb9473dbcda113108bf68de&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2faustralias-starc-eyes-2027-world-cup-2026-05-09%2f&amp;c=15576412910050151033&amp;mkt=en-us",
+        "pubDate": "Sat, 09 May 2026 04:43:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Alabama Republicans ask US Supreme Court to clear way for new voting map",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38f2fe09439ca49bd9bb98e16a1c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2falabama-republicans-ask-us-supreme-court-clear-way-new-voting-map-2026-05-08%2f&amp;c=17395789363759603957&amp;mkt=en-us",
+        "pubDate": "Sat, 09 May 2026 04:38:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Anger, confusion as Louisiana Republicans move to erase majority-Black US House district",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38e30ac94ecfa170bd13f7f5d67a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fanger-confusion-louisiana-republicans-move-to-erase-majority-black-us-house-2026-05-09%2f&amp;c=12547635054819685608&amp;mkt=en-us",
+        "pubDate": "Sat, 09 May 2026 04:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US, Iran no closer to ending war as Gulf clashes flare",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38e30ac94ecfa170bd13f7f5d67a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-iran-no-closer-ending-war-gulf-clashes-flare-2026-05-09%2f&amp;c=11437413639825447588&amp;mkt=en-us",
+        "pubDate": "Sat, 09 May 2026 03:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump's feuds, tensions with allies likely to outlast Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38e30ac94ecfa170bd13f7f5d67a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09%2f&amp;c=16300622689186875366&amp;mkt=en-us",
+        "pubDate": "Sat, 09 May 2026 03:53:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Rory McIlroy: Bringing back LIV players 'good business' for PGA Tour",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff1455237f4c338e9e0dd0a60786da&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2frory-mcilroy-bringing-back-liv-players-good-business-pga-tour--flm-2026-05-09%2f&amp;c=6144975507334058307&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38f5375a4b13b98b5a3fa4bd2061&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2frory-mcilroy-bringing-back-liv-players-good-business-pga-tour--flm-2026-05-09%2f&amp;c=6144975507334058307&amp;mkt=en-us",
         "pubDate": "Fri, 08 May 2026 19:47:00 GMT",
         "category": "business"
       },
       {
-        "title": "S&amp;P 500 and Nasdaq notch records, boosted by AI and earnings optimism",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff14566e1a448987a050769be61251&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-rise-chips-rebound-ahead-jobs-data-2026-05-08%2f&amp;c=10970113063343125045&amp;mkt=en-us",
-        "pubDate": "Fri, 08 May 2026 15:26:00 GMT",
+        "title": "Wall St Week Ahead: Data, Iran, US-China meeting in focus for scorching US stock market",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff38f7cd7e4ff58db5f7f79bd51a8c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fwall-st-week-ahead-data-iran-us-china-meeting-focus-scorching-us-stock-market-2026-05-08%2f&amp;c=16776915089272548919&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 19:17:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Exclusive: Kennedy's health officials explored US ban of some widely used antidepressants",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69ff145b87bf4c3caf921a696921dd13&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fkennedys-health-officials-explored-us-ban-some-widely-used-antidepressants-2026-05-08%2f&amp;c=6314162501270348019&amp;mkt=en-us",
-        "pubDate": "Fri, 08 May 2026 12:29:00 GMT",
-        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Micron surges nearly 38% on week as memory chip rally goes parabolic",
-        "link": "https://www.cnbc.com/2026/05/08/micron-surges-more-than-30percent-on-week-as-memory-chip-rally-goes-parabolic.html",
-        "pubDate": "Fri, 08 May 2026 20:57:16 GMT",
+        "title": "UK PM Starmer says he plans to remain in office despite crushing local elections defeat",
+        "link": "https://www.cnbc.com/2026/05/09/uk-pm-starmer-says-no-plans-to-quit-despite-local-elections-defeat.html",
+        "pubDate": "Sat, 09 May 2026 13:02:59 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Bank of America says stocks like Apple have plenty of upside following earnings",
+        "link": "https://www.cnbc.com/2026/05/09/bank-of-america-stocks-with-upside-after-earnings.html",
+        "pubDate": "Sat, 09 May 2026 12:38:13 GMT",
         "category": "us"
-      },
-      {
-        "title": "Dunkin&apos; owner Inspire Brands confidentially files for IPO",
-        "link": "https://www.cnbc.com/2026/05/08/dunkin-owner-inspire-brands-confidentially-files-for-ipo.html",
-        "pubDate": "Fri, 08 May 2026 20:28:13 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Anthropic&apos;s Mythos set off a cybersecurity &apos;hysteria.&apos; Experts say the threat was already here",
-        "link": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
-        "pubDate": "Fri, 08 May 2026 20:01:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Michael Burry says the market today feels like &apos;the last months of the 1999-2000 bubble&apos;",
-        "link": "https://www.cnbc.com/2026/05/08/michael-burry-says-the-market-today-feels-like-the-last-months-of-the-1999-2000-bubble.html",
-        "pubDate": "Fri, 08 May 2026 18:54:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
-        "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
-        "pubDate": "Fri, 08 May 2026 18:44:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How much further does this Teflon market have to go? Here&apos;s what traders say",
-        "link": "https://www.cnbc.com/2026/05/08/how-much-further-can-this-teflon-market-go-heres-what-traders-say.html",
-        "pubDate": "Fri, 08 May 2026 18:19:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Cloudflare, Akamai Technologies, JFrog, Trade Desk &amp; more",
-        "link": "https://www.cnbc.com/2026/05/08/stocks-making-the-biggest-moves-premarket-net-akam-frog-ttd-.html",
-        "pubDate": "Fri, 08 May 2026 16:56:11 GMT",
-        "category": "Top News"
       }
     ]
   }
