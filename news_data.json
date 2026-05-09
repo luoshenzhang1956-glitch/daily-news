@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-05-09T03:37:17.176988",
+  "updated_at": "2026-05-09T06:23:04.177596",
   "news": {
     "ap": [
       {
-        "title": "China says exports grew at faster pace in April, rising 14.1% from a year ago",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69feab9857b842cca7dfd0ff9ef57c82&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-trade-exports-growth-april-4e17ad3271e7391a27a247698cddd6f8&amp;c=11248738712439705337&amp;mkt=en-us",
-        "pubDate": "Fri, 08 May 2026 20:23:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Canvas system is online after a cyberattack disrupted thousands of schools",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69feab9a6fcc4f6e80196499c01e9751&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcanvas-cyberattack-outage-college-446c240d5aeb1b1a1e3795fb92237563&amp;c=17420365913336664074&amp;mkt=en-us",
-        "pubDate": "Fri, 08 May 2026 14:15:00 GMT",
-        "category": "tech"
+        "title": "Dozens of artists bring new life to a gigantic former ironworks on UNESCO\u2019s world heritage list",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed253aea447d58c6c461033b665ba&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgermany-ironworks-voelklingen-unesco-heritage-urban-art-93e6a615e04cc68b79f45d29b5d39ea6&amp;c=7073570586324819349&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 22:40:00 GMT",
+        "category": "world"
       },
       {
         "title": "Health officials track dozens who left hantavirus-stricken ship after first fatality",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69feaba4b1db45c381ccd5f42764c238&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhantavirus-cruise-ship-st-helena-9c70878b2ff59d187f1e34c12627cea7&amp;c=5272648323736902862&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed27739a24d38992eaccf45062c69&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhantavirus-cruise-ship-st-helena-9c70878b2ff59d187f1e34c12627cea7&amp;c=5272648323736902862&amp;mkt=en-us",
         "pubDate": "Fri, 08 May 2026 12:15:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "ABC argues Trump administration is trying to chill free speech",
+        "link": "https://www.npr.org/2026/05/09/nx-s1-5816844/abc-trump-administration-free-speech",
+        "pubDate": "Sat, 09 May 2026 00:37:43 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire",
+        "link": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire",
+        "pubDate": "Sat, 09 May 2026 00:04:26 -0400",
+        "category": "world"
+      },
       {
         "title": "Lack of U.S. response to hantavirus outbreak worries public health experts",
         "link": "https://www.npr.org/2026/05/08/nx-s1-5816041/lack-of-u-s-response-to-hantavirus-outbreak-worries-public-health-experts",
@@ -33,12 +39,6 @@
         "link": "https://www.npr.org/2026/05/08/nx-s1-5813719/why-trumps-efforts-to-force-iran-to-concede-to-u-s-demands-arent-working",
         "pubDate": "Fri, 08 May 2026 16:30:32 -0400",
         "category": "us"
-      },
-      {
-        "title": "Organizers of a canceled human rights conference in Zambia say China intervened",
-        "link": "https://www.npr.org/2026/05/08/nx-s1-5809455/organizers-of-a-canceled-human-rights-conference-in-zambia-say-china-intervened",
-        "pubDate": "Fri, 08 May 2026 16:30:29 -0400",
-        "category": "world"
       },
       {
         "title": "UFO files spanning decades are released by Defense Department",
@@ -75,27 +75,9 @@
         "link": "https://www.npr.org/2026/05/08/nx-s1-5805193/redistricting-virginia-trump-midterms",
         "pubDate": "Fri, 08 May 2026 10:36:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Prices are up, but Mother&apos;s Day still means brunch",
-        "link": "https://www.npr.org/2026/05/08/nx-s1-5813684/prices-mothers-day-brunch-restaurants-flowers",
-        "pubDate": "Fri, 08 May 2026 05:30:00 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
-      {
-        "title": "Iran accuses US of 'reckless military adventure'",
-        "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 09 May 2026 03:30:52 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Starmer under pressure as Labour suffers heavy election losses including historic Wales defeat",
-        "link": "https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 09 May 2026 01:27:14 GMT",
-        "category": "Top News"
-      },
       {
         "title": "SNP wins Scottish election as Reform and Labour tie for second",
         "link": "https://www.bbc.com/news/articles/ckgp5ryv4qno?at_medium=RSS&amp;at_campaign=rss",
@@ -106,6 +88,12 @@
         "title": "Reform election gains show shift in British politics, says Farage",
         "link": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 08 May 2026 22:34:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "No leadership pressure on Badenoch despite Tory losses",
+        "link": "https://www.bbc.com/news/articles/cnvp5rqrde3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 08 May 2026 22:26:48 GMT",
         "category": "Top News"
       },
       {
@@ -125,6 +113,12 @@
         "link": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 08 May 2026 20:54:06 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+        "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 08 May 2026 18:59:58 GMT",
+        "category": "world"
       },
       {
         "title": "US jet fuel could be used in Europe to ease possible shortages",
@@ -147,36 +141,72 @@
     ],
     "reuters": [
       {
-        "title": "FIFA to stage separate World Cup opening ceremonies in Mexico, Canada and US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69feabc0f71c4e9190f88312e0c5f552&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffifa-stage-separate-world-cup-opening-ceremonies-mexico-canada-us-2026-05-08%2f&amp;c=15330284595686794136&amp;mkt=en-us",
-        "pubDate": "Fri, 08 May 2026 18:32:00 GMT",
+        "title": "Trump's feuds, tensions with allies likely to outlast Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed27b711c4c879deb81af70b02033&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09%2f&amp;c=16300622689186875366&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 21:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Messi backs Neymar's inclusion in Brazil's World Cup squad",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed28956af409d99941906f6444ad6&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fmessi-backs-neymars-inclusion-brazils-world-cup-squad-2026-05-09%2f&amp;c=11883376085211591071&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 20:59:00 GMT",
         "category": "world"
       },
       {
-        "title": "US Senate Committee set to consider long-awaited crypto bill next week",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69feabc2b975486fa1d75061b5225022&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2fus-senate-committee-set-consider-long-awaited-crypto-bill-next-week-2026-05-09%2f&amp;c=12403960605969522257&amp;mkt=en-us",
-        "pubDate": "Fri, 08 May 2026 18:07:00 GMT",
+        "title": "Rory McIlroy: Bringing back LIV players 'good business' for PGA Tour",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed28d8f564bc7a90bd6ee15b0f16a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2frory-mcilroy-bringing-back-liv-players-good-business-pga-tour--flm-2026-05-09%2f&amp;c=6144975507334058307&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 19:47:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Tehran could withstand blockade for four months, CIA report shows, as fighting flares",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed27b711c4c879deb81af70b02033&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fuae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08%2f&amp;c=17387257201406628131&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 19:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall St Week Ahead: Data, Iran, US-China meeting in focus for scorching US stock market",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed27b711c4c879deb81af70b02033&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fwall-st-week-ahead-data-iran-us-china-meeting-focus-scorching-us-stock-market-2026-05-08%2f&amp;c=16776915089272548919&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 19:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump plans to fire US FDA chief Makary, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed28ba056443c965b25951b8d3f97&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-planning-fire-fda-chief-makary-wsj-reports-2026-05-08%2f&amp;c=18040676636727508274&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 16:28:00 GMT",
         "category": "us"
       },
       {
         "title": "S&amp;P 500 and Nasdaq notch records, boosted by AI and earnings optimism",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69feabd353bd44af8ecd9a2424d6580c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-rise-chips-rebound-ahead-jobs-data-2026-05-08%2f&amp;c=10970113063343125045&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed28f199446608fa4b0ab49bb3ba5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-rise-chips-rebound-ahead-jobs-data-2026-05-08%2f&amp;c=10970113063343125045&amp;mkt=en-us",
         "pubDate": "Fri, 08 May 2026 15:26:00 GMT",
         "category": "tech"
       },
       {
         "title": "Exclusive: Kennedy's health officials explored US ban of some widely used antidepressants",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69feabd500f34f9e8088a370eac7a2ad&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fkennedys-health-officials-explored-us-ban-some-widely-used-antidepressants-2026-05-08%2f&amp;c=6314162501270348019&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed291fee840359ff1bb8583f67b23&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fkennedys-health-officials-explored-us-ban-some-widely-used-antidepressants-2026-05-08%2f&amp;c=6314162501270348019&amp;mkt=en-us",
         "pubDate": "Fri, 08 May 2026 12:29:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "India orders antitrust probe into liquor giant Pernod's dealing with retailers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed27b711c4c879deb81af70b02033&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia-orders-antitrust-probe-into-liquor-giant-pernods-dealing-with-retailers-2026-05-08%2f&amp;c=4433820061936663931&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 09:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "After Beirut strike, Netanyahu says 'no immunity' for militants",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=69fed27b711c4c879deb81af70b02033&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fisrael-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07%2f&amp;c=9036816651558453002&amp;mkt=en-us",
+        "pubDate": "Fri, 08 May 2026 06:29:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Micron surges nearly 38% on week as memory chip rally goes parabolic",
-        "link": "https://www.cnbc.com/2026/05/08/micron-surges-more-than-30percent-on-week-as-memory-chip-rally-goes-parabolic.html",
-        "pubDate": "Fri, 08 May 2026 20:57:16 GMT",
-        "category": "us"
+        "title": "Jim Cramer says &apos;it&apos;s not to late&apos; to own AI winners powering the market",
+        "link": "https://www.cnbc.com/2026/05/08/jim-cramer-its-not-to-late-to-own-ai-winners.html",
+        "pubDate": "Fri, 08 May 2026 22:35:36 GMT",
+        "category": "tech"
       },
       {
         "title": "Anthropic&apos;s Mythos set off a cybersecurity &apos;hysteria.&apos; Experts say the threat was already here",
