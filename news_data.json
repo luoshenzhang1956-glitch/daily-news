@@ -1,37 +1,62 @@
 {
-  "updated_at": "2026-05-10T20:56:49.334224",
+  "updated_at": "2026-05-10T22:56:36.769919",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Passengers evacuated from hantavirus-stricken cruise ship begin flying home from Canary Islands",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb3a0ed4c6fbe74612dbeafab73&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4&amp;c=6213659182415892151&amp;mkt=en-us",
+        "pubDate": "Sun, 10 May 2026 14:16:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "White Sox take on the Mariners in series rubber match",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010ca321704386b2c7576a56fba7df&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchicago-white-sox-seattle-mariners-baseball-athlete-injuries-624b198cf42e44a1a37113cd46e030d1&amp;c=2254018449263395250&amp;mkt=en-us",
+        "pubDate": "Sun, 10 May 2026 01:02:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "Trump rejects Iran&apos;s latest response to U.S. ceasefire proposal",
+        "link": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
+        "pubDate": "Sun, 10 May 2026 18:18:22 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Doomscrolling too much? Try these tips to put the phone down and plug into real life",
+        "link": "https://www.npr.org/2026/05/10/nx-s1-5815327/doomscrolling-too-much-try-these-tips-to-put-the-phone-down-and-plug-into-real-life",
+        "pubDate": "Sun, 10 May 2026 17:04:58 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Arizona students show love for their teachers",
+        "link": "https://www.npr.org/2026/05/10/nx-s1-5814967/arizona-students-show-love-for-their-teachers",
+        "pubDate": "Sun, 10 May 2026 17:04:57 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Florida farmers struggle to adapt as disease and climate take toll on citrus industry",
+        "link": "https://www.npr.org/2026/05/10/nx-s1-5771748/florida-farmers-struggle-to-adapt-as-disease-and-climate-take-toll-on-citrus-industry",
+        "pubDate": "Sun, 10 May 2026 17:04:49 -0400",
+        "category": "business"
+      },
       {
         "title": "A chocolate laboratory in Italy will be good for chocolate eaters \u2014 and farmers",
         "link": "https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine",
         "pubDate": "Sun, 10 May 2026 10:07:06 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Keir Starmer&apos;s party lost big in U.K. local elections. Here&apos;s what comes next",
         "link": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green",
         "pubDate": "Sun, 10 May 2026 08:27:36 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Under the Trump administration, the State Department is seeing an exodus of diplomats",
-        "link": "https://www.npr.org/2026/05/10/nx-s1-5812663/under-the-trump-administration-the-state-department-is-seeing-an-exodus-of-diplomats",
-        "pubDate": "Sun, 10 May 2026 08:12:12 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Temple Israel rebuilds after terror attack",
         "link": "https://www.npr.org/2026/05/10/nx-s1-5810635/temple-israel-rebuilds-after-terror-attack",
         "pubDate": "Sun, 10 May 2026 08:12:10 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Looking back at Jerome Powell&apos;s 8-year term as Federal Reserve Chair",
-        "link": "https://www.npr.org/2026/05/10/nx-s1-5814105/looking-back-at-jerome-powells-8-year-term-as-federal-reserve-chair",
-        "pubDate": "Sun, 10 May 2026 08:12:07 -0400",
-        "category": "business"
       },
       {
         "title": "Happy Mother&apos;s Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid",
@@ -50,31 +75,31 @@
         "link": "https://www.npr.org/2026/05/10/nx-s1-5779279/gleevec-leukemia-cancer-treatment",
         "pubDate": "Sun, 10 May 2026 07:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Cape Verde: Tiny nation, massive World Cup dream",
-        "link": "https://www.npr.org/2026/05/10/nx-s1-5796264/cape-verde-tiny-nation-massive-world-cup-dream",
-        "pubDate": "Sun, 10 May 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar&apos;s coast",
-        "link": "https://www.npr.org/2026/05/10/nx-s1-5817437/iran-cargo-ship-hit-off-qatar",
-        "pubDate": "Sun, 10 May 2026 05:10:23 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Plane carrying virus-stricken cruise ship passengers lands in UK",
+        "title": "British passengers from hantavirus-hit cruise ship isolating in hospital, says UKHSA",
         "link": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 10 May 2026 20:46:33 GMT",
+        "pubDate": "Sun, 10 May 2026 22:21:55 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Starmer to promise bolder action as leadership threats mount",
+        "link": "https://www.bbc.com/news/articles/cjwpq1dg5q3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 10 May 2026 21:32:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What next for US passengers evacuated from hantavirus-hit cruise ship?",
+        "link": "https://www.bbc.com/news/articles/cn4pq1y1zjgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 10 May 2026 21:29:56 GMT",
+        "category": "us"
       },
       {
         "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
         "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 10 May 2026 20:27:37 GMT",
+        "pubDate": "Sun, 10 May 2026 20:57:22 GMT",
         "category": "world"
       },
       {
@@ -96,12 +121,6 @@
         "category": "health"
       },
       {
-        "title": "Rayner issues 'last chance' warning to Starmer and backs Burnham to return",
-        "link": "https://www.bbc.com/news/articles/c5yekp5j36zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 10 May 2026 18:17:14 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Man charged as three Jewish people assaulted",
         "link": "https://www.bbc.com/news/articles/c5yekjp7lzpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 10 May 2026 18:15:10 GMT",
@@ -118,73 +137,67 @@
         "link": "https://www.bbc.com/news/articles/cvgz420ee0zo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 10 May 2026 05:33:42 GMT",
         "category": "business"
-      },
-      {
-        "title": "Why Canada is seeing its biggest military recruitment surge in 30 years",
-        "link": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 09 May 2026 23:00:55 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
         "title": "Trump calls Iran's response to US peace proposal 'unacceptable'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a00f0d2d1d445e9b9af1e436a2fe487&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-iran-no-closer-ending-war-gulf-clashes-flare-2026-05-09%2f&amp;c=11437413639825447588&amp;mkt=en-us",
-        "pubDate": "Sun, 10 May 2026 12:41:00 GMT",
-        "category": "us"
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb50e8a4e62b8cdc75311ebcd62&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-iran-no-closer-ending-war-gulf-clashes-flare-2026-05-09%2f&amp;c=11437413639825447588&amp;mkt=en-us",
+        "pubDate": "Sun, 10 May 2026 14:22:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Arbeloa says Real Madrid must face fan anger after Barca seal title",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb50e8a4e62b8cdc75311ebcd62&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2farbeloa-says-real-madrid-must-face-fan-anger-after-barca-seal-title-2026-05-10%2f&amp;c=51323494561442333&amp;mkt=en-us",
+        "pubDate": "Sun, 10 May 2026 14:20:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thunder look to complete sweep of Lakers in Game 4",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb50e8a4e62b8cdc75311ebcd62&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbasketball%2fthunder-look-complete-sweep-lakers-game-4--flm-2026-05-10%2f&amp;c=8147442983976490728&amp;mkt=en-us",
+        "pubDate": "Sun, 10 May 2026 14:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil jumps as US and Iran fail to reach agreement on peace proposal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb50e8a4e62b8cdc75311ebcd62&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-jumps-us-iran-fail-reach-agreement-peace-proposal-2026-05-10%2f&amp;c=1149236917320171292&amp;mkt=en-us",
+        "pubDate": "Sun, 10 May 2026 14:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "IG Metall union criticises Thyssenkrupp plan to spin off MX unit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb50e8a4e62b8cdc75311ebcd62&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fig-metall-union-criticises-thyssenkrupp-plan-spin-off-mx-unit-2026-05-10%2f&amp;c=18410572173632857021&amp;mkt=en-us",
+        "pubDate": "Sun, 10 May 2026 14:08:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Jailed Iranian peace laureate Mohammadi moved to hospital in Tehran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a00f0cfd0d141c4b4f8165e261d333c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fjailed-iranian-peace-laureate-mohammadi-moved-hospital-tehran-2026-05-10%2f&amp;c=1870697763876541516&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb50e8a4e62b8cdc75311ebcd62&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fjailed-iranian-peace-laureate-mohammadi-moved-hospital-tehran-2026-05-10%2f&amp;c=1870697763876541516&amp;mkt=en-us",
         "pubDate": "Sun, 10 May 2026 11:24:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Relatives of Mexico's disappeared hold Mother's Day protest ahead of World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a00f0d025304686857e1a68e57ccdcd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2frelatives-mexicos-disappeared-hold-mothers-day-protest-ahead-world-cup-2026-05-10%2f&amp;c=6151381949961308126&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb50e8a4e62b8cdc75311ebcd62&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2frelatives-mexicos-disappeared-hold-mothers-day-protest-ahead-world-cup-2026-05-10%2f&amp;c=6151381949961308126&amp;mkt=en-us",
         "pubDate": "Sun, 10 May 2026 11:16:00 GMT",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Evacuation flights leave Tenerife after cruise ship virus outbreak",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a00f0e6aeef4d64916ded06e8c516df&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fcruise-ship-hit-by-hantavirus-outbreak-arrives-tenerife-2026-05-10%2f&amp;c=1551867606094878388&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb50e8a4e62b8cdc75311ebcd62&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fcruise-ship-hit-by-hantavirus-outbreak-arrives-tenerife-2026-05-10%2f&amp;c=1551867606094878388&amp;mkt=en-us",
         "pubDate": "Sun, 10 May 2026 10:35:00 GMT",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "One of repatriated French passengers from hantavirus-hit ship has symptoms, PM says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a00f0cfd0d141c4b4f8165e261d333c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fone-repatriated-french-passengers-hantavirus-hit-ship-has-symptoms-pm-says-2026-05-10%2f&amp;c=13528163485588750328&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb50e8a4e62b8cdc75311ebcd62&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fone-repatriated-french-passengers-hantavirus-hit-ship-has-symptoms-pm-says-2026-05-10%2f&amp;c=13528163485588750328&amp;mkt=en-us",
         "pubDate": "Sun, 10 May 2026 08:54:00 GMT",
         "category": "Top News"
       },
       {
         "title": "British paratroopers lead airdrop onto Tristan da Cunha for suspected hantavirus case",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a00f0cfd0d141c4b4f8165e261d333c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fbritish-paratroopers-lead-airdrop-onto-tristan-da-cunha-suspected-hantavirus-2026-05-10%2f&amp;c=917929225238641370&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a010cb50e8a4e62b8cdc75311ebcd62&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fbritish-paratroopers-lead-airdrop-onto-tristan-da-cunha-suspected-hantavirus-2026-05-10%2f&amp;c=917929225238641370&amp;mkt=en-us",
         "pubDate": "Sun, 10 May 2026 07:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wall St Week Ahead Data, Iran, US-China meeting in focus for scorching US stock market",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a00f0d7c9714446a966658236d92b8d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fwall-st-week-ahead-data-iran-us-china-meeting-focus-scorching-us-stock-market-2026-05-08%2f&amp;c=16776915089272548919&amp;mkt=en-us",
-        "pubDate": "Sun, 10 May 2026 05:00:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Two Singaporeans confirmed dead in Indonesia volcano eruption, bodies retrieved",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a00f0cfd0d141c4b4f8165e261d333c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fsearch-two-singaporeans-mount-dukono-hampered-by-eruptions-rain-2026-05-10%2f&amp;c=13061423616879567656&amp;mkt=en-us",
-        "pubDate": "Sun, 10 May 2026 04:27:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Armani could split 15% stake among L'Oreal, LVMH, EssilorLuxottica, report says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a00f0d5b3a948b89760d9e92957c584&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2farmani-could-split-15-stake-among-loreal-lvmh-essilorluxottica-report-says-2026-05-10%2f&amp;c=4235129585286008379&amp;mkt=en-us",
-        "pubDate": "Sun, 10 May 2026 02:51:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Trump's feuds, tensions with allies likely to outlast Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a00f0cfd0d141c4b4f8165e261d333c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09%2f&amp;c=16300622689186875366&amp;mkt=en-us",
-        "pubDate": "Sun, 10 May 2026 02:45:00 GMT",
         "category": "Top News"
       }
     ],
@@ -194,12 +207,6 @@
         "link": "https://www.cnbc.com/2026/05/10/netanyahu-says-iran-war-is-not-over-as-peace-deal-remains-elusive.html",
         "pubDate": "Sun, 10 May 2026 20:28:55 GMT",
         "category": "world"
-      },
-      {
-        "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle",
-        "link": "https://www.cnbc.com/2026/05/10/target.html",
-        "pubDate": "Sun, 10 May 2026 12:00:01 GMT",
-        "category": "business"
       },
       {
         "title": "Top Wall Street analysts recommend these 3 dividend stocks for stable income",
