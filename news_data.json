@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-05-11T16:37:24.568359",
+  "updated_at": "2026-05-11T19:58:54.389151",
   "news": {
     "ap": [
       {
-        "title": "Voter confusion and headaches for election officials follow hasty GOP push to redraw US House seats",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a02051fe8674df0bfa40a6babfd7780&amp;url=https%3a%2f%2fapnews.com%2farticle%2fredistricting-republicans-voting-primaries-black-voters-c12196b188922ae2c03319bcb9533431&amp;c=13695376141173967992&amp;mkt=en-us",
-        "pubDate": "Mon, 11 May 2026 09:25:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Premier League corner chaos is heading to the World Cup and FIFA believes referees will handle it",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a02051de4a04432bcdeebed27563b33&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-arsenal-corners-referees-efe047c69de25214826210035a66b966&amp;c=15461225690483655473&amp;mkt=en-us",
-        "pubDate": "Mon, 11 May 2026 08:39:00 GMT",
-        "category": "world"
-      },
-      {
         "title": "Pediatrics group issues new guidance on recess for the first time in 13 years",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a02053f1a464ac38719695b82d2c158&amp;url=https%3a%2f%2fapnews.com%2farticle%2frecess-american-academy-pediatrics-kids-schools-0dd47c0392edb58f6c6086d72433560e&amp;c=8920154244486063847&amp;mkt=en-us",
-        "pubDate": "Mon, 11 May 2026 07:55:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a02346b08a047839123456f9fed4790&amp;url=https%3a%2f%2fapnews.com%2farticle%2frecess-american-academy-pediatrics-kids-schools-0dd47c0392edb58f6c6086d72433560e&amp;c=8920154244486063847&amp;mkt=en-us",
+        "pubDate": "Mon, 11 May 2026 09:19:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
       {
+        "title": "Can Chinese AI solve inequality? + How dementia comes for your bank account",
+        "link": "https://www.npr.org/2026/05/11/g-s1-121351/can-chinese-ai-solve-inequality-how-dementia-comes-for-your-bank-account",
+        "pubDate": "Mon, 11 May 2026 14:42:50 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Trump wants to suspend the federal gas tax as prices soar amid war with Iran",
+        "link": "https://www.npr.org/2026/05/11/nx-s1-5818446/trump-gas-tax",
+        "pubDate": "Mon, 11 May 2026 12:59:38 -0400",
+        "category": "us"
+      },
+      {
         "title": "&apos;Atlanta Journal-Constitution&apos; chief steps down as bold goals yield to tough realities",
         "link": "https://www.npr.org/2026/05/11/nx-s1-5818208/ajc-andrew-morse-leaving",
         "pubDate": "Mon, 11 May 2026 11:14:23 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Trump rejects Iran&apos;s ceasefire proposal response. And, Congress to tackle ICE funding",
@@ -38,7 +38,7 @@
         "title": "Oregon&apos;s most unexpected gubernatorial candidate? A pencil with a point",
         "link": "https://www.npr.org/2026/05/11/nx-s1-5781255/oregon-reading-education-governor-pencil",
         "pubDate": "Mon, 11 May 2026 07:14:01 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "As ranks of uninsured grow, charity care can be hard to come by at many hospitals",
@@ -50,12 +50,6 @@
         "title": "Nobel laureate Narges Mohammadi transferred to a Tehran hospital, her foundation says",
         "link": "https://www.npr.org/2026/05/11/g-s1-121365/nobel-laureate-mohammadi-transferred-to-a-tehran-hospital",
         "pubDate": "Mon, 11 May 2026 05:00:52 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Marketers say NAD+ pills and infusions can boost longevity. What&apos;s the evidence?",
-        "link": "https://www.npr.org/2026/05/11/nx-s1-5813664/nad-infusions-supplements-longevity-science",
-        "pubDate": "Mon, 11 May 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
@@ -71,12 +65,6 @@
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/05/11/nx-s1-5813454/morning-news-brief",
-        "pubDate": "Mon, 11 May 2026 04:43:07 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Several states considering ban on legal personhood for AI",
         "link": "https://www.npr.org/2026/05/11/nx-s1-5798754/several-states-considering-ban-on-legal-personhood-for-ai",
         "pubDate": "Mon, 11 May 2026 04:41:17 -0400",
@@ -85,9 +73,45 @@
     ],
     "bbc": [
       {
+        "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
+        "link": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 11 May 2026 18:57:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says Iran ceasefire is on 'massive life support'",
+        "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 11 May 2026 18:17:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK alcohol deaths fall for first time since Covid pandemic",
+        "link": "https://www.bbc.com/news/articles/c3v2dxg79w2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 11 May 2026 17:52:44 GMT",
+        "category": "health"
+      },
+      {
         "title": "Analysis: Has Starmer done enough to save his premiership?",
         "link": "https://www.bbc.com/news/articles/c3r2pr95yq0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 11 May 2026 16:09:46 GMT",
+        "pubDate": "Mon, 11 May 2026 17:49:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+        "link": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 11 May 2026 17:17:25 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Pupils hopeless and crying after 'poorly worded' Higher Maths exam",
+        "link": "https://www.bbc.com/news/articles/cx21j20l9wlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 11 May 2026 16:13:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Macron interrupts speaker to tell audience to be quiet",
+        "link": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 11 May 2026 16:10:18 GMT",
         "category": "Top News"
       },
       {
@@ -95,36 +119,6 @@
         "link": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 11 May 2026 16:05:39 GMT",
         "category": "tech"
-      },
-      {
-        "title": "How are countries responding to hantavirus?",
-        "link": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 11 May 2026 15:28:28 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Wordle to become TV quiz show with Savannah Guthrie as host",
-        "link": "https://www.bbc.com/news/articles/czd2vpdr9g6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 11 May 2026 15:12:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "British passengers from cruise ship isolating in hospital",
-        "link": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 11 May 2026 14:59:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Washington dinner shooting suspect pleads not guilty",
-        "link": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 11 May 2026 14:52:12 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Washington correspondents'  dinner shooting suspect pleads not guilty",
-        "link": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 11 May 2026 14:52:12 GMT",
-        "category": "Top News"
       },
       {
         "title": "US and French nationals test positive for hantavirus after leaving ship",
@@ -137,22 +131,28 @@
         "link": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 11 May 2026 11:22:01 GMT",
         "category": "business"
+      }
+    ],
+    "reuters": [],
+    "markets": [
+      {
+        "title": "OpenAI revenue chief Dresser says enterprise AI adoption is &apos;at a tipping point&apos;",
+        "link": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
+        "pubDate": "Mon, 11 May 2026 19:24:38 GMT",
+        "category": "tech"
       },
       {
-        "title": "Martin Lewis delivers emotional speech, and nine other Bafta TV moments",
-        "link": "https://www.bbc.com/news/articles/c8e86ykkx5jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 11 May 2026 02:10:32 GMT",
-        "category": "Top News"
-      }
-    ],
-    "reuters": [
-      {
-        "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a020572ecd94ed3974415b79f39b479&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11%2f&amp;c=17895309034155446483&amp;mkt=en-us",
-        "pubDate": "Mon, 11 May 2026 05:59:00 GMT",
+        "title": "GM cutting hundreds of salaried IT workers as it trims costs, evaluates needs",
+        "link": "https://www.cnbc.com/2026/05/11/gm-layoffs.html",
+        "pubDate": "Mon, 11 May 2026 19:01:06 GMT",
         "category": "business"
+      },
+      {
+        "title": "Hantavirus cases spark brief surge in pharma and biotech stocks \u2014 here\u2019s why trading is so volatile",
+        "link": "https://www.cnbc.com/2026/05/11/hantavirus-cases-pharma-stocks-surge-moderna-novavax.html",
+        "pubDate": "Mon, 11 May 2026 16:29:52 GMT",
+        "category": "health"
       }
-    ],
-    "markets": []
+    ]
   }
 }
