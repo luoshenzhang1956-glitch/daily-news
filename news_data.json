@@ -1,75 +1,94 @@
 {
-  "updated_at": "2026-05-12T18:07:38.332602",
+  "updated_at": "2026-05-12T21:25:35.166883",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "30 days out, Los Angeles is ready for the World Cup. The playing surface? Not just yet",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a039a3c65884f1894012ede5939dc5c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-los-angeles-preparations-d83f335d303e467d7869fcf7e8bfcd16&amp;c=3148464915180070811&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 13:36:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "About 7 million kids live in a home with a loaded and unlocked gun, a study finds",
+        "link": "https://www.npr.org/2026/05/12/nx-s1-5818460/gun-safe-storage-children-suicide-homicide",
+        "pubDate": "Tue, 12 May 2026 17:18:56 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "How Americans see China now",
+        "link": "https://www.npr.org/2026/05/12/nx-s1-5761387/how-americans-see-china-now",
+        "pubDate": "Tue, 12 May 2026 17:18:16 -0400",
+        "category": "world"
+      },
+      {
+        "title": "New treatments offer hope for deadly pancreatic cancer",
+        "link": "https://www.npr.org/2026/05/12/nx-s1-5804468/new-treatments-offer-hope-for-deadly-pancreatic-cancer",
+        "pubDate": "Tue, 12 May 2026 17:14:11 -0400",
+        "category": "health"
+      },
+      {
+        "title": "The SPLC survived firebombs and death threats. Will it survive Trump 2.0?",
+        "link": "https://www.npr.org/2026/05/12/nx-s1-5797490/splc-doj-extremism-trump",
+        "pubDate": "Tue, 12 May 2026 16:29:17 -0400",
+        "category": "us"
+      },
+      {
+        "title": "FDA commissioner resigns after tumultuous tenure",
+        "link": "https://www.npr.org/2026/05/12/nx-s1-5819722/fda-commissioner-makary-resigns",
+        "pubDate": "Tue, 12 May 2026 15:35:04 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Alabama will split U.S. House primaries, after the Supreme Court&apos;s voting ruling",
+        "link": "https://www.npr.org/2026/05/12/nx-s1-5819600/alabama-congressional-redistricting-special-election",
+        "pubDate": "Tue, 12 May 2026 15:24:05 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel&apos;s government is expected to collapse over ultra-Orthodox military draft",
+        "link": "https://www.npr.org/2026/05/12/g-s1-121631/israel-military-ultra-orthodox-netanyahu-coalition",
+        "pubDate": "Tue, 12 May 2026 14:43:28 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Federal Reserve Bank of Chicago CEO on inflation and latest consumer price index",
+        "link": "https://www.npr.org/2026/05/12/nx-s1-5818504/federal-reserve-bank-of-chicago-ceo-on-inflation-and-latest-consumer-price-index",
+        "pubDate": "Tue, 12 May 2026 14:08:27 -0400",
+        "category": "business"
+      },
       {
         "title": "Transportation Secretary Duffy filmed a reality show, funded by firms he regulates",
         "link": "https://www.npr.org/2026/05/12/nx-s1-5818190/sean-duffy-road-trip-reality-show-sponsors",
         "pubDate": "Tue, 12 May 2026 12:11:38 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "She spent a year using AI to do almost everything. Here&apos;s what she learned",
         "link": "https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned",
         "pubDate": "Tue, 12 May 2026 10:58:43 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Inflation jumps to its highest level since 2023. Here are 3 things costing a lot more",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5818279/inflation-cpi-gas-prices-housing-fuel-iran-war",
-        "pubDate": "Tue, 12 May 2026 08:36:48 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Trump heads to China for state visit. And, how the war in Iran has affected inflation",
-        "link": "https://www.npr.org/2026/05/12/g-s1-121602/up-first-newsletter-trump-china-xi-jinping-inflation-mifepristone-cameron-hamilton",
-        "pubDate": "Tue, 12 May 2026 07:27:59 -0400",
-        "category": "world"
-      },
-      {
-        "title": "The economic chilling effect of Trump&apos;s immigration crackdown",
-        "link": "https://www.npr.org/sections/planet-money/2026/05/12/g-s1-121493/the-economic-chilling-effect-of-trumps-immigration-crackdown",
-        "pubDate": "Tue, 12 May 2026 06:30:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Kuwait says Iran attacked an island where China is helping to build a port",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5819174/israel-sent-iron-dome-uae",
-        "pubDate": "Tue, 12 May 2026 05:15:19 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "She&apos;s trying to outrun pancreatic cancer. Breakthrough treatments give her hope",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5783797/pancreatic-cancer-breakthroughs-daraxonrasib-mrna",
-        "pubDate": "Tue, 12 May 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "24 hours with 3 teenage birders: Welcome to the World Series of Birding",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5801539/world-series-of-birding-new-jersey",
-        "pubDate": "Tue, 12 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Drive 5 hours or fly 20 minutes? Remote towns suffer from lack of year-round flights",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5796244/aviation-rural-flights",
-        "pubDate": "Tue, 12 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The clipping economy: How short-form video &apos;clippers&apos; are overrunning\nthe internet",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5794670/influencers-creators-video-clips",
-        "pubDate": "Tue, 12 May 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Sam Altman: Elon Musk wanted control of OpenAI even after death",
+        "title": "Trump's Lincoln Memorial Reflecting Pool makeover faces a lawsuit and a $13m price tag",
+        "link": "https://www.bbc.com/news/articles/c202nj46p7wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 12 May 2026 20:49:15 GMT",
+        "category": "us"
+      },
+      {
+        "title": "All the Labour MPs who have come out against Starmer, and the ones who want him to stay",
+        "link": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 12 May 2026 19:48:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
         "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 17:57:58 GMT",
-        "category": "tech"
+        "pubDate": "Tue, 12 May 2026 18:51:56 GMT",
+        "category": "business"
       },
       {
         "title": "No sign of larger hantavirus outbreak, says UN health agency",
@@ -78,28 +97,10 @@
         "category": "world"
       },
       {
-        "title": "All the Labour MPs who have come out against Starmer, and the ones who want him to stay",
-        "link": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 17:28:37 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Read all the ministers' resignation letters in full",
         "link": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 12 May 2026 16:59:57 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-        "link": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 16:36:55 GMT",
-        "category": "us"
-      },
-      {
-        "title": "UK borrowing costs jump as uncertainty over PM's future continues",
-        "link": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 16:31:00 GMT",
-        "category": "business"
       },
       {
         "title": "The potential challengers to Keir Starmer",
@@ -120,6 +121,12 @@
         "category": "Top News"
       },
       {
+        "title": "Canvas hack: Company pays criminals to delete students' stolen data",
+        "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 12 May 2026 10:31:23 GMT",
+        "category": "tech"
+      },
+      {
         "title": "How worried should we be about hantavirus?",
         "link": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 12 May 2026 10:01:52 GMT",
@@ -127,13 +134,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Korean stocks are coming off their best week since 2008. Where the charts signal they&apos;re heading next",
-        "link": "https://www.cnbc.com/2026/05/12/korean-stocks-are-coming-off-their-best-week-since-2008-where-the-charts-signal-theyre-heading-next.html",
-        "pubDate": "Tue, 12 May 2026 17:58:41 GMT",
-        "category": "us"
-      }
-    ]
+    "markets": []
   }
 }
