@@ -1,20 +1,31 @@
 {
-  "updated_at": "2026-05-12T21:25:35.166883",
+  "updated_at": "2026-05-12T23:10:08.369183",
   "news": {
-    "ap": [
-      {
-        "title": "30 days out, Los Angeles is ready for the World Cup. The playing surface? Not just yet",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a039a3c65884f1894012ede5939dc5c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-los-angeles-preparations-d83f335d303e467d7869fcf7e8bfcd16&amp;c=3148464915180070811&amp;mkt=en-us",
-        "pubDate": "Tue, 12 May 2026 13:36:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "OpenAI&apos;s Sam Altman takes the stand to fend off Elon Musk&apos;s accusations he &apos;stole a charity&apos;",
+        "link": "https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-elon-musk-trial",
+        "pubDate": "Tue, 12 May 2026 17:58:07 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Omaha&apos;s U.S. House race will test candidates&apos; ability to reach beyond party lines",
+        "link": "https://www.npr.org/2026/05/12/nx-s1-5815289/omaha-and-centrist-politics",
+        "pubDate": "Tue, 12 May 2026 17:35:49 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Farmers want firm trade deal from Trump&apos;s China visit",
+        "link": "https://www.npr.org/2026/05/12/nx-s1-5812725/farmers-want-firm-trade-deal-from-trumps-china-visit",
+        "pubDate": "Tue, 12 May 2026 17:32:05 -0400",
+        "category": "business"
+      },
       {
         "title": "About 7 million kids live in a home with a loaded and unlocked gun, a study finds",
         "link": "https://www.npr.org/2026/05/12/nx-s1-5818460/gun-safe-storage-children-suicide-homicide",
         "pubDate": "Tue, 12 May 2026 17:18:56 -0400",
-        "category": "Top News"
+        "category": "health"
       },
       {
         "title": "How Americans see China now",
@@ -23,16 +34,10 @@
         "category": "world"
       },
       {
-        "title": "New treatments offer hope for deadly pancreatic cancer",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5804468/new-treatments-offer-hope-for-deadly-pancreatic-cancer",
-        "pubDate": "Tue, 12 May 2026 17:14:11 -0400",
-        "category": "health"
-      },
-      {
         "title": "The SPLC survived firebombs and death threats. Will it survive Trump 2.0?",
         "link": "https://www.npr.org/2026/05/12/nx-s1-5797490/splc-doj-extremism-trump",
         "pubDate": "Tue, 12 May 2026 16:29:17 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "FDA commissioner resigns after tumultuous tenure",
@@ -41,7 +46,7 @@
         "category": "Top News"
       },
       {
-        "title": "Alabama will split U.S. House primaries, after the Supreme Court&apos;s voting ruling",
+        "title": "Alabama splits U.S. House primaries after court ruling; SC redistricting stalls",
         "link": "https://www.npr.org/2026/05/12/nx-s1-5819600/alabama-congressional-redistricting-special-election",
         "pubDate": "Tue, 12 May 2026 15:24:05 -0400",
         "category": "Top News"
@@ -53,18 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Federal Reserve Bank of Chicago CEO on inflation and latest consumer price index",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5818504/federal-reserve-bank-of-chicago-ceo-on-inflation-and-latest-consumer-price-index",
-        "pubDate": "Tue, 12 May 2026 14:08:27 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Transportation Secretary Duffy filmed a reality show, funded by firms he regulates",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5818190/sean-duffy-road-trip-reality-show-sponsors",
-        "pubDate": "Tue, 12 May 2026 12:11:38 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "She spent a year using AI to do almost everything. Here&apos;s what she learned",
         "link": "https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned",
         "pubDate": "Tue, 12 May 2026 10:58:43 -0400",
@@ -73,10 +66,28 @@
     ],
     "bbc": [
       {
-        "title": "Trump's Lincoln Memorial Reflecting Pool makeover faces a lawsuit and a $13m price tag",
+        "title": "Daily pill to help keep weight off after stopping obesity jabs",
+        "link": "https://www.bbc.com/news/articles/cwy2e9wlvjxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 12 May 2026 23:06:23 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Lawsuit seeks to halt Trump's $13m makeover of Lincoln Memorial Reflecting Pool",
         "link": "https://www.bbc.com/news/articles/c202nj46p7wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 20:49:15 GMT",
+        "pubDate": "Tue, 12 May 2026 22:12:19 GMT",
         "category": "us"
+      },
+      {
+        "title": "Watch: Resignations, drama and defiance at Downing Street",
+        "link": "https://www.bbc.com/news/videos/cjwpnx80646o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 12 May 2026 22:07:35 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Starmer to meet Streeting on Wednesday as leadership crisis divides Labour",
+        "link": "https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 12 May 2026 22:00:51 GMT",
+        "category": "Top News"
       },
       {
         "title": "All the Labour MPs who have come out against Starmer, and the ones who want him to stay",
@@ -109,31 +120,68 @@
         "category": "Top News"
       },
       {
-        "title": "Watch: Reporters shout questions at ministers leaving No 10",
-        "link": "https://www.bbc.com/news/videos/cn8p175l7v2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 14:21:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Crisis in Great Britain!' How global media is reporting Starmer's fight for survival",
-        "link": "https://www.bbc.com/news/articles/crkp67pdy81o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 14:20:07 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Canvas hack: Company pays criminals to delete students' stolen data",
         "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 12 May 2026 10:31:23 GMT",
         "category": "tech"
-      },
-      {
-        "title": "How worried should we be about hantavirus?",
-        "link": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 10:01:52 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Streak of seconds follows Scottie Scheffler as he pursues another first",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03b2afce2048a6ac9cd2a37b95c947&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2fstreak-seconds-follows-scottie-scheffler-he-pursues-another-first--flm-2026-05-12%2f&amp;c=1348252879207671510&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 14:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Disallowing West Ham equaliser against Arsenal was right, says referees chief",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03b2afce2048a6ac9cd2a37b95c947&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fdisallowing-west-ham-equaliser-against-arsenal-was-right-says-referees-chief-2026-05-12%2f&amp;c=2765923995110909593&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 13:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ismaily relegated from Egyptian Premier League for first time in nearly 70 years",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03b2afce2048a6ac9cd2a37b95c947&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fismaily-relegated-egyptian-premier-league-first-time-nearly-70-years-2026-05-12%2f&amp;c=1101337342272834953&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 13:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Starmer vows to carry on governing ahead of grand parliamentary ceremony",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03b2afce2048a6ac9cd2a37b95c947&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fstarmer-vows-carry-governing-ahead-grand-parliamentary-ceremony-2026-05-12%2f&amp;c=15439485609487739228&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 13:34:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says he doesn't need China's help to end Iran war, Tehran tightens grip on Hormuz",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03b2afce2048a6ac9cd2a37b95c947&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fpeace-deal-hopes-fade-after-trump-rejects-garbage-iran-proposal-2026-05-12%2f&amp;c=936670170966524297&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 12:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US war in Iran has cost $29 billion so far, Pentagon says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03b2afce2048a6ac9cd2a37b95c947&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-war-iran-has-cost-29-billion-pentagon-says-2026-05-12%2f&amp;c=7915010398096455326&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 12:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US CEOs seek China business gains from Trump-Xi summit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03b2afce2048a6ac9cd2a37b95c947&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fus-ceos-seek-china-business-gains-trump-xi-summit-2026-05-12%2f&amp;c=9143796409434269651&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 10:28:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US state governor pushes for grid reforms as power bills swell",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03b2afce2048a6ac9cd2a37b95c947&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-state-governor-pushes-grid-reforms-power-bills-swell-2026-05-11%2f&amp;c=6338812285065795204&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 08:23:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Democrats call on Republican lawmaker to resign for agreeing with 'cotton-picking' remark",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03b2afce2048a6ac9cd2a37b95c947&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fdemocrats-say-republican-lawmaker-must-resign-agreeing-with-cotton-picking-2026-05-12%2f&amp;c=8869653747586063665&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 08:05:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "markets": []
   }
 }
