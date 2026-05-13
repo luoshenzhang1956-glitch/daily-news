@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-05-13T03:56:52.048544",
+  "updated_at": "2026-05-13T06:53:30.540275",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Soaring inflation and plummeting economy test Iran\u2019s ability to withstand war and US blockade",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041f85163a4ec6be4af8e7c1717d2d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-blockade-iran-war-inflation-80d0a5ca469d61c2e2e76d42c556a6de&amp;c=10475839699294762663&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 21:09:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Asian shares trade mixed as AI excitement fades and war worries continue",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041f99063249b0962919c355daec01&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-market-trump-ai-oil-war-3005fd174ae0aa30091936fef632d0d2&amp;c=12087445376627797002&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 19:53:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "Kids&apos; test scores began declining way before COVID. These schools are making gains",
+        "link": "https://www.npr.org/2026/05/13/nx-s1-5812483/reading-math-scores-data",
+        "pubDate": "Wed, 13 May 2026 00:01:00 -0400",
+        "category": "us"
+      },
       {
         "title": "Former private prison official to serve as acting ICE chief",
         "link": "https://www.npr.org/2026/05/12/g-s1-121766/ice-acting-director-venturella",
@@ -13,7 +32,7 @@
         "title": "Jason Collins, NBA&apos;s first openly gay player, dies at 47 of brain tumor",
         "link": "https://www.npr.org/2026/05/12/g-s1-121763/jason-collins-nba-dies",
         "pubDate": "Tue, 12 May 2026 20:17:45 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "OpenAI&apos;s Sam Altman takes the stand to fend off Elon Musk&apos;s accusations he &apos;stole a charity&apos;",
@@ -22,7 +41,7 @@
         "category": "business"
       },
       {
-        "title": "Omaha&apos;s U.S. House race will test candidates&apos; ability to reach beyond party lines",
+        "title": "Omaha&apos;s U.S. House race tests candidates&apos; ability to reach beyond party lines",
         "link": "https://www.npr.org/2026/05/12/nx-s1-5815289/omaha-and-centrist-politics",
         "pubDate": "Tue, 12 May 2026 17:35:49 -0400",
         "category": "Top News"
@@ -52,12 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "Alabama splits U.S. House primaries after court ruling; S.C. redistricting stalls",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5819600/alabama-congressional-redistricting-special-election",
-        "pubDate": "Tue, 12 May 2026 15:24:05 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "She spent a year using AI to do almost everything. Here&apos;s what she learned",
         "link": "https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned",
         "pubDate": "Tue, 12 May 2026 10:58:43 -0400",
@@ -65,6 +78,18 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Patients of retired dentist warned of bloodborne viruses, including HIV",
+        "link": "https://www.bbc.com/news/articles/cvgzegw72jlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 06:17:55 GMT",
+        "category": "health"
+      },
+      {
+        "title": "More than 70 million warnings sent to people seeking child abuse material",
+        "link": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 06:04:14 GMT",
+        "category": "tech"
+      },
       {
         "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
         "link": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&amp;at_campaign=rss",
@@ -84,12 +109,6 @@
         "category": "Top News"
       },
       {
-        "title": "Daily pill to help keep weight off after stopping obesity jabs",
-        "link": "https://www.bbc.com/news/articles/cwy2e9wlvjxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 23:06:23 GMT",
-        "category": "health"
-      },
-      {
         "title": "A decade on, Trump returns to a stronger and more assertive China",
         "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 12 May 2026 22:07:51 GMT",
@@ -102,13 +121,7 @@
         "category": "Top News"
       },
       {
-        "title": "Starmer to meet Streeting as leadership crisis divides Labour",
-        "link": "https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 22:00:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Starmer prepares for King's Speech as he faces leadership crisis",
+        "title": "PM prepares for King's Speech as he faces leadership crisis",
         "link": "https://www.bbc.com/news/articles/c4gvd81681qo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 12 May 2026 21:31:21 GMT",
         "category": "Top News"
@@ -120,81 +133,74 @@
         "category": "business"
       },
       {
-        "title": "Canvas hack: Company pays criminals to delete students' stolen data",
-        "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 12 May 2026 10:31:23 GMT",
-        "category": "tech"
+        "title": "Read all the ministers' resignation letters in full",
+        "link": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 12 May 2026 16:59:57 GMT",
+        "category": "Top News"
       }
     ],
     "reuters": [
       {
+        "title": "Magic Johnson urges fans to make Los Angeles their World Cup destination",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041faf599f47aebba9da5ce0aaed2d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fmagic-johnson-urges-fans-make-los-angeles-their-world-cup-destination-2026-05-12%2f&amp;c=16627386465907050669&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 22:18:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "South Korea weighs phased Hormuz role after US talks, minister says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041fae42ce41fab459af119c4eb3fc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fsouth-korea-weighs-phased-role-hormuz-mission-after-us-talks-defense-minister-2026-05-12%2f&amp;c=5262810760232865032&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 22:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Activist Converium pushes UK's CVS to improve performance, FT reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041fae42ce41fab459af119c4eb3fc&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsustainable-finance-reporting%2factivist-converium-pushes-uks-cvs-improve-performance-ft-reports-2026-05-13%2f&amp;c=3506551880279045028&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 21:52:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran executes man accused of spying for Israel, Mizan reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041fae42ce41fab459af119c4eb3fc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-executes-man-accused-spying-israel-mizan-reports-2026-05-13%2f&amp;c=10929081313896438976&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 21:07:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Tech News | Today's Latest Technology News | Reuters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03f65f0cd64bafbc88b0d3749bfb1c&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2f&amp;c=13296990875116105649&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041fb3f87b4ddba52b9e126e61ed11&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2f&amp;c=13296990875116105649&amp;mkt=en-us",
         "pubDate": "Tue, 12 May 2026 17:26:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Africa CDC and Aspen Pharmacare aim to boost vaccine output in Africa",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a03f66074034dd2a559f52c6cd30a28&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fafrica-cdc-aspen-talks-long-term-vaccine-supply-boost-local-manufacturing-2026-05-12%2f&amp;c=14916436725330777546&amp;mkt=en-us",
-        "pubDate": "Tue, 12 May 2026 04:26:00 GMT",
-        "category": "health"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Jensen Huang joins Trump&apos;s China trip after the U.S. president called the Nvidia CEO",
-        "link": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
-        "pubDate": "Wed, 13 May 2026 03:53:56 GMT",
+        "title": "Exclusive: Indian banks resume bullion imports after month-long halt over 3% levy, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041fae42ce41fab459af119c4eb3fc&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fboards-policy-regulation%2findian-banks-resume-bullion-imports-after-month-long-halt-over-3-levy-sources-2026-05-12%2f&amp;c=718456722128899426&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 12:58:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Samsung Electronics recovers $66 billion intraday wipeout after Seoul steps in to calm strike fears",
-        "link": "https://www.cnbc.com/2026/05/13/samsung-electronics-pares-66-billion-rout-as-seoul-moves-to-calm-strike-fears-involving-41000-workers.html",
-        "pubDate": "Wed, 13 May 2026 03:19:05 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "For Chinese exporters, Iran worries eclipse tariff woes as Trump, Xi prepare to meet",
-        "link": "https://www.cnbc.com/2026/05/13/trump-xi-summit-china-iran-war-tariffs.html",
-        "pubDate": "Wed, 13 May 2026 01:14:04 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/05/12/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Tue, 12 May 2026 22:34:30 GMT",
+        "title": "US tariff refunds start rolling out as Oshkosh, Basic Fun report receiving payments",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041fb0df984ebab11b440dfbdf2bf0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-tariff-refunds-start-rolling-out-oshkosh-basic-fun-report-receiving-payments-2026-05-12%2f&amp;c=16998372095012021704&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 12:50:00 GMT",
         "category": "us"
       },
       {
-        "title": "Marty Makary resigns as FDA commissioner following industry and White House backlash",
-        "link": "https://www.cnbc.com/2026/05/12/trump-fda-commissioner-marty-makary-out.html",
-        "pubDate": "Tue, 12 May 2026 20:04:29 GMT",
+        "title": "Explainer: What is in the US Senate's landmark crypto bill?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041fae42ce41fab459af119c4eb3fc&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fwhat-is-us-senates-landmark-crypto-bill-2026-05-12%2f&amp;c=5432678725357250375&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 12:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Gold dips as oil gains add to rate uncertainty",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041fae42ce41fab459af119c4eb3fc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fgold-rises-with-uschina-talks-mideast-conflict-focus-2026-05-12%2f&amp;c=5385387397867749130&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 10:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Leidos receives $2.7 billion hypersonic weapons contract",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a041fb241264cc78fe8ce7b519368b5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fleidos-receives-27-billion-hypersonic-weapons-contract-2026-05-12%2f&amp;c=5289700104880808709&amp;mkt=en-us",
+        "pubDate": "Tue, 12 May 2026 09:08:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "Traders believe inflation could near 5% this year",
-        "link": "https://www.cnbc.com/2026/05/12/traders-believe-inflation-could-near-5percent-this-year.html",
-        "pubDate": "Tue, 12 May 2026 19:57:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Greenlight\u2019s David Einhorn pitches five turnaround stocks at Sohn, from AI to infrastructure",
-        "link": "https://www.cnbc.com/2026/05/12/greenlights-david-einhorn-pitches-five-turnaround-stocks-at-sohn-from-ai-to-infrastructure.html",
-        "pubDate": "Tue, 12 May 2026 19:50:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Wendy&apos;s, Vestis, Cleanspark, Under Armour &amp; more",
-        "link": "https://www.cnbc.com/2026/05/12/stocks-making-the-biggest-moves-midday-wen-vsts-clsk-uaa.html",
-        "pubDate": "Tue, 12 May 2026 18:48:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn&apos;t one of them",
-        "link": "https://www.cnbc.com/2026/05/12/nvidia-ceo-huang-trump-china-trip-chip-sales.html",
-        "pubDate": "Tue, 12 May 2026 11:46:25 GMT",
-        "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
