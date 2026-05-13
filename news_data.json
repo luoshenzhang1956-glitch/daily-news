@@ -1,18 +1,12 @@
 {
-  "updated_at": "2026-05-13T21:40:59.827765",
+  "updated_at": "2026-05-13T23:13:33.356350",
   "news": {
     "ap": [
       {
-        "title": "Tech carries Wall Street to records, even as most stocks fall after discouraging inflation data",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a04efb0752e4d068a4a814d3cdf70db&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-market-trump-ai-oil-war-3005fd174ae0aa30091936fef632d0d2&amp;c=12087445376627797002&amp;mkt=en-us",
-        "pubDate": "Wed, 13 May 2026 13:58:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "FDA chief\u2019s resignation widens a leadership gap at the nation\u2019s health department",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a04efb1ccda4df99e6deb591fd74757&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmakary-fda-cdc-hhs-rfk-leadership-health-231e18e04e7b5a35395742390ca4b66a&amp;c=18416642649613151616&amp;mkt=en-us",
-        "pubDate": "Wed, 13 May 2026 10:35:00 GMT",
-        "category": "health"
+        "title": "Ex-Brooklyn judge accused of swindling real estate investors out of millions of dollars",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0504e132fe4249801a9ff3aecdeeeb&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjudge-real-estate-scam-arrest-brooklyn-7d590d695fadfe912dcbfa3ecdb8c155&amp;c=8360896567521460338&amp;mkt=en-us",
+        "pubDate": "Wed, 13 May 2026 15:41:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
@@ -65,24 +59,36 @@
         "category": "Top News"
       },
       {
+        "title": "Putin hails Russia&apos;s test launch of a new ballistic missile",
+        "link": "https://www.npr.org/2026/05/13/g-s1-121801/russias-new-ballistic-missile",
+        "pubDate": "Wed, 13 May 2026 06:20:42 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "French hantavirus patient is critically ill as outbreak grows to 11",
         "link": "https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill",
         "pubDate": "Wed, 13 May 2026 03:31:20 -0400",
         "category": "health"
-      },
-      {
-        "title": "OpenAI&apos;s Sam Altman takes the stand to fend off Elon Musk&apos;s accusations he &apos;stole a charity&apos;",
-        "link": "https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-elon-musk-trial",
-        "pubDate": "Tue, 12 May 2026 17:58:07 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "Trump's Fed chair pick Kevin Warsh confirmed by US Senate",
-        "link": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 20:15:33 GMT",
+        "title": "Why big tech is betting on cute mascots",
+        "link": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 23:08:37 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Higher Europe air fares 'inevitable', says industry head",
+        "link": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 23:03:15 GMT",
         "category": "business"
+      },
+      {
+        "title": "Starmer warns leadership contest would 'plunge us into chaos' in pleas to ministers and MPs",
+        "link": "https://www.bbc.com/news/articles/cvgzv4eqdrno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 21:39:37 GMT",
+        "category": "Top News"
       },
       {
         "title": "Egg sandwiches and isolation - Life in US hantavirus quarantine",
@@ -121,57 +127,14 @@
         "category": "world"
       },
       {
-        "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
-        "link": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 14:40:20 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Watch: What next after the King's Speech?",
-        "link": "https://www.bbc.com/news/videos/crepv72x5xqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 14:40:11 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Posh sandwich has more salt than nearly five cheeseburgers",
         "link": "https://www.bbc.com/news/articles/c4g4l54g2ppo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 13 May 2026 10:57:35 GMT",
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Dutch to take extra time before finalising World Cup squad",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a04efb4913f46a08bfb034979ae7a98&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fdutch-take-extra-time-before-finalising-world-cup-squad-2026-05-13%2f&amp;c=17506878431526825532&amp;mkt=en-us",
-        "pubDate": "Wed, 13 May 2026 13:06:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "US freezes Medicare enrollments for new home healthcare and hospice providers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a04efb54e0d411e83e056ee2a6433f7&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-halting-medicare-enrollments-new-home-healthcare-hospice-providers-2026-05-13%2f&amp;c=8395875100953034573&amp;mkt=en-us",
-        "pubDate": "Wed, 13 May 2026 12:35:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Easing medical costs a positive for health insurers, but real test lies ahead, analysts say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a04efcaa9b545eebd1fb489f3c1bfef&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2feasing-medical-costs-positive-health-insurers-real-test-lies-ahead-analysts-say-2026-05-13%2f&amp;c=765911333791736697&amp;mkt=en-us",
-        "pubDate": "Wed, 13 May 2026 12:25:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "TSX slips as technology, gold stocks drag",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a04efc7e22a4c89980f244167859abb&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftsx-futures-tick-lower-investors-eye-middle-east-tensions-trump-xi-talks-2026-05-13%2f&amp;c=15049956407313672205&amp;mkt=en-us",
-        "pubDate": "Wed, 13 May 2026 07:12:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
-      {
-        "title": "Allegiant CEO makes case for low-cost airline model as Sun Country acquisition closes",
-        "link": "https://www.cnbc.com/2026/05/13/allegiant-sun-country-acquisition-ceo.html",
-        "pubDate": "Wed, 13 May 2026 20:59:42 GMT",
-        "category": "business"
-      },
       {
         "title": "Bulls bet big on these three China-related stock trades during Trump visit",
         "link": "https://www.cnbc.com/2026/05/13/bulls-bet-big-on-these-three-china-related-stock-trades-during-trump-visit.html",
