@@ -1,32 +1,44 @@
 {
-  "updated_at": "2026-05-13T10:38:48.400612",
+  "updated_at": "2026-05-13T14:50:33.170539",
   "news": {
     "ap": [
       {
-        "title": "US grocery prices rose in April, but gas spikes weren\u2019t the only reason",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0454027aeb42aabd2736b5c620677c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fconsumer-prices-food-groceries-war-fuel-f5e442ef60858c96a2fc4b4ee9e18780&amp;c=13911734489319228119&amp;mkt=en-us",
-        "pubDate": "Wed, 13 May 2026 02:20:00 GMT",
-        "category": "us"
+        "title": "Trump administration freezes new Medicare enrollments for hospice and home health agencies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a048f297d2c42bdb070457945befcee&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmedicare-fraud-trump-vance-oz-health-hospice-534297fffb47e31e2a3906273f20e0b5&amp;c=14948822725454026634&amp;mkt=en-us",
+        "pubDate": "Wed, 13 May 2026 07:42:00 GMT",
+        "category": "health"
       },
       {
-        "title": "Japan\u2019s SoftBank racks up huge profit gains with lift from lucrative AI investments",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a045406176148f68310f71a044d5c73&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftechnology-japan-ai-earnings-investments-softbank-9cd118bf3407dfafce40027252b0dd0b&amp;c=14344193971401011430&amp;mkt=en-us",
-        "pubDate": "Wed, 13 May 2026 01:22:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "OpenAI chief Sam Altman makes a high-stakes appearance in his court bout with Elon Musk",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a045404c2cb42fe9e7fd531ddef6328&amp;url=https%3a%2f%2fapnews.com%2farticle%2faltman-musk-openai-trial-7648a50c3981dcc464324d1835b77f93&amp;c=1464410435442521122&amp;mkt=en-us",
-        "pubDate": "Tue, 12 May 2026 15:01:00 GMT",
-        "category": "business"
+        "title": "Cura&#231;ao rehires Dick Advocaat as coach for the World Cup three months after he resigned",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a048ef7cd24439db451a9472550fe2d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuracao-coach-advocaat-world-cup-132a2056d91f7e735a51457ae4a29dee&amp;c=14252153233868551162&amp;mkt=en-us",
+        "pubDate": "Wed, 13 May 2026 02:58:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
       {
+        "title": "Alex Murdaugh will get a new murder trial. Here&apos;s a timeline of his case",
+        "link": "https://www.npr.org/2026/05/13/nx-s1-5719271/alex-murdaugh-murder-timeline-trial",
+        "pubDate": "Wed, 13 May 2026 10:27:21 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Gunfire breaks out in Philippine Senate as police try to arrest senator",
+        "link": "https://www.npr.org/2026/05/13/g-s1-121827/gunfire-breaks-out-in-philippine-senate-as-police-try-to-arrest-senator",
+        "pubDate": "Wed, 13 May 2026 09:47:28 -0400",
+        "category": "world"
+      },
+      {
+        "title": "War in Iran costs $29 billion so far. And, students are finally improving in math",
+        "link": "https://www.npr.org/2026/05/13/g-s1-121812/up-first-newsletter-war-iran-marty-makary-student-education-scorecard-trump-pardons",
+        "pubDate": "Wed, 13 May 2026 07:03:01 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Putin hails Russia&apos;s test launch of a new ballistic missile",
         "link": "https://www.npr.org/2026/05/13/g-s1-121801/russias-new-ballistic-missile",
         "pubDate": "Wed, 13 May 2026 06:20:42 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Japanese snack packages turning black-and-white as Iran war depletes ink supply",
@@ -38,10 +50,10 @@
         "title": "Some Minneapolis donors have moved on. The immigrants waiting for help haven&apos;t",
         "link": "https://www.npr.org/2026/05/13/nx-s1-5813701/minneapolis-donors-moved-on-immigrants-waiting-for-help-havent",
         "pubDate": "Wed, 13 May 2026 06:10:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
-        "title": "Staying strong, then falling apart: How a military family grapples with the Iran war",
+        "title": "An intimate look at one military family&apos;s life on pause as the Iran war continues",
         "link": "https://www.npr.org/2026/05/13/nx-s1-5818466/iran-war-family-military",
         "pubDate": "Wed, 13 May 2026 05:01:00 -0400",
         "category": "Top News"
@@ -53,28 +65,10 @@
         "category": "business"
       },
       {
-        "title": "How the Trump administration has undermined the fight against public corruption",
-        "link": "https://www.npr.org/2026/05/13/g-s1-121485/trump-pardons-public-corruption-justice",
-        "pubDate": "Wed, 13 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Is the U.S. slipping into &apos;Competitive Authoritarianism?&apos;",
-        "link": "https://www.npr.org/2026/05/13/nx-s1-5816313/word-of-week-competitive-authoritarianism",
-        "pubDate": "Wed, 13 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "French hantavirus patient is critically ill as outbreak grows to 11",
         "link": "https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill",
         "pubDate": "Wed, 13 May 2026 03:31:20 -0400",
         "category": "health"
-      },
-      {
-        "title": "$4.8M settlement reached over Louisiana traffic stop death, AP sources say",
-        "link": "https://www.npr.org/2026/05/13/g-s1-121782/settlement-louisiana-death",
-        "pubDate": "Wed, 13 May 2026 03:09:41 -0400",
-        "category": "Top News"
       },
       {
         "title": "OpenAI&apos;s Sam Altman takes the stand to fend off Elon Musk&apos;s accusations he &apos;stole a charity&apos;",
@@ -85,73 +79,73 @@
     ],
     "bbc": [
       {
-        "title": "Chris Mason: Why a quick meeting is overshadowing the King's Speech",
-        "link": "https://www.bbc.com/news/articles/cn7p2yl8j73o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 10:21:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Starmer must go before next election, say Labour-backing unions",
-        "link": "https://www.bbc.com/news/articles/crrp252prwdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 09:56:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How are countries responding to hantavirus?",
-        "link": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 08:36:54 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Watch: Wes Streeting leaves No 10 - minutes after arrival",
-        "link": "https://www.bbc.com/news/videos/c7v9l6dm43do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 08:05:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "More than 70 million warnings sent to people seeking child abuse material",
-        "link": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 06:04:14 GMT",
+        "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
+        "link": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 14:40:20 GMT",
         "category": "tech"
       },
       {
-        "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
-        "link": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 05:01:07 GMT",
+        "title": "Watch: What next after the King's Speech?",
+        "link": "https://www.bbc.com/news/videos/crepv72x5xqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 14:40:11 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "From tourist tax to digital ID: BBC correspondents on the key bills in the King's Speech",
+        "link": "https://www.bbc.com/news/articles/c1j2nr8kgk3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 14:04:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+        "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 13:51:13 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Epstein abused me while under house arrest, survivor tells US lawmakers",
+        "link": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 13:46:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Standards watchdog launches probe into \u00a35m Farage gift",
+        "link": "https://www.bbc.com/news/articles/c0l26g01703o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 13:32:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tui sees summer sales fall 10% due to cautious UK customers",
+        "link": "https://www.bbc.com/news/articles/ce8p31ngv90o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 11:28:03 GMT",
         "category": "business"
       },
       {
-        "title": "Alex's mum abducted him as a boy. Now he's ready to talk to her again",
-        "link": "https://www.bbc.com/news/articles/cjepwven131o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 05:00:04 GMT",
+        "title": "The key measures in the King's Speech",
+        "link": "https://www.bbc.com/news/articles/clypj215wgpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 11:13:34 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
-        "link": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 01:59:53 GMT",
-        "category": "us"
-      },
-      {
-        "title": "The potential challengers to Keir Starmer",
-        "link": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 01:31:58 GMT",
-        "category": "Top News"
+        "title": "Posh sandwich has more salt than nearly five cheeseburgers",
+        "link": "https://www.bbc.com/news/articles/c4g4l54g2ppo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 10:57:35 GMT",
+        "category": "health"
       },
       {
         "title": "A decade on, Trump returns to a stronger and more assertive China",
         "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 12 May 2026 22:07:51 GMT",
-        "category": "world"
+        "category": "us"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "Marty Makary resigns as FDA commissioner following industry and White House backlash",
-        "link": "https://www.cnbc.com/2026/05/12/trump-fda-commissioner-marty-makary-out.html",
-        "pubDate": "Tue, 12 May 2026 20:04:29 GMT",
-        "category": "health"
+        "title": "Hyperscalers&apos; AI buildout will require massive amounts of energy. Two under-the-radar stocks will benefit",
+        "link": "https://www.cnbc.com/2026/05/13/hyperscalers-ai-buildout-will-require-massive-amounts-of-energy-two-under-the-radar-stocks-will-benefit.html",
+        "pubDate": "Wed, 13 May 2026 12:50:10 GMT",
+        "category": "us"
       }
     ]
   }
