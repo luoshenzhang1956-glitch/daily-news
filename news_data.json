@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-05-14T17:59:51.254240",
+  "updated_at": "2026-05-14T20:01:14.559339",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Small cities in big Texas metro areas lead as the fastest growing municipalities in the US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a060d0c818c41bf8c2047e1829f9249&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcities-census-bureau-texas-florida-growth-bef1238aa5f27fef8ff7911dfe420a5f&amp;c=3935222911230449072&amp;mkt=en-us",
-        "pubDate": "Thu, 14 May 2026 09:02:00 GMT",
+        "title": "Jury orders Boeing to pay $49.5 million to family of 737 MAX crash victim",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5822441/jury-award-737-max-crash-ethiopian-airlines",
+        "pubDate": "Thu, 14 May 2026 14:10:59 -0400",
         "category": "us"
       },
       {
-        "title": "In an era when workers are returning to offices, here\u2019s how Dropbox is making remote jobs work",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a060d1f7a224a28919e21252b05d62e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fremote-work-virtual-office-a90bba3ecff9548a92efa10e3d061c38&amp;c=12501106971159797797&amp;mkt=en-us",
-        "pubDate": "Thu, 14 May 2026 07:38:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "The world\u2019s reaction to hantavirus is tinged by echoes of something else: COVID",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a060d08d2e04efe935bf98d92747377&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhantavirus-covid19-coronavirus-pandemic-trust-worry-0caba20db004446dd45ecda3a24e6cc0&amp;c=32119922545631571&amp;mkt=en-us",
-        "pubDate": "Thu, 14 May 2026 07:10:00 GMT",
+        "title": "As Trump meets with Xi, security expert says China now faces the U.S. as a peer",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5821644/as-trump-meets-with-xi-security-expert-says-china-now-faces-the-u-s-as-a-peer",
+        "pubDate": "Thu, 14 May 2026 13:58:20 -0400",
         "category": "world"
-      }
-    ],
-    "npr": [
+      },
       {
         "title": "Researchers unearth Southeast Asia&apos;s largest dinosaur",
         "link": "https://www.npr.org/2026/05/14/nx-s1-5819740/dinosaur-thailand-sauropod-giant-asia-paleontology",
@@ -32,13 +25,13 @@
         "title": "A Philippine senator wanted by the International Criminal Court flees from Senate",
         "link": "https://www.npr.org/2026/05/14/g-s1-122021/philippines-senator-escape-wanted-icc",
         "pubDate": "Thu, 14 May 2026 09:29:47 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "An LA-area mayor acted as an agent for China. Experts say it&apos;s part of a pattern",
         "link": "https://www.npr.org/2026/05/14/nx-s1-5819933/china-trump-trip-la-agent-mayor-arcardia",
         "pubDate": "Thu, 14 May 2026 08:06:17 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Trump tries to make deals in China. And, Senate confirms Kevin Warsh as Fed leader",
@@ -69,23 +62,11 @@
         "link": "https://www.npr.org/2026/05/14/nx-s1-5688946/school-lunches-dietary-guidelines-maha",
         "pubDate": "Thu, 14 May 2026 05:00:00 -0400",
         "category": "business"
-      },
-      {
-        "title": "Ex-DOJ official goes public with blistering criticism of his former bosses",
-        "link": "https://www.npr.org/2026/05/14/nx-s1-5802959/doj-trump-doj-todd-blanche-jan-6-capitol-riot",
-        "pubDate": "Thu, 14 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Thrown-out ballots and map confusion: Voters are losing the redistricting battle",
-        "link": "https://www.npr.org/2026/05/14/nx-s1-5818507/redistricting-voters-louisiana-alabama-virginia",
-        "pubDate": "Thu, 14 May 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Four key excerpts from Streeting's resignation letter",
+        "title": "Key excerpts from Streeting's resignation letter as he quits as health secretary",
         "link": "https://www.bbc.com/news/articles/c626wvqy1yzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 14 May 2026 17:08:26 GMT",
         "category": "Top News"
@@ -145,39 +126,7 @@
         "category": "us"
       }
     ],
-    "reuters": [
-      {
-        "title": "The future of healthcare is closer than we think",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a060d5e19064303874cfaada8019474&amp;url=https%3a%2f%2fwww.reuters.com%2fplus%2fraising-your-profile-worldwide%2fthe-future-of-healthcare-is-closer-than-we-think&amp;c=9629769420773566450&amp;mkt=en-us",
-        "pubDate": "Thu, 14 May 2026 10:15:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Business Insider to cut under 5% of global newsroom jobs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a060d5d35ae45ecbc382a47e03f6c31&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2fbusiness-insider-cut-under-5-global-newsroom-jobs-2026-05-14%2f&amp;c=5909141319985601690&amp;mkt=en-us",
-        "pubDate": "Thu, 14 May 2026 07:38:00 GMT",
-        "category": "business"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Cerebras almost doubles in Nasdaq debut, topping $100 billion market cap after blockbuster IPO",
-        "link": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html",
-        "pubDate": "Thu, 14 May 2026 17:45:28 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Goldman says tech stock &apos;up crash&apos; is sign of even more gains to come",
-        "link": "https://www.cnbc.com/2026/05/14/goldman-says-tech-stock-up-crash-is-sign-of-even-more-gains-to-come.html",
-        "pubDate": "Thu, 14 May 2026 17:18:37 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in &apos;great jeopardy&apos;",
-        "link": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
-        "pubDate": "Thu, 14 May 2026 15:09:47 GMT",
-        "category": "world"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
