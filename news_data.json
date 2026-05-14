@@ -1,19 +1,110 @@
 {
-  "updated_at": "2026-05-14T20:01:14.559339",
+  "updated_at": "2026-05-14T21:19:36.226471",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Rory McIlroy has a bad finish for a rough start at the PGA Championship",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063bce74b54a8cbdb6e129230f631c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpga-championship-rory-mcilroy-aronimink-a622751bf2a92c883cb4b255fbefd5ae&amp;c=13205867418880276205&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 13:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "A timeline of events in the death penalty case of Richard Glossip",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063bce74b54a8cbdb6e129230f631c&amp;url=https%3a%2f%2fapnews.com%2farticle%2frichard-glossip-death-sentence-overturned-2ffa055f13db0515108c5883fd2ceac8&amp;c=9014513303148217329&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 13:47:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oklahoma\u2019s Richard Glossip, who was nearly executed 3 times, granted bond while awaiting retrial",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063bce74b54a8cbdb6e129230f631c&amp;url=https%3a%2f%2fapnews.com%2farticle%2foklahoma-richard-glossip-death-sentence-overturned-execution-93cb95674a05161d219b2a54139d531f&amp;c=10746294471705031263&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 13:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "From Cisco to Block, more companies are pointing to AI when unveiling job cuts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063bce74b54a8cbdb6e129230f631c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-layoffs-cisco-meta-block-65f9944fa25306bf5c975dd94805731e&amp;c=8487092352960687191&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 13:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump administration aims to relax limits on toxic wastewater from coal-fired power plants",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063bce74b54a8cbdb6e129230f631c&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-coal-wastewater-epa-artificial-intelligence-5889bbddc821275731eabb6687ba9e6e&amp;c=16192943387283483324&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 13:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Emails show FBI Director Kash Patel\u2019s Hawaii trip included \u2018VIP snorkel\u2019 at a Pearl Harbor memorial",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063bce74b54a8cbdb6e129230f631c&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffbi-kash-patel-snorkel-hawaii-pearl-harbor-192a81cde7a5879aab747bc0ba4b78b9&amp;c=17012736803248220683&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 12:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "This court became a symbol of Trump\u2019s immigration crackdown. Now it\u2019s at the center of a House race",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063bce74b54a8cbdb6e129230f631c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnew-york-congress-lander-goldman-immigration-court-50cfca2627eb09c9ee5a345836299d34&amp;c=10947121468748840858&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 12:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Clarence Carter, soul singer known for \u2018Patches\u2019 and \u2018Strokin\u2019,\u2019 dies at 90",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063bce74b54a8cbdb6e129230f631c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fclarence-carter-90-died-patches-strokin-f26c5ce79e36469fa4b86bd149a019c9&amp;c=18283865912999834850&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 12:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "In new lawsuit, Justice Department challenges efforts to sanction Trump administration lawyers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063bce74b54a8cbdb6e129230f631c&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-justice-department-ethics-lawsuit-e216cd0a48582a2f5ca42037545a23e5&amp;c=13763768047947668185&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 11:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Musk, OpenAI lawyers begin closing arguments in landmark trial that could shape AI\u2019s future",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063bce74b54a8cbdb6e129230f631c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmusk-sam-altman-openai-trial-closing-arguments-3bda5ebbec28c23ac9e481a4edcad725&amp;c=17225516704501788954&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 11:11:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "npr": [
+      {
+        "title": "How AI is speeding new business creation, especially among Gen Z entrepreneurs",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5816229/how-ai-is-speeding-new-business-creation-especially-among-gen-z-entrepreneurs",
+        "pubDate": "Thu, 14 May 2026 17:06:14 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Eyes are on the Supreme Court for another abortion pill ruling",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5821591/eyes-are-on-the-supreme-court-for-another-abortion-pill-ruling",
+        "pubDate": "Thu, 14 May 2026 17:02:20 -0400",
+        "category": "health"
+      },
+      {
+        "title": "How Trump may be changing his stance on AI regulation",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his-stance-on-ai-regulation",
+        "pubDate": "Thu, 14 May 2026 16:56:55 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Linda McMahon defends dismantling the Education Department, shifting its work",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5815213/education-secretary-linda-mcmahon-house-hearing",
+        "pubDate": "Thu, 14 May 2026 16:42:29 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Cuba&apos;s power grid collapses and plunges eastern provinces into a major blackout",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5822583/cuba-blackout",
+        "pubDate": "Thu, 14 May 2026 16:30:43 -0400",
+        "category": "world"
+      },
       {
         "title": "Jury orders Boeing to pay $49.5 million to family of 737 MAX crash victim",
         "link": "https://www.npr.org/2026/05/14/nx-s1-5822441/jury-award-737-max-crash-ethiopian-airlines",
         "pubDate": "Thu, 14 May 2026 14:10:59 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "As Trump meets with Xi, security expert says China now faces the U.S. as a peer",
         "link": "https://www.npr.org/2026/05/14/nx-s1-5821644/as-trump-meets-with-xi-security-expert-says-china-now-faces-the-u-s-as-a-peer",
         "pubDate": "Thu, 14 May 2026 13:58:20 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Researchers unearth Southeast Asia&apos;s largest dinosaur",
@@ -32,55 +123,31 @@
         "link": "https://www.npr.org/2026/05/14/nx-s1-5819933/china-trump-trip-la-agent-mayor-arcardia",
         "pubDate": "Thu, 14 May 2026 08:06:17 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Trump tries to make deals in China. And, Senate confirms Kevin Warsh as Fed leader",
-        "link": "https://www.npr.org/2026/05/14/g-s1-122014/up-first-newsletter-china-taiwan-trump-law-firms-kevin-warsh-denise-powell-nebraska",
-        "pubDate": "Thu, 14 May 2026 07:32:21 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Cordial Trump-Xi meeting is a &apos;good sign,&apos; says longtime U.S. diplomat",
-        "link": "https://www.npr.org/2026/05/14/nx-s1-5822225/richard-haass-trump-xi-meeting-china-summit",
-        "pubDate": "Thu, 14 May 2026 07:15:06 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "China&apos;s leader warns Trump that differences over Taiwan could lead to a clash",
-        "link": "https://www.npr.org/2026/05/14/nx-s1-5822168/trump-xi-summit",
-        "pubDate": "Thu, 14 May 2026 07:02:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A brain-controlled system may help listeners with hearing loss cut through the noise",
-        "link": "https://www.npr.org/2026/05/14/nx-s1-5821161/brain-controlled-hearing-aids-cocktail-party-effect",
-        "pubDate": "Thu, 14 May 2026 07:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "The MAHA movement is coming to school cafeterias. Here&apos;s what that means for kids",
-        "link": "https://www.npr.org/2026/05/14/nx-s1-5688946/school-lunches-dietary-guidelines-maha",
-        "pubDate": "Thu, 14 May 2026 05:00:00 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "Key excerpts from Streeting's resignation letter as he quits as health secretary",
-        "link": "https://www.bbc.com/news/articles/c626wvqy1yzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 17:08:26 GMT",
-        "category": "Top News"
+        "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+        "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 14 May 2026 21:09:02 GMT",
+        "category": "tech"
       },
       {
         "title": "At a glance: Starmer fights to stay on as prime minister",
         "link": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 16:52:58 GMT",
+        "pubDate": "Thu, 14 May 2026 20:19:54 GMT",
         "category": "Top News"
       },
       {
-        "title": "Former imam sentenced to life for sexual assaults",
-        "link": "https://www.bbc.com/news/articles/cdrpk4end65o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 14:44:45 GMT",
+        "title": "Italians praise Catherine as they turn out for final day of trip",
+        "link": "https://www.bbc.com/news/articles/cd0pd8592ego?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 14 May 2026 18:29:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Key excerpts from Streeting's resignation letter as he quits as health secretary",
+        "link": "https://www.bbc.com/news/articles/c626wvqy1yzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 14 May 2026 17:08:26 GMT",
         "category": "Top News"
       },
       {
@@ -114,19 +181,75 @@
         "category": "business"
       },
       {
-        "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
-        "link": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 05:10:45 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Republicans feared losing midterms - but fight over voting maps changed all that",
         "link": "https://www.bbc.com/news/articles/ckgpjqvjyz8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 13 May 2026 22:21:45 GMT",
         "category": "us"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "US pledges new humanitarian aid to UN, says it must align with Trump's interests",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063c222d7c4b368434053d68a02f15&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-pledges-new-humanitarian-aid-un-says-must-align-with-trumps-interest-2026-05-14%2f&amp;c=18353447449440116455&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 12:37:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "UK's Murray named health secretary after Streeting resignation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063c369d6940bc89921c355caa02d3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fuks-murray-named-health-secretary-after-streeting-resignation-2026-05-14%2f&amp;c=5438864884332862213&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 11:52:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Uncapped goalkeeper gets first French call up in World Cup squad",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a063c20bdf44b0ea6a9d7e7912a8d58&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2funcapped-goalkeeper-gets-first-french-call-up-world-cup-squad-2026-05-14%2f&amp;c=1891548109217052682&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 11:28:00 GMT",
+        "category": "world"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+        "link": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+        "pubDate": "Thu, 14 May 2026 20:21:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UFC&apos;s Dana White urges Trump to reverse gambling tax law. His letter moved the prediction market",
+        "link": "https://www.cnbc.com/2026/05/14/ufcs-dana-white-urges-trump-to-reverse-gambling-tax-law.html",
+        "pubDate": "Thu, 14 May 2026 18:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Some short sellers are seeing opportunity in this tech mania. How they&apos;re spotting fake AI stocks",
+        "link": "https://www.cnbc.com/2026/05/14/some-short-sellers-are-seeing-opportunity-in-this-tech-mania-how-theyre-spotting-fake-ai-stocks.html",
+        "pubDate": "Thu, 14 May 2026 18:35:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in &apos;great jeopardy&apos;",
+        "link": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+        "pubDate": "Thu, 14 May 2026 15:09:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "U.S. can hold AI talks with China because \u2018we are in the lead,\u2019 Bessent tells CNBC as nations plan safety protocol",
+        "link": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+        "pubDate": "Thu, 14 May 2026 14:37:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Versant, Biogen, Bullish, Cisco and more",
+        "link": "https://www.cnbc.com/2026/05/14/stocks-making-the-biggest-moves-premarket-.html",
+        "pubDate": "Thu, 14 May 2026 11:51:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+        "link": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+        "pubDate": "Wed, 13 May 2026 23:21:35 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
