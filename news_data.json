@@ -1,19 +1,62 @@
 {
-  "updated_at": "2026-05-14T06:52:41.669442",
+  "updated_at": "2026-05-14T10:28:57.729534",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Tech carries Wall Street to records, even as most stocks fall after discouraging inflation data",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a05a324af634219ad362128e9668a60&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-market-trump-ai-oil-war-3005fd174ae0aa30091936fef632d0d2&amp;c=12087445376627797002&amp;mkt=en-us",
+        "pubDate": "Wed, 13 May 2026 13:58:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "How Asia is reacting to Trump&apos;s summit in China",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5822179/how-asia-is-reacting-to-trumps-summit-in-china",
+        "pubDate": "Thu, 14 May 2026 05:07:37 -0400",
+        "category": "world"
+      },
+      {
+        "title": "The MAHA movement is coming to school cafeterias. Here&apos;s what that means for kids",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5688946/school-lunches-dietary-guidelines-maha",
+        "pubDate": "Thu, 14 May 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Ex-DOJ official goes public with blistering criticism of his former bosses",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5802959/doj-trump-doj-todd-blanche-jan-6-capitol-riot",
+        "pubDate": "Thu, 14 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Voters are caught in the middle as the redistricting battle intensifies",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5818507/redistricting-voters-louisiana-alabama-virginia",
+        "pubDate": "Thu, 14 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5820685/morning-news-brief",
+        "pubDate": "Thu, 14 May 2026 04:47:35 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "UAE denies Netanyahu secretly visited the country during the Iran war",
+        "link": "https://www.npr.org/2026/05/14/nx-s1-5822156/uae-netanyahu-visit",
+        "pubDate": "Thu, 14 May 2026 03:16:55 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Russia hits Kyiv with drones and ballistic missiles, killing 1 and injuring 31",
         "link": "https://www.npr.org/2026/05/14/g-s1-121998/russia-hits-kyiv-with-drones-and-ballistic-missiles",
         "pubDate": "Thu, 14 May 2026 01:21:16 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Denise Powell wins Democratic primary for Nebraska&apos;s 2nd congressional district",
         "link": "https://www.npr.org/2026/05/13/g-s1-121987/denise-powell-democrat-wins-nebraska-second-congressional-district",
         "pubDate": "Wed, 13 May 2026 20:59:31 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Remains of 2nd U.S. soldier who went missing in Morocco have been recovered",
@@ -26,45 +69,45 @@
         "link": "https://www.npr.org/2026/05/13/g-s1-121912/foreign-ticket-holders-world-cup-bonds",
         "pubDate": "Wed, 13 May 2026 16:24:12 -0400",
         "category": "business"
-      },
-      {
-        "title": "Senate confirms Kevin Warsh as next chair of the Federal Reserve",
-        "link": "https://www.npr.org/2026/05/13/nx-s1-5816235/kevin-warsh-federal-reserve-chair-jerome-powell",
-        "pubDate": "Wed, 13 May 2026 15:00:31 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Neanderthals may have drilled out a cavity 59,000 years ago",
-        "link": "https://www.npr.org/2026/05/13/nx-s1-5815047/neanderthal-tooth-dentistry-cavity-drill",
-        "pubDate": "Wed, 13 May 2026 14:30:06 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Greetings from Seville, where springtime means caracoles",
-        "link": "https://www.npr.org/2026/05/13/g-s1-121409/seville-spain-snails-caracoles",
-        "pubDate": "Wed, 13 May 2026 13:16:10 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Alex Murdaugh will get a new murder trial. Here&apos;s a timeline of his case",
-        "link": "https://www.npr.org/2026/05/13/nx-s1-5719271/alex-murdaugh-murder-timeline-trial",
-        "pubDate": "Wed, 13 May 2026 10:27:21 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Gunfire breaks out in Philippine Senate as police try to arrest senator",
-        "link": "https://www.npr.org/2026/05/13/g-s1-121827/gunfire-breaks-out-in-philippine-senate-as-police-try-to-arrest-senator",
-        "pubDate": "Wed, 13 May 2026 09:47:28 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "French hantavirus patient is critically ill as outbreak grows to 11",
-        "link": "https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill",
-        "pubDate": "Wed, 13 May 2026 03:31:20 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
+      {
+        "title": "UK economy sees surprise growth in March despite Iran war",
+        "link": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 14 May 2026 09:53:21 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+        "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 14 May 2026 09:50:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Streeting hails NHS progress as key hospital waiting time milestone met",
+        "link": "https://www.bbc.com/news/articles/cvgzv0j19vvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 14 May 2026 09:45:45 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Chris Mason: Potential leadership challengers jostle for position",
+        "link": "https://www.bbc.com/news/articles/c232pz403dko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 14 May 2026 07:37:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Madonna, Shakira & BTS to headline World Cup half-time show",
+        "link": "https://www.bbc.com/sport/football/articles/c5yrl54561do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 14 May 2026 07:31:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: What happened on day one of Trump's China visit?",
+        "link": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 14 May 2026 07:13:24 GMT",
+        "category": "Top News"
+      },
       {
         "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
         "link": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&amp;at_campaign=rss",
@@ -72,40 +115,10 @@
         "category": "tech"
       },
       {
-        "title": "Cuba has run out of diesel and oil, energy minister says",
-        "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 04:26:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
-        "link": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 23:22:07 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Warning higher Europe air fares 'inevitable' due to Iran war",
-        "link": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 23:03:15 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Higher Europe air fares inevitable due to Iran war, says industry lead",
-        "link": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 23:03:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Egg sandwiches and isolation - Life in US hantavirus quarantine",
-        "link": "https://www.bbc.com/news/articles/c2021x77970o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 18:59:26 GMT",
+        "title": "Republicans feared losing midterms - but fight over voting maps changed all that",
+        "link": "https://www.bbc.com/news/articles/ckgpjqvjyz8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 13 May 2026 22:21:45 GMT",
         "category": "us"
-      },
-      {
-        "title": "Chris Mason: Big moment ahead for Streeting to decide whether to challenge Starmer",
-        "link": "https://www.bbc.com/news/articles/c392djn3zzdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 18:18:37 GMT",
-        "category": "Top News"
       },
       {
         "title": "Met Police prepares armoured vehicles and 4,000 officers for dual London protests",
@@ -118,22 +131,9 @@
         "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 13 May 2026 17:00:12 GMT",
         "category": "world"
-      },
-      {
-        "title": "Posh sandwich has more salt than nearly five cheeseburgers",
-        "link": "https://www.bbc.com/news/articles/c4g4l54g2ppo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 13 May 2026 10:57:35 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Honda posts first annual loss on $9 billion EV writedown, scraps EV sales goals",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0570c4d475428db2961258f80d15b3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fhonda-books-first-annual-loss-hit-by-hefty-ev-charge-2026-05-14%2f&amp;c=213738554891894957&amp;mkt=en-us",
-        "pubDate": "Wed, 13 May 2026 22:08:00 GMT",
-        "category": "business"
-      }
-    ],
+    "reuters": [],
     "markets": []
   }
 }
