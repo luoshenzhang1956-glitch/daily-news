@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-05-15T14:23:29.539194",
+  "updated_at": "2026-05-15T17:47:42.504736",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "AP begins implementing layoffs of US-based journalists, part of a pivot away from print journalism",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075bcce69e4583bb399dd6a8329959&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnews-industry-ap-layoffs-3906d6f2c16621746515adc51a04b829&amp;c=5013973627603993978&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 10:24:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "War worsens Lebanon\u2019s economic crisis with job losses, price gouging and slow business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075bd1237b4df598e38495671a4882&amp;url=https%3a%2f%2fapnews.com%2farticle%2flebanon-israel-war-economy-crisis-hezbollah-66cab202c080e0a5fba683dcbe32775d&amp;c=9690787286634813190&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 21:11:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Can the NFL&apos;s Rooney Rule survive the DEI backlash?",
+        "link": "https://www.npr.org/2026/05/15/nx-s1-5823441/rooney-rule-dei-diverse-slates-discrimination",
+        "pubDate": "Fri, 15 May 2026 11:08:27 -0400",
+        "category": "us"
+      },
       {
         "title": "SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit",
         "link": "https://www.npr.org/2026/05/15/g-s1-122218/up-first-newsletter-mifepristone-trump-china-keir-starmer-new-york-salmon-river-students",
@@ -25,7 +44,7 @@
         "title": "Which Trump cabinet member has a new reality show? The quiz knows",
         "link": "https://www.npr.org/2026/05/15/g-s1-121837/shakira-warsh-hantavirus-duffy-israel-iran-news-quiz",
         "pubDate": "Fri, 15 May 2026 05:01:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Gen Z homeowners? Yes, more in their 20s are managing to buy despite the odds",
@@ -52,12 +71,6 @@
         "category": "health"
       },
       {
-        "title": "CIA Director John Ratcliffe met with Raul Castro&apos;s grandson in Havana, US and Cuban officials say",
-        "link": "https://www.npr.org/2026/05/15/nx-s1-5823340/cia-director-john-ratcliffe-met-with-raul-castros-grandson-in-havana-us-and-cuban-officials-say",
-        "pubDate": "Fri, 15 May 2026 01:50:02 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "How Trump may be changing his stance on AI regulation",
         "link": "https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his-stance-on-ai-regulation",
         "pubDate": "Thu, 14 May 2026 16:56:55 -0400",
@@ -66,10 +79,52 @@
     ],
     "bbc": [
       {
-        "title": "What next for Starmer? Five scenarios in Labour leadership crisis",
-        "link": "https://www.bbc.com/news/articles/cyv26q0g9r1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 15 May 2026 13:43:22 GMT",
+        "title": "Judge declares another mistrial on Harvey Weinstein New York rape charge",
+        "link": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 17:44:15 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "What does Makerfield think of by-election and can Burnham win?",
+        "link": "https://www.bbc.com/news/articles/cyv26e7yd89o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 17:00:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Five Italians die during cave scuba dive in Maldives",
+        "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 15:59:48 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Teenager's family 'heartbroken' by meningitis death",
+        "link": "https://www.bbc.com/news/articles/cy42jn311y1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 15:31:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+        "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 15:03:05 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Beckhams become billionaires as Oasis make rich list for first time",
+        "link": "https://www.bbc.com/news/articles/ce8p4ywypx8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 14:58:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says he 'made no commitment either way' to Xi on Taiwan",
+        "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 14:13:36 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Who is James Murray, the new health secretary replacing Wes Streeting?",
+        "link": "https://www.bbc.com/news/articles/c2e2jr01ejno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 13:55:54 GMT",
+        "category": "health"
       },
       {
         "title": "UK borrowing costs rise and pound falls as leadership drama continues",
@@ -78,114 +133,133 @@
         "category": "business"
       },
       {
-        "title": "Watch: What did we learn from Trump's visit to China?",
-        "link": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 15 May 2026 13:25:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
-        "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 15 May 2026 13:00:24 GMT",
-        "category": "world"
-      },
-      {
         "title": "X pledges quicker action on hate and terror content in the UK",
         "link": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 15 May 2026 12:57:30 GMT",
         "category": "tech"
-      },
+      }
+    ],
+    "reuters": [
       {
-        "title": "Five Italians die during cave scuba dive in Maldives",
-        "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 15 May 2026 07:38:17 GMT",
+        "title": "Harvey Weinstein's third New York rape trial ends in mistrial",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075be32b98465fa4afc2608cf5675d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fharvey-weinsteins-third-new-york-rape-trial-ends-mistrial-2026-05-15%2f&amp;c=15560400076893397995&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 09:17:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
-        "link": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 15 May 2026 05:01:37 GMT",
+        "title": "Democratic US Representative Cohen won't seek re-election in redrawn Tennessee district",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075be32b98465fa4afc2608cf5675d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fdemocratic-us-representative-cohen-wont-seek-re-election-redrawn-tennessee-2026-05-15%2f&amp;c=11879285502729541858&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 09:03:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
-        "link": "https://www.bbc.com/news/articles/cq5p306l7weo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 15 May 2026 00:04:45 GMT",
+        "title": "Exclusive: FDA drug center head expected to leave after commissioner's exit, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075be32b98465fa4afc2608cf5675d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ffda-drug-center-head-expected-leave-after-commissioners-exit-sources-say-2026-05-15%2f&amp;c=6041539206301339166&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 08:46:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US Supreme Court restores abortion pill access for now",
-        "link": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 22:46:28 GMT",
+        "title": "US government planning dramatic Colorado River water cuts due to drought, overuse",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075be32b98465fa4afc2608cf5675d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-government-planning-dramatic-colorado-river-water-cuts-due-drought-overuse-2026-05-15%2f&amp;c=6792789348386063593&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 08:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: US may ask Israel to put Palestinian tax money toward Trump's Gaza plan, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075be32b98465fa4afc2608cf5675d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-may-ask-israel-put-palestinian-tax-money-toward-trumps-gaza-plan-sources-say-2026-05-15%2f&amp;c=8502699164180134772&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 08:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tech CEOs invited to US Capitol to testify about children's online safety",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075be32b98465fa4afc2608cf5675d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftech-ceos-summoned-capitol-june-hearing-axios-reports-2026-05-15%2f&amp;c=8471310716846416912&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 08:38:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump announces new National Garden of American Heroes in Washington D.C.",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075be32b98465fa4afc2608cf5675d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-announces-new-national-garden-american-heroes-washington-dc-2026-05-15%2f&amp;c=4310768903395504857&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 07:47:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Global equity funds draw eighth weekly inflow as AI rally lifts tech",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075c1717024bfa9c535486a7cc0b7b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-flows-graphic-2026-05-15%2f&amp;c=7073292699008277409&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 05:54:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Trump ethics filing reveals thousands of trades tied to US corporate securities",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075be32b98465fa4afc2608cf5675d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-ethics-filing-reveals-thousands-trades-tied-us-corporate-securities-2026-05-14%2f&amp;c=15473130768626291761&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 05:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "As Powell term ends, his legacy may be as much about courting Congress as monetary policy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a075be32b98465fa4afc2608cf5675d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fpowell-term-ends-his-legacy-may-be-much-about-courting-congress-monetary-policy-2026-05-15%2f&amp;c=17800808459413203147&amp;mkt=en-us",
+        "pubDate": "Fri, 15 May 2026 04:30:00 GMT",
+        "category": "Top News"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Bill Ackman gets into Microsoft for reasons similar to Cramer&apos;s arguments to hold it",
+        "link": "https://www.cnbc.com/2026/05/15/bill-ackman-gets-into-microsoft-for-reasons-similar-to-cramers-arguments-to-hold-it.html",
+        "pubDate": "Fri, 15 May 2026 17:31:38 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "&apos;Biggest bottleneck in the AI buildup&apos; fuels DRAM ETF to record",
+        "link": "https://www.cnbc.com/2026/05/15/biggest-bottleneck-in-the-ai-buildup-fuels-dram-etf-to-record.html",
+        "pubDate": "Fri, 15 May 2026 17:02:06 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The charts are pointing to a breakout in short-term Treasury yields, says Carter Worth",
+        "link": "https://www.cnbc.com/2026/05/15/the-charts-are-pointing-to-a-breakout-in-short-term-treasury-yields-says-carter-worth.html",
+        "pubDate": "Fri, 15 May 2026 17:00:01 GMT",
         "category": "us"
       },
       {
-        "title": "'We're right on track,' says Streeting as key target for hospital waiting times hit",
-        "link": "https://www.bbc.com/news/articles/cvgzv0j19vvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 14:26:20 GMT",
-        "category": "health"
-      }
-    ],
-    "reuters": [],
-    "markets": [
+        "title": "NFL wants certain trading contracts banned from prediction markets like &apos;first play of game,&apos; injuries",
+        "link": "https://www.cnbc.com/2026/05/15/prediction-markets-nfl-letter-wants-certain-betting-contracts-banned.html",
+        "pubDate": "Fri, 15 May 2026 16:27:26 GMT",
+        "category": "Top News"
+      },
       {
-        "title": "Starbucks to lay off 300 U.S. employees, shutter some regional support offices",
-        "link": "https://www.cnbc.com/2026/05/15/starbucks-to-lay-off-300-us-employees-close-some-regional-offices.html",
-        "pubDate": "Fri, 15 May 2026 14:17:42 GMT",
+        "title": "Bristol Myers Squibb turns to China to develop new drugs in newest cross-continent collaboration",
+        "link": "https://www.cnbc.com/2026/05/15/bristol-myers-squibb-turns-to-chinas-hengrui-to-replenish-pipeline.html",
+        "pubDate": "Fri, 15 May 2026 16:19:15 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John&apos;s &amp; more",
+        "link": "https://www.cnbc.com/2026/05/15/stocks-making-the-biggest-moves-midday-cbrs-msft-now-pzza.html",
+        "pubDate": "Fri, 15 May 2026 15:51:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chinese EVs are coming to Canada, and some dealers can&apos;t wait to sell them",
+        "link": "https://www.cnbc.com/2026/05/15/chinese-evs-canada.html",
+        "pubDate": "Fri, 15 May 2026 15:49:08 GMT",
         "category": "business"
+      },
+      {
+        "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+        "link": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
+        "pubDate": "Fri, 15 May 2026 15:31:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
+        "link": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
+        "pubDate": "Fri, 15 May 2026 14:58:00 GMT",
+        "category": "world"
       },
       {
         "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
         "link": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
         "pubDate": "Fri, 15 May 2026 13:28:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nvidia&apos;s trillion-dollar run puts pressure on the bulls",
-        "link": "https://www.cnbc.com/2026/05/15/nvidias-trillion-dollar-run-puts-pressure-on-the-bulls.html",
-        "pubDate": "Fri, 15 May 2026 12:56:39 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Cerebras IPO, Trump-Xi summit takeaways, automaker layoffs and more in Morning Squawk",
-        "link": "https://www.cnbc.com/2026/05/15/5-things-to-know-before-the-market-opens.html",
-        "pubDate": "Fri, 15 May 2026 12:32:06 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Applied Materials, Intel, Magnum Ice Cream and more",
-        "link": "https://www.cnbc.com/2026/05/15/stocks-making-the-biggest-moves-premarket-amat-intc-micc.html",
-        "pubDate": "Fri, 15 May 2026 12:07:32 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump-Xi summit: The 3 big takeaways from historic meeting in Beijing",
-        "link": "https://www.cnbc.com/2026/05/15/trump-xi-summit-the-3-big-takeaways-from-historic-meeting-in-beijing.html",
-        "pubDate": "Fri, 15 May 2026 11:48:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
-        "link": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
-        "pubDate": "Fri, 15 May 2026 06:46:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
-        "link": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
-        "pubDate": "Thu, 14 May 2026 21:47:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored",
-        "link": "https://www.cnbc.com/2026/05/14/cdc-no-us-hantavirus-cases-people-monitored.html",
-        "pubDate": "Thu, 14 May 2026 19:56:23 GMT",
-        "category": "health"
-      },
-      {
-        "title": "UFC&apos;s Dana White urges Trump to reverse gambling tax law. His letter moved the prediction market",
-        "link": "https://www.cnbc.com/2026/05/14/ufcs-dana-white-urges-trump-to-reverse-gambling-tax-law.html",
-        "pubDate": "Thu, 14 May 2026 18:45:00 GMT",
         "category": "Top News"
       }
     ]
