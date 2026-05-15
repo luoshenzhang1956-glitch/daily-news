@@ -1,26 +1,25 @@
 {
-  "updated_at": "2026-05-15T04:01:08.772099",
+  "updated_at": "2026-05-15T07:33:35.153573",
   "news": {
-    "ap": [
-      {
-        "title": "US agrees to settle lawsuit that accused an Indian billionaire of hiding an alleged bribery scheme",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0699e711114455b17e1b06b0ba1977&amp;url=https%3a%2f%2fapnews.com%2farticle%2fadani-lawsuit-settlement-8c2cfafe46e83c1de7dba4273c630074&amp;c=4851395240051101247&amp;mkt=en-us",
-        "pubDate": "Thu, 14 May 2026 19:37:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Some parents don\u2019t want their kids to use tech at school. But districts are pushing back",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0699e90c9649cb813522bb6b78f324&amp;url=https%3a%2f%2fapnews.com%2farticle%2fedtech-philly-classroom-technology-computer-phone-screens-6aab2bac1d66df1863509b5d5c74fe12&amp;c=7021096505368468843&amp;mkt=en-us",
-        "pubDate": "Thu, 14 May 2026 12:35:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
-        "title": "British PM Keir Starmer&apos;s job is in jeopardy after his party was trounced in elections",
-        "link": "https://www.npr.org/2026/05/14/nx-s1-5822391/british-pm-keir-starmers-job-is-in-jeopardy-after-his-party-was-trounced-in-elections",
-        "pubDate": "Thu, 14 May 2026 17:57:14 -0400",
+        "title": "CIA Director John Ratcliffe met with Raul Castro&apos;s grandson in Havana, US and Cuban officials say",
+        "link": "https://www.npr.org/2026/05/15/nx-s1-5823340/cia-director-john-ratcliffe-met-with-raul-castros-grandson-in-havana-us-and-cuban-officials-say",
+        "pubDate": "Fri, 15 May 2026 01:50:02 -0400",
         "category": "world"
+      },
+      {
+        "title": "Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation",
+        "link": "https://www.npr.org/2026/05/15/g-s1-122205/pope-decries-rise-of-ai-directed-warfare",
+        "pubDate": "Fri, 15 May 2026 01:33:59 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Tensions flare near Strait of Hormuz as a ship is seized and another is sunk",
+        "link": "https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz",
+        "pubDate": "Fri, 15 May 2026 01:11:32 -0400",
+        "category": "Top News"
       },
       {
         "title": "Here&apos;s how the NYT crafts bestseller lists \u2014 and how authors try to game them",
@@ -63,25 +62,37 @@
         "link": "https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his-stance-on-ai-regulation",
         "pubDate": "Thu, 14 May 2026 16:56:55 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Linda McMahon defends dismantling the Education Department, shifting its work",
-        "link": "https://www.npr.org/2026/05/14/nx-s1-5815213/education-secretary-linda-mcmahon-house-hearing",
-        "pubDate": "Thu, 14 May 2026 16:42:29 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Cuba&apos;s power grid collapses and plunges eastern provinces into a major blackout",
-        "link": "https://www.npr.org/2026/05/14/nx-s1-5822583/cuba-blackout",
-        "pubDate": "Thu, 14 May 2026 16:30:43 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "One dead and two ill after meningitis cases",
-        "link": "https://www.bbc.com/news/articles/cn4p750q857o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 15 May 2026 03:28:25 GMT",
+        "title": "British Gas pays \u00a320m over force-fitting of prepayment meters",
+        "link": "https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 06:59:02 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
+        "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 05:03:31 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "'Don't swim' warnings in place at nearly all of England's official river bathing sites",
+        "link": "https://www.bbc.com/news/articles/cvgzvqq9345o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 04:13:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "CIA chief visits Cuba as energy crisis worsens",
+        "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 02:40:50 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Analysis: Andy Burnham's route back to the Commons is clearer - but one big hurdle remains",
+        "link": "https://www.bbc.com/news/articles/cx21x2rpm12o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 00:17:31 GMT",
         "category": "Top News"
       },
       {
@@ -91,28 +102,10 @@
         "category": "Top News"
       },
       {
-        "title": "Why Modi wants Indians to buy less gold and take fewer foreign holidays",
-        "link": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 23:49:30 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Hundreds of comedians unpaid by one of UK's biggest comedy festivals",
-        "link": "https://www.bbc.com/news/articles/czx2ypgwxx7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 23:35:12 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Royal finances face a cut. But will much really change?",
         "link": "https://www.bbc.com/news/articles/c4g0e92dp6ko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 14 May 2026 23:11:07 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Inside the secretive and lucrative world of orchid breeding",
-        "link": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 23:03:16 GMT",
-        "category": "tech"
       },
       {
         "title": "US Supreme Court restores abortion pill access for now",
@@ -121,9 +114,9 @@
         "category": "us"
       },
       {
-        "title": "Burnham to make bid to return as MP as pressure mounts on Starmer",
-        "link": "https://www.bbc.com/news/articles/c1l2e325zvgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 22:20:31 GMT",
+        "title": "Watch: The day Labour's potential leadership race began to heat up",
+        "link": "https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 14 May 2026 20:41:36 GMT",
         "category": "Top News"
       },
       {
@@ -131,35 +124,70 @@
         "link": "https://www.bbc.com/news/articles/cvgzv0j19vvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 14 May 2026 14:26:20 GMT",
         "category": "health"
-      },
-      {
-        "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
-        "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 14 May 2026 13:02:13 GMT",
-        "category": "world"
       }
     ],
     "reuters": [
       {
-        "title": "UK's Murray named health secretary after Streeting resignation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a069a4ca517477785a78a0a639e1a8e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fuks-murray-named-health-secretary-after-streeting-resignation-2026-05-14%2f&amp;c=5438864884332862213&amp;mkt=en-us",
-        "pubDate": "Thu, 14 May 2026 11:52:00 GMT",
-        "category": "health"
-      }
-    ],
-    "markets": [
-      {
-        "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored",
-        "link": "https://www.cnbc.com/2026/05/14/cdc-no-us-hantavirus-cases-people-monitored.html",
-        "pubDate": "Thu, 14 May 2026 19:56:23 GMT",
-        "category": "business"
+        "title": "Trump says he and China's Xi agree Iran cannot have nuclear weapons",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a06cbc76fdf4400a95af51a48642f36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15%2f&amp;c=10803598318486351252&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 23:05:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Biogen advances Alzheimer&apos;s drug to late-stage trial despite disappointing data",
-        "link": "https://www.cnbc.com/2026/05/14/biogen-alzheimers-drug-moves-to-late-stage-trial.html",
-        "pubDate": "Thu, 14 May 2026 17:23:33 GMT",
+        "title": "Trump in China live: Xi and Trump declare success but differences remain on Iran, Taiwan",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a06cbc76fdf4400a95af51a48642f36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-china-live-second-day-talks-with-xi-iran-taiwan-trade-2026-05-15%2f&amp;c=1118399878036958972&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 22:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Xi gives Trump rare tour of secret garden at heart of Chinese government",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a06cbc76fdf4400a95af51a48642f36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fxi-gives-trump-rare-tour-secret-garden-heart-chinese-government-2026-05-15%2f&amp;c=15915078280724022338&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 22:49:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Global bonds tumble as flaring inflation spooks investors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a06cbc76fdf4400a95af51a48642f36&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fglobal-bonds-tumble-flaring-inflation-spooks-investors-2026-05-15%2f&amp;c=15006579627801296974&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 22:47:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump touts business wins as China airs Iran, Taiwan concerns",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a06cbc76fdf4400a95af51a48642f36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14%2f&amp;c=13422173292495929756&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 22:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tomiyasu makes Japan return as Moriyasu names World Cup squad",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a06cbd4161c4be88452632dd6094d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ftomiyasu-makes-japan-return-moriyasu-names-world-cup-squad-2026-05-15%2f&amp;c=4039920592616589179&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 22:34:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US set to drop criminal fraud case against India\u2019s Gautam Adani, sources say, as deal reached in civil case",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a06cbc76fdf4400a95af51a48642f36&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-set-drop-criminal-fraud-case-against-indias-gautam-adani-sources-say-deal-2026-05-15%2f&amp;c=13745044050546668457&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 22:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Hantavirus outbreak tests post-COVID health communications playbook",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a06cbf26b2d4d9aa37c8ba2cfad72c6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhantavirus-outbreak-tests-post-covid-health-communications-playbook-2026-05-15%2f&amp;c=37259344558885186&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 22:12:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "Asian shares dive as US yields hit one-year high",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a06cbc76fdf4400a95af51a48642f36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-05-15%2f&amp;c=2504406137184003783&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 21:40:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "JPMorgan's bet on early-stage companies pays off in leading global tech investment banking",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a06cbf2f10f4a99a447e9a8db380f61&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fjpmorgans-bet-early-stage-companies-pays-off-leading-global-tech-investment-2026-05-14%2f&amp;c=16147626862527706801&amp;mkt=en-us",
+        "pubDate": "Thu, 14 May 2026 11:52:00 GMT",
+        "category": "tech"
       }
-    ]
+    ],
+    "markets": []
   }
 }
