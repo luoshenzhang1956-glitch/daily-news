@@ -1,26 +1,7 @@
 {
-  "updated_at": "2026-05-16T19:15:31.122890",
+  "updated_at": "2026-05-16T20:58:00.509391",
   "news": {
-    "ap": [
-      {
-        "title": "France says cruise ship Andes virus matches known South American viruses",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a08c1dfcb514135a63f4e777b3b89a8&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffrance-hantavirus-andes-sequencing-b48647992da82d6d44dfc6da1a460005&amp;c=12979001054425619481&amp;mkt=en-us",
-        "pubDate": "Sat, 16 May 2026 09:56:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Pope creates artificial intelligence study group as Vatican prepares to release his first encyclical",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a08c1df74294902b25d28551a176446&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvatican-artificial-intelligence-pope-musk-nvidia-trump-889c0066f0d5ce784c07abb72b33e24c&amp;c=4693618591175276447&amp;mkt=en-us",
-        "pubDate": "Sat, 16 May 2026 04:49:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Houston will give World Cup fans a taste of BBQ, Texas heat: 5 things to know about Space City",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a08c1c4c4394b55a3bd55f4e2d57139&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffifa-houston-world-cup-3a4707e56b714e55fbcd84930f178269&amp;c=9083251119874944616&amp;mkt=en-us",
-        "pubDate": "Sat, 16 May 2026 03:00:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo",
@@ -79,15 +60,21 @@
     ],
     "bbc": [
       {
+        "title": "Canadian from hantavirus-hit cruise ship tests positive",
+        "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 16 May 2026 20:36:53 GMT",
+        "category": "health"
+      },
+      {
         "title": "Police pelted with bottles as Celtic fans celebrate Premiership title win",
         "link": "https://www.bbc.com/news/articles/c5yegmxv883o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 16 May 2026 18:48:28 GMT",
+        "pubDate": "Sat, 16 May 2026 20:11:56 GMT",
         "category": "Top News"
       },
       {
         "title": "Tens of thousands join rival marches in London",
         "link": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 16 May 2026 17:33:01 GMT",
+        "pubDate": "Sat, 16 May 2026 19:31:04 GMT",
         "category": "Top News"
       },
       {
@@ -121,12 +108,6 @@
         "category": "tech"
       },
       {
-        "title": "I tried the UK's 'saltiest' sandwich - here's what I learned",
-        "link": "https://www.bbc.com/news/articles/cd9pylq25y9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 15 May 2026 23:56:15 GMT",
-        "category": "health"
-      },
-      {
         "title": "'They took \u00a320,000 I didn't owe': Parents hit by child maintenance errors",
         "link": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 15 May 2026 23:44:32 GMT",
@@ -139,20 +120,13 @@
         "category": "us"
       }
     ],
-    "reuters": [
-      {
-        "title": "FIFA says held positive talks with Iran's FA ahead of World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a08c1e114cf49f789fd56ef0d1b838a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffifa-says-held-positive-talks-with-irans-fa-ahead-world-cup-2026-05-16%2f&amp;c=13219053590956982925&amp;mkt=en-us",
-        "pubDate": "Sat, 16 May 2026 10:42:00 GMT",
-        "category": "world"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Kevin Warsh comes into the Fed facing a big &apos;family fight&apos; over cutting interest rates",
-        "link": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
-        "pubDate": "Sat, 16 May 2026 13:41:29 GMT",
-        "category": "Top News"
+        "title": "For better or worse, investors are living through Trump\u2019s stock market. Here&apos;s why",
+        "link": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
+        "pubDate": "Sat, 16 May 2026 17:00:41 GMT",
+        "category": "us"
       },
       {
         "title": "Creator content made the main stage at TV&apos;s &apos;upfront&apos; pitches \u2014 and not just for YouTube",
@@ -161,10 +135,10 @@
         "category": "business"
       },
       {
-        "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
-        "link": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
-        "pubDate": "Sat, 16 May 2026 09:54:15 GMT",
-        "category": "Top News"
+        "title": "Cerebras&apos; blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
+        "link": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
+        "pubDate": "Sat, 16 May 2026 12:00:01 GMT",
+        "category": "tech"
       },
       {
         "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
@@ -173,10 +147,10 @@
         "category": "world"
       },
       {
-        "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines",
-        "link": "https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html",
-        "pubDate": "Fri, 15 May 2026 20:50:03 GMT",
-        "category": "Top News"
+        "title": "FDA shuffles top drug, biologics leaders in latest shakeup",
+        "link": "https://www.cnbc.com/2026/05/15/fda-shuffles-top-drug-biologics-leaders-in-latest-leadership-shakeup.html",
+        "pubDate": "Sat, 16 May 2026 01:42:03 GMT",
+        "category": "health"
       }
     ]
   }
