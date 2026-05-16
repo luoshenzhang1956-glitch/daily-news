@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-05-16T20:58:00.509391",
+  "updated_at": "2026-05-16T22:56:47.487110",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Iranian man barely survives bombing, but wants war to go on",
+        "link": "https://www.npr.org/2026/05/16/nx-s1-5820984/iranian-man-barely-survives-bombing-but-wants-war-to-go-on",
+        "pubDate": "Sat, 16 May 2026 17:06:33 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Reporter&apos;s Notebook: producing a great interview",
+        "link": "https://www.npr.org/2026/05/16/nx-s1-5821102/reporters-notebook-producing-a-great-interview",
+        "pubDate": "Sat, 16 May 2026 17:03:35 -0400",
+        "category": "us"
+      },
       {
         "title": "A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo",
         "link": "https://www.npr.org/2026/05/16/g-s1-122494/a-new-ebola-outbreak-has-already-killed-87-people",
@@ -13,13 +25,13 @@
         "title": "North America poised for light display of aurora borealis",
         "link": "https://www.npr.org/2026/05/16/g-s1-122492/north-america-poised-for-light-display-of-aurora-borealis",
         "pubDate": "Sat, 16 May 2026 14:07:59 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Timmy the humpback whale found dead off Danish coast",
         "link": "https://www.npr.org/2026/05/16/g-s1-122490/timmy-humpback-whale-dead-stranded-rescue-denmark",
         "pubDate": "Sat, 16 May 2026 11:12:44 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "This Republican voted to convict Trump. Now he&apos;s up for reelection. Can he survive?",
@@ -50,37 +62,31 @@
         "link": "https://www.npr.org/2026/05/16/g-s1-122461/islamic-state-leader-killed",
         "pubDate": "Sat, 16 May 2026 04:23:35 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "The Eurovision Song Contest reaches its grand final with pop and protests",
-        "link": "https://www.npr.org/2026/05/16/nx-s1-5824325/eurovision-final-vienna",
-        "pubDate": "Sat, 16 May 2026 01:44:50 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Canadian from hantavirus-hit cruise ship tests positive",
-        "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 16 May 2026 20:36:53 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Police pelted with bottles as Celtic fans celebrate Premiership title win",
+        "title": "Riot police deal with 'serious disorder' as Celtic fans celebrate Premiership title win",
         "link": "https://www.bbc.com/news/articles/c5yegmxv883o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 16 May 2026 20:11:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tens of thousands join rival marches in London",
-        "link": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 16 May 2026 19:31:04 GMT",
+        "pubDate": "Sat, 16 May 2026 22:00:13 GMT",
         "category": "Top News"
       },
       {
         "title": "Streeting says he would join leadership race as Burnham vows to 'save' Labour",
         "link": "https://www.bbc.com/news/articles/c17297n77z1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 16 May 2026 17:16:37 GMT",
+        "pubDate": "Sat, 16 May 2026 21:37:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Canadian from hantavirus-hit cruise ship tests positive",
+        "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 16 May 2026 20:36:53 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Tens of thousands join rival marches in London",
+        "link": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 16 May 2026 19:31:04 GMT",
         "category": "Top News"
       },
       {
@@ -108,49 +114,44 @@
         "category": "tech"
       },
       {
+        "title": "I tried the UK's 'saltiest' sandwich - here's what I learned",
+        "link": "https://www.bbc.com/news/articles/cd9pylq25y9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 15 May 2026 23:56:15 GMT",
+        "category": "health"
+      },
+      {
         "title": "'They took \u00a320,000 I didn't owe': Parents hit by child maintenance errors",
         "link": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 15 May 2026 23:44:32 GMT",
         "category": "business"
-      },
-      {
-        "title": "What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada",
-        "link": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 15 May 2026 23:04:41 GMT",
-        "category": "us"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "For better or worse, investors are living through Trump\u2019s stock market. Here&apos;s why",
-        "link": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
-        "pubDate": "Sat, 16 May 2026 17:00:41 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Creator content made the main stage at TV&apos;s &apos;upfront&apos; pitches \u2014 and not just for YouTube",
-        "link": "https://www.cnbc.com/2026/05/16/tv-upfronts-creator-content-youtube-fox-wbd.html",
-        "pubDate": "Sat, 16 May 2026 12:00:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Cerebras&apos; blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
-        "link": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
-        "pubDate": "Sat, 16 May 2026 12:00:01 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
-        "link": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
-        "pubDate": "Sat, 16 May 2026 08:26:02 GMT",
+        "title": "FIFA says it held positive talks with Iran's FA ahead of World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a08f5ba5e914b1db0635eb6d85c0e64&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffifa-says-held-positive-talks-with-irans-fa-ahead-world-cup-2026-05-16%2f&amp;c=13219053590956982925&amp;mkt=en-us",
+        "pubDate": "Sat, 16 May 2026 14:13:00 GMT",
         "category": "world"
       },
       {
-        "title": "FDA shuffles top drug, biologics leaders in latest shakeup",
-        "link": "https://www.cnbc.com/2026/05/15/fda-shuffles-top-drug-biologics-leaders-in-latest-leadership-shakeup.html",
-        "pubDate": "Sat, 16 May 2026 01:42:03 GMT",
-        "category": "health"
+        "title": "Tesla raises prices of Model Y cars in the US for the first time in two years",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a08f5ba74ac4f15b1cffdc15aa0590f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2ftesla-raises-prices-model-y-cars-us-2026-05-16%2f&amp;c=16834855022283243284&amp;mkt=en-us",
+        "pubDate": "Sat, 16 May 2026 12:39:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "US CEOs follow Trump's footsteps with diplomacy in Beijing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a08f5bccc344e2fba39ecadc20fddc8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fchinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16%2f&amp;c=7829105639026600076&amp;mkt=en-us",
+        "pubDate": "Sat, 16 May 2026 06:14:00 GMT",
+        "category": "business"
+      }
+    ],
+    "markets": [
+      {
+        "title": "S&amp;P 500 manages to extend weekly win streak despite anticlimactic Trump-Xi summit",
+        "link": "https://www.cnbc.com/2026/05/16/sp-500-manages-to-extend-weekly-win-streak-despite-anticlimactic-trump-xi-summit.html",
+        "pubDate": "Sat, 16 May 2026 21:35:43 GMT",
+        "category": "tech"
       }
     ]
   }
