@@ -1,26 +1,44 @@
 {
-  "updated_at": "2026-05-17T06:52:37.836778",
+  "updated_at": "2026-05-17T09:55:07.383523",
   "news": {
     "ap": [
       {
         "title": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0965573aac4c9bad776d8779f25955&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d&amp;c=13970119162386148949&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a098fe9205c49478809003a6b2a6ea2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d&amp;c=13970119162386148949&amp;mkt=en-us",
         "pubDate": "Sat, 16 May 2026 22:08:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
       {
-        "title": "New York Magazine reviewing work of writer facing plagiarism allegations",
-        "link": "https://www.npr.org/2026/05/17/nx-s1-5824503/new-york-magazine-review-ross-barkan",
-        "pubDate": "Sun, 17 May 2026 00:23:48 -0400",
+        "title": "The foreign fighters who helped topple Assad \u2014 and why China worries about them",
+        "link": "https://www.npr.org/2026/05/17/g-s1-113270/uyghurs-china-syria-war-fighters-rebels-bashar-al-assad",
+        "pubDate": "Sun, 17 May 2026 05:02:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "New burn bans and Trump&apos;s battle with immigration and DEI are impacting forest fires",
+        "link": "https://www.npr.org/2026/05/17/nx-s1-5777660/forest-service-wildfire-safety-prevention-trump-administration",
+        "pubDate": "Sun, 17 May 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "How a CEO and Trump donor is weaponizing tariffs against his rivals",
+        "link": "https://www.npr.org/2026/05/17/nx-s1-5726366/ceo-trump-donor-quartz-kitchen-countertop-tariffs",
+        "pubDate": "Sun, 17 May 2026 05:00:00 -0400",
         "category": "business"
       },
       {
-        "title": "Louisiana Sen. Bill Cassidy loses in Republican primary, does not advance to runoff",
+        "title": "New York Magazine reviewing work of writer facing plagiarism allegations",
+        "link": "https://www.npr.org/2026/05/17/nx-s1-5824503/new-york-magazine-review-ross-barkan",
+        "pubDate": "Sun, 17 May 2026 00:23:48 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Louisiana senator who voted to convict Trump loses Republican primary",
         "link": "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump",
         "pubDate": "Sat, 16 May 2026 23:02:34 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Napoleon Solo holds off Iron Honor to win the Preakness",
@@ -32,11 +50,11 @@
         "title": "Bulgarian banger &apos;Bangaranga&apos; bags country its 1st Eurovision win",
         "link": "https://www.npr.org/2026/05/16/nx-s1-5824393/eurovision-winner-dara-bangaranga-bulgaria-vienna-austria",
         "pubDate": "Sat, 16 May 2026 20:48:27 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
-        "title": "A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo",
-        "link": "https://www.npr.org/2026/05/16/g-s1-122494/a-new-ebola-outbreak-has-already-killed-87-people",
+        "title": "World Health Organization declares Ebola outbreak in Congo a global health emergency",
+        "link": "https://www.npr.org/2026/05/16/g-s1-122494/new-ebola-outbreak-drc-who-global-emergency",
         "pubDate": "Sat, 16 May 2026 14:37:36 -0400",
         "category": "health"
       },
@@ -51,38 +69,32 @@
         "link": "https://www.npr.org/2026/05/16/g-s1-122490/timmy-humpback-whale-dead-stranded-rescue-denmark",
         "pubDate": "Sat, 16 May 2026 11:12:44 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "This Republican voted to convict Trump. Now he&apos;s up for reelection. Can he survive?",
-        "link": "https://www.npr.org/2026/05/16/g-s1-122486/louisiana-senate-cassidy-trump",
-        "pubDate": "Sat, 16 May 2026 08:38:33 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Elephants eat their crops. Farmers strike back. It&apos;s a war that&apos;s only getting worse",
-        "link": "https://www.npr.org/2026/05/16/g-s1-121654/elephants-farmers-crops-sri-lanka",
-        "pubDate": "Sat, 16 May 2026 07:19:25 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The townspeople of Vilseck, Germany, worry that Trump may pull out 5,000 U.S. troops",
-        "link": "https://www.npr.org/2026/05/16/nx-s1-5815881/trump-germany-withdrawal-nato-us-troops-vilseck",
-        "pubDate": "Sat, 16 May 2026 06:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Forty-three arrests after \u00a34.5m police operation to keep rival London protests apart",
+        "link": "https://www.bbc.com/news/articles/ckgpznn202po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 17 May 2026 09:50:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+        "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 17 May 2026 09:26:53 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+        "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 17 May 2026 07:21:03 GMT",
+        "category": "Top News"
+      },
       {
         "title": "'New cancer test makes me feel women's health matters'",
         "link": "https://www.bbc.com/news/articles/ckgp0gedjk3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 17 May 2026 05:37:49 GMT",
         "category": "health"
-      },
-      {
-        "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-        "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 17 May 2026 02:55:08 GMT",
-        "category": "world"
       },
       {
         "title": "'Look Mum, one point': Why does the UK keep getting Eurovision wrong?",
@@ -115,18 +127,6 @@
         "category": "Top News"
       },
       {
-        "title": "North of England Olympic bid for 2040s being assessed",
-        "link": "https://www.bbc.com/sport/olympics/articles/clypl9pzy6jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 16 May 2026 23:02:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Riot police deal with 'serious disorder' as Celtic fans celebrate Premiership title win",
-        "link": "https://www.bbc.com/news/articles/c5yegmxv883o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 16 May 2026 22:00:13 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Canadian from hantavirus-hit cruise ship tests positive",
         "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 16 May 2026 20:36:53 GMT",
@@ -135,60 +135,72 @@
     ],
     "reuters": [
       {
-        "title": "Ukraine drones kill four in Russia, Moscow faces biggest attack in over a year",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0965737157453db622696f0b909b0e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fleast-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17%2f&amp;c=10323130976043570593&amp;mkt=en-us",
-        "pubDate": "Sat, 16 May 2026 22:37:00 GMT",
+        "title": "China sends rescue workers to Guangxi flood site",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a098fecc556403d84065c2be5c0484a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fchina-sends-rescue-workers-guangxi-flood-site-2026-05-17%2f&amp;c=11173183393675170473&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 01:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nepali Sherpa scales Mount Everest for a record 32nd time",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a098fecc556403d84065c2be5c0484a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fnepali-sherpa-scales-mount-everest-record-32nd-time-2026-05-17%2f&amp;c=3752295332569544302&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 01:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Philippine lawyers ask Supreme Court to reject senator's plea to block ICC arrest",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a098fecc556403d84065c2be5c0484a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fphilippine-lawyers-ask-supreme-court-reject-senators-plea-block-icc-arrest-2026-05-17%2f&amp;c=16626289991661966056&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 00:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "North Korean women's soccer club arrives in South amid strained ties",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a098fecc556403d84065c2be5c0484a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnorth-korean-womens-soccer-club-arrives-south-amid-strained-ties-2026-05-17%2f&amp;c=17942720089296894072&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 00:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Federal funding for Trump's ballroom in jeopardy after Senate ruling",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a098fecc556403d84065c2be5c0484a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffederal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17%2f&amp;c=18220507754612105063&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 00:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Republican Senator Cassidy loses re-election to Trump retribution campaign",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a098fecc556403d84065c2be5c0484a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2frepublican-cassidy-faces-trump-retribution-effort-louisiana-senate-primary-2026-05-16%2f&amp;c=15743353483211986432&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 00:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tata Electronics and ASML partner on India's first semiconductor fab",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09901b43af4d888967fc071d358c64&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2ftata-electronics-asml-partner-indias-first-semiconductor-fab-2026-05-16%2f&amp;c=18270779176421818195&amp;mkt=en-us",
+        "pubDate": "Sat, 16 May 2026 23:15:00 GMT",
         "category": "tech"
       },
       {
-        "title": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a096574531d439e97518be3913fa31a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fwho-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17%2f&amp;c=5110664801835436482&amp;mkt=en-us",
-        "pubDate": "Sat, 16 May 2026 22:23:00 GMT",
-        "category": "health"
+        "title": "Ukraine drones kill four in Russia, Moscow faces biggest attack in over a year",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a098fecc556403d84065c2be5c0484a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fleast-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17%2f&amp;c=10323130976043570593&amp;mkt=en-us",
+        "pubDate": "Sat, 16 May 2026 22:37:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Venezuelan official Alex Saab, a Maduro ally, deported to US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09656975204f78a8f21c3e8f938386&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fvenezuelan-official-alex-saab-maduro-ally-deported-us-2026-05-16%2f&amp;c=17830406735901788401&amp;mkt=en-us",
-        "pubDate": "Sat, 16 May 2026 15:54:00 GMT",
-        "category": "us"
+        "title": "South Korea says it will pursue all options to avoid Samsung strike",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a098fecc556403d84065c2be5c0484a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fsouth-korea-says-it-will-pursue-all-options-avoid-samsung-strike-2026-05-17%2f&amp;c=5832556722835471901&amp;mkt=en-us",
+        "pubDate": "Sat, 16 May 2026 22:21:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Arnold urges Iraq to show fighting spirit at World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a096569c97145dcaa079dc48843425e&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2farnold-urges-iraq-show-fighting-spirit-world-cup-2026-05-16%2f&amp;c=11040715357781190684&amp;mkt=en-us",
-        "pubDate": "Sat, 16 May 2026 15:11:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Rising diesel costs from Iran war strain US school budgets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09656a18bc41a6aad9db80eefc1214&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2frising-diesel-costs-iran-war-strain-us-school-budgets-2026-05-16%2f&amp;c=17904238694030287563&amp;mkt=en-us",
-        "pubDate": "Sat, 16 May 2026 12:34:00 GMT",
-        "category": "business"
+        "title": "Trump returns from China with stability and a stalemate",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a098fecc556403d84065c2be5c0484a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrump-returns-china-with-stability-stalemate-2026-05-16%2f&amp;c=5315739169976560516&amp;mkt=en-us",
+        "pubDate": "Sat, 16 May 2026 14:40:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
-      {
-        "title": "Kevin Warsh comes into the Fed facing a big &apos;family fight&apos; over cutting interest rates",
-        "link": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
-        "pubDate": "Sat, 16 May 2026 13:41:29 GMT",
-        "category": "Top News"
-      },
       {
         "title": "Global oil stockpiles could hit record lows if Strait of Hormuz remains closed",
         "link": "https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html",
         "pubDate": "Sat, 16 May 2026 13:25:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
-        "link": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
-        "pubDate": "Sat, 16 May 2026 09:54:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
-        "link": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
-        "pubDate": "Sat, 16 May 2026 08:26:02 GMT",
-        "category": "Top News"
       }
     ]
   }
