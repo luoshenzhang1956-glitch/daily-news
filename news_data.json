@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-05-17T17:05:06.694537",
+  "updated_at": "2026-05-17T19:19:11.519085",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Canadian national health agency confirms 1 positive hantavirus test",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0a1426638642d9acdbcaa0d5809cce&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcanada-hantavirus-positive-test-1ef18249115195f09381a174092a1cae&amp;c=16586809794444938371&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 11:13:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Pese a enfermedades a bordo, la demanda de cruceros se mantiene",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0a1425b7864278ae2b6fba8e88ab05&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcruceros-hantavirus-barcos-vacaciones-enfermedades-81aa45886a3f5d575ef07ea0923c38dd&amp;c=7527605677152138207&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 07:13:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Phillies bring 3-game road win streak into game against the Pirates",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0a14259beb4eb39b080e8db3d282c8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpittsburgh-pirates-baseball-philadelphia-phillies-ryan-ohearn-452db00474cb45f08e87f90dce74b314&amp;c=10297772217252532687&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 01:02:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
         "title": "Bus riders to Montgomery retrace old steps while fighting a new fight",
@@ -66,15 +85,27 @@
     ],
     "bbc": [
       {
-        "title": "Scotland rugby great Scott Hastings dies at 61",
-        "link": "https://www.bbc.com/sport/rugby-union/articles/ce8p60nj9e9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 17 May 2026 16:22:02 GMT",
+        "title": "Eurovision winner Dara arrives to screaming fans in Bulgaria",
+        "link": "https://www.bbc.com/news/videos/c2k2p8qkk58o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 17 May 2026 18:10:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+        "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 17 May 2026 18:08:16 GMT",
         "category": "Top News"
       },
       {
         "title": "How worrying is the Ebola outbreak in DR Congo?",
         "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 17 May 2026 13:31:00 GMT",
+        "pubDate": "Sun, 17 May 2026 18:06:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Scotland rugby great Scott Hastings dies at 61",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/ce8p60nj9e9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 17 May 2026 16:22:02 GMT",
         "category": "Top News"
       },
       {
@@ -96,22 +127,10 @@
         "category": "Top News"
       },
       {
-        "title": "Saturday Night Live UK has (mostly) won over a sceptical crowd",
-        "link": "https://www.bbc.com/news/articles/cj0p7q080yno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 17 May 2026 10:29:49 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'New cancer test makes me feel women's health matters'",
         "link": "https://www.bbc.com/news/articles/ckgp0gedjk3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 17 May 2026 05:37:49 GMT",
         "category": "health"
-      },
-      {
-        "title": "'Look Mum, one point': How the UK keeps getting Eurovision wrong",
-        "link": "https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 17 May 2026 02:13:36 GMT",
-        "category": "Top News"
       },
       {
         "title": "Robert paid \u00a3726 to skip the driving test waiting list. New laws mean others won't be able to",
@@ -128,90 +147,24 @@
     ],
     "reuters": [
       {
-        "title": "Ukraine drones kill four in Russia, Moscow faces biggest attack in over a year",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09f528120b46b6889cca89aa07b8e2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fleast-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17%2f&amp;c=10323130976043570593&amp;mkt=en-us",
-        "pubDate": "Sun, 17 May 2026 08:48:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Republican Senator Cassidy loses re-election to Trump retribution campaign",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09f51541fd463f9bdbab25be607112&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2frepublican-cassidy-faces-trump-retribution-effort-louisiana-senate-primary-2026-05-16%2f&amp;c=15743353483211986432&amp;mkt=en-us",
-        "pubDate": "Sun, 17 May 2026 08:44:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09f51541fd463f9bdbab25be607112&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fwho-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17%2f&amp;c=5110664801835436482&amp;mkt=en-us",
-        "pubDate": "Sun, 17 May 2026 08:26:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "WHO declares global health emergency over Ebola outbreak",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09f5286f994a119afe784917f009af&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW127917052026RP1%2f&amp;c=10852806347662109884&amp;mkt=en-us",
-        "pubDate": "Sun, 17 May 2026 08:23:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Republican Representative Massie, critic of Trump, calls president's attacks 'desperate' ahead of primary",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09f51541fd463f9bdbab25be607112&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2frepublican-representative-massie-critic-trump-calls-presidents-attacks-desperate-2026-05-17%2f&amp;c=4042461884726057781&amp;mkt=en-us",
-        "pubDate": "Sun, 17 May 2026 08:08:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Israeli strikes kill five people in Gaza, medics say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09f51541fd463f9bdbab25be607112&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strikes-kill-four-people-gaza-medics-say-2026-05-17%2f&amp;c=17484970729679502345&amp;mkt=en-us",
-        "pubDate": "Sun, 17 May 2026 08:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Japan's Kore-eda explores AI's role in grief in Cannes contender",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09f527108d4c5a930c187c9089cda5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fjapans-kore-eda-explores-ais-role-grief-cannes-contender-2026-05-17%2f&amp;c=15615487199591466174&amp;mkt=en-us",
-        "pubDate": "Sun, 17 May 2026 07:58:00 GMT",
+        "title": "Trump's Greenland envoy Landry arrives in Nuuk",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0a144bca12473f939b9bd73702ed12&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrumps-greenland-envoy-landry-arrives-nuuk-2026-05-17%2f&amp;c=8683827420013472899&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 10:16:00 GMT",
         "category": "business"
       },
       {
-        "title": "UAE reports drone strike at nuclear power plant as Iran war deadlock endures",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09f51541fd463f9bdbab25be607112&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fabu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17%2f&amp;c=8419666701504626233&amp;mkt=en-us",
-        "pubDate": "Sun, 17 May 2026 07:33:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "In the US South, an appeals court leans farther right than the Supreme Court",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09f5261ade488d9e34b22d978ec320&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-south-an-appeals-court-leans-farther-right-than-supreme-court-2026-05-17%2f&amp;c=15107114738960061158&amp;mkt=en-us",
-        "pubDate": "Sun, 17 May 2026 04:15:00 GMT",
+        "title": "France's Publicis to buy US data firm LiveRamp for $2.2 billion",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0a144855c9427db2d2f8aa54040e1e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ffrances-publicis-buy-us-data-firm-liveramp-22-billion-2026-05-17%2f&amp;c=5074395304028817877&amp;mkt=en-us",
+        "pubDate": "Sun, 17 May 2026 09:54:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "Trump-backed faith event features conservative Christians as critics decry blurring of church-state lines",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a09f51541fd463f9bdbab25be607112&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-backed-faith-event-features-conservative-christians-critics-decry-blurring-2026-05-17%2f&amp;c=14220081707879770148&amp;mkt=en-us",
-        "pubDate": "Sun, 17 May 2026 02:17:00 GMT",
-        "category": "Top News"
       }
     ],
     "markets": [
-      {
-        "title": "One of the market&apos;s hottest stock themes is buying everything AI can&apos;t replace",
-        "link": "https://www.cnbc.com/2026/05/17/ai-stock-market-trade-halo-investing.html",
-        "pubDate": "Sun, 17 May 2026 14:21:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "AI-related layoffs a boost for stocks? Not necessarily",
-        "link": "https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html",
-        "pubDate": "Sun, 17 May 2026 13:36:59 GMT",
-        "category": "Top News"
-      },
       {
         "title": "G7 finance ministers to meet amid warning of economic consequences of prolonged Strait of Hormuz closure",
         "link": "https://www.cnbc.com/2026/05/17/opening-strait-of-hormuz-is-of-utmost-importance-eurogroup-head.html",
         "pubDate": "Sun, 17 May 2026 12:14:30 GMT",
         "category": "world"
-      },
-      {
-        "title": "S&amp;P 500 manages to extend weekly win streak despite anticlimactic Trump-Xi summit",
-        "link": "https://www.cnbc.com/2026/05/16/sp-500-manages-to-extend-weekly-win-streak-despite-anticlimactic-trump-xi-summit.html",
-        "pubDate": "Sat, 16 May 2026 21:35:43 GMT",
-        "category": "tech"
       }
     ]
   }
