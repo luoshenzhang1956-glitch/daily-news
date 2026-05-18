@@ -1,38 +1,74 @@
 {
-  "updated_at": "2026-05-18T18:06:54.910822",
+  "updated_at": "2026-05-18T21:19:40.788060",
   "news": {
     "ap": [
       {
-        "title": "US prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0b54af04ce4f51a324f9ffabb82bc8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgautam-adani-india-solar-energy-securities-fraud-bribery-4b59c127bd64a8e7ad3bac9c24764555&amp;c=4009660996615289901&amp;mkt=en-us",
-        "pubDate": "Mon, 18 May 2026 10:09:00 GMT",
+        "title": "Ebola outbreak designated global health emergency by WHO with Congo to open three treatment centers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0b81d47c04486980edc993ac2cb960&amp;url=https%3a%2f%2fapnews.com%2fvideo%2febola-outbreak-designated-global-health-emergency-by-who-with-congo-to-open-three-treatment-centers-18423211ccc5404cb60e4def54cc8389&amp;c=7096843632000757203&amp;mkt=en-us",
+        "pubDate": "Mon, 18 May 2026 14:11:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Oil prices keep swinging up and down, and so do stocks worldwide",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0b81ce6c6f428ea97834ada1251a8c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-china-trump-iran-e7b781e8e2394be6486fa5f006e5e06e&amp;c=86909377793522067&amp;mkt=en-us",
+        "pubDate": "Mon, 18 May 2026 11:03:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "NextEra, Dominion want to create a massive power company as AI drives energy demand in the US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0b81c1a97947ce919b4b0466532f7e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnextera-dominion-ai-electricity-utility-1916dc2187883c0d4eaf69ce11c51c75&amp;c=11051718268128108651&amp;mkt=en-us",
+        "pubDate": "Mon, 18 May 2026 07:16:00 GMT",
         "category": "us"
       },
       {
-        "title": "Ebola and hantavirus have Africa talking \u2018health sovereignty\u2019 as donor support fades",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0b54c3290241b19c360d7ea92b7755&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealth-africa-funding-aid-disease-ebola-sovereignty-7cc4c664d1ef829af58c5ea317d9c4c7&amp;c=10496335901801593501&amp;mkt=en-us",
-        "pubDate": "Mon, 18 May 2026 09:10:00 GMT",
-        "category": "health"
+        "title": "Argentina\u2019s icy outpost at the end of the world fears the hantavirus will chill tourism",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0b81c0f6324b4ab76f6632842add58&amp;url=https%3a%2f%2fapnews.com%2farticle%2fargentina-tourism-hantavirus-cruise-ship-ushuaia-7e16664e2d031797ed2c043c34956353&amp;c=5126066342681192805&amp;mkt=en-us",
+        "pubDate": "Mon, 18 May 2026 00:04:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
       {
-        "title": "Jury dismisses all claims in Elon Musk&apos;s lawsuit against OpenAI CEO Sam Altman",
-        "link": "https://www.npr.org/2026/05/18/nx-s1-5822366/musk-altman-openai-jury-verdict-claims-dismissed",
-        "pubDate": "Mon, 18 May 2026 14:03:34 -0400",
+        "title": "High school students learn historic building techniques",
+        "link": "https://www.npr.org/2026/05/18/nx-s1-5813703/high-school-students-learn-historic-building-techniques",
+        "pubDate": "Mon, 18 May 2026 17:01:47 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Tuesday is a big primary day. Here&apos;s what you need to know",
+        "link": "https://www.npr.org/2026/05/18/g-s1-122235/primary-day-alabama-georgia-idaho-kentucky-oregon-pennsylvania",
+        "pubDate": "Mon, 18 May 2026 16:58:00 -0400",
         "category": "Top News"
+      },
+      {
+        "title": "The business of storage units is booming. We met Vermont&apos;s operators",
+        "link": "https://www.npr.org/2026/05/18/nx-s1-5805080-e1/the-business-of-storage-units-is-booming-we-met-vermonts-operators",
+        "pubDate": "Mon, 18 May 2026 16:51:34 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Jury dismisses all claims in Elon Musk&apos;s lawsuit against OpenAI CEO Sam Altman",
+        "link": "https://www.npr.org/2026/05/18/nx-s1-5822360/jury-dismisses-all-claims-in-elon-musks-lawsuit-against-openai-ceo-sam-altman",
+        "pubDate": "Mon, 18 May 2026 16:50:45 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "This Ebola outbreak raises questions about when it all began \u2014 and the U.S. response",
+        "link": "https://www.npr.org/2026/05/18/g-s1-122655/ebola-outbreak-democratic-republic-congo-uganda",
+        "pubDate": "Mon, 18 May 2026 16:10:41 -0400",
+        "category": "health"
       },
       {
         "title": "NPR trims jobs in newsroom overhaul as it confronts era without public funding",
         "link": "https://www.npr.org/2026/05/18/nx-s1-5821622/npr-buyouts-layoffs-reorganization",
         "pubDate": "Mon, 18 May 2026 14:02:19 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Son of radicals, Zayd Ayers Dohrn details a childhood underground and on the run",
         "link": "https://www.npr.org/2026/05/18/nx-s1-5823595/zayd-ayers-dohrn-dangerous-dirty-violent-young",
         "pubDate": "Mon, 18 May 2026 13:51:47 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now",
@@ -51,38 +87,50 @@
         "link": "https://www.npr.org/2026/05/18/g-s1-122577/up-first-newsletter-bill-cassidy-trump-ebola-elon-musk-openai-sam-altman-idaho-airshow-collision",
         "pubDate": "Mon, 18 May 2026 07:44:43 -0400",
         "category": "world"
-      },
-      {
-        "title": "Why catching insider trading is so tricky nowadays, and just how helpful is it for kids to sleep in?",
-        "link": "https://www.npr.org/2026/05/18/g-s1-122515/why-catching-insider-trading-is-so-tricky-nowadays-and-just-how-helpful-is-it-for-kids-to-sleep-in",
-        "pubDate": "Mon, 18 May 2026 06:48:12 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Pop star Shakira is acquitted in a Spanish tax fraud case",
-        "link": "https://www.npr.org/2026/05/18/g-s1-122563/pop-star-shakira-is-acquitted-in-a-spanish-tax-fraud-case",
-        "pubDate": "Mon, 18 May 2026 06:25:01 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Thousands of U.S. countertop workers could have damaged lungs, safety expert says",
-        "link": "https://www.npr.org/2026/05/18/nx-s1-5691570/silicosis-beyond-california-quartz-countertop-cambria",
-        "pubDate": "Mon, 18 May 2026 06:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Why the Supreme Court&apos;s voting rights ruling could play a big role at the local level",
-        "link": "https://www.npr.org/2026/05/18/nx-s1-5812837/supreme-court-voting-rights-act-state-local-redistricting",
-        "pubDate": "Mon, 18 May 2026 05:05:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
+        "title": "Trump says he called off new Iran attack at request of Gulf states",
+        "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 18 May 2026 21:09:35 GMT",
+        "category": "world"
+      },
+      {
+        "title": "New High Street crime unit to target gangs fronting shops after BBC investigation",
+        "link": "https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 18 May 2026 21:06:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man City preparing for Guardiola departure",
+        "link": "https://www.bbc.com/sport/football/articles/c0k28522472o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 18 May 2026 21:02:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
         "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 18 May 2026 17:56:48 GMT",
+        "pubDate": "Mon, 18 May 2026 20:59:57 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+        "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 18 May 2026 20:44:57 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "American who contracted Ebola in DR Congo evacuated for treatment",
+        "link": "https://www.bbc.com/news/articles/cjwpy2qww5do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 18 May 2026 19:53:33 GMT",
         "category": "us"
+      },
+      {
+        "title": "King all smiles as he meets David Beckham at Chelsea Flower Show",
+        "link": "https://www.bbc.com/news/articles/c759vw07p9eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 18 May 2026 19:04:23 GMT",
+        "category": "Top News"
       },
       {
         "title": "Burnham pledges not to 're-run' Brexit arguments",
@@ -97,55 +145,32 @@
         "category": "Top News"
       },
       {
-        "title": "Bodies of missing Italian divers found in Maldives",
-        "link": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 18 May 2026 16:51:09 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Police hunt man after reports teens raped on beach",
         "link": "https://www.bbc.com/news/articles/c9v3jnl4xmyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 18 May 2026 16:41:08 GMT",
         "category": "Top News"
-      },
+      }
+    ],
+    "reuters": [
       {
-        "title": "At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed",
-        "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 18 May 2026 16:20:30 GMT",
+        "title": "Aaron Rai rises to No. 15 in world rankings, Jon Rahm to No. 12",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0b81e825a54a6f99d541c4fcd31e47&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2faaron-rai-rises-no-15-world-rankings-jon-rahm-no-12--flm-2026-05-18%2f&amp;c=3283223898753148013&amp;mkt=en-us",
+        "pubDate": "Mon, 18 May 2026 14:09:00 GMT",
         "category": "world"
       },
       {
-        "title": "Tribute to 'fearless' soldier who died after fall from horse at royal show",
-        "link": "https://www.bbc.com/news/articles/cj0p1ry367lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 18 May 2026 16:14:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prince William selling 20% of duchy property for housing and nature projects",
-        "link": "https://www.bbc.com/news/articles/ce8pg8ryjkzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 18 May 2026 13:10:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK growth forecast upgraded by IMF but risks remain",
-        "link": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 18 May 2026 13:04:20 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-        "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 18 May 2026 09:33:53 GMT",
-        "category": "tech"
+        "title": "Health workers race to contain Congo's fast-spreading Ebola outbreak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0b821ab382465bb5ba215b8f0af610&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fhealth-workers-race-respond-congos-fast-spreading-ebola-outbreak-2026-05-18%2f&amp;c=18438329614548289738&amp;mkt=en-us",
+        "pubDate": "Mon, 18 May 2026 11:54:00 GMT",
+        "category": "health"
       }
     ],
-    "reuters": [],
     "markets": [
       {
-        "title": "Lululemon takes battle with Chip Wilson public, calls founder &apos;misguided&apos; and &apos;outdated&apos;",
-        "link": "https://www.cnbc.com/2026/05/18/lululemon-proxy-war-with-chip-wilson-goes-public-sets-annual-meeting.html",
-        "pubDate": "Mon, 18 May 2026 14:36:42 GMT",
-        "category": "business"
+        "title": "CDC says American tests positive for Ebola in Africa, risk in the U.S. remains low",
+        "link": "https://www.cnbc.com/2026/05/18/ebola-outbreak-american-tests-positive-in-congo.html",
+        "pubDate": "Mon, 18 May 2026 20:39:50 GMT",
+        "category": "health"
       }
     ]
   }
