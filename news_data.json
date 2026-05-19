@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-05-19T12:49:00.959507",
+  "updated_at": "2026-05-19T16:52:44.997159",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Trump endorses Paxton in Texas Republican primary, boosting his challenge to incumbent Sen. Cornyn",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c94ed98604832a96966ea3c7c40e7&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-texas-senate-endorsement-paxton-cornyn-adb4c7213fc2d0db0b29d0ab65d49384&amp;c=9127716840478734977&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 09:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Federal judge bans most arrests by federal agents in immigration courts in New York",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c94ed98604832a96966ea3c7c40e7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fice-immigration-courts-arrests-ruling-0d8fa782a85853f0092201069f4e21a8&amp;c=3016783908472724868&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 09:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Putin visits China to reaffirm Russia ties as Xi also seeks stable US relations after Trump summit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c94f332fb42daa69e80cd8518be03&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97&amp;c=1405511598756472496&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 09:25:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "UK police investigate allegations of child sex abuse dating back to 1980s after Epstein file release",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c94ed98604832a96966ea3c7c40e7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fepstein-child-sex-abuse-uk-surrey-berkshire-ce43aa16fcdb24d68bc05c0c142e8215&amp;c=485362659193974910&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 08:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US stocks fall further from their records after bond markets crank up the pressure",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c94fd189d4a56afaaf858699ede13&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-iran-trump-oil-nvidia-fde4dcd17a3c02d884a947342e8e8f5e&amp;c=11539817184073004951&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 08:13:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "A NATO fighter jet shoots down a Ukrainian drone over Estonia",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c94ed98604832a96966ea3c7c40e7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a&amp;c=18272725804816215296&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 08:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UAE says drones that targeted Barakah nuclear power plant came from Iraqi territory",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c94ed98604832a96966ea3c7c40e7&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-uae-nuclear-drones-uae-gulf-46f5023dc480c3fbe8061c2ed6a94a5c&amp;c=13425481325131913735&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 07:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Congo reports sharp rise in Ebola cases as WHO worries about outbreak\u2019s scale and speed",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c94ed98604832a96966ea3c7c40e7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-deadly-virus-bundibugyo-health-emergency-3c97cacf44e007127df5739199f32517&amp;c=18319496347912043981&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 06:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Climate report says world won\u2019t get as hot as feared but will pass warming limit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c94f14b72432088a999996959622d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fclimate-change-future-worst-case-best-danger-cc7a20fba4f5b42ce33024e1b781e7c9&amp;c=9323405342309983301&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 06:09:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "What to watch in Tuesday\u2019s primaries as Trump\u2019s endorsement is put to the test",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c94ed98604832a96966ea3c7c40e7&amp;url=https%3a%2f%2fapnews.com%2farticle%2felection-takeaways-massie-kentucky-georgia-alabama-8eb9f54741ce0313ab15b291bd742c16&amp;c=17606520623299478866&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 06:01:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "npr": [
+      {
+        "title": "Minnesota becomes first state to ban prediction markets",
+        "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+        "pubDate": "Tue, 19 May 2026 12:28:32 -0400",
+        "category": "us"
+      },
+      {
+        "title": "States sue over new student loan limits on certain nursing and healthcare degrees",
+        "link": "https://www.npr.org/2026/05/19/nx-s1-5826688/lawsuit-student-loans-nursing-healthcare-graduate-degree",
+        "pubDate": "Tue, 19 May 2026 12:19:01 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Can&apos;t keep a habit? This comic shares a proven formula to make it stick",
+        "link": "https://www.npr.org/2026/05/19/nx-s1-5825984/cant-keep-a-habit-this-comic-shares-a-proven-formula-to-make-it-stick",
+        "pubDate": "Tue, 19 May 2026 12:19:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "A study investigates: Did the abrupt end of USAID have an impact on violence?",
+        "link": "https://www.npr.org/2026/05/19/g-s1-122281/u-s-aid-usaid-trump-violence",
+        "pubDate": "Tue, 19 May 2026 10:12:37 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel tries to expel a whole Palestinian neighborhood in East Jerusalem, activists say",
+        "link": "https://www.npr.org/2026/05/19/nx-s1-5823861/israel-palestinians-east-jerusalem",
+        "pubDate": "Tue, 19 May 2026 09:20:36 -0400",
+        "category": "world"
+      },
       {
         "title": "To revive an extinct bird, you first need an artificial egg",
         "link": "https://www.npr.org/2026/05/19/nx-s1-5805950/artificial-eggs-dodo-moa",
@@ -13,7 +104,7 @@
         "title": "California mosque shooting leaves 5 dead. And, judge dismisses Trump&apos;s IRS lawsuit",
         "link": "https://www.npr.org/2026/05/19/g-s1-122806/up-first-newsletter-islamic-center-san-diego-primary-elections-trump-irs-elon-musk-openai",
         "pubDate": "Tue, 19 May 2026 07:33:38 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Some plants have a genetic superpower that may help them survive a cataclysm",
@@ -25,193 +116,145 @@
         "title": "The missing men of the American marriage market",
         "link": "https://www.npr.org/sections/planet-money/2026/05/19/g-s1-122695/the-missing-men-of-the-american-marriage-market",
         "pubDate": "Tue, 19 May 2026 06:30:00 -0400",
-        "category": "us"
+        "category": "business"
       },
       {
         "title": "What we know about how the U.S. government uses spyware (and what we don&apos;t)",
         "link": "https://www.npr.org/2026/05/19/nx-s1-5826085/spyware-trump-dhs-paragon",
         "pubDate": "Tue, 19 May 2026 05:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Steep drop in number of people with Affordable Care Act health coverage, analysis finds",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5825887/affordable-care-act-health-insurance-price",
-        "pubDate": "Tue, 19 May 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "The French Open courts are clay, a tricky surface for some. Here&apos;s how the pros do it",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5822888/french-open-clay-hailey-baptiste",
-        "pubDate": "Tue, 19 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "House holds off on prediction market ban despite bipartisan calls for prohibition",
-        "link": "https://www.npr.org/2026/05/19/g-s1-121820/house-holds-off-on-prediction-market-ban-despite-bipartisan-calls-for-prohibition",
-        "pubDate": "Tue, 19 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;We&apos;re not kids anymore&apos;: The DACA generation hits their 30s with an unstable future",
-        "link": "https://www.npr.org/2026/05/19/g-s1-121405/immigration-trump-daca-generation-limbo",
-        "pubDate": "Tue, 19 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Why you should care about 2 power companies merging. Hint: affordability",
-        "link": "https://www.npr.org/2026/05/18/nx-s1-5825871/electricity-prices-nextera-dominion-merger-utilities",
-        "pubDate": "Mon, 18 May 2026 18:00:12 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "Father-of-8 security guard hailed as hero in San Diego mosque shooting",
-        "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 12:30:48 GMT",
+        "title": "Surrey Police investigating child sex abuse allegations after Epstein files release",
+        "link": "https://www.bbc.com/news/articles/c0k2d2pl6x0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 19 May 2026 16:44:57 GMT",
         "category": "Top News"
       },
       {
-        "title": "Charges sought for up to 57 people over Grenfell",
-        "link": "https://www.bbc.com/news/articles/c1e24vxyqnwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 12:27:25 GMT",
+        "title": "Supermarkets urged to limit food prices by government",
+        "link": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 19 May 2026 16:24:11 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Married at First Sight UK rape allegations 'extremely serious', says PM's spokesperson",
+        "link": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 19 May 2026 16:18:04 GMT",
         "category": "Top News"
       },
       {
-        "title": "'Ebola has tortured us': Fear as outbreak spreads faster than first thought",
-        "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 12:24:07 GMT",
-        "category": "world"
+        "title": "BBC confirms new Strictly Come Dancing hosts",
+        "link": "https://www.bbc.com/news/articles/cgep5ez80rzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 19 May 2026 15:16:33 GMT",
+        "category": "Top News"
       },
       {
         "title": "Petrol hits highest price since start of Iran war",
         "link": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 12:15:31 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Married at First Sight UK rape allegations serious, says government",
-        "link": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 11:30:55 GMT",
+        "pubDate": "Tue, 19 May 2026 15:12:31 GMT",
         "category": "Top News"
       },
       {
-        "title": "New High Street crime unit to target gangs fronting shops after BBC investigation",
-        "link": "https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 11:19:45 GMT",
+        "title": "Potential new treatment for pre-eclampsia",
+        "link": "https://www.bbc.com/news/videos/c3r27w78drdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 19 May 2026 15:07:19 GMT",
+        "category": "health"
+      },
+      {
+        "title": "HS2 could cost up to \u00a3102.7bn and trains will be slower than first planned",
+        "link": "https://www.bbc.com/news/articles/c794xw7p2dqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 19 May 2026 14:34:17 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+        "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 19 May 2026 14:20:15 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Father-of-eight killed in San Diego mosque shooting hailed as a hero",
+        "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 19 May 2026 12:30:48 GMT",
+        "category": "us"
       },
       {
         "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
         "link": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 19 May 2026 11:05:09 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
-        "link": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 10:58:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Big game scorer' Stewart and Curtis make Scotland World Cup squad",
-        "link": "https://www.bbc.com/sport/football/articles/c4g94rpvx73o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 10:03:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-        "link": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 07:07:55 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "Samsung, labour union narrow some differences as major strike looms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c5bfd620b4225ba6156d902d9aa8a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fsamsung-labour-union-meet-again-seoul-threatens-intervene-block-strike-2026-05-19%2f&amp;c=14816132387300817497&amp;mkt=en-us",
-        "pubDate": "Tue, 19 May 2026 04:02:00 GMT",
-        "category": "business"
+        "title": "US Senate Republicans advance major portion of $72 billion migrant enforcement bill",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c951fc3594f07b28ccfc921029879&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-senate-republicans-advance-major-portion-72-billion-migrant-enforcement-bill-2026-05-19%2f&amp;c=7186487152784977064&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 08:33:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "US stock futures fall on extended chip losses, inflation worries",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c5bfcb3a54e06a931376a9ee92138&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-fall-chips-extend-slide-inflation-worries-persist-2026-05-19%2f&amp;c=14268317367281474371&amp;mkt=en-us",
-        "pubDate": "Tue, 19 May 2026 03:51:00 GMT",
+        "title": "Trump backs hardliner Ken Paxton in critical Texas US Senate race runoff",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c951fc3594f07b28ccfc921029879&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-make-endorsement-texas-us-senate-republican-primary-2026-05-19%2f&amp;c=4036956477019800642&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 08:33:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukrainian drone shot down by NATO jet over Estonia; Kyiv blames Moscow for steering it there",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c951fc3594f07b28ccfc921029879&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fnato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19%2f&amp;c=9119607237390190056&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 07:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukrainian mid-range strikes deal double blow to Russia's war effort",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c951fc3594f07b28ccfc921029879&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fukrainian-mid-range-strikes-deal-double-blow-russias-war-effort-2026-05-19%2f&amp;c=17428216557517116409&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 07:52:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "NAACP urges Black athletes, fans to boycott Southern US universities over voting rights",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c9522f87e4072a509ae8325f8aa6f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fnaacp-urges-black-athletes-fans-boycott-southern-us-universities-over-voting-2026-05-19%2f&amp;c=8439851988036920420&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 07:48:00 GMT",
         "category": "us"
       },
       {
-        "title": "Rwanda tightens border health screening after Ebola outbreak in Congo",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c5c0165ca45f7aca5758bef987675&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW183419052026RP1%2f&amp;c=11406452187090317100&amp;mkt=en-us",
-        "pubDate": "Tue, 19 May 2026 03:47:00 GMT",
-        "category": "health"
+        "title": "Trump says US may attack Iran again but that Tehran wants deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c951fc3594f07b28ccfc921029879&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-says-peace-proposal-includes-reparations-war-damage-us-troop-withdrawal-2026-05-19%2f&amp;c=4199786248698315310&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 07:43:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c5c00a98348eaa001227a77391049&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fstanchart-cut-more-than-7000-jobs-bank-steps-up-ai-adoption-2026-05-19%2f&amp;c=14348094928472317564&amp;mkt=en-us",
-        "pubDate": "Tue, 19 May 2026 02:59:00 GMT",
-        "category": "tech"
+        "title": "NTSB reviews reports of cracks in key part in hearing on fatal Kentucky cargo crash",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c951fc3594f07b28ccfc921029879&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fntsb-reviews-reports-cracks-key-part-hearing-fatal-kentucky-cargo-crash-2026-05-19%2f&amp;c=11673097282029360313&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 06:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Here are the Democrats taking early steps in potential 2028 White House bids",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c951fc3594f07b28ccfc921029879&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fhere-are-democrats-taking-early-steps-potential-2028-white-house-bids-2026-05-19%2f&amp;c=13015946437418334658&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 05:56:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "World awaits new Fed Chair's vision on independence",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c5bfb95694a538bfd28698a31b9ab&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fworld-awaits-new-fed-chairs-vision-independence-2026-05-19%2f&amp;c=9006166754785130679&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c95203a6b4dde96d5d90b2b6bf608&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fworld-awaits-new-fed-chairs-vision-independence-2026-05-19%2f&amp;c=9006166754785130679&amp;mkt=en-us",
         "pubDate": "Tue, 19 May 2026 02:39:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "Trump targets Massie in Tuesday primary as purge of Republican critics intensifies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0c951fc3594f07b28ccfc921029879&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-targets-massie-tuesday-primary-purge-republican-critics-intensifies-2026-05-19%2f&amp;c=7988751289201785097&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 02:15:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
-      {
-        "title": "Musk loses in court, Home Depot earnings, DOJ&apos;s &apos;lawfare&apos; fund and more in Morning Squawk",
-        "link": "https://www.cnbc.com/2026/05/19/5-things-to-know-before-the-market-opens.html",
-        "pubDate": "Tue, 19 May 2026 12:30:23 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Home Depot, Amer Sports, Blackstone, Alphabet &amp; more",
-        "link": "https://www.cnbc.com/2026/05/19/stocks-making-the-biggest-moves-premarket-hd-as-bx-googl.html",
-        "pubDate": "Tue, 19 May 2026 12:05:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Standard Chartered to cut over 15% of corporate functions roles as it targets higher returns",
-        "link": "https://www.cnbc.com/2026/05/19/standard-chartered-job-cuts-corporate-roles-profit-targets.html",
-        "pubDate": "Tue, 19 May 2026 04:40:25 GMT",
-        "category": "Top News"
-      },
       {
         "title": "Trump says he&apos;s &apos;concerned&apos; about Ebola after American tests positive in Africa",
         "link": "https://www.cnbc.com/2026/05/18/trump-ebola-virus-concerned-africa.html",
         "pubDate": "Mon, 18 May 2026 22:33:35 GMT",
         "category": "health"
-      },
-      {
-        "title": "Berkshire Hathaway has revamped its portfolio \u2014 Here&apos;s how the new stocks are trading",
-        "link": "https://www.cnbc.com/2026/05/18/berkshire-portfolio-revamp-delta-airlines-macys-unitedhealth.html",
-        "pubDate": "Mon, 18 May 2026 19:18:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Warren Buffett teased to CNBC a \u2018tiny purchase\u2019 in March. Berkshire filing may have revealed it",
-        "link": "https://www.cnbc.com/2026/05/18/warren-buffett-teased-to-cnbc-a-tiny-purchase-in-march-berkshire-filing-may-have-revealed-it.html",
-        "pubDate": "Mon, 18 May 2026 17:59:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "One of the market&apos;s hottest stock themes is buying everything AI can&apos;t replace",
-        "link": "https://www.cnbc.com/2026/05/17/ai-stock-market-trade-halo-investing.html",
-        "pubDate": "Mon, 18 May 2026 17:28:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nvidia earnings call drama: Will Jensen Huang talk &apos;Trump&apos; and China chips after Xi summit?",
-        "link": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
-        "pubDate": "Mon, 18 May 2026 17:18:54 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "JPMorgan&apos;s summer reading list for the wealthy includes books on AI, leadership and lemons",
-        "link": "https://www.cnbc.com/2026/05/18/jpmorgan-summer-reading-list.html",
-        "pubDate": "Mon, 18 May 2026 16:50:38 GMT",
-        "category": "Top News"
       }
     ]
   }
