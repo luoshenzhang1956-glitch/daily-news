@@ -1,20 +1,68 @@
 {
-  "updated_at": "2026-05-20T04:07:56.438393",
+  "updated_at": "2026-05-20T09:47:29.988040",
   "news": {
     "ap": [
       {
-        "title": "One of world\u2019s largest energy storage plants launches in South Dakota",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0d333cab004c4197daa64d99c5cfc8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsouth-dakota-thermal-energy-storage-poet-antora-85cbfa02d97ce7d6b6de9e22078f1a14&amp;c=8690538793214205933&amp;mkt=en-us",
-        "pubDate": "Tue, 19 May 2026 13:12:00 GMT",
-        "category": "tech"
+        "title": "WHO says risk of global spread of Ebola outbreak is low, but high at national, regional levels",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0d82cdc6ca4834a33b71bc577f6912&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-uganda-ebola-who-spread-2bbfe841ed70b824d27c5adfd659edf7&amp;c=4793377266437130219&amp;mkt=en-us",
+        "pubDate": "Wed, 20 May 2026 02:39:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Jury acquits 2 business executives of bribing Navy admiral for government contract",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0d82bad58f49bab7de4a3f43941748&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnavy-robert-burke-acquittal-bribery-next-jump-aeace09b2af41a966ae8bb4caeb9927d&amp;c=7603915269467820112&amp;mkt=en-us",
+        "pubDate": "Tue, 19 May 2026 12:18:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
       {
-        "title": "In Georgia, two GOP Trump backers vie to face former Atlanta mayor for governor",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5823613/georgia-primaries-elections-governor-senate",
-        "pubDate": "Tue, 19 May 2026 20:45:17 -0400",
+        "title": "Bees have coexisted with us for over a millennia. Their name remains a mystery",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5825919/bees-have-coexisted-with-us-for-over-a-millennia-their-name-remains-a-mystery",
+        "pubDate": "Wed, 20 May 2026 05:00:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Overworked and understaffed: Special ed teachers turn to AI for help",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5810192/special-education-teachers-ai-ieps",
+        "pubDate": "Wed, 20 May 2026 05:00:00 -0400",
         "category": "us"
+      },
+      {
+        "title": "4 takeaways from Tuesday&apos;s primary night in half a dozen states",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5826937/takeaways-primaries-trump-massey-gallrein",
+        "pubDate": "Wed, 20 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Gun rights groups see &apos;golden age&apos; under Trump administration",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5810190/gun-rights-trump-rules-atf",
+        "pubDate": "Wed, 20 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Denver has a plan to heat and cool buildings without fossil fuels. It involves \u2026 sewage?",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5734477/denver-geothermal-network-sewage",
+        "pubDate": "Wed, 20 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5820718/morning-news-brief",
+        "pubDate": "Wed, 20 May 2026 04:48:18 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Montana could soon ease restrictions on mining precious metals",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5806316/montana-could-soon-ease-restrictions-on-mining-precious-metals",
+        "pubDate": "Wed, 20 May 2026 04:47:44 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "WHO chief concerned over &apos;scale and speed&apos; of Ebola outbreak",
+        "link": "https://www.npr.org/2026/05/20/g-s1-122971/who-chief-concerned-over-scale-and-speed-of-ebola-outbreak",
+        "pubDate": "Wed, 20 May 2026 01:36:28 -0400",
+        "category": "health"
       },
       {
         "title": "U.S. government to drop tax claims against Trump in broadening of IRS settlement",
@@ -23,96 +71,60 @@
         "category": "business"
       },
       {
-        "title": "Endorsed by Trump, Ed Gallrein defeats Rep. Thomas Massie in GOP House primary",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5827183/massie-gallrein-kentucky-race-results-trump",
-        "pubDate": "Tue, 19 May 2026 19:57:20 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;Taiwan Travelogue&apos; wins the 2026 International Booker Prize",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5823677/2026-booker-prize-winner-taiwan-travelogue",
-        "pubDate": "Tue, 19 May 2026 17:31:47 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Trump endorses Ken Paxton over incumbent John Cornyn in Texas Senate primary runoff",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5736175/trump-endorses-ken-paxton-texas-senate",
-        "pubDate": "Tue, 19 May 2026 12:53:41 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Minnesota becomes first state to ban prediction markets",
         "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
         "pubDate": "Tue, 19 May 2026 12:28:32 -0400",
         "category": "tech"
-      },
-      {
-        "title": "States sue over new student loan limits on certain nursing and healthcare degrees",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5826688/lawsuit-student-loans-nursing-healthcare-graduate-degree",
-        "pubDate": "Tue, 19 May 2026 12:19:01 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Can&apos;t keep a habit? This comic shares a proven formula to make it stick",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5825984/cant-keep-a-habit-this-comic-shares-a-proven-formula-to-make-it-stick",
-        "pubDate": "Tue, 19 May 2026 12:19:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A study investigates: Did the abrupt end of USAID have an impact on violence?",
-        "link": "https://www.npr.org/2026/05/19/g-s1-122281/u-s-aid-usaid-trump-violence",
-        "pubDate": "Tue, 19 May 2026 10:12:37 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Israel&apos;s trying to expel a whole Palestinian district in East Jerusalem, activists say",
-        "link": "https://www.npr.org/2026/05/19/nx-s1-5823861/israel-palestinians-east-jerusalem",
-        "pubDate": "Tue, 19 May 2026 09:20:36 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "UK loosens Russian oil sanctions as fuel prices rise",
-        "link": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 20 May 2026 01:58:01 GMT",
+        "title": "Trump tightens grip on Republican Party with Massie defeat",
+        "link": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 20 May 2026 09:16:51 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Arsenal fans and players celebrate title at Emirates at 5am",
+        "link": "https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 20 May 2026 09:00:53 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump-backed challenger defeats Republican rebel Massie in primary",
-        "link": "https://www.bbc.com/news/articles/cwy2vw8j0ddo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 20 May 2026 01:28:37 GMT",
-        "category": "us"
+        "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
+        "link": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 20 May 2026 08:30:20 GMT",
+        "category": "business"
+      },
+      {
+        "title": "UK loosens Russian oil sanctions as fuel prices rise",
+        "link": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 20 May 2026 08:13:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Inflation falls to 2.8% but is expected to rise from here",
+        "link": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 20 May 2026 07:57:19 GMT",
+        "category": "Top News"
       },
       {
         "title": "Was Married at First Sight UK an 'accident waiting to happen'?",
         "link": "https://www.bbc.com/news/articles/c172x2vkxl5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 20 May 2026 00:18:16 GMT",
+        "pubDate": "Wed, 20 May 2026 05:52:59 GMT",
         "category": "Top News"
       },
       {
-        "title": "Dozens of romance scammers arrested after specialist fraud squad investigation",
-        "link": "https://www.bbc.com/news/articles/cgjpnw8dg88o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 23:56:01 GMT",
+        "title": "Boss of Sarah Ferguson-linked firm used royal links to threaten worker with jail",
+        "link": "https://www.bbc.com/news/articles/c4g8kv7ykv8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 20 May 2026 05:00:59 GMT",
         "category": "Top News"
       },
       {
-        "title": "Young drivers targeted by 'ghost brokers' selling fake car insurance online",
-        "link": "https://www.bbc.com/news/articles/c1w29zw0q44o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 23:02:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Supermarkets urged to limit food prices by government",
-        "link": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 23:01:42 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Twenty-two years in the making - how Arsenal celebrated title win",
-        "link": "https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 22:16:08 GMT",
-        "category": "Top News"
+        "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+        "link": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 20 May 2026 03:49:24 GMT",
+        "category": "world"
       },
       {
         "title": "Google to release first smart glasses since Google Glass flop",
@@ -125,57 +137,27 @@
         "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 19 May 2026 19:32:22 GMT",
         "category": "health"
-      },
-      {
-        "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-        "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 19 May 2026 18:05:26 GMT",
-        "category": "world"
       }
     ],
     "reuters": [
       {
-        "title": "Pennsylvania Democrats pick swing-district challengers in bid to reclaim US House",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0d3356efae4c62976389abbec24ade&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpennsylvania-democrats-pick-swing-district-challengers-bid-reclaim-us-house-2026-05-20%2f&amp;c=13382617962995779178&amp;mkt=en-us",
-        "pubDate": "Tue, 19 May 2026 18:52:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Spying scandal rocks English soccer as Southampton expelled from world's richest match",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0d33557dc6494aa0d3911cb99e4e79&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fsoccer-southampton-expelled-efl-playoff-final-after-spying-breach-2026-05-19%2f&amp;c=166832508048472275&amp;mkt=en-us",
-        "pubDate": "Tue, 19 May 2026 17:38:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "China leaves lending benchmarks unchanged for 12th month in May",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0d3358ec2e42a782ab2c2522e71962&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fchina-leaves-lending-benchmarks-unchanged-12th-month-may-2026-05-20%2f&amp;c=11266466485351085412&amp;mkt=en-us",
-        "pubDate": "Tue, 19 May 2026 17:32:00 GMT",
-        "category": "business"
-      },
-      {
         "title": "Exclusive: US Health Secretary Kennedy backs away from some recent changes to CDC vaccine panel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0d3362f0be45cab1f7876a1fcd7383&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-health-secretary-kennedy-backs-away-some-recent-changes-cdc-vaccine-panel-2026-05-19%2f&amp;c=14283290132760176083&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0d8309e9a445ebafc99292b28dd009&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-health-secretary-kennedy-backs-away-some-recent-changes-cdc-vaccine-panel-2026-05-19%2f&amp;c=14283290132760176083&amp;mkt=en-us",
         "pubDate": "Tue, 19 May 2026 14:23:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "ASML says first chips made with High-NA machines to arrive in months",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0d335d368a4e80aa3ef2c40715babf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fasml-says-first-chips-new-high-na-machines-arrive-months-2026-05-19%2f&amp;c=11971092969724007030&amp;mkt=en-us",
-        "pubDate": "Tue, 19 May 2026 04:42:00 GMT",
-        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Target is set to report first-quarter earnings, offer read on consumer",
-        "link": "https://www.cnbc.com/2026/05/20/target-tgt-q1-2026-earnings.html",
-        "pubDate": "Wed, 20 May 2026 04:01:01 GMT",
-        "category": "business"
-      },
-      {
         "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM",
         "link": "https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html",
-        "pubDate": "Wed, 20 May 2026 03:30:01 GMT",
+        "pubDate": "Wed, 20 May 2026 07:00:48 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
+        "link": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
+        "pubDate": "Wed, 20 May 2026 05:22:20 GMT",
         "category": "Top News"
       },
       {
@@ -212,12 +194,6 @@
         "title": "Stocks making the biggest moves premarket: Home Depot, Amer Sports, Blackstone, Alphabet &amp; more",
         "link": "https://www.cnbc.com/2026/05/19/stocks-making-the-biggest-moves-premarket-hd-as-bx-googl.html",
         "pubDate": "Tue, 19 May 2026 12:05:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Standard Chartered to cut over 15% of corporate functions roles as it targets higher returns",
-        "link": "https://www.cnbc.com/2026/05/19/standard-chartered-job-cuts-corporate-roles-profit-targets.html",
-        "pubDate": "Tue, 19 May 2026 04:40:25 GMT",
         "category": "Top News"
       }
     ]
