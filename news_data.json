@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-05-20T23:18:20.362324",
+  "updated_at": "2026-05-21T04:16:38.405970",
   "news": {
     "ap": [
       {
-        "title": "RFK Jr. fires leaders of group that sets guidelines for preventive health screenings",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e4102bd654b03a7d30d57a4d71d82&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-kennedy-preventive-services-task-force-fired-63fc5ce14d92c89393fefc361c5fcfde&amp;c=1285306525899659432&amp;mkt=en-us",
-        "pubDate": "Wed, 20 May 2026 15:44:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Alabama\u2019s US Senate race heads to runoff as House primaries are in limbo over redistricting fight",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e40ed874c4b0cb504ea8d6e0ca4c3&amp;url=https%3a%2f%2fapnews.com%2farticle%2falabama-election-2026-senate-governor-fdd3d5bfe3dd5a1135076070549984db&amp;c=4178416947543532613&amp;mkt=en-us",
-        "pubDate": "Wed, 20 May 2026 13:46:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "San Francisco turns to AI to avoid collisions between ships and whales searching for food",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e41010e874442a5f0899c6b55db82&amp;url=https%3a%2f%2fapnews.com%2farticle%2fclimate-marine-heat-wave-whale-boats-ai-5a12ce2ad68929a54ebac84ef2824ac0&amp;c=11045159994138906161&amp;mkt=en-us",
-        "pubDate": "Wed, 20 May 2026 10:10:00 GMT",
+        "title": "Australian judge fines X $465,000 for online safety breach after 3-year court battle",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e86c9a23641a589d21bf5764432b7&amp;url=https%3a%2f%2fapnews.com%2farticle%2faustralia-elon-musk-x-esafety-fine-9ade22700f846e775cf07837364e52dc&amp;c=11391189033876131167&amp;mkt=en-us",
+        "pubDate": "Wed, 20 May 2026 19:29:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Mexico City airport races to finish $500M renovation as the 2026 World Cup nears",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e86aceb644b52ae88c19921f258fd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmexico-city-world-cup-airport-repairs-caf0fb7a31854ecb42f5ed652f1cba0b&amp;c=7911612978590381320&amp;mkt=en-us",
+        "pubDate": "Wed, 20 May 2026 13:32:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
+      {
+        "title": "Liberal U.S. mayors team up with European counterparts to fight authoritarianism",
+        "link": "https://www.npr.org/2026/05/21/nx-s1-5827032/liberal-u-s-mayor-trump-europe-pact-of-free-cities-democracy-authoritarianism-orban",
+        "pubDate": "Thu, 21 May 2026 00:01:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Senate panel hears testimony on online sports betting, prediction markets",
+        "link": "https://www.npr.org/2026/05/20/nx-s1-5829166/senate-panel-hears-testimony-on-online-sports-betting-prediction-markets",
+        "pubDate": "Wed, 20 May 2026 23:01:05 -0400",
+        "category": "us"
+      },
       {
         "title": "EEOC wants to stop collecting data used to fight discrimination",
         "link": "https://www.npr.org/2026/05/20/nx-s1-5758092/eeoc-wants-to-stop-collecting-data-used-to-fight-discrimination",
@@ -32,19 +38,13 @@
         "title": "Advice for 2026 commencement speakers: Don&apos;t bring up AI",
         "link": "https://www.npr.org/2026/05/20/nx-s1-5822419/ai-colleges-commencement-booing",
         "pubDate": "Wed, 20 May 2026 17:43:22 -0400",
-        "category": "us"
+        "category": "tech"
       },
       {
         "title": "Elon Musk&apos;s SpaceX IPO plans reveal blockbuster spending on rockets and AI",
         "link": "https://www.npr.org/2026/05/20/nx-s1-5812731/elon-musk-spacex-ai-ipo",
         "pubDate": "Wed, 20 May 2026 17:27:56 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "Cuba&apos;s Ra\u00fal Castro indicted over 1996 fatal downing of two aircraft",
-        "link": "https://www.npr.org/2026/05/20/nx-s1-5827010/cubas-raul-castro-indicted-over-1996-fatal-downing-of-two-aircraft",
-        "pubDate": "Wed, 20 May 2026 17:02:05 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Supreme Court voting rights ruling could play a big role at the local level",
@@ -75,15 +75,45 @@
         "link": "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs",
         "pubDate": "Wed, 20 May 2026 14:22:56 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "After the Kars4Kids ad is banned in California, we check in on nostalgic jingles past",
-        "link": "https://www.npr.org/2026/05/20/nx-s1-5828257/kars4kids-california-false-advertising-jingles",
-        "pubDate": "Wed, 20 May 2026 14:08:13 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Watch: BBC in Cuba after US announces criminal charges against Ra\u00fal Castro",
+        "link": "https://www.bbc.com/news/videos/cy529g5lnleo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 03:07:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US charges Cuba's Ra\u00fal Castro with murder over 1996 downing of two planes",
+        "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 03:01:15 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Children in England to be offered free bus trips this August",
+        "link": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 02:48:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK agrees \u00a33.7bn trade deal with six Gulf states",
+        "link": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 01:16:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+        "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 00:47:21 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Unfair dismissal claims face five-year delay as tribunal backlog grows",
+        "link": "https://www.bbc.com/news/articles/cp9pj2pk2j7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 20 May 2026 23:14:23 GMT",
+        "category": "Top News"
+      },
       {
         "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
         "link": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&amp;at_campaign=rss",
@@ -97,36 +127,6 @@
         "category": "health"
       },
       {
-        "title": "UK agrees \u00a33.7bn trade deal with six Gulf states",
-        "link": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 20 May 2026 22:34:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Southampton lose appeal against play-off expulsion",
-        "link": "https://www.bbc.com/sport/football/articles/cn4p284ny2ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 20 May 2026 21:15:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Women who died in sea off Brighton were sisters",
-        "link": "https://www.bbc.com/news/articles/c62dn5r4elqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 20 May 2026 20:23:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "London bus driver dies after assault on bridge",
-        "link": "https://www.bbc.com/news/articles/clypnj4dnk5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 20 May 2026 20:11:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US charges Cuba's Ra\u00fal Castro with murder over 1996 downing of two planes",
-        "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 20 May 2026 20:11:02 GMT",
-        "category": "world"
-      },
-      {
         "title": "The deadly plane attack at the centre of Castro's indictment",
         "link": "https://www.bbc.com/news/articles/cp3pz43k99xo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 20 May 2026 18:14:10 GMT",
@@ -137,51 +137,33 @@
         "link": "https://www.bbc.com/news/articles/cq8p40e2zx1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 20 May 2026 16:00:05 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "US groups urge investigation into child safety and spending on Roblox",
-        "link": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 20 May 2026 10:27:50 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "UN backs world court climate opinion; U.S. among few to oppose",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e41147cac47a88a2de63c1eabd470&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fun-backs-world-court-climate-opinion-us-among-few-oppose-2026-05-20%2f&amp;c=5024520082265141260&amp;mkt=en-us",
-        "pubDate": "Wed, 20 May 2026 14:27:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Google's Demis Hassabis goes on the offensive",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e4122e19a4fe5a78e95ce8e8d8e47&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fartificial-intelligence%2fgoogles-demis-hassabis-goes-offensive-2026-05-20%2f&amp;c=14563711696437702866&amp;mkt=en-us",
-        "pubDate": "Wed, 20 May 2026 13:00:00 GMT",
+        "title": "Anthropic nears first quarterly profit, agrees to pay SpaceX $1.25 billion monthly for computing power",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e86f9542f46d3bf6ac474e84cccdc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fanthropic-nears-first-quarterly-profit-agrees-pay-spacex-125-billion-monthly-2026-05-21%2f&amp;c=12505758770426424225&amp;mkt=en-us",
+        "pubDate": "Wed, 20 May 2026 16:06:00 GMT",
         "category": "tech"
       },
       {
-        "title": "US Senator Durbin urges RFK Jr. to resist easing vape rules",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e411566204e018d0730eb257a0974&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-senator-durbin-urges-rfk-jr-resist-easing-vape-rules-2026-05-20%2f&amp;c=18135637962477671447&amp;mkt=en-us",
-        "pubDate": "Wed, 20 May 2026 12:21:00 GMT",
-        "category": "us"
-      },
-      {
         "title": "US Health Secretary Kennedy fires heads of key preventive health panel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e41222d984c218426b1b9aa5e3aa9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-health-secretary-kennedy-fires-heads-key-preventive-health-panel-2026-05-20%2f&amp;c=14596473502766965640&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0e86fb6ec44d57b9e39cd017de1d32&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-health-secretary-kennedy-fires-heads-key-preventive-health-panel-2026-05-20%2f&amp;c=14596473502766965640&amp;mkt=en-us",
         "pubDate": "Wed, 20 May 2026 11:27:00 GMT",
         "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "SpaceX is poised to be the biggest IPO ever. Here are the top U.S. deals to date",
-        "link": "https://www.cnbc.com/2026/05/20/spacex-is-the-biggest-ipo-ever-these-debuts-also-set-records.html",
-        "pubDate": "Wed, 20 May 2026 22:58:32 GMT",
+        "title": "Samsung Electronics shares rally 6% after union suspends strike following tentative wage deal",
+        "link": "https://www.cnbc.com/2026/05/21/samsung-electronics-union-strike-suspended-wage-deal-bonuses.html",
+        "pubDate": "Thu, 21 May 2026 04:08:15 GMT",
         "category": "tech"
       },
       {
-        "title": "Sinkhole shuts runway at LaGuardia Airport, delaying flights, Port Authority warns",
-        "link": "https://www.cnbc.com/2026/05/20/laguardia-airport-lga-flights.html",
-        "pubDate": "Wed, 20 May 2026 21:50:06 GMT",
+        "title": "Walmart to report first-quarter earnings before the bell. Here&apos;s what Wall Street expects",
+        "link": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html",
+        "pubDate": "Thu, 21 May 2026 04:01:02 GMT",
         "category": "business"
       },
       {
@@ -203,16 +185,16 @@
         "category": "Top News"
       },
       {
-        "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages",
-        "link": "https://www.cnbc.com/2026/05/20/oil-price-today-iran-war-strait-hormuz-trump.html",
-        "pubDate": "Wed, 20 May 2026 18:54:14 GMT",
-        "category": "world"
+        "title": "Nvidia earnings call drama: Will Jensen Huang talk &apos;Trump&apos; and China chips after Xi summit?",
+        "link": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+        "pubDate": "Wed, 20 May 2026 18:26:47 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Why some investors are turning to high-yield bonds amid the volatility. Where to find opportunity",
-        "link": "https://www.cnbc.com/2026/05/20/as-markets-swing-investors-are-finding-opportunity-in-high-yield-bonds.html",
-        "pubDate": "Wed, 20 May 2026 18:41:14 GMT",
-        "category": "us"
+        "title": "Eli Lilly accuses church bishops, businessmen of fraud in Trulicity drug rebate scheme",
+        "link": "https://www.cnbc.com/2026/05/20/eli-lilly-lawsuit-rebate-fraud-pentecostal-church-leaders.html",
+        "pubDate": "Wed, 20 May 2026 16:06:05 GMT",
+        "category": "health"
       },
       {
         "title": "Fintech firm Mercury hits $5.2 billion valuation after funding round, up 49% in 14 months",
