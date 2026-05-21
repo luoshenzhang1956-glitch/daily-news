@@ -1,32 +1,43 @@
 {
-  "updated_at": "2026-05-21T16:42:43.728484",
+  "updated_at": "2026-05-21T20:02:43.890805",
   "news": {
-    "ap": [
-      {
-        "title": "US stocks slip after oil prices rise and Nvidia\u2019s latest profit report gets a yawn",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35aedaa5468893e4bb39fc215ca0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-rates-oil-nvidia-kospi-d42265575e6ca7edd4fea8edce5a74f3&amp;c=710601302061060246&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 08:58:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Companies join a deep-sea mining rush after Trump executive order, as regulators fast-track permits",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35affbb0482585122839578ffbcb&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-deepsea-mining-executive-orders-oceans-environment-399faab6fc32922b4c533d3bad9c1ca5&amp;c=3160240217435480082&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 08:07:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Appeals in Congo for urgent supplies as aid groups warn Ebola outbreak is \u2018gaining momentum\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35b150e1431fa08e389f80cde6f5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c&amp;c=18140380158368829102&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 06:10:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Republicans stall votes on partisan ICE funding amid party infighting",
+        "link": "https://www.npr.org/2026/05/21/g-s1-123455/republicans-ice-spending-trump",
+        "pubDate": "Thu, 21 May 2026 15:16:08 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Palestinians drop bid for a senior U.N. role after U.S. pressure",
+        "link": "https://www.npr.org/2026/05/21/g-s1-123450/us-palestinians-united-nations-general-assembly",
+        "pubDate": "Thu, 21 May 2026 14:49:34 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Democrats wanted answers for what went wrong in 2024. Now, there are more questions",
+        "link": "https://www.npr.org/2026/05/21/nx-s1-5830008/democrats-autopsy-2024-election-dnc-ken-martin-biden-harris",
+        "pubDate": "Thu, 21 May 2026 14:36:37 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Abortion pills &quot;just in case&quot;? Planned Parenthood will offer them in two states",
+        "link": "https://www.npr.org/2026/05/21/nx-s1-5827444/abortion-pills-mifepristone-misoprostol-planned-parenthood-advance-provision",
+        "pubDate": "Thu, 21 May 2026 13:29:35 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Forecasters expect slightly fewer hurricanes than usual this year, but the risk of destructive storms is still high",
+        "link": "https://www.npr.org/2026/05/21/nx-s1-5810607/2026-atlantic-hurricane-season-forecast-trump-fema-climate",
+        "pubDate": "Thu, 21 May 2026 12:56:41 -0400",
+        "category": "Top News"
+      },
       {
         "title": "After the sirens: Lebanon&apos;s first responders swing between duty and grief",
         "link": "https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief",
         "pubDate": "Thu, 21 May 2026 12:13:26 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "A trillion dollar question: Will SpaceX&apos;s Starship launch go well?",
@@ -38,42 +49,12 @@
         "title": "Smokers in China are being chided by anti-smoking women",
         "link": "https://www.npr.org/2026/05/21/g-s1-122873/smoking-cigarettes-china",
         "pubDate": "Thu, 21 May 2026 11:13:47 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Walmart plans price cuts using tariff refunds as shoppers get skittish",
         "link": "https://www.npr.org/2026/05/21/nx-s1-5829712/walmart-price-cuts-gas-tariff-refunds",
         "pubDate": "Thu, 21 May 2026 11:01:11 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Susan Collins brings federal dollars to Maine. She&apos;s hoping that&apos;s worth it to voters",
-        "link": "https://www.npr.org/2026/05/21/nx-s1-5823448/susan-collins-maine-senate-graham-platner",
-        "pubDate": "Thu, 21 May 2026 08:47:56 -0400",
-        "category": "us"
-      },
-      {
-        "title": "GOP races to fund immigration enforcement. And, U.S. indicts former Cuban president",
-        "link": "https://www.npr.org/2026/05/21/g-s1-123307/up-first-newsletter-congress-ice-border-patrol-funding-iran-war-raul-castro",
-        "pubDate": "Thu, 21 May 2026 08:00:24 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Researchers say the Trump administration is finding new ways to punish science",
-        "link": "https://www.npr.org/2026/05/21/nx-s1-5828768/science-funding-cuts-nih-trump-administration",
-        "pubDate": "Thu, 21 May 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Amid allegations of abuse on Epstein&apos;s &apos;Zorro Ranch,&apos; New Mexico opens new probes",
-        "link": "https://www.npr.org/2026/05/21/nx-s1-5816037/amid-allegations-of-abuse-on-epsteins-zorro-ranch-new-mexico-opens-new-probes",
-        "pubDate": "Thu, 21 May 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The Education Department is hiring \u2014 while it&apos;s being dismantled",
-        "link": "https://www.npr.org/2026/05/21/nx-s1-5820922/education-department-firings-now-hiring",
-        "pubDate": "Thu, 21 May 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
@@ -85,21 +66,39 @@
     ],
     "bbc": [
       {
-        "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
-        "link": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 16:28:42 GMT",
+        "title": "Foden and Palmer to miss out on World Cup squad",
+        "link": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 18:56:03 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Toilets and changing rooms must be used on basis of biological sex, guidance confirms",
+        "link": "https://www.bbc.com/news/articles/c0e2rj3zj02o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 18:30:20 GMT",
+        "category": "health"
       },
       {
         "title": "Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer",
         "link": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 15:51:16 GMT",
+        "pubDate": "Thu, 21 May 2026 18:29:30 GMT",
         "category": "business"
       },
       {
-        "title": "Five held in council election fraud investigation",
-        "link": "https://www.bbc.com/news/articles/ckgpj5zpyyno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 15:48:32 GMT",
+        "title": "Russia and China condemn US over indictment of former Cuban leader",
+        "link": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 17:11:26 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Starmer says he will campaign for Burnham in Makerfield",
+        "link": "https://www.bbc.com/news/articles/cze2j7875pdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 17:07:11 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
+        "link": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 16:28:42 GMT",
         "category": "Top News"
       },
       {
@@ -121,24 +120,6 @@
         "category": "Top News"
       },
       {
-        "title": "Tui ends sponsorship of Channel 4's Married at First Sight",
-        "link": "https://www.bbc.com/news/articles/cvgzp9e1v38o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 12:35:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Gonorrhoea and syphilis hit record levels in Europe",
-        "link": "https://www.bbc.com/news/articles/cm2pj07dr7lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 12:19:15 GMT",
-        "category": "health"
-      },
-      {
-        "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
-        "link": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 11:22:18 GMT",
-        "category": "us"
-      },
-      {
         "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
         "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 21 May 2026 07:10:42 GMT",
@@ -147,78 +128,66 @@
     ],
     "reuters": [
       {
-        "title": "Fishing boats worldwide tuck dockside as diesel prices surge on Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35b3ad5945e89ab44bed6ba1eebd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ffishing-boats-worldwide-tuck-dockside-diesel-prices-surge-iran-war-2026-05-21%2f&amp;c=16797643352397627362&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 08:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump to delay Biden-era refrigerant rules in push to ease costs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35b3ad5945e89ab44bed6ba1eebd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-delay-biden-era-refrigerant-rules-push-ease-costs-white-house-official-2026-05-21%2f&amp;c=5667430656621512409&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 08:09:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration brings on record new class of immigration judges",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35b3ad5945e89ab44bed6ba1eebd&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-administration-brings-record-new-class-immigration-judges-2026-05-21%2f&amp;c=17294649719300072818&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 08:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "White House postpones Trump's AI signing ceremony, say sources",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35b3ad5945e89ab44bed6ba1eebd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fwhite-house-postpones-trumps-ai-signing-ceremony-says-axios-2026-05-21%2f&amp;c=7929852321116258502&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 07:53:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "As Ebola cases rise, Americans returning from DRC must enter US via Washington Dulles",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35b3ad5945e89ab44bed6ba1eebd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2febola-cases-rise-americans-returning-drc-must-enter-us-via-washington-dulles-2026-05-21%2f&amp;c=12891640417560123991&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 07:53:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK sending three police officers to World Cup for 'cultural' help",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35b4f34249079e1a1a678b3560b8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fuk-sending-three-police-officers-world-cup-cultural-help-2026-05-21%2f&amp;c=17949258653894235391&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 07:50:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Airbus, Air France found guilty of manslaughter over 2009 Atlantic crash",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35b3ad5945e89ab44bed6ba1eebd&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fdecision-due-appeals-case-airbus-air-france-over-rio-paris-crash-2026-05-21%2f&amp;c=5139961489368291247&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 07:41:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "US to invest $2 billion in IBM, other quantum computing firms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35d4229f4351a286a9095e0e9ec5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-award-2-billion-quantum-computing-firms-take-equity-stakes-wsj-reports-2026-05-21%2f&amp;c=12170226834593460753&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 07:06:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f64d49c9a46c58c592d54c8a08a91&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-award-2-billion-quantum-computing-firms-take-equity-stakes-wsj-reports-2026-05-21%2f&amp;c=12170226834593460753&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 11:35:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Hims offers Apotex's generic semaglutide in Canada after Novo patent expiry",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35d594fa4f459d09e4b21c61d959&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fhims-offers-apotexs-generic-semaglutide-canada-after-novo-patent-expiry-2026-05-21%2f&amp;c=1179003204410524928&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 06:31:00 GMT",
-        "category": "health"
+        "title": "New York City offering $50 World Cup tickets for residents",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f64b3e7a34cdd9a4311c6a8e9c4fe&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnew-york-city-offering-50-world-cup-tickets-residents-2026-05-21%2f&amp;c=3304029259934408208&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 11:25:00 GMT",
+        "category": "world"
       },
       {
-        "title": "US weekly jobless claims fall; single-family housing starts tumble in April",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f35c1ed66463687be9831ec572f13&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-weekly-jobless-claims-fall-amid-labor-market-resilience-2026-05-21%2f&amp;c=9062024474459812472&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 06:18:00 GMT",
-        "category": "us"
+        "title": "Meta settles first US case over school costs tied to youth mental health, court filing shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f64d5a59b4266b7e71d8a655dcf0f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmeta-settles-first-us-case-over-school-costs-tied-youth-mental-health-court-2026-05-21%2f&amp;c=15367578269277711889&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 10:49:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Trump postpones AI executive order signing: &apos;I didn&apos;t like certain aspects&apos;",
-        "link": "https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html",
-        "pubDate": "Thu, 21 May 2026 16:41:27 GMT",
+        "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
+        "link": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
+        "pubDate": "Thu, 21 May 2026 20:01:09 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
+        "link": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
+        "pubDate": "Thu, 21 May 2026 19:40:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oura, smart ring maker, files confidentially for IPO",
+        "link": "https://www.cnbc.com/2026/05/21/oura-smart-ring-ipo-filing.html",
+        "pubDate": "Thu, 21 May 2026 19:13:54 GMT",
         "category": "tech"
       },
       {
-        "title": "Private credit defaults hit record high as interest rates soar",
-        "link": "https://www.cnbc.com/2026/05/21/private-credit-defaults-hit-record-high-as-interest-rates-soar.html",
-        "pubDate": "Thu, 21 May 2026 16:14:05 GMT",
-        "category": "us"
+        "title": "Prediction markets are fueling a high-stakes brawl between states and federal regulators",
+        "link": "https://www.cnbc.com/2026/05/21/where-the-feds-are-fighting-states-over-prediction-markets.html",
+        "pubDate": "Thu, 21 May 2026 19:10:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump administration says new EPA rules will save you money at the supermarket. It&apos;s not clear they will",
+        "link": "https://www.cnbc.com/2026/05/21/trump-changes-epa-refrigeration-rules-in-grocery-price-push.html",
+        "pubDate": "Thu, 21 May 2026 19:06:44 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Oil prices fall as investors hope for U.S.-Iran deal",
+        "link": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
+        "pubDate": "Thu, 21 May 2026 19:06:31 GMT",
+        "category": "world"
+      },
+      {
+        "title": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading",
+        "link": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
+        "pubDate": "Thu, 21 May 2026 18:26:35 GMT",
+        "category": "Top News"
       },
       {
         "title": "Stocks making the biggest moves midday: Rigetti Computing, Deere, Bloom Energy, Spotify &amp; more",
@@ -227,39 +196,15 @@
         "category": "Top News"
       },
       {
-        "title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
-        "link": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
-        "pubDate": "Thu, 21 May 2026 15:52:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stellantis targets 35% North American sales increase, led by Ram Trucks and Chrysler revival",
-        "link": "https://www.cnbc.com/2026/05/21/stellantis-north-american-sales-ram-chrysler.html",
-        "pubDate": "Thu, 21 May 2026 15:10:54 GMT",
-        "category": "business"
+        "title": "Eli Lilly says next-generation weight loss drug clears crucial obesity trial",
+        "link": "https://www.cnbc.com/2026/05/21/eli-lilly-weight-loss-drug-retatrutide-clears-obesity-trial.html",
+        "pubDate": "Thu, 21 May 2026 13:43:14 GMT",
+        "category": "health"
       },
       {
         "title": "Japan\u2019s megabanks post record profits, but analysts warn growth may slow as risks mount",
         "link": "https://www.cnbc.com/2026/05/21/japan-megabanks-profits-growth-risks-sumitomo-mitsui-mizuho-mitsubishi-ufj.html",
         "pubDate": "Thu, 21 May 2026 06:35:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "OpenAI takes the lead in AI IPO horse race: &apos;Getting to public markets first is very important&apos;",
-        "link": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
-        "pubDate": "Wed, 20 May 2026 19:05:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
-        "link": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
-        "pubDate": "Wed, 20 May 2026 19:04:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nvidia earnings call drama: Will Jensen Huang talk &apos;Trump&apos; and China chips after Xi summit?",
-        "link": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
-        "pubDate": "Wed, 20 May 2026 18:26:47 GMT",
         "category": "Top News"
       }
     ]
