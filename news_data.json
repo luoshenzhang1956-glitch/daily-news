@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-05-21T20:02:43.890805",
+  "updated_at": "2026-05-21T23:09:34.280709",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f9065a001493d856bc9bff5a669fa&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-ai-executive-order-ee318f35acc8a2c43e47f3ebf26cb459&amp;c=9763645776865489435&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 13:29:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "The Trump administration expands its use of AI in the hunt for healthcare fraud",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f9065af434e3ea6a2fd0b3839df6c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhhs-health-fraud-artificial-intelligence-48b1b1eaf29988808aa1a7f566433d30&amp;c=7890942230587973379&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 12:14:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "2-time NASCAR champ Kyle Busch dies at 41 after &apos;severe illness&apos;",
+        "link": "https://www.npr.org/2026/05/21/g-s1-123547/nascar-champ-kyle-busch-dies",
+        "pubDate": "Thu, 21 May 2026 18:49:51 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "A nurse found guilty of negligent homicide is now a a sought-after speaker",
+        "link": "https://www.npr.org/2026/05/21/nx-s1-5822515/a-nurse-found-guilty-of-negligent-homicide-is-now-a-a-sought-after-speaker",
+        "pubDate": "Thu, 21 May 2026 18:29:52 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Trump&apos;s Ra\u00fal Castro indictment sends a signal to Cuba",
+        "link": "https://www.npr.org/2026/05/21/nx-s1-5829906/trumps-raul-castro-indictment-sends-a-signal-to-cuba",
+        "pubDate": "Thu, 21 May 2026 17:22:25 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Trump&apos;s towering arch clears another federal hurdle, despite public pushback",
+        "link": "https://www.npr.org/2026/05/21/nx-s1-5830027/trump-arch-fine-arts-approval",
+        "pubDate": "Thu, 21 May 2026 16:49:58 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "After nearly a year at sea, the USS Ford finally comes home",
+        "link": "https://www.npr.org/2026/05/21/nx-s1-5827120/after-nearly-a-year-at-sea-the-uss-ford-finally-comes-home",
+        "pubDate": "Thu, 21 May 2026 16:30:56 -0400",
+        "category": "us"
+      },
+      {
+        "title": "American passenger feels &apos;betrayed&apos; by federal order to stay in hantavirus quarantine",
+        "link": "https://www.npr.org/2026/05/21/nx-s1-5827015/american-passenger-order-hantavirus-quarantine",
+        "pubDate": "Thu, 21 May 2026 16:19:09 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Republicans stall votes on partisan ICE funding amid party infighting",
         "link": "https://www.npr.org/2026/05/21/g-s1-123455/republicans-ice-spending-trump",
@@ -13,30 +62,12 @@
         "title": "Palestinians drop bid for a senior U.N. role after U.S. pressure",
         "link": "https://www.npr.org/2026/05/21/g-s1-123450/us-palestinians-united-nations-general-assembly",
         "pubDate": "Thu, 21 May 2026 14:49:34 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Democrats wanted answers for what went wrong in 2024. Now, there are more questions",
         "link": "https://www.npr.org/2026/05/21/nx-s1-5830008/democrats-autopsy-2024-election-dnc-ken-martin-biden-harris",
         "pubDate": "Thu, 21 May 2026 14:36:37 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Abortion pills &quot;just in case&quot;? Planned Parenthood will offer them in two states",
-        "link": "https://www.npr.org/2026/05/21/nx-s1-5827444/abortion-pills-mifepristone-misoprostol-planned-parenthood-advance-provision",
-        "pubDate": "Thu, 21 May 2026 13:29:35 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Forecasters expect slightly fewer hurricanes than usual this year, but the risk of destructive storms is still high",
-        "link": "https://www.npr.org/2026/05/21/nx-s1-5810607/2026-atlantic-hurricane-season-forecast-trump-fema-climate",
-        "pubDate": "Thu, 21 May 2026 12:56:41 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "After the sirens: Lebanon&apos;s first responders swing between duty and grief",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief",
-        "pubDate": "Thu, 21 May 2026 12:13:26 -0400",
         "category": "Top News"
       },
       {
@@ -44,32 +75,44 @@
         "link": "https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo",
         "pubDate": "Thu, 21 May 2026 11:26:30 -0400",
         "category": "business"
-      },
-      {
-        "title": "Smokers in China are being chided by anti-smoking women",
-        "link": "https://www.npr.org/2026/05/21/g-s1-122873/smoking-cigarettes-china",
-        "pubDate": "Thu, 21 May 2026 11:13:47 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Walmart plans price cuts using tariff refunds as shoppers get skittish",
-        "link": "https://www.npr.org/2026/05/21/nx-s1-5829712/walmart-price-cuts-gas-tariff-refunds",
-        "pubDate": "Thu, 21 May 2026 11:01:11 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Advice for 2026 commencement speakers: Don&apos;t bring up AI",
-        "link": "https://www.npr.org/2026/05/20/nx-s1-5822419/ai-colleges-commencement-booing",
-        "pubDate": "Wed, 20 May 2026 17:43:22 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
+        "title": "UK police bosses urge unsafe platforms to be blocked for under-16s",
+        "link": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 23:07:54 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+        "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 21:44:55 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Thousands welcome home triumphant Villa as heroes",
+        "link": "https://www.bbc.com/news/articles/cx21gnxm7p5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 21:44:15 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Foden and Palmer to miss out on World Cup squad",
         "link": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 18:56:03 GMT",
+        "pubDate": "Thu, 21 May 2026 20:57:39 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Race Across the World series six winners crowned",
+        "link": "https://www.bbc.com/news/articles/cp3p7yzgq4no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 20:03:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three ways Cuba crisis could play out  after US indictment of Ra\u00fal Castro",
+        "link": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 21 May 2026 18:40:12 GMT",
+        "category": "us"
       },
       {
         "title": "Toilets and changing rooms must be used on basis of biological sex, guidance confirms",
@@ -84,30 +127,6 @@
         "category": "business"
       },
       {
-        "title": "Russia and China condemn US over indictment of former Cuban leader",
-        "link": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 17:11:26 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Starmer says he will campaign for Burnham in Makerfield",
-        "link": "https://www.bbc.com/news/articles/cze2j7875pdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 17:07:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
-        "link": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 16:28:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran steps up claim to control Strait of Hormuz",
-        "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 14:37:29 GMT",
-        "category": "world"
-      },
-      {
         "title": "UK migration drops to 171,000 - almost half 2024's figure",
         "link": "https://www.bbc.com/news/articles/clyp1ekd584o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 21 May 2026 14:15:34 GMT",
@@ -118,58 +137,76 @@
         "link": "https://www.bbc.com/news/articles/cm2pjg397l2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 21 May 2026 13:47:10 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-        "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 21 May 2026 07:10:42 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "US to invest $2 billion in IBM, other quantum computing firms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f64d49c9a46c58c592d54c8a08a91&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-award-2-billion-quantum-computing-firms-take-equity-stakes-wsj-reports-2026-05-21%2f&amp;c=12170226834593460753&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 11:35:00 GMT",
-        "category": "tech"
+        "title": "Trump will swear in Warsh on Friday to lead U.S. Federal Reserve",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f90675fc94a768c726d61c0ceb50a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftrump-will-swear-warsh-friday-lead-us-federal-reserve-2026-05-21%2f&amp;c=459423498539589805&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 14:52:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "New York City offering $50 World Cup tickets for residents",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f64b3e7a34cdd9a4311c6a8e9c4fe&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnew-york-city-offering-50-world-cup-tickets-residents-2026-05-21%2f&amp;c=3304029259934408208&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 11:25:00 GMT",
-        "category": "world"
+        "title": "As Ebola cases rise, Americans returning from DRC must enter US via Washington airport",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f90675fc94a768c726d61c0ceb50a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2febola-cases-rise-americans-returning-drc-must-enter-us-via-washington-dulles-2026-05-21%2f&amp;c=12891640417560123991&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 13:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US drops case against protesters of Chicago immigration blitz",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f90675fc94a768c726d61c0ceb50a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-drops-case-against-protesters-chicago-immigration-blitz-2026-05-21%2f&amp;c=8223724836182325528&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 13:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "SpaceX IPO bets $2 trillion on Musk's ambitious rockets-to-AI vision",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f90675fc94a768c726d61c0ceb50a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fspacex-ipo-bets-2-trillion-musks-ambitious-rockets-to-ai-vision-2026-05-21%2f&amp;c=14450827112987016439&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 13:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall St indexes end slightly higher as investors focus on Mideast peace hopes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f90675fc94a768c726d61c0ceb50a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-futures-muted-after-nvidia-results-retail-earnings-data-focus-2026-05-21%2f&amp;c=11877360991186095246&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 12:51:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Meta settles first US case over school costs tied to youth mental health, court filing shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f64d5a59b4266b7e71d8a655dcf0f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmeta-settles-first-us-case-over-school-costs-tied-youth-mental-health-court-2026-05-21%2f&amp;c=15367578269277711889&amp;mkt=en-us",
-        "pubDate": "Thu, 21 May 2026 10:49:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f908932184d1a88b0522da78f9719&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmeta-settles-first-us-case-over-school-costs-tied-youth-mental-health-court-2026-05-21%2f&amp;c=15367578269277711889&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 12:32:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "Americans brace for pricey summer travel with fuel costs near multi-year highs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f90675fc94a768c726d61c0ceb50a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fmore-gasoline-price-shocks-might-hit-us-drivers-this-summer-travel-season-2026-05-20%2f&amp;c=17240909484260813443&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 12:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Families weigh moves with gender-affirming care access under assault in US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f90675fc94a768c726d61c0ceb50a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ffamilies-weigh-moves-with-gender-affirming-care-access-under-assault-us-2026-05-21%2f&amp;c=7715918930139196408&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 11:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Amkor working with AMD on advanced packaging after acquiring more land in Arizona",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f9089d5cf421fa04fc0af9f5d9252&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2famkor-working-with-amd-advanced-packaging-after-acquiring-more-land-arizona-2026-05-21%2f&amp;c=12602428769362063366&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 11:07:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "UK's QinetiQ reviews US defence business, lifts 2027 forecast; shares jump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a0f9088fec34aeea21ddb5036776366&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fuks-qinetiq-reviews-us-defence-business-lifts-2027-forecast-shares-jump-2026-05-21%2f&amp;c=9536751270639390036&amp;mkt=en-us",
+        "pubDate": "Thu, 21 May 2026 01:17:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
       {
         "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
         "link": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
-        "pubDate": "Thu, 21 May 2026 20:01:09 GMT",
+        "pubDate": "Thu, 21 May 2026 20:08:44 GMT",
         "category": "us"
-      },
-      {
-        "title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
-        "link": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
-        "pubDate": "Thu, 21 May 2026 19:40:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Oura, smart ring maker, files confidentially for IPO",
-        "link": "https://www.cnbc.com/2026/05/21/oura-smart-ring-ipo-filing.html",
-        "pubDate": "Thu, 21 May 2026 19:13:54 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Prediction markets are fueling a high-stakes brawl between states and federal regulators",
-        "link": "https://www.cnbc.com/2026/05/21/where-the-feds-are-fighting-states-over-prediction-markets.html",
-        "pubDate": "Thu, 21 May 2026 19:10:50 GMT",
-        "category": "Top News"
       },
       {
         "title": "Trump administration says new EPA rules will save you money at the supermarket. It&apos;s not clear they will",
@@ -182,30 +219,6 @@
         "link": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
         "pubDate": "Thu, 21 May 2026 19:06:31 GMT",
         "category": "world"
-      },
-      {
-        "title": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading",
-        "link": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
-        "pubDate": "Thu, 21 May 2026 18:26:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Rigetti Computing, Deere, Bloom Energy, Spotify &amp; more",
-        "link": "https://www.cnbc.com/2026/05/21/stocks-making-the-biggest-moves-midday-rgti-de-be-spot.html",
-        "pubDate": "Thu, 21 May 2026 16:05:32 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Eli Lilly says next-generation weight loss drug clears crucial obesity trial",
-        "link": "https://www.cnbc.com/2026/05/21/eli-lilly-weight-loss-drug-retatrutide-clears-obesity-trial.html",
-        "pubDate": "Thu, 21 May 2026 13:43:14 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Japan\u2019s megabanks post record profits, but analysts warn growth may slow as risks mount",
-        "link": "https://www.cnbc.com/2026/05/21/japan-megabanks-profits-growth-risks-sumitomo-mitsui-mizuho-mitsubishi-ufj.html",
-        "pubDate": "Thu, 21 May 2026 06:35:46 GMT",
-        "category": "Top News"
       }
     ]
   }
