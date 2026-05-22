@@ -1,25 +1,37 @@
 {
-  "updated_at": "2026-05-22T21:18:13.355577",
+  "updated_at": "2026-05-22T23:08:58.112808",
   "news": {
     "ap": [
       {
         "title": "San Francisco turns to AI to avoid collisions between ships and whales searching for food",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10c7d2325040a0bd8b61c615a00c80&amp;url=https%3a%2f%2fapnews.com%2farticle%2fclimate-marine-heat-wave-whale-boats-ai-5a12ce2ad68929a54ebac84ef2824ac0&amp;c=11045159994138906161&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a0b63f467a8408a58104d3af89&amp;url=https%3a%2f%2fapnews.com%2farticle%2fclimate-marine-heat-wave-whale-boats-ai-5a12ce2ad68929a54ebac84ef2824ac0&amp;c=11045159994138906161&amp;mkt=en-us",
         "pubDate": "Fri, 22 May 2026 08:08:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Live updates: Tulsi Gabbard resigns as national intelligence director, citing husband\u2019s health",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a0cccf499b8c42e344c368b466&amp;url=https%3a%2f%2fapnews.com%2flive%2ftrump-administration-updates-05-22-2026&amp;c=8121509448864295417&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 04:16:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
       {
+        "title": "All U.S. passengers returning from Ebola-affected countries must arrive at one airport",
+        "link": "https://www.npr.org/2026/05/22/nx-s1-5830350/all-u-s-passengers-returning-from-ebola-affected-countries-must-arrive-at-one-airport",
+        "pubDate": "Fri, 22 May 2026 17:46:28 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Hunger grows in Gaza as food aid is cut due to higher costs caused by war in Iran",
+        "link": "https://www.npr.org/2026/05/22/nx-s1-5827011/hunger-grows-in-gaza-as-food-aid-is-cut-due-to-higher-costs-caused-by-war-in-iran",
+        "pubDate": "Fri, 22 May 2026 17:46:18 -0400",
+        "category": "world"
+      },
+      {
         "title": "Federal judge dismisses criminal charges against Kilmar Abrego Garcia",
         "link": "https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia",
         "pubDate": "Fri, 22 May 2026 17:13:29 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "How a spirit of kindness grew in the aftermath of a tornado \u2014 and remains 15 years on",
-        "link": "https://www.npr.org/2026/05/22/nx-s1-5828466/how-a-spirit-of-kindness-grew-in-the-aftermath-of-a-tornado-and-remains-15-years-on",
-        "pubDate": "Fri, 22 May 2026 16:46:48 -0400",
         "category": "us"
       },
       {
@@ -62,16 +74,28 @@
         "title": "The aftermath of Trump-Xi summit: comparing U.S. and China announcements",
         "link": "https://www.npr.org/2026/05/22/g-s1-123647/comparing-u-s-and-china-announcements",
         "pubDate": "Fri, 22 May 2026 07:39:37 -0400",
-        "category": "world"
-      },
-      {
-        "title": "&apos;We&apos;ll never know if he could have been saved.&apos; The gaps in Trump&apos;s rural health fund",
-        "link": "https://www.npr.org/2026/05/22/nx-s1-5821038/rural-health-hospitals-50-billion-big-beautiful-bill-obbba",
-        "pubDate": "Fri, 22 May 2026 05:00:00 -0400",
-        "category": "health"
+        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "UK sees hottest day of year as bank holiday travellers face queues",
+        "link": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 22 May 2026 21:32:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+        "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 22 May 2026 21:30:06 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "'Eat, sleep, rave, repeat': Fatboy Slim lights up Radio 1's Big Weekend",
+        "link": "https://www.bbc.com/news/articles/cp8p1wl8pr6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 22 May 2026 21:29:44 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Red Arrows to fly with fewer jets to preserve ageing fleet",
         "link": "https://www.bbc.com/news/articles/cj9p8rvl0d0o?at_medium=RSS&amp;at_campaign=rss",
@@ -85,28 +109,10 @@
         "category": "world"
       },
       {
-        "title": "'Stupid on stilts' - Trump's investigation compensation fund draws ire of Republicans",
-        "link": "https://www.bbc.com/news/articles/cx21d41p6dzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 22 May 2026 18:55:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK sees hottest day of year as bank holiday travellers face queues",
-        "link": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 22 May 2026 17:25:35 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Ebola risk raised to 'very high' in DR Congo",
         "link": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 22 May 2026 16:23:08 GMT",
         "category": "health"
-      },
-      {
-        "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
-        "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 22 May 2026 16:10:21 GMT",
-        "category": "tech"
       },
       {
         "title": "Attorney general to review teen boys' rape sentences",
@@ -135,35 +141,77 @@
     ],
     "reuters": [
       {
+        "title": "Gabbard resigns as Trump's top US intelligence official",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fgabbard-resigns-trumps-national-intelligence-director-fox-news-digital-reports-2026-05-22%2f&amp;c=11198507670052028709&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 15:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Audit finds over 70% increase in federal immigration arrests in NYC under Trump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2faudit-finds-over-70-increase-federal-immigration-arrests-nyc-under-trump-2026-05-22%2f&amp;c=11236697339565455938&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 14:14:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran's intensified closure of Strait of Hormuz piles misery on stranded sailors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firans-intensified-closure-strait-hormuz-piles-misery-stranded-sailors-2026-05-22%2f&amp;c=13364973788413491159&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 14:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-rise-markets-monitor-us-iran-peace-talks-2026-05-22%2f&amp;c=11161078468129335487&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 14:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Warsh takes the Fed's helm as inflation climbs, consumer sentiment dives",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwarsh-takes-over-fed-with-policy-problem-already-view-2026-05-22%2f&amp;c=12247567335306782980&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 13:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US tells foreigners seeking green cards: Return to your countries to apply",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fuscis-tells-foreigners-seeking-green-cards-return-your-countries-apply-2026-05-22%2f&amp;c=3174766862162141182&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 13:37:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Leaks, demands and a phone call: how Est&#233;e Lauder's Puig deal fell apart",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fleaks-demands-phone-call-how-este-lauders-puig-deal-fell-apart-2026-05-22%2f&amp;c=8259381776734053107&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 13:28:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "US judge dismisses Kilmar Abrego indictment, finding DOJ abused power",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10c7efd5754ec9a7390f1606f0e6fb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-dismisses-indictment-against-salvadoran-migrant-kilmar-abrego-2026-05-22%2f&amp;c=17697095631311812746&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 13:06:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Business Lookahead: When does this end?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10c7f1721e471db7d9e4ee7cd5b551&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW294422052026RP1%2f&amp;c=7488235231615132035&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 11:22:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Wingtech seeks $1.2 billion damages in new suit against Nexperia",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10c7f49b3740cab3d92c677ca547c7&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fwingtech-seeks-12-billion-damages-new-suit-against-nexperia-2026-05-22%2f&amp;c=10103600042736781463&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 10:50:00 GMT",
-        "category": "tech"
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-dismisses-indictment-against-salvadoran-migrant-kilmar-abrego-2026-05-22%2f&amp;c=17697095631311812746&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 13:23:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "World Bank says responding to Ebola outbreak, plans to increase funding",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10c7eb5b0048c5b9822db83c5bae50&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fworld-bank-says-responding-ebola-outbreak-plans-increase-funding-2026-05-22%2f&amp;c=12600937970261551195&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 10:36:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a754ec45ab90d0c167007470f3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fworld-bank-says-responding-ebola-outbreak-plans-increase-funding-2026-05-22%2f&amp;c=12600937970261551195&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 13:09:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "US Secretary of State Rubio sees progress in Iran talks, more work to be done",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistan-seeks-breakthrough-us-iran-peace-talks-2026-05-22%2f&amp;c=9279672334791922384&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 12:54:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
+        "title": "SpaceX launches Starship test flight on second try",
+        "link": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
+        "pubDate": "Fri, 22 May 2026 22:36:47 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Two top Walmart executives leave company under new CEO John Furner",
         "link": "https://www.cnbc.com/2026/05/22/walmart-executives-depart-under-ceo-john-furner.html",
-        "pubDate": "Fri, 22 May 2026 20:33:19 GMT",
+        "pubDate": "Fri, 22 May 2026 22:19:27 GMT",
         "category": "business"
       },
       {
@@ -212,12 +260,6 @@
         "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
         "link": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
         "pubDate": "Fri, 22 May 2026 11:45:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China calls for APEC cooperation as commerce minister skips opening over \u2018urgent official business\u2019",
-        "link": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html",
-        "pubDate": "Fri, 22 May 2026 10:14:21 GMT",
         "category": "Top News"
       }
     ]
