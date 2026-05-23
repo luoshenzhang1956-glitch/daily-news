@@ -1,15 +1,39 @@
 {
-  "updated_at": "2026-05-23T10:01:03.844944",
+  "updated_at": "2026-05-23T11:23:01.705025",
   "news": {
     "ap": [
       {
-        "title": "Japanese woman who scaled the world\u2019s 14 top peaks says she wants to share joy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a557e12498b9d2743828baf5054&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjapan-climber-nurse-everest-k2-08b66bf0fd68a438330ae9cb7ae48547&amp;c=15751051246377026418&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 21:41:00 GMT",
-        "category": "world"
+        "title": "Tulsi Gabbard resigns as director of national intelligence, citing her husband\u2019s health",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dd11d3d48638ad72e19e897d02f&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-tulsi-gabbard-director-national-intelligence-iran-788f1f14259d72bd7936fa2e83149efa&amp;c=6310791952970321265&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 15:21:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Trump administration to force foreigners in the US to apply for a green card abroad",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dc0d8004a5da7b0c8dcdf3f101c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fimmigration-green-cards-uscis-citizenship-border-trump-8f64f9ada5c3f04e511a7b3cf43eaa13&amp;c=13943405694371419366&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 15:10:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Wall Street keeps rising, even as U.S. households keep getting more discouraged",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dc1e3814ccbb3977404d236a38a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-oil-iran-bonds-20c93cae93453da1e1994e676c05e895&amp;c=11505131651503880988&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 14:28:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "Chile&apos;s MAGA-inspired border control",
+        "link": "https://www.npr.org/2026/05/23/nx-s1-5806607/chile-maga-inspired-border-control",
+        "pubDate": "Sat, 23 May 2026 06:00:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Summer electric bills sizzle as the cost of cooling climbs",
+        "link": "https://www.npr.org/2026/05/23/nx-s1-5823767/summer-heat-electric-bills-cost",
+        "pubDate": "Sat, 23 May 2026 06:00:00 -0400",
+        "category": "business"
+      },
       {
         "title": "One solution for Maine&apos;s struggling fishing industry? Give fillets away for free",
         "link": "https://www.npr.org/2026/05/23/nx-s1-5756374/food-fish-maine-portland-donations",
@@ -32,7 +56,7 @@
         "title": "Coal mine gas explosion in China kills 90 people, state media say",
         "link": "https://www.npr.org/2026/05/23/nx-s1-5832405/coal-mine-gas-explosion-china",
         "pubDate": "Sat, 23 May 2026 02:07:39 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "SpaceX launches its biggest, most beefed-up Starship yet on a test flight",
@@ -53,29 +77,23 @@
         "category": "Top News"
       },
       {
-        "title": "&apos;It Takes Two&apos; rapper Rob Base, who helped bring hip-hop mainstream, dies at 59",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5832030/it-takes-two-rapper-rob-base-who-helped-bring-hip-hop-mainstream-dies-at-59",
-        "pubDate": "Sat, 23 May 2026 00:09:33 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "DHS says ICE has &apos;no relationship&apos; with spyware maker Paragon Solutions",
         "link": "https://www.npr.org/2026/05/22/nx-s1-5831577/dhs-ice-spyware-paragon",
         "pubDate": "Fri, 22 May 2026 16:30:56 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Ask AI or just Google it? Google makes a big change to a little search box",
-        "link": "https://www.npr.org/2026/05/22/nx-s1-5829915/google-search-box-ai",
-        "pubDate": "Fri, 22 May 2026 15:05:25 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
+        "title": "France suspends extra EU border checks at Dover after hours-long queues",
+        "link": "https://www.bbc.com/news/articles/cp3p2ver9k6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 23 May 2026 11:04:22 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
         "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 23 May 2026 09:59:14 GMT",
+        "pubDate": "Sat, 23 May 2026 10:26:56 GMT",
         "category": "world"
       },
       {
@@ -103,16 +121,16 @@
         "category": "Top News"
       },
       {
-        "title": "How Panorama exposed rape allegations on Married at First Sight UK",
-        "link": "https://www.bbc.com/news/articles/cy02349wgy5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 22 May 2026 23:02:43 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "AI may speed up search for drugs to treat brain conditions",
         "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 22 May 2026 21:30:06 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Bank boss sorry after describing workers as 'lower value human capital'",
+        "link": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 22 May 2026 18:55:10 GMT",
+        "category": "business"
       },
       {
         "title": "Ebola risk raised to 'very high' in DR Congo",
@@ -125,82 +143,130 @@
         "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 22 May 2026 15:18:30 GMT",
         "category": "us"
-      },
-      {
-        "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
-        "link": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 22 May 2026 10:56:32 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "Gabbard resigns as Trump's top US intelligence official",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a99e7c648d1877cffc82a3e1133&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fgabbard-resigns-trumps-national-intelligence-director-fox-news-digital-reports-2026-05-22%2f&amp;c=11198507670052028709&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 01:21:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Three months in, is Trump losing the Iran war?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fthree-months-is-trump-losing-iran-war-2026-05-23%2f&amp;c=888473903802234327&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 01:18:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "At least 90 dead in China's worst coal mine disaster in over 16 years",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ffour-dead-90-trapped-north-china-coal-mine-accident-xinhua-reports-2026-05-22%2f&amp;c=4558098627776014820&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 00:11:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dd3a257490db6770b16dca030cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ffour-dead-90-trapped-north-china-coal-mine-accident-xinhua-reports-2026-05-22%2f&amp;c=4558098627776014820&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 02:38:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Drone games put Ukraine's best military pilots to the test",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdrone-games-put-ukraines-best-military-pilots-test-2026-05-23%2f&amp;c=13447484838442979623&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 00:07:00 GMT",
+        "title": "Republican defiance over 'anti-weaponization' fund sets up confrontation with Trump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dd3a257490db6770b16dca030cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2frepublican-defiance-over-anti-weaponization-fund-sets-up-confrontation-with-2026-05-23%2f&amp;c=15151933955944603769&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 02:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nvidia says its forecast for $200 billion CPU market includes China",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dd3a257490db6770b16dca030cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fnvidia-says-its-forecast-200-billion-cpu-market-includes-china-2026-05-23%2f&amp;c=10275223415256163609&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 02:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Gabbard resigns as Trump's top US intelligence official",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dd3a257490db6770b16dca030cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fgabbard-resigns-trumps-national-intelligence-director-fox-news-digital-reports-2026-05-22%2f&amp;c=11198507670052028709&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 01:21:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Death toll in student dorm strike rises to 10, Russian-installed official says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fdeath-toll-student-dorm-strike-rises-10-russian-installed-official-says-2026-05-23%2f&amp;c=16930310109779334560&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dd3a257490db6770b16dca030cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fdeath-toll-student-dorm-strike-rises-10-russian-installed-official-says-2026-05-23%2f&amp;c=16930310109779334560&amp;mkt=en-us",
         "pubDate": "Sat, 23 May 2026 00:06:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Turkish police detain 13 in probe of opposition congress that chose ousted leader",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fturkish-police-detain-13-probe-opposition-congress-that-chose-ousted-leader-2026-05-23%2f&amp;c=1335287924364053835&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dd3a257490db6770b16dca030cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fturkish-police-detain-13-probe-opposition-congress-that-chose-ousted-leader-2026-05-23%2f&amp;c=1335287924364053835&amp;mkt=en-us",
         "pubDate": "Sat, 23 May 2026 00:00:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Exclusive: Ukraine's Zelenskiy says proposal of associate EU membership 'unfair'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraines-zelenskiy-says-proposal-associate-eu-membership-unfair-2026-05-23%2f&amp;c=12239462838231385722&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 23:48:00 GMT",
+        "title": "Rubio's trip to India signals US need to repair ties",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dd3a257490db6770b16dca030cd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2frubios-trip-india-signals-us-need-repair-ties-2026-05-23%2f&amp;c=4588884390132768562&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 20:47:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Report: Out-of-form Gio Reyna makes U.S. World Cup roster",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a9878e14c59b402398755bd9d7e&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2freport-out-of-form-gio-reyna-makes-us-world-cup-roster--flm-2026-05-23%2f&amp;c=15029058259270766229&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 22:11:00 GMT",
-        "category": "world"
+        "title": "US tells foreigners seeking green cards: Return to your countries to apply",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118dd3a257490db6770b16dca030cd&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fuscis-tells-foreigners-seeking-green-cards-return-your-countries-apply-2026-05-22%2f&amp;c=3174766862162141182&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 13:37:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Business Lookahead: When does this end?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a9ce27d4e79ae5bb53c753b390a&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW296022052026RP1%2f&amp;c=14215615075487639027&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 11:22:00 GMT",
-        "category": "business"
+        "title": "Israeli strikes kill six Lebanese medics in 24 hours, health ministry says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118e02a66b4707add611ad9872d508&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strikes-kill-six-lebanese-medics-24-hours-health-ministry-says-2026-05-22%2f&amp;c=4135686113914047886&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 13:36:00 GMT",
+        "category": "health"
       },
       {
-        "title": "Wingtech seeks $1.2 billion damages in new suit against Nexperia",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a9c626e468f8549a233a3af7710&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fwingtech-seeks-12-billion-damages-new-suit-against-nexperia-2026-05-22%2f&amp;c=10103600042736781463&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 10:50:00 GMT",
+        "title": "TSX edges toward record closing high as technology shares climb",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a118e01edd4496fa9d00bd71ad5116d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftsx-futures-muted-amid-uncertainty-around-us-iran-talks-2026-05-22%2f&amp;c=13537755520001041391&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 12:50:00 GMT",
         "category": "tech"
       }
     ],
     "markets": [
       {
+        "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
+        "link": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+        "pubDate": "Sat, 23 May 2026 11:19:52 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "AI wealth must benefit the public, South Korea&apos;s deputy PM says amid Samsung labor tensions",
         "link": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
-        "pubDate": "Sat, 23 May 2026 09:54:01 GMT",
+        "pubDate": "Sat, 23 May 2026 10:07:38 GMT",
         "category": "world"
+      },
+      {
+        "title": "SpaceX launches Starship test flight on second try",
+        "link": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
+        "pubDate": "Sat, 23 May 2026 01:28:52 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Two top Walmart executives leave company under new CEO John Furner",
+        "link": "https://www.cnbc.com/2026/05/22/walmart-executives-depart-under-ceo-john-furner.html",
+        "pubDate": "Fri, 22 May 2026 22:19:27 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Kevin Warsh&apos;s real Fed &apos;regime change&apos; may happen deep inside Wall Street&apos;s plumbing",
+        "link": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
+        "pubDate": "Fri, 22 May 2026 18:23:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Which company will the U.S. government take a stake in next? Here\u2019s what traders think",
+        "link": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
+        "pubDate": "Fri, 22 May 2026 15:29:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Surge in &apos;risk-free&apos; treasury yields sends bond investors in search of better opportunities",
+        "link": "https://www.cnbc.com/2026/05/22/treasury-yields-bonds-investing-fed-rate-hikes.html",
+        "pubDate": "Fri, 22 May 2026 15:18:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Despite murky legal landscape, companies are undeterred in their prediction market investments",
+        "link": "https://www.cnbc.com/2026/05/22/companies-keep-investing-in-prediction-markets-despite-legal-battle.html",
+        "pubDate": "Fri, 22 May 2026 15:14:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: IMAX, Merck, Estee Lauder &amp; more",
+        "link": "https://www.cnbc.com/2026/05/22/stocks-making-the-biggest-moves-premarket-imax-mrk-el-and-more.html",
+        "pubDate": "Fri, 22 May 2026 11:47:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+        "link": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+        "pubDate": "Fri, 22 May 2026 11:45:23 GMT",
+        "category": "Top News"
       }
     ]
   }
