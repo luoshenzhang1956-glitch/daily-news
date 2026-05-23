@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-05-23T19:22:32.587312",
+  "updated_at": "2026-05-23T21:02:58.480089",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Rubio arrives in India ahead of Quad talks as US tries to reset strained ties",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12155808ba4abd9c5d6e7718a8e196&amp;url=https%3a%2f%2fapnews.com%2farticle%2findia-us-marco-rubio-quad-86a3a6df1194edc0b133bde23e37bf71&amp;c=16933226227736041275&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 08:49:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Blue Jays play the Pirates leading series 1-0",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12155c630c405daf43dcf73cc34729&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbaseball-pittsburgh-pirates-toronto-blue-jays-athlete-injuries-45a7a145e0304a39a86516cb36848b29&amp;c=2005888596289592922&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 01:02:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
         "title": "What will Trump do next with Iran?",
@@ -46,29 +59,29 @@
         "category": "Top News"
       },
       {
-        "title": "&apos;I&apos;d wait forever, but 334 days is crazy.&apos; USS Ford finally comes home",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5830101/uss-ford-comes-home",
-        "pubDate": "Sat, 23 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "15 years since a deadly tornado brought Joplin, Mo. together, kindness carries on",
         "link": "https://www.npr.org/2026/05/23/nx-s1-5831985/joplin-missouri-tornado-catastrophe-compassion",
         "pubDate": "Sat, 23 May 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "DHS says ICE has &apos;no relationship&apos; with spyware maker Paragon Solutions",
-        "link": "https://www.npr.org/2026/05/22/nx-s1-5831577/dhs-ice-spyware-paragon",
-        "pubDate": "Fri, 22 May 2026 16:30:56 -0400",
-        "category": "tech"
+        "title": "&apos;I&apos;d wait forever, but 334 days is crazy.&apos; USS Ford finally comes home",
+        "link": "https://www.npr.org/2026/05/23/nx-s1-5830101/uss-ford-comes-home",
+        "pubDate": "Sat, 23 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "One solution for Maine&apos;s struggling fishing industry? Give fillets away for free",
+        "link": "https://www.npr.org/2026/05/23/nx-s1-5756374/food-fish-maine-portland-donations",
+        "pubDate": "Sat, 23 May 2026 05:00:00 -0400",
+        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+        "title": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 23 May 2026 18:05:34 GMT",
+        "pubDate": "Sat, 23 May 2026 20:55:01 GMT",
         "category": "world"
       },
       {
@@ -126,27 +139,7 @@
         "category": "business"
       }
     ],
-    "reuters": [
-      {
-        "title": "Nvidia says its forecast for $200 billion CPU market includes China",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a11fe22285a4a5f8c950ae91e7b43f2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fnvidia-says-its-forecast-200-billion-cpu-market-includes-china-2026-05-23%2f&amp;c=10275223415256163609&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 10:31:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "India\u2019s Goyal to visit Canada with 150 business leaders to boost trade ties",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a11fe11b93444da8a5dcfabd7499804&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findias-goyal-visit-canada-with-150-business-leaders-boost-trade-ties-2026-05-23%2f&amp;c=3889599587303896107&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 02:28:00 GMT",
-        "category": "business"
-      }
-    ],
-    "markets": [
-      {
-        "title": "U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT reports",
-        "link": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
-        "pubDate": "Sat, 23 May 2026 19:19:34 GMT",
-        "category": "world"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
