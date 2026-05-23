@@ -1,23 +1,35 @@
 {
-  "updated_at": "2026-05-23T06:40:29.455230",
+  "updated_at": "2026-05-23T10:01:03.844944",
   "news": {
     "ap": [
       {
         "title": "Japanese woman who scaled the world\u2019s 14 top peaks says she wants to share joy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b4fbbd5409990697b8c0d7723bd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjapan-climber-nurse-everest-k2-08b66bf0fd68a438330ae9cb7ae48547&amp;c=15751051246377026418&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 19:03:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a557e12498b9d2743828baf5054&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjapan-climber-nurse-everest-k2-08b66bf0fd68a438330ae9cb7ae48547&amp;c=15751051246377026418&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 21:41:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "Trump administration to force foreigners in the US to apply for a green card abroad",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b4f85f549ac985099f9eed65cce&amp;url=https%3a%2f%2fapnews.com%2farticle%2fimmigration-green-cards-uscis-citizenship-border-trump-8f64f9ada5c3f04e511a7b3cf43eaa13&amp;c=13943405694371419366&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 15:10:00 GMT",
-        "category": "us"
       }
     ],
     "npr": [
       {
-        "title": "Coal mine gas explosion in China kills 82 people, state media say",
+        "title": "One solution for Maine&apos;s struggling fishing industry? Give fillets away for free",
+        "link": "https://www.npr.org/2026/05/23/nx-s1-5756374/food-fish-maine-portland-donations",
+        "pubDate": "Sat, 23 May 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "15 years since a deadly tornado brought Joplin, Mo. together, kindness carries on",
+        "link": "https://www.npr.org/2026/05/23/nx-s1-5831985/joplin-missouri-tornado-catastrophe-compassion",
+        "pubDate": "Sat, 23 May 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "&apos;I&apos;d wait forever, but 334 days is crazy.&apos; USS Ford finally comes home",
+        "link": "https://www.npr.org/2026/05/23/nx-s1-5830101/uss-ford-comes-home",
+        "pubDate": "Sat, 23 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Coal mine gas explosion in China kills 90 people, state media say",
         "link": "https://www.npr.org/2026/05/23/nx-s1-5832405/coal-mine-gas-explosion-china",
         "pubDate": "Sat, 23 May 2026 02:07:39 -0400",
         "category": "world"
@@ -26,7 +38,7 @@
         "title": "SpaceX launches its biggest, most beefed-up Starship yet on a test flight",
         "link": "https://www.npr.org/2026/05/23/nx-s1-5832402/spacex-biggest-starship-flight",
         "pubDate": "Sat, 23 May 2026 01:28:27 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Trump administration to force foreigners in the U.S. to apply for a green card abroad",
@@ -47,24 +59,6 @@
         "category": "Top News"
       },
       {
-        "title": "1 person died, 36 injured after blast at New York City shipyard, officials say",
-        "link": "https://www.npr.org/2026/05/22/g-s1-124080/new-york-city-shipyard-explosion",
-        "pubDate": "Fri, 22 May 2026 21:16:49 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "40,000 people under evacuation orders after chemical tank leak in Southern California",
-        "link": "https://www.npr.org/2026/05/22/g-s1-124082/garden-grove-chemical-tank-leak",
-        "pubDate": "Fri, 22 May 2026 20:48:48 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Federal judge dismisses criminal charges against Kilmar Abrego Garcia",
-        "link": "https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia",
-        "pubDate": "Fri, 22 May 2026 17:13:29 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "DHS says ICE has &apos;no relationship&apos; with spyware maker Paragon Solutions",
         "link": "https://www.npr.org/2026/05/22/nx-s1-5831577/dhs-ice-spyware-paragon",
         "pubDate": "Fri, 22 May 2026 16:30:56 -0400",
@@ -79,15 +73,27 @@
     ],
     "bbc": [
       {
-        "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
+        "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
         "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 23 May 2026 06:37:29 GMT",
+        "pubDate": "Sat, 23 May 2026 09:59:14 GMT",
         "category": "world"
       },
       {
         "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
         "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 23 May 2026 04:05:03 GMT",
+        "pubDate": "Sat, 23 May 2026 07:44:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK officials suggested single market for goods with Europe",
+        "link": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 23 May 2026 03:47:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ebola experts and survivor from outbreak a decade ago warn lessons must be learnt",
+        "link": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 22 May 2026 23:07:41 GMT",
         "category": "Top News"
       },
       {
@@ -97,34 +103,22 @@
         "category": "Top News"
       },
       {
+        "title": "How Panorama exposed rape allegations on Married at First Sight UK",
+        "link": "https://www.bbc.com/news/articles/cy02349wgy5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 22 May 2026 23:02:43 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "AI may speed up search for drugs to treat brain conditions",
         "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 22 May 2026 21:30:06 GMT",
         "category": "tech"
       },
       {
-        "title": "'Eat, sleep, rave, repeat': Fatboy Slim lights up Radio 1's Big Weekend",
-        "link": "https://www.bbc.com/news/articles/cp8p1wl8pr6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 22 May 2026 21:29:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Red Arrows to fly with fewer jets to preserve ageing fleet",
-        "link": "https://www.bbc.com/news/articles/cj9p8rvl0d0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 22 May 2026 21:03:20 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Ebola risk raised to 'very high' in DR Congo",
         "link": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 22 May 2026 16:23:08 GMT",
         "category": "health"
-      },
-      {
-        "title": "Attorney general to review teen boys' rape sentences",
-        "link": "https://www.bbc.com/news/articles/cwy2x7wxjego?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 22 May 2026 15:55:31 GMT",
-        "category": "Top News"
       },
       {
         "title": "Rubio tries to reassure Nato allies over US troop deployments",
@@ -141,108 +135,72 @@
     ],
     "reuters": [
       {
-        "title": "Report: Out-of-form Gio Reyna makes U.S. World Cup roster",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b7802fc49f2a545e57c0eab7e71&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2freport-out-of-form-gio-reyna-makes-us-world-cup-roster--flm-2026-05-23%2f&amp;c=15029058259270766229&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 22:11:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Death toll jumps to 90 in China coal mine blast",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b7802fc49f2a545e57c0eab7e71&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ffour-dead-90-trapped-north-china-coal-mine-accident-xinhua-reports-2026-05-22%2f&amp;c=4558098627776014820&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 22:11:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Who will win the 2026 Cannes Film Festival's top prize?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b7802fc49f2a545e57c0eab7e71&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fwho-will-win-2026-cannes-film-festivals-top-prize-2026-05-23%2f&amp;c=1166334850633672434&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 22:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Chadwick Tromp's walk-off hit propels Braves past Nats in 11",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b7802fc49f2a545e57c0eab7e71&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fchadwick-tromps-walk-off-hit-propels-braves-past-nats-11--flm-2026-05-23%2f&amp;c=13423761973346641509&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 22:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Mexico ease past Ghana in World Cup warm-up in Puebla",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b7802fc49f2a545e57c0eab7e71&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fmexico-ease-past-ghana-world-cup-warm-up-puebla-2026-05-23%2f&amp;c=16027527257377129232&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 21:37:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "White Sox ride 9-run fourth to win over stumbling Giants",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b7802fc49f2a545e57c0eab7e71&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fwhite-sox-ride-9-run-fourth-win-over-stumbling-giants--flm-2026-05-23%2f&amp;c=14720757318265537404&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 21:35:00 GMT",
-        "category": "Top News"
+        "title": "Gabbard resigns as Trump's top US intelligence official",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a99e7c648d1877cffc82a3e1133&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fgabbard-resigns-trumps-national-intelligence-director-fox-news-digital-reports-2026-05-22%2f&amp;c=11198507670052028709&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 01:21:00 GMT",
+        "category": "us"
       },
       {
         "title": "Three months in, is Trump losing the Iran war?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b7802fc49f2a545e57c0eab7e71&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fthree-months-is-trump-losing-iran-war-2026-05-23%2f&amp;c=888473903802234327&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 21:32:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fthree-months-is-trump-losing-iran-war-2026-05-23%2f&amp;c=888473903802234327&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 01:18:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Rubio's trip to India signals US need to repair ties",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b7802fc49f2a545e57c0eab7e71&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2frubios-trip-india-signals-us-need-repair-ties-2026-05-23%2f&amp;c=4588884390132768562&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 20:47:00 GMT",
+        "title": "At least 90 dead in China's worst coal mine disaster in over 16 years",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ffour-dead-90-trapped-north-china-coal-mine-accident-xinhua-reports-2026-05-22%2f&amp;c=4558098627776014820&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 00:11:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Israeli strikes kill six Lebanese medics in 24 hours, health ministry says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b9e98434f7b83da020c5239dfb3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strikes-kill-six-lebanese-medics-24-hours-health-ministry-says-2026-05-22%2f&amp;c=4135686113914047886&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 13:36:00 GMT",
-        "category": "health"
+        "title": "Drone games put Ukraine's best military pilots to the test",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdrone-games-put-ukraines-best-military-pilots-test-2026-05-23%2f&amp;c=13447484838442979623&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 00:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Death toll in student dorm strike rises to 10, Russian-installed official says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fdeath-toll-student-dorm-strike-rises-10-russian-installed-official-says-2026-05-23%2f&amp;c=16930310109779334560&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 00:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Turkish police detain 13 in probe of opposition congress that chose ousted leader",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fturkish-police-detain-13-probe-opposition-congress-that-chose-ousted-leader-2026-05-23%2f&amp;c=1335287924364053835&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 00:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exclusive: Ukraine's Zelenskiy says proposal of associate EU membership 'unfair'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a96df2c4474bbb1880e6ebcae7a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraines-zelenskiy-says-proposal-associate-eu-membership-unfair-2026-05-23%2f&amp;c=12239462838231385722&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 23:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Report: Out-of-form Gio Reyna makes U.S. World Cup roster",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a9878e14c59b402398755bd9d7e&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2freport-out-of-form-gio-reyna-makes-us-world-cup-roster--flm-2026-05-23%2f&amp;c=15029058259270766229&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 22:11:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Business Lookahead: When does this end?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a9ce27d4e79ae5bb53c753b390a&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW296022052026RP1%2f&amp;c=14215615075487639027&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 11:22:00 GMT",
+        "category": "business"
       },
       {
         "title": "Wingtech seeks $1.2 billion damages in new suit against Nexperia",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a114b9ec08e4bb78b3175f5df8bee19&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fwingtech-seeks-12-billion-damages-new-suit-against-nexperia-2026-05-22%2f&amp;c=10103600042736781463&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a117a9c626e468f8549a233a3af7710&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fwingtech-seeks-12-billion-damages-new-suit-against-nexperia-2026-05-22%2f&amp;c=10103600042736781463&amp;mkt=en-us",
         "pubDate": "Fri, 22 May 2026 10:50:00 GMT",
         "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Kevin Warsh&apos;s real Fed &apos;regime change&apos; may happen deep inside Wall Street&apos;s plumbing",
-        "link": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
-        "pubDate": "Fri, 22 May 2026 18:23:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Which company will the U.S. government take a stake in next? Here\u2019s what traders think",
-        "link": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
-        "pubDate": "Fri, 22 May 2026 15:29:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Surge in &apos;risk-free&apos; treasury yields sends bond investors in search of better opportunities",
-        "link": "https://www.cnbc.com/2026/05/22/treasury-yields-bonds-investing-fed-rate-hikes.html",
-        "pubDate": "Fri, 22 May 2026 15:18:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Despite murky legal landscape, companies are undeterred in their prediction market investments",
-        "link": "https://www.cnbc.com/2026/05/22/companies-keep-investing-in-prediction-markets-despite-legal-battle.html",
-        "pubDate": "Fri, 22 May 2026 15:14:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: IMAX, Merck, Estee Lauder &amp; more",
-        "link": "https://www.cnbc.com/2026/05/22/stocks-making-the-biggest-moves-premarket-imax-mrk-el-and-more.html",
-        "pubDate": "Fri, 22 May 2026 11:47:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
-        "link": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
-        "pubDate": "Fri, 22 May 2026 11:45:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China calls for APEC cooperation as commerce minister skips opening over \u2018urgent official business\u2019",
-        "link": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html",
-        "pubDate": "Fri, 22 May 2026 10:14:21 GMT",
-        "category": "Top News"
+        "title": "AI wealth must benefit the public, South Korea&apos;s deputy PM says amid Samsung labor tensions",
+        "link": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
+        "pubDate": "Sat, 23 May 2026 09:54:01 GMT",
+        "category": "world"
       }
     ]
   }
