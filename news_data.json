@@ -1,25 +1,37 @@
 {
-  "updated_at": "2026-05-22T23:08:58.112808",
+  "updated_at": "2026-05-23T03:50:35.376445",
   "news": {
     "ap": [
       {
-        "title": "San Francisco turns to AI to avoid collisions between ships and whales searching for food",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a0b63f467a8408a58104d3af89&amp;url=https%3a%2f%2fapnews.com%2farticle%2fclimate-marine-heat-wave-whale-boats-ai-5a12ce2ad68929a54ebac84ef2824ac0&amp;c=11045159994138906161&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 08:08:00 GMT",
-        "category": "tech"
+        "title": "Japanese woman who scaled the world\u2019s 14 top peaks says she wants to share joy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123984e6349519ec1778b8b892539&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjapan-climber-nurse-everest-k2-08b66bf0fd68a438330ae9cb7ae48547&amp;c=15751051246377026418&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 19:03:00 GMT",
+        "category": "world"
       },
       {
-        "title": "Live updates: Tulsi Gabbard resigns as national intelligence director, citing husband\u2019s health",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a0cccf499b8c42e344c368b466&amp;url=https%3a%2f%2fapnews.com%2flive%2ftrump-administration-updates-05-22-2026&amp;c=8121509448864295417&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 04:16:00 GMT",
-        "category": "health"
+        "title": "FDA staff blindsided by move allowing more e-cigarettes and nicotine pouches onto US market",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123990ddf46d7a43b3d69b7ebb889&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffda-vaping-ecigarettes-trump-makary-fe31c6e2dcda2f077134faa25e7012ad&amp;c=10094873040296080218&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 12:49:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Chinese fast-fashion juggernaut Shein to buy eco-friendly Everlane in an unlikely fit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a112399a146476e8ca766442d49c3ee&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffast-fashion-shein-everlane-china-ethical-e503f7f613242bb3e41b6624f0fecc5f&amp;c=7857138533072960139&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 11:32:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
       {
-        "title": "All U.S. passengers returning from Ebola-affected countries must arrive at one airport",
-        "link": "https://www.npr.org/2026/05/22/nx-s1-5830350/all-u-s-passengers-returning-from-ebola-affected-countries-must-arrive-at-one-airport",
-        "pubDate": "Fri, 22 May 2026 17:46:28 -0400",
+        "title": "1 person died, 36 injured after blast at New York City shipyard, officials say",
+        "link": "https://www.npr.org/2026/05/22/g-s1-124080/new-york-city-shipyard-explosion",
+        "pubDate": "Fri, 22 May 2026 21:16:49 -0400",
+        "category": "us"
+      },
+      {
+        "title": "40,000 people under evacuation orders after chemical tank leak in Southern California",
+        "link": "https://www.npr.org/2026/05/22/g-s1-124082/garden-grove-chemical-tank-leak",
+        "pubDate": "Fri, 22 May 2026 20:48:48 -0400",
         "category": "health"
       },
       {
@@ -32,7 +44,7 @@
         "title": "Federal judge dismisses criminal charges against Kilmar Abrego Garcia",
         "link": "https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia",
         "pubDate": "Fri, 22 May 2026 17:13:29 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "DHS says ICE has &apos;no relationship&apos; with spyware maker Paragon Solutions",
@@ -69,19 +81,13 @@
         "link": "https://www.npr.org/2026/05/22/g-s1-123649/up-first-newsletter-gop-trump-legislation-dnc-2024-hurricane-season-predictions-abortion-rights",
         "pubDate": "Fri, 22 May 2026 07:49:54 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "The aftermath of Trump-Xi summit: comparing U.S. and China announcements",
-        "link": "https://www.npr.org/2026/05/22/g-s1-123647/comparing-u-s-and-china-announcements",
-        "pubDate": "Fri, 22 May 2026 07:39:37 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "UK sees hottest day of year as bank holiday travellers face queues",
-        "link": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 22 May 2026 21:32:17 GMT",
+        "title": "Hot weather to intensify in UK over bank holiday weekend",
+        "link": "https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 22 May 2026 23:04:54 GMT",
         "category": "Top News"
       },
       {
@@ -141,126 +147,72 @@
     ],
     "reuters": [
       {
-        "title": "Gabbard resigns as Trump's top US intelligence official",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fgabbard-resigns-trumps-national-intelligence-director-fox-news-digital-reports-2026-05-22%2f&amp;c=11198507670052028709&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 15:00:00 GMT",
+        "title": "Rubio's trip to India signals US need to repair ties",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123bbdaf34b43a77b6786bc8a18f6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2frubios-trip-india-signals-us-need-repair-ties-2026-05-23%2f&amp;c=4588884390132768562&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 19:07:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Audit finds over 70% increase in federal immigration arrests in NYC under Trump",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2faudit-finds-over-70-increase-federal-immigration-arrests-nyc-under-trump-2026-05-22%2f&amp;c=11236697339565455938&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 14:14:00 GMT",
+        "title": "Thousands evacuated in Southern California due to failing chemical tank",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123bbdaf34b43a77b6786bc8a18f6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fthousands-evacuated-southern-california-due-failing-chemical-tank-2026-05-23%2f&amp;c=14183023768027489205&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 17:51:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Iran's intensified closure of Strait of Hormuz piles misery on stranded sailors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firans-intensified-closure-strait-hormuz-piles-misery-stranded-sailors-2026-05-22%2f&amp;c=13364973788413491159&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 14:08:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-rise-markets-monitor-us-iran-peace-talks-2026-05-22%2f&amp;c=11161078468129335487&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 14:01:00 GMT",
+        "title": "Indian retailers raise fuel prices for a third time amid Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123bbdaf34b43a77b6786bc8a18f6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2findian-retailers-raises-fuel-prices-third-time-response-iran-war-2026-05-23%2f&amp;c=4684723486638514470&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 17:48:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Warsh takes the Fed's helm as inflation climbs, consumer sentiment dives",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwarsh-takes-over-fed-with-policy-problem-already-view-2026-05-22%2f&amp;c=12247567335306782980&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123bbdaf34b43a77b6786bc8a18f6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwarsh-takes-over-fed-with-policy-problem-already-view-2026-05-22%2f&amp;c=12247567335306782980&amp;mkt=en-us",
         "pubDate": "Fri, 22 May 2026 13:56:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US tells foreigners seeking green cards: Return to your countries to apply",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fuscis-tells-foreigners-seeking-green-cards-return-your-countries-apply-2026-05-22%2f&amp;c=3174766862162141182&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 13:37:00 GMT",
-        "category": "Top News"
+        "title": "Israeli strikes kill six Lebanese medics in 24 hours, health ministry says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123dbb77f4a389168ca7714b3c7f2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strikes-kill-six-lebanese-medics-24-hours-health-ministry-says-2026-05-22%2f&amp;c=4135686113914047886&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 13:36:00 GMT",
+        "category": "health"
       },
       {
-        "title": "Leaks, demands and a phone call: how Est&#233;e Lauder's Puig deal fell apart",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fleaks-demands-phone-call-how-este-lauders-puig-deal-fell-apart-2026-05-22%2f&amp;c=8259381776734053107&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 13:28:00 GMT",
+        "title": "Pro-Palestinian activist Mahmoud Khalil to appeal to US Supreme Court to avoid re-arrest",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123bbdaf34b43a77b6786bc8a18f6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fcourt-wont-revisit-ruling-opening-door-pro-palestinian-activist-mahmoud-khalils-2026-05-22%2f&amp;c=8554013568159024717&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 13:30:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US judge dismisses Kilmar Abrego indictment, finding DOJ abused power",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-dismisses-indictment-against-salvadoran-migrant-kilmar-abrego-2026-05-22%2f&amp;c=17697095631311812746&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123bbdaf34b43a77b6786bc8a18f6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-dismisses-indictment-against-salvadoran-migrant-kilmar-abrego-2026-05-22%2f&amp;c=17697095631311812746&amp;mkt=en-us",
         "pubDate": "Fri, 22 May 2026 13:23:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "World Bank says responding to Ebola outbreak, plans to increase funding",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a754ec45ab90d0c167007470f3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fworld-bank-says-responding-ebola-outbreak-plans-increase-funding-2026-05-22%2f&amp;c=12600937970261551195&amp;mkt=en-us",
-        "pubDate": "Fri, 22 May 2026 13:09:00 GMT",
-        "category": "world"
+        "title": "Exclusive: Trump official tried to ban half of US voting machines, citing conspiracy theories",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123bbdaf34b43a77b6786bc8a18f6&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2ftrump-officials-tried-ban-half-us-voting-machines-citing-conspiracy-theories-2026-05-22%2f&amp;c=16374015320509973098&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 13:05:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "US Secretary of State Rubio sees progress in Iran talks, more work to be done",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a10e1a6249c4136acb9db64b17cf27f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistan-seeks-breakthrough-us-iran-peace-talks-2026-05-22%2f&amp;c=9279672334791922384&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123bbdaf34b43a77b6786bc8a18f6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistan-seeks-breakthrough-us-iran-peace-talks-2026-05-22%2f&amp;c=9279672334791922384&amp;mkt=en-us",
         "pubDate": "Fri, 22 May 2026 12:54:00 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Wingtech seeks $1.2 billion damages in new suit against Nexperia",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1123da8a2d48afb85c005efa15026a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fwingtech-seeks-12-billion-damages-new-suit-against-nexperia-2026-05-22%2f&amp;c=10103600042736781463&amp;mkt=en-us",
+        "pubDate": "Fri, 22 May 2026 10:50:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
-      {
-        "title": "SpaceX launches Starship test flight on second try",
-        "link": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
-        "pubDate": "Fri, 22 May 2026 22:36:47 GMT",
-        "category": "tech"
-      },
       {
         "title": "Two top Walmart executives leave company under new CEO John Furner",
         "link": "https://www.cnbc.com/2026/05/22/walmart-executives-depart-under-ceo-john-furner.html",
         "pubDate": "Fri, 22 May 2026 22:19:27 GMT",
         "category": "business"
-      },
-      {
-        "title": "High-yielding energy names are on fire. These are Wall Street&apos;s favorites",
-        "link": "https://www.cnbc.com/2026/05/22/wall-street-loves-these-high-yield-energy-stocks.html",
-        "pubDate": "Fri, 22 May 2026 19:05:16 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Kevin Warsh&apos;s real Fed &apos;regime change&apos; may happen deep inside Wall Street&apos;s plumbing",
-        "link": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
-        "pubDate": "Fri, 22 May 2026 18:23:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Which company will the U.S. government take a stake in next? Here\u2019s what traders think",
-        "link": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
-        "pubDate": "Fri, 22 May 2026 15:29:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Surge in &apos;risk-free&apos; treasury yields sends bond investors in search of better opportunities",
-        "link": "https://www.cnbc.com/2026/05/22/treasury-yields-bonds-investing-fed-rate-hikes.html",
-        "pubDate": "Fri, 22 May 2026 15:18:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Despite murky legal landscape, companies are undeterred in their prediction market investments",
-        "link": "https://www.cnbc.com/2026/05/22/companies-keep-investing-in-prediction-markets-despite-legal-battle.html",
-        "pubDate": "Fri, 22 May 2026 15:14:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S., Iran signal peace progress \u2014 but remain at odds over enriched uranium, Strait of Hormuz tolls",
-        "link": "https://www.cnbc.com/2026/05/22/iran-war-strait-of-hormuz-tolls-trump.html",
-        "pubDate": "Fri, 22 May 2026 13:33:25 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: IMAX, Merck, Estee Lauder &amp; more",
-        "link": "https://www.cnbc.com/2026/05/22/stocks-making-the-biggest-moves-premarket-imax-mrk-el-and-more.html",
-        "pubDate": "Fri, 22 May 2026 11:47:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
-        "link": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
-        "pubDate": "Fri, 22 May 2026 11:45:23 GMT",
-        "category": "Top News"
       }
     ]
   }
