@@ -1,22 +1,65 @@
 {
-  "updated_at": "2026-05-24T08:39:26.410880",
+  "updated_at": "2026-05-24T11:21:16.585653",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Ecuador fans pin hopes on a World Cup run amid a surge in violence",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12dece7ebe4736931f8a4f01cd88c6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fecuador-world-cup-piero-hincapie-a0fae5ed194f40c79db265106645d77c&amp;c=7633273041289309733&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 03:00:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Marlins try to sweep series against the Mets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12def22e49445baebbe9cf3a3fe235&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnew-york-mets-athlete-injuries-miami-marlins-baseball-e539f6ec053542ad90906262191d9319&amp;c=14642491966789281006&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 01:03:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
-        "title": "Secret Service fatally shoots suspect outside White House checkpoint, bystander wounded",
+        "title": "Nurse convicted in patient&apos;s death is now a national speaker on hospital safety",
+        "link": "https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error",
+        "pubDate": "Sun, 24 May 2026 06:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
+        "link": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
+        "pubDate": "Sun, 24 May 2026 05:12:28 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Torn by war, Israelis and Palestinians tie their fortunes together",
+        "link": "https://www.npr.org/2026/05/24/nx-s1-5806030/palestinian-israeli-startups-50-50-northeastern",
+        "pubDate": "Sun, 24 May 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "&apos;Homeland Security&apos; has spawned political insecurity since DHS was born",
+        "link": "https://www.npr.org/2026/05/24/nx-s1-5821574/homeland-security-dhs-history",
+        "pubDate": "Sun, 24 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The Enhanced Games are Sunday. Here&apos;s what to know about the controversial event",
+        "link": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
+        "pubDate": "Sun, 24 May 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Suspect dead after opening fire near White House security checkpoint, Secret Service says",
         "link": "https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house",
         "pubDate": "Sat, 23 May 2026 20:23:43 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Romanian director Cristian Mungiu&apos;s &apos;Fjord&apos; wins top prize at Cannes",
         "link": "https://www.npr.org/2026/05/23/nx-s1-5832564/palme-dor-cannes-film-festival",
         "pubDate": "Sat, 23 May 2026 20:13:33 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
-        "title": "Trump says a deal with Iran and opening of Strait of Hormuz are &apos;largely negotiated&apos;",
+        "title": "Trump touts Iran breakthrough but details remain unclear",
         "link": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz",
         "pubDate": "Sat, 23 May 2026 19:00:02 -0400",
         "category": "Top News"
@@ -32,49 +75,19 @@
         "link": "https://www.npr.org/2026/05/23/nx-s1-5832553/kyle-busch-death-sepsis",
         "pubDate": "Sat, 23 May 2026 13:35:13 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "A little bit country, a little bit Desi: A Pakistani-American&apos;s hybrid music",
-        "link": "https://www.npr.org/2026/05/23/g-s1-122871/country-music-pakistan-mo-sabri-nashville",
-        "pubDate": "Sat, 23 May 2026 10:10:39 -0400",
-        "category": "health"
-      },
-      {
-        "title": "U.S. passengers flying from Ebola-affected countries rerouted",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-        "pubDate": "Sat, 23 May 2026 08:09:50 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Opinion: Remembering Barney Frank, trailblazing public servant",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5823640/opinion-remembering-barney-frank-trailblazing-public-servant",
-        "pubDate": "Sat, 23 May 2026 08:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Summer electric bills sizzle as the cost of cooling climbs",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5823767/summer-heat-electric-bills-cost",
-        "pubDate": "Sat, 23 May 2026 06:00:00 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Chile&apos;s MAGA-inspired border control",
-        "link": "https://www.npr.org/2026/05/23/nx-s1-5806607/chile-maga-inspired-border-control",
-        "pubDate": "Sat, 23 May 2026 06:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
-        "link": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 24 May 2026 08:28:15 GMT",
+        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+        "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 24 May 2026 10:52:46 GMT",
         "category": "Top News"
       },
       {
-        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-        "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 24 May 2026 08:22:58 GMT",
+        "title": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
+        "link": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 24 May 2026 10:27:31 GMT",
         "category": "Top News"
       },
       {
@@ -128,78 +141,78 @@
     ],
     "reuters": [
       {
-        "title": "Powerful bomb explosion in Pakistan's Quetta kills 24, reports say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12b8ebe63648e9aa67ce8de217ee0b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpowerful-bomb-explosion-pakistans-quetta-wounds-more-than-30-ap-reports-2026-05-24%2f&amp;c=1721653375195033937&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 00:15:00 GMT",
+        "title": "Russia hits Ukraine with Oreshnik missile in one of war's biggest attacks on Kyiv",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12df04f4444a22b476f31f5ef173c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraines-capital-kyiv-hit-by-massive-missile-drone-attack-2026-05-23%2f&amp;c=11748597008562093919&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 02:35:00 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "At least 24 killed in Pakistan train blast claimed by separatist militants",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12df04f4444a22b476f31f5ef173c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpowerful-bomb-explosion-pakistans-quetta-wounds-more-than-30-ap-reports-2026-05-24%2f&amp;c=1721653375195033937&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 02:22:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "India, US discuss Middle East, trade as Rubio cites progress on Iran conflict",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12df05533e4506abfc3e1287fd7928&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findia-us-discuss-middle-east-trade-us-cites-progress-iran-conflict-2026-05-24%2f&amp;c=4533472611036686884&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 01:37:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Israeli fire kills parents and their infant in Gaza, medics say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12df08971c401ab30c625c6a5fbcbe&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-fire-kills-parents-their-infant-gaza-medics-say-2026-05-24%2f&amp;c=1680353889195692768&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 01:33:00 GMT",
+        "category": "health"
       },
       {
         "title": "Trump says Iran deal 'largely negotiated', would reopen Strait of Hormuz",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12b8ebe63648e9aa67ce8de217ee0b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-2026-05-24%2f&amp;c=14241477200042546821&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 00:11:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tigers, Orioles each desperate for momentum in Sunday doubleheader",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12b8ebe63648e9aa67ce8de217ee0b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2ftigers-orioles-each-desperate-momentum-sunday-doubleheader--flm-2026-05-24%2f&amp;c=795174299040957892&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 00:08:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "India, US discuss Middle East, trade as US cites progress on Iran conflict",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12b8ebe63648e9aa67ce8de217ee0b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findia-us-discuss-middle-east-trade-us-cites-progress-iran-conflict-2026-05-24%2f&amp;c=4533472611036686884&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 00:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran has not agreed to hand over highly enriched uranium stockpile, senior Iranian source tells Reuters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12b8ebe63648e9aa67ce8de217ee0b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2firan-has-not-agreed-hand-over-highly-enriched-uranium-stockpile-senior-iranian-2026-05-24%2f&amp;c=892963546571679580&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 23:51:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Russia strikes Kyiv with massive missile and drone attack, killing four",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12b8ebe63648e9aa67ce8de217ee0b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraines-capital-kyiv-hit-by-massive-missile-drone-attack-2026-05-23%2f&amp;c=11748597008562093919&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 23:46:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12df04f4444a22b476f31f5ef173c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-2026-05-24%2f&amp;c=14241477200042546821&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 01:12:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Rescuers search for more than 20 trapped after Philippines building collapse",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12b8ebe63648e9aa67ce8de217ee0b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdozens-feared-trapped-philippines-building-collapse-2026-05-24%2f&amp;c=14921900967994640767&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 23:38:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12df04f4444a22b476f31f5ef173c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fdozens-feared-trapped-philippines-building-collapse-2026-05-24%2f&amp;c=14921900967994640767&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 00:33:00 GMT",
         "category": "Top News"
       },
       {
+        "title": "Iran has not agreed to hand over highly enriched uranium stockpile, senior Iranian source tells Reuters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12df04f4444a22b476f31f5ef173c7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2firan-has-not-agreed-hand-over-highly-enriched-uranium-stockpile-senior-iranian-2026-05-24%2f&amp;c=892963546571679580&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 23:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nissan unit scraps plan to make EV powertrains in UK, Nikkei says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12df071a984a05ba20894c430c3405&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fnissan-unit-scraps-plan-make-ev-powertrains-uk-nikkei-says-2026-05-24%2f&amp;c=14334709353547259737&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 21:54:00 GMT",
+        "category": "business"
+      },
+      {
         "title": "China lowers death toll in Shanxi coal mine disaster to 82",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12b8ebe63648e9aa67ce8de217ee0b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-lowers-death-toll-shanxi-coal-mine-disaster-82-2026-05-24%2f&amp;c=13270974861959733083&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12df04f4444a22b476f31f5ef173c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-lowers-death-toll-shanxi-coal-mine-disaster-82-2026-05-24%2f&amp;c=13270974861959733083&amp;mkt=en-us",
         "pubDate": "Sat, 23 May 2026 20:15:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Uganda confirms three new Ebola cases, bringing total to five",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12b915ad95450e8dbf0c27174716a3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fuganda-confirms-three-new-ebola-cases-bringing-total-five-2026-05-23%2f&amp;c=17871575094312555678&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 11:57:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Nvidia says its forecast for $200 billion CPU market includes China",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12b9144009435bb3c141e63c78cfaa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fnvidia-says-its-forecast-200-billion-cpu-market-includes-china-2026-05-23%2f&amp;c=10275223415256163609&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 10:31:00 GMT",
-        "category": "tech"
+        "title": "Iran to base World Cup camp in Mexico after switch from Arizona",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a12df05ac3e44e68e3e8a88626881d7&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW321624052026RP1%2f&amp;c=15498864742225586457&amp;mkt=en-us",
+        "pubDate": "Sat, 23 May 2026 14:19:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Spirit&apos;s collapse, high fuel prices test limits of summer vacation spending",
-        "link": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html",
-        "pubDate": "Sat, 23 May 2026 14:01:03 GMT",
-        "category": "business"
+        "title": "Trump says Iran deal reopening Strait of Hormuz &apos;largely negotiated,&apos; will be announced soon",
+        "link": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
+        "pubDate": "Sun, 24 May 2026 08:27:31 GMT",
+        "category": "world"
       },
       {
-        "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
-        "link": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
-        "pubDate": "Sat, 23 May 2026 11:19:52 GMT",
-        "category": "Top News"
+        "title": "Microsoft\u2019s new responsible tech lead on how to humanize high-speed AI development",
+        "link": "https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html",
+        "pubDate": "Sat, 23 May 2026 13:00:01 GMT",
+        "category": "tech"
       }
     ]
   }
