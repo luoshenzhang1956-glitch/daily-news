@@ -1,38 +1,44 @@
 {
-  "updated_at": "2026-05-24T21:04:35.622988",
+  "updated_at": "2026-05-24T23:04:20.091136",
   "news": {
     "ap": [
       {
-        "title": "Ecuador fans pin hopes on a World Cup run amid a surge in violence",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a13676c17b949ee82d22fe71d96b9b9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fecuador-world-cup-piero-hincapie-a0fae5ed194f40c79db265106645d77c&amp;c=7633273041289309733&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 07:42:00 GMT",
-        "category": "world"
+        "title": "Young men storm a Congo hospital treating Ebola patients to demand bodies of their kin",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a138393145f4378ad2b2aad10c0c608&amp;url=https%3a%2f%2fapnews.com%2farticle%2febola-congo-mongbwalu-funeral-bodies-attack-9c4237e6ed4e26dff22b242749e37e33&amp;c=6907693314809514244&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 15:32:00 GMT",
+        "category": "health"
       },
       {
-        "title": "How state laws can stymie research into your ancestors\u2019 psychiatric records",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a136780d0014e7cabb69e301200accd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstate-asylum-psychiatric-records-df3ae6af27ca1d51df9a98fdb34185a7&amp;c=7810017013013030464&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 06:02:00 GMT",
-        "category": "health"
+        "title": "Rays bring win streak into game against the Yankees",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a13838548e24425a1da6b7468b38c90&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnew-york-yankees-baseball-tampa-bay-rays-illinois-a8ef332d0c644b9e8f60d5df424b80ae&amp;c=12343267065169943211&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 01:03:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "California chemical tank has cracked causing state of emergency, thousands to evacuate",
+        "link": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
+        "pubDate": "Sun, 24 May 2026 18:14:42 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Trump says a deal to end war with Iran is near, but many questions remain",
+        "link": "https://www.npr.org/2026/05/24/nx-s1-5833093/trump-says-a-deal-to-end-war-with-iran-is-near-but-many-questions-remain",
+        "pubDate": "Sun, 24 May 2026 17:06:11 -0400",
+        "category": "world"
+      },
+      {
         "title": "DR Congo Ebola cases rise amid distrust, armed conflict zone",
         "link": "https://www.npr.org/2026/05/24/nx-s1-5833095/drc-ebola-africa",
         "pubDate": "Sun, 24 May 2026 13:18:33 -0400",
-        "category": "world"
+        "category": "health"
       },
       {
         "title": "More than 500 children have died in an outbreak that the world is virtually ignoring",
         "link": "https://www.npr.org/2026/05/24/g-s1-123661/measles-outbreak-bangladesh-deadline-vaccine",
         "pubDate": "Sun, 24 May 2026 09:00:40 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Hacky sack is the latest trend, but its increased popularity is causing a shortage",
-        "link": "https://www.npr.org/2026/05/24/nx-s1-5822633-e1/hacky-sack-is-the-latest-trend-but-its-increased-popularity-is-causing-a-shortage",
-        "pubDate": "Sun, 24 May 2026 08:54:29 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women",
@@ -69,26 +75,32 @@
         "link": "https://www.npr.org/2026/05/24/nx-s1-5821574/homeland-security-dhs-history",
         "pubDate": "Sun, 24 May 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "The Enhanced Games are Sunday. Here&apos;s what to know about the controversial event",
-        "link": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
-        "pubDate": "Sun, 24 May 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Olivia Dean brings the curtain down on Radio 1's Big Weekend with 'magic' set",
+        "link": "https://www.bbc.com/news/articles/c5yex3j7v72o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 24 May 2026 22:24:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
+        "link": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 24 May 2026 21:30:13 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+        "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 24 May 2026 21:02:08 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
         "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 24 May 2026 20:26:26 GMT",
         "category": "world"
-      },
-      {
-        "title": "Turkish riot police storm opposition offices after leaders ousted",
-        "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 24 May 2026 19:49:39 GMT",
-        "category": "Top News"
       },
       {
         "title": "Ebola outbreak poses massive challenges, warns senior charity official",
@@ -115,21 +127,9 @@
         "category": "us"
       },
       {
-        "title": "Starmer says case of girls raped by boys spared custody 'appalling'",
+        "title": "Starmer 'appalled' by case of boys spared jail after raping teenage girls",
         "link": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 24 May 2026 14:51:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Blast targeting train kills at least 20 in Pakistan",
-        "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 24 May 2026 12:26:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why did I put myself through the pain of going to court, rape victim tells BBC",
-        "link": "https://www.bbc.com/news/videos/ce9pmyz7jrxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 24 May 2026 12:03:30 GMT",
         "category": "Top News"
       },
       {
@@ -141,72 +141,90 @@
     ],
     "reuters": [
       {
-        "title": "Possible fissure in California chemical tank may help prevent explosion, fire official says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a136783676e4e3c913d099fe67d084d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpossible-fissure-california-chemical-tank-may-help-prevent-explosion-fire-2026-05-24%2f&amp;c=11509070209816242028&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 12:06:00 GMT",
+        "title": "Oil falls more than $4 as US, Iran remain at odds over peace deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1383b9fec94ea79675351ea0740c68&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-falls-more-than-4-us-iran-remain-odds-over-peace-deal-2026-05-24%2f&amp;c=18272171308128758810&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 14:27:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Rockies LHP Jose Quintana (elbow discomfort) exits start early",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a138396b9684f55884734e2dacda78a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2frockies-lhp-jose-quintana-elbow-discomfort-exits-start-early--flm-2026-05-24%2f&amp;c=10620115777905734479&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 14:05:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Arsenal raise Premier League trophy, West Ham relegated on final day of Premier League season",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a136783676e4e3c913d099fe67d084d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fwest-ham-relegated-arsenal-lift-premier-league-trophy-emotional-final-day-2026-05-24%2f&amp;c=12875669430275647870&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 12:06:00 GMT",
+        "title": "Trump says there is no rush for Iran deal, US blockade stays",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a138396b9684f55884734e2dacda78a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-2026-05-24%2f&amp;c=14241477200042546821&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 13:53:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Colton Cowser drills walk-off 3-run shot as Orioles beat Tigers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a136783676e4e3c913d099fe67d084d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fcolton-cowser-drills-walk-off-3-run-shot-orioles-beat-tigers--flm-2026-05-24%2f&amp;c=1353569157357264103&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 12:02:00 GMT",
+        "title": "Milan miss out on Champions League as Roma and Como qualify",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a138396b9684f55884734e2dacda78a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fmilan-miss-out-champions-league-roma-como-qualify-2026-05-24%2f&amp;c=12100793250370792996&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 13:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "More than 900 suspected Ebola cases identified in DRC, WHO chief says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a138396b9684f55884734e2dacda78a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmore-than-900-suspected-ebola-cases-identified-drc-who-chief-says-2026-05-24%2f&amp;c=17014255662280040604&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 13:20:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine says it hit oil pumping station in Russia's Vladimir region",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a138396b9684f55884734e2dacda78a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fukraine-says-it-hit-oil-pumping-station-russias-vladimir-region-2026-05-24%2f&amp;c=14053920486241185690&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 13:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Turkish police force ousted opposition out of headquarters as crisis deepens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a138396b9684f55884734e2dacda78a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fturkey-orders-police-evict-ousted-opposition-leadership-headquarters-2026-05-24%2f&amp;c=13366475274804641194&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 12:45:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Russia hits Ukraine with Oreshnik missile in one of war's biggest attacks on Kyiv",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a136783676e4e3c913d099fe67d084d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraines-capital-kyiv-hit-by-massive-missile-drone-attack-2026-05-23%2f&amp;c=11748597008562093919&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a138396b9684f55884734e2dacda78a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraines-capital-kyiv-hit-by-massive-missile-drone-attack-2026-05-23%2f&amp;c=11748597008562093919&amp;mkt=en-us",
         "pubDate": "Sun, 24 May 2026 12:01:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US Treasury rout tests Washington's tolerance for higher borrowing costs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a136799773745fd97e4866a35db8fa2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-treasury-rout-tests-washingtons-tolerance-higher-borrowing-costs-2026-05-24%2f&amp;c=10561326352399488668&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 09:35:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Possible deal on Iran divides US lawmakers largely along party lines",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a136783676e4e3c913d099fe67d084d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fpossible-deal-iran-divides-us-lawmakers-largely-along-party-lines-2026-05-24%2f&amp;c=10657464568142927187&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a138396b9684f55884734e2dacda78a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-treasury-rout-tests-washingtons-tolerance-higher-borrowing-costs-2026-05-24%2f&amp;c=10561326352399488668&amp;mkt=en-us",
         "pubDate": "Sun, 24 May 2026 09:35:00 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Turkish riot police force entry to evict opposition leadership",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a136783676e4e3c913d099fe67d084d&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW324824052026RP1%2f&amp;c=17124277635258109417&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 06:34:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nvidia says its forecast for $200 billion CPU market includes China",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a13679b29974840beb09ce71d369618&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fnvidia-says-its-forecast-200-billion-cpu-market-includes-china-2026-05-23%2f&amp;c=10275223415256163609&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 04:58:00 GMT",
-        "category": "tech"
       },
       {
         "title": "Trump talks up his ballroom plan dozens of times but plays down Americans' economic pain",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a136783676e4e3c913d099fe67d084d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-talks-up-his-ballroom-plan-dozens-times-plays-down-americans-economic-pain-2026-05-24%2f&amp;c=10770357820885278182&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a138396b9684f55884734e2dacda78a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-talks-up-his-ballroom-plan-dozens-times-plays-down-americans-economic-pain-2026-05-24%2f&amp;c=10770357820885278182&amp;mkt=en-us",
         "pubDate": "Sun, 24 May 2026 02:38:00 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Nissan unit scraps plan to make EV powertrains in UK, Nikkei says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a13679adeb84046932d0b37577204d3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fnissan-unit-scraps-plan-make-ev-powertrains-uk-nikkei-says-2026-05-24%2f&amp;c=14334709353547259737&amp;mkt=en-us",
-        "pubDate": "Sat, 23 May 2026 21:54:00 GMT",
-        "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "&apos;I never heard of the Strait of Hormuz before this&apos;: How one medical supply CEO is navigating the oil price shock",
-        "link": "https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html",
-        "pubDate": "Sun, 24 May 2026 17:26:32 GMT",
-        "category": "health"
+        "title": "Trump not rushing Iran deal, whacks critics as &apos;losers&apos;",
+        "link": "https://www.cnbc.com/2026/05/24/trump-iran-war-talks.html",
+        "pubDate": "Sun, 24 May 2026 20:00:15 GMT",
+        "category": "world"
+      },
+      {
+        "title": "&apos;The Mandalorian and Grogu&apos; is Disney&apos;s lowest-ever Star Wars film opening",
+        "link": "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html",
+        "pubDate": "Sun, 24 May 2026 16:04:57 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Top Wall Street analysts like these dividend stocks for steady income",
+        "link": "https://www.cnbc.com/2026/05/24/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+        "pubDate": "Sun, 24 May 2026 12:52:28 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Move over, seltzer. Non-carbonated drinks are taking the spotlight",
+        "link": "https://www.cnbc.com/2026/05/24/move-over-seltzer-non-carbonated-drinks-are-taking-the-spotlight.html",
+        "pubDate": "Sun, 24 May 2026 12:00:01 GMT",
+        "category": "business"
       }
     ]
   }
