@@ -1,27 +1,45 @@
 {
-  "updated_at": "2026-05-25T10:23:38.448449",
+  "updated_at": "2026-05-25T15:22:21.879869",
   "news": {
     "ap": [
       {
+        "title": "AP Decision Notes: What to expect in the Texas US Senate Republican primary runoff",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14687aa2d2410dbb7f9e4785fbde5d&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftexas-primary-runoff-senate-republican-cornyn-paxton-faec04ca286773a53cac190bd67fc9fe&amp;c=7854692169851056031&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 07:02:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Injured Yamal and Williams in Spain\u2019s World Cup squad that has no Real Madrid players for 1st time",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14687859c14f1dbf4774411186205a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fspain-world-cup-squad-yamal-williams-ecbd482fde76b3a2cf12c92077e4128e&amp;c=11762631569226653958&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 05:10:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "Ugandan health officials report new Ebola virus infections, bringing cases to 7",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14227e1fbd4ae5a913eb4cc7c1c9b6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fuganda-ebola-bundibugyo-congo-8630b816e3f40f950fd90e44b0b3395c&amp;c=13235002163320276250&amp;mkt=en-us",
-        "pubDate": "Mon, 25 May 2026 03:11:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a146897bfff4e7281d2f28fba309ede&amp;url=https%3a%2f%2fapnews.com%2farticle%2fuganda-ebola-bundibugyo-congo-8630b816e3f40f950fd90e44b0b3395c&amp;c=13235002163320276250&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 03:42:00 GMT",
         "category": "health"
       },
       {
-        "title": "How Rwanda is using DNA traces to protect endangered mountain gorillas",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14227cad1f4fad8a69d35711c5021e&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fhow-rwanda-is-using-dna-traces-to-protect-endangered-mountain-gorillas-6c65e62158704f1fa8214440f1a181ed&amp;c=12534811495675296895&amp;mkt=en-us",
-        "pubDate": "Mon, 25 May 2026 00:49:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Muslims from around the world gather in Mecca ahead of annual Hajj pilgrimage",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14225b6a254107ac5d0141a51de59e&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fmuslims-from-around-the-world-gather-in-mecca-ahead-of-annual-hajj-pilgrimage-937bddda15e6423898734c99d5994af6&amp;c=12355612920857644523&amp;mkt=en-us",
-        "pubDate": "Sun, 24 May 2026 21:53:00 GMT",
-        "category": "world"
+        "title": "Slow food: the city that once fed Europe on snails is back in business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14687cfc484c57b970fd041b7d21ee&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fslow-food-the-city-that-once-fed-europe-on-snails-is-back-in-business-b73ceb2c19454e838036419b0278cb02&amp;c=890700669602288146&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 01:25:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI&apos;s rise",
+        "link": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
+        "pubDate": "Mon, 25 May 2026 08:31:08 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Suspected gunman killed after opening fire near White House identified",
+        "link": "https://www.npr.org/2026/05/25/nx-s1-5833110/suspected-gunman-killed-after-opening-fire-near-white-house-identified",
+        "pubDate": "Mon, 25 May 2026 06:45:07 -0400",
+        "category": "us"
+      },
       {
         "title": "U.S.-Iran peace deal emerging, while war threats still loom",
         "link": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates",
@@ -32,13 +50,19 @@
         "title": "In Beirut, refugee girls and women learn more than self-defense in martial arts class",
         "link": "https://www.npr.org/2026/05/25/g-s1-120826/lebanon-women-martial-arts",
         "pubDate": "Mon, 25 May 2026 06:00:00 -0400",
-        "category": "world"
+        "category": "health"
+      },
+      {
+        "title": "Pope Leo  takes aim at big tech in sweeping encyclical on AI",
+        "link": "https://www.npr.org/2026/05/25/nx-s1-5828375/pope-leo-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence",
+        "pubDate": "Mon, 25 May 2026 05:32:58 -0400",
+        "category": "Top News"
       },
       {
         "title": "Diners are staying home, so this restaurant lets patrons pay what they want",
         "link": "https://www.npr.org/2026/05/25/nx-s1-5719494/restaurants-dining-food-inflation",
         "pubDate": "Mon, 25 May 2026 05:00:00 -0400",
-        "category": "us"
+        "category": "business"
       },
       {
         "title": "This big university system is embracing AI. Students and faculty aren&apos;t all on board",
@@ -50,7 +74,7 @@
         "title": "&apos;My body carried me,&apos; Elizabeth Smart says. Now she&apos;s celebrating it",
         "link": "https://www.npr.org/2026/05/25/nx-s1-5832603/elizabeth-smart-bodybuilding-trauma-exercise",
         "pubDate": "Mon, 25 May 2026 05:00:00 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "COMIC: To raise a confident little talker, learn to speak &apos;parentese&apos;",
@@ -63,27 +87,39 @@
         "link": "https://www.npr.org/2026/05/25/nx-s1-5820938/life-insurance-company-healthy-habits-game",
         "pubDate": "Mon, 25 May 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/05/25/nx-s1-5828333/morning-news-brief",
-        "pubDate": "Mon, 25 May 2026 04:42:16 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Muslims begin the annual Hajj against a backdrop of war concerns",
-        "link": "https://www.npr.org/2026/05/25/nx-s1-5833671/muslims-begin-annual-hajj",
-        "pubDate": "Mon, 25 May 2026 03:05:02 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "China launches Shenzhou 23 spacecraft with 1 of 3 astronauts set for yearlong stay",
-        "link": "https://www.npr.org/2026/05/25/g-s1-124179/china-launches-shenzhou-23-spacecraft",
-        "pubDate": "Mon, 25 May 2026 01:26:14 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Watch: Best moments from 2026 Cooper's Hill cheese rolling races",
+        "link": "https://www.bbc.com/news/videos/czr22le318jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 25 May 2026 14:14:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre",
+        "link": "https://www.bbc.com/news/articles/c0l22pz6nw6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 25 May 2026 13:32:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil prices slide on hopes of US-Iran peace deal",
+        "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 25 May 2026 13:05:56 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Deal with US not imminent, Iran says",
+        "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 25 May 2026 11:17:49 GMT",
+        "category": "world"
+      },
+      {
+        "title": "The questions raised by the Murrell embezzlement controversy",
+        "link": "https://www.bbc.com/news/articles/c74dd82w943o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 25 May 2026 11:08:57 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Starmer 'appalled' by case of boys spared jail after raping teenage girls",
         "link": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&amp;at_campaign=rss",
@@ -91,34 +127,16 @@
         "category": "Top News"
       },
       {
-        "title": "Sun, superstars and other takeaways from Radio 1's Big Weekend",
-        "link": "https://www.bbc.com/news/articles/cj6p0wx70rxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 25 May 2026 09:55:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Deal with US not imminent, Iran says",
-        "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 25 May 2026 09:39:15 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Oil prices slide on hopes of US-Iran peace deal",
-        "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 25 May 2026 08:38:44 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Education secretary to ask competition watchdog to review hidden childcare costs",
-        "link": "https://www.bbc.com/news/articles/c4g7d6ngjldo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 25 May 2026 08:13:07 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "What to do if you think someone has heat exhaustion or heatstroke",
         "link": "https://www.bbc.com/news/articles/ckgl51jjp3jo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 25 May 2026 07:53:58 GMT",
         "category": "health"
+      },
+      {
+        "title": "Greek swimmer only athlete to beat world record at controversial Enhanced Games",
+        "link": "https://www.bbc.com/sport/articles/cx211xyd298o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 25 May 2026 07:49:56 GMT",
+        "category": "Top News"
       },
       {
         "title": "How Saudi Arabia's spending spree reached the end of the line",
@@ -131,27 +149,76 @@
         "link": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 25 May 2026 00:21:24 GMT",
         "category": "business"
+      }
+    ],
+    "reuters": [
+      {
+        "title": "With AI manifesto, Leo joins pantheon of popes who urged world to change",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14689ba9144eaaad0e1886779e6a50&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fwith-ai-manifesto-leo-joins-pantheon-popes-who-urged-world-change-2026-05-25%2f&amp;c=5426223632828821626&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 07:02:00 GMT",
+        "category": "world"
       },
       {
-        "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
-        "link": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 24 May 2026 21:30:13 GMT",
+        "title": "Turkey's pro-Kurdish party condemns ousting of main opposition",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14689ad4ae4e2f929cbf34444f8b13&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fturkeys-pro-kurdish-party-condemns-ousting-main-opposition-2026-05-25%2f&amp;c=11240988790154142773&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 06:51:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "EasyJet flight diverts to Rome over power bank in luggage",
-        "link": "https://www.bbc.com/news/articles/cg7p3pdl8m7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 24 May 2026 19:10:32 GMT",
+        "title": "Pope Leo apologises for Church's historic role in slavery",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14689ad4ae4e2f929cbf34444f8b13&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fpope-leo-apologises-churchs-historic-role-slavery-2026-05-25%2f&amp;c=491540103260065618&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 06:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US Justice Department seeks to lift injunction on ballroom project after shooting",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14689ad4ae4e2f929cbf34444f8b13&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-justice-department-seeks-lift-injunction-ballroom-project-after-shooting-2026-05-25%2f&amp;c=956463798922992161&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 05:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump links Abraham Accords to Iran deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14689ad4ae4e2f929cbf34444f8b13&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-links-abraham-accords-iran-deal-2026-05-25%2f&amp;c=5350847365999713196&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 05:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Former Scottish National Party chief pleads guilty to embezzling $540,000",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14689ad4ae4e2f929cbf34444f8b13&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fformer-snp-chief-pleads-guilty-embezzling-540000-2026-05-25%2f&amp;c=3361549079225215435&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 05:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran war poses new threat to harvests in hunger-stricken Sudan",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14689ad4ae4e2f929cbf34444f8b13&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2firan-war-poses-new-threat-harvests-hunger-stricken-sudan-2026-05-25%2f&amp;c=11248996478697311774&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 05:37:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pope, urging AI regulation, warns some weapons now beyond human control",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14689ad4ae4e2f929cbf34444f8b13&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fpope-leo-urges-world-slow-down-ai-fervent-first-manifesto-2026-05-25%2f&amp;c=8995350249838097888&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 03:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Anthropic's Olah says AI must be guided from outside Big Tech",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14689ad4ae4e2f929cbf34444f8b13&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fanthropics-olah-says-ai-must-be-guided-outside-big-tech-2026-05-25%2f&amp;c=2999338440564951228&amp;mkt=en-us",
+        "pubDate": "Mon, 25 May 2026 03:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pakistan Shi'ites deported from UAE return to lost jobs, frozen savings",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a14689ad4ae4e2f929cbf34444f8b13&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistan-shiites-deported-uae-return-lost-jobs-frozen-savings-2026-05-25%2f&amp;c=7079201081014142882&amp;mkt=en-us",
+        "pubDate": "Sun, 24 May 2026 20:38:00 GMT",
         "category": "Top News"
       }
     ],
-    "reuters": [],
     "markets": [
       {
-        "title": "&apos;I never heard of the Strait of Hormuz before this&apos;: How one medical supply CEO is navigating the oil price shock",
-        "link": "https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html",
-        "pubDate": "Sun, 24 May 2026 17:26:32 GMT",
-        "category": "health"
+        "title": "These tech stocks have seen bullish &apos;flag patterns&apos; recently, says Katie Stockton",
+        "link": "https://www.cnbc.com/2026/05/25/these-tech-stocks-have-seen-bullish-flag-patterns-recently-says-katie-stockton.html",
+        "pubDate": "Mon, 25 May 2026 14:45:44 GMT",
+        "category": "us"
       }
     ]
   }
