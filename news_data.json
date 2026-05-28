@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-05-27T23:37:30.938663",
+  "updated_at": "2026-05-28T04:11:01.831687",
   "news": {
     "ap": [
       {
-        "title": "Uganda closes its border with Congo, where suspected cases of a rare Ebola type are surging",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a177fe20c51494cbfd27ee5b2caaf76&amp;url=https%3a%2f%2fapnews.com%2farticle%2febola-congo-uganda-border-virus-b96734598ea95b1cdb71986c8b1adf43&amp;c=3323027880343573654&amp;mkt=en-us",
-        "pubDate": "Wed, 27 May 2026 15:10:00 GMT",
-        "category": "health"
+        "title": "US military conducts another strike against Iran after Trump says Iran is \u2018negotiating on fumes\u2019",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfb9db59401ea039ae4dfc9cfa42&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-iran-nuclear-cabinet-meeting-af77d581873bfeec32d7342b56841244&amp;c=5393306811171152786&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 18:48:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
+      {
+        "title": "DOJ charges Google staffer over Polymarket trades netting $1.2 million",
+        "link": "https://www.npr.org/2026/05/27/nx-s1-5836659/google-polymarket-insider-trading-doj-charges",
+        "pubDate": "Wed, 27 May 2026 19:35:11 -0400",
+        "category": "us"
+      },
       {
         "title": "He filmed himself doing household tasks \u2014 for AI robots",
         "link": "https://www.npr.org/2026/05/27/nx-s1-5835190/he-filmed-himself-doing-household-tasks-for-ai-robots",
         "pubDate": "Wed, 27 May 2026 17:59:07 -0400",
         "category": "tech"
-      },
-      {
-        "title": "An art museum in Maine tries to balance protecting art and saving energy",
-        "link": "https://www.npr.org/2026/05/27/nx-s1-5830417/an-art-museum-in-maine-tries-to-balance-protecting-art-and-saving-energy",
-        "pubDate": "Wed, 27 May 2026 16:41:02 -0400",
-        "category": "us"
       },
       {
         "title": "NPR&apos;s newsroom shrinks through buyouts and layoffs",
@@ -73,6 +73,30 @@
     ],
     "bbc": [
       {
+        "title": "US strikes Iran targets for second time in three days",
+        "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 28 May 2026 02:58:27 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Google worker charged with using internal data to make $1.2m on bets",
+        "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 28 May 2026 02:14:19 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Ex-US government official arrested after $40 million in gold bars found in home",
+        "link": "https://www.bbc.com/news/articles/c5yezdl054po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 28 May 2026 00:58:42 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+        "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 28 May 2026 00:28:45 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture",
         "link": "https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 27 May 2026 23:08:25 GMT",
@@ -103,122 +127,86 @@
         "category": "business"
       },
       {
-        "title": "'We are at risk of a lost generation': One in six young people will not be in work or training in five years without action, report warns",
-        "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 27 May 2026 21:30:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Israel issues evacuation order for swathes of southern Lebanon",
-        "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 27 May 2026 20:26:03 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Trump says US 'not satisfied' with Iran deal yet",
-        "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 27 May 2026 17:37:33 GMT",
-        "category": "us"
-      },
-      {
         "title": "'It's not a nice world to bring children into': Births fall to the lowest level in 50 years",
         "link": "https://www.bbc.com/news/articles/cvgzdq23xpgo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 27 May 2026 16:45:27 GMT",
         "category": "health"
-      },
-      {
-        "title": "The rise of the fruit that tastes like custard",
-        "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 27 May 2026 10:58:45 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a177ff8c2804a8ebdf6d14f227134b0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsalesforce-beats-first-quarter-revenue-estimates-2026-05-27%2f&amp;c=8671548857508339272&amp;mkt=en-us",
-        "pubDate": "Wed, 27 May 2026 14:58:00 GMT",
-        "category": "business"
+        "title": "China's auto industry is unlikely to return to 'golden era,' NIO CEO says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfdc2d584c50b9a51c22784a0a21&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fchinas-auto-industry-is-unlikely-return-golden-era-nio-ceo-says-2026-05-28%2f&amp;c=3761672401177593353&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 19:40:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Marvell sees custom chip revenue topping $10 billion by 2029 as AI demand grows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a177ff8a0be4276b2073be8692cba8d&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fmarvell-technology-forecasts-quarterly-revenue-above-estimates-2026-05-27%2f&amp;c=6110074416706533955&amp;mkt=en-us",
-        "pubDate": "Wed, 27 May 2026 14:39:00 GMT",
-        "category": "tech"
+        "title": "Panama passes law imposing stricter requirements on multinational firms",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfdc2d584c50b9a51c22784a0a21&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fpanama-passes-law-geared-stricter-requirements-multinational-firms-2026-05-28%2f&amp;c=13510186772054311628&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 19:20:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Oil settles 5% lower as investors await updates on US-Iran peace deal talks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a177ff743b74a089327707907eb9e8f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-pulls-back-traders-look-progress-us-iran-talks-2026-05-27%2f&amp;c=6719143096387790267&amp;mkt=en-us",
-        "pubDate": "Wed, 27 May 2026 13:48:00 GMT",
+        "title": "Any conflict over Taiwan would risk U.S.-China nuclear escalation, study finds",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfdc2d584c50b9a51c22784a0a21&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fany-conflict-over-taiwan-would-risk-us-china-nuclear-escalation-study-finds-2026-05-28%2f&amp;c=3091350165060512326&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 19:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US strikes Iran again, official says, after Trump denies deal on Strait of Hormuz",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfdc2d584c50b9a51c22784a0a21&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-could-open-strait-hormuz-within-month-if-terms-agreed-state-tv-says-2026-05-27%2f&amp;c=11658820037999973988&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 18:37:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US regulator moves to withdraw $5 million penalty against Winklevoss' crypto exchange",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfee97344af69aacf90eee39b6b5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-regulator-moves-withdraw-5-million-penalty-against-winklevoss-crypto-exchange-2026-05-28%2f&amp;c=12700787606303095258&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 18:36:00 GMT",
         "category": "us"
       },
       {
-        "title": "New York state, New Jersey probe FIFA World Cup ticketing practices",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a177ff68b0f4f1e81a9c2d3b9791dc9&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fny-nj-probe-fifas-ticketing-practices-state-officials-say-2026-05-27%2f&amp;c=9116535375475387800&amp;mkt=en-us",
-        "pubDate": "Wed, 27 May 2026 11:03:00 GMT",
-        "category": "world"
+        "title": "Royal Caribbean scraps Mexico water park after environmental backlash",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfdc2d584c50b9a51c22784a0a21&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2froyal-caribbean-scraps-mexico-water-park-after-environmental-backlash-president-2026-05-27%2f&amp;c=9580874900259685198&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 17:56:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Ebola patients flee in attacks on Congo health facilities, hobbling response",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a177ffa679c4be2a6277925fc89129a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2febola-patients-flee-attacks-congo-health-facilities-hobbling-response-2026-05-25%2f&amp;c=10725749638091421305&amp;mkt=en-us",
-        "pubDate": "Wed, 27 May 2026 05:18:00 GMT",
-        "category": "health"
+        "title": "Dollar near one-week high as US-Iran tensions flare, yen nears intervention zone",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfdc2d584c50b9a51c22784a0a21&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fdollar-near-one-week-high-us-iran-tensions-flare-yen-nears-intervention-zone-2026-05-28%2f&amp;c=15730837704219124590&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 17:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Asia shares take a breather as Gulf hostilities drag on",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfdc2d584c50b9a51c22784a0a21&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-05-28%2f&amp;c=11005512020393975692&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 17:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Investors expect US dollar to break higher as Fed battles inflation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfdc2d584c50b9a51c22784a0a21&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2finvestors-expect-us-dollar-break-higher-fed-battles-inflation-2026-05-27%2f&amp;c=11102059848244405215&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 17:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall Street indexes post closing record highs, AI rally pauses",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a17bfdc2d584c50b9a51c22784a0a21&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-rise-ai-optimism-investors-optimistic-mideast-truce-2026-05-27%2f&amp;c=3932835715908862677&amp;mkt=en-us",
+        "pubDate": "Wed, 27 May 2026 16:16:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
-        "link": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
-        "pubDate": "Wed, 27 May 2026 22:18:07 GMT",
-        "category": "Top News"
+        "title": "Kuwait air defenses activated against &apos;missile and drone threats&apos;; U.S. carries out new strikes in Iran",
+        "link": "https://www.cnbc.com/2026/05/28/kuwait-air-defenses-activated-us-carries-out-new-strikes-in-iran.html",
+        "pubDate": "Thu, 28 May 2026 04:05:09 GMT",
+        "category": "world"
       },
       {
         "title": "Amazon&apos;s top health exec is stepping down, will be replaced by Amwell co-founder",
         "link": "https://www.cnbc.com/2026/05/27/amazons-top-health-exec-is-stepping-down-will-be-replaced-by-amwell-co-founder.html",
         "pubDate": "Wed, 27 May 2026 22:06:35 GMT",
         "category": "health"
-      },
-      {
-        "title": "Stocks making the biggest moves after hours: Snowflake, Marvell Technology, Agilent Technologies &amp; more",
-        "link": "https://www.cnbc.com/2026/05/27/stocks-making-the-biggest-moves-after-hours-snow-mrvl-a.html",
-        "pubDate": "Wed, 27 May 2026 21:23:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Jamie Dimon says JPMorgan Chase could spend $20 billion on acquisition: &apos;We are on the lookout&apos;",
-        "link": "https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html",
-        "pubDate": "Wed, 27 May 2026 15:51:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
-        "link": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
-        "pubDate": "Wed, 27 May 2026 14:05:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too",
-        "link": "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html",
-        "pubDate": "Wed, 27 May 2026 13:11:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans",
-        "link": "https://www.cnbc.com/2026/05/27/nvidia-taiwan-investment-150-billion-spending.html",
-        "pubDate": "Wed, 27 May 2026 09:41:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "European companies double down on China manufacturing despite EU de-risking push",
-        "link": "https://www.cnbc.com/2026/05/27/european-companies-expand-china-supply-chains-automation-costs.html",
-        "pubDate": "Wed, 27 May 2026 04:49:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China industrial profits jump 24.7% in April, fastest gain in over two years despite headwinds",
-        "link": "https://www.cnbc.com/2026/05/27/china-april-industrial-profits-growth.html",
-        "pubDate": "Wed, 27 May 2026 03:20:15 GMT",
-        "category": "Top News"
       }
     ]
   }
