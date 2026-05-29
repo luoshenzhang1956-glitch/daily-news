@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-05-29T15:57:01.141348",
+  "updated_at": "2026-05-29T18:40:57.212406",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Wembanyama was all business in Game 6 of West finals. It earned him and the Spurs a chance at Game 7",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a19dd236ecc44a3bba86ade4955c223&amp;url=https%3a%2f%2fapnews.com%2farticle%2fspurs-victor-wembanyama-nba-playoffs-371dc0dc262980060a59a5fe0c20b0f0&amp;c=4304883233113857828&amp;mkt=en-us",
+        "pubDate": "Thu, 28 May 2026 21:13:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Why are people attacking Ebola clinics? It revolves around trust, death and body bags",
+        "link": "https://www.npr.org/2026/05/29/g-s1-124359/ebola-outbreak-trust-death-burial-democratic-republic-congo",
+        "pubDate": "Fri, 29 May 2026 13:15:57 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Louisiana lawmakers pass a congressional map to dismantle a majority-Black district",
+        "link": "https://www.npr.org/2026/05/29/nx-s1-5826956/louisiana-new-congressional-map-redistricting",
+        "pubDate": "Fri, 29 May 2026 13:14:27 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Here&apos;s how we&apos;re coping with high gas prices, according to Costco and Walmart",
+        "link": "https://www.npr.org/2026/05/29/nx-s1-5838740/how-stressed-are-americans-about-high-gas-prices-fueling",
+        "pubDate": "Fri, 29 May 2026 12:57:09 -0400",
+        "category": "business"
+      },
       {
         "title": "Asia defense summit opens amid doubts over U.S. priorities",
         "link": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities",
@@ -25,7 +50,7 @@
         "title": "Photos show the world&apos;s &apos;uncounted&apos; people -- and what it takes to be counted",
         "link": "https://www.npr.org/2026/05/29/g-s1-124682/photos-birth-certificate-death-certificate-photoville",
         "pubDate": "Fri, 29 May 2026 06:49:24 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
@@ -44,38 +69,38 @@
         "link": "https://www.npr.org/2026/05/29/g-s1-124599/tennis-biden-bezos-pope-google-news-quiz",
         "pubDate": "Fri, 29 May 2026 05:01:00 -0400",
         "category": "us"
-      },
-      {
-        "title": "Why the U.S. cattle herd is at a 75-year low \u2014 and what it means for beef prices",
-        "link": "https://www.npr.org/2026/05/29/nx-s1-5719511/beef-cattle-herd-food-prices",
-        "pubDate": "Fri, 29 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Replacing aging U.S. voting equipment will take years and billions of dollars",
-        "link": "https://www.npr.org/2026/05/29/nx-s1-5830385/voting-equipment-report",
-        "pubDate": "Fri, 29 May 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "FIFA&apos;s World Cup ticket sales outraged fans. Now they are under investigation",
-        "link": "https://www.npr.org/2026/05/28/nx-s1-5836514/2026-world-cup-fifa-ticket-prices",
-        "pubDate": "Thu, 28 May 2026 13:48:15 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
+      {
+        "title": "Trump holding meeting to make 'final determination' on Iran deal",
+        "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 29 May 2026 18:12:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sturgeon wishes she had not kept Murrell on as SNP chief executive",
+        "link": "https://www.bbc.com/news/articles/cj9pdr4jw30o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 29 May 2026 17:49:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+        "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 29 May 2026 17:27:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+        "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 29 May 2026 17:08:50 GMT",
+        "category": "world"
+      },
       {
         "title": "Only three-quarters of first class mail delivered on time",
         "link": "https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 29 May 2026 15:51:39 GMT",
         "category": "business"
-      },
-      {
-        "title": "Canadian 'poison seller' pleads guilty to aiding suicides by selling toxic chemical online",
-        "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 29 May 2026 15:29:12 GMT",
-        "category": "world"
       },
       {
         "title": "Child among three dead in tower block fall",
@@ -84,28 +109,10 @@
         "category": "Top News"
       },
       {
-        "title": "No second retrial for men accused of airport brawl",
-        "link": "https://www.bbc.com/news/articles/cd0px74kznxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 29 May 2026 15:09:32 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
         "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 29 May 2026 13:55:04 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
-        "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 29 May 2026 12:56:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
-        "link": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 29 May 2026 10:55:45 GMT",
-        "category": "Top News"
       },
       {
         "title": "Exploding rocket casts doubts over Nasa's Moon plans",
@@ -126,32 +133,26 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
-        "link": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
-        "pubDate": "Fri, 29 May 2026 14:06:12 GMT",
-        "category": "Top News"
+        "title": "Bessent argues US was 'asleep' on economic security, Trump policies waking it up",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a19dd5353bf487d89acfda0fa5ece35&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fbessent-argues-us-was-asleep-economic-security-trump-policies-waking-it-up-2026-05-29%2f&amp;c=4757261427135065600&amp;mkt=en-us",
+        "pubDate": "Fri, 29 May 2026 05:40:00 GMT",
+        "category": "us"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Dell Technologies, HP, AST SpaceMobile, Gap &amp; more",
-        "link": "https://www.cnbc.com/2026/05/29/stocks-making-the-biggest-moves-premarket-dell-hpq-asts.html",
-        "pubDate": "Fri, 29 May 2026 11:32:55 GMT",
-        "category": "Top News"
+        "title": "International Flavors and Fragrances to sell food ingredients unit in $4.3 billion deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a19dd5657664ec79aa57d8b14eac7f9&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2finternational-flavors-fragrances-nears-4-billion-deal-sell-food-ingredients-2026-05-29%2f&amp;c=8029961275933684942&amp;mkt=en-us",
+        "pubDate": "Fri, 29 May 2026 04:08:00 GMT",
+        "category": "business"
       },
       {
-        "title": "CFTC sues Rhode Island over actions against prediction markets",
-        "link": "https://www.cnbc.com/2026/05/28/cftc-sues-rhode-island-over-actions-against-prediction-markets.html",
-        "pubDate": "Thu, 28 May 2026 19:57:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Gaming association says states have lost $1 billion in tax revenue due to prediction markets",
-        "link": "https://www.cnbc.com/2026/05/28/states-have-lost-1-billion-due-to-prediction-markets-gaming-association.html",
-        "pubDate": "Thu, 28 May 2026 16:51:57 GMT",
-        "category": "Top News"
+        "title": "Taiwan's MediaTek says it supports both TSMC and Intel's advanced packaging technologies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a19dd5664204862bc4445bb508013cb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftaiwans-mediatek-says-it-supports-both-tsmc-intels-advanced-packaging-2026-05-29%2f&amp;c=2329120847133802353&amp;mkt=en-us",
+        "pubDate": "Fri, 29 May 2026 02:11:00 GMT",
+        "category": "tech"
       }
-    ]
+    ],
+    "markets": []
   }
 }
