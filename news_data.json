@@ -1,32 +1,50 @@
 {
-  "updated_at": "2026-05-30T21:07:04.763554",
+  "updated_at": "2026-05-30T23:04:31.262641",
   "news": {
     "ap": [
       {
+        "title": "Frankie Valli cancels the remainder of the Four Seasons\u2019 farewell tour, citing health concerns",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cdb1bad4b4093289d582ea58929&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffrankie-valli-four-seasons-farewell-tour-canceled-52860b76a6d00b298c3b2bbd9986f859&amp;c=15391277286909068421&amp;mkt=en-us",
+        "pubDate": "Sat, 30 May 2026 15:39:00 GMT",
+        "category": "health"
+      },
+      {
         "title": "Hegseth tones down warnings about China but says US remains committed to Pacific security",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b5122ecde423bb0a0b2df3f41d7f9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhegseth-trump-singapore-china-us-taiwan-pacific-iran-d6cf2b964940f47a83f0a6f587c7e0c3&amp;c=12272652184622004666&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cc51ecf4fc6a48544419bd31e0c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhegseth-trump-singapore-china-us-taiwan-pacific-iran-d6cf2b964940f47a83f0a6f587c7e0c3&amp;c=12272652184622004666&amp;mkt=en-us",
         "pubDate": "Sat, 30 May 2026 12:44:00 GMT",
         "category": "us"
       },
       {
-        "title": "Trump\u2019s physician says the president is in \u2018excellent health\u2019 and is \u2018fully fit\u2019 to serve",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b5137492942b0b41ab46aaca17e93&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-health-checkup-fitness-doctors-a883ebfd180c5bc232587f44449f782a&amp;c=1506724970862389884&amp;mkt=en-us",
-        "pubDate": "Sat, 30 May 2026 01:07:00 GMT",
-        "category": "health"
+        "title": "Los Angeles faces Connecticut on 3-game win streak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cda17cf4f9eac3613c7d7d8ff2b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fconnecticut-connecticut-sun-los-angeles-sparks-wnba-basketball-los-angeles-fa6ba69bc883409e897bc34416a9419a&amp;c=4329269184007311176&amp;mkt=en-us",
+        "pubDate": "Fri, 29 May 2026 23:09:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "Judge agrees to review Trump&apos;s $1.8 billion &apos;anti-weaponization&apos; fund",
+        "link": "https://www.npr.org/2026/05/30/nx-s1-5839989/judge-review-trump-anti-weaponization-fund",
+        "pubDate": "Sat, 30 May 2026 17:32:28 -0400",
+        "category": "us"
+      },
+      {
+        "title": "PSG wins back-to-back Champions League titles after shootout victory against Arsenal",
+        "link": "https://www.npr.org/2026/05/30/nx-s1-5841380/psg-champions-league-victory-against-arsenal",
+        "pubDate": "Sat, 30 May 2026 17:11:40 -0400",
+        "category": "world"
+      },
+      {
         "title": "Pride celebrations struggle as corporate sponsorships dry up",
         "link": "https://www.npr.org/2026/05/30/nx-s1-5805854/pride-parade-struggle-corporate-sponsorships",
         "pubDate": "Sat, 30 May 2026 09:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Carcass of Timmy the humpback whale brought to shore in Denmark",
         "link": "https://www.npr.org/2026/05/30/nx-s1-5839921/timmy-humpback-whale-autopsy",
         "pubDate": "Sat, 30 May 2026 08:16:28 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Opinion: Pope Leo reminds us of the value of our shared humanity",
@@ -63,15 +81,21 @@
         "link": "https://www.npr.org/2026/05/30/nx-s1-5839201/party-primaries-polarized-congress",
         "pubDate": "Sat, 30 May 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "What it means to be a man is a theme in Texas Senate race as Paxton attacks Talarico",
-        "link": "https://www.npr.org/2026/05/30/nx-s1-5839468/texas-senate-talarico-paxton-gender-masculinity",
-        "pubDate": "Sat, 30 May 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+        "link": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 30 May 2026 22:23:32 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
+        "link": "https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 30 May 2026 22:23:31 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
         "link": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&amp;at_campaign=rss",
@@ -103,12 +127,6 @@
         "category": "world"
       },
       {
-        "title": "Arne Slot's Liverpool sacking completes a remarkable fall from grace",
-        "link": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 30 May 2026 11:55:53 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Palace was handed Andrew's controversial envoy emails six years ago",
         "link": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 30 May 2026 10:51:43 GMT",
@@ -125,38 +143,68 @@
         "link": "https://www.bbc.com/news/articles/cx21v0ezv14o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 30 May 2026 08:44:23 GMT",
         "category": "us"
-      },
-      {
-        "title": "Tech Now",
-        "link": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 30 May 2026 01:00:00 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
+        "title": "Grit and patience pay off as PSG find another way to triumph",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cdfbaf8447b9639b8dfcbc6d9e5&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fgrit-patience-pay-off-psg-find-another-way-triumph-2026-05-30%2f&amp;c=2232644023818293122&amp;mkt=en-us",
+        "pubDate": "Sat, 30 May 2026 13:34:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Scotland's Gilmour ruled out of World Cup with knee injury",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b514bdd794631915ecdee9a993981&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fscotlands-gilmour-ruled-out-world-cup-with-knee-injury-2026-05-30%2f&amp;c=7625899750288096160&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cecc31146518678292d0165f056&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fscotlands-gilmour-ruled-out-world-cup-with-knee-injury-2026-05-30%2f&amp;c=7625899750288096160&amp;mkt=en-us",
         "pubDate": "Sat, 30 May 2026 12:25:00 GMT",
         "category": "world"
       },
       {
+        "title": "Mavs' Kyrie Irving &quot;close to 100%&quot; in recovery from torn ACL",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cdfbaf8447b9639b8dfcbc6d9e5&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fmavs-kyrie-irving-close-100-recovery-torn-acl--flm-2026-05-30%2f&amp;c=6156161503073143656&amp;mkt=en-us",
+        "pubDate": "Sat, 30 May 2026 12:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pentagon chief says U.S. ready to restart strikes on Iran if no deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cdfbaf8447b9639b8dfcbc6d9e5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpentagon-chief-says-us-ready-restart-strikes-iran-if-no-deal-2026-05-30%2f&amp;c=11368092050772582524&amp;mkt=en-us",
+        "pubDate": "Sat, 30 May 2026 12:14:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump to headline 250th anniversary fair opening after performers drop out",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cdfbaf8447b9639b8dfcbc6d9e5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-considers-dropping-concerts-us-capital-after-artists-drop-out-2026-05-30%2f&amp;c=13431337311242516444&amp;mkt=en-us",
+        "pubDate": "Sat, 30 May 2026 11:23:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Rights groups sue over conditions at largest US immigration detention center",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b514c7e804b41bec08a5c5126b1d6&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2frights-groups-sue-over-conditions-largest-us-immigration-detention-center-2026-05-30%2f&amp;c=5308786355462259740&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cedd6a14f24a6b6c10fcf623cd7&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2frights-groups-sue-over-conditions-largest-us-immigration-detention-center-2026-05-30%2f&amp;c=5308786355462259740&amp;mkt=en-us",
         "pubDate": "Sat, 30 May 2026 10:24:00 GMT",
         "category": "us"
       },
       {
         "title": "WHO chief urges safe burials in visit to heart of Ebola outbreak",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b5161b6284801a3c0e9048c228a33&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fwho-chief-rallies-community-congos-ebola-response-calls-more-funding-2026-05-30%2f&amp;c=8095669771582530044&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cf269324bdba32db02efdcedb82&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fwho-chief-rallies-community-congos-ebola-response-calls-more-funding-2026-05-30%2f&amp;c=8095669771582530044&amp;mkt=en-us",
         "pubDate": "Sat, 30 May 2026 09:49:00 GMT",
         "category": "health"
       },
       {
+        "title": "Austrian protesters shut vital motorway connecting Germany to Italy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cdfbaf8447b9639b8dfcbc6d9e5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2faustrian-protesters-shut-vital-motorway-connecting-germany-italy-2026-05-30%2f&amp;c=14990324470046685897&amp;mkt=en-us",
+        "pubDate": "Sat, 30 May 2026 06:47:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b515f07c2434fa040581ac5031c68&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffirst-windows-pc-powered-by-nvidia-chips-debut-next-week-axios-reports-2026-05-30%2f&amp;c=3938774851148648&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cf1ab604b2e96c995ab7fceb972&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffirst-windows-pc-powered-by-nvidia-chips-debut-next-week-axios-reports-2026-05-30%2f&amp;c=3938774851148648&amp;mkt=en-us",
         "pubDate": "Sat, 30 May 2026 06:21:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Tiny Guyana poised for big Iran oil gains and growth strains",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1b6cf0d82b4b3380969c72bff4cee2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftiny-guyana-poised-big-iran-oil-gains-growth-strains-2026-05-30%2f&amp;c=12395496042119027380&amp;mkt=en-us",
+        "pubDate": "Sat, 30 May 2026 06:20:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
@@ -183,6 +231,12 @@
         "link": "https://www.cnbc.com/2026/05/30/germany-china-shangri-la-dialogue-defense-minister.html",
         "pubDate": "Sat, 30 May 2026 12:01:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "Meta has struggled at selling anything other than ads. Will AI be different?",
+        "link": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
+        "pubDate": "Sat, 30 May 2026 12:00:01 GMT",
+        "category": "tech"
       }
     ]
   }
