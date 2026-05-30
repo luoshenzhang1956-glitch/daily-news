@@ -1,20 +1,50 @@
 {
-  "updated_at": "2026-05-30T10:07:32.069275",
+  "updated_at": "2026-05-30T13:52:41.588958",
   "news": {
     "ap": [
       {
+        "title": "Hegseth tones down warnings about China but says US remains committed to Pacific security",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1aeb710d2a4135ae4d0d0e85702911&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhegseth-trump-singapore-china-us-taiwan-pacific-iran-d6cf2b964940f47a83f0a6f587c7e0c3&amp;c=12272652184622004666&amp;mkt=en-us",
+        "pubDate": "Sat, 30 May 2026 03:39:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Trump\u2019s physician says the president is in \u2018excellent health\u2019 and is \u2018fully fit\u2019 to serve",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1ab66373ba4b3496748a005fb6d9f1&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-health-checkup-fitness-doctors-a883ebfd180c5bc232587f44449f782a&amp;c=1506724970862389884&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1aeb7e4a3d4eb3ae36aebeae54ac93&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-health-checkup-fitness-doctors-a883ebfd180c5bc232587f44449f782a&amp;c=1506724970862389884&amp;mkt=en-us",
         "pubDate": "Sat, 30 May 2026 01:07:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "President of Myanmar\u2019s military-backed government visits India",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1aeb727d124e43a1a08daa64e17290&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmyanmar-min-aung-hlaing-modi-india-bcbf4b34f021e18423d5d490168aef7d&amp;c=2903225823396674947&amp;mkt=en-us",
+        "pubDate": "Sat, 30 May 2026 00:24:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
       {
+        "title": "Pride celebrations struggle as corporate sponsorships dry up",
+        "link": "https://www.npr.org/2026/05/30/nx-s1-5805854/pride-parade-struggle-corporate-sponsorships",
+        "pubDate": "Sat, 30 May 2026 09:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Carcass of Timmy the humpback whale brought to shore in Denmark",
+        "link": "https://www.npr.org/2026/05/30/nx-s1-5839921/timmy-humpback-whale-autopsy",
+        "pubDate": "Sat, 30 May 2026 08:16:28 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Opinion: Pope Leo reminds us of the value of our shared humanity",
+        "link": "https://www.npr.org/2026/05/30/nx-s1-5832464/opinion-pope-leo-reminds-us-of-the-value-of-our-shared-humanity",
+        "pubDate": "Sat, 30 May 2026 08:00:00 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "The NTSB tries to keep cockpit audio recordings private. AI is making that harder",
         "link": "https://www.npr.org/2026/05/30/nx-s1-5835242/ntsb-cockpit-audio-cvr-reconstruction",
         "pubDate": "Sat, 30 May 2026 06:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Colombia&apos;s untapped wonder: The Mavecure Mountains",
@@ -26,7 +56,7 @@
         "title": "Myanmar&apos;s Min Aung Hlaing takes first foreign tour as leader, with visit to India",
         "link": "https://www.npr.org/2026/05/30/nx-s1-5838637/myanmar-hlaing-india-tour",
         "pubDate": "Sat, 30 May 2026 05:00:00 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "How single-party primary elections are reshaping Congress",
@@ -47,24 +77,6 @@
         "category": "health"
       },
       {
-        "title": "Trump&apos;s name must come off of the Kennedy Center, judge rules",
-        "link": "https://www.npr.org/2026/05/29/nx-s1-5839349/president-trump-kennedy-center-name-judge-order",
-        "pubDate": "Fri, 29 May 2026 16:33:21 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Why are people attacking Ebola clinics? It revolves around trust, death and body bags",
-        "link": "https://www.npr.org/2026/05/29/g-s1-124359/ebola-outbreak-trust-death-burial-democratic-republic-congo",
-        "pubDate": "Fri, 29 May 2026 13:15:57 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Louisiana lawmakers pass a congressional map to dismantle a majority-Black district",
-        "link": "https://www.npr.org/2026/05/29/nx-s1-5826956/louisiana-new-congressional-map-redistricting",
-        "pubDate": "Fri, 29 May 2026 13:14:27 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Here&apos;s how we&apos;re coping with high gas prices, according to Costco and Walmart",
         "link": "https://www.npr.org/2026/05/29/nx-s1-5838740/how-stressed-are-americans-about-high-gas-prices-fueling",
         "pubDate": "Fri, 29 May 2026 12:57:09 -0400",
@@ -73,40 +85,40 @@
     ],
     "bbc": [
       {
-        "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
-        "link": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 30 May 2026 08:56:05 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Millions of breast cancer patients could safely avoid chemotherapy, study suggests",
         "link": "https://www.bbc.com/news/articles/c2325j0xk1vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 30 May 2026 08:46:26 GMT",
+        "pubDate": "Sat, 30 May 2026 13:14:42 GMT",
         "category": "health"
       },
       {
-        "title": "The tactics that could win Arsenal the Champions League",
-        "link": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 30 May 2026 05:17:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Attorney general had 'no doubt' on reviewing teen boys' rape sentences",
-        "link": "https://www.bbc.com/news/articles/c1m21k99vpdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 30 May 2026 05:00:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Palace was handed Andrew's controversial envoy emails six years ago",
-        "link": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 30 May 2026 05:00:30 GMT",
+        "title": "US, UK and Australia to develop underwater drone technology",
+        "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 30 May 2026 12:16:26 GMT",
         "category": "Top News"
       },
       {
         "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
         "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 30 May 2026 04:19:32 GMT",
+        "pubDate": "Sat, 30 May 2026 11:39:32 GMT",
         "category": "world"
+      },
+      {
+        "title": "Liverpool sack head coach Arne Slot year after Premier League title win",
+        "link": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 30 May 2026 11:30:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Palace was handed Andrew's controversial envoy emails six years ago",
+        "link": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 30 May 2026 10:51:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
+        "link": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 30 May 2026 08:56:05 GMT",
+        "category": "Top News"
       },
       {
         "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
@@ -135,13 +147,49 @@
     ],
     "reuters": [
       {
+        "title": "US judge temporarily blocks Trump's $1.8 billion 'weaponization' fund",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1aeb85cdfd4b28800212265ee7e845&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-temporarily-blocks-trumps-18-billion-weaponization-fund-2026-05-29%2f&amp;c=10629342035267095445&amp;mkt=en-us",
+        "pubDate": "Sat, 30 May 2026 02:26:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Trump in excellent health with leg swelling, hand bruising, doctor says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1ab6a032204a07bba13210e7c43317&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-remains-excellent-health-white-house-memo-says-2026-05-30%2f&amp;c=18028987182887308729&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1aeb9661a7431c82457c06f42fcb8b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-remains-excellent-health-white-house-memo-says-2026-05-30%2f&amp;c=18028987182887308729&amp;mkt=en-us",
         "pubDate": "Fri, 29 May 2026 20:31:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "Airlines and business groups warn of chaos if US restricts international flights",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1aeb914e764a02a5aea227d46ff224&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-travel-group-warns-closing-newark-airport-international-travel-could-cost-8-2026-05-29%2f&amp;c=16380616035133208356&amp;mkt=en-us",
+        "pubDate": "Fri, 29 May 2026 15:07:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Spain favorites to win 2026 World Cup, Goldman model shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1aeb83335f43398ef60b380ecaef24&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fsoccer-spain-favorites-win-world-cup-goldman-model-shows-2026-05-29%2f&amp;c=3818918459091208500&amp;mkt=en-us",
+        "pubDate": "Fri, 29 May 2026 14:53:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
+      {
+        "title": "Investors and labels are buying into the growing South Asian music business in the U.S.",
+        "link": "https://www.cnbc.com/2026/05/30/south-asian-music-warner-records-5-junction.html",
+        "pubDate": "Sat, 30 May 2026 13:24:28 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Micron is one of the most overbought stocks after this week\u2019s rally to new highs",
+        "link": "https://www.cnbc.com/2026/05/30/micron-is-one-of-the-most-overbought-stocks-after-this-weeks-rally-to-new-highs.html",
+        "pubDate": "Sat, 30 May 2026 13:04:29 GMT",
+        "category": "us"
+      },
+      {
+        "title": "China is &apos;losing a chance&apos; by not being at the Shangri-La Dialogue: German defense chief",
+        "link": "https://www.cnbc.com/2026/05/30/germany-china-shangri-la-dialogue-defense-minister.html",
+        "pubDate": "Sat, 30 May 2026 12:01:00 GMT",
+        "category": "world"
+      },
       {
         "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
         "link": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
@@ -155,10 +203,10 @@
         "category": "Top News"
       },
       {
-        "title": "Replimune to resubmit twice-rejected drug for approval after FDA shakeup",
-        "link": "https://www.cnbc.com/2026/05/29/replimune-resubmit-melanoma-drug-fda-makary.html",
-        "pubDate": "Fri, 29 May 2026 12:51:06 GMT",
-        "category": "business"
+        "title": "Signos grows foothold in weight loss wave fueled by GLP-1s with its AI health data tracking",
+        "link": "https://www.cnbc.com/2026/05/27/ai-health-tech-signos-dexcom.html",
+        "pubDate": "Fri, 29 May 2026 15:01:57 GMT",
+        "category": "health"
       }
     ]
   }
