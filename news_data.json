@@ -1,20 +1,19 @@
 {
-  "updated_at": "2026-05-31T13:59:17.816854",
+  "updated_at": "2026-05-31T15:25:14.155975",
   "news": {
-    "ap": [
-      {
-        "title": "Tim Ream will be the captain of the US national team at the World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c3e4c7d514756be6fac82500c4682&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-us-tim-ream-a527c09087ccde3405e29badf57793d2&amp;c=9999747529110092118&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 02:06:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "U.S. strike on alleged drug boat kills 3 in Pacific Ocean, in fourth attack this week",
+        "link": "https://www.npr.org/2026/05/31/nx-s1-5841876/us-strike-drug-boat-kills-3-pacific-ocean",
+        "pubDate": "Sun, 31 May 2026 11:14:16 -0400",
+        "category": "world"
+      },
       {
         "title": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
         "link": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
         "pubDate": "Sun, 31 May 2026 09:33:36 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Experimental pill promises new hope for deadly pancreatic cancer",
@@ -47,7 +46,7 @@
         "category": "tech"
       },
       {
-        "title": "Reality TV can be unserious and dramatic. It&apos;s also training political candidates",
+        "title": "T.V. reality stars throw their hats into the ring for political office",
         "link": "https://www.npr.org/2026/05/31/nx-s1-5836675/reality-television-politics-candidates-minnesota-texas-la",
         "pubDate": "Sun, 31 May 2026 05:00:00 -0400",
         "category": "Top News"
@@ -62,12 +61,6 @@
         "title": "Immigrant detainees sue over &apos;horrific&apos; conditions at Texas ICE facility",
         "link": "https://www.npr.org/2026/05/30/nx-s1-5841359/immigrant-detainees-sue-texas-camp-east-montana",
         "pubDate": "Sat, 30 May 2026 20:55:06 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Judge agrees to review Trump&apos;s $1.8 billion &apos;anti-weaponization&apos; fund",
-        "link": "https://www.npr.org/2026/05/30/nx-s1-5839989/judge-review-trump-anti-weaponization-fund",
-        "pubDate": "Sat, 30 May 2026 17:32:28 -0400",
         "category": "Top News"
       }
     ],
@@ -135,22 +128,64 @@
     ],
     "reuters": [
       {
-        "title": "US castigates Europe over defence spend as NATO reassures Asia",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c3e738c044d1a8f0d9a7e3e6c85c1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-castigates-europe-over-defence-spend-nato-reassures-asia-2026-05-31%2f&amp;c=12417429879309464383&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 01:31:00 GMT",
-        "category": "us"
+        "title": "Sabalenka faces resurgent Osaka in race to French Open quarter-finals",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c5268f45e4852806f66ab2b0c3ab9&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ftennis%2fsabalenka-faces-resurgent-osaka-race-french-open-quarter-finals-2026-05-31%2f&amp;c=2591468550979759538&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 06:57:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "China factory activity stalls in May as demand weakens",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c3e77e22e4e7892fe6a78ca9a9440&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-factory-activity-stalls-may-demand-weakens-2026-05-31%2f&amp;c=3240134413926125813&amp;mkt=en-us",
-        "pubDate": "Sat, 30 May 2026 20:25:00 GMT",
-        "category": "business"
+        "title": "Two hundred hurt in post-game violence as Paris hails second Champions League triumph",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c5268f45e4852806f66ab2b0c3ab9&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ftwo-hundred-hurt-post-game-violence-paris-hails-second-champions-league-triumph-2026-05-31%2f&amp;c=4224230773043920787&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 06:33:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "UK foreign minister due to visit China and India to discuss global issues",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c3e7b6bb14ac3978b5ffc8f21525c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fuk-foreign-minister-due-visit-china-india-discuss-global-issues-2026-05-30%2f&amp;c=6825952943954812312&amp;mkt=en-us",
-        "pubDate": "Sat, 30 May 2026 15:05:00 GMT",
-        "category": "tech"
+        "title": "Taiwan condemns China after New York Times reporter expelled after presidential interview",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c5268f45e4852806f66ab2b0c3ab9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ftaiwan-condemns-china-after-new-york-times-reporter-expelled-after-presidential-2026-05-31%2f&amp;c=2701121691471114872&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 06:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c5268f45e4852806f66ab2b0c3ab9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fgreat-indo-pacific-hedge-deeper-defence-ties-us-doubts-grow-china-ascends-2026-05-31%2f&amp;c=14054266580592873436&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 05:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Revolution's pancreatic cancer drug doubles survival, boosts quality of life",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c5268f45e4852806f66ab2b0c3ab9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2frevolutions-pancreatic-cancer-drug-doubles-survival-boosts-quality-life-2026-05-31%2f&amp;c=10123024767697448407&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 05:40:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "J&amp;J prostate cancer drug reduces risk of cancer spread and death in late-stage study",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c5268f45e4852806f66ab2b0c3ab9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fjj-prostate-cancer-drug-reduces-risk-cancer-spread-death-late-stage-study-2026-05-31%2f&amp;c=14100326319733543558&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 05:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Colombians weigh leftist reforms against right-wing crackdowns in presidential vote",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c5268f45e4852806f66ab2b0c3ab9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcolombians-weigh-leftist-reforms-against-right-wing-crackdowns-presidential-vote-2026-05-31%2f&amp;c=5886156067970824073&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 05:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c5268f45e4852806f66ab2b0c3ab9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fisrael-troops-capture-beaufort-castle-southern-lebanon-push-against-hezbollah-2026-05-31%2f&amp;c=7748370712993602558&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 04:47:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Illegal mine collapses in China, killing five just days after Shanxi disaster",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c5268f45e4852806f66ab2b0c3ab9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fillegal-mine-collapses-china-killing-five-just-days-after-shanxi-disaster-2026-05-31%2f&amp;c=13561064678573452528&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 02:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New Jersey governor blames out-of-state agitators for inflaming Newark ICE detention protests",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c5268f45e4852806f66ab2b0c3ab9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fnew-jersey-governor-links-rising-tension-around-immigrant-detention-center-out-2026-05-31%2f&amp;c=12388426277619899801&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 00:39:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
