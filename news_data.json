@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-05-31T19:26:48.191936",
+  "updated_at": "2026-05-31T21:08:10.789563",
   "news": {
     "ap": [
       {
-        "title": "Flight 1978 and Messi\u2019s No 10: Argentina\u2019s arrival in US doubles as tribute to its World Cup success",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b06b81c4f27b81ed8de9208c51e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fargentina-national-team-world-cup-kansas-city-8fc256bb4677ac7c95f402ad5e3da81b&amp;c=9989116513394272499&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 10:13:00 GMT",
-        "category": "us"
-      },
-      {
         "title": "WHO chief reports 5 Ebola recoveries as a new treatment center opens in eastern Congo",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b2664d74f48b1718fb297ee5359&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftedros-who-ebola-congo-0adc9baa6828a95869febd14c78e8846&amp;c=10943590221376664229&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1ca2cea9e74ec3b2de11314f1b83d3&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftedros-who-ebola-congo-0adc9baa6828a95869febd14c78e8846&amp;c=10943590221376664229&amp;mkt=en-us",
         "pubDate": "Sun, 31 May 2026 08:04:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Trump floats MAGA rally instead of concert after musicians drop out of Freedom 250",
+        "link": "https://www.npr.org/2026/05/31/nx-s1-5841889/trump-america-250-state-fair-artists-rally",
+        "pubDate": "Sun, 31 May 2026 17:04:49 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name",
+        "link": "https://www.npr.org/2026/05/31/nx-s1-5841913/united-airlines-flight-diversion-bluetooth",
+        "pubDate": "Sun, 31 May 2026 16:29:34 -0400",
+        "category": "us"
+      },
       {
         "title": "U.S. strike on alleged drug boat kills 3 in Pacific Ocean, in fourth attack this week",
         "link": "https://www.npr.org/2026/05/31/nx-s1-5841876/us-strike-drug-boat-kills-3-pacific-ocean",
@@ -33,12 +39,6 @@
         "link": "https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer",
         "pubDate": "Sun, 31 May 2026 09:00:47 -0400",
         "category": "health"
-      },
-      {
-        "title": "Inside ATL: how Delta juggles 100,000 bags a day at the world&apos;s busiest airport",
-        "link": "https://www.npr.org/2026/05/31/nx-s1-5801537-e1/inside-atl-how-delta-juggles-100-000-bags-a-day-at-the-worlds-busiest-airport",
-        "pubDate": "Sun, 31 May 2026 08:31:13 -0400",
-        "category": "us"
       },
       {
         "title": "Israel is extending its footprint through war. For some, it&apos;s part of a greater plan",
@@ -69,19 +69,31 @@
         "link": "https://www.npr.org/2026/05/31/nx-s1-5836675/reality-television-politics-candidates-minnesota-texas-la",
         "pubDate": "Sun, 31 May 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "San Antonio Spurs win the West, beating Oklahoma City Thunder to head to NBA Finals",
-        "link": "https://www.npr.org/2026/05/31/g-s1-125047/wembanyama-san-antonio-spurs-win-west-oklahoma-thunder-nba",
-        "pubDate": "Sun, 31 May 2026 04:24:50 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Shot fired as officer struck by stolen police car",
-        "link": "https://www.bbc.com/news/articles/c3r2e2wjz4lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 31 May 2026 18:43:12 GMT",
+        "title": "Between celebration and confrontation: Paris after PSG victory",
+        "link": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 31 May 2026 20:38:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+        "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 31 May 2026 20:26:11 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Pence calls Trump's 'anti-weaponisation' fund 'deeply offensive' and says it should be dropped",
+        "link": "https://www.bbc.com/news/articles/ce8p7mg30dyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 31 May 2026 20:00:08 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Second batch of Mandelson files to be published on Monday",
+        "link": "https://www.bbc.com/news/articles/c98r664g865o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 31 May 2026 19:58:33 GMT",
         "category": "Top News"
       },
       {
@@ -89,18 +101,6 @@
         "link": "https://www.bbc.com/news/articles/cq5px7jv92eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 31 May 2026 18:42:44 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-        "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 31 May 2026 18:13:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-        "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 31 May 2026 18:06:57 GMT",
-        "category": "world"
       },
       {
         "title": "'Hardest video I've had to make' - KSI quits Sidemen after 13 years",
@@ -127,12 +127,6 @@
         "category": "health"
       },
       {
-        "title": "Bus driver in deadly Virginia crash charged with involuntary manslaughter",
-        "link": "https://www.bbc.com/news/articles/clypj8z4yz2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 31 May 2026 00:56:15 GMT",
-        "category": "us"
-      },
-      {
         "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
         "link": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 30 May 2026 22:23:32 GMT",
@@ -141,64 +135,16 @@
     ],
     "reuters": [
       {
-        "title": "Blast in Myanmar village reportedly kills 55 and injures dozens more",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b29bea04cc187fcaa08730d963d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fexplosion-kills-least-55-myanmar-bbc-reports-2026-05-31%2f&amp;c=8042160783968877088&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 10:41:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b29bea04cc187fcaa08730d963d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fisrael-troops-capture-beaufort-castle-southern-lebanon-push-against-hezbollah-2026-05-31%2f&amp;c=7748370712993602558&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 10:39:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Israeli strike kills at least two at Gaza seaport cafe, medics say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b29bea04cc187fcaa08730d963d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strike-kills-least-two-gaza-seaport-cafe-medics-say-2026-05-31%2f&amp;c=13973240644711966880&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 10:36:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ukraine's Zelenskiy seeks progress on peace talks before winter",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b4f22ff49229cec86a490577569&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fukraines-zelenskiy-seeks-progress-peace-talks-before-winter-2026-05-31%2f&amp;c=13898646357794742648&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 10:00:00 GMT",
+        "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1ca30d3acb44b9ac52725ea860c6fb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31%2f&amp;c=1103747839829010590&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 12:39:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Rights groups sue over conditions at largest US immigration detention center",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b29bea04cc187fcaa08730d963d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2frights-groups-sue-over-conditions-largest-us-immigration-detention-center-2026-05-30%2f&amp;c=5308786355462259740&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 09:57:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Sweden's EQT sets $24.5 billion target for infrastructure fund",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b29bea04cc187fcaa08730d963d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fswedens-eqt-sets-245-billion-target-infrastructure-fund-2026-05-31%2f&amp;c=2269418204197567023&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 09:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wildfire season returns to Canada's oil sands",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b29bea04cc187fcaa08730d963d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fwildfire-season-returns-canadas-oil-sands-2026-05-31%2f&amp;c=17602062585910515915&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 09:43:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dembele vows PSG will chase Champions League hat-trick after Paris celebrations",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b29bea04cc187fcaa08730d963d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fdembele-vows-psg-will-chase-champions-league-hat-trick-after-paris-celebrations-2026-05-31%2f&amp;c=15404920261704731461&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 09:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Eleven confirmed dead in Washington state chemical accident, all bodies recovered",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b29bea04cc187fcaa08730d963d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2feleven-confirmed-dead-washington-state-chemical-accident-all-bodies-recovered-2026-05-31%2f&amp;c=14005602830209132511&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 08:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Two hundred hurt in post-game violence as Paris hails second Champions League triumph",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1c8b29bea04cc187fcaa08730d963d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ftwo-hundred-hurt-post-game-violence-paris-hails-second-champions-league-triumph-2026-05-31%2f&amp;c=4224230773043920787&amp;mkt=en-us",
-        "pubDate": "Sun, 31 May 2026 06:33:00 GMT",
-        "category": "Top News"
+        "title": "Israeli strike kills at least two at Gaza seaport cafe, medics say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1ca31178044133a0c03a6bbbafacc3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strike-kills-least-two-gaza-seaport-cafe-medics-say-2026-05-31%2f&amp;c=13973240644711966880&amp;mkt=en-us",
+        "pubDate": "Sun, 31 May 2026 10:36:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
@@ -209,10 +155,22 @@
         "category": "world"
       },
       {
-        "title": "Top Wall Street analysts see robust growth potential in these 3 stocks",
-        "link": "https://www.cnbc.com/2026/05/31/top-wall-street-analysts-see-robust-growth-potential-in-these-3-stocks.html",
-        "pubDate": "Sun, 31 May 2026 11:50:08 GMT",
-        "category": "us"
+        "title": "Why Trump reversed course to fast-track psychedelic drugs for mental healthcare",
+        "link": "https://www.cnbc.com/2026/05/31/why-trump-is-encouraging-psychedelics-for-mental-health.html",
+        "pubDate": "Sun, 31 May 2026 12:00:02 GMT",
+        "category": "business"
+      },
+      {
+        "title": "A hotly debated lung cancer drug cut the risk of death by 34% in a late-stage trial in China",
+        "link": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html",
+        "pubDate": "Sun, 31 May 2026 12:00:02 GMT",
+        "category": "health"
+      },
+      {
+        "title": "This Trump-linked startup plans to put humanoid robots in the military",
+        "link": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
+        "pubDate": "Sun, 31 May 2026 06:12:28 GMT",
+        "category": "tech"
       }
     ]
   }
