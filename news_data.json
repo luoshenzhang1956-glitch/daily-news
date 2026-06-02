@@ -1,13 +1,44 @@
 {
-  "updated_at": "2026-06-02T20:59:25.541246",
+  "updated_at": "2026-06-02T23:52:52.589735",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "2 scientists charged with bringing deactivated mpox virus into the US and lying to authorities",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c8a43de4f34b511e0fb492a82a5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fscientists-charges-mpox-virus-lying-14b7cf7635cad30254b0ae1cdb6c0515&amp;c=2371686572139614745&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 16:29:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "How a carjacking in Connecticut led back to a man known as the crypto \u2018Godfather\u2019 in California",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c8a25b9442e9458d96fac2adbe0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkidnapping-connecticut-bitcoin-theft-cae99d65cab668cb985c6b57a83541dd&amp;c=12424137631991943952&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 14:48:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Wall Street inches to more records thanks to booming AI stocks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c8b13144c5d96469c9ea347387c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-iran-nvidia-energy-oil-ba4257d9938ef6aea558db3010b4a53f&amp;c=14490527469186803601&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 14:04:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "The methodology of an AP-KFF Health News investigation into medical neglect at ICE detention centers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c8ce9474172b4353a8b0ba187ae&amp;url=https%3a%2f%2fapnews.com%2farticle%2fimmigration-custody-medical-neglect-methodology-4373db6b5394aa7d6325d4c1a29ce5a8&amp;c=675250311287210795&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 08:57:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
-        "title": "Trump administration puts out strict Medicaid work rules",
-        "link": "https://www.npr.org/2026/06/02/nx-s1-5844152/trump-administration-puts-out-strict-medicaid-work-rules",
-        "pubDate": "Tue, 02 Jun 2026 16:47:32 -0400",
+        "title": "Heat, bugs, germs: U.S. public health prepares for the World Cup",
+        "link": "https://www.npr.org/2026/06/02/nx-s1-5836687/heat-bugs-germs-u-s-public-health-prepares-for-the-world-cup",
+        "pubDate": "Tue, 02 Jun 2026 17:18:32 -0400",
         "category": "health"
+      },
+      {
+        "title": "DOJ is investigating former congressman George Santos for insider trading on Kalshi",
+        "link": "https://www.npr.org/2026/06/02/nx-s1-5843371/george-santos-kalshi-insider-trading-investigation",
+        "pubDate": "Tue, 02 Jun 2026 16:55:35 -0400",
+        "category": "business"
       },
       {
         "title": "With its return home, major plumbing issue on board USS Ford can be addressed",
@@ -20,12 +51,6 @@
         "link": "https://www.npr.org/sections/the-picture-show/2026/06/02/nx-s1-5844159/ukraine-kyiv-russia-drone-missile-strikes",
         "pubDate": "Tue, 02 Jun 2026 16:12:57 -0400",
         "category": "world"
-      },
-      {
-        "title": "Russian drone and missile strikes hit Kyiv",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/06/02/nx-s1-5844159/ukraine-kyiv-russia-drone-missile-strikes",
-        "pubDate": "Tue, 02 Jun 2026 16:12:57 -0400",
-        "category": "Top News"
       },
       {
         "title": "Trump signs AI safety order seeking voluntary review of new models",
@@ -66,93 +91,141 @@
     ],
     "bbc": [
       {
-        "title": "Henry Nowak arrest footage raises 'serious questions for police', PM says",
-        "link": "https://www.bbc.com/news/articles/cq8pn9ng5zlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Jun 2026 20:51:44 GMT",
+        "title": "Could lifting weights actually help you live longer?",
+        "link": "https://www.bbc.com/news/articles/c0r2lekenlpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 02 Jun 2026 23:44:13 GMT",
+        "category": "health"
+      },
+      {
+        "title": "More heatwaves likely as warmer-than-normal summer forecast",
+        "link": "https://www.bbc.com/weather/articles/clypk7j0qqdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 02 Jun 2026 23:37:45 GMT",
         "category": "Top News"
       },
       {
-        "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
-        "link": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Jun 2026 19:24:31 GMT",
+        "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+        "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 02 Jun 2026 23:33:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+        "link": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 02 Jun 2026 23:02:23 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes",
+        "link": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 02 Jun 2026 23:02:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Do you find yourself aimlessly scrolling? You're not alone",
+        "link": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 02 Jun 2026 23:01:27 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+        "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 02 Jun 2026 21:51:20 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US says it fired missile at Iran-bound oil tanker",
+        "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 02 Jun 2026 21:49:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Henry Nowak arrest footage raises 'serious questions for police', PM says",
+        "link": "https://www.bbc.com/news/articles/cq8pn9ng5zlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 02 Jun 2026 21:32:13 GMT",
+        "category": "Top News"
       },
       {
         "title": "Key moments from police bodycam footage",
         "link": "https://www.bbc.com/news/videos/cvgz7gv4w8no?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 02 Jun 2026 18:51:31 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "New Jersey alleges 'unsanitary' conditions at migrant facility rocked by protests",
-        "link": "https://www.bbc.com/news/articles/czx2l9nn79no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Jun 2026 18:22:31 GMT",
-        "category": "us"
-      },
-      {
-        "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
-        "link": "https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Jun 2026 17:08:41 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-        "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Jun 2026 16:11:05 GMT",
-        "category": "world"
-      },
-      {
-        "title": "British couple lose Iran jail sentence appeal, family says",
-        "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Jun 2026 16:04:18 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Murrell used fake invoices to cover up \u00a3400,000 spending spree",
-        "link": "https://www.bbc.com/news/articles/cgmp0pxyze8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Jun 2026 15:08:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "More black men to benefit from prostate cancer screening trial",
-        "link": "https://www.bbc.com/news/articles/c4g91jrl349o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Jun 2026 14:52:06 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Five questions left unanswered by the Mandelson files",
-        "link": "https://www.bbc.com/news/articles/cn4p9pv13kdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 02 Jun 2026 12:50:28 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "US Treasury issues new Iran sanctions targeting crypto exchanges",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f43d66cd345b2a33092fc4bd9f89a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-treasury-issues-new-iran-sanctions-targeting-crypto-exchanges-2026-06-02%2f&amp;c=9130932038069123527&amp;mkt=en-us",
-        "pubDate": "Tue, 02 Jun 2026 11:38:00 GMT",
+        "title": "Trump administration drops $1.8 billion 'weaponization' fund after Republican backlash",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c900464456e94464b7352e7c41a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fwith-weaponization-fund-doubt-trump-will-keep-tax-audit-immunity-sources-say-2026-06-02%2f&amp;c=16795866829020265186&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 15:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall St ends modestly higher as AI zeal overcomes Middle East jitters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c900464456e94464b7352e7c41a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-street-futures-tick-lower-after-record-highs-hpe-soars-2026-06-02%2f&amp;c=4038702288188730393&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 15:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Schumer meets with Maine Senate candidate Platner ahead of primary",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c900464456e94464b7352e7c41a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fschumer-meets-with-maine-senate-candidate-platner-ahead-primary-2026-06-02%2f&amp;c=1688952310083928665&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 15:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US regulator grants waiver for Three Mile Island restart",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6ca1dd4246ad9da02d086dbabda6&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-regulator-grants-waiver-three-mile-island-restart-2026-06-02%2f&amp;c=10224922000373251581&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 14:33:00 GMT",
         "category": "us"
       },
       {
-        "title": "Uganda health ministry confirms six new cases of Ebola",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f43da94d34bd292f634243a09ba08&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fuganda-health-ministry-confirms-six-new-cases-ebola-2026-06-02%2f&amp;c=9457405236788239835&amp;mkt=en-us",
-        "pubDate": "Tue, 02 Jun 2026 07:13:00 GMT",
-        "category": "health"
+        "title": "Microsoft teases new era of AI-driven devices at annual developer conference",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c900464456e94464b7352e7c41a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fmicrosoft-expected-showcase-new-pc-cloud-ai-tools-developer-conference-2026-06-02%2f&amp;c=11331926084231636489&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 13:51:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Marvell shares touch record high after Nvidia's Huang calls it 'next trillion-dollar company'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f43d9beed4509ba5f6ed1c8d5a9da&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmarvell-technology-surges-after-nvidias-huang-calls-it-next-trillion-dollar-2026-06-02%2f&amp;c=12025016245376675123&amp;mkt=en-us",
-        "pubDate": "Tue, 02 Jun 2026 06:28:00 GMT",
+        "title": "World stocks rally on AI optimism; jitters over Iran persist",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c900464456e94464b7352e7c41a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-06-02%2f&amp;c=16942160292396924332&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 13:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Boston judge critical of Trump's mail-in voting executive order",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c900464456e94464b7352e7c41a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fboston-judge-weigh-blocking-trumps-mail-in-voting-executive-order-2026-06-02%2f&amp;c=15973332338271136894&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 11:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How a nudge from Nvidia propelled frugal Micron into the AI boom and a $1 trillion market cap",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6ca3010a4534a664c5042b067d99&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fhow-nudge-nvidia-propelled-frugal-micron-into-ai-boom-1-trillion-market-cap-2026-06-02%2f&amp;c=3742664924562933647&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 09:45:00 GMT",
         "category": "tech"
       },
       {
+        "title": "Exclusive: SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6c900464456e94464b7352e7c41a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fspacex-targets-175-trillion-valuation-including-greenshoe-option-record-ipo-2026-06-02%2f&amp;c=8494324119388393399&amp;mkt=en-us",
+        "pubDate": "Tue, 02 Jun 2026 09:39:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Indonesian business groups call for clarity about new commodity export rules",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f43d731954225b21b19c48a35e263&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2findonesian-business-groups-call-clarity-about-new-commodity-export-rules-2026-06-02%2f&amp;c=4725950040338254946&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a1f6ca3739b4e9fb33966533e4d9314&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2findonesian-business-groups-call-clarity-about-new-commodity-export-rules-2026-06-02%2f&amp;c=4725950040338254946&amp;mkt=en-us",
         "pubDate": "Tue, 02 Jun 2026 04:56:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
+      {
+        "title": "Palo Alto CEO says customer meeting requests have surged amid AI security concerns",
+        "link": "https://www.cnbc.com/2026/06/02/palo-alto-ceo-customer-meeting-requests-surged-ai-security-concerns.html",
+        "pubDate": "Tue, 02 Jun 2026 23:33:29 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "This income-generating asset offers yield exceeding 6% at a tax-advantaged rate",
+        "link": "https://www.cnbc.com/2026/06/02/this-income-generating-asset-offers-yield-exceeding-6percent-at-a-tax-advantaged-rate.html",
+        "pubDate": "Tue, 02 Jun 2026 20:04:35 GMT",
+        "category": "us"
+      },
       {
         "title": "Traders say Karen Bass and Spencer Pratt will advance to runoff in high-profile L.A. mayoral race",
         "link": "https://www.cnbc.com/2026/06/02/bass-and-pratt-will-advance-in-la-mayoral-race-traders-say.html",
@@ -163,7 +236,7 @@
         "title": "Goldman Sachs CEO David Solomon says markets are in &apos;greed&apos; mode as AI companies seek billions",
         "link": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
         "pubDate": "Tue, 02 Jun 2026 19:06:48 GMT",
-        "category": "Top News"
+        "category": "business"
       },
       {
         "title": "Greg Abel channels Buffett&apos;s deal-making style in nearly $17 billion spree, expanding into tech",
