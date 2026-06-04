@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-06-04T15:31:37.646648",
+  "updated_at": "2026-06-04T18:25:21.368755",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Former World Cup winner Alessandro Nesta tips France, Spain atop the 2026 World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2a440924be1ad7a5745304057ca&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fformer-world-cup-winner-alessandro-nesta-tips-france-spain-atop-the-2026-world-cup-92ca091f96b84bab9180f1e3c27b0539&amp;c=2988866693332288259&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 10:27:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Canadian Prime Minister Mark Carney warns foreign AI platforms can be used against Canadians",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2c139fc4e1496cee6fe74e63acc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcanada-carney-artificial-intelligence-d8dfba818b84ccf5947f941731829254&amp;c=3409696638890088754&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 10:12:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "North Korea unveils a new plant to produce fuel for nuclear weapons",
+        "link": "https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons",
+        "pubDate": "Thu, 04 Jun 2026 12:33:54 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Embedded: &quot;We Keep Us Safe&quot; from NPR, KUOW and The Seattle Times",
+        "link": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
+        "pubDate": "Thu, 04 Jun 2026 11:48:49 -0400",
+        "category": "us"
+      },
       {
         "title": "What will it take to get a vaccine for the Ebola strain driving the current outbreak?",
         "link": "https://www.npr.org/2026/06/04/g-s1-125822/vaccine-ebola-democratic-republic-congo",
@@ -13,13 +38,13 @@
         "title": "Gun control group sues ATF over records release",
         "link": "https://www.npr.org/2026/06/04/nx-s1-5846418/brady-sue-atf",
         "pubDate": "Thu, 04 Jun 2026 09:19:46 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Israel and Lebanon reach an agreement, but ceasefire stalls",
         "link": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire",
         "pubDate": "Thu, 04 Jun 2026 09:00:18 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Senate to start debate on ICE funding. And, Israel and Lebanon agree to ceasefire",
@@ -40,8 +65,8 @@
         "category": "tech"
       },
       {
-        "title": "More than 1 in 3 World Cup matches face dangerous heat risk, NPR analysis finds",
-        "link": "https://www.npr.org/2026/06/04/nx-s1-5742519/world-cup-fifa-hot-weather-risk-climate-miami",
+        "title": "National Guard has done little to reduce violent crime in D.C., a new study finds",
+        "link": "https://www.npr.org/2026/06/04/nx-s1-5845073/national-guard-washington-dc-crime",
         "pubDate": "Thu, 04 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -50,32 +75,38 @@
         "link": "https://www.npr.org/sections/the-picture-show/2026/06/04/g-s1-125899/in-photos-a-preview-of-the-obama-presidential-center",
         "pubDate": "Thu, 04 Jun 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "How having zero points in tennis \u2014 or &apos;love&apos; \u2014 came to sound so sweet",
-        "link": "https://www.npr.org/2026/06/04/nx-s1-5843257/tennis-love-french-open",
-        "pubDate": "Thu, 04 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "National Guard has done little to reduce violent crime in D.C., a new study finds",
-        "link": "https://www.npr.org/2026/06/04/nx-s1-5845073/national-guard-washington-dc-crime",
-        "pubDate": "Thu, 04 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Can I buy shares in Elon Musk's SpaceX?",
-        "link": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Jun 2026 15:14:24 GMT",
-        "category": "business"
+        "title": "Man shot with crossbow on university campus",
+        "link": "https://www.bbc.com/news/articles/cn4p4yllq1lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 04 Jun 2026 18:21:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
+        "link": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 04 Jun 2026 18:15:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Royal Navy crew killed in helicopter crash named",
+        "link": "https://www.bbc.com/news/articles/cg4p69gzd4po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 04 Jun 2026 18:01:42 GMT",
+        "category": "Top News"
       },
       {
         "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
         "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Jun 2026 14:54:22 GMT",
+        "pubDate": "Thu, 04 Jun 2026 17:54:06 GMT",
         "category": "world"
+      },
+      {
+        "title": "Musk's SpaceX share sale: Four things you need to know",
+        "link": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 04 Jun 2026 16:18:37 GMT",
+        "category": "business"
       },
       {
         "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
@@ -84,21 +115,9 @@
         "category": "us"
       },
       {
-        "title": "Starmer accuses Musk of trying to whip up division over Henry Nowak murder",
-        "link": "https://www.bbc.com/news/articles/c1e2ww900zno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Jun 2026 14:34:58 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
         "link": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 04 Jun 2026 13:29:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-        "link": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Jun 2026 11:52:58 GMT",
         "category": "Top News"
       },
       {
@@ -108,13 +127,7 @@
         "category": "tech"
       },
       {
-        "title": "Inquest to examine if police response contributed to Henry Nowak death",
-        "link": "https://www.bbc.com/news/articles/cyv2ddgpn8qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Jun 2026 10:16:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Harry and Megan share new photos to celebrate Lilibet's fifth birthday",
+        "title": "Harry and Meghan share new photos to celebrate Lilibet's fifth birthday",
         "link": "https://www.bbc.com/news/articles/cx21rr51z1eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 04 Jun 2026 10:09:19 GMT",
         "category": "Top News"
@@ -128,66 +141,91 @@
     ],
     "reuters": [
       {
+        "title": "Senate Republicans grapple with Trump's 'anti-weaponization' fund as ICE funding vote nears",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2d574bd4fb8afaacf8b98bdccba&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fsenate-republicans-grapple-with-trumps-anti-weaponization-fund-ice-funding-vote-2026-06-04%2f&amp;c=2845401891314803699&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 10:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Honeywell's Quantinuum valued at $17.63 billion as shares rise in Nasdaq debut",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2d574bd4fb8afaacf8b98bdccba&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhoneywells-quantinuum-valued-1763-billion-shares-rise-nasdaq-debut-2026-06-04%2f&amp;c=4833099490152347043&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 09:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Explainer: How Trump's ceasefires are failing to stop Middle East violence",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2d574bd4fb8afaacf8b98bdccba&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fhow-trumps-ceasefires-are-failing-stop-middle-east-violence-2026-06-04%2f&amp;c=15187552326795581275&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 09:34:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump Jr. talks crypto and geopolitics at business gathering in Switzerland",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2db662a45799cb7be8528b0a1f7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-jr-talks-crypto-geopolitics-business-gathering-switzerland-2026-06-04%2f&amp;c=11011079960803646605&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 09:30:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Blackstone private credit fund caps withdrawals as redemption requests jump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2d574bd4fb8afaacf8b98bdccba&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fblackstone-caps-withdrawals-flagship-private-credit-fund-2026-06-04%2f&amp;c=9152564034126634309&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 09:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Venezuela's Maduro adds Sean 'Diddy' Combs' lawyer to defense team",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2d574bd4fb8afaacf8b98bdccba&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fvenezuelas-maduro-adds-sean-diddy-combs-lawyer-defense-team-2026-06-04%2f&amp;c=370419807899392255&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 08:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "First IAEA report on Iran's nuclear programme since February shows little change despite war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2d574bd4fb8afaacf8b98bdccba&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ffirst-iaea-report-irans-nuclear-programme-since-february-shows-little-change-2026-06-04%2f&amp;c=7287579141142462290&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 07:32:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "US weekly jobless claims increase to four-month high; worker productivity revised down",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2199ebac284388bbf4e1eece777438&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-weekly-jobless-claims-increase-more-than-expected-labor-market-remains-stable-2026-06-04%2f&amp;c=12982854031264568328&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2d773974384a97f6d5741864fbe&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-weekly-jobless-claims-increase-more-than-expected-labor-market-remains-stable-2026-06-04%2f&amp;c=12982854031264568328&amp;mkt=en-us",
         "pubDate": "Thu, 04 Jun 2026 06:55:00 GMT",
         "category": "us"
       },
       {
-        "title": "Senate Republicans to grapple with Trump's 'anti-weaponization' fund as ICE funding vote nears",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2199e7af8a476bb9c85dff2338bdad&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fsenate-republicans-grapple-with-trumps-anti-weaponization-fund-ice-funding-vote-2026-06-04%2f&amp;c=2845401891314803699&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Jun 2026 06:52:00 GMT",
+        "title": "Marjane Satrapi, Iranian-French author of graphic novel 'Persepolis', dies aged 56",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2d574bd4fb8afaacf8b98bdccba&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fmarjane-satrapi-iranian-french-author-graphic-novel-persepolis-dies-aged-56-2026-06-04%2f&amp;c=6269208878680404510&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 03:36:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US Supreme Court backs FCC in clash with wireless carriers over fines",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2199e7af8a476bb9c85dff2338bdad&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fus-supreme-court-sides-with-fcc-clash-with-wireless-carriers-over-fines-2026-06-04%2f&amp;c=14099082572216630812&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Jun 2026 06:42:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says he will nominate Todd Blanche as US Attorney General",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2199e7af8a476bb9c85dff2338bdad&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2ftrump-says-he-will-nominate-todd-blanche-us-attorney-general-2026-06-04%2f&amp;c=17656436596269383064&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Jun 2026 06:36:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New York Democrats take first step toward new U.S. House map for 2028",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2199e7af8a476bb9c85dff2338bdad&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fnew-york-democrats-take-first-step-toward-new-us-house-map-2028-2026-06-04%2f&amp;c=1441271597273562477&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Jun 2026 06:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Senate faces tough vote on nationwide E15 gasoline sales expansion",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2199e7af8a476bb9c85dff2338bdad&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-senate-faces-tough-vote-nationwide-e15-gasoline-sales-expansion-2026-06-04%2f&amp;c=6255713875014123313&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Jun 2026 06:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2199e7af8a476bb9c85dff2338bdad&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisrael-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04%2f&amp;c=3914910886799345636&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Jun 2026 06:22:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump cuts off funds to Hawaii Medicaid fraud unit over lack of cases",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2199e7af8a476bb9c85dff2338bdad&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-cuts-off-funds-hawaii-medicaid-fraud-unit-over-lack-cases-2026-06-04%2f&amp;c=13620518939616309293&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Jun 2026 05:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US bank regulators to tout deregulatory agenda to lawmakers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2199e7af8a476bb9c85dff2338bdad&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fus-bank-regulators-tout-deregulatory-agenda-lawmakers-2026-06-04%2f&amp;c=8436059233020568867&amp;mkt=en-us",
-        "pubDate": "Thu, 04 Jun 2026 02:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Rights group warn of 'climate of fear' at US World Cup games",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2199e93f4b450c872c7ff0529a941e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2frights-group-warn-climate-fear-us-world-cup-games-2026-06-03%2f&amp;c=1856380075223255382&amp;mkt=en-us",
-        "pubDate": "Wed, 03 Jun 2026 18:22:00 GMT",
+        "title": "Rio aquarium shark predicts Brazil win in first 2026 World Cup game",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a21c2d57fa843b890e2463ed370862c&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW592404062026RP1%2f&amp;c=141928693579705540&amp;mkt=en-us",
+        "pubDate": "Thu, 04 Jun 2026 00:13:00 GMT",
         "category": "world"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Bitcoin is weathering its ugliest week in months as narrative fades and liquidity rotates",
+        "link": "https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html",
+        "pubDate": "Thu, 04 Jun 2026 18:07:40 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "This drugmaker is developing breakthroughs like an &apos;EpiPen for heart attacks.&apos; The market has yet to give it credit",
+        "link": "https://www.cnbc.com/2026/06/04/the-market-has-yet-to-give-this-drugmaker-credit-for-its-move-beyond-generics.html",
+        "pubDate": "Thu, 04 Jun 2026 17:54:55 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Broadcom, Micron and ARM sink, leading chip stocks lower",
+        "link": "https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html",
+        "pubDate": "Thu, 04 Jun 2026 15:43:51 GMT",
+        "category": "world"
+      },
+      {
+        "title": "As the largest World Cup ever kicks off, health officials are focused on more than Ebola",
+        "link": "https://www.cnbc.com/2026/06/04/world-cup-2026-health-officials-focused-on-ebola-measles.html",
+        "pubDate": "Thu, 04 Jun 2026 15:41:50 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
