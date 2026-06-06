@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T15:23:03.365258",
+  "updated_at": "2026-06-06T17:21:06.359197",
   "news": {
     "ap": [],
     "npr": [
@@ -8,6 +8,12 @@
         "link": "https://www.npr.org/2026/06/06/nx-s1-5824413/despite-a-competitive-market-finding-a-summer-job-is-highly-beneficial-for-teens",
         "pubDate": "Sat, 06 Jun 2026 07:48:31 -0400",
         "category": "us"
+      },
+      {
+        "title": "As American elections become more tense, officials are turning to local police",
+        "link": "https://www.npr.org/2026/06/07/nx-s1-5763828/election-officials-law-enforcement",
+        "pubDate": "Sat, 06 Jun 2026 07:40:57 -0400",
+        "category": "Top News"
       },
       {
         "title": "A park famed for rare gorillas gears up to fight Ebola and protect its primates",
@@ -22,7 +28,7 @@
         "category": "world"
       },
       {
-        "title": "Filipino sailors say they were falsely accused of possessing child porn and deported",
+        "title": "Deported Filipino sailors say they were falsely linked to child sexual abuse material",
         "link": "https://www.npr.org/2026/06/06/nx-s1-5835231/filipino-sailors-say-they-were-falsely-accused-of-possessing-child-porn-and-deported",
         "pubDate": "Sat, 06 Jun 2026 06:05:00 -0400",
         "category": "Top News"
@@ -52,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies",
-        "link": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
-        "pubDate": "Sat, 06 Jun 2026 00:15:26 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "In the wake of layoffs, some tech workers are exploring new careers",
         "link": "https://www.npr.org/2026/06/05/nx-s1-5788006/in-the-wake-of-layoffs-some-tech-workers-are-exploring-new-careers",
         "pubDate": "Fri, 05 Jun 2026 16:33:46 -0400",
@@ -65,6 +65,18 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+        "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 06 Jun 2026 17:14:03 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Teenager Andreeva beats Chwalinska at French Open for first Grand Slam title",
+        "link": "https://www.bbc.com/sport/tennis/articles/c1dy7grv4y3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 06 Jun 2026 15:44:24 GMT",
+        "category": "Top News"
+      },
       {
         "title": "King's nephew Peter Phillips weds NHS nurse with William and Kate among guests",
         "link": "https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&amp;at_campaign=rss",
@@ -78,15 +90,9 @@
         "category": "Top News"
       },
       {
-        "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-        "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 06 Jun 2026 13:38:07 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Four more admit violent disorder after Nowak protest",
-        "link": "https://www.bbc.com/news/articles/c05yjg452geo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 06 Jun 2026 13:28:36 GMT",
+        "title": "Thinking about the next heatwave? Prepare for more rain first",
+        "link": "https://www.bbc.com/weather/articles/clypk7j0qqdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 06 Jun 2026 14:15:50 GMT",
         "category": "Top News"
       },
       {
@@ -108,12 +114,6 @@
         "category": "us"
       },
       {
-        "title": "Giant banquets rile radical left in France",
-        "link": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 06 Jun 2026 03:42:04 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Trump to meet AI leaders to discuss US investment in their companies",
         "link": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 05 Jun 2026 19:36:30 GMT",
@@ -127,6 +127,31 @@
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
+        "link": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
+        "pubDate": "Sat, 06 Jun 2026 13:28:42 GMT",
+        "category": "world"
+      },
+      {
+        "title": "How \u2018Backrooms\u2019 producer Peter Chernin thinks Hollywood needs to change",
+        "link": "https://www.cnbc.com/2026/06/06/backrooms-peter-chernin-hollywood.html",
+        "pubDate": "Sat, 06 Jun 2026 13:00:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "These are the most overbought stocks after a volatile week",
+        "link": "https://www.cnbc.com/2026/06/06/these-are-the-most-overbought-stocks-after-a-volatile-week.html",
+        "pubDate": "Sat, 06 Jun 2026 12:36:38 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests",
+        "link": "https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html",
+        "pubDate": "Fri, 05 Jun 2026 19:09:09 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
