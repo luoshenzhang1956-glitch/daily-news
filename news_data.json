@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-06-06T17:21:06.359197",
+  "updated_at": "2026-06-06T19:41:21.228422",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it?",
+        "link": "https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus",
+        "pubDate": "Sat, 06 Jun 2026 14:48:35 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Pope Leo says war with Iran is not a &apos;just war&apos;",
+        "link": "https://www.npr.org/2026/06/06/g-s1-126768/pope-leo-says-war-with-iran-is-not-a-just-war",
+        "pubDate": "Sat, 06 Jun 2026 13:22:29 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Despite a competitive market, finding a summer job is highly beneficial for teens",
         "link": "https://www.npr.org/2026/06/06/nx-s1-5824413/despite-a-competitive-market-finding-a-summer-job-is-highly-beneficial-for-teens",
@@ -25,7 +37,7 @@
         "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
         "link": "https://www.npr.org/2026/06/06/nx-s1-5848595/israeli-airstrikes-kill-lebanese-army-officers",
         "pubDate": "Sat, 06 Jun 2026 06:54:34 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Deported Filipino sailors say they were falsely linked to child sexual abuse material",
@@ -46,18 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "The Forest Service wants to close research hubs to save money. That could be costly",
-        "link": "https://www.npr.org/2026/06/06/nx-s1-5831470/forest-service-cuts",
-        "pubDate": "Sat, 06 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Knicks beat Spurs by one point for 2-0 lead in NBA Finals",
-        "link": "https://www.npr.org/2026/06/06/nx-s1-5848552/knicks-spurs-nba-finals",
-        "pubDate": "Sat, 06 Jun 2026 01:07:07 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "In the wake of layoffs, some tech workers are exploring new careers",
         "link": "https://www.npr.org/2026/06/05/nx-s1-5788006/in-the-wake-of-layoffs-some-tech-workers-are-exploring-new-careers",
         "pubDate": "Fri, 05 Jun 2026 16:33:46 -0400",
@@ -65,6 +65,18 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+        "link": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 06 Jun 2026 18:34:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Giant banquets rile radical left in France",
+        "link": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 06 Jun 2026 18:16:42 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
         "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss",
@@ -102,37 +114,37 @@
         "category": "Top News"
       },
       {
-        "title": "Singer Duffy to perform first live concert in 15 years after sex assault ordeal",
-        "link": "https://www.bbc.com/news/articles/ce8p8mzj4e8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 06 Jun 2026 07:54:22 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Downing Street hits out after Vance post about Henry Nowak",
         "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 06 Jun 2026 07:04:19 GMT",
         "category": "us"
       },
       {
-        "title": "Trump to meet AI leaders to discuss US investment in their companies",
-        "link": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Jun 2026 19:36:30 GMT",
+        "title": "US stocks slump as fears over Big Tech shake Wall Street",
+        "link": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Jun 2026 21:38:13 GMT",
         "category": "business"
-      },
-      {
-        "title": "Are you feeling overwhelmed?",
-        "link": "https://www.bbc.com/news/videos/c3w2w79j12xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Jun 2026 17:57:00 GMT",
-        "category": "health"
       }
     ],
     "reuters": [],
     "markets": [
       {
+        "title": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
+        "link": "https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html",
+        "pubDate": "Sat, 06 Jun 2026 19:33:38 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Here are 3 forces that drove a whirlwind week for the stock market",
+        "link": "https://www.cnbc.com/2026/06/06/here-are-3-forces-that-drove-a-whirlwind-week-for-the-stock-market.html",
+        "pubDate": "Sat, 06 Jun 2026 16:38:29 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
         "link": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
         "pubDate": "Sat, 06 Jun 2026 13:28:42 GMT",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "How \u2018Backrooms\u2019 producer Peter Chernin thinks Hollywood needs to change",
@@ -145,12 +157,6 @@
         "link": "https://www.cnbc.com/2026/06/06/these-are-the-most-overbought-stocks-after-a-volatile-week.html",
         "pubDate": "Sat, 06 Jun 2026 12:36:38 GMT",
         "category": "us"
-      },
-      {
-        "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests",
-        "link": "https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html",
-        "pubDate": "Fri, 05 Jun 2026 19:09:09 GMT",
-        "category": "Top News"
       }
     ]
   }
