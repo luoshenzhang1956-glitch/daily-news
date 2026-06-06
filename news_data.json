@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-06-05T23:16:06.872843",
+  "updated_at": "2026-06-06T04:01:19.043121",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Democrat Xavier Becerra wins the top spot in November&apos;s race for California governor",
+        "link": "https://www.npr.org/2026/06/05/nx-s1-5845847/xavier-becerra-california-governor-hilton-steyer-newsom",
+        "pubDate": "Fri, 05 Jun 2026 20:42:57 -0400",
+        "category": "us"
+      },
+      {
         "title": "After D.C.&apos;s Reflecting Pool gets repainted, visitors ask: What changed?",
         "link": "https://www.npr.org/2026/06/05/nx-s1-5847818/reflecting-pool-repaint-refill",
         "pubDate": "Fri, 05 Jun 2026 17:12:38 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Putin promotes a new world economic order at St. Petersburg forum",
@@ -52,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "China&apos;s highest bridge brings tourists and internet access to remote communities",
-        "link": "https://www.npr.org/2026/06/05/g-s1-126304/chinas-highest-bridge-brings-tourists-and-internet-access-to-remote-communities",
-        "pubDate": "Fri, 05 Jun 2026 10:01:51 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Most K-12 teachers say AI&apos;s impact on education will eclipse the internet or computers",
         "link": "https://www.npr.org/2026/06/05/nx-s1-5779757/school-ai-education-students-teachers-poll-critical-thinking",
         "pubDate": "Fri, 05 Jun 2026 05:00:00 -0400",
@@ -66,21 +66,33 @@
     ],
     "bbc": [
       {
-        "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
-        "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Jun 2026 21:39:23 GMT",
+        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+        "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 06 Jun 2026 03:01:05 GMT",
         "category": "Top News"
       },
       {
-        "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+        "title": "Downing Street hits out after Vance post about Henry Nowak",
         "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Jun 2026 21:34:31 GMT",
+        "pubDate": "Sat, 06 Jun 2026 02:33:24 GMT",
         "category": "us"
       },
       {
-        "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
-        "link": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Jun 2026 19:53:51 GMT",
+        "title": "'Traitor' - Elmo in hot water with New Yorkers over Knicks NBA finals",
+        "link": "https://www.bbc.com/news/articles/cn0p0nzej66o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 06 Jun 2026 01:44:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Why are devastating mice plagues happening in Australia?",
+        "link": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Jun 2026 22:01:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
+        "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Jun 2026 21:39:23 GMT",
         "category": "Top News"
       },
       {
@@ -102,56 +114,19 @@
         "category": "Top News"
       },
       {
-        "title": "Rapist Paul Quinn's 24-year sentence an insult, says wrongly convicted Andrew Malkinson",
-        "link": "https://www.bbc.com/news/articles/c99l93md0gko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Jun 2026 17:04:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Teen rapists spared jail partly because of intellectual limitations, judge's full remarks show",
-        "link": "https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 05 Jun 2026 15:58:43 GMT",
-        "category": "Top News"
+        "title": "1 in 4 births in England now by emergency C-section",
+        "link": "https://www.bbc.com/news/videos/cn0p0gk12nro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 05 Jun 2026 09:12:09 GMT",
+        "category": "health"
       },
       {
         "title": "We need to stop AI developing without humans, says Anthropic co-founder",
         "link": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 05 Jun 2026 07:17:39 GMT",
         "category": "business"
-      },
-      {
-        "title": "One in four births in England is now emergency caesarean, BBC analysis shows",
-        "link": "https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 04 Jun 2026 23:41:16 GMT",
-        "category": "health"
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Cramer\u2019s week ahead: Stocks face pressure from rates, oil, and a flood of new offerings",
-        "link": "https://www.cnbc.com/2026/06/05/cramers-week-ahead-stocks-face-pressure-from-rates-oil-and-a-flood-of-new-offerings.html",
-        "pubDate": "Fri, 05 Jun 2026 22:27:16 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "AstraZeneca CEO says AI is reshaping drug development \u2014 and helping boost the odds of success",
-        "link": "https://www.cnbc.com/2026/06/05/astrazeneca-ceo-says-ai-is-reshaping-drug-development-and-helping-boost-the-odds-of-success.html",
-        "pubDate": "Fri, 05 Jun 2026 22:26:16 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Boeing to start 737 Max production on new assembly line July 6, CEO says",
-        "link": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
-        "pubDate": "Fri, 05 Jun 2026 21:26:54 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Crypto mutiny on Strategy: Shorts target &apos;MSTR&apos; in bitcoin bloodbath",
-        "link": "https://www.cnbc.com/2026/06/05/crypto-mutiny-on-strategy-shorts-target-mstr-in-bitcoin-bloodbath.html",
-        "pubDate": "Fri, 05 Jun 2026 18:14:15 GMT",
-        "category": "us"
-      }
-    ]
+    "markets": []
   }
 }
