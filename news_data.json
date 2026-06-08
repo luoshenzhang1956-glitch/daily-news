@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-06-07T23:14:27.758851",
+  "updated_at": "2026-06-08T04:44:46.085598",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Israel says it has struck Iran after taking missile fire",
+        "link": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
+        "pubDate": "Mon, 08 Jun 2026 00:23:36 -0400",
+        "category": "world"
+      },
+      {
+        "title": "A 7.8 magnitude earthquake rocks the southern Philippines",
+        "link": "https://www.npr.org/2026/06/07/g-s1-126830/7-8-magnitude-quake-hits-southern-philippines-tsunami-risk-for-some-coasts",
+        "pubDate": "Sun, 07 Jun 2026 20:54:56 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump rejects idea that Iran betrays his &apos;no new wars&apos; campaign message",
+        "link": "https://www.npr.org/2026/06/07/g-s1-126826/trump-iran-wars-campaign-message",
+        "pubDate": "Sun, 07 Jun 2026 19:07:44 -0400",
+        "category": "Top News"
+      },
       {
         "title": "The return-to-work Survival Guide for new parents",
         "link": "https://www.npr.org/2026/06/07/nx-s1-5846610/the-return-to-work-survival-guide-for-new-parents",
         "pubDate": "Sun, 07 Jun 2026 16:53:22 -0400",
         "category": "us"
-      },
-      {
-        "title": "Trump is remaking U.S. policy in Latin America",
-        "link": "https://www.npr.org/2026/06/07/nx-s1-5845137/trump-is-remaking-u-s-policy-in-latin-america",
-        "pubDate": "Sun, 07 Jun 2026 16:53:20 -0400",
-        "category": "world"
       },
       {
         "title": "Can birds outsing traffic? Some are trying",
@@ -46,25 +58,25 @@
         "category": "Top News"
       },
       {
-        "title": "Armenians vote in general election watched closely by Russia and the West",
-        "link": "https://www.npr.org/2026/06/07/nx-s1-5849210/armenians-vote-general-election-russia-west",
-        "pubDate": "Sun, 07 Jun 2026 11:30:44 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Texas has detected a flesh-eating parasite in livestock after 60 years",
         "link": "https://www.npr.org/2026/06/07/nx-s1-5846844/texas-has-detected-a-flesh-eating-parasite-in-livestock-after-60-years",
         "pubDate": "Sun, 07 Jun 2026 09:21:20 -0400",
         "category": "health"
-      },
-      {
-        "title": "It&apos;s one of the world&apos;s most isolated islands. Here come the bulldozers",
-        "link": "https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development",
-        "pubDate": "Sun, 07 Jun 2026 07:51:18 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
+        "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 08 Jun 2026 03:44:19 GMT",
+        "category": "business"
+      },
+      {
+        "title": "You may be saving for retirement without realising it. Here's how to check",
+        "link": "https://www.bbc.com/news/articles/c1k2kpdzjdzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 07 Jun 2026 23:40:09 GMT",
+        "category": "Top News"
+      },
       {
         "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
         "link": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&amp;at_campaign=rss",
@@ -112,34 +124,9 @@
         "link": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 07 Jun 2026 18:31:56 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "I was applying for hundreds of jobs - this tip helped me get one",
-        "link": "https://www.bbc.com/news/articles/cd7pqwr5lqxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 06 Jun 2026 23:39:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "The gamers taking on the industry to stop it switching off games",
-        "link": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 06 Jun 2026 23:25:51 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
-        "link": "https://www.cnbc.com/2026/06/06/us-confirms-second-texas-screwworm-case.html",
-        "pubDate": "Sun, 07 Jun 2026 21:25:30 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Harry&apos;s and Coterie owner Mammoth Brands has ambitions to be the next CPG giant",
-        "link": "https://www.cnbc.com/2026/06/07/harrys-coterie-owner-mammoth-brands-growth-ipo-rumors.html",
-        "pubDate": "Sun, 07 Jun 2026 12:00:01 GMT",
-        "category": "business"
-      }
-    ]
+    "markets": []
   }
 }
