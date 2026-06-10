@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-06-09T23:23:36.052749",
+  "updated_at": "2026-06-10T04:17:43.335130",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "In Nevada, Trump&apos;s policies are making things tough for Republican Gov. Joe Lombardo",
+        "link": "https://www.npr.org/2026/06/10/nx-s1-5850242/trump-nevada-results-lombardo-ford-governor",
+        "pubDate": "Wed, 10 Jun 2026 00:08:07 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "After years of declines, young students show gains in reading and math",
+        "link": "https://www.npr.org/2026/06/10/nx-s1-5844932/naep-long-term-trends-reading-math",
+        "pubDate": "Wed, 10 Jun 2026 00:01:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Evette, backed by Trump, and Wilson, a Trump supporter, head to S.C. governor runoff",
+        "link": "https://www.npr.org/2026/06/09/nx-s1-5851591/trump-south-carolina-evette-wilson-governor",
+        "pubDate": "Tue, 09 Jun 2026 21:21:27 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "House approves labor-friendly bill with support from 20 Republicans",
         "link": "https://www.npr.org/2026/06/09/nx-s1-5851813/house-bill-labor-union-contract-negotiations",
         "pubDate": "Tue, 09 Jun 2026 19:10:59 -0400",
-        "category": "us"
+        "category": "business"
       },
       {
         "title": "Three judges, three scandals and new scrutiny of judicial accountability",
@@ -40,24 +58,6 @@
         "category": "health"
       },
       {
-        "title": "NASA names 4 astronauts on the &apos;highly complex&apos; Artemis III lunar training mission",
-        "link": "https://www.npr.org/2026/06/09/nx-s1-5851860/nasa-artemis-iii-crew",
-        "pubDate": "Tue, 09 Jun 2026 15:26:06 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "To find the World Cup&apos;s Cinderellas, we have to start with the group stage",
-        "link": "https://www.npr.org/2026/06/09/g-s1-127007/soccer-edition-world-cup-cinderella-group-stage",
-        "pubDate": "Tue, 09 Jun 2026 14:05:06 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Social Security funds could run short by 2032, program&apos;s Trustees warn",
-        "link": "https://www.npr.org/2026/06/09/nx-s1-5850279/social-security-funds-trustees-congress",
-        "pubDate": "Tue, 09 Jun 2026 12:53:28 -0400",
-        "category": "business"
-      },
-      {
         "title": "Pope Leo calls AI firms a new form of colonialism, echoing tech critics",
         "link": "https://www.npr.org/2026/06/09/nx-s1-5835315/pope-leo-calls-ai-firms-a-new-form-of-colonialism-echoing-tech-critics",
         "pubDate": "Tue, 09 Jun 2026 04:45:11 -0400",
@@ -66,16 +66,40 @@
     ],
     "bbc": [
       {
-        "title": "How to enjoy the World Cup - and keep your boss on side",
-        "link": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Jun 2026 23:03:08 GMT",
-        "category": "business"
+        "title": "US and Iran exchange fire after American patrol helicopter downed in Hormuz",
+        "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Jun 2026 03:40:59 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Disorder breaks out in Belfast after man charged over knife attack",
+        "link": "https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Jun 2026 01:10:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Advanced radiotherapy for prostate cancer to cut sessions from 20 to five",
+        "link": "https://www.bbc.com/news/articles/crm02mmgr3ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Jun 2026 23:57:30 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Bill debt soars but many don't know help is available",
+        "link": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Jun 2026 23:03:32 GMT",
+        "category": "Top News"
       },
       {
         "title": "Kalshi to make some users reveal job details to tackle insider trading",
         "link": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 09 Jun 2026 22:32:31 GMT",
         "category": "tech"
+      },
+      {
+        "title": "World's largest chipmaker does not rule out price rises as costs increase",
+        "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 09 Jun 2026 22:00:24 GMT",
+        "category": "business"
       },
       {
         "title": "David Sullivan banned from contact with West Ham women's and youth teams since 2023",
@@ -99,34 +123,17 @@
         "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
         "link": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 09 Jun 2026 20:14:12 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Fifa working to resolve revoked Iran tickets",
-        "link": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Jun 2026 17:50:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nasa names next astronauts for Artemis Moon programme",
-        "link": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Jun 2026 17:46:55 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Men jailed for violence at Henry Nowak police protest",
-        "link": "https://www.bbc.com/news/articles/c982y5n0nlno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Jun 2026 17:33:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
-        "link": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Jun 2026 16:44:23 GMT",
         "category": "Top News"
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "China May wholesale inflation hits near 4-year high on Iran war-led higher input costs, AI boom",
+        "link": "https://www.cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html",
+        "pubDate": "Wed, 10 Jun 2026 04:13:20 GMT",
+        "category": "world"
+      }
+    ]
   }
 }
