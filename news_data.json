@@ -1,13 +1,43 @@
 {
-  "updated_at": "2026-06-10T10:14:26.592723",
+  "updated_at": "2026-06-10T15:53:14.623519",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Taiwan drills with U.S. rocket system, firing in China&apos;s direction",
+        "link": "https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction",
+        "pubDate": "Wed, 10 Jun 2026 11:29:24 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
+        "link": "https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices",
+        "pubDate": "Wed, 10 Jun 2026 09:08:58 -0400",
+        "category": "business"
+      },
+      {
+        "title": "July 1 brings big student loan changes. Here&apos;s what you need to know",
+        "link": "https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan",
+        "pubDate": "Wed, 10 Jun 2026 07:30:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "U.S. and Iran exchange strikes. And, House passes ICE and Border Patrol funding",
+        "link": "https://www.npr.org/2026/06/10/g-s1-127216/up-first-newsletter-iran-us-war-primary-results-ice-funding-bill-gates",
+        "pubDate": "Wed, 10 Jun 2026 07:26:08 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "China re\u2011centers North Korea ties as nuclear silence reshapes balance",
+        "link": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties",
+        "pubDate": "Wed, 10 Jun 2026 06:30:00 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "ICE denies having a protester database. But a letter to Congress sheds more light",
         "link": "https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs",
         "pubDate": "Wed, 10 Jun 2026 06:00:00 -0400",
-        "category": "us"
+        "category": "tech"
       },
       {
         "title": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
@@ -22,40 +52,10 @@
         "category": "Top News"
       },
       {
-        "title": "Bill Gates to appear before Congress over Epstein involvement",
+        "title": "Bill Gates is appearing before Congress over Epstein involvement",
         "link": "https://www.npr.org/2026/06/10/nx-s1-5851609/bill-gates-jeffrey-epstein-files-congress-pam-bondi",
         "pubDate": "Wed, 10 Jun 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/06/10/nx-s1-5846828/morning-news-brief",
-        "pubDate": "Wed, 10 Jun 2026 04:42:55 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "China and North Korea renew ties, complicating U.S. response to Kim&apos;s nuclear program",
-        "link": "https://www.npr.org/2026/06/10/nx-s1-5851837/china-and-north-korea-renew-ties-complicating-u-s-response-to-kims-nuclear-program",
-        "pubDate": "Wed, 10 Jun 2026 04:42:39 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Israeli leader who pulled out of Lebanon warns against getting stuck again",
-        "link": "https://www.npr.org/2026/06/10/g-s1-126791/israeli-leader-who-pulled-out-of-lebanon-warns-against-getting-stuck-again",
-        "pubDate": "Wed, 10 Jun 2026 04:40:59 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "U.K. leaders call for calm as protests break out after Belfast street stabbing",
-        "link": "https://www.npr.org/2026/06/10/nx-s1-5852968/uk-anti-immigration-protests-belfast",
-        "pubDate": "Wed, 10 Jun 2026 02:00:14 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "House approves labor-friendly bill with support from 20 Republicans",
-        "link": "https://www.npr.org/2026/06/09/nx-s1-5851813/house-bill-labor-union-contract-negotiations",
-        "pubDate": "Tue, 09 Jun 2026 19:10:59 -0400",
-        "category": "business"
       },
       {
         "title": "Why there&apos;s a debate over the new quarantine center for Americans at risk of Ebola",
@@ -66,39 +66,45 @@
     ],
     "bbc": [
       {
-        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-        "link": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Jun 2026 09:57:11 GMT",
+        "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
+        "link": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Jun 2026 15:06:29 GMT",
         "category": "Top News"
       },
       {
-        "title": "US strikes Iran in response to downing of military helicopter",
-        "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Jun 2026 09:39:35 GMT",
+        "title": "Stokes out of England squad, Root named captain",
+        "link": "https://www.bbc.com/sport/cricket/articles/ce371kq48v7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Jun 2026 14:20:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Lacey Turner confirmed as first Strictly contestant",
+        "link": "https://www.bbc.com/news/articles/cg74gvy8lgjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Jun 2026 14:20:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump and Iran trade new threats after strikes exchanged",
+        "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Jun 2026 14:15:39 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US inflation surges to three-year high of 4.2%",
+        "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Jun 2026 14:08:23 GMT",
         "category": "us"
       },
       {
-        "title": "Who will win the World Cup? BBC pundits make their predictions",
-        "link": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Jun 2026 05:24:53 GMT",
+        "title": "Three arrested over Glasgow unrest and racist assaults after Belfast knife attack",
+        "link": "https://www.bbc.com/news/articles/cr5jme6ld54o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Jun 2026 13:57:18 GMT",
         "category": "Top News"
       },
       {
-        "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
-        "link": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Jun 2026 05:02:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: Residents flee as cars and houses burn in Belfast",
-        "link": "https://www.bbc.com/news/videos/c5yzpg514v0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Jun 2026 04:17:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Illegal mini-marts to shut for up to 12 months under law change prompted by BBC",
-        "link": "https://www.bbc.com/news/articles/cqj1rkqqrgro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 10 Jun 2026 04:17:02 GMT",
+        "title": "Two migrants jailed under new small boats law",
+        "link": "https://www.bbc.com/news/articles/cjrg4031nglo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 10 Jun 2026 13:42:42 GMT",
         "category": "Top News"
       },
       {
@@ -118,21 +124,15 @@
         "link": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 09 Jun 2026 22:32:31 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
-        "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 09 Jun 2026 21:13:17 GMT",
-        "category": "world"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/06/09/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Tue, 09 Jun 2026 23:58:00 GMT",
-        "category": "us"
+        "title": "What screwworm&apos;s appearance in U.S. cattle could mean for beef prices this summer",
+        "link": "https://www.cnbc.com/2026/06/10/texas-screwworm-cattle-beef-prices-inflation.html",
+        "pubDate": "Wed, 10 Jun 2026 15:13:47 GMT",
+        "category": "health"
       }
     ]
   }
