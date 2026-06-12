@@ -1,13 +1,32 @@
 {
-  "updated_at": "2026-06-11T23:44:27.260720",
+  "updated_at": "2026-06-12T04:41:48.436729",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US stocks jump to their best day in 2 months on hopes for a deal to get crude flowing globally again",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2b8d8536c447cead052e7b7dbe7731&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-ai-iran-oil-rates-87c831451197beedb3e29771de1e0a92&amp;c=11280691113173154941&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Jun 2026 15:05:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "The skills people still perform better than AI, according to workplace experts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2b8d87ba834b15afca5e5fcb00471c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fartificial-intelligence-jobs-soft-skills-human-0ce88d448f0b7a87c72b6241305a61f2&amp;c=6398071925493281185&amp;mkt=en-us",
+        "pubDate": "Thu, 11 Jun 2026 05:48:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
       {
-        "title": "Advice on going back to work after parental leave",
-        "link": "https://www.npr.org/2026/06/11/nx-s1-5846610-e1/advice-on-going-back-to-work-after-parental-leave",
-        "pubDate": "Thu, 11 Jun 2026 16:15:27 -0400",
+        "title": "President Trump is taking aim at forest and wildfire research just as the West is poised to burn",
+        "link": "https://www.npr.org/2026/06/12/nx-s1-5819899/president-trump-is-taking-aim-at-forest-and-wildfire-research-just-as-the-west-is-poised-to-burn",
+        "pubDate": "Fri, 12 Jun 2026 00:01:00 -0400",
         "category": "us"
+      },
+      {
+        "title": "Supreme Court prohibits Alabama from using nitrogen gas for execution",
+        "link": "https://www.npr.org/2026/06/11/nx-s1-5855742/supreme-court-alabama-execution",
+        "pubDate": "Thu, 11 Jun 2026 21:39:12 -0400",
+        "category": "Top News"
       },
       {
         "title": "The Teddy Bear Doctor treats stuffies in need of care",
@@ -52,12 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "Taiwan opposition leader says Xi meeting avoided &apos;reunification&apos; talk",
-        "link": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
-        "pubDate": "Thu, 11 Jun 2026 12:53:25 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "SpaceX blasts off with a record-breaking $75 billion IPO",
         "link": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
         "pubDate": "Thu, 11 Jun 2026 05:00:00 -0400",
@@ -66,22 +79,34 @@
     ],
     "bbc": [
       {
+        "title": "Armed forces minister quits after Healey exit as defence funding row deepens",
+        "link": "https://www.bbc.com/news/articles/c4gyp8n7g3go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Jun 2026 03:42:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
+        "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Jun 2026 02:15:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chris Mason: Dissent fizzes again at the top of the Labour Party",
+        "link": "https://www.bbc.com/news/articles/cx26njd8v4mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Jun 2026 01:15:49 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "'I've never been this good' \u2013 revolutionary immune reset puts lupus in remission",
         "link": "https://www.bbc.com/news/articles/c4gy2d9y5z3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 11 Jun 2026 23:31:13 GMT",
         "category": "health"
       },
       {
-        "title": "Why the economics makes this the craziest world cup ever",
+        "title": "Why the economics make this the craziest World Cup ever",
         "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 11 Jun 2026 23:07:52 GMT",
         "category": "business"
-      },
-      {
-        "title": "'I spent uni savings on getting my teeth fixed' - how NHS dentist shortage is costing a fortune",
-        "link": "https://www.bbc.com/news/articles/czrx7pvx57eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Jun 2026 23:03:30 GMT",
-        "category": "Top News"
       },
       {
         "title": "Meningitis B vaccine to be offered to a million young people",
@@ -94,18 +119,6 @@
         "link": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 11 Jun 2026 23:01:48 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Trump says deal to end Iran war is close after calling off strikes",
-        "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Jun 2026 22:22:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Armed forces minister quits after Healey exit as defence funding row deepens",
-        "link": "https://www.bbc.com/news/articles/c4gyp8n7g3go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Jun 2026 21:50:20 GMT",
-        "category": "Top News"
       },
       {
         "title": "Flip flop or deliberate? - Unpacking Trump\u2019s strategy on Iran",
@@ -132,7 +145,61 @@
         "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
         "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
         "pubDate": "Thu, 11 Jun 2026 23:35:43 GMT",
-        "category": "tech"
+        "category": "Top News"
+      },
+      {
+        "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
+        "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
+        "pubDate": "Thu, 11 Jun 2026 22:53:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
+        "link": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
+        "pubDate": "Thu, 11 Jun 2026 22:21:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "SpaceX to close above $2 trillion market cap on its debut, prediction market traders say",
+        "link": "https://www.cnbc.com/2026/06/11/spacex-to-close-above-2-trillion-market-cap-on-its-debut-traders-say.html",
+        "pubDate": "Thu, 11 Jun 2026 21:44:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Healthy Returns: CVS Health executives on reducing healthcare&apos;s biggest pain points",
+        "link": "https://www.cnbc.com/2026/06/11/cvs-health-executives-on-reducing-health-cares-biggest-pain-points.html",
+        "pubDate": "Thu, 11 Jun 2026 20:32:12 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Gold slumps to 6-month low even as inflation fears rise. Here&apos;s why bullion is out of favor",
+        "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
+        "pubDate": "Thu, 11 Jun 2026 19:06:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Elections advertising spend for 2026 expected to reach record high, outpacing presidential years",
+        "link": "https://www.cnbc.com/2026/06/11/2026-elections-ad-spend-adimpact.html",
+        "pubDate": "Thu, 11 Jun 2026 16:00:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Citigroup shares outperform down market after Trump endorsement",
+        "link": "https://www.cnbc.com/2026/06/10/citigroup-shares-outperform-down-market-after-trump-endorsement.html",
+        "pubDate": "Thu, 11 Jun 2026 14:49:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Oracle, Intel, Applied Materials, Alcoa and more",
+        "link": "https://www.cnbc.com/2026/06/11/stocks-making-the-biggest-moves-premarket-oracle-intel-applied-materials-alcoa-and-more.html",
+        "pubDate": "Thu, 11 Jun 2026 12:12:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "KKR says AI productivity boom to keep on going \u2014 but warns of &apos;extreme&apos; trend not seen since the 19th century",
+        "link": "https://www.cnbc.com/2026/06/11/ais-impact-on-economic-growth-kkr.html",
+        "pubDate": "Thu, 11 Jun 2026 05:39:55 GMT",
+        "category": "Top News"
       }
     ]
   }
