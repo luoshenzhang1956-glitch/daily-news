@@ -1,27 +1,14 @@
 {
-  "updated_at": "2026-06-12T15:29:05.763843",
+  "updated_at": "2026-06-12T18:14:03.441904",
   "news": {
-    "ap": [
-      {
-        "title": "US stocks drift as oil falls and Wall Street waits for SpaceX\u2019s debut",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c2574bac143738104063470d39baf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-ai-iran-oil-rates-47f9fecd934706362104cd92514122fe&amp;c=755909021429904275&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 07:16:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Patagonia is suing Pattie Gonia, a drag queen performer with an environmental message",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c2575ad2e4f1495d62129d384711b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpatagonia-trademark-pattie-gonia-climate-e479a32a66c1d8c6dae95936b401984a&amp;c=4448280845174265910&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 06:05:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Elon Musk could become the world\u2019s first trillionaire with SpaceX\u2019s IPO",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c2576a08b4a1c94b1b3ada2de2e58&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmusk-spacex-tesla-ipo-trillionaire-billionaire-worth-rockets-7723f82b6063a9a17c194e25982cd66d&amp;c=7048354245177803160&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 04:23:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "China arrests a U.S. scholar with a history of Myanmar activism, suspected of spying",
+        "link": "https://www.npr.org/2026/06/12/nx-s1-5856394/china-arrest-us-citizen-myanmar",
+        "pubDate": "Fri, 12 Jun 2026 13:04:38 -0400",
+        "category": "world"
+      },
       {
         "title": "A key U.S. spy tool is set to lapse on Friday \u2014 now what?",
         "link": "https://www.npr.org/2026/06/12/nx-s1-5856291/fisa-702-surveillance-expiration-bill-pulte",
@@ -29,7 +16,7 @@
         "category": "us"
       },
       {
-        "title": "It&apos;s SpaceX&apos;s first day on the stock market",
+        "title": "SpaceX stock lifts off, rising above its IPO price",
         "link": "https://www.npr.org/2026/06/12/nx-s1-5855004/stock-ai-spacex-ipo-elon-musk",
         "pubDate": "Fri, 12 Jun 2026 10:01:48 -0400",
         "category": "business"
@@ -50,7 +37,7 @@
         "title": "Trump cancels further Iran strikes. And, U.S. men&apos;s soccer takes on Paraguay",
         "link": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
         "pubDate": "Fri, 12 Jun 2026 06:42:59 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Which billionaire said they learned a &apos;significant lesson&apos; this week? The quiz knows",
@@ -75,49 +62,55 @@
         "link": "https://www.npr.org/2026/06/12/nx-s1-5855728/transgender-youth-healthcare-trump-subpoena",
         "pubDate": "Fri, 12 Jun 2026 05:00:00 -0400",
         "category": "health"
-      },
-      {
-        "title": "Referees at the World Cup have new rules to whistle during games",
-        "link": "https://www.npr.org/2026/06/12/nx-s1-5855234/2026-world-cup-fifa-soccer-referees-officials-laws-ifab",
-        "pubDate": "Fri, 12 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Ministers want 60% of children walking or cycling to school by 2035",
-        "link": "https://www.bbc.com/news/articles/c3wyezwly69o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Jun 2026 15:11:57 GMT",
+        "title": "Palestine Action activists jailed over factory raid",
+        "link": "https://www.bbc.com/news/articles/ce950111xk7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Jun 2026 18:01:58 GMT",
         "category": "Top News"
       },
       {
-        "title": "More time needed for deadly Air India crash inquiry, officials say",
-        "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Jun 2026 15:09:40 GMT",
+        "title": "Former Arsenal midfielder Thomas Partey denied entry to Canada for Ghana's World Cup opener",
+        "link": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Jun 2026 17:26:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran says deal to end fighting with US has 'never been closer'",
+        "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Jun 2026 17:13:30 GMT",
         "category": "world"
       },
       {
-        "title": "Defence row exposes tensions over how to keep UK safe",
-        "link": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Jun 2026 14:46:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Celebrated British artist David Hockney dies aged 88",
+        "title": "King leads tributes to 'giant of the art world' David Hockney",
         "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Jun 2026 14:03:35 GMT",
+        "pubDate": "Fri, 12 Jun 2026 17:00:03 GMT",
         "category": "Top News"
       },
       {
         "title": "Who is Elon Musk and what is his net worth?",
         "link": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Jun 2026 13:22:42 GMT",
+        "pubDate": "Fri, 12 Jun 2026 16:44:29 GMT",
         "category": "tech"
       },
       {
-        "title": "London council takes possession of property linked to Sierra Leone's First Lady",
-        "link": "https://www.bbc.com/news/articles/clyxkeny8x6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Jun 2026 13:05:29 GMT",
+        "title": "Elon Musk gets public trading of SpaceX under way from Texas",
+        "link": "https://www.bbc.com/news/videos/cn0v8vg9d8xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Jun 2026 15:56:12 GMT",
+        "category": "us"
+      },
+      {
+        "title": "I have a duty to stay on, says Starmer, as he justifies defence spending decisions",
+        "link": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Jun 2026 15:21:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Defence row exposes tensions over how to keep UK safe",
+        "link": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Jun 2026 14:46:23 GMT",
         "category": "Top News"
       },
       {
@@ -127,87 +120,45 @@
         "category": "business"
       },
       {
-        "title": "Grooming survivors left with criminal records still being failed, BBC told",
-        "link": "https://www.bbc.com/news/articles/cly7jjq8nr1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Jun 2026 05:03:32 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'I've never been this good' \u2013 revolutionary immune reset puts lupus in remission",
         "link": "https://www.bbc.com/news/articles/c4gy2d9y5z3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 11 Jun 2026 23:31:13 GMT",
         "category": "health"
-      },
-      {
-        "title": "Flip flop or deliberate? - Unpacking Trump\u2019s strategy on Iran",
-        "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 11 Jun 2026 20:22:16 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "SpaceX set to surge past $2 trillion valuation in blockbuster Nasdaq debut",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c258a64b84f69be24cc259cbd77a2&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fafter-record-ipo-musks-spacex-faces-next-test-market-debut-2026-06-12%2f&amp;c=7123907903681311455&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 07:05:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US judge indefinitely blocks Trump's 'anti-weaponization' fund",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c258a64b84f69be24cc259cbd77a2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-indefinitely-blocks-trumps-anti-weaponization-fund-2026-06-12%2f&amp;c=8506825777482173098&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 06:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US consumer sentiment improves in June",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c258a64b84f69be24cc259cbd77a2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-consumer-sentiment-improves-june-2026-06-12%2f&amp;c=13171644146493861324&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 06:17:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c258a64b84f69be24cc259cbd77a2&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fsam-bankman-fried-loses-bid-overturn-crypto-fraud-conviction-2026-06-12%2f&amp;c=4384449370851322977&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 06:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Indians grieve and call for action after US strike kills sailors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c258a64b84f69be24cc259cbd77a2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findia-summons-top-us-diplomat-second-time-protest-strikes-ships-off-oman-source-2026-06-12%2f&amp;c=10463638489951363080&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 06:05:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ebola outbreak spreads to crowded displacement camp in Congo",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c25a1cd784abaaa32a9581903b505&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2febola-outbreak-spreads-crowded-displacement-camp-congo-2026-06-12%2f&amp;c=18249991814984070758&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 05:09:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "United Community Banks to sell equipment finance business to Wafra for $1.9 billion",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c259e69634f72862477b678fc2182&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2funited-community-banks-sell-equipment-finance-business-wafra-19-billion-2026-06-12%2f&amp;c=6137495870319277654&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 04:31:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Empty seats at World Cup match renews concerns over ticket prices",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c258a64b84f69be24cc259cbd77a2&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fempty-seats-world-cup-match-renews-concerns-over-ticket-prices-2026-06-12%2f&amp;c=15167504701297369592&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 03:40:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c25a083064ab9bc153b295ac574e1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-bank-regulators-ramp-up-scrutiny-ai-use-financial-companies-2026-06-12%2f&amp;c=6718737618891366347&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 01:13:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c4c242f774ac1a7019f64a025283c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-bank-regulators-ramp-up-scrutiny-ai-use-financial-companies-2026-06-12%2f&amp;c=6718737618891366347&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Jun 2026 08:54:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Trump appeals court order to strip his name from Kennedy Center building",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c258a64b84f69be24cc259cbd77a2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-appeals-court-order-strip-his-name-kennedy-center-building-2026-06-12%2f&amp;c=14734925661217756172&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 00:34:00 GMT",
-        "category": "Top News"
+        "title": "Empty seats at World Cup match renews concerns over ticket prices",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c4c177be4477398493d7dd3414e98&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fempty-seats-world-cup-match-renews-concerns-over-ticket-prices-2026-06-12%2f&amp;c=15167504701297369592&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Jun 2026 08:51:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Drugmakers will not be exempt from cost cuts, says German health minister",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c4c26da464e05b3ca94020d8084d5&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fdrugmakers-will-not-be-exempt-cost-cuts-says-german-health-minister-2026-06-12%2f&amp;c=5116776502896710738&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Jun 2026 08:25:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "SpaceX by the numbers: Six charts map businesses behind the largest-ever IPO",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2c4c21bf62489d82313c5942450d25&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fspacex-by-numbers-six-charts-mapping-businesses-driving-its-ipo-ambitions-2026-06-11%2f&amp;c=17447361185968608590&amp;mkt=en-us",
+        "pubDate": "Fri, 12 Jun 2026 08:12:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
+      {
+        "title": "The S&amp;P 500 already made a big call on SpaceX stock and index fund investors need to know it",
+        "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html",
+        "pubDate": "Fri, 12 Jun 2026 15:59:09 GMT",
+        "category": "Top News"
+      },
       {
         "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
         "link": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
@@ -218,12 +169,6 @@
         "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
         "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
         "pubDate": "Fri, 12 Jun 2026 14:46:10 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The S&amp;P 500 already made a big call on SpaceX stock and index fund investors need to know it",
-        "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html",
-        "pubDate": "Fri, 12 Jun 2026 12:35:55 GMT",
         "category": "Top News"
       },
       {
