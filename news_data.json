@@ -1,68 +1,61 @@
 {
-  "updated_at": "2026-06-13T09:26:34.623084",
+  "updated_at": "2026-06-13T11:59:13.410874",
   "news": {
-    "ap": [
-      {
-        "title": "Sacramento hopes to make its pitch for expansion after the Athletics leave for Las Vegas",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d21e3c8934198a8edf2e5710c259d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsacramento-mlb-expansion-b8ad70418fa1cba9c138ab2270bccee8&amp;c=17153828682406210348&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 10:34:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Some quarantined cruise ship passengers push to return home",
+        "link": "https://www.npr.org/2026/06/13/nx-s1-5853598/some-quarantined-cruise-ship-passengers-push-to-return-home",
+        "pubDate": "Sat, 13 Jun 2026 07:39:39 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Trump travels to France for the 52nd G7 Summit",
+        "link": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit",
+        "pubDate": "Sat, 13 Jun 2026 07:39:31 -0400",
+        "category": "world"
+      },
+      {
+        "title": "How some U.S. states are relaxing alcohol regulations for the World Cup",
+        "link": "https://www.npr.org/2026/06/13/nx-s1-5853217/how-some-u-s-states-are-relaxing-alcohol-regulations-for-the-world-cup",
+        "pubDate": "Sat, 13 Jun 2026 07:39:28 -0400",
+        "category": "us"
+      },
+      {
+        "title": "A plan to get lifesaving food to malnourished kids was working -- until it wasn&apos;t",
+        "link": "https://www.npr.org/2026/06/13/nx-s1-5787791/malnourished-children-senegal-therapeutic-food-plumpynut",
+        "pubDate": "Sat, 13 Jun 2026 07:07:38 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "&apos;Cool Ladies Club&apos; is directed by 10 working-class women. They live up to the title",
+        "link": "https://www.npr.org/2026/06/13/g-s1-125467/cool-ladies-club-movies-working-class-women-documentary-india",
+        "pubDate": "Sat, 13 Jun 2026 06:56:45 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "COMIC: How excessive heat kills and how to stay safe",
+        "link": "https://www.npr.org/2026/06/13/g-s1-126350/heat-wave-safety-weather-heatstroke",
+        "pubDate": "Sat, 13 Jun 2026 06:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Pope Leo XIV&apos;s flight home from Spain was grounded so the king came to his aid",
         "link": "https://www.npr.org/2026/06/13/nx-s1-5856981/pope-leo-flight-grounded",
         "pubDate": "Sat, 13 Jun 2026 00:29:38 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump says U.S. military strike killed leader of Tren de Aragua gang",
         "link": "https://www.npr.org/2026/06/12/nx-s1-5856611/u-s-military-kill-leader-tren-de-aragua",
         "pubDate": "Fri, 12 Jun 2026 23:38:54 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Gene Shalit, longtime &apos;Today&apos; show movie critic, dies at 100",
-        "link": "https://www.npr.org/2026/06/12/g-s1-128022/gene-shalit-movie-critic-dies",
-        "pubDate": "Fri, 12 Jun 2026 21:01:34 -0400",
         "category": "Top News"
       },
       {
-        "title": "Trump&apos;s name is still on the Kennedy Center \u2014 officials say it will be down by noon",
+        "title": "Workers begin removing Trump&apos;s name from the Kennedy Center",
         "link": "https://www.npr.org/2026/06/12/g-s1-128017/trump-name-kennedy-center",
         "pubDate": "Fri, 12 Jun 2026 20:43:32 -0400",
         "category": "business"
-      },
-      {
-        "title": "Paramount-Warner Brothers merger gets Justice Department approval",
-        "link": "https://www.npr.org/2026/06/12/nx-s1-5856563/justice-dept-approves-paramounts-acquisition-of-warner-bros-discovery",
-        "pubDate": "Fri, 12 Jun 2026 19:24:40 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Justice Dept. approves Paramount&apos;s acquisition of Warner Bros. Discovery",
-        "link": "https://www.npr.org/2026/06/12/nx-s1-5856567/paramount-acquisition-warner-bros-discovery-merger",
-        "pubDate": "Fri, 12 Jun 2026 18:29:12 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A Trump push to cut &apos;statistical noise&apos; could mean less data from the Census Bureau",
-        "link": "https://www.npr.org/2026/06/12/nx-s1-5855734/census-bureau-data-differential-privacy",
-        "pubDate": "Fri, 12 Jun 2026 18:01:19 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A judge clears the way for Trump&apos;s name to be removed from the Kennedy Center",
-        "link": "https://www.npr.org/2026/06/12/nx-s1-5856349/a-judge-clears-the-way-for-trumps-name-to-be-removed-from-the-kennedy-center",
-        "pubDate": "Fri, 12 Jun 2026 16:12:36 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "What would it take to stop women from bleeding to death after childbirth?",
-        "link": "https://www.npr.org/2026/06/12/g-s1-127758/childbirth-postpartum-hemorrhage-bleeding",
-        "pubDate": "Fri, 12 Jun 2026 15:05:32 -0400",
-        "category": "health"
       },
       {
         "title": "SpaceX IPO makes history as largest ever. Stock gains 19% on first day",
@@ -72,6 +65,12 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+        "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Jun 2026 11:15:18 GMT",
+        "category": "world"
+      },
       {
         "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
         "link": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&amp;at_campaign=rss",
@@ -85,15 +84,15 @@
         "category": "Top News"
       },
       {
-        "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-        "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Jun 2026 05:00:04 GMT",
+        "title": "The costs and challenges facing the 2026 World Cup",
+        "link": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Jun 2026 06:21:43 GMT",
         "category": "Top News"
       },
       {
-        "title": "USA start tournament in style - but will they finally join the elite?",
-        "link": "https://www.bbc.com/sport/football/articles/c621z2k51rdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Jun 2026 04:40:19 GMT",
+        "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+        "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Jun 2026 05:00:04 GMT",
         "category": "Top News"
       },
       {
@@ -109,12 +108,6 @@
         "category": "Top News"
       },
       {
-        "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-        "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Jun 2026 00:51:20 GMT",
-        "category": "world"
-      },
-      {
         "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
         "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 12 Jun 2026 23:05:39 GMT",
@@ -127,56 +120,26 @@
         "category": "business"
       },
       {
-        "title": "What is meningitis B and why is a vaccine only being offered to some teenagers?",
-        "link": "https://www.bbc.com/news/articles/c3rzg0vg947o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 12 Jun 2026 10:40:50 GMT",
+        "title": "Cancellations 'unavoidable' during hospital strike",
+        "link": "https://www.bbc.com/news/articles/ckg89vk7em7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 12 Jun 2026 15:03:33 GMT",
         "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d2214936240cb8b5e36e7648e015a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fchina-strongly-dissatisfied-with-pentagon-move-against-top-chinese-tech-firms-2026-06-13%2f&amp;c=16721161296987157108&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 23:43:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Cigna's Express Scripts sues to block pharmacy ownership law in Tennessee",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d2215dbb646fea0d43c563cb91b90&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fcignas-express-scripts-sues-block-law-prescription-access-tennessee-2026-06-12%2f&amp;c=130121679952121931&amp;mkt=en-us",
-        "pubDate": "Fri, 12 Jun 2026 12:56:00 GMT",
-        "category": "health"
+        "title": "US thrash Paraguay 4-1 for dream World Cup start",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d45cc846340058c722b2d4f1448bf&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fus-team-ease-4-1-victory-over-paraguay-2026-06-13%2f&amp;c=12601059708694949315&amp;mkt=en-us",
+        "pubDate": "Sat, 13 Jun 2026 03:52:00 GMT",
+        "category": "us"
       }
     ],
     "markets": [
       {
-        "title": "The S&amp;P 500 already made a big call on SpaceX stock and index fund investors need to know it",
-        "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html",
-        "pubDate": "Fri, 12 Jun 2026 15:59:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
-        "link": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
-        "pubDate": "Fri, 12 Jun 2026 14:50:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
-        "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
-        "pubDate": "Fri, 12 Jun 2026 14:46:10 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Adobe, Rocket Lab, AMD, Carnival &amp; more",
-        "link": "https://www.cnbc.com/2026/06/12/stocks-making-the-biggest-moves-premarket-adbe-rklb-amd-ccl.html",
-        "pubDate": "Fri, 12 Jun 2026 11:41:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
-        "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
-        "pubDate": "Fri, 12 Jun 2026 11:34:46 GMT",
-        "category": "Top News"
+        "title": "As investors flock to SpaceX, one trader eyes a sleepy &apos;stealth&apos; play",
+        "link": "https://www.cnbc.com/2026/06/12/as-investors-flock-to-spacex-one-trader-eyes-a-sleepy-stealth-play.html",
+        "pubDate": "Fri, 12 Jun 2026 17:33:56 GMT",
+        "category": "us"
       }
     ]
   }
