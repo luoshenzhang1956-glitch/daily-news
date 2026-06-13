@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-06-13T17:29:36.488845",
+  "updated_at": "2026-06-13T19:47:09.745970",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "A woman\u2019s hypothermia death in Pittsburgh after her release from ICE custody is ruled a homicide",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2db31ed10f4a5eb7688b2bce8998b4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhaiti-woman-homicide-ice-e31e7109eba053b41f6b0319640df042&amp;c=13298154698210254240&amp;mkt=en-us",
+        "pubDate": "Sat, 13 Jun 2026 12:30:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2db31a852d44058fd2a07c20942c71&amp;url=https%3a%2f%2fapnews.com%2farticle%2fopenai-chatgpt-subpoena-attorneys-general-probe-a95894407773307fae8ae3ce9742b586&amp;c=548535504739130251&amp;mkt=en-us",
+        "pubDate": "Sat, 13 Jun 2026 12:17:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Some people are making guns with 3D printers. A new law seeks to cancel their print jobs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2db316b53949478c749cb8312a5298&amp;url=https%3a%2f%2fapnews.com%2farticle%2f3d-printers-firearms-ghost-guns-737b48cd483da5394076bc99d94619ca&amp;c=5253734235640481080&amp;mkt=en-us",
+        "pubDate": "Sat, 13 Jun 2026 10:45:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Canada\u2019s Carney says middle-power countries shouldn\u2019t compete for favor with the US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2db3137130489cb44cbe236c71a46d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcarney-canada-europe-ireland-04ce045524fd060d5439ed61acc2cd93&amp;c=15466623264882977404&amp;mkt=en-us",
+        "pubDate": "Sat, 13 Jun 2026 09:53:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
       {
         "title": "4 things to know about the new sunscreen ingredient the FDA approved",
@@ -66,22 +91,28 @@
     ],
     "bbc": [
       {
-        "title": "Trump's name removed from Kennedy Center after court order",
-        "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Jun 2026 17:00:23 GMT",
-        "category": "us"
+        "title": "Resident doctors cancel strike after new offer from government",
+        "link": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Jun 2026 19:36:47 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Molly Russell's dad says PM rushing social media restrictions 'deplorable'",
+        "link": "https://www.bbc.com/news/articles/cwykw759v3po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Jun 2026 19:15:02 GMT",
+        "category": "Top News"
       },
       {
         "title": "Thousands gather for anti-racism rally in Belfast after disorder",
         "link": "https://www.bbc.com/news/articles/c20ygdde4djo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Jun 2026 16:36:26 GMT",
+        "pubDate": "Sat, 13 Jun 2026 19:13:20 GMT",
         "category": "Top News"
       },
       {
-        "title": "In pictures: Trooping the Colour marks King's official birthday",
-        "link": "https://www.bbc.com/news/articles/cpv3mmlg872o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Jun 2026 14:46:35 GMT",
-        "category": "Top News"
+        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+        "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 13 Jun 2026 18:39:26 GMT",
+        "category": "world"
       },
       {
         "title": "Royal Family watch Red Arrows flypast on Buckingham Palace balcony",
@@ -105,13 +136,7 @@
         "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
         "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 13 Jun 2026 11:15:18 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Staying up to watch the match? Here's how to survive an all-nighter",
-        "link": "https://www.bbc.com/news/articles/c3wyel830w8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Jun 2026 01:39:51 GMT",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
@@ -126,87 +151,8 @@
         "category": "business"
       }
     ],
-    "reuters": [
-      {
-        "title": "Trump says deal to end war will be signed on Sunday, Iran questions timing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d93219f0d4381b44bd500799597c5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13%2f&amp;c=17374942739574260186&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 09:05:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Russell takes Barcelona pole ahead of Hamilton, Leclerc crashes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d93219f0d4381b44bd500799597c5&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fformula1%2frussell-pole-barcelona-with-hamilton-second-2026-06-13%2f&amp;c=11039195297514019477&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 08:30:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says US military strike killed leader of Venezuela's Tren de Aragua gang",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d93219f0d4381b44bd500799597c5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2ftrump-says-us-military-carried-out-strike-leader-tren-de-aragua-2026-06-13%2f&amp;c=5684028968263197675&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 08:27:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Anti-monarchists protest at King Charles birthday celebrations",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d93219f0d4381b44bd500799597c5&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW860413062026RP1%2f&amp;c=17049782935067366780&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 07:49:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kushner project being developed on disputed land, Albanian villagers say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d93219f0d4381b44bd500799597c5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fkushner-project-being-developed-disputed-land-albanian-villagers-say-2026-06-13%2f&amp;c=3622893866253636125&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 06:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Orban re-elected as Fidesz party leader in Hungary despite election loss",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d93219f0d4381b44bd500799597c5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2forban-re-elected-fidesz-party-leader-hungary-despite-election-loss-2026-06-13%2f&amp;c=9319996260539571121&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 06:37:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Funeral for Iran's late Supreme Leader Khamenei to begin July 4, burial set for July 9",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d93219f0d4381b44bd500799597c5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-says-funeral-late-supreme-leader-khamenei-begin-july-4-burial-set-july-9-2026-06-13%2f&amp;c=6672254755635719199&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 04:46:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's grand sporting season begins with UFC fights on White House lawn",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d93219f0d4381b44bd500799597c5&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ftrumps-grand-sporting-season-begins-with-ufc-fights-white-house-lawn-2026-06-12%2f&amp;c=3076072164916224740&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 04:24:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SpaceX surges past $2 trillion in Nasdaq debut, closes in on Amazon",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d93219f0d4381b44bd500799597c5&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fafter-record-ipo-musks-spacex-faces-next-test-market-debut-2026-06-12%2f&amp;c=7123907903681311455&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 03:51:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Al Qaeda-linked militants curb their brutality in seized Malian territory",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d93219f0d4381b44bd500799597c5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fmilitants-mali-linked-al-qaeda-curb-brutality-they-tighten-control-2026-06-13%2f&amp;c=2248880632947600111&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 03:51:00 GMT",
-        "category": "Top News"
-      }
-    ],
+    "reuters": [],
     "markets": [
-      {
-        "title": "Why TD Securities anticipates even bigger days ahead for SpaceX",
-        "link": "https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html",
-        "pubDate": "Sat, 13 Jun 2026 15:00:01 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "U.S.-Iran peace deal could be finalized &apos;in the next 24 hours,&apos; Pakistan&apos;s PM says",
-        "link": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
-        "pubDate": "Sat, 13 Jun 2026 14:13:52 GMT",
-        "category": "world"
-      },
-      {
-        "title": "These stocks are the most overbought or oversold after a choppy week on Wall Street",
-        "link": "https://www.cnbc.com/2026/06/13/these-stocks-are-most-overbought-or-oversold-after-choppy-market-week.html",
-        "pubDate": "Sat, 13 Jun 2026 13:46:24 GMT",
-        "category": "us"
-      },
       {
         "title": "Drugmakers race to find a place in the next wave of obesity drugs",
         "link": "https://www.cnbc.com/2026/06/13/glp-1s-lilly-novo-pfizer-look-to-new-weight-loss-drugs.html",
