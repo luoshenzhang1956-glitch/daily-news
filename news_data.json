@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-14T15:52:44.531745",
+  "updated_at": "2026-06-14T17:28:00.625581",
   "news": {
-    "ap": [
-      {
-        "title": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2ecdc7805f4c128bcbc94941210f0c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmideast-wars-gaza-death-toll-b9a278a4cf523c412e54f29764ea9060&amp;c=700420343514432451&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Jun 2026 07:05:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "The U.S.-led war in Iran will dominate Trump&apos;s G7 trip to France",
+        "link": "https://www.npr.org/2026/06/14/nx-s1-5857167/trump-g7-iran-war-macron-france",
+        "pubDate": "Sun, 14 Jun 2026 12:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Worries over water as a giant data center moves into the New Mexico desert",
         "link": "https://www.npr.org/2026/06/14/nx-s1-5786551/worries-over-water-as-a-giant-data-center-moves-into-the-new-mexico-desert",
@@ -67,10 +66,28 @@
     ],
     "bbc": [
       {
+        "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
+        "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Jun 2026 17:25:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sinkholes near Purley bridge halt Gatwick trains",
+        "link": "https://www.bbc.com/news/articles/c20ykv7011qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Jun 2026 17:17:30 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Lewis Hamilton wins first grand prix for Ferrari",
         "link": "https://www.bbc.com/sport/formula1/articles/cn8k5n737p4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 14 Jun 2026 15:35:02 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+        "link": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Jun 2026 15:34:32 GMT",
+        "category": "world"
       },
       {
         "title": "UK and Japan agree \u00a318bn investment deal",
@@ -91,28 +108,10 @@
         "category": "us"
       },
       {
-        "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
-        "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Jun 2026 13:20:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The 20-year-old who stole the show on Scotland's World Cup return",
-        "link": "https://www.bbc.com/sport/football/articles/clyrepwp0gno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Jun 2026 12:06:50 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Swiss voters reject 10 million population cap, early projections say",
         "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 14 Jun 2026 11:31:32 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Jun 2026 11:23:36 GMT",
-        "category": "world"
       },
       {
         "title": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
@@ -127,27 +126,7 @@
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Iran questions US commitment to peace moves as Israel strikes Lebanon",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2ecdeb665245eb87aabbf8e7694c07&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-iran-inch-closer-deal-timing-remains-unclear-2026-06-14%2f&amp;c=4930267290732042787&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Jun 2026 06:35:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "SpaceX surges past $2 trillion in Nasdaq debut, closes in on Amazon",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2ece01b84e48c28738a821ec337bfc&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fafter-record-ipo-musks-spacex-faces-next-test-market-debut-2026-06-12%2f&amp;c=7123907903681311455&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Jun 2026 04:56:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Top Wall Street analysts are confident about the growth prospects of these 3 stocks",
-        "link": "https://www.cnbc.com/2026/06/14/top-analysts-are-confident-about-the-prospects-of-these-3-stocks.html",
-        "pubDate": "Sun, 14 Jun 2026 12:49:35 GMT",
-        "category": "us"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
