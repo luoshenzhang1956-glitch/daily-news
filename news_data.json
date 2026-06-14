@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-06-14T12:04:25.152234",
+  "updated_at": "2026-06-14T15:52:44.531745",
   "news": {
     "ap": [
       {
-        "title": "How parents can talk to their kids about vaping as FDA authorizes some flavored e-cigarettes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2e9864ad11450c9b6efda4c23a7511&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvaping-ecigarettes-teens-tobacco-quitting-631baecbf76522902bf8a99312914646&amp;c=46406829776463080&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 13:01:00 GMT",
+        "title": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2ecdc7805f4c128bcbc94941210f0c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmideast-wars-gaza-death-toll-b9a278a4cf523c412e54f29764ea9060&amp;c=700420343514432451&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Jun 2026 07:05:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Worries over water as a giant data center moves into the New Mexico desert",
+        "link": "https://www.npr.org/2026/06/14/nx-s1-5786551/worries-over-water-as-a-giant-data-center-moves-into-the-new-mexico-desert",
+        "pubDate": "Sun, 14 Jun 2026 08:26:48 -0400",
+        "category": "us"
+      },
       {
         "title": "Here&apos;s who&apos;s missing at the World Cup: Soccer-playing grannies!",
         "link": "https://www.npr.org/2026/06/14/g-s1-127865/world-cup-soccer-grannies",
@@ -17,14 +23,14 @@
         "category": "health"
       },
       {
-        "title": "Want obesity drugs covered by insurance? Telehealth companies have a big say",
-        "link": "https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-drugs",
+        "title": "Trump&apos;s UFC fights bring historic spectacle to White House",
+        "link": "https://www.npr.org/2026/06/14/nx-s1-5854962/trump-ufc-white-house-fights",
         "pubDate": "Sun, 14 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Trump&apos;s UFC fights bring historic spectacle to White House",
-        "link": "https://www.npr.org/2026/06/14/nx-s1-5854962/trump-ufc-white-house-fights",
+        "title": "Primary care doctors raise alarm as telehealth companies get involved in obesity drugs",
+        "link": "https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-drugs",
         "pubDate": "Sun, 14 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -39,12 +45,6 @@
         "link": "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal",
         "pubDate": "Sat, 13 Jun 2026 23:46:07 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Trump&apos;s name removed from Kennedy Center in secretive process",
-        "link": "https://www.npr.org/2026/06/13/nx-s1-5857044/trumps-name-removed-from-kennedy-center-in-secretive-process",
-        "pubDate": "Sat, 13 Jun 2026 17:12:07 -0400",
-        "category": "us"
       },
       {
         "title": "Police investigate theft of England equipment at World Cup, 2 people in custody",
@@ -67,9 +67,39 @@
     ],
     "bbc": [
       {
-        "title": "Jubilation as Scotland fans celebrate win",
-        "link": "https://www.bbc.com/news/articles/c78yxr7dl3mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Jun 2026 11:40:33 GMT",
+        "title": "Lewis Hamilton wins first grand prix for Ferrari",
+        "link": "https://www.bbc.com/sport/formula1/articles/cn8k5n737p4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Jun 2026 15:35:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK and Japan agree \u00a318bn investment deal",
+        "link": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Jun 2026 15:25:33 GMT",
+        "category": "business"
+      },
+      {
+        "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+        "link": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Jun 2026 14:52:35 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+        "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Jun 2026 14:08:03 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
+        "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Jun 2026 13:20:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The 20-year-old who stole the show on Scotland's World Cup return",
+        "link": "https://www.bbc.com/sport/football/articles/clyrepwp0gno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 14 Jun 2026 12:06:50 GMT",
         "category": "Top News"
       },
       {
@@ -85,33 +115,9 @@
         "category": "world"
       },
       {
-        "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
-        "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Jun 2026 10:19:40 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
         "link": "https://www.bbc.com/news/articles/ce8jyp78mklo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 14 Jun 2026 09:51:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: MOD video shows Russian shadow fleet tanker interception",
-        "link": "https://www.bbc.com/news/videos/ce8k5kj64lgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Jun 2026 09:40:53 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why the US economy keeps defying the odds",
-        "link": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Jun 2026 05:14:17 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Why Haiti v Scotland was antidote to the ills of world football",
-        "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 14 Jun 2026 04:54:15 GMT",
         "category": "Top News"
       },
       {
@@ -119,45 +125,27 @@
         "link": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 13 Jun 2026 20:46:11 GMT",
         "category": "health"
-      },
-      {
-        "title": "Anthropic suspends new AI tools over US government security concerns",
-        "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 13 Jun 2026 16:28:38 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2e98809c5d43b2a15239d4a2bfbdce&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2firan-says-draft-us-deal-includes-oil-sanctions-waiver-nuclear-limits-asset-2026-06-14%2f&amp;c=18090584653866177904&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Jun 2026 03:13:00 GMT",
+        "title": "Iran questions US commitment to peace moves as Israel strikes Lebanon",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2ecdeb665245eb87aabbf8e7694c07&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-iran-inch-closer-deal-timing-remains-unclear-2026-06-14%2f&amp;c=4930267290732042787&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Jun 2026 06:35:00 GMT",
         "category": "us"
       },
       {
-        "title": "UK, Japan set to agree $24 billion investment, tech partnerships",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2e9898d7cd4513b822783e8773f4b1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fuk-japan-set-agree-24-billion-investment-tech-partnerships-2026-06-13%2f&amp;c=2625230077428627791&amp;mkt=en-us",
-        "pubDate": "Sat, 13 Jun 2026 13:41:00 GMT",
+        "title": "SpaceX surges past $2 trillion in Nasdaq debut, closes in on Amazon",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2ece01b84e48c28738a821ec337bfc&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fafter-record-ipo-musks-spacex-faces-next-test-market-debut-2026-06-12%2f&amp;c=7123907903681311455&amp;mkt=en-us",
+        "pubDate": "Sun, 14 Jun 2026 04:56:00 GMT",
         "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing",
-        "link": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
-        "pubDate": "Sun, 14 Jun 2026 09:48:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Why TD Securities anticipates even bigger days ahead for SpaceX",
-        "link": "https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html",
-        "pubDate": "Sat, 13 Jun 2026 15:00:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "These stocks are the most overbought or oversold after a choppy week on Wall Street",
-        "link": "https://www.cnbc.com/2026/06/13/these-stocks-are-most-overbought-or-oversold-after-choppy-market-week.html",
-        "pubDate": "Sat, 13 Jun 2026 13:46:24 GMT",
+        "title": "Top Wall Street analysts are confident about the growth prospects of these 3 stocks",
+        "link": "https://www.cnbc.com/2026/06/14/top-analysts-are-confident-about-the-prospects-of-these-3-stocks.html",
+        "pubDate": "Sun, 14 Jun 2026 12:49:35 GMT",
         "category": "us"
       }
     ]
