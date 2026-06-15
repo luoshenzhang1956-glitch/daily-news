@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-06-15T18:44:25.101753",
+  "updated_at": "2026-06-15T22:25:58.686349",
   "news": {
     "ap": [
       {
-        "title": "Mexican president says FIFA should reflect on high World Cup ticket prices",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a304790f4074ad4994535103779ade5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmexico-world-cup-prices-president-fifa-74b3d0d08b248d838c846f522ea89807&amp;c=12487051847652884748&amp;mkt=en-us",
-        "pubDate": "Mon, 15 Jun 2026 11:10:00 GMT",
-        "category": "world"
+        "title": "Online portal used to send US deliveries to Cuba stops taking orders",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a307b5c0fed432499076181b057b68c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuba-sanctions-us-trump-eeeefe6e886f9d113de06507425fbfee&amp;c=9093101245931723580&amp;mkt=en-us",
+        "pubDate": "Mon, 15 Jun 2026 14:04:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a307b5f3a6441a690e718666070babb&amp;url=https%3a%2f%2fapnews.com%2farticle%2fanthropic-trump-fable-mythos-tech-0a87a0f7773255419936af053ad8bdef&amp;c=9699656933574203892&amp;mkt=en-us",
+        "pubDate": "Mon, 15 Jun 2026 12:55:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
+      {
+        "title": "How much of an economic boom is the 2026 FIFA World Cup for the U.S. hosting cities?",
+        "link": "https://www.npr.org/2026/06/15/nx-s1-5847031/how-much-of-an-economic-boom-is-the-2026-fifa-world-cup-for-the-u-s-hosting-cities",
+        "pubDate": "Mon, 15 Jun 2026 17:44:13 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Newsom points fingers at DOJ",
+        "link": "https://www.npr.org/2026/06/15/nx-s1-5859370/newsom-points-fingers-at-doj",
+        "pubDate": "Mon, 15 Jun 2026 17:40:15 -0400",
+        "category": "us"
+      },
+      {
+        "title": "U.S. and Iran reach an agreement, but details remain scant",
+        "link": "https://www.npr.org/2026/06/15/nx-s1-5858868/u-s-and-iran-reach-an-agreement-but-details-remain-scant",
+        "pubDate": "Mon, 15 Jun 2026 17:15:59 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Ticks surge in the Northeast",
+        "link": "https://www.npr.org/2026/06/15/nx-s1-5852101/ticks-surge-in-the-northeast",
+        "pubDate": "Mon, 15 Jun 2026 16:48:28 -0400",
+        "category": "health"
+      },
       {
         "title": "Soccer Edition: Watch World Cup highlights from across the NPR Network",
         "link": "https://www.npr.org/2026/06/15/g-s1-126999/soccer-edition-watch-world-cup-highlights-from-across-the-npr-network",
@@ -26,13 +56,7 @@
         "title": "Former American businessman detained in Myanmar after alleged financial misconduct",
         "link": "https://www.npr.org/2026/06/15/g-s1-128147/former-american-businessman-detained-in-myanmar-after-alleged-financial-misconduct",
         "pubDate": "Mon, 15 Jun 2026 08:45:36 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Farmers are changing their CSA models to meet consumers where they are",
-        "link": "https://www.npr.org/2026/06/15/nx-s1-5813794/farmers-are-changing-their-csa-models-to-meet-consumers-where-they-are",
-        "pubDate": "Mon, 15 Jun 2026 08:07:04 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "As Luigi Mangione&apos;s lawyers head to court, support grows for the accused &apos;vigilante&apos;",
@@ -51,43 +75,37 @@
         "link": "https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban",
         "pubDate": "Mon, 15 Jun 2026 06:32:39 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "U.S. and Iran announce a deal to end the war and reopen the Strait of Hormuz",
-        "link": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
-        "pubDate": "Mon, 15 Jun 2026 05:55:23 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Most parents track their 18- to 25-year-old kids on their smartphones. Is it healthy?",
-        "link": "https://www.npr.org/2026/06/15/nx-s1-5854613/tracking-smartphone-kids-parents-adults",
-        "pubDate": "Mon, 15 Jun 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Oil prices drop to cheapest level since early days of Middle East conflict",
-        "link": "https://www.npr.org/2026/06/14/nx-s1-5858115/oil-prices-trump-iran-deal",
-        "pubDate": "Sun, 14 Jun 2026 21:33:09 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
+        "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+        "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Jun 2026 20:33:54 GMT",
+        "category": "world"
+      },
+      {
         "title": "Captain of Russian shadow fleet tanker intercepted in Channel charged",
         "link": "https://www.bbc.com/news/articles/c2dy47gxxnyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Jun 2026 18:31:56 GMT",
+        "pubDate": "Mon, 15 Jun 2026 19:56:06 GMT",
         "category": "Top News"
       },
       {
-        "title": "Anthropic to meet White House over AI tool suspension",
-        "link": "https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Jun 2026 17:46:41 GMT",
+        "title": "Social media ban - bold and blunt, but no silver bullet",
+        "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Jun 2026 19:48:25 GMT",
         "category": "tech"
       },
       {
         "title": "Under-16s to be banned from TikTok, YouTube and other social media by next spring, Starmer says",
         "link": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 15 Jun 2026 17:10:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bonnie Tyler out of coma but 'very unwell' after emergency surgery",
+        "link": "https://www.bbc.com/news/articles/cn4d80de712o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 15 Jun 2026 16:46:48 GMT",
         "category": "Top News"
       },
       {
@@ -103,27 +121,15 @@
         "category": "business"
       },
       {
-        "title": "Dozens walk out as Google boss Pichai addresses Stanford graduates",
-        "link": "https://www.bbc.com/news/articles/cqx10gg2r2vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Jun 2026 14:40:17 GMT",
-        "category": "us"
-      },
-      {
         "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
         "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT",
-        "category": "world"
+        "category": "us"
       },
       {
         "title": "Russia was behind arson attacks targeting PM, BBC reveals",
         "link": "https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 15 Jun 2026 13:10:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Social media ban - bold and blunt, but no silver bullet",
-        "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Jun 2026 12:41:43 GMT",
         "category": "Top News"
       },
       {
@@ -133,20 +139,14 @@
         "category": "health"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "US Supreme Court won't hear bid by suspended judge, 98, to keep her job",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3047e44c8a4ceaa6ac6e949e5de5a8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-supreme-court-wont-hear-bid-by-suspended-judge-98-keep-her-job-2026-06-15%2f&amp;c=4696993952837380225&amp;mkt=en-us",
-        "pubDate": "Mon, 15 Jun 2026 07:34:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Schneider Electric, Foxconn partner on AI data center infrastructure",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3047f7ad2949e8ba02d0c6fa384381&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fschneider-electric-foxconn-partner-ai-data-center-infrastructure-2026-06-15%2f&amp;c=9487851856766442260&amp;mkt=en-us",
-        "pubDate": "Sun, 14 Jun 2026 21:21:00 GMT",
-        "category": "tech"
+        "title": "Centene to offer buyouts to some employees as health insurer cuts costs",
+        "link": "https://www.cnbc.com/2026/06/15/centene-to-offer-buyouts-to-some-employees.html",
+        "pubDate": "Mon, 15 Jun 2026 20:50:35 GMT",
+        "category": "business"
       }
-    ],
-    "markets": []
+    ]
   }
 }
