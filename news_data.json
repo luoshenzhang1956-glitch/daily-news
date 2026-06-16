@@ -1,13 +1,26 @@
 {
-  "updated_at": "2026-06-16T21:12:27.332600",
+  "updated_at": "2026-06-16T23:29:36.175855",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbdc73da4262afea1d7d92b87c54&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhantavirus-cruise-ship-passenger-quarantine-rfk-d9872eff449cf62b9502b8dc6664fd5b&amp;c=11336616070081102138&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 15:59:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
-        "title": "The daily toll of no running water in San Juan, Puerto Rico",
-        "link": "https://www.npr.org/2026/06/16/nx-s1-5860661/the-daily-toll-of-no-running-water-in-san-juan-puerto-rico",
-        "pubDate": "Tue, 16 Jun 2026 16:21:56 -0400",
+        "title": "Volunteer tinkerers bring broken appliances back to life for people in need",
+        "link": "https://www.npr.org/2026/06/16/nx-s1-5802763/volunteer-tinkerers-bring-broken-appliances-back-to-life-for-people-in-need",
+        "pubDate": "Tue, 16 Jun 2026 17:43:51 -0400",
         "category": "us"
+      },
+      {
+        "title": "Shipping exec says industry needs assurances Strait of Hormuz will be safe",
+        "link": "https://www.npr.org/2026/06/16/nx-s1-5860650/shipping-exec-says-industry-needs-assurances-strait-of-hormuz-will-be-safe",
+        "pubDate": "Tue, 16 Jun 2026 17:41:28 -0400",
+        "category": "business"
       },
       {
         "title": "Winning strategy to prevent diabetes and related chronic diseases",
@@ -56,19 +69,19 @@
         "link": "https://www.npr.org/2026/06/16/g-s1-128352/the-world-cup-wawa-bucees-waffle-house",
         "pubDate": "Tue, 16 Jun 2026 11:59:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "The war with Iran is making oil changes pricier. And a deal won&apos;t solve it",
-        "link": "https://www.npr.org/2026/06/16/nx-s1-5847024/motor-oil-iran-war",
-        "pubDate": "Tue, 16 Jun 2026 11:29:02 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "Russian warship fires warning shots near UK-registered yacht in Channel",
+        "title": "Cadbury chocolate-owner Mondelez defends staying in Russia",
+        "link": "https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Jun 2026 23:05:23 GMT",
+        "category": "business"
+      },
+      {
+        "title": "'It was surreal': British couple describe having warning shots fired near them by Russian warship",
         "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Jun 2026 20:21:09 GMT",
+        "pubDate": "Tue, 16 Jun 2026 21:44:25 GMT",
         "category": "Top News"
       },
       {
@@ -76,12 +89,6 @@
         "link": "https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Jun 2026 17:09:36 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
-        "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Jun 2026 16:38:14 GMT",
-        "category": "business"
       },
       {
         "title": "Tehran selling deal with US as victory \u2013 but for Iranians it was necessity",
@@ -114,39 +121,80 @@
         "category": "us"
       },
       {
+        "title": "How an ovary syndrome led to Bake Off star's fame",
+        "link": "https://www.bbc.com/news/articles/cwy2yv91vw7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 16 Jun 2026 05:17:24 GMT",
+        "category": "health"
+      },
+      {
         "title": "Woman left traumatised by swinging says website 'facilitated abuse'",
         "link": "https://www.bbc.com/news/articles/c87q7g48y4po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 16 Jun 2026 05:00:16 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak",
-        "link": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 15 Jun 2026 23:26:39 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Moderna flu shot data may support use in older adults, US FDA staff says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31bbc71d584c048e964bc8c75036a6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-fda-staff-says-data-may-support-effectiveness-modernas-flu-vaccine-older-2026-06-16%2f&amp;c=16743635857423162950&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Jun 2026 08:41:00 GMT",
-        "category": "us"
-      }
-    ],
-    "markets": [
-      {
-        "title": "How Roku fits into Fox&apos;s future \u2013 and what investors are missing about the deal",
-        "link": "https://www.cnbc.com/2026/06/16/fox-roku-stock-investors-streaming.html",
-        "pubDate": "Tue, 16 Jun 2026 20:47:02 GMT",
-        "category": "business"
+        "title": "As chair, Warsh finally has a chance to put stamp on Fed balance sheet",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbdfded040b2a34112fa8b19e113&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fchair-warsh-finally-has-chance-put-stamp-fed-balance-sheet-2026-06-16%2f&amp;c=4708913057830012732&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 15:16:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "SpaceX&apos;s blistering start still faces key tests that will determine the stock&apos;s true value",
-        "link": "https://www.cnbc.com/2026/06/16/spacexs-blistering-start-still-faces-key-tests-that-will-determine-the-stocks-true-value.html",
-        "pubDate": "Tue, 16 Jun 2026 20:30:35 GMT",
-        "category": "tech"
+        "title": "Container imports soar at busiest US port in May as buyers try to outrun rising fuel costs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbdfded040b2a34112fa8b19e113&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fcontainer-imports-soar-busiest-us-port-may-buyers-try-outrun-rising-fuel-costs-2026-06-16%2f&amp;c=13927344533095469821&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 13:52:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "G7 leaders discuss 'trusted partners' access to cutting-edge US AI models, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbdfded040b2a34112fa8b19e113&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fg7-leaders-discuss-trusted-partners-access-cutting-edge-us-ai-models-sources-say-2026-06-16%2f&amp;c=5390334580341381332&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 13:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Hacking group claims major hack of Novo Nordisk and attempted $25 million extortion",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbdfded040b2a34112fa8b19e113&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fhacking-group-claims-major-hack-novo-nordisk-attempted-25-million-extortion-2026-06-16%2f&amp;c=3818352533991638202&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 13:49:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump invokes Defense Production Act for munitions, supply chains",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbdfded040b2a34112fa8b19e113&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-invokes-defense-production-act-munitions-supply-chains-2026-06-16%2f&amp;c=2406357637806733899&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 13:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "SpaceX vaults past Amazon's market value as options listing fuels surge",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbdfded040b2a34112fa8b19e113&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fspacex-set-surpass-amazons-market-cap-post-ipo-rally-continues-2026-06-16%2f&amp;c=14708849356213936358&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 13:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Developing world won't completely entrust energy security to the US, says Cheniere Energy's CFO",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbe1962442c5ab3b0801259b0632&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fdeveloping-world-wont-completely-entrust-energy-security-us-says-cheniere-2026-06-16%2f&amp;c=7761964602669370593&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 13:05:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trading Day: US stocks mixed, oil slides, SpaceX continues its ascent",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbdfded040b2a34112fa8b19e113&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2freuters-open-interest%2fglobal-markets-trading-day-2026-06-16%2f&amp;c=597520504287641134&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 13:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "G7 leaders express optimism for peace after Trump's 'very good' Zelenskiy meeting",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbdfded040b2a34112fa8b19e113&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2feuropeans-test-trump-iran-deal-risks-urge-ukraine-rethink-g7-2026-06-16%2f&amp;c=11565627683223175015&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 11:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "FBI says it thwarted plot to use drones, snipers to attack White House UFC event",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a31dbdfded040b2a34112fa8b19e113&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ffbi-says-it-thwarted-possible-threat-ufc-event-washington-2026-06-16%2f&amp;c=8771680594864889071&amp;mkt=en-us",
+        "pubDate": "Tue, 16 Jun 2026 10:48:00 GMT",
+        "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
