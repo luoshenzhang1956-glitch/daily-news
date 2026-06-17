@@ -1,32 +1,37 @@
 {
-  "updated_at": "2026-06-17T18:30:52.109963",
+  "updated_at": "2026-06-17T22:07:44.091927",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "US stocks drift ahead of the Fed\u2019s announcement on interest rates",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a32e773066246e486ae96449357f964&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-rates-oil-us-iran-02e500f15edc505cedd8a8428197744c&amp;c=17947078761070822925&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Jun 2026 10:35:00 GMT",
-        "category": "business"
+        "title": "A tour of the Obama Presidential Center in Chicago",
+        "link": "https://www.npr.org/2026/06/17/nx-s1-5850229/a-tour-of-the-obama-presidential-center-in-chicago",
+        "pubDate": "Wed, 17 Jun 2026 17:50:29 -0400",
+        "category": "us"
       },
       {
-        "title": "AP Exclusive: Nvidia\u2019s Jensen Huang says society needs \u2018new social norms\u2019 in the age of AI",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a32e773be2b4bc3981a33e0d620519b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnvidea-huang-artificial-intelligence-8334abcbc6ed8d3d7889b640ec6fa05b&amp;c=7923022288996842847&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Jun 2026 18:45:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "npr": [
+        "title": "As western fires erupt, Trump&apos;s Forest Service says it&apos;s now fully staffed",
+        "link": "https://www.npr.org/2026/06/17/nx-s1-5855760/as-western-fires-erupt-trumps-forest-service-says-its-now-fully-staffed",
+        "pubDate": "Wed, 17 Jun 2026 17:33:59 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Here&apos;s how much the the Iran war cost -- and how its effects will linger",
+        "link": "https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade",
+        "pubDate": "Wed, 17 Jun 2026 17:23:54 -0400",
+        "category": "world"
+      },
       {
         "title": "An inside look at President Trump&apos;s campaign to acquire Greenland",
         "link": "https://www.npr.org/2026/06/17/nx-s1-5860861/an-inside-look-at-president-trumps-campaign-to-acquire-greenland",
         "pubDate": "Wed, 17 Jun 2026 12:50:25 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Tropical Storm Arthur is the first named storm of the Atlantic hurricane season",
         "link": "https://www.npr.org/2026/06/17/g-s1-128578/tropical-storm-arthur-first-named-storm-atlantic-hurricane-season",
         "pubDate": "Wed, 17 Jun 2026 12:43:26 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Greetings from Maputo, Mozambique&apos;s capital, shaped by a modernist architecture",
@@ -53,41 +58,29 @@
         "category": "Top News"
       },
       {
-        "title": "Trump to face questions at G7 press conference. And, Tuesday&apos;s primary results",
-        "link": "https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries",
-        "pubDate": "Wed, 17 Jun 2026 07:14:16 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;Rejected&apos;: How federal prisons stonewall grievances and deny care for years",
-        "link": "https://www.npr.org/2026/06/17/nx-s1-5343603/prison-lawsuits-grievance-denial-investigation",
-        "pubDate": "Wed, 17 Jun 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "With Iran deal, Trump told ships to &apos;start your engines.&apos; That&apos;s not happening yet",
-        "link": "https://www.npr.org/2026/06/17/nx-s1-5860909/iran-ships-strait-of-hormuz-trump",
+        "title": "Federal Reserve holds interest rates steady and hints at rate hike later this year",
+        "link": "https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting",
         "pubDate": "Wed, 17 Jun 2026 05:00:00 -0400",
         "category": "business"
-      },
-      {
-        "title": "Anthropic incident leaves confusion about Trump administration&apos;s AI regulation",
-        "link": "https://www.npr.org/2026/06/16/nx-s1-5859275/anthropic-incident-leaves-confusion-about-trump-administrations-ai-regulation",
-        "pubDate": "Tue, 16 Jun 2026 16:14:28 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "'Get him out of here': Judge sends   Gilgo Beach killer to prison for rest of life",
-        "link": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Jun 2026 17:45:54 GMT",
+        "title": "BBC announces 550 job cuts as first part of \u00a3500m savings plan",
+        "link": "https://www.bbc.com/news/articles/cvgmqrrlej5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Jun 2026 19:22:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What's in the US-Iran agreement?",
+        "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Jun 2026 19:18:18 GMT",
         "category": "us"
       },
       {
-        "title": "BBC announces 550 job cuts as first part of \u00a3500m savings plan",
-        "link": "https://www.bbc.com/news/articles/cvgmqrrlej5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Jun 2026 16:42:52 GMT",
+        "title": "Passport 'mega queue' strands Ryanair passengers in Greece",
+        "link": "https://www.bbc.com/news/articles/c20yxd790k5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Jun 2026 17:18:21 GMT",
         "category": "Top News"
       },
       {
@@ -115,12 +108,6 @@
         "category": "Top News"
       },
       {
-        "title": "TV personality Ashley Cain accused of using sexist and misogynistic language",
-        "link": "https://www.bbc.com/news/articles/cvg59v3ypx9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Jun 2026 11:55:14 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
         "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 17 Jun 2026 10:01:42 GMT",
@@ -141,31 +128,66 @@
     ],
     "reuters": [
       {
-        "title": "US business inventories increase as expected in April",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a32e78ea22541f683c9141e0865a356&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-business-inventories-increase-expected-april-2026-06-17%2f&amp;c=3010975129393167912&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Jun 2026 06:41:00 GMT",
-        "category": "business"
+        "title": "Warsh Fed holds rates steady. Trump says 'It's all right. Whatever.'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a331a387bfc4fbbb3b96ce6e1478c2c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fwarsh-fed-holds-rates-steady-trump-says-its-all-right-whatever-2026-06-17%2f&amp;c=15968724279604203239&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 13:44:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Saab invests $13 million in defence technology company Comand AI",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a32e79190084d6eba44cbef3b1a30d9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fsaab-invests-13-million-defence-technology-company-comand-ai-2026-06-17%2f&amp;c=7158098096008237216&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Jun 2026 06:18:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in &apos;coming year&apos;",
-        "link": "https://www.cnbc.com/2026/06/17/amazon-ai-frontier-openai-anthropic.html",
-        "pubDate": "Wed, 17 Jun 2026 17:37:30 GMT",
-        "category": "tech"
+        "title": "US Air Force awards production contracts to General Atomics, Anduril for drone wingmen",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a331a387bfc4fbbb3b96ce6e1478c2c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fus-air-force-awards-production-contracts-general-atomics-anduril-drone-wingmen-2026-06-17%2f&amp;c=5483243766862192957&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 13:40:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "UniQure to seek FDA approval for Huntington&apos;s disease gene therapy after previous clash with agency",
-        "link": "https://www.cnbc.com/2026/06/17/huntingtons-disease-drugmaker-uniqure-to-seek-fda-ok-for-gene-therapy.html",
-        "pubDate": "Wed, 17 Jun 2026 17:03:02 GMT",
+        "title": "Warsh kicks off Fed chief tenure with sweeping review as rates remain unchanged",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a331a387bfc4fbbb3b96ce6e1478c2c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwarsh-led-fed-expected-hold-interest-rates-steady-2026-06-17%2f&amp;c=12555083791199019842&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 13:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trading Day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a331a4532ed4c75b87da99af152eeb0&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2freuters-open-interest%2fglobal-markets-trading-day-graphic-2026-06-17%2f&amp;c=11432734970995655535&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 13:10:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "New York LaGuardia airport to temporarily close runway to address pavement issue",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a331a387bfc4fbbb3b96ce6e1478c2c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fnew-york-laguardia-airport-temporarily-close-runway-address-pavement-issue-2026-06-17%2f&amp;c=13630436007565520765&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 13:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall Street sinks on bets Fed will hike rates this year",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a331a387bfc4fbbb3b96ce6e1478c2c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsp-nasdaq-futures-inch-up-ahead-warshs-debut-2026-06-17%2f&amp;c=10015780597196666674&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 13:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed's Warsh flags new tasks forces to study Fed operations",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a331a387bfc4fbbb3b96ce6e1478c2c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffeds-warsh-flags-new-tasks-forces-study-fed-operations-2026-06-17%2f&amp;c=4743097579095987364&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 13:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed rate decision as it happened: US central bank does not cut rates in first meeting chaired by Warsh",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a331a387bfc4fbbb3b96ce6e1478c2c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffed-rate-decision-live-us-central-bank-expected-hold-rates-steady-first-meeting-2026-06-17%2f&amp;c=18424167824726678848&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 12:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump blows up spy bill after Senate Republicans say 'no' to voter ID legislation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a331a387bfc4fbbb3b96ce6e1478c2c&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-blows-up-spy-bill-after-senate-republicans-say-no-voter-id-legislation-2026-06-17%2f&amp;c=6689149933761902226&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 12:34:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US FTC sues transgender health nonprofit over youth care standards",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a331a63a74045e39019c99c72a70056&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-ftc-sue-transgender-health-nonprofit-over-youth-care-standards-2026-06-17%2f&amp;c=7820948060821831492&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 08:54:00 GMT",
         "category": "health"
       }
-    ]
+    ],
+    "markets": []
   }
 }
