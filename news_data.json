@@ -1,38 +1,50 @@
 {
-  "updated_at": "2026-06-17T11:09:28.382135",
+  "updated_at": "2026-06-17T15:52:42.492094",
   "news": {
     "ap": [
       {
+        "title": "More than 1,000 people have been killed by Israeli fire in Gaza since an October ceasefire, local health officials say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a32c239ef81445e956ccb167fc51ff8&amp;url=https%3a%2f%2fapnews.com%2fdbac2c2d0803be4ae366c764ade93d2d&amp;c=7597671093961616902&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 07:39:00 GMT",
+        "category": "health"
+      },
+      {
         "title": "Hot mics at the G7 capture world leaders\u2019 chats between weighty topics",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a327fbe7c30468e8ccbce9705a7a051&amp;url=https%3a%2f%2fapnews.com%2farticle%2fg7-trump-macron-meloni-microphones-87d3a7edd4ad8371d434abbd7fe66f6a&amp;c=3342126258817589405&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Jun 2026 03:00:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a32c20c91bf42a8bdd880f76e2156dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fg7-trump-macron-meloni-microphones-87d3a7edd4ad8371d434abbd7fe66f6a&amp;c=3342126258817589405&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 06:46:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "Live updates: Trump and G7 leaders meet to discuss future of AI and US dominance of the industry",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a327fbead6b4a58bd82fdf1ee4b5117&amp;url=https%3a%2f%2fapnews.com%2flive%2fg7-summit-updates-06-17-2026&amp;c=1370708019641755394&amp;mkt=en-us",
-        "pubDate": "Wed, 17 Jun 2026 00:39:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Pizza Hut, overtaken by the arrival of delivery culture, will be sold for $2.7 billion",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a327fc0bdc94c5783925913b65cedf9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fyum-brands-pizza-hut-348bb9ea9f68e559aba6663f2b9e45ac&amp;c=6188674126036804615&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Jun 2026 14:07:00 GMT",
-        "category": "business"
       }
     ],
     "npr": [
       {
-        "title": "&apos;Rejected&apos;: How federal prisons stonewall grievances and deny care for years",
-        "link": "https://www.npr.org/2026/06/17/nx-s1-5343603/prison-lawsuits-grievance-denial-investigation",
-        "pubDate": "Wed, 17 Jun 2026 06:00:00 -0400",
+        "title": "Pakistan ends &apos;luxury tax&apos; on menstrual products, contraceptives. Will prices drop?",
+        "link": "https://www.npr.org/2026/06/17/g-s1-128442/menstrual-products-contraceptives-pakistan-luxury-tax",
+        "pubDate": "Wed, 17 Jun 2026 09:46:18 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Taiwan says Chinese pressure over the island is the &quot;new normal&quot;",
+        "link": "https://www.npr.org/2026/06/17/g-s1-128550/taiwan-says-chinese-pressure-over-the-island-is-the-new-normal",
+        "pubDate": "Wed, 17 Jun 2026 09:08:37 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Senate to proceed with intel chief confirmation hearing despite Trump&apos;s call to delay",
+        "link": "https://www.npr.org/2026/06/17/nx-s1-5859298/jay-clayton-confirmation-hearing-director-of-national-intelligence",
+        "pubDate": "Wed, 17 Jun 2026 07:18:03 -0400",
         "category": "us"
       },
       {
-        "title": "Trump&apos;s Iran agreement dominates G7 but big questions remain",
-        "link": "https://www.npr.org/2026/06/17/nx-s1-5860782/trumps-iran-agreement-dominates-g7-but-big-questions-remain",
-        "pubDate": "Wed, 17 Jun 2026 05:00:00 -0400",
-        "category": "world"
+        "title": "Trump to face questions at G7 press conference. And, Tuesday&apos;s primary results",
+        "link": "https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries",
+        "pubDate": "Wed, 17 Jun 2026 07:14:16 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "&apos;Rejected&apos;: How federal prisons stonewall grievances and deny care for years",
+        "link": "https://www.npr.org/2026/06/17/nx-s1-5343603/prison-lawsuits-grievance-denial-investigation",
+        "pubDate": "Wed, 17 Jun 2026 06:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "With Iran deal, Trump told ships to &apos;start your engines.&apos; That&apos;s not happening yet",
@@ -41,26 +53,14 @@
         "category": "business"
       },
       {
-        "title": "Soccer&apos;s premier goal scorers, led by Lionel Messi, show up to the World Cup with a bang",
-        "link": "https://www.npr.org/2026/06/17/nx-s1-5861412/2026-world-cup-fifa-goals-golden-boot",
-        "pubDate": "Wed, 17 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "FAQ: How World Cup fans and workers can stay safe in the heat",
-        "link": "https://www.npr.org/2026/06/17/nx-s1-5742525/world-cup-heat-exhaustion-hot-weather-soccer",
-        "pubDate": "Wed, 17 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;Coreano Hermano&apos;: Ahead of Mexico vs. South Korea, it&apos;s all love between the fans",
-        "link": "https://www.npr.org/2026/06/17/nx-s1-5835229/mexico-south-korea-world-cup-fans-coreano-hermano",
-        "pubDate": "Wed, 17 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "On a flight home, a stranger helped her understand what came next",
         "link": "https://www.npr.org/2026/06/17/nx-s1-5857760/on-a-flight-home-a-stranger-helped-her-understand-what-came-next",
+        "pubDate": "Wed, 17 Jun 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "El Ni\u00f1o is here, so what does it mean?",
+        "link": "https://www.npr.org/2026/06/17/g-s1-128448/el-nino-begins-global-impacts",
         "pubDate": "Wed, 17 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -71,12 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "Winning strategy to prevent diabetes and related chronic diseases",
-        "link": "https://www.npr.org/2026/06/16/nx-s1-5859248/winning-strategy-to-prevent-diabetes-and-related-chronic-diseases",
-        "pubDate": "Tue, 16 Jun 2026 16:21:54 -0400",
-        "category": "health"
-      },
-      {
         "title": "Anthropic incident leaves confusion about Trump administration&apos;s AI regulation",
         "link": "https://www.npr.org/2026/06/16/nx-s1-5859275/anthropic-incident-leaves-confusion-about-trump-administrations-ai-regulation",
         "pubDate": "Tue, 16 Jun 2026 16:14:28 -0400",
@@ -85,33 +79,51 @@
     ],
     "bbc": [
       {
+        "title": "BBC announces 550 job cuts as first part of \u00a3500m savings plan",
+        "link": "https://www.bbc.com/news/articles/cvgmqrrlej5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Jun 2026 15:45:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Driving test wait time target will not be met until autumn next year",
+        "link": "https://www.bbc.com/news/articles/cd7wv0xqvryo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Jun 2026 15:37:05 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Iran sends tankers loaded with oil past US military blockade",
+        "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Jun 2026 13:27:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Harry and Meghan to bring children to UK next month",
+        "link": "https://www.bbc.com/news/articles/ce3eqkzy2z4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Jun 2026 12:32:48 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Snap unveils \u00a31,995 smart glasses after previous flops",
+        "link": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Jun 2026 11:37:01 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
         "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 17 Jun 2026 10:01:42 GMT",
         "category": "world"
       },
       {
-        "title": "Inflation unexpectedly steady as food price rises slow",
-        "link": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Jun 2026 09:52:43 GMT",
-        "category": "business"
+        "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+        "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 17 Jun 2026 09:46:31 GMT",
+        "category": "us"
       },
       {
         "title": "PM warns Burnham against immediate leadership challenge if he wins by-election",
         "link": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 17 Jun 2026 09:17:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "British couple describe having warning shots fired near them by Russian warship",
-        "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Jun 2026 08:38:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Jeremy Clarkson reveals prostate cancer diagnosis on farming show",
-        "link": "https://www.bbc.com/news/articles/cqj14q700rko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 17 Jun 2026 07:36:37 GMT",
         "category": "Top News"
       },
       {
@@ -121,43 +133,25 @@
         "category": "health"
       },
       {
-        "title": "'It's very Bond': Fashion experts on the England squad's off-pitch look",
+        "title": "Baby blue tracksuits and no ties - what England's off-pitch looks say about the team",
         "link": "https://www.bbc.com/news/articles/c9v2e8llnkwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 17 Jun 2026 05:52:03 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Social media ban could shut the door on future talent, say teen influencers",
-        "link": "https://www.bbc.com/news/articles/c4gyp16wp6jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Jun 2026 23:23:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: Why is Trump furious with Netanyahu over strikes on Lebanon?",
-        "link": "https://www.bbc.com/news/videos/cvgmqelv0edo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Jun 2026 21:32:24 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Five big questions about the UK's under-16s social media ban",
-        "link": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 16 Jun 2026 15:28:15 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "Mood darkens among German auto suppliers as investment, hiring fall, survey shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a32800a9f68432abe0ae5392df62e4e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmood-darkens-among-german-auto-suppliers-investment-hiring-fall-survey-shows-2026-06-17%2f&amp;c=1185941494172049151&amp;mkt=en-us",
-        "pubDate": "Tue, 16 Jun 2026 20:07:00 GMT",
-        "category": "business"
+        "title": "Italy's privacy watchdog fines Emirates over handling of passenger health data",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a32c2860581450cb261da5645592f64&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fitalys-privacy-watchdog-fines-emirates-over-handling-passenger-health-data-2026-06-17%2f&amp;c=6294623203015179894&amp;mkt=en-us",
+        "pubDate": "Wed, 17 Jun 2026 01:45:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Micron has more than tripled in 2026. Deutsche Bank says the rally isn&apos;t over",
-        "link": "https://www.cnbc.com/2026/06/17/micron-has-tripled-in-2026-deutsche-bank-says-the-rally-isnt-over.html",
-        "pubDate": "Wed, 17 Jun 2026 10:42:26 GMT",
+        "title": "This medical diagnostics stock is ready for a big move higher, charts show",
+        "link": "https://www.cnbc.com/2026/06/17/this-medical-diagnostics-stock-is-ready-for-a-big-move-higher-charts-show.html",
+        "pubDate": "Wed, 17 Jun 2026 15:30:01 GMT",
         "category": "us"
       }
     ]
