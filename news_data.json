@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-06-19T15:34:37.522086",
+  "updated_at": "2026-06-19T18:05:38.304246",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Christian Pulisic to miss US World Cup match against Australia because of calf injury",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a358434ed284396aed3ece26e3123f5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpulisic-out-b6f56e725bff81703b5bfb7dd41255d5&amp;c=6433519925002306855&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 10:53:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Diamondbacks play the Twins in first of 3-game series",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a35844ae7744f5da2db9ef49e981c9c&amp;url=https%3a%2f%2fapnews.com%2farticle%2farizona-diamondbacks-baseball-minnesota-twins-illinois-8662db1d1ec447efbfdedbd8f4413099&amp;c=7543205080325824339&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 01:02:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Doctor treating Ebola patients describes challenges health workers face at home and treatment center",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a35844bec0e4e24904b4856e416dc79&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fdoctor-treating-ebola-patients-describes-challenges-health-workers-face-at-home-and-treatment-center-2c47b02c62754a288c5c7d0c21e7118b&amp;c=11368291370552064401&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 00:18:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Asian shares retreat in thin holiday trading after a tech-led rally on Wall St",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a358443841e4401896923537fadeb1c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-rates-iran-oil-24b4d022fb308e6336ac45a2b191c009&amp;c=14744963160917855839&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Jun 2026 23:26:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Algae clouded Trump&apos;s vision for the Reflecting Pool. But scientists aren&apos;t surprised",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump",
+        "pubDate": "Fri, 19 Jun 2026 11:43:05 -0400",
+        "category": "us"
+      },
       {
         "title": "Tick season is getting worse. Can managing deer help?",
         "link": "https://www.npr.org/2026/06/19/nx-s1-5856461/tick-deer-alpha-gal-lonestar",
@@ -19,7 +50,7 @@
         "title": "What you need to know about the preliminary U.S.-Iran agreement signed by Trump",
         "link": "https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement",
         "pubDate": "Fri, 19 Jun 2026 06:30:52 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Get with the times \u2014 here&apos;s what a &apos;Luddite&apos; means today",
@@ -28,20 +59,14 @@
         "category": "tech"
       },
       {
-        "title": "How the 1874 Freedman&apos;s Bank collapse connects to economic disparities we see today",
-        "link": "https://www.npr.org/2026/06/19/nx-s1-5862645/how-the-1874-freedmans-bank-collapse-connects-to-economic-disparities-we-see-today",
+        "title": "Juneteenth: How news of the Emancipation Proclamation spread through the South",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5861779/juneteenth-emancipation-proclamation-lincoln-slavery-civil-war",
         "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
         "title": "It&apos;s toys vs. tech in &apos;Toy Story 5.&apos; Here are 4 ways to keep tech in check this summer",
         "link": "https://www.npr.org/2026/06/19/nx-s1-5845874/toy-story-5-tech-social-media-screentime-summer-movie",
-        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Some local police have access to an ICE facial recognition app",
-        "link": "https://www.npr.org/2026/06/19/nx-s1-5863058/homeland-security-local-police-facial-recognition-identify-immigrants",
         "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -58,8 +83,8 @@
         "category": "Top News"
       },
       {
-        "title": "These Wisconsin swing voters say Trump&apos;s war in Iran wasn&apos;t worth it",
-        "link": "https://www.npr.org/2026/06/19/nx-s1-5861751/wisconsin-focus-groups-iran-trump",
+        "title": "Some local police have access to an ICE facial recognition app",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5863058/homeland-security-local-police-facial-recognition-identify-immigrants",
         "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       }
@@ -114,9 +139,9 @@
         "category": "business"
       },
       {
-        "title": "Amber extreme heat warning issued as 35C heatwave approaches",
-        "link": "https://www.bbc.com/weather/articles/cz0jde5xkjvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 11:14:57 GMT",
+        "title": "Why Morocco game could be greatest of all for Scotland",
+        "link": "https://www.bbc.com/sport/football/articles/cy04jqn90wko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 10:43:36 GMT",
         "category": "Top News"
       },
       {
@@ -126,50 +151,13 @@
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Lebanon ceasefire agreed after US-Iran talks in Switzerland scrapped",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a35612a08db4991a9fdd2e545340f58&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-iran-peace-talks-postponed-clouding-prospects-lasting-truce-2026-06-19%2f&amp;c=4026772521562216502&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Jun 2026 06:54:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Africa in Pictures: from the World Cup to wildlife",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3561271d184603b677eceacbf25e42&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW052919062026RP1%2f&amp;c=8752417518341911280&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Jun 2026 05:31:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Gulf airlines get back to business as flights near pre-war levels",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a35612c80ac49c684433367cf0fd1ba&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fgulf-airlines-get-back-business-flights-near-pre-war-levels-2026-06-19%2f&amp;c=18133555900119230301&amp;mkt=en-us",
-        "pubDate": "Thu, 18 Jun 2026 21:16:00 GMT",
-        "category": "business"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Chairman Warsh drastically alters Fed rate statement. Here&apos;s what&apos;s changed",
-        "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
-        "pubDate": "Thu, 18 Jun 2026 22:03:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The average SpaceX buyer post-IPO is almost under water after two-day slide",
-        "link": "https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html",
-        "pubDate": "Thu, 18 Jun 2026 20:10:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Markets are set for a much more hawkish Warsh Fed than expected",
-        "link": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
-        "pubDate": "Thu, 18 Jun 2026 18:04:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Intel, SpaceX, Micron, Carnival &amp; more",
-        "link": "https://www.cnbc.com/2026/06/18/stocks-making-the-biggest-moves-premarket-.html",
-        "pubDate": "Thu, 18 Jun 2026 16:35:09 GMT",
-        "category": "Top News"
+        "title": "Memory crisis hits such extremes that &apos;even Apple can&apos;t be safe&apos;",
+        "link": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
+        "pubDate": "Fri, 19 Jun 2026 12:00:02 GMT",
+        "category": "tech"
       }
     ]
   }
