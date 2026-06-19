@@ -1,129 +1,190 @@
 {
-  "updated_at": "2026-06-19T05:01:17.446605",
+  "updated_at": "2026-06-19T10:47:55.920508",
   "news": {
-    "ap": [],
-    "npr": [
+    "ap": [
       {
-        "title": "Luigi Mangione&apos;s lawyers withdraw plans for psychiatric defense",
-        "link": "https://www.npr.org/2026/06/18/nx-s1-5863583/mangione-psychiatric-defense-update",
-        "pubDate": "Thu, 18 Jun 2026 21:49:41 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Key FDA committee unanimously recommends its first vaccine since 2023",
-        "link": "https://www.npr.org/2026/06/18/nx-s1-5863570/flu-vaccine-mrna-moderna-fda",
-        "pubDate": "Thu, 18 Jun 2026 20:43:27 -0400",
-        "category": "health"
-      },
-      {
-        "title": "In photos: The Knicks celebrate their first NBA championship in more than 50 years",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/06/18/g-s1-128953/in-photos-the-knicks-celebrate-their-first-nba-championship-in-more-than-50-years",
-        "pubDate": "Thu, 18 Jun 2026 20:00:00 -0400",
+        "title": "What full-time working moms and dads want, by the numbers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a351ddfd45740c2960093cbd7c339be&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworking-parents-survey-moms-dads-efb84d7c9657c4b706460d2e928a59d6&amp;c=16296183739747519596&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 03:00:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Secretary of Defense Hegseth scolds NATO allies \u2014 again",
-        "link": "https://www.npr.org/2026/06/18/nx-s1-5862847/secretary-of-defense-hegseth-scolds-nato-allies-again",
-        "pubDate": "Thu, 18 Jun 2026 17:50:22 -0400",
+        "title": "A Miami art exhibit is celebrating Africa\u2019s soccer legacy throughout the World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a351ddfd45740c2960093cbd7c339be&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-africa-2026-cape-verde-316bc0897e9784dad93c5024c9239b08&amp;c=14001629242470449280&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 03:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump approval on Iran low even as tentative deal to end fighting emerged, new AP-NORC poll finds",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a351ddfd45740c2960093cbd7c339be&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpoll-trump-iran-economy-israel-7d7d79150f3da1cc28076604f8659b64&amp;c=12801878839118404123&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 02:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Starmer vows to fight as Burnham\u2019s win fuels a Labour leadership showdown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a351ddfd45740c2960093cbd7c339be&amp;url=https%3a%2f%2fapnews.com%2farticle%2fuk-makerfield-election-burnham-starmer-labour-434ca8a59d57e79590e9a38a31d6573e&amp;c=17438695547716184519&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 02:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Morocco star Achraf Hakimi will stand trial in a rape case, French appeals court confirms",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a351ddfd45740c2960093cbd7c339be&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhakimi-world-cup-trial-rape-psg-morocco-23a83548f23d923cc92c5a39080e9c2f&amp;c=16406806317395939535&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 02:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Vance\u2019s push to get Iran talks started hits an early bump as weekend negotiations are put on hold",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a351ddfd45740c2960093cbd7c339be&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvance-trump-iran-switzerland-aee3839175b47b0b469879cfb835dce7&amp;c=5224718544586234509&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 01:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Freed Israeli hostage Guy Gilboa-Dalal recounts sexual abuse in Gaza, urges victims to speak out",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a351ddfd45740c2960093cbd7c339be&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-palestinians-gaza-hamas-sexual-abuse-hostages-03b5603904dd5721ebf1b16fa4a983ad&amp;c=15823283901241321894&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 01:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Greece\u2019s Parthenon gets a facelift, revealing a look not seen for 220 years",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a351ddfd45740c2960093cbd7c339be&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgreece-acropolis-restoration-parthenon-tourism-da06640fcd747498613d31b64dac369a&amp;c=101357234072788871&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 01:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Olympian Jenny Simpson shows \u2018encouraging improvement\u2019 after collapsing at a Raleigh track event",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a351ddfd45740c2960093cbd7c339be&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjenny-simpson-olympics-track-bff58abb38aa232c4a1e69caffaec291&amp;c=7325399137497174914&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Jun 2026 14:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How many Americans can afford high-quality healthcare? A new poll finds the number has fallen",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a351e21130d409992cf1cb49cab2f00&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhealthcare-insurance-health-care-costs-poll-aca-7be286003eb3c0f4fdab515eb9de47ef&amp;c=8756286048055522451&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Jun 2026 10:47:00 GMT",
+        "category": "health"
+      }
+    ],
+    "npr": [
+      {
+        "title": "What you need to know about the preliminary U.S.-Iran agreement signed by Trump",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement",
+        "pubDate": "Fri, 19 Jun 2026 06:30:52 -0400",
         "category": "world"
       },
       {
-        "title": "U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking",
-        "link": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz",
-        "pubDate": "Thu, 18 Jun 2026 17:28:30 -0400",
-        "category": "Top News"
+        "title": "Some local police have access to an ICE facial recognition app",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5863058/homeland-security-local-police-facial-recognition-identify-immigrants",
+        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
+        "category": "us"
       },
       {
-        "title": "Student loan borrowers will get an interest rate cut if they sign up for auto pay",
-        "link": "https://www.npr.org/2026/06/18/nx-s1-5863085/student-loan-auto-pay-discount",
-        "pubDate": "Thu, 18 Jun 2026 13:28:44 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Read the full text of Trump&apos;s preliminary U.S.-Iran agreement to end the war",
-        "link": "https://www.npr.org/2026/06/18/nx-s1-5863027/us-iran-trump-memorandum-of-understanding-full-text",
-        "pubDate": "Thu, 18 Jun 2026 12:31:41 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
-        "link": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery",
-        "pubDate": "Thu, 18 Jun 2026 12:12:18 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Poll: Most Americans have the summer blues about Trump and the economy",
-        "link": "https://www.npr.org/2026/06/18/nx-s1-5861720/trump-economy-gas-prices-midterms-polling",
-        "pubDate": "Thu, 18 Jun 2026 05:00:00 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Researchers find malware that may have aimed to slow down Iran&apos;s nuclear program",
-        "link": "https://www.npr.org/2026/06/18/nx-s1-5861609/researchers-find-malware-that-may-have-aimed-to-slow-down-irans-nuclear-program",
-        "pubDate": "Thu, 18 Jun 2026 04:45:59 -0400",
+        "title": "Get with the times \u2014 here&apos;s what a &apos;Luddite&apos; means today",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai",
+        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
         "category": "tech"
+      },
+      {
+        "title": "It&apos;s toys vs. tech in &apos;Toy Story 5.&apos; Here are 4 ways to keep tech in check this summer",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5845874/toy-story-5-tech-social-media-screentime-summer-movie",
+        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "The U.S. may face Australia in the World Cup without star Christian Pulisic",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5863602/2026-fifa-world-cup-usmnt-australia",
+        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "How the 1874 Freedman&apos;s Bank collapse connects to economic disparities we see today",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5862645/how-the-1874-freedmans-bank-collapse-connects-to-economic-disparities-we-see-today",
+        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Why did the newly refurbished Reflecting Pool turn green? The quiz knows",
+        "link": "https://www.npr.org/2026/06/19/g-s1-128757/world-cup-trump-messi-ai-el-nino-newsom-news-quiz",
+        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Juneteenth: How news of the Emancipation Proclamation spread through the South",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5861779/juneteenth-emancipation-proclamation-lincoln-slavery-civil-war",
+        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Meet the law students working to bring workplace protections to federal courts",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5849913/meet-the-law-students-working-to-bring-workplace-protections-to-federal-courts",
+        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "These Wisconsin swing voters say Trump&apos;s war in Iran wasn&apos;t worth it",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5861751/wisconsin-focus-groups-iran-trump",
+        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
+        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Sir John Curtice: Burnham's win represents remarkable personal success for him",
-        "link": "https://www.bbc.com/news/articles/clyeg121g2zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 04:46:48 GMT",
+        "title": "New cancer care centres set to be built",
+        "link": "https://www.bbc.com/news/videos/cqj17v8kwg5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 10:31:52 GMT",
+        "category": "health"
+      },
+      {
+        "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
+        "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 09:55:45 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Plans to end gazumping with binding agreements in house sales shake-up",
+        "link": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 09:47:29 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Boy, 3, was attacked by crocodile at zoo as man bailed",
+        "link": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 09:42:24 GMT",
         "category": "Top News"
       },
       {
-        "title": "Burnham says 'this is a final chance to change' in his victory speech",
-        "link": "https://www.bbc.com/news/videos/cvg5drz91ego?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 04:35:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "In Trump's shadow, Vance becomes face of Iran deal",
-        "link": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 04:12:07 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Burnham says his win in Makerfield by-election could be turning point",
-        "link": "https://www.bbc.com/news/articles/c4gy72kmg1mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 04:04:50 GMT",
-        "category": "Top News"
+        "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+        "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 09:38:44 GMT",
+        "category": "world"
       },
       {
         "title": "Scottish Conservatives win first Westminster by-election in more than 50 years",
         "link": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 03:32:06 GMT",
+        "pubDate": "Fri, 19 Jun 2026 09:07:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What is Burnham's path to becoming Labour leader and PM?",
+        "link": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 08:38:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chris Mason: Emphatic win leaves Starmer with big decision on leadership",
+        "link": "https://www.bbc.com/news/articles/cqx1eq5e71zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 06:46:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sir John Curtice: Burnham's win against Reform represents remarkable personal success",
+        "link": "https://www.bbc.com/news/articles/clyeg121g2zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 04:46:48 GMT",
         "category": "Top News"
       },
       {
         "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
         "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 19 Jun 2026 01:34:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "The artificial ice pyramids saving India's mountain villages",
-        "link": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Jun 2026 23:11:07 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
-        "link": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Jun 2026 23:05:05 GMT",
-        "category": "business"
-      },
-      {
-        "title": "What Iran and US get from deal and why both could struggle to keep it",
-        "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
-        "link": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 18 Jun 2026 08:14:34 GMT",
-        "category": "health"
+        "category": "us"
       }
     ],
     "reuters": [],
