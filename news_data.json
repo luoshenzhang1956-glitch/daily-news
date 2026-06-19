@@ -1,38 +1,44 @@
 {
-  "updated_at": "2026-06-19T18:05:38.304246",
+  "updated_at": "2026-06-19T21:15:53.735366",
   "news": {
     "ap": [
       {
         "title": "Christian Pulisic to miss US World Cup match against Australia because of calf injury",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a358434ed284396aed3ece26e3123f5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpulisic-out-b6f56e725bff81703b5bfb7dd41255d5&amp;c=6433519925002306855&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Jun 2026 10:53:00 GMT",
-        "category": "world"
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a35b0e9882f452fa7576acf2713c19d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpulisic-out-b6f56e725bff81703b5bfb7dd41255d5&amp;c=6433519925002306855&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 11:47:00 GMT",
+        "category": "us"
       },
       {
         "title": "Diamondbacks play the Twins in first of 3-game series",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a35844ae7744f5da2db9ef49e981c9c&amp;url=https%3a%2f%2fapnews.com%2farticle%2farizona-diamondbacks-baseball-minnesota-twins-illinois-8662db1d1ec447efbfdedbd8f4413099&amp;c=7543205080325824339&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a35b0fc027b4d07a4f60db01c00e5e2&amp;url=https%3a%2f%2fapnews.com%2farticle%2farizona-diamondbacks-baseball-minnesota-twins-illinois-8662db1d1ec447efbfdedbd8f4413099&amp;c=7543205080325824339&amp;mkt=en-us",
         "pubDate": "Fri, 19 Jun 2026 01:02:00 GMT",
         "category": "tech"
       },
       {
         "title": "Doctor treating Ebola patients describes challenges health workers face at home and treatment center",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a35844bec0e4e24904b4856e416dc79&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fdoctor-treating-ebola-patients-describes-challenges-health-workers-face-at-home-and-treatment-center-2c47b02c62754a288c5c7d0c21e7118b&amp;c=11368291370552064401&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a35b0fe707d4e3593c83113adde75d8&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fdoctor-treating-ebola-patients-describes-challenges-health-workers-face-at-home-and-treatment-center-2c47b02c62754a288c5c7d0c21e7118b&amp;c=11368291370552064401&amp;mkt=en-us",
         "pubDate": "Fri, 19 Jun 2026 00:18:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "Asian shares retreat in thin holiday trading after a tech-led rally on Wall St",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a358443841e4401896923537fadeb1c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-rates-iran-oil-24b4d022fb308e6336ac45a2b191c009&amp;c=14744963160917855839&amp;mkt=en-us",
-        "pubDate": "Thu, 18 Jun 2026 23:26:00 GMT",
-        "category": "business"
       }
     ],
     "npr": [
       {
+        "title": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5864503/air-force-one-trump-qatar",
+        "pubDate": "Fri, 19 Jun 2026 17:01:21 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Trump and Italy&apos;s Giorgia Meloni used to be buds. But a rift is widening",
+        "link": "https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg",
+        "pubDate": "Fri, 19 Jun 2026 16:32:35 -0400",
+        "category": "world"
+      },
+      {
         "title": "Algae clouded Trump&apos;s vision for the Reflecting Pool. But scientists aren&apos;t surprised",
         "link": "https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump",
         "pubDate": "Fri, 19 Jun 2026 11:43:05 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Tick season is getting worse. Can managing deer help?",
@@ -44,7 +50,7 @@
         "title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
         "link": "https://www.npr.org/2026/06/19/g-s1-129076/up-first-newsletter-vice-president-vance-iran-agreement-obama-presidential-center-judicial-system-dhs-facial-recognition",
         "pubDate": "Fri, 19 Jun 2026 07:27:49 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "What you need to know about the preliminary U.S.-Iran agreement signed by Trump",
@@ -57,12 +63,6 @@
         "link": "https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai",
         "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Juneteenth: How news of the Emancipation Proclamation spread through the South",
-        "link": "https://www.npr.org/2026/06/19/nx-s1-5861779/juneteenth-emancipation-proclamation-lincoln-slavery-civil-war",
-        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
       },
       {
         "title": "It&apos;s toys vs. tech in &apos;Toy Story 5.&apos; Here are 4 ways to keep tech in check this summer",
@@ -81,15 +81,45 @@
         "link": "https://www.npr.org/2026/06/19/nx-s1-5860711/world-cup-america-tourists",
         "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Some local police have access to an ICE facial recognition app",
-        "link": "https://www.npr.org/2026/06/19/nx-s1-5863058/homeland-security-local-police-facial-recognition-identify-immigrants",
-        "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
+        "link": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 21:01:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What we know so far about Bedford train crash",
+        "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 20:44:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
+        "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 20:28:33 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "'Neither I nor Italy ever beg': Meloni says Trump made up story about photo",
+        "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 19:36:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+        "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 19:27:12 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Video shows scene of Bedford train crash as passenger describes aftermath",
+        "link": "https://www.bbc.com/news/videos/c8d21z2q77do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 19:21:10 GMT",
+        "category": "Top News"
+      },
       {
         "title": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon",
         "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&amp;at_campaign=rss",
@@ -103,46 +133,10 @@
         "category": "Top News"
       },
       {
-        "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
-        "link": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 14:34:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-        "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 13:42:47 GMT",
-        "category": "world"
-      },
-      {
-        "title": "'Neither I nor Italy ever beg': Meloni says Trump made up story about photo",
-        "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 13:42:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Historic by-election win sends message to Labour and SNP, says Badenoch",
-        "link": "https://www.bbc.com/news/articles/cn8q4p34qg4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 13:20:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-        "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 12:45:06 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Plans to end gazumping with binding agreements in house sales shake-up",
         "link": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 19 Jun 2026 11:41:14 GMT",
         "category": "business"
-      },
-      {
-        "title": "Why Morocco game could be greatest of all for Scotland",
-        "link": "https://www.bbc.com/sport/football/articles/cy04jqn90wko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 10:43:36 GMT",
-        "category": "Top News"
       },
       {
         "title": "Five tips to keep your kids cool this weekend",
@@ -151,14 +145,14 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Memory crisis hits such extremes that &apos;even Apple can&apos;t be safe&apos;",
-        "link": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
-        "pubDate": "Fri, 19 Jun 2026 12:00:02 GMT",
-        "category": "tech"
+        "title": "Gulf airlines get back to business as flights near pre-war levels",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a35b12db4a1484385fcff39d0d1f783&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fgulf-airlines-get-back-business-flights-near-pre-war-levels-2026-06-19%2f&amp;c=18133555900119230301&amp;mkt=en-us",
+        "pubDate": "Thu, 18 Jun 2026 21:16:00 GMT",
+        "category": "business"
       }
-    ]
+    ],
+    "markets": []
   }
 }
