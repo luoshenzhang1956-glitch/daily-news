@@ -1,26 +1,44 @@
 {
-  "updated_at": "2026-06-20T21:24:35.135038",
+  "updated_at": "2026-06-20T23:16:54.820555",
   "news": {
     "ap": [
       {
-        "title": "James Burrows, director of classic TV comedies including \u2018Cheers\u2019 and \u2018Friends,\u2019 dies at 85",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3704aa9ec24b0b8b0e363d69d3c2ba&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjames-burrows-obituary-80b0422bd2268e2aa8fb4b47755eda31&amp;c=3934649948626349392&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 10:11:00 GMT",
+        "title": "A top banker tried to sway Pope Leo XIV on rare earth mining",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371eca766e44c78797a8482bd62b69&amp;url=https%3a%2f%2fapnews.com%2farticle%2frare-earth-minerals-leo-mining-goldfajn-8a44b7e7f89fb84d77f2d6cf472d600d&amp;c=6483569291759849048&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 10:20:00 GMT",
         "category": "business"
       },
       {
-        "title": "Marlins look to keep home win streak alive, host the Giants",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3704ac8e604a1997130c2816c32dbf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsan-francisco-giants-miami-marlins-baseball-3a573f6474ab4f5aac735cd0845c64ea&amp;c=12078552868441629653&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 01:01:00 GMT",
-        "category": "tech"
+        "title": "Utah marks a year of battling measles, with no clear end in sight",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edd18c94116ab329b53c9ae57d2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeasles-utah-outbreak-mmr-vaccine-a38602421ad658dfff468d9df0175cdc&amp;c=13832539715535755199&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 06:00:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
       {
+        "title": "Don Gonyea&apos;s front-row seat to presidential history",
+        "link": "https://www.npr.org/2026/06/20/nx-s1-5863152/don-gonyeas-front-row-seat-to-presidential-history",
+        "pubDate": "Sat, 20 Jun 2026 17:51:46 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Israel&apos;s growing fight over Palestinian symbols",
+        "link": "https://www.npr.org/2026/06/20/nx-s1-5847843/israels-growing-fight-over-palestinian-symbols",
+        "pubDate": "Sat, 20 Jun 2026 17:51:06 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Flu outbreak tests new Pentagon vaccine policy",
+        "link": "https://www.npr.org/2026/06/20/nx-s1-5864519/flu-outbreak-tests-new-pentagon-vaccine-policy",
+        "pubDate": "Sat, 20 Jun 2026 17:43:04 -0400",
+        "category": "health"
+      },
+      {
         "title": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
         "link": "https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization",
         "pubDate": "Sat, 20 Jun 2026 16:33:14 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Opinion: Algae doesn&apos;t care about our party lines",
@@ -35,16 +53,10 @@
         "category": "business"
       },
       {
-        "title": "A top pulmonologist reviews advancements in the &apos;War on Cancer&apos; over the past 50 years",
-        "link": "https://www.npr.org/2026/06/20/nx-s1-5861690/a-top-pulmonologist-reviews-advancements-in-the-war-on-cancer-over-the-past-50-years",
-        "pubDate": "Sat, 20 Jun 2026 07:40:50 -0400",
-        "category": "health"
-      },
-      {
         "title": "These nuns spent a lifetime helping others. In their last years, who will help them?",
         "link": "https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice",
         "pubDate": "Sat, 20 Jun 2026 06:45:09 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland",
@@ -67,13 +79,19 @@
     ],
     "bbc": [
       {
+        "title": "Three men killed following fire in west London",
+        "link": "https://www.bbc.com/news/articles/c79yqrevgg1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 23:05:07 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Five injured in suspected anti-Muslim attacks after armed man roamed Edinburgh streets",
         "link": "https://www.bbc.com/news/articles/cx2xg6lwz5jo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Jun 2026 21:15:46 GMT",
         "category": "Top News"
       },
       {
-        "title": "Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon",
+        "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
         "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Jun 2026 21:11:57 GMT",
         "category": "world"
@@ -91,15 +109,15 @@
         "category": "Top News"
       },
       {
+        "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+        "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 15:31:12 GMT",
+        "category": "us"
+      },
+      {
         "title": "Nine people in critical condition among 100 injured in fatal Bedford train crash",
         "link": "https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Jun 2026 15:30:12 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why Harry Kane is different at this tournament",
-        "link": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Jun 2026 13:24:12 GMT",
         "category": "Top News"
       },
       {
@@ -119,38 +137,68 @@
         "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Jun 2026 01:10:51 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Trump unveils Qatari luxury jet for Air Force One fleet",
-        "link": "https://www.bbc.com/news/articles/cn8kz80n157o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 22:11:27 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "Israeli fire kills nine people in Gaza, including a child, medics say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3704d650d8410798041c764bb7f765&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-fire-kills-five-people-gaza-including-child-medics-say-2026-06-20%2f&amp;c=7931446592708999306&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 09:30:00 GMT",
-        "category": "health"
+        "title": "Report says UK PM Starmer ready to quit, but source says he is still focused on the job",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edfe390473ebfcb35beea1d6a54&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fuk-pm-starmer-expected-resign-monday-set-out-orderly-exit-observer-newspaper-2026-06-20%2f&amp;c=4964186213244286196&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 15:06:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Iranian Guards' business empire to win big if U.S. sanctions lifted",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3704d34d7a484c8cb17a1439574691&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firanian-guards-business-empire-win-big-if-us-sanctions-lifted-2026-06-20%2f&amp;c=13362018041389740651&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 03:42:00 GMT",
-        "category": "business"
+        "title": "Iran negotiators, Vance head for Switzerland but Lebanon fighting continues",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edfe390473ebfcb35beea1d6a54&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-envoy-iranian-minister-head-switzerland-talks-2026-06-20%2f&amp;c=8441051677813784415&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 14:01:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Carziqo Expands ER-MX Fleet Operations from Los Angeles to Austin",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3704d4292441cbae391d6c6aceb438&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fcarziqo-expands-er-mx-fleet-austin-2026-06-20%2f&amp;c=4284356371908382059&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 01:31:00 GMT",
-        "category": "tech"
+        "title": "Europe swelters under heatwave, France restricts alcohol consumption",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edfe390473ebfcb35beea1d6a54&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2feurope-swelters-under-heatwave-prompting-crisis-talks-france-2026-06-20%2f&amp;c=1741320621268442932&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 14:01:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Iran to lodge FIFA complaint over World Cup travel restrictions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3704d196e24e74a7b14a3b3e359455&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2firan-lodge-fifa-complaint-over-world-cup-travel-restrictions-2026-06-19%2f&amp;c=5441229429581446275&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 00:21:00 GMT",
-        "category": "world"
+        "title": "Blue Jays erase 5-run deficit to stun Cubs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edfe390473ebfcb35beea1d6a54&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fblue-jays-erase-5-run-deficit-stun-cubs--flm-2026-06-20%2f&amp;c=15535788756135359310&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 14:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thousands rally in Serbia's north to demand early elections",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edfe390473ebfcb35beea1d6a54&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fthousands-rally-serbias-north-demand-early-elections-2026-06-20%2f&amp;c=232007709036263184&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 13:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "German commission proposes older retirement age and state pension fund, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edfe390473ebfcb35beea1d6a54&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fgerman-commission-proposes-older-retirement-age-state-pension-fund-sources-say-2026-06-20%2f&amp;c=2885947839493292111&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 13:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Zelenskiy warns of impending massive Russian attack on Ukraine",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edfe390473ebfcb35beea1d6a54&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fzelenskiy-warns-impending-massive-russian-attack-ukraine-2026-06-20%2f&amp;c=4950096386935735006&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 13:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "England's Burn swaps football boots for cowboy boots during break between games",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edfe390473ebfcb35beea1d6a54&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fenglands-burn-swaps-football-boots-cowboy-boots-during-break-between-games-2026-06-20%2f&amp;c=5107995321243428765&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 13:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edfe390473ebfcb35beea1d6a54&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fone-killed-hundreds-evacuated-due-fire-hotel-dominican-republic-2026-06-19%2f&amp;c=3985947072440942027&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 07:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump tells Axios he no longer views Anthropic as national security threat",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a371edfe390473ebfcb35beea1d6a54&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-tells-axios-he-no-longer-views-anthropic-national-security-threat-2026-06-19%2f&amp;c=6570184575596665397&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 05:55:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
@@ -158,7 +206,13 @@
         "title": "SNAP restrictions could change what shoppers buy \u2014 and food giants are watching",
         "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
         "pubDate": "Sat, 20 Jun 2026 12:00:01 GMT",
-        "category": "health"
+        "category": "business"
+      },
+      {
+        "title": "AI buildout gives tech investors new reasons to watch bond market",
+        "link": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+        "pubDate": "Sat, 20 Jun 2026 12:00:01 GMT",
+        "category": "tech"
       }
     ]
   }
