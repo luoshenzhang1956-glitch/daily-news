@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-06-20T15:50:21.444961",
+  "updated_at": "2026-06-20T17:41:50.897187",
   "news": {
     "ap": [
       {
         "title": "An Israeli strike hits a Gaza City apartment, killing 2 children, Palestinian health officials say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b628c42240b0a64e15d555cf32d6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-palestinians-hamas-war-gaza-strike-f45ace109972b8c36364e7a75cc9bb7f&amp;c=9630574832152750830&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36d08b7e64451a82988792838c8612&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-palestinians-hamas-war-gaza-strike-f45ace109972b8c36364e7a75cc9bb7f&amp;c=9630574832152750830&amp;mkt=en-us",
         "pubDate": "Sat, 20 Jun 2026 03:43:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36d08aef9d4362b0dd8801d777482f&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25&amp;c=6022337752633765505&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 17:46:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
@@ -73,27 +79,39 @@
     ],
     "bbc": [
       {
+        "title": "Five injured in suspected anti-Muslim attacks after armed man roamed Edinburgh streets",
+        "link": "https://www.bbc.com/news/articles/cx2xg6lwz5jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 17:27:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+        "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 16:07:44 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Watch: BBC reports from the site as investigators give update",
+        "link": "https://www.bbc.com/news/videos/cp3xl7zw4gyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 15:51:46 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
         "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Jun 2026 15:31:12 GMT",
         "category": "Top News"
       },
       {
-        "title": "Extreme heat warning expanded as 36C heatwave approaches UK",
-        "link": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Jun 2026 13:41:51 GMT",
+        "title": "Nine people in critical condition among 100 injured in fatal Bedford train crash",
+        "link": "https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 15:30:12 GMT",
         "category": "Top News"
       },
       {
-        "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-        "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Jun 2026 13:23:40 GMT",
-        "category": "world"
-      },
-      {
-        "title": "What we know so far about the collision and emergency response",
-        "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Jun 2026 12:15:27 GMT",
+        "title": "Extreme heat warning expanded as 36C heatwave approaches UK",
+        "link": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 13:41:51 GMT",
         "category": "Top News"
       },
       {
@@ -109,12 +127,6 @@
         "category": "business"
       },
       {
-        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Jun 2026 10:19:34 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "New video game console aims to get kids moving",
         "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Jun 2026 01:10:51 GMT",
@@ -125,76 +137,59 @@
         "link": "https://www.bbc.com/news/articles/cn8kz80n157o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 19 Jun 2026 22:11:27 GMT",
         "category": "us"
-      },
-      {
-        "title": "Minimum age of 11 set for UK puberty blocker trial",
-        "link": "https://www.bbc.com/news/articles/c892p2qdjjxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 16:18:49 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fone-killed-hundreds-evacuated-due-fire-hotel-dominican-republic-2026-06-19%2f&amp;c=3985947072440942027&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 07:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Vance expects Iran talks soon, as Guards say Hormuz is closed again",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-envoy-iranian-minister-head-switzerland-talks-2026-06-20%2f&amp;c=8441051677813784415&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 07:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Massive fire tears through Dominican Republic beach resort",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW086920062026RP1%2f&amp;c=9849619859718312980&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 07:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump tells Axios he no longer views Anthropic as national security threat",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-tells-axios-he-no-longer-views-anthropic-national-security-threat-2026-06-19%2f&amp;c=6570184575596665397&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 05:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Italy's Meloni says Trump 'totally invented' story that she begged him for photo",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fmeloni-fights-back-after-trump-tells-italian-tv-she-begged-photo-with-him-g7-2026-06-19%2f&amp;c=15829904214697640138&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 05:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Israeli strikes kill 16 in Lebanon hours after ceasefire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fleast-five-killed-israeli-strikes-south-lebanon-despite-ceasefire-2026-06-20%2f&amp;c=738505703076795133&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 04:24:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Switzerland says US-Iran talks continue at B&#252;rgenstock, declines to identify participants",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b636663446af8992345948a366ca&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fswitzerland-says-us-iran-talks-continue-brgenstock-declines-identify-2026-06-20%2f&amp;c=6181153162665511610&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36d0a072274d33a133e8fed819691f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fswitzerland-says-us-iran-talks-continue-brgenstock-declines-identify-2026-06-20%2f&amp;c=6181153162665511610&amp;mkt=en-us",
         "pubDate": "Sat, 20 Jun 2026 03:44:00 GMT",
         "category": "us"
       },
       {
         "title": "Iranian Guards' business empire to win big if U.S. sanctions lifted",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firanian-guards-business-empire-win-big-if-us-sanctions-lifted-2026-06-20%2f&amp;c=13362018041389740651&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36d0a1c36343e58835e7602883f2b5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firanian-guards-business-empire-win-big-if-us-sanctions-lifted-2026-06-20%2f&amp;c=13362018041389740651&amp;mkt=en-us",
         "pubDate": "Sat, 20 Jun 2026 03:42:00 GMT",
-        "category": "Top News"
+        "category": "business"
       },
       {
-        "title": "Toronto beer prices a test for German fans at World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b634e56e4a9eabac5aa79005b2cc&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ftoronto-beer-prices-test-german-fans-world-cup-2026-06-20%2f&amp;c=14129864423912828352&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Jun 2026 19:04:00 GMT",
+        "title": "Iran to lodge FIFA complaint over World Cup travel restrictions",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36d09eca854082a9b552b16919c616&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2firan-lodge-fifa-complaint-over-world-cup-travel-restrictions-2026-06-19%2f&amp;c=5441229429581446275&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 00:21:00 GMT",
+        "category": "world"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
+        "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+        "pubDate": "Sat, 20 Jun 2026 17:28:52 GMT",
         "category": "world"
       },
       {
-        "title": "With Lebanon ceasefire set, Trump envoy heads to Switzerland for U.S.-Iran talks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-iran-peace-talks-postponed-clouding-prospects-lasting-truce-2026-06-19%2f&amp;c=4026772521562216502&amp;mkt=en-us",
-        "pubDate": "Fri, 19 Jun 2026 15:49:00 GMT",
+        "title": "Bitcoin&apos;s future as revolutionary as the smartphone, according to CoinDesk",
+        "link": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
+        "pubDate": "Sat, 20 Jun 2026 15:00:01 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "AI buildout gives tech investors new reasons to watch bond market",
+        "link": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+        "pubDate": "Sat, 20 Jun 2026 12:00:01 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "SNAP restrictions could change what shoppers buy \u2014 and food giants are watching",
+        "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
+        "pubDate": "Sat, 20 Jun 2026 12:00:01 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Five top tech stocks with major upside, Bank of America says",
+        "link": "https://www.cnbc.com/2026/06/20/five-top-tech-stocks-with-major-upside-bank-of-america-says.html",
+        "pubDate": "Sat, 20 Jun 2026 11:00:47 GMT",
+        "category": "us"
       }
-    ],
-    "markets": []
+    ]
   }
 }
