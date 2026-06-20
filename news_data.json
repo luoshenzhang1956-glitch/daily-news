@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-06-20T12:04:39.844378",
+  "updated_at": "2026-06-20T15:50:21.444961",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "An Israeli strike hits a Gaza City apartment, killing 2 children, Palestinian health officials say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b628c42240b0a64e15d555cf32d6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-palestinians-hamas-war-gaza-strike-f45ace109972b8c36364e7a75cc9bb7f&amp;c=9630574832152750830&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 03:43:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Opinion: Algae doesn&apos;t care about our party lines",
+        "link": "https://www.npr.org/2026/06/20/nx-s1-5854977/opinion-algae-doesnt-care-about-our-party-lines",
+        "pubDate": "Sat, 20 Jun 2026 08:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Here is how SpaceX could turn up in your current investments",
         "link": "https://www.npr.org/2026/06/20/nx-s1-5860047/here-is-how-spacex-could-turn-up-in-your-current-investments",
@@ -28,7 +41,7 @@
         "category": "world"
       },
       {
-        "title": "Fighting persists in Lebanon despite a ceasefire as  U.S.-Iran deal is under threat",
+        "title": "Iran says Strait of Hormuz shut as US-Iran talks set for Sunday in Switzerland",
         "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
         "pubDate": "Sat, 20 Jun 2026 06:02:05 -0400",
         "category": "Top News"
@@ -40,7 +53,7 @@
         "category": "Top News"
       },
       {
-        "title": "Shot by ICE and still in pain. LA detainee highlights gaps in DHS oversight",
+        "title": "A California man&apos;s case highlights gaps in care and oversight at DHS detention centers",
         "link": "https://www.npr.org/2026/06/20/nx-s1-5855064/richard-la-parias-ice-detention",
         "pubDate": "Sat, 20 Jun 2026 05:00:00 -0400",
         "category": "Top News"
@@ -56,15 +69,33 @@
         "link": "https://www.npr.org/2026/06/19/nx-s1-5864503/air-force-one-trump-qatar",
         "pubDate": "Fri, 19 Jun 2026 17:01:21 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Italy&apos;s Meloni, once Trump&apos;s closest ally in Europe, says he made up a story about her",
-        "link": "https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg",
-        "pubDate": "Fri, 19 Jun 2026 16:32:35 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+        "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 15:31:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Extreme heat warning expanded as 36C heatwave approaches UK",
+        "link": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 13:41:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+        "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 13:23:40 GMT",
+        "category": "world"
+      },
+      {
+        "title": "What we know so far about the collision and emergency response",
+        "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 12:15:27 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Talk of Starmer staying on to fight is fading - fast",
         "link": "https://www.bbc.com/news/articles/cjeg7p5w4y9o?at_medium=RSS&amp;at_campaign=rss",
@@ -72,27 +103,15 @@
         "category": "Top News"
       },
       {
+        "title": "Money Box",
+        "link": "https://www.bbc.co.uk/sounds/play/m002xzly?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 20 Jun 2026 11:30:00 GMT",
+        "category": "business"
+      },
+      {
         "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
         "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 20 Jun 2026 10:19:34 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-        "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Jun 2026 08:53:53 GMT",
-        "category": "world"
-      },
-      {
-        "title": "'People flew from their seats': Passengers describe how collision unfolded",
-        "link": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Jun 2026 08:36:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Flawed but relentless Scotland show themselves as men of substance",
-        "link": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Jun 2026 01:41:52 GMT",
         "category": "Top News"
       },
       {
@@ -102,57 +121,80 @@
         "category": "tech"
       },
       {
-        "title": "Popping a cocktail of supplements every day might be doing you more harm than good",
-        "link": "https://www.bbc.com/news/articles/cd6e25lpwxzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 20 Jun 2026 00:46:56 GMT",
-        "category": "Top News"
+        "title": "Trump unveils Qatari luxury jet for Air Force One fleet",
+        "link": "https://www.bbc.com/news/articles/cn8kz80n157o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 19 Jun 2026 22:11:27 GMT",
+        "category": "us"
       },
       {
         "title": "Minimum age of 11 set for UK puberty blocker trial",
         "link": "https://www.bbc.com/news/articles/c892p2qdjjxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 19 Jun 2026 16:18:49 GMT",
         "category": "health"
-      },
-      {
-        "title": "O'Leary extends Ryanair contract in deal that could net him over \u00a3130m",
-        "link": "https://www.bbc.com/news/articles/c4gyejpy221o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 15:27:27 GMT",
-        "category": "business"
-      },
-      {
-        "title": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon",
-        "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 19 Jun 2026 15:16:39 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "Israeli fire kills five people in Gaza, including a child, medics say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3681a4f67d4365992b46ba569089f8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-fire-kills-five-people-gaza-including-child-medics-say-2026-06-20%2f&amp;c=7931446592708999306&amp;mkt=en-us",
-        "pubDate": "Sat, 20 Jun 2026 03:05:00 GMT",
-        "category": "health"
-      }
-    ],
-    "markets": [
-      {
-        "title": "SNAP restrictions could change what shoppers buy \u2014 and food giants are watching",
-        "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
-        "pubDate": "Sat, 20 Jun 2026 12:00:01 GMT",
-        "category": "business"
+        "title": "Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fone-killed-hundreds-evacuated-due-fire-hotel-dominican-republic-2026-06-19%2f&amp;c=3985947072440942027&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 07:18:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Five top tech stocks with major upside, Bank of America says",
-        "link": "https://www.cnbc.com/2026/06/20/five-top-tech-stocks-with-major-upside-bank-of-america-says.html",
-        "pubDate": "Sat, 20 Jun 2026 11:00:47 GMT",
+        "title": "Vance expects Iran talks soon, as Guards say Hormuz is closed again",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftrump-envoy-iranian-minister-head-switzerland-talks-2026-06-20%2f&amp;c=8441051677813784415&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 07:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Massive fire tears through Dominican Republic beach resort",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW086920062026RP1%2f&amp;c=9849619859718312980&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 07:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump tells Axios he no longer views Anthropic as national security threat",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-tells-axios-he-no-longer-views-anthropic-national-security-threat-2026-06-19%2f&amp;c=6570184575596665397&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 05:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Italy's Meloni says Trump 'totally invented' story that she begged him for photo",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fmeloni-fights-back-after-trump-tells-italian-tv-she-begged-photo-with-him-g7-2026-06-19%2f&amp;c=15829904214697640138&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 05:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Israeli strikes kill 16 in Lebanon hours after ceasefire",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fleast-five-killed-israeli-strikes-south-lebanon-despite-ceasefire-2026-06-20%2f&amp;c=738505703076795133&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 04:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Switzerland says US-Iran talks continue at B&#252;rgenstock, declines to identify participants",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b636663446af8992345948a366ca&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fswitzerland-says-us-iran-talks-continue-brgenstock-declines-identify-2026-06-20%2f&amp;c=6181153162665511610&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 03:44:00 GMT",
         "category": "us"
       },
       {
-        "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
-        "link": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
-        "pubDate": "Fri, 19 Jun 2026 23:00:29 GMT",
+        "title": "Iranian Guards' business empire to win big if U.S. sanctions lifted",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firanian-guards-business-empire-win-big-if-us-sanctions-lifted-2026-06-20%2f&amp;c=13362018041389740651&amp;mkt=en-us",
+        "pubDate": "Sat, 20 Jun 2026 03:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Toronto beer prices a test for German fans at World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b634e56e4a9eabac5aa79005b2cc&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ftoronto-beer-prices-test-german-fans-world-cup-2026-06-20%2f&amp;c=14129864423912828352&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 19:04:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "With Lebanon ceasefire set, Trump envoy heads to Switzerland for U.S.-Iran talks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a36b631ba2044fa8fec1bce87619049&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-iran-peace-talks-postponed-clouding-prospects-lasting-truce-2026-06-19%2f&amp;c=4026772521562216502&amp;mkt=en-us",
+        "pubDate": "Fri, 19 Jun 2026 15:49:00 GMT",
+        "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
