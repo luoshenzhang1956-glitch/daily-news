@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-06-23T16:31:44.205160",
+  "updated_at": "2026-06-23T20:15:38.585822",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Is AI &apos;one big bubble?&apos; Behind the tech selloff",
+        "link": "https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq",
+        "pubDate": "Tue, 23 Jun 2026 15:31:54 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Portugal&apos;s Ronaldo shakes off World Cup doubters, scores 2 after sluggish start",
+        "link": "https://www.npr.org/2026/06/23/nx-s1-5867692/2026-world-cup-fifa-cristiano-ronaldo-goal",
+        "pubDate": "Tue, 23 Jun 2026 14:59:56 -0400",
+        "category": "us"
+      },
+      {
         "title": "A Revolutionary War soldier&apos;s DNA links him to living relatives",
         "link": "https://www.npr.org/2026/06/23/nx-s1-5866455/revolutionary-war-continental-army-camden-south-carolina-maryland",
         "pubDate": "Tue, 23 Jun 2026 11:59:35 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
@@ -22,10 +34,16 @@
         "category": "Top News"
       },
       {
+        "title": "Who would pay for Trump&apos;s proposed $300 billion Iran reconstruction fund?",
+        "link": "https://www.npr.org/2026/06/23/nx-s1-5866577/iran-trump-deal-300-billion-obama",
+        "pubDate": "Tue, 23 Jun 2026 06:51:02 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "When falling housing prices are good news \u2014 and when they&apos;re not",
         "link": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not",
         "pubDate": "Tue, 23 Jun 2026 06:30:00 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
@@ -44,27 +62,27 @@
         "link": "https://www.npr.org/2026/06/23/nx-s1-5861754/supreme-court-compassionate-release-impact",
         "pubDate": "Tue, 23 Jun 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "People fired over Charlie Kirk posts get big payouts for First Amendment retaliation",
-        "link": "https://www.npr.org/2026/06/23/nx-s1-5856300/charlie-kirk-assassination-jobs-social-media-payouts-fired-first-amendment-settlements",
-        "pubDate": "Tue, 23 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "As Republican Party looks to future without Trump in office, Utah could be a road map",
-        "link": "https://www.npr.org/2026/06/23/nx-s1-5835675/utah-republican-party-maga-america-first",
-        "pubDate": "Tue, 23 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Lebanese struggle to get by in an ancient city under Israeli evacuation order",
-        "link": "https://www.npr.org/2026/06/23/g-s1-128783/lebanon-israel-tyre-hezbollah-war",
-        "pubDate": "Tue, 23 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+        "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 20:01:32 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Meta halts worker tracking for AI training due to privacy fears",
+        "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 17:51:30 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Hundreds of schools plan closures ahead of red heat alerts",
+        "link": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 16:30:59 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
         "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&amp;at_campaign=rss",
@@ -72,10 +90,10 @@
         "category": "world"
       },
       {
-        "title": "Millions in UK could claim share of \u00a33bn after Apple case given green light",
-        "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 15:01:40 GMT",
-        "category": "tech"
+        "title": "Starmer holds talks with Burnham as he seeks 'orderly' transition",
+        "link": "https://www.bbc.co.uk/news/articles/c2eyj7j4evko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 15:59:22 GMT",
+        "category": "Top News"
       },
       {
         "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
@@ -88,24 +106,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Jun 2026 14:19:21 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "World Cup 2026: Will England fans in Boston follow Scotland's lead?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c8x2rev41ydo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 13:52:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stop pretending EU's new border system is working, says airports chief",
-        "link": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 13:39:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ransom note claims Nancy Guthrie died after abduction",
-        "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 13:27:12 GMT",
-        "category": "us"
       },
       {
         "title": "Peter Murrell jailed for more than five years for embezzling SNP funds",
@@ -127,6 +127,19 @@
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
+        "link": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
+        "pubDate": "Tue, 23 Jun 2026 18:56:13 GMT",
+        "category": "us"
+      },
+      {
+        "title": "How Europe is grappling with extreme heat as red alerts issued in Britain, France, Spain and Italy",
+        "link": "https://www.cnbc.com/2026/06/23/extreme-heat-wave-europe-weather-climate.html",
+        "pubDate": "Tue, 23 Jun 2026 09:28:57 GMT",
+        "category": "health"
+      }
+    ]
   }
 }
