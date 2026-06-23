@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-06-22T22:10:17.479685",
+  "updated_at": "2026-06-23T04:05:08.894264",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "50 years on, an EPA time capsule at the Kennedy Space Center remains a mystery",
-        "link": "https://www.npr.org/2026/06/22/nx-s1-5854633/50-years-on-an-epa-time-capsule-at-the-kennedy-space-center-remains-a-mystery",
-        "pubDate": "Mon, 22 Jun 2026 17:10:10 -0400",
+        "title": "Trump&apos;s Forest Service says it&apos;s fully staffed as fires erupt in the West",
+        "link": "https://www.npr.org/2026/06/22/nx-s1-5866801/trumps-forest-service-says-its-fully-staffed-as-fires-erupt-in-the-west",
+        "pubDate": "Mon, 22 Jun 2026 19:20:45 -0400",
         "category": "us"
+      },
+      {
+        "title": "A federal judge finds a Trump data system to verify voters is unlawful",
+        "link": "https://www.npr.org/2026/06/22/nx-s1-5866719/save-voter-data-trump-judge-unlawful",
+        "pubDate": "Mon, 22 Jun 2026 18:25:21 -0400",
+        "category": "Top News"
       },
       {
         "title": "A look at the science that&apos;s been lost on long COVID",
@@ -52,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies",
-        "link": "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies",
-        "pubDate": "Mon, 22 Jun 2026 07:53:51 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "AI and tech are trying to influence the midterm elections",
         "link": "https://www.npr.org/2026/06/22/nx-s1-5856359/ai-anthropic-congress-spending-openai-midterms-election",
         "pubDate": "Mon, 22 Jun 2026 05:00:00 -0400",
@@ -66,21 +66,57 @@
     ],
     "bbc": [
       {
-        "title": "What does Trump want from a new UK prime minister?",
-        "link": "https://www.bbc.com/news/videos/c2kyz2eqxwvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Jun 2026 21:51:37 GMT",
+        "title": "Can you refuse to work or send your kids to school during a heatwave?",
+        "link": "https://www.bbc.com/news/articles/c6217nv34rro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 03:38:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Labour MPs mull leadership challenge to prevent Burnham 'coronation'",
+        "link": "https://www.bbc.com/news/articles/cx2kqd9ver1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 02:57:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ransom note claims Nancy Guthrie died after abduction",
+        "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 01:59:39 GMT",
         "category": "us"
       },
       {
-        "title": "Analysis: Everything points to Burnham becoming PM within weeks",
-        "link": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Jun 2026 21:11:38 GMT",
+        "title": "First drug to delay onset of type 1 diabetes made available on NHS",
+        "link": "https://www.bbc.com/news/articles/ce8mzd94r76o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Jun 2026 23:44:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+        "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Jun 2026 23:07:45 GMT",
+        "category": "world"
+      },
+      {
+        "title": "UK set for hottest June day on record as searing heat continues",
+        "link": "https://www.bbc.com/weather/articles/c0myl4d3l0no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Jun 2026 23:03:59 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Millions of iCloud users could claim share of \u00a33bn after Apple case given UK green light",
+        "link": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Jun 2026 23:02:33 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Chris Mason: Questions multiply for the man tipped to replace Starmer",
+        "link": "https://www.bbc.com/news/articles/cn8k4kyrdn5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 22 Jun 2026 22:43:29 GMT",
         "category": "Top News"
       },
       {
         "title": "Tesla crash that killed a woman under US federal investigation",
         "link": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Jun 2026 21:06:50 GMT",
+        "pubDate": "Mon, 22 Jun 2026 22:20:07 GMT",
         "category": "business"
       },
       {
@@ -88,58 +124,9 @@
         "link": "https://www.bbc.com/news/articles/cvg5njnn8k8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 22 Jun 2026 20:30:41 GMT",
         "category": "health"
-      },
-      {
-        "title": "Man charged with terrorism-linked attempted murders after alleged anti-Muslim attacks in Edinburgh",
-        "link": "https://www.bbc.com/news/articles/cx2x9j1en29o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Jun 2026 18:28:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: A day of big changes and mixed emotions for Labour",
-        "link": "https://www.bbc.com/news/videos/cze9rj6d7rgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Jun 2026 18:26:07 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why did Starmer resign and what could happen next?",
-        "link": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Jun 2026 16:44:17 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-        "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Jun 2026 15:57:46 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Vance says Iran will allow nuclear inspectors back into the country",
-        "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Jun 2026 14:18:19 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
-        "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 22 Jun 2026 13:54:20 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Nvidia&apos;s stock struggles as Kalshi traders bet chip prices are coming down",
-        "link": "https://www.cnbc.com/2026/06/22/nvidias-stock-struggles-as-kalshi-traders-bet-chip-prices-are-coming-down.html",
-        "pubDate": "Mon, 22 Jun 2026 20:09:04 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Vance hails &apos;great progress&apos; in U.S.-Iran talks despite &apos;threatening&apos; and &apos;whining&apos;",
-        "link": "https://www.cnbc.com/2026/06/22/vance-iran-ceasefire-talks-iaea-inspectors.html",
-        "pubDate": "Mon, 22 Jun 2026 15:17:42 GMT",
-        "category": "world"
-      }
-    ]
+    "markets": []
   }
 }
