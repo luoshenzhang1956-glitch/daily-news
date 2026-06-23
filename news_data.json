@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-06-23T12:39:29.268547",
+  "updated_at": "2026-06-23T16:31:44.205160",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "A Revolutionary War soldier&apos;s DNA links him to living relatives",
+        "link": "https://www.npr.org/2026/06/23/nx-s1-5866455/revolutionary-war-continental-army-camden-south-carolina-maryland",
+        "pubDate": "Tue, 23 Jun 2026 11:59:35 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
+        "link": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations",
+        "pubDate": "Tue, 23 Jun 2026 11:34:44 -0400",
+        "category": "world"
+      },
+      {
         "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
         "link": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
         "pubDate": "Tue, 23 Jun 2026 07:17:26 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "When falling housing prices are good news \u2014 and when they&apos;re not",
@@ -16,16 +28,10 @@
         "category": "business"
       },
       {
-        "title": "Iran&apos;s president heads to Pakistan as U.S.-Iran teams work on war-ending deal",
+        "title": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
         "link": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
         "pubDate": "Tue, 23 Jun 2026 05:29:01 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "How Trump&apos;s &apos;Complete and Total Endorsement&apos; has reshaped the Republican Party",
-        "link": "https://www.npr.org/2026/06/23/nx-s1-5863542/trump-endorsements-primary-runoff-general",
-        "pubDate": "Tue, 23 Jun 2026 05:00:00 -0400",
-        "category": "us"
       },
       {
         "title": "Trouble getting weight loss drugs covered by insurance? Here&apos;s what to know",
@@ -34,19 +40,13 @@
         "category": "health"
       },
       {
-        "title": "Lebanese struggle to get by in an ancient city under Israeli evacuation order",
-        "link": "https://www.npr.org/2026/06/23/g-s1-128783/lebanon-israel-tyre-hezbollah-war",
-        "pubDate": "Tue, 23 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "This man is a bus driver and grandfather. A Supreme Court ruling could reimprison him",
         "link": "https://www.npr.org/2026/06/23/nx-s1-5861754/supreme-court-compassionate-release-impact",
         "pubDate": "Tue, 23 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "After losing jobs for posting about Charlie Kirk, some are getting 6-figure payouts",
+        "title": "People fired over Charlie Kirk posts get big payouts for First Amendment retaliation",
         "link": "https://www.npr.org/2026/06/23/nx-s1-5856300/charlie-kirk-assassination-jobs-social-media-payouts-fired-first-amendment-settlements",
         "pubDate": "Tue, 23 Jun 2026 05:00:00 -0400",
         "category": "Top News"
@@ -58,9 +58,9 @@
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/06/23/nx-s1-5863512/morning-news-brief",
-        "pubDate": "Tue, 23 Jun 2026 04:43:39 -0400",
+        "title": "Lebanese struggle to get by in an ancient city under Israeli evacuation order",
+        "link": "https://www.npr.org/2026/06/23/g-s1-128783/lebanon-israel-tyre-hezbollah-war",
+        "pubDate": "Tue, 23 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       }
     ],
@@ -68,19 +68,49 @@
       {
         "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
         "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 12:32:50 GMT",
+        "pubDate": "Tue, 23 Jun 2026 16:27:17 GMT",
         "category": "world"
+      },
+      {
+        "title": "Millions in UK could claim share of \u00a33bn after Apple case given green light",
+        "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 15:01:40 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+        "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 14:55:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
+        "link": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 14:19:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "World Cup 2026: Will England fans in Boston follow Scotland's lead?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c8x2rev41ydo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 13:52:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stop pretending EU's new border system is working, says airports chief",
+        "link": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 13:39:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ransom note claims Nancy Guthrie died after abduction",
+        "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 23 Jun 2026 13:27:12 GMT",
+        "category": "us"
       },
       {
         "title": "Peter Murrell jailed for more than five years for embezzling SNP funds",
         "link": "https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 23 Jun 2026 12:29:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-        "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 12:14:58 GMT",
         "category": "Top News"
       },
       {
@@ -90,36 +120,6 @@
         "category": "business"
       },
       {
-        "title": "Steam Machine launches with \u00a3879 price tag as Valve cites component costs",
-        "link": "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 11:25:54 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-        "link": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 11:10:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Can you keep your kids off school or refuse to work during a heatwave?",
-        "link": "https://www.bbc.co.uk/news/articles/c6217nv34rro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 09:58:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ransom note claims Nancy Guthrie died after abduction",
-        "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 08:10:56 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Is watching football bad for your health? I tested my body to find out",
-        "link": "https://www.bbc.co.uk/news/articles/cgjxy199d9do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 23 Jun 2026 04:30:14 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "First drug to delay onset of type 1 diabetes made available on NHS",
         "link": "https://www.bbc.co.uk/news/articles/ce8mzd94r76o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 22 Jun 2026 23:44:41 GMT",
@@ -127,31 +127,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Here are Tuesday&apos;s biggest analyst calls: SpaceX, Micron, Nvidia, Tesla, IBM, Broadcom, Target, Netflix &amp; more",
-        "link": "https://www.cnbc.com/2026/06/23/tuesday-biggest-analyst-calls-like-spacex-on-wall-street.html",
-        "pubDate": "Tue, 23 Jun 2026 12:29:12 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Tech rout intensifies as sell-off grips global stocks",
-        "link": "https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html",
-        "pubDate": "Tue, 23 Jun 2026 11:30:30 GMT",
-        "category": "world"
-      },
-      {
-        "title": "How Europe is grappling with extreme heat as red alerts issued in Britain, France, Spain and Italy",
-        "link": "https://www.cnbc.com/2026/06/23/extreme-heat-wave-europe-weather-climate.html",
-        "pubDate": "Tue, 23 Jun 2026 09:28:57 GMT",
-        "category": "health"
-      },
-      {
-        "title": "&apos;Reward for failure&apos;: Investor support for Target Chair Brian Cornell falls to lowest level ever",
-        "link": "https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html",
-        "pubDate": "Mon, 22 Jun 2026 17:55:37 GMT",
-        "category": "business"
-      }
-    ]
+    "markets": []
   }
 }
