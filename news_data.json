@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T21:28:59.408780",
+  "updated_at": "2026-06-24T23:12:28.433769",
   "news": {
     "ap": [],
     "npr": [
@@ -58,13 +58,31 @@
         "category": "world"
       },
       {
-        "title": "Why are crisis pregnancy centers saying they can &apos;rule out&apos; ectopic pregnancy?",
-        "link": "https://www.npr.org/2026/06/24/nx-s1-5860744/crisis-pregnancy-centers-ectopic-abortion",
+        "title": "Inside the gold-mining town where the Ebola outbreak likely started",
+        "link": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis",
         "pubDate": "Wed, 24 Jun 2026 05:00:00 -0400",
         "category": "health"
       }
     ],
     "bbc": [
+      {
+        "title": "I've spent 30 years in recruitment - this is how to get a job",
+        "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 24 Jun 2026 23:06:16 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Trump cancels signing of landmark bipartisan bill aimed at lowering housing costs",
+        "link": "https://www.bbc.co.uk/news/articles/cn4dwz5vz5lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 24 Jun 2026 22:20:11 GMT",
+        "category": "us"
+      },
+      {
+        "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+        "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 24 Jun 2026 21:39:18 GMT",
+        "category": "world"
+      },
       {
         "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
         "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&amp;at_campaign=rss",
@@ -78,34 +96,16 @@
         "category": "Top News"
       },
       {
-        "title": "Trump cancels signing of landmark bipartisan bill aimed at lowering housing costs",
-        "link": "https://www.bbc.co.uk/news/articles/cn4dwz5vz5lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 24 Jun 2026 18:35:47 GMT",
-        "category": "us"
-      },
-      {
         "title": "Baroness Mone among individuals sued to recover PPE Medpro millions",
         "link": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 24 Jun 2026 17:32:22 GMT",
         "category": "business"
       },
       {
-        "title": "Power outages hit France as it records hottest day since measurements began",
-        "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 24 Jun 2026 17:29:55 GMT",
-        "category": "world"
-      },
-      {
         "title": "'From excitement to emptiness': Families affected by largest NHS maternity scandal tell their stories",
         "link": "https://www.bbc.co.uk/news/articles/cgepllq9npvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 24 Jun 2026 15:10:03 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
-        "link": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 24 Jun 2026 15:00:34 GMT",
-        "category": "tech"
       },
       {
         "title": "King meets women's cricket team that is not allowed to exist",
@@ -127,31 +127,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
-        "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
-        "pubDate": "Wed, 24 Jun 2026 21:25:43 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Buy Verizon over Alphabet if a history of Dow changes is any guide",
-        "link": "https://www.cnbc.com/2026/06/24/buy-verizon-over-alphabet-if-a-history-of-dow-changes-is-any-guide.html",
-        "pubDate": "Wed, 24 Jun 2026 20:01:44 GMT",
-        "category": "us"
-      },
-      {
-        "title": "This life sciences stock has a secret weapon, and AI will only make it more valuable",
-        "link": "https://www.cnbc.com/2026/06/24/this-life-sciences-stock-has-a-secret-weapon-and-ai-will-only-make-it-more-valuable.html",
-        "pubDate": "Wed, 24 Jun 2026 18:05:14 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Oil tankers with 35 million barrels stuck in Persian Gulf exited Strait of Hormuz since Iran deal",
-        "link": "https://www.cnbc.com/2026/06/24/oil-tanker-strait-hormuz-iran-deal.html",
-        "pubDate": "Wed, 24 Jun 2026 17:06:30 GMT",
-        "category": "world"
-      }
-    ]
+    "markets": []
   }
 }
