@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-06-24T19:56:18.970869",
+  "updated_at": "2026-06-24T21:28:59.408780",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Camp Mystic files for bankruptcy almost a year after catastrophic Texas floods",
+        "link": "https://www.npr.org/2026/06/24/nx-s1-5869363/camp-mystic-files-for-bankruptcy-almost-a-year-after-catastrophic-texas-floods",
+        "pubDate": "Wed, 24 Jun 2026 17:06:02 -0400",
+        "category": "us"
+      },
+      {
+        "title": "U.S. military works on building a better meal for the troops",
+        "link": "https://www.npr.org/2026/06/24/nx-s1-5859270/u-s-military-works-on-building-a-better-meal-for-the-troops",
+        "pubDate": "Wed, 24 Jun 2026 16:29:53 -0400",
+        "category": "tech"
+      },
       {
         "title": "Meta plans to release AI-powered prediction market app, documents show",
         "link": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai",
@@ -40,31 +52,25 @@
         "category": "Top News"
       },
       {
-        "title": "Star Fox Review: Can&apos;t quite teach an old Fox new tricks",
-        "link": "https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2",
-        "pubDate": "Wed, 24 Jun 2026 08:00:00 -0400",
-        "category": "tech"
-      },
-      {
         "title": "Greetings from sweltering Switzerland",
         "link": "https://www.npr.org/2026/06/24/nx-s1-5867606/lucerne-switzerland-world-cup-heat",
         "pubDate": "Wed, 24 Jun 2026 07:55:49 -0400",
         "category": "world"
       },
       {
-        "title": "5 years after the Surfside condo collapse, the toll of the tragedy remains",
-        "link": "https://www.npr.org/2026/06/24/nx-s1-5791536/surfside-condo-collapse-families-responders-five-years-later",
-        "pubDate": "Wed, 24 Jun 2026 05:00:00 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Inside the gold-mining town where the Ebola outbreak likely started",
-        "link": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis",
+        "title": "Why are crisis pregnancy centers saying they can &apos;rule out&apos; ectopic pregnancy?",
+        "link": "https://www.npr.org/2026/06/24/nx-s1-5860744/crisis-pregnancy-centers-ectopic-abortion",
         "pubDate": "Wed, 24 Jun 2026 05:00:00 -0400",
         "category": "health"
       }
     ],
     "bbc": [
+      {
+        "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+        "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 24 Jun 2026 20:04:52 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Babies and mothers died after 'systemic and sustained' failings, largest NHS maternity review finds",
         "link": "https://www.bbc.co.uk/news/articles/c1kyw24elv7o?at_medium=RSS&amp;at_campaign=rss",
@@ -108,12 +114,6 @@
         "category": "Top News"
       },
       {
-        "title": "Train passed red signal before fatal crash, says report",
-        "link": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 24 Jun 2026 13:09:44 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Why this heatwave feels worse than the last one",
         "link": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 24 Jun 2026 12:24:39 GMT",
@@ -129,15 +129,15 @@
     "reuters": [],
     "markets": [
       {
-        "title": "Qualcomm announces AI data center CPU, signs Meta as first major customer",
-        "link": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
-        "pubDate": "Wed, 24 Jun 2026 19:03:44 GMT",
-        "category": "tech"
+        "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+        "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+        "pubDate": "Wed, 24 Jun 2026 21:25:43 GMT",
+        "category": "business"
       },
       {
         "title": "Buy Verizon over Alphabet if a history of Dow changes is any guide",
         "link": "https://www.cnbc.com/2026/06/24/buy-verizon-over-alphabet-if-a-history-of-dow-changes-is-any-guide.html",
-        "pubDate": "Wed, 24 Jun 2026 18:55:25 GMT",
+        "pubDate": "Wed, 24 Jun 2026 20:01:44 GMT",
         "category": "us"
       },
       {
@@ -147,10 +147,10 @@
         "category": "health"
       },
       {
-        "title": "Toyota gains on General Motors in new U.S. sales forecast: &apos;GM may be looking over their shoulder&apos;",
-        "link": "https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html",
-        "pubDate": "Wed, 24 Jun 2026 16:39:43 GMT",
-        "category": "business"
+        "title": "Oil tankers with 35 million barrels stuck in Persian Gulf exited Strait of Hormuz since Iran deal",
+        "link": "https://www.cnbc.com/2026/06/24/oil-tanker-strait-hormuz-iran-deal.html",
+        "pubDate": "Wed, 24 Jun 2026 17:06:30 GMT",
+        "category": "world"
       }
     ]
   }
