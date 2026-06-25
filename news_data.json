@@ -1,12 +1,43 @@
 {
-  "updated_at": "2026-06-25T09:34:14.404807",
+  "updated_at": "2026-06-25T12:27:26.900657",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "What\u2019s offside? And all your other World Cup questions, answered",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e449c9f4300912e1d4694449f30&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-whats-offside-9dc0ca3b2ee1d2b9761498687b532a0c&amp;c=14998163749334023921&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 05:02:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "New Mexico governor calls for criminal probe of DEA allowing fentanyl shipments to hit streets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e50648f4a8fbd402225da9eaeff&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffentanyl-dea-drugs-new-mexico-cb997b0097bba3ee9d5a98272ae65401&amp;c=13031440435074394587&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 03:30:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Americans are inundated with suspected scams. New polling shows why few victims report them",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e4ea23f4e3e9b599e2c0f8a7cc3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpoll-scams-law-enforcement-social-media-389f8d824b89fa434c297729f2aaf56d&amp;c=644161142564534859&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Jun 2026 23:06:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US Congress welcomes Taiwan\u2019s parliamentary leader to Washington, affirms support for the island",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e4ddf9749758d6591e43b2c8f5d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhan-kuoyu-taiwan-congress-china-tech-trump-70f1bed4dff61859126f517f458b7a5b&amp;c=33046360958503155&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Jun 2026 23:05:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "US stocks end mixed, weighed down by more losses for tech giants",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e4f37d04089a8d64f0e0a04a71c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-ai-us-iran-oil-b631564d3b359644eda586b047c9bcf0&amp;c=16134347844163381560&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Jun 2026 14:36:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
-        "title": "&apos;They can kill you&apos;: Immigrants fear a surge in xenophobic violence in South Africa",
-        "link": "https://www.npr.org/2026/06/25/nx-s1-5866241/they-can-kill-you-immigrants-fear-a-surge-in-xenophobic-violence-in-south-africa",
-        "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
+        "title": "2 earthquakes in Venezuela kill at least 164. And, Trump cancels housing bill signing",
+        "link": "https://www.npr.org/2026/06/25/g-s1-130184/up-first-newsletter-venezuela-earthquakes-trump-senate-tensions-chris-donahue",
+        "pubDate": "Thu, 25 Jun 2026 07:09:35 -0400",
         "category": "world"
       },
       {
@@ -16,14 +47,20 @@
         "category": "us"
       },
       {
-        "title": "4 surprising things to know about abortion in America since Dobbs",
-        "link": "https://www.npr.org/2026/06/25/nx-s1-5869560/abortion-dobbs-roe-rights-restrictions-anniversary-update",
+        "title": "How to find middle ground when your partner wants kids \u2014 and you don&apos;t",
+        "link": "https://www.npr.org/2026/06/25/nx-s1-5758051/how-to-find-middle-ground-when-your-partner-wants-kids-and-you-dont",
         "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
         "category": "health"
       },
       {
-        "title": "How to find middle ground when your partner wants kids \u2014 and you don&apos;t",
-        "link": "https://www.npr.org/2026/06/25/nx-s1-5758051/how-to-find-middle-ground-when-your-partner-wants-kids-and-you-dont",
+        "title": "4 surprising things to know about abortion in America since Dobbs",
+        "link": "https://www.npr.org/2026/06/25/nx-s1-5869560/abortion-dobbs-roe-rights-restrictions-anniversary-update",
+        "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "&apos;They can kill you&apos;: Immigrants fear a surge in xenophobic violence in South Africa",
+        "link": "https://www.npr.org/2026/06/25/nx-s1-5866241/they-can-kill-you-immigrants-fear-a-surge-in-xenophobic-violence-in-south-africa",
         "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -34,21 +71,15 @@
         "category": "Top News"
       },
       {
-        "title": "Norman Rockwell art that ignited a lawsuit and a love story is now on public view",
-        "link": "https://www.npr.org/2026/06/25/nx-s1-5859276/norman-rockwell-so-you-want-to-see-the-president",
-        "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Eager for a break, farmers don&apos;t expect much relief after the Iran peace deal",
         "link": "https://www.npr.org/2026/06/25/nx-s1-5867650/farmers-fertilizer-prices-iran-trump",
         "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/06/25/nx-s1-5869201/morning-news-brief",
-        "pubDate": "Thu, 25 Jun 2026 04:46:16 -0400",
+        "title": "When going to &apos;camp&apos; meant Roman military lodgings \u2014 not summer fun",
+        "link": "https://www.npr.org/2026/06/25/nx-s1-5863153/camp-word-history-military",
+        "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
@@ -66,10 +97,34 @@
     ],
     "bbc": [
       {
+        "title": "Ryanair says it will reluctantly let parents sit with children for free",
+        "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 25 Jun 2026 12:08:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chaos after building collapses on Caracas outskirts",
+        "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 25 Jun 2026 12:08:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How brands banned from the World Cup became the story",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 25 Jun 2026 10:53:31 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
         "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 09:07:25 GMT",
+        "pubDate": "Thu, 25 Jun 2026 10:48:09 GMT",
         "category": "world"
+      },
+      {
+        "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+        "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 25 Jun 2026 10:04:43 GMT",
+        "category": "tech"
       },
       {
         "title": "Jail time and unlimited fines planned under conversion practices ban",
@@ -78,39 +133,15 @@
         "category": "Top News"
       },
       {
-        "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-        "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 07:47:54 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Bodies found in 'advanced deterioration' at under-fire trust",
-        "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 07:16:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Reeves backs Burnham to become next prime minister",
-        "link": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 05:00:07 GMT",
+        "title": "Oil price falls back to pre-Iran war levels",
+        "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 25 Jun 2026 07:34:55 GMT",
         "category": "business"
-      },
-      {
-        "title": "Trump describes Burnham as 'the mayor of a town' and 'extremely liberal'",
-        "link": "https://www.bbc.co.uk/news/videos/cly81w5g1qwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 04:30:07 GMT",
-        "category": "Top News"
       },
       {
         "title": "How to cope in a heatwave - according to you",
         "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 25 Jun 2026 00:18:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "link": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 24 Jun 2026 23:40:47 GMT",
         "category": "Top News"
       },
       {
@@ -126,67 +157,80 @@
         "category": "us"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Thousands feared dead after two major earthquakes strike Venezuela",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e52318e4894b7513b25e6f4ac62&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fthousands-feared-dead-after-two-major-earthquakes-strike-venezuela-2026-06-25%2f&amp;c=15987890238234172462&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 04:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rubio wraps up Gulf tour as allies share concerns over Iran peace accord",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e52318e4894b7513b25e6f4ac62&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2frubio-visits-bahrain-seeking-gulf-backing-iran-deal-2026-06-25%2f&amp;c=9971438670811040362&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 03:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tech stocks surge as Micron earnings ease AI fears, oil falls further",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e52318e4894b7513b25e6f4ac62&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-wrapup-1-2026-06-25%2f&amp;c=14485611937155156676&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 03:49:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Live: Back-to-back Venezuela earthquakes kill 164, USGS fears thousands more dead",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e52318e4894b7513b25e6f4ac62&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fvenezuela-earthquake-live-high-casualties-likely-after-two-strong-quakes-2026-06-25%2f&amp;c=6589099566834617318&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 03:34:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nasdaq futures surge 2% as chip outlook calms AI jitters; inflation data awaited",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e52318e4894b7513b25e6f4ac62&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnasdaq-futures-jump-2-micron-qualcomm-forecasts-relieve-investors-2026-06-25%2f&amp;c=1958885468901360704&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 03:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iraq warns it might leave OPEC if oil quota not raised, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e52318e4894b7513b25e6f4ac62&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2firaq-consider-all-options-if-opec-quota-is-not-raised-has-weighed-exit-sources-2026-06-25%2f&amp;c=10888000230506629398&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 03:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "McCormick tops estimates as economic uncertainty drives demand for condiments",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e52318e4894b7513b25e6f4ac62&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fmccormick-tops-quarterly-sales-profit-estimates-2026-06-25%2f&amp;c=17590008342405879421&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 03:23:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "ITF becomes World Tennis, outlines vision to grow participation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e549c27438cad7d20d165598594&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ftennis%2fitf-becomes-world-tennis-outlines-vision-grow-participation-2026-06-25%2f&amp;c=5699758187082417590&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 03:03:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trump seeks more than $1.4 billion in Ebola funding from Congress",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e52318e4894b7513b25e6f4ac62&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2ftrump-seeks-more-than-14-billion-ebola-funding-congress-2026-06-24%2f&amp;c=160991961588537866&amp;mkt=en-us",
+        "pubDate": "Thu, 25 Jun 2026 02:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US appeals court rejects Trump bid to force Michigan to hand over voter rolls",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3d1e5b9aa3441eb9a99dd64349c6c0&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-appeals-court-rejects-trump-bid-force-michigan-hand-over-voter-rolls-2026-06-24%2f&amp;c=11912504157782714110&amp;mkt=en-us",
+        "pubDate": "Wed, 24 Jun 2026 12:29:00 GMT",
+        "category": "us"
+      }
+    ],
     "markets": [
       {
-        "title": "Micron stock jumps over 16% in premarket trading after blockbuster earnings",
-        "link": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
-        "pubDate": "Thu, 25 Jun 2026 09:26:17 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Investors still seek a human touch even with AI tools at hand: HSBC",
-        "link": "https://www.cnbc.com/2026/06/25/investors-still-seek-a-human-touch-even-with-ai-tools-at-hand-hsbc-.html",
-        "pubDate": "Thu, 25 Jun 2026 03:22:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Thursday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/06/24/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Thu, 25 Jun 2026 00:05:01 GMT",
+        "title": "Micron topped lofty earnings expectations. Wall Street sees even more momentum as chipmaker announces a slew of deals",
+        "link": "https://www.cnbc.com/2026/06/25/micron-reported-strong-earnings-street-sees-more-momentum-on-deals.html",
+        "pubDate": "Thu, 25 Jun 2026 12:23:34 GMT",
         "category": "us"
-      },
-      {
-        "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
-        "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
-        "pubDate": "Wed, 24 Jun 2026 21:42:05 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
-        "link": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
-        "pubDate": "Wed, 24 Jun 2026 21:19:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New meme stock Wendy&apos;s soars more than 25% with trading halted at one point",
-        "link": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
-        "pubDate": "Wed, 24 Jun 2026 20:29:22 GMT",
-        "category": "Top News"
       },
       {
         "title": "This life sciences stock has a secret weapon, and AI will only make it more valuable",
         "link": "https://www.cnbc.com/2026/06/24/this-life-sciences-stock-has-a-secret-weapon-and-ai-will-only-make-it-more-valuable.html",
         "pubDate": "Wed, 24 Jun 2026 18:05:14 GMT",
         "category": "health"
-      },
-      {
-        "title": "CFTC sues Kentucky over prediction markets enforcement actions; first &apos;red state&apos; to face such\u00a0 lawsuit",
-        "link": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
-        "pubDate": "Wed, 24 Jun 2026 15:23:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kalshi CEO says prediction market thinking about IPO, but not for this year",
-        "link": "https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html",
-        "pubDate": "Wed, 24 Jun 2026 13:42:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Cerebras, Micron, FedEx, Wendy&apos;s &amp; more",
-        "link": "https://www.cnbc.com/2026/06/24/stocks-making-the-biggest-moves-premarket-cbrs-mu-fdx-wen.html",
-        "pubDate": "Wed, 24 Jun 2026 11:41:25 GMT",
-        "category": "Top News"
       }
     ]
   }
