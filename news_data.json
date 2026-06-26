@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-06-25T23:25:23.497395",
+  "updated_at": "2026-06-26T04:13:56.107785",
   "news": {
-    "ap": [
-      {
-        "title": "Vermont becomes the first state to ban paraquat, a weedkiller widely used in US agriculture",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db8606702407b8517bd328433beec&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fvermont-becomes-the-first-state-to-ban-paraquat-a-weedkiller-widely-used-in-us-agriculture-1c7af5bc143f4b63a09288fe588a2417&amp;c=10892333602745532541&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 13:29:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "How major US stock indexes fared Thursday 6/25/2026",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db86e5b27498a854804a248294d91&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwall-street-stocks-dow-nasdaq-18741e4dabafb7a44b41231159f10599&amp;c=8804301982827469699&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 13:22:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "What made the deadly Venezuelan earthquakes different",
@@ -79,39 +66,51 @@
     ],
     "bbc": [
       {
+        "title": "Red heat warning for south-east after UK sees warmest day of year",
+        "link": "https://www.bbc.co.uk/news/articles/crlw2xgrp3xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 03:52:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+        "link": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 03:24:12 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+        "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 02:18:04 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Boy, 14, charged with murder after body found in search for girl in south Wales",
+        "link": "https://www.bbc.co.uk/news/articles/cwyd1w958jzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 02:08:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chris Mason: The anatomy of the prime minister's downfall",
+        "link": "https://www.bbc.co.uk/news/articles/ckg8kkdx7l9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 00:38:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Warning over power bank fire risk on flights as summer holidays begin",
+        "link": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 25 Jun 2026 23:28:13 GMT",
+        "category": "business"
+      },
+      {
         "title": "Teens who hacked TfL were known to police years before cyber-attack",
         "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 25 Jun 2026 23:19:48 GMT",
         "category": "tech"
       },
       {
-        "title": "UK braced for hottest June night after 36.7C reached on warmest day of year",
-        "link": "https://www.bbc.co.uk/news/articles/crlw2xgrp3xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 23:06:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Yes, there have been rows but here's how I've made moving back home work",
-        "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 23:03:48 GMT",
-        "category": "business"
-      },
-      {
         "title": "King Charles reveals he paid \u00a312.9m in tax for 2024-25",
         "link": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 25 Jun 2026 22:07:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Home Office plan to use more military bases to house asylum seekers",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjm61lkl4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 21:33:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
-        "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 21:27:06 GMT",
         "category": "Top News"
       },
       {
@@ -121,98 +120,43 @@
         "category": "Top News"
       },
       {
-        "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-        "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 18:43:14 GMT",
-        "category": "us"
-      },
-      {
         "title": "Consultants and specialist doctors begin strike action over pay",
         "link": "https://www.bbc.co.uk/news/articles/c14y72vkv3yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 25 Jun 2026 18:26:34 GMT",
         "category": "health"
-      },
-      {
-        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-        "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 13:09:58 GMT",
-        "category": "world"
       }
     ],
-    "reuters": [
-      {
-        "title": "Latin America's 10 deadliest earthquakes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db882d91a41d1b213c314b2ddb9ac&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2flatin-americas-10-deadliest-earthquakes-2026-06-25%2f&amp;c=9867783707273844677&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 14:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "BHP-backed I-Pulse wins $250 million US CHIPS award for silicon-carbide semiconductors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db89425cc4842889fb5828079ebf8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fbhp-backed-i-pulse-wins-250-million-us-chips-award-silicon-carbide-2026-06-25%2f&amp;c=9111567794850456067&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 14:14:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Trump notifies Congress of Turkey engine sale",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db882d91a41d1b213c314b2ddb9ac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-notifies-congress-turkey-engine-sale-2026-06-25%2f&amp;c=4500446020985072247&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 14:13:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wall St ends mixed as tech megacap declines outweigh upbeat chip outlook",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db882d91a41d1b213c314b2ddb9ac&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnasdaq-futures-jump-2-micron-qualcomm-forecasts-relieve-investors-2026-06-25%2f&amp;c=1958885468901360704&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 14:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "House speaker to send housing bill to White House, Axios says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db882d91a41d1b213c314b2ddb9ac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fhouse-speaker-send-housing-bill-white-house-axios-says-2026-06-25%2f&amp;c=1199826997836420327&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 13:39:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Supreme Court scales back Roundup cancer suits in win for Bayer",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db882d91a41d1b213c314b2ddb9ac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-supreme-court-scales-back-roundup-cancer-lawsuits-2026-06-25%2f&amp;c=14990684415811956163&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 13:22:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Venezuela races to rescue hundreds trapped in rubble after major twin earthquakes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db882d91a41d1b213c314b2ddb9ac&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fthousands-feared-dead-after-two-major-earthquakes-strike-venezuela-2026-06-25%2f&amp;c=15987890238234172462&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 13:13:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US cranks up pressure on China EVs with Polestar ban",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db897a52647d88a6af64a32fa8751&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fus-denies-polestar-authorization-sell-vehicles-latest-strike-against-china-made-2026-06-25%2f&amp;c=468016957307443650&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 12:49:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Top bankruptcy attorney Sprayregen to join US law firm Paul Weiss",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db882d91a41d1b213c314b2ddb9ac&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2ftop-bankruptcy-attorney-sprayregen-join-us-law-firm-paul-weiss-2026-06-25%2f&amp;c=16260396427527446713&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 12:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Germany's Merck boosts life sciences business with $11 billion bet on Bio-Techne",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a3db8969057470baaf1e7d732376486&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fgermanys-merck-buy-bio-techne-73-per-share-2026-06-25%2f&amp;c=934331975453594407&amp;mkt=en-us",
-        "pubDate": "Thu, 25 Jun 2026 07:12:00 GMT",
-        "category": "business"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "S&amp;P 500 futures are little changed as index heads for losing week: Live updates",
-        "link": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
-        "pubDate": "Thu, 25 Jun 2026 23:11:40 GMT",
-        "category": "world"
+        "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
+        "link": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html",
+        "pubDate": "Thu, 25 Jun 2026 21:03:16 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Small-caps are booming this year. Here are some of Wall Street&apos;s top smaller picks",
-        "link": "https://www.cnbc.com/2026/06/25/small-caps-are-booming-this-year-here-are-wall-streets-top-picks-.html",
-        "pubDate": "Thu, 25 Jun 2026 21:26:04 GMT",
-        "category": "us"
+        "title": "Wendy&apos;s turns lower as meme rally fails to extend to a second day",
+        "link": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
+        "pubDate": "Thu, 25 Jun 2026 20:27:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
+        "link": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
+        "pubDate": "Thu, 25 Jun 2026 19:34:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: BlackBerry, Kymera Therapeutics, Apple, Wendy&apos;s &amp; more",
+        "link": "https://www.cnbc.com/2026/06/25/stocks-making-the-biggest-moves-midday-bb-kymr-aapl-wen.html",
+        "pubDate": "Thu, 25 Jun 2026 18:25:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bond ETF flows surge in hunt for yield: &apos;Market sniffing out something here,&apos; says BlackRock exec",
+        "link": "https://www.cnbc.com/2026/06/25/inflation-fed-bond-etf-flows-surge-blackrock.html",
+        "pubDate": "Thu, 25 Jun 2026 17:29:00 GMT",
+        "category": "Top News"
       }
     ]
   }
