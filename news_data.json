@@ -1,29 +1,35 @@
 {
-  "updated_at": "2026-06-26T09:40:14.251056",
+  "updated_at": "2026-06-26T12:18:14.371237",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum",
+        "link": "https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers",
+        "pubDate": "Fri, 26 Jun 2026 07:22:46 -0400",
+        "category": "world"
+      },
+      {
         "title": "&apos;We are with you, Venezuela&apos;: Houston community rallies after deadly earthquakes",
         "link": "https://www.npr.org/2026/06/26/nx-s1-5871147/venezuela-houston-earthquake-katy",
         "pubDate": "Fri, 26 Jun 2026 05:30:00 -0400",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "How well do you know your Reflecting Pool news? Because the quiz will test you",
         "link": "https://www.npr.org/2026/06/26/g-s1-129799/fair-trump-tarp-fda-starmer-meta-viking-news-quiz",
         "pubDate": "Fri, 26 Jun 2026 05:01:00 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Ex-NOAA employees re-create a valuable climate data site shut down by Trump",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge",
-        "pubDate": "Fri, 26 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
         "title": "Trump axed a Black history exhibit. Former park rangers are teaching it anyway.",
         "link": "https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history",
+        "pubDate": "Fri, 26 Jun 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Ex-NOAA employees re-create a valuable climate data site shut down by Trump",
+        "link": "https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge",
         "pubDate": "Fri, 26 Jun 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -34,27 +40,21 @@
         "category": "Top News"
       },
       {
+        "title": "&apos;There was a lot of love&apos;: Man remembers his gay parents who died in the AIDS crisis",
+        "link": "https://www.npr.org/2026/06/26/nx-s1-5866780/there-was-a-lot-of-love-man-remembers-his-gay-parents-who-died-in-the-aids-crisis",
+        "pubDate": "Fri, 26 Jun 2026 04:44:01 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Venezuela reels from earthquakes as rescuers scramble to find survivors",
         "link": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas",
         "pubDate": "Fri, 26 Jun 2026 02:41:51 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Reflecting Pool liner was cut with a sharp knife or razor, National Park Service says",
         "link": "https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says",
         "pubDate": "Fri, 26 Jun 2026 02:15:52 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel",
-        "pubDate": "Fri, 26 Jun 2026 01:36:59 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "King Charles III will not live at Buckingham Palace after its costly refurbishment",
-        "link": "https://www.npr.org/2026/06/26/g-s1-130347/king-charles-buckingham-palace",
-        "pubDate": "Fri, 26 Jun 2026 01:04:54 -0400",
         "category": "Top News"
       },
       {
@@ -68,7 +68,25 @@
       {
         "title": "King and Queen will not live in Buckingham Palace after renovations",
         "link": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 09:21:40 GMT",
+        "pubDate": "Fri, 26 Jun 2026 11:01:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Even young and fit urged to skip runs and too many beers in heatwave",
+        "link": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 10:24:26 GMT",
+        "category": "health"
+      },
+      {
+        "title": "The abundant but expensive energy source that's under your feet",
+        "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 10:12:42 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Watch: Moment woman pulled from rubble alive",
+        "link": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 10:06:11 GMT",
         "category": "Top News"
       },
       {
@@ -78,16 +96,10 @@
         "category": "Top News"
       },
       {
-        "title": "Boy, 14, charged with murder after body found in search for girl in south Wales",
-        "link": "https://www.bbc.co.uk/news/articles/cwyd1w958jzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 05:28:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Is laughter really the best medicine?",
-        "link": "https://www.bbc.co.uk/news/videos/c74y1wn09n3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 05:27:32 GMT",
-        "category": "health"
+        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+        "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 06:16:01 GMT",
+        "category": "us"
       },
       {
         "title": "New bodycam footage shows Henry Nowak killer's arrest and repeated lies to police",
@@ -96,22 +108,10 @@
         "category": "Top News"
       },
       {
-        "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
-        "link": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 03:24:12 GMT",
+        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+        "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 02:12:07 GMT",
         "category": "world"
-      },
-      {
-        "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-        "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 02:18:04 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Chris Mason: The anatomy of the prime minister's downfall",
-        "link": "https://www.bbc.co.uk/news/articles/ckg8kkdx7l9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 00:38:18 GMT",
-        "category": "Top News"
       },
       {
         "title": "Power banks and vapes now biggest fire risk on planes",
@@ -120,13 +120,56 @@
         "category": "business"
       },
       {
-        "title": "Teens who hacked TfL were known to police years before cyber-attack",
-        "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 23:19:48 GMT",
-        "category": "tech"
+        "title": "I'm back at home again after uni - here's how I'm making it work",
+        "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 25 Jun 2026 23:03:48 GMT",
+        "category": "Top News"
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch",
+        "link": "https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html",
+        "pubDate": "Fri, 26 Jun 2026 12:00:11 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
+        "link": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html",
+        "pubDate": "Fri, 26 Jun 2026 12:00:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Sandisk, On Semiconductor, Rocket Lab &amp; more",
+        "link": "https://www.cnbc.com/2026/06/26/stocks-making-the-biggest-moves-premarket-sndk-on-rkl.html",
+        "pubDate": "Fri, 26 Jun 2026 11:39:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
+        "link": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html",
+        "pubDate": "Thu, 25 Jun 2026 21:03:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wendy&apos;s turns lower as meme rally fails to extend to a second day",
+        "link": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
+        "pubDate": "Thu, 25 Jun 2026 20:27:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
+        "link": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
+        "pubDate": "Thu, 25 Jun 2026 19:34:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bond ETF flows surge in hunt for yield: &apos;Market sniffing out something here,&apos; says BlackRock exec",
+        "link": "https://www.cnbc.com/2026/06/25/inflation-fed-bond-etf-flows-surge-blackrock.html",
+        "pubDate": "Thu, 25 Jun 2026 17:29:00 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
