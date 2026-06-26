@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-06-26T16:23:52.162953",
+  "updated_at": "2026-06-26T20:00:36.708158",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "U.S. pledges generous earthquake relief to Venezuela",
+        "link": "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
+        "pubDate": "Fri, 26 Jun 2026 13:42:40 -0400",
+        "category": "health"
+      },
       {
         "title": "World Cup fans are missing games after their resale tickets fall through",
         "link": "https://www.npr.org/2026/06/26/nx-s1-5871397/world-cup-tickets-stubhub-resale-controversy",
@@ -56,25 +62,31 @@
         "link": "https://www.npr.org/2026/06/26/nx-s1-5870683/venezuela-earthquakes-rescue-efforts",
         "pubDate": "Fri, 26 Jun 2026 06:56:46 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "&apos;We are with you, Venezuela&apos;: Houston community rallies after deadly earthquakes",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5871147/venezuela-houston-earthquake-katy",
-        "pubDate": "Fri, 26 Jun 2026 05:30:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Man who punched female police officers at Manchester Airport jailed",
-        "link": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 16:21:03 GMT",
+        "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+        "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 19:40:07 GMT",
         "category": "Top News"
       },
       {
-        "title": "How transparent are the royals being about money?",
-        "link": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 15:03:39 GMT",
+        "title": "Mother dies saving daughter in Venezuela earthquakes",
+        "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 18:36:32 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+        "link": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 18:03:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man who punched female police officers at Manchester Airport jailed",
+        "link": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 16:47:10 GMT",
         "category": "Top News"
       },
       {
@@ -90,7 +102,7 @@
         "category": "Top News"
       },
       {
-        "title": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
+        "title": "Rainbow flags await Egypt and Iran at awkward Pride Match",
         "link": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 26 Jun 2026 11:20:11 GMT",
         "category": "us"
@@ -108,18 +120,6 @@
         "category": "tech"
       },
       {
-        "title": "Watch: Moment woman pulled from rubble alive",
-        "link": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 10:06:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-        "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 02:12:07 GMT",
-        "category": "world"
-      },
-      {
         "title": "I'm back at home again after uni - here's how I'm making it work",
         "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 25 Jun 2026 23:03:48 GMT",
@@ -127,25 +127,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships",
-        "link": "https://www.cnbc.com/2026/06/26/trump-iran-ceasefire-strait-of-hormuz.html",
-        "pubDate": "Fri, 26 Jun 2026 16:17:28 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Citi cuts tech stock weighting: &apos;Difficult to see how everyone in AI/Tech path wins&apos;",
-        "link": "https://www.cnbc.com/2026/06/26/citi-cuts-tech-stock-weighting-difficult-to-see-how-everyone-in-ai/tech-path-wins.html",
-        "pubDate": "Fri, 26 Jun 2026 16:05:43 GMT",
-        "category": "us"
-      },
-      {
-        "title": "The brands winning with World Cup advertising may not be the sponsors",
-        "link": "https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html",
-        "pubDate": "Fri, 26 Jun 2026 12:30:01 GMT",
-        "category": "business"
-      }
-    ]
+    "markets": []
   }
 }
