@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-06-26T21:28:53.117053",
+  "updated_at": "2026-06-26T23:15:26.537299",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
+        "link": "https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums",
+        "pubDate": "Fri, 26 Jun 2026 18:54:23 -0400",
+        "category": "health"
+      },
       {
         "title": "A day after Alito&apos;s testy response to Sotomayor&apos;s dissent, court says it was a &apos;misunderstanding&apos;",
         "link": "https://www.npr.org/2026/06/26/nx-s1-5872721/supreme-court-alito-sotomayor",
@@ -14,6 +20,12 @@
         "link": "https://www.npr.org/2026/06/26/nx-s1-5872204/u-s-pledges-generous-earthquake-relief-to-venezuela",
         "pubDate": "Fri, 26 Jun 2026 16:49:59 -0400",
         "category": "world"
+      },
+      {
+        "title": "It&apos;s not just Cape Verde: African soccer is having a World Cup moment",
+        "link": "https://www.npr.org/2026/06/26/nx-s1-5867404/2026-world-cup-fifa-africa-cape-verde-senegal-morocco-congo",
+        "pubDate": "Fri, 26 Jun 2026 16:49:57 -0400",
+        "category": "Top News"
       },
       {
         "title": "She posted about ICE. Five months later, DHS agents told her to take her post down",
@@ -46,25 +58,49 @@
         "category": "Top News"
       },
       {
-        "title": "John Bolton, former Trump national security adviser, pleads guilty in classified documents case",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5871292/john-bolton-national-security-classified-documents",
-        "pubDate": "Fri, 26 Jun 2026 11:00:18 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Australia plans to strengthen laws banning children from social media",
         "link": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
         "pubDate": "Fri, 26 Jun 2026 09:09:30 -0400",
         "category": "tech"
-      },
-      {
-        "title": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
-        "link": "https://www.npr.org/2026/06/26/g-s1-130372/south-korean-ex-first-lady-sentenced-to-7-years-for-bribery-scandal",
-        "pubDate": "Fri, 26 Jun 2026 09:03:20 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
+        "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 23:03:04 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+        "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 23:01:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three unusual things about the King's tax bill",
+        "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 23:00:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 22:57:30 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
+        "link": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 22:30:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump threatens 100% tariff on European nations over tech tax",
+        "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 21:29:38 GMT",
+        "category": "business"
+      },
       {
         "title": "Venezuela earthquakes kill 920 people as families desperate for news",
         "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&amp;at_campaign=rss",
@@ -72,10 +108,10 @@
         "category": "world"
       },
       {
-        "title": "US conducts strikes on Iran after attack on cargo ship",
-        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 21:05:16 GMT",
-        "category": "us"
+        "title": "Conservatives offer tax incentive as part of 50,000 reservist pledge",
+        "link": "https://www.bbc.co.uk/news/articles/c9v219gx79wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 26 Jun 2026 21:00:56 GMT",
+        "category": "Top News"
       },
       {
         "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
@@ -84,49 +120,20 @@
         "category": "Top News"
       },
       {
-        "title": "Mother dies saving daughter in Venezuela earthquakes",
-        "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 18:36:32 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Man who punched female police officers at Manchester Airport jailed",
-        "link": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 16:47:10 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Canada eligible to join Eurovision competition",
-        "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 13:41:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
-        "link": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 12:51:21 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Even young and fit urged to skip runs and too many beers in heatwave",
         "link": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 26 Jun 2026 10:24:26 GMT",
         "category": "health"
-      },
-      {
-        "title": "The abundant but expensive energy source that's under your feet",
-        "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 10:12:42 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "I'm back at home again after uni - here's how I'm making it work",
-        "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 25 Jun 2026 23:03:48 GMT",
-        "category": "business"
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
+        "link": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+        "pubDate": "Fri, 26 Jun 2026 22:59:20 GMT",
+        "category": "world"
+      }
+    ]
   }
 }
