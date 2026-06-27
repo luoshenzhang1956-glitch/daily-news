@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-06-26T23:15:26.537299",
+  "updated_at": "2026-06-27T03:59:28.354130",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
+        "link": "https://www.npr.org/2026/06/26/nx-s1-5872821/pete-buttigieg-cps-police-swatting",
+        "pubDate": "Fri, 26 Jun 2026 20:26:52 -0400",
+        "category": "us"
+      },
       {
         "title": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
         "link": "https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums",
@@ -13,7 +19,7 @@
         "title": "A day after Alito&apos;s testy response to Sotomayor&apos;s dissent, court says it was a &apos;misunderstanding&apos;",
         "link": "https://www.npr.org/2026/06/26/nx-s1-5872721/supreme-court-alito-sotomayor",
         "pubDate": "Fri, 26 Jun 2026 17:18:04 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "U.S. pledges generous earthquake relief to Venezuela",
@@ -52,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Plane crashes into Beijing&apos;s tallest building; damage reported",
-        "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
-        "pubDate": "Fri, 26 Jun 2026 11:05:48 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Australia plans to strengthen laws banning children from social media",
         "link": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
         "pubDate": "Fri, 26 Jun 2026 09:09:30 -0400",
@@ -66,16 +66,46 @@
     ],
     "bbc": [
       {
+        "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+        "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 03:25:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
+        "link": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 03:07:46 GMT",
+        "category": "us"
+      },
+      {
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 02:48:12 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
+        "link": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 01:41:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump threatens 100% tariff on European nations over tech tax",
+        "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 01:37:18 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Home Office to introduce new asylum routes to UK",
+        "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 01:03:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
         "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 26 Jun 2026 23:03:04 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-        "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 23:01:50 GMT",
-        "category": "Top News"
       },
       {
         "title": "Three unusual things about the King's tax bill",
@@ -84,39 +114,9 @@
         "category": "Top News"
       },
       {
-        "title": "US conducts strikes on Iran after attack on cargo ship",
-        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 22:57:30 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
-        "link": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 22:30:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump threatens 100% tariff on European nations over tech tax",
-        "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 21:29:38 GMT",
-        "category": "business"
-      },
-      {
         "title": "Venezuela earthquakes kill 920 people as families desperate for news",
         "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 26 Jun 2026 21:15:37 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Conservatives offer tax incentive as part of 50,000 reservist pledge",
-        "link": "https://www.bbc.co.uk/news/articles/c9v219gx79wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 21:00:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
-        "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 19:40:07 GMT",
         "category": "Top News"
       },
       {
@@ -127,13 +127,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
-        "pubDate": "Fri, 26 Jun 2026 22:59:20 GMT",
-        "category": "world"
-      }
-    ]
+    "markets": []
   }
 }
