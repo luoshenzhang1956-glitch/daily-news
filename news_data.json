@@ -1,19 +1,55 @@
 {
-  "updated_at": "2026-06-27T10:16:18.723964",
+  "updated_at": "2026-06-27T13:57:32.656464",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
+        "link": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
+        "pubDate": "Sat, 27 Jun 2026 09:45:19 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Opinion: Ranch dressing is a winner at the World Cup games",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games",
+        "pubDate": "Sat, 27 Jun 2026 08:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump administration imposes restrictions for Anthropic to halt access to 2 AI models",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
+        "pubDate": "Sat, 27 Jun 2026 07:40:32 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Texas will require students to read Bible passages in a new state curriculum",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5871316/texas-will-require-students-to-read-bible-passages-in-a-new-state-curriculum",
+        "pubDate": "Sat, 27 Jun 2026 07:40:31 -0400",
+        "category": "us"
+      },
+      {
+        "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters",
+        "pubDate": "Sat, 27 Jun 2026 06:30:00 -0400",
+        "category": "health"
+      },
+      {
         "title": "As Supreme Court expands Trump&apos;s immigration power, experts warn of steeper U.S. population decline",
         "link": "https://www.npr.org/2026/06/27/nx-s1-5871338/tps-population-scotus-immigration-trump",
         "pubDate": "Sat, 27 Jun 2026 06:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
+      },
+      {
+        "title": "How coach Mauricio Pochettino made believers out of the U.S. World Cup team",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5872818/2026-world-cup-fifa-mauricio-pochettino-usmnt-coach",
+        "pubDate": "Sat, 27 Jun 2026 06:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
         "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
         "pubDate": "Sat, 27 Jun 2026 05:02:00 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "4 ways to get creative with your leftovers (and save money on food)",
@@ -22,53 +58,35 @@
         "category": "business"
       },
       {
-        "title": "What would George Washington say? It&apos;s a busy year for people who portray him",
-        "link": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
-        "pubDate": "Sat, 27 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Venezuelans in Colombia scramble to send aid as earthquakes death toll increases",
         "link": "https://www.npr.org/2026/06/27/nx-s1-5872951/venezuela-earthquakes-colombia-aid",
         "pubDate": "Sat, 27 Jun 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "There&apos;s a beef about beef at the World Cup, as Argentina fans pour into Texas",
-        "link": "https://www.npr.org/2026/06/27/nx-s1-5873328/beef-about-beef-world-cup",
-        "pubDate": "Sat, 27 Jun 2026 03:03:18 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. strikes Iran in response to a drone attack on a ship",
-        "link": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
-        "pubDate": "Sat, 27 Jun 2026 00:12:23 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5872821/pete-buttigieg-cps-police-swatting",
-        "pubDate": "Fri, 26 Jun 2026 20:26:52 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
-        "link": "https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums",
-        "pubDate": "Fri, 26 Jun 2026 18:54:23 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Australia plans to strengthen laws banning children from social media",
-        "link": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
-        "pubDate": "Fri, 26 Jun 2026 09:09:30 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
+        "title": "Hundreds of Heathrow and Gatwick flights delayed due to thunderstorms",
+        "link": "https://www.bbc.co.uk/news/articles/cjwgynnwyw2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 13:48:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Moment newborn baby is rescued from Venezuela earthquake rubble",
+        "link": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 12:51:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Mahmood announces new refugee sponsorship route into UK",
+        "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 11:37:57 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "US strikes Iran after attack on cargo ship",
         "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 27 Jun 2026 10:06:32 GMT",
+        "pubDate": "Sat, 27 Jun 2026 10:40:38 GMT",
         "category": "world"
       },
       {
@@ -78,10 +96,10 @@
         "category": "Top News"
       },
       {
-        "title": "Mahmood announces new refugee sponsorship route into UK",
-        "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 27 Jun 2026 08:56:49 GMT",
-        "category": "Top News"
+        "title": "Tributes paid to pioneering gynaecological surgeon",
+        "link": "https://www.bbc.co.uk/news/articles/cd95yqnjw47o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 06:07:18 GMT",
+        "category": "health"
       },
       {
         "title": "Are we in for a summer of serial heatwaves?",
@@ -96,56 +114,19 @@
         "category": "us"
       },
       {
-        "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
-        "link": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 27 Jun 2026 01:41:28 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Trump threatens 100% tariff on European nations over tech tax",
         "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 27 Jun 2026 01:37:18 GMT",
         "category": "business"
       },
       {
-        "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
+        "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
         "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 26 Jun 2026 23:03:04 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-        "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 23:01:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Even young and fit urged to skip runs and too many beers in heatwave",
-        "link": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 26 Jun 2026 10:24:26 GMT",
-        "category": "health"
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
-        "link": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
-        "pubDate": "Sat, 27 Jun 2026 00:34:50 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
-        "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
-        "pubDate": "Fri, 26 Jun 2026 21:07:22 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Estrogen patches are hard to find, and it may not be resolved any time soon",
-        "link": "https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html",
-        "pubDate": "Fri, 26 Jun 2026 11:00:01 GMT",
-        "category": "health"
-      }
-    ]
+    "markets": []
   }
 }
