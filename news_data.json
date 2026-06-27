@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-06-27T19:38:55.493594",
+  "updated_at": "2026-06-27T21:11:39.825274",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Venezuela races to find survivors",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5872799/venezuela-races-to-find-survivors",
+        "pubDate": "Sat, 27 Jun 2026 17:06:02 -0400",
+        "category": "world"
+      },
+      {
+        "title": "As America turns 250, protesters make their case",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5871188/as-america-turns-250-protesters-make-their-case",
+        "pubDate": "Sat, 27 Jun 2026 17:05:59 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
+        "link": "https://www.npr.org/2026/06/27/nx-s1-5873445/utah-wildfire-cottonwood-dry-weather",
+        "pubDate": "Sat, 27 Jun 2026 15:40:06 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
         "link": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
         "pubDate": "Sat, 27 Jun 2026 09:45:19 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Opinion: Ranch dressing is a winner at the World Cup games",
@@ -20,12 +38,6 @@
         "link": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
         "pubDate": "Sat, 27 Jun 2026 07:40:32 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Texas will require students to read Bible passages in a new state curriculum",
-        "link": "https://www.npr.org/2026/06/27/nx-s1-5871316/texas-will-require-students-to-read-bible-passages-in-a-new-state-curriculum",
-        "pubDate": "Sat, 27 Jun 2026 07:40:31 -0400",
-        "category": "us"
       },
       {
         "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
@@ -46,22 +58,10 @@
         "category": "Top News"
       },
       {
-        "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
-        "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
-        "pubDate": "Sat, 27 Jun 2026 05:02:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "This mindset shift can help you get better at using up your leftovers",
         "link": "https://www.npr.org/2026/06/27/nx-s1-5786564/4-ways-get-creative-with-your-leftovers-save-money-on-food",
         "pubDate": "Sat, 27 Jun 2026 05:00:00 -0400",
         "category": "business"
-      },
-      {
-        "title": "Venezuelans in Colombia scramble to send aid as earthquakes death toll increases",
-        "link": "https://www.npr.org/2026/06/27/nx-s1-5872951/venezuela-earthquakes-colombia-aid",
-        "pubDate": "Sat, 27 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
@@ -72,15 +72,15 @@
         "category": "Top News"
       },
       {
-        "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
-        "link": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 27 Jun 2026 17:01:45 GMT",
+        "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+        "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 19:18:57 GMT",
         "category": "Top News"
       },
       {
-        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-        "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 27 Jun 2026 14:22:37 GMT",
+        "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
+        "link": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 27 Jun 2026 17:01:45 GMT",
         "category": "Top News"
       },
       {
@@ -135,6 +135,12 @@
         "category": "world"
       },
       {
+        "title": "The AI trade cooled and oil sank. A closer look at Wall Street&apos;s volatile week",
+        "link": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
+        "pubDate": "Sat, 27 Jun 2026 16:39:52 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Why investors may want to prioritize bond markets outside the U.S.",
         "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
         "pubDate": "Sat, 27 Jun 2026 15:00:01 GMT",
@@ -151,6 +157,12 @@
         "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
         "pubDate": "Sat, 27 Jun 2026 12:22:08 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "How Kohl&apos;s lost its way \u2014 and is trying to become relevant again",
+        "link": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
+        "pubDate": "Sat, 27 Jun 2026 12:00:01 GMT",
+        "category": "business"
       }
     ]
   }
