@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-06-28T19:41:11.492886",
+  "updated_at": "2026-06-28T21:10:36.733407",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "In Venezuela silence has become a rescue tool",
+        "link": "https://www.npr.org/2026/06/28/nx-s1-5874042/in-venezuela-silence-has-become-a-rescue-tool",
+        "pubDate": "Sun, 28 Jun 2026 17:00:14 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Can one bill make housing more affordable?",
+        "link": "https://www.npr.org/2026/06/28/nx-s1-5869726/can-one-bill-make-housing-more-affordable",
+        "pubDate": "Sun, 28 Jun 2026 17:00:13 -0400",
+        "category": "us"
+      },
+      {
+        "title": "A bridge to Canada may be blocked by the Trump administration",
+        "link": "https://www.npr.org/2026/06/28/nx-s1-5828903/trump-gordie-howe-bridge-canada-blocked",
+        "pubDate": "Sun, 28 Jun 2026 16:17:22 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
         "link": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
         "pubDate": "Sun, 28 Jun 2026 14:01:07 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trade tensions shake up Brazil&apos;s caipirinha spirit",
@@ -16,10 +34,10 @@
         "category": "Top News"
       },
       {
-        "title": "Three firefighters killed on Colorado-Utah border as wildfires intensify",
+        "title": "3 firefighters killed on Colorado-Utah border as wildfires intensify",
         "link": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder",
         "pubDate": "Sun, 28 Jun 2026 10:46:48 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "These church members disagree on politics. Together they&apos;re wiping out medical debt",
@@ -44,27 +62,15 @@
         "link": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
         "pubDate": "Sun, 28 Jun 2026 06:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Food defined social hierarchy in 1776. Here&apos;s what was on the table",
-        "link": "https://www.npr.org/2026/06/28/nx-s1-5843114/250-colonial-america-1776-food-anniversary",
-        "pubDate": "Sun, 28 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Will the new student loan limits actually drive down tuition? Economists weigh in",
-        "link": "https://www.npr.org/2026/06/28/nx-s1-5805988/cost-education-student-loan-tuition-graduate-school",
-        "pubDate": "Sun, 28 Jun 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;If you are alive, make any noise&apos;: Venezuela searches rubble on day 4",
-        "link": "https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake",
-        "pubDate": "Sun, 28 Jun 2026 04:50:46 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Agnew: Ben Stokes's exit is unconventional for an English great",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 28 Jun 2026 19:33:07 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
         "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&amp;at_campaign=rss",
@@ -96,12 +102,6 @@
         "category": "Top News"
       },
       {
-        "title": "Cleverly says he would not have used Badenoch's Gestapo jibe",
-        "link": "https://www.bbc.co.uk/news/articles/cq81d8k5z1qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 28 Jun 2026 15:19:32 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Senior Labour figures say party is united behind Andy Burnham",
         "link": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 28 Jun 2026 14:57:11 GMT",
@@ -129,10 +129,34 @@
     "reuters": [],
     "markets": [
       {
+        "title": "Iran talks on hold after fighting breaks out and Trump once again threatens annihilation",
+        "link": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
+        "pubDate": "Sun, 28 Jun 2026 20:57:32 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Top Wall Street analysts are bullish on these 3 stocks for strong long-term growth potential",
+        "link": "https://www.cnbc.com/2026/06/28/top-analysts-bullish-on-these-stocks-for-long-term-growth-potential.html",
+        "pubDate": "Sun, 28 Jun 2026 12:29:57 GMT",
+        "category": "us"
+      },
+      {
+        "title": "These 10 Chinese stocks are powering U.S. data centers",
+        "link": "https://www.cnbc.com/2026/06/28/these-10-chinese-stocks-are-powering-us-data-centers.html",
+        "pubDate": "Sun, 28 Jun 2026 12:23:56 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Seniors in Medicare are about to get landmark obesity drug coverage \u2014 but many may not know it yet",
         "link": "https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html",
         "pubDate": "Sun, 28 Jun 2026 12:00:01 GMT",
         "category": "business"
+      },
+      {
+        "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
+        "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
+        "pubDate": "Sat, 27 Jun 2026 21:34:59 GMT",
+        "category": "Top News"
       }
     ]
   }
