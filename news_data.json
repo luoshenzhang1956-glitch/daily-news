@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-06-28T09:21:28.484323",
+  "updated_at": "2026-06-28T11:52:34.539640",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a410a41ec084605ba5a16f9f1bf67cd&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-israel-war-hormuz-strait-june-28-2026-1132d316545db2cddb3928b6e7840f51&amp;c=5081527265747359197&amp;mkt=en-us",
+        "pubDate": "Sun, 28 Jun 2026 04:23:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Iran narrowly knocked out of tumultuous World Cup on Austria\u2019s last-second goal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a410a4074284238b0612e2e8a34bafa&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-world-cup-2026-3d644f91e648232e2a407eab23748afd&amp;c=18084075793821083779&amp;mkt=en-us",
+        "pubDate": "Sun, 28 Jun 2026 03:45:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "These church members disagree on politics. Together they&apos;re wiping out medical debt",
+        "link": "https://www.npr.org/2026/06/28/nx-s1-5847966/medical-debt-politics-republican-democrat",
+        "pubDate": "Sun, 28 Jun 2026 07:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "July 4th fireworks in Washington: What&apos;s different for America&apos;s 250th?",
+        "link": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+        "pubDate": "Sun, 28 Jun 2026 06:00:00 -0400",
+        "category": "us"
+      },
       {
         "title": "Food defined social hierarchy in 1776. Here&apos;s what was on the table",
         "link": "https://www.npr.org/2026/06/28/nx-s1-5843114/250-colonial-america-1776-food-anniversary",
         "pubDate": "Sun, 28 Jun 2026 05:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Will the new student loan limits actually drive down tuition? Economists weigh in",
@@ -50,37 +75,25 @@
         "link": "https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games",
         "pubDate": "Sat, 27 Jun 2026 08:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Trump administration partially lifts export ban on Anthropic&apos;s most advanced AI model",
-        "link": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
-        "pubDate": "Sat, 27 Jun 2026 07:40:32 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
-        "link": "https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters",
-        "pubDate": "Sat, 27 Jun 2026 06:30:00 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
+        "title": "Senior Labour figures say party is united behind Andy Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 28 Jun 2026 11:41:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 28 Jun 2026 09:16:02 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Harry reconsiders bringing Meghan and children on UK trip",
         "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 28 Jun 2026 08:44:25 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Best team, moments, matches and players of the group stage",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 28 Jun 2026 08:07:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Are Iran the unluckiest side in World Cup history?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 28 Jun 2026 06:52:21 GMT",
         "category": "Top News"
       },
       {
@@ -129,28 +142,10 @@
     "reuters": [],
     "markets": [
       {
-        "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks",
-        "link": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
-        "pubDate": "Sun, 28 Jun 2026 08:43:32 GMT",
-        "category": "world"
-      },
-      {
-        "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-        "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
-        "pubDate": "Sat, 27 Jun 2026 21:34:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why investors may want to prioritize bond markets outside the U.S.",
-        "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
-        "pubDate": "Sat, 27 Jun 2026 15:00:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Jeremy Grantham says, &apos;This is the most expensive market in American history&apos;",
-        "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-        "pubDate": "Sat, 27 Jun 2026 12:22:08 GMT",
-        "category": "Top News"
+        "title": "A &apos;perfect storm&apos; points to a much smaller U.S. auto market by 2040",
+        "link": "https://www.cnbc.com/2026/06/28/us-auto-market.html",
+        "pubDate": "Sun, 28 Jun 2026 11:00:01 GMT",
+        "category": "business"
       }
     ]
   }
