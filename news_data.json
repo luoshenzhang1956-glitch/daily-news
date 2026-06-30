@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-06-29T23:03:45.843486",
+  "updated_at": "2026-06-30T04:09:18.180052",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
+        "link": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
+        "pubDate": "Mon, 29 Jun 2026 21:43:29 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Michigan governor threatens to pull troops from D.C. if used for Trump task force",
+        "link": "https://www.npr.org/2026/06/29/nx-s1-5875427/michigan-governor-national-guard-dc",
+        "pubDate": "Mon, 29 Jun 2026 19:34:58 -0400",
+        "category": "us"
+      },
+      {
         "title": "Wheelchair users say private equity is making repairs harder",
         "link": "https://www.npr.org/2026/06/29/nx-s1-5860877/wheelchair-users-say-private-equity-is-making-repairs-harder",
         "pubDate": "Mon, 29 Jun 2026 17:01:05 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "The Temporary Protected Status program may effectively be over. Here&apos;s what we know.",
@@ -16,10 +28,16 @@
         "category": "Top News"
       },
       {
+        "title": "Supreme Court takes sledgehammer to much of federal government&apos;s regulatory structure",
+        "link": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure",
+        "pubDate": "Mon, 29 Jun 2026 16:44:35 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Venezuela&apos;s deadly quakes put its U.S.-backed government to the test",
         "link": "https://www.npr.org/2026/06/29/nx-s1-5873975/venezuelan-quake-tests-government",
         "pubDate": "Mon, 29 Jun 2026 16:19:02 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Sing-along time at a memory cafe is a highlight for people dealing with dementia",
@@ -31,24 +49,6 @@
         "title": "Senate Ethics Committee dismisses complaint against Sen. Ruben Gallego",
         "link": "https://www.npr.org/2026/06/29/nx-s1-5788049/ruben-gallego-ethics-investigation-dismissed",
         "pubDate": "Mon, 29 Jun 2026 15:28:47 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "They were world-class tennis rivals. Now friends, they&apos;ve teamed up against cancer",
-        "link": "https://www.npr.org/2026/06/29/nx-s1-5874696/chris-evert-martina-navratilova-tennis-cancer",
-        "pubDate": "Mon, 29 Jun 2026 11:47:15 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Supreme Court restricts use of geofence warrants",
-        "link": "https://www.npr.org/2026/06/29/nx-s1-5844697/supreme-court-restricts-use-of-geofence-warrants",
-        "pubDate": "Mon, 29 Jun 2026 10:50:14 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Supreme Court says Fed&apos;s Lisa Cook can stay in her job for now",
-        "link": "https://www.npr.org/2026/06/29/nx-s1-5557955/supreme-court-fed-lisa-cook",
-        "pubDate": "Mon, 29 Jun 2026 10:44:00 -0400",
         "category": "Top News"
       },
       {
@@ -66,15 +66,45 @@
     ],
     "bbc": [
       {
-        "title": "Refugees will be told to repay around \u00a310,000 under new asylum rules",
-        "link": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 29 Jun 2026 21:31:48 GMT",
+        "title": "'Left on your own': Angry Venezuelans accuse government of negligence and apathy",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 30 Jun 2026 03:53:48 GMT",
         "category": "Top News"
       },
       {
         "title": "Long-delayed defence spending plan to be published on Tuesday, with focus on drone warfare",
         "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 29 Jun 2026 21:30:01 GMT",
+        "pubDate": "Tue, 30 Jun 2026 01:46:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chris Mason: Burnham revels on public stage but has little time to hammer ideas into shape",
+        "link": "https://www.bbc.co.uk/news/articles/crkvr3xjxx3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 29 Jun 2026 23:46:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+        "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 29 Jun 2026 23:08:44 GMT",
+        "category": "business"
+      },
+      {
+        "title": "'We can't continue like this': Inquiry demands NHS maternity overhaul",
+        "link": "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 29 Jun 2026 23:02:44 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Three people injured after explosion in Monaco, French media report",
+        "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 29 Jun 2026 21:59:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Refugees will be told to repay around \u00a310,000 under new asylum rules",
+        "link": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 29 Jun 2026 21:31:48 GMT",
         "category": "Top News"
       },
       {
@@ -84,85 +114,31 @@
         "category": "us"
       },
       {
-        "title": "'They are hoping beyond hope': Rescue efforts continue at collapsed La Guaira building",
-        "link": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 29 Jun 2026 20:22:13 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
         "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 29 Jun 2026 20:00:44 GMT",
         "category": "world"
       },
       {
-        "title": "Will Andy Burnham's devolution plan raise economic growth?",
-        "link": "https://www.bbc.co.uk/news/articles/c5yz4x9ew49o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 29 Jun 2026 19:33:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New 'No 10 North' plan will rebalance power in Britain, Burnham promises",
-        "link": "https://www.bbc.co.uk/news/articles/cx2jw5q5pdzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 29 Jun 2026 18:16:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Resident doctors in England accept pay deal and end strikes",
-        "link": "https://www.bbc.co.uk/news/articles/cwy01n5z48qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 29 Jun 2026 16:45:16 GMT",
-        "category": "health"
-      },
-      {
         "title": "WhatsApp to let people chat without swapping phone numbers",
         "link": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 29 Jun 2026 16:00:12 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Burnham's 'Manchesterism' could change the UK, but is not yet a full economic plan",
-        "link": "https://www.bbc.co.uk/news/articles/cpq3yxdyx9do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 29 Jun 2026 15:41:04 GMT",
-        "category": "business"
       }
     ],
     "reuters": [],
     "markets": [
       {
+        "title": "Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
+        "link": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html",
+        "pubDate": "Mon, 29 Jun 2026 21:56:21 GMT",
+        "category": "health"
+      },
+      {
         "title": "Comcast&apos;s NBCUniversal spinoff raises hope for more deals. There may not be good options",
         "link": "https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html",
         "pubDate": "Mon, 29 Jun 2026 20:57:36 GMT",
         "category": "business"
-      },
-      {
-        "title": "Citi Wealth warns investors to move out of excess cash because of hot inflation",
-        "link": "https://www.cnbc.com/2026/06/29/citi-wealth-warns-investors-to-move-out-of-excess-cash-because-of-hot-inflation.html",
-        "pubDate": "Mon, 29 Jun 2026 19:02:45 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon &amp; more",
-        "link": "https://www.cnbc.com/2026/06/29/stocks-making-the-biggest-moves-midday-mu-cmcsa-rklb-googl-vz.html",
-        "pubDate": "Mon, 29 Jun 2026 18:17:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
-        "link": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
-        "pubDate": "Mon, 29 Jun 2026 14:30:57 GMT",
-        "category": "world"
-      },
-      {
-        "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-        "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
-        "pubDate": "Mon, 29 Jun 2026 13:50:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China&apos;s economy picks up in June on rebounding U.S. exports, analysts say",
-        "link": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html",
-        "pubDate": "Mon, 29 Jun 2026 10:00:02 GMT",
-        "category": "Top News"
       }
     ]
   }
