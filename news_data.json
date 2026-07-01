@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-07-01T10:01:16.480175",
+  "updated_at": "2026-07-01T12:45:22.359055",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "SCOTUS upholds birthright citizenship. And, key results from Colorado&apos;s primaries",
+        "link": "https://www.npr.org/2026/07/01/g-s1-131327/up-first-newsletter-supreme-court-birthright-citizenship-colorado-primaries-world-cup-heat-american-pride",
+        "pubDate": "Wed, 01 Jul 2026 07:29:24 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Greetings from London, where Banksy&apos;s flag man is a warning cry",
+        "link": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
+        "pubDate": "Wed, 01 Jul 2026 06:00:00 -0400",
+        "category": "world"
+      },
       {
         "title": "A federal law bans late voter roll purges. Republicans are pushing to reinterpret it",
         "link": "https://www.npr.org/2026/07/01/nx-s1-5859333/voter-roll-purge-supreme-court",
@@ -10,20 +22,32 @@
         "category": "us"
       },
       {
-        "title": "5 safety tips to keep you out of the emergency room this summer",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5871208/5-safety-tips-to-keep-you-out-of-the-emergency-room-this-summer",
+        "title": "Kids with autism are prone to drowning. Florida is trying to prevent that",
+        "link": "https://www.npr.org/2026/07/01/nx-s1-5812852/autism-drowning-florida-swim-lessons-voucher",
         "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
         "category": "health"
       },
       {
-        "title": "Kids with autism are prone to drowning. Florida is trying to prevent that",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5812852/autism-drowning-florida-swim-lessons-voucher",
+        "title": "In Colorado primaries, a democratic socialist wins; Bennet&apos;s governor bid ends",
+        "link": "https://www.npr.org/2026/07/01/nx-s1-5872791/kiros-colorado-democratic-socialist-weiser-bennet-primaries",
         "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Supreme Court deals some blows to Trump&apos;s agenda but leaves him with more expansive powers",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5876231/supreme-court-deals-some-blows-to-trumps-agenda-but-leaves-him-with-more-expansive-powers",
+        "title": "5 safety tips to keep you out of the emergency room this summer",
+        "link": "https://www.npr.org/2026/07/01/nx-s1-5871208/5-safety-tips-to-keep-you-out-of-the-emergency-room-this-summer",
+        "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "How America has celebrated milestone birthdays, from world fairs to the World Cup",
+        "link": "https://www.npr.org/2026/07/01/nx-s1-5867587/america-250th-past-anniversaries",
+        "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Crowded planes and airports set records, straining the U.S. aviation system",
+        "link": "https://www.npr.org/2026/07/01/nx-s1-5869367/crowded-skies-strain-aviation",
         "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -34,30 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "The majority of Americans are proud but worry about direction of the country",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5869563/american-pride-poll",
-        "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "In Colorado primaries, a democratic socialist wins; Bennet&apos;s governor bid ends",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5872791/kiros-colorado-democratic-socialist-weiser-bennet-primaries",
-        "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Months after he sent a harsh email to ICE, agents tracked him to his home and a hotel",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5874124/dhs-tracks-ice-critic",
-        "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Mexico ends a 40-year knockout drought, beats Ecuador to advance in World Cup",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5877257/mexico-beats-ecuador-advance-world-cup",
-        "pubDate": "Wed, 01 Jul 2026 02:56:58 -0400",
-        "category": "world"
-      },
-      {
         "title": "Meta considered buying Kalshi before developing its own prediction market app",
         "link": "https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks",
         "pubDate": "Tue, 30 Jun 2026 16:33:04 -0400",
@@ -66,45 +66,39 @@
     ],
     "bbc": [
       {
-        "title": "Nowak case officers face gross misconduct investigation",
-        "link": "https://www.bbc.co.uk/news/articles/cd6ezln069vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 09:57:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Burnham's chancellor will have to find extra \u00a34.7bn for defence, says minister",
-        "link": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 09:00:02 GMT",
+        "title": "Two dead after plane crashed during flight experience",
+        "link": "https://www.bbc.co.uk/news/articles/cn8k7p74z31o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 11:50:49 GMT",
         "category": "Top News"
       },
       {
         "title": "Trump made more than $1bn from crypto in first year back in office",
         "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 07:30:53 GMT",
+        "pubDate": "Wed, 01 Jul 2026 11:41:13 GMT",
         "category": "world"
       },
       {
-        "title": "Chris Mason: Starmer's defence plan leaves crunching trade\u2011offs for Burnham to confront",
-        "link": "https://www.bbc.co.uk/news/articles/c3vy7z35ve0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 07:18:26 GMT",
+        "title": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
+        "link": "https://www.bbc.co.uk/news/articles/cn751pkmgyxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 11:31:16 GMT",
         "category": "Top News"
       },
       {
-        "title": "What we know about Taylor Swift's rumoured NYC wedding celebrations",
-        "link": "https://www.bbc.co.uk/news/articles/c70yj1749j0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 06:18:17 GMT",
-        "category": "us"
+        "title": "Family of boy attacked by crocodile thank zoo staff who rescued him",
+        "link": "https://www.bbc.co.uk/news/articles/ce8j24ng6p0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 11:24:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nowak case officers face gross misconduct investigation",
+        "link": "https://www.bbc.co.uk/news/articles/cd6ezln069vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 10:23:52 GMT",
+        "category": "Top News"
       },
       {
         "title": "Woman raped by Superdry co-founder tells BBC she was working for him at the time",
         "link": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Jul 2026 05:00:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why Gen Z are planning for life without a state pension",
-        "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 30 Jun 2026 23:05:19 GMT",
         "category": "Top News"
       },
       {
@@ -124,9 +118,34 @@
         "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 30 Jun 2026 23:02:02 GMT",
         "category": "business"
+      },
+      {
+        "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 30 Jun 2026 22:29:47 GMT",
+        "category": "us"
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "U.S. auto industry faces more uncertainty without extension of USMCA trade deal",
+        "link": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
+        "pubDate": "Wed, 01 Jul 2026 12:30:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Tech leads first half stock gains \u2014 but the biggest winners weren&apos;t in the U.S.",
+        "link": "https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html",
+        "pubDate": "Wed, 01 Jul 2026 12:15:03 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Bulls are betting big on this global ETF that&apos;s deep in a bear market",
+        "link": "https://www.cnbc.com/2026/07/01/bulls-are-betting-big-on-this-global-etf-thats-deep-in-a-bear-market.html",
+        "pubDate": "Wed, 01 Jul 2026 11:15:33 GMT",
+        "category": "us"
+      }
+    ]
   }
 }
