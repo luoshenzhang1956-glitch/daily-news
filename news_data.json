@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-07-01T16:29:48.849579",
+  "updated_at": "2026-07-01T20:05:55.691606",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela&apos;s quakes",
+        "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
+        "pubDate": "Wed, 01 Jul 2026 13:54:10 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Lone star ticks are covering much of the U.S. Here&apos;s what you need to know",
+        "link": "https://www.npr.org/2026/07/01/nx-s1-5877341/lone-star-ticks-are-covering-much-of-the-u-s-heres-what-you-need-to-know",
+        "pubDate": "Wed, 01 Jul 2026 13:20:16 -0400",
+        "category": "health"
+      },
       {
         "title": "Americans are showing up for the World Cup in record-breaking numbers",
         "link": "https://www.npr.org/2026/07/01/nx-s1-5876297/world-cup-viewership-fox-telemundo",
@@ -13,7 +25,7 @@
         "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
         "link": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse",
         "pubDate": "Wed, 01 Jul 2026 10:57:00 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "SCOTUS upholds birthright citizenship. And, key results from Colorado&apos;s primaries",
@@ -28,32 +40,20 @@
         "category": "Top News"
       },
       {
-        "title": "Kids with autism are prone to drowning. Florida is trying to prevent that",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5812852/autism-drowning-florida-swim-lessons-voucher",
-        "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
         "title": "A federal law bans late voter roll purges. Republicans are pushing to reinterpret it",
         "link": "https://www.npr.org/2026/07/01/nx-s1-5859333/voter-roll-purge-supreme-court",
         "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "The majority of Americans are proud but worry about direction of the country",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5869563/american-pride-poll",
+        "title": "Kids with autism are prone to drowning. Florida is trying to prevent that",
+        "link": "https://www.npr.org/2026/07/01/nx-s1-5812852/autism-drowning-florida-swim-lessons-voucher",
         "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
         "title": "How America has celebrated milestone birthdays, from world fairs to the World Cup",
         "link": "https://www.npr.org/2026/07/01/nx-s1-5867587/america-250th-past-anniversaries",
-        "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Supreme Court deals some blows to Trump&apos;s agenda but leaves him with more expansive powers",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5876231/supreme-court-deals-some-blows-to-trumps-agenda-but-leaves-him-with-more-expansive-powers",
         "pubDate": "Wed, 01 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -66,10 +66,34 @@
     ],
     "bbc": [
       {
-        "title": "Trump made more than $1bn from crypto in first year back in office",
-        "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 16:04:32 GMT",
+        "title": "Watch full highlights as England come from behind to beat DR Congo",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 18:31:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025",
+        "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 17:22:25 GMT",
         "category": "us"
+      },
+      {
+        "title": "Watch: Two people climb to highest point of Empire State Building",
+        "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 17:08:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 17:01:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "PlayStation will stop releasing games on discs in 2028",
+        "link": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 16:40:58 GMT",
+        "category": "tech"
       },
       {
         "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
@@ -78,28 +102,10 @@
         "category": "world"
       },
       {
-        "title": "Watch: Moment man climbs balcony to escape Antwerp fire",
-        "link": "https://www.bbc.co.uk/news/videos/c39yweeennno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 15:37:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 14:55:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tens of thousands rush for tickets to see Bayeux Tapestry in UK",
-        "link": "https://www.bbc.co.uk/news/articles/c4g49q5qyjxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 14:23:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
-        "link": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 14:01:06 GMT",
-        "category": "tech"
+        "title": "Halifax brand to be scrapped after 173 years",
+        "link": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 14:34:23 GMT",
+        "category": "business"
       },
       {
         "title": "Is Burnham facing a \u00a35bn defence 'black hole'?",
@@ -118,63 +124,15 @@
         "link": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 30 Jun 2026 23:04:58 GMT",
         "category": "health"
-      },
-      {
-        "title": "Plea for households to read energy meter as prices rise",
-        "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 30 Jun 2026 23:02:02 GMT",
-        "category": "business"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "Inflation peaked in May as energy prices fell in June, Kalshi traders think",
-        "link": "https://www.cnbc.com/2026/07/01/inflation-peaked-in-may-as-energy-prices-fell-in-june-kalshi-traders-think.html",
-        "pubDate": "Wed, 01 Jul 2026 16:29:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;Magnificent 7&apos; stocks&apos; rough June pushes them into the red for the year. What&apos;s behind the decline",
-        "link": "https://www.cnbc.com/2026/07/01/magnificent-7-stocks-rough-june-pushes-them-into-the-red-for-the-year-whats-behind-the-decline.html",
-        "pubDate": "Wed, 01 Jul 2026 15:55:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Michael Burry says he&apos;s shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
-        "link": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
-        "pubDate": "Wed, 01 Jul 2026 14:13:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Nike, ServiceNow, Constellation Brands &amp; more",
-        "link": "https://www.cnbc.com/2026/07/01/stocks-making-the-biggest-moves-premarket-nke-now-stz.html",
-        "pubDate": "Wed, 01 Jul 2026 11:35:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Xi touts China Communist Party&apos;s global influence in speech marking 105th anniversary",
-        "link": "https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html",
-        "pubDate": "Wed, 01 Jul 2026 07:07:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Small-cap stocks enjoy their best first half in 35 years. Here&apos;s what&apos;s driving it",
-        "link": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
-        "pubDate": "Tue, 30 Jun 2026 23:32:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
-        "link": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
-        "pubDate": "Tue, 30 Jun 2026 23:27:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
-        "link": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
-        "pubDate": "Tue, 30 Jun 2026 18:27:17 GMT",
-        "category": "Top News"
+        "title": "Tech leads first half stock gains \u2014 but the biggest winners weren&apos;t in the U.S.",
+        "link": "https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html",
+        "pubDate": "Wed, 01 Jul 2026 13:11:27 GMT",
+        "category": "world"
       }
     ]
   }
