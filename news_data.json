@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-02T12:14:00.658326",
+  "updated_at": "2026-07-02T16:10:05.837452",
   "news": {
-    "ap": [
-      {
-        "title": "A grim job outlook meets a scrappy workforce as administrative assistants harness AI",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a46558ac7f64b529a7d95ef9a40f8bc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48&amp;c=8651899094583385289&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Jul 2026 03:15:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "When is the best time to buy a house? Business basics: mortgage rates",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4655890520446cbb873115390daf9b&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fwhen-is-the-best-time-to-buy-a-house-business-basics-mortgage-rates-fd74efcf0af5428a9bb3542e86d12a94&amp;c=1713284160434445199&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Jul 2026 02:51:00 GMT",
-        "category": "business"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
@@ -53,6 +40,12 @@
         "category": "Top News"
       },
       {
+        "title": "U.S. job market slows in June",
+        "link": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
+        "pubDate": "Thu, 02 Jul 2026 04:49:28 -0400",
+        "category": "business"
+      },
+      {
         "title": "Democratic socialists pose a challenge for the party as midterms approach",
         "link": "https://www.npr.org/2026/07/02/nx-s1-5877755/democratic-socialists-pose-a-challenge-for-the-party-as-midterms-approach",
         "pubDate": "Thu, 02 Jul 2026 04:48:05 -0400",
@@ -65,47 +58,53 @@
         "category": "Top News"
       },
       {
-        "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
-        "link": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar",
-        "pubDate": "Thu, 02 Jul 2026 01:57:33 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A major Russian attack kills 17 in Kyiv as Ukraine keeps striking Moscow&apos;s oil sector",
-        "link": "https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine",
-        "pubDate": "Thu, 02 Jul 2026 01:47:53 -0400",
+        "title": "Russia hits Ukraine&apos;s capital with a massive drone and missile attack, killing at least 18",
+        "link": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people",
+        "pubDate": "Thu, 02 Jul 2026 04:47:15 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Grooming gang leader released from prison",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyx0vldrlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 12:01:15 GMT",
+        "title": "Pubs allowed to extend hours for 1am England clash",
+        "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 16:03:24 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Boy rapists given custody sentences by Court of Appeal",
+        "link": "https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 16:01:26 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Married at First Sight UK star arrested on suspicion of rape",
+        "link": "https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 15:10:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Venezuela quake survivor pulled out alive after eight days",
+        "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 14:11:50 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Survivor pulled from rubble eight days after Venezuela earthquakes",
+        "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 14:11:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Meta glasses wearers hit with paywall to use built-in feature",
+        "link": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 13:42:53 GMT",
+        "category": "tech"
       },
       {
         "title": "Labour failed to prepare for power, admits PM's former top aide",
         "link": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 12:00:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 18",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 11:53:29 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Forced adoptions 'a stain on our history' says Starmer as he gives formal apology",
-        "link": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 11:53:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Survivor buried by Venezuela quakes eight days ago is cheering rescuers on",
-        "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 11:31:19 GMT",
+        "pubDate": "Thu, 02 Jul 2026 12:23:14 GMT",
         "category": "Top News"
       },
       {
@@ -115,44 +114,38 @@
         "category": "health"
       },
       {
-        "title": "EU border delays 'not bearable' over summer, warns airport boss",
-        "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 10:15:47 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Google must pay \u20ac4.1bn fine for using Android to 'block' rivals",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 09:46:11 GMT",
-        "category": "tech"
+        "title": "Trump presidency reignites its founding debate - how much power is too much?",
+        "link": "https://www.bbc.co.uk/news/articles/cp9lm9j2580o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 09:30:48 GMT",
+        "category": "us"
       },
       {
         "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
         "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 02 Jul 2026 05:00:03 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-        "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 22:36:43 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "US keep World Cup dream alive with gutsy win over Bosnia",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a46559f4ac748d69a8ca2d17fe8c236&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fupdate1-soccer-us-keep-world-cup-dream-alive-with-gutsy-win-over-bosnia-2026-07-02%2f&amp;c=17046933448463700120&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Jul 2026 02:50:00 GMT",
-        "category": "world"
+        "title": "Bayer fuels break-up talk as Roundup placed in separate business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a468d0f5fa84b01a29a3028fb0499d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fbayer-shifts-us-glyphosate-business-ruveon-after-seeking-tariffs-chinese-imports-2026-07-02%2f&amp;c=7744096934948342022&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Jul 2026 05:31:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US to give Tanzania $1.3 bln under five-year health pact",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a468d1b7f454463a8f668d6604f58ac&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-give-tanzania-13-bln-under-five-year-health-pact-2026-07-02%2f&amp;c=10367052401966517405&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Jul 2026 04:19:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Jim Cramer says this former Covid market darling is finally investable again",
-        "link": "https://www.cnbc.com/2026/07/01/jim-cramer-says-this-former-covid-market-darling-is-finally-investable-again.html",
-        "pubDate": "Wed, 01 Jul 2026 22:50:19 GMT",
-        "category": "health"
+        "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+        "link": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
+        "pubDate": "Thu, 02 Jul 2026 15:55:25 GMT",
+        "category": "world"
       }
     ]
   }
