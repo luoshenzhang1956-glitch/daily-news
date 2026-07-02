@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T23:22:46.409735",
+  "updated_at": "2026-07-02T04:03:38.153538",
   "news": {
     "ap": [],
     "npr": [
@@ -66,6 +66,24 @@
     ],
     "bbc": [
       {
+        "title": "At least eight killed in major missile and drone strikes on Kyiv",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 03:24:45 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+        "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 00:26:13 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Don't expect trackers to save your stolen car, experts say",
+        "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 01 Jul 2026 23:31:43 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Third UK heatwave increasingly likely as 30C temperatures forecast",
         "link": "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Jul 2026 23:04:50 GMT",
@@ -90,12 +108,6 @@
         "category": "Top News"
       },
       {
-        "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-        "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 21:27:04 GMT",
-        "category": "world"
-      },
-      {
         "title": "Superstar Kane produces his biggest England moment",
         "link": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Jul 2026 20:41:03 GMT",
@@ -108,18 +120,6 @@
         "category": "business"
       },
       {
-        "title": "Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 17:01:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "PlayStation will stop releasing games on discs in 2028",
-        "link": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 16:40:58 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Can a 10-second finger workout help keep your brain healthy?",
         "link": "https://www.bbc.co.uk/videos/c62106ngq79o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Jul 2026 11:02:31 GMT",
@@ -127,6 +127,25 @@
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street",
+        "link": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
+        "pubDate": "Thu, 02 Jul 2026 03:04:59 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Jim Cramer says this former Covid market darling is finally investable again",
+        "link": "https://www.cnbc.com/2026/07/01/jim-cramer-says-this-former-covid-market-darling-is-finally-investable-again.html",
+        "pubDate": "Wed, 01 Jul 2026 22:50:19 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
+        "link": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
+        "pubDate": "Wed, 01 Jul 2026 20:12:29 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
