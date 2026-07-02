@@ -1,25 +1,68 @@
 {
-  "updated_at": "2026-07-02T09:24:40.213098",
+  "updated_at": "2026-07-02T12:14:00.658326",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "A grim job outlook meets a scrappy workforce as administrative assistants harness AI",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a46558ac7f64b529a7d95ef9a40f8bc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48&amp;c=8651899094583385289&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Jul 2026 03:15:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "When is the best time to buy a house? Business basics: mortgage rates",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4655890520446cbb873115390daf9b&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fwhen-is-the-best-time-to-buy-a-house-business-basics-mortgage-rates-fd74efcf0af5428a9bb3542e86d12a94&amp;c=1713284160434445199&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Jul 2026 02:51:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+        "link": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
+        "pubDate": "Thu, 02 Jul 2026 07:23:10 -0400",
+        "category": "world"
+      },
+      {
+        "title": "New York City to hold multiple celebrations during scorching Fourth of July weekend",
+        "link": "https://www.npr.org/2026/07/02/nx-s1-5876068/new-york-city-to-hold-multiple-celebrations-during-scorching-fourth-of-july-weekend",
+        "pubDate": "Thu, 02 Jul 2026 06:43:55 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Going outside in this heat? Follow these guidelines to stay safe",
+        "link": "https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety",
+        "pubDate": "Thu, 02 Jul 2026 06:00:00 -0400",
+        "category": "health"
+      },
       {
         "title": "Federal civil rights data holds schools accountable. Under Trump, it&apos;s 6 months late",
         "link": "https://www.npr.org/2026/07/02/nx-s1-5859422/civil-rights-data-students-education",
         "pubDate": "Thu, 02 Jul 2026 05:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
+      },
+      {
+        "title": "The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse",
+        "link": "https://www.npr.org/2026/07/02/nx-s1-5878415/haitian-tps-healthcare-immigration-supreme-court",
+        "pubDate": "Thu, 02 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "Vatican declares Society of St. Pius X in schism, excommunicates bishops",
         "link": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism",
         "pubDate": "Thu, 02 Jul 2026 04:54:48 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
-        "title": "As a heatwave grips the U.S., a look at how extreme heat affects the body",
-        "link": "https://www.npr.org/2026/07/02/nx-s1-5874880/as-a-heatwave-grips-the-u-s-a-look-at-how-extreme-heat-affects-the-body",
-        "pubDate": "Thu, 02 Jul 2026 04:48:36 -0400",
-        "category": "health"
+        "title": "Democratic socialists pose a challenge for the party as midterms approach",
+        "link": "https://www.npr.org/2026/07/02/nx-s1-5877755/democratic-socialists-pose-a-challenge-for-the-party-as-midterms-approach",
+        "pubDate": "Thu, 02 Jul 2026 04:48:05 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The rise of democratic socialists and what it means for the party",
+        "link": "https://www.npr.org/2026/07/02/nx-s1-5877489/the-rise-of-democratic-socialists-and-what-it-means-for-the-party",
+        "pubDate": "Thu, 02 Jul 2026 04:47:53 -0400",
+        "category": "Top News"
       },
       {
         "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
@@ -28,66 +71,60 @@
         "category": "Top News"
       },
       {
-        "title": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
+        "title": "A major Russian attack kills 17 in Kyiv as Ukraine keeps striking Moscow&apos;s oil sector",
         "link": "https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine",
         "pubDate": "Thu, 02 Jul 2026 01:47:53 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela&apos;s quakes",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
-        "pubDate": "Wed, 01 Jul 2026 13:54:10 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Lone star ticks are covering much of the U.S. Here&apos;s what you need to know",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5877341/lone-star-ticks-are-covering-much-of-the-u-s-heres-what-you-need-to-know",
-        "pubDate": "Wed, 01 Jul 2026 13:20:16 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Americans are showing up for the World Cup in record-breaking numbers",
-        "link": "https://www.npr.org/2026/07/01/nx-s1-5876297/world-cup-viewership-fox-telemundo",
-        "pubDate": "Wed, 01 Jul 2026 11:06:18 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
-        "link": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse",
-        "pubDate": "Wed, 01 Jul 2026 10:57:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "SCOTUS upholds birthright citizenship. And, key results from Colorado&apos;s primaries",
-        "link": "https://www.npr.org/2026/07/01/g-s1-131327/up-first-newsletter-supreme-court-birthright-citizenship-colorado-primaries-world-cup-heat-american-pride",
-        "pubDate": "Wed, 01 Jul 2026 07:29:24 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "At least 13 killed in 'most massive' Russian attack on Kyiv",
+        "title": "Grooming gang leader released from prison",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyx0vldrlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 12:01:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Labour failed to prepare for power, admits PM's former top aide",
+        "link": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 12:00:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Most massive' Russian attack on Kyiv kills at least 18",
         "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 09:15:16 GMT",
+        "pubDate": "Thu, 02 Jul 2026 11:53:29 GMT",
         "category": "world"
       },
       {
-        "title": "Victims of forced adoption to get formal apology after years campaigning",
+        "title": "Forced adoptions 'a stain on our history' says Starmer as he gives formal apology",
         "link": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 09:06:52 GMT",
+        "pubDate": "Thu, 02 Jul 2026 11:53:28 GMT",
         "category": "Top News"
       },
       {
-        "title": "Race Across the World winner's car smashed into and laptop stolen before kids' mental health talk",
-        "link": "https://www.bbc.co.uk/news/articles/ce37gd41gx1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 08:46:22 GMT",
+        "title": "Survivor buried by Venezuela quakes eight days ago is cheering rescuers on",
+        "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 11:31:19 GMT",
         "category": "Top News"
       },
       {
-        "title": "Watch: People smuggler tracked down and confronted by BBC",
-        "link": "https://www.bbc.co.uk/news/videos/cnv9648nd5vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 05:08:30 GMT",
-        "category": "Top News"
+        "title": "How to deal with excessive sweating",
+        "link": "https://www.bbc.co.uk/videos/cdxdkn14vgyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 10:44:02 GMT",
+        "category": "health"
+      },
+      {
+        "title": "EU border delays 'not bearable' over summer, warns airport boss",
+        "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 10:15:47 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Google must pay \u20ac4.1bn fine for using Android to 'block' rivals",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 02 Jul 2026 09:46:11 GMT",
+        "category": "tech"
       },
       {
         "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
@@ -96,55 +133,26 @@
         "category": "Top News"
       },
       {
-        "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
-        "link": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 04:59:47 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Don't expect trackers to save your stolen car, experts say",
-        "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 23:31:43 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Third UK heatwave increasingly likely as 30C temperatures forecast",
-        "link": "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 23:04:50 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
         "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 01 Jul 2026 22:36:43 GMT",
         "category": "us"
-      },
-      {
-        "title": "Can a 10-second finger workout help keep your brain healthy?",
-        "link": "https://www.bbc.co.uk/videos/c62106ngq79o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 01 Jul 2026 11:02:31 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "US keep World Cup dream alive with gutsy win over Bosnia",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a46559f4ac748d69a8ca2d17fe8c236&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fupdate1-soccer-us-keep-world-cup-dream-alive-with-gutsy-win-over-bosnia-2026-07-02%2f&amp;c=17046933448463700120&amp;mkt=en-us",
+        "pubDate": "Thu, 02 Jul 2026 02:50:00 GMT",
+        "category": "world"
+      }
+    ],
     "markets": [
       {
         "title": "Jim Cramer says this former Covid market darling is finally investable again",
         "link": "https://www.cnbc.com/2026/07/01/jim-cramer-says-this-former-covid-market-darling-is-finally-investable-again.html",
         "pubDate": "Wed, 01 Jul 2026 22:50:19 GMT",
         "category": "health"
-      },
-      {
-        "title": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
-        "link": "https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html",
-        "pubDate": "Wed, 01 Jul 2026 20:40:10 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
-        "link": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
-        "pubDate": "Wed, 01 Jul 2026 20:12:29 GMT",
-        "category": "business"
       }
     ]
   }
