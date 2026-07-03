@@ -1,26 +1,37 @@
 {
-  "updated_at": "2026-07-03T21:16:23.089448",
+  "updated_at": "2026-07-03T23:13:28.551275",
   "news": {
-    "ap": [
-      {
-        "title": "Brazil\u2019s top presidential candidates Lula and Fl&#225;vio Bolsonaro clash over US tariff proposal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a482608776c42cdae2fb7a7f996e04a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbrazil-lula-bolsonaro-tariffs-d376eb50aa2b7f82b407dd0e47e8e44a&amp;c=3152325319091884437&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 12:42:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Kerrville locals mark first anniversary of catastrophic flood in central Texas",
+        "link": "https://www.npr.org/2026/07/03/nx-s1-5876518/kerrville-locals-mark-first-anniversary-of-catastrophic-flood-in-central-texas",
+        "pubDate": "Fri, 03 Jul 2026 17:11:39 -0400",
+        "category": "us"
+      },
       {
         "title": "Taylor Swift and Travis Kelce fans gather for glimpse of top secret wedding",
         "link": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
         "pubDate": "Fri, 03 Jul 2026 17:03:00 -0400",
-        "category": "us"
+        "category": "Top News"
+      },
+      {
+        "title": "Iran&apos;s control of the Strait of Hormuz remains a powerful bargaining chip",
+        "link": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
+        "pubDate": "Fri, 03 Jul 2026 16:51:04 -0400",
+        "category": "world"
+      },
+      {
+        "title": "A family steps in to save the dying casino town of Primm, Nevada",
+        "link": "https://www.npr.org/2026/07/03/nx-s1-5822582/demise-and-possible-resurrection-of-primm-nevada",
+        "pubDate": "Fri, 03 Jul 2026 15:55:39 -0400",
+        "category": "Top News"
       },
       {
         "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
         "link": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
         "pubDate": "Fri, 03 Jul 2026 15:45:24 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine&apos;s capital",
@@ -51,31 +62,25 @@
         "link": "https://www.npr.org/2026/07/03/nx-s1-5876505/swimming-pool-rental-sharing-economy-swimply",
         "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
-        "link": "https://www.npr.org/2026/07/03/nx-s1-5877344/fertilizer-shortage-food-prices",
-        "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Oregon ER doctors win a &apos;David and Goliath&apos; battle against a national company",
-        "link": "https://www.npr.org/2026/07/03/nx-s1-5875435/eugene-oregon-corporate-medicine-emergency-doctors",
-        "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "How young people feel about American identity, on the nation&apos;s 250th birthday",
-        "link": "https://www.npr.org/2026/07/03/nx-s1-5869537/student-podcast-challenge-america-250",
-        "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Starmer warns Burnham will have to spend time on global affairs, in first interview since quitting",
+        "title": "England, Mexico & Fifa locked in kick-off time talks",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 22:45:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How to walk 30 minutes a day - your tips",
+        "link": "https://www.bbc.co.uk/news/articles/c20y2lkgz13o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 21:31:05 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning",
         "link": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 21:00:21 GMT",
+        "pubDate": "Fri, 03 Jul 2026 21:26:53 GMT",
         "category": "Top News"
       },
       {
@@ -83,12 +88,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 03 Jul 2026 20:51:49 GMT",
         "category": "us"
-      },
-      {
-        "title": "England v Mexico set to move to earlier kick-off time",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 20:44:38 GMT",
-        "category": "Top News"
       },
       {
         "title": "Polish PM warns critical months ahead in face of Russian threat",
@@ -125,76 +124,83 @@
         "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 03 Jul 2026 15:20:57 GMT",
         "category": "world"
-      },
-      {
-        "title": "German row over plan for workers to need sick note on first day of illness",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 14:56:30 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Firefighting planes battle wildfire near highway in southern France",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a48261bbc5b45529307c238d89d11fd&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW494703072026RP1%2f&amp;c=16874013715315858764&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 12:23:00 GMT",
+        "title": "Russian bomb attack kills at least four in Ukraine's Sumy, other areas also hit, officials say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4841946fdd43a89e17d943a09e4563&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2frussian-attacks-kill-six-three-different-regions-officials-say-2026-07-03%2f&amp;c=8503492238643205886&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 14:55:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "JPMorgan sees $4,500 gold price in fourth quarter, says risks to downside",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a48261bbc5b45529307c238d89d11fd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fjp-morgan-says-weaker-demand-may-cap-gold-gains-near-term-sees-rebound-late-2026-2026-07-03%2f&amp;c=10372745202455267446&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 11:39:00 GMT",
+        "title": "Celebrities arrive at Madison Square Garden for reported Swift-Kelce wedding",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4841946fdd43a89e17d943a09e4563&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW497703072026RP1%2f&amp;c=862643882472765456&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 14:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Russian defence ministry says its forces captured Kostiantynivka in eastern Ukraine",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4841946fdd43a89e17d943a09e4563&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2frussian-defence-ministry-says-its-forces-captured-kostiantynivka-eastern-ukraine-2026-07-03%2f&amp;c=6573255087371260673&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 14:08:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Keiko Fujimori declared winner of Peru presidential race",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a48261bbc5b45529307c238d89d11fd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fkeiko-fujimori-declared-winner-peru-presidential-race-2026-07-03%2f&amp;c=8491071476042002905&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 11:38:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4841946fdd43a89e17d943a09e4563&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fkeiko-fujimori-declared-winner-peru-presidential-race-2026-07-03%2f&amp;c=8491071476042002905&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 13:47:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "China's Chery takes over former Nissan car factory in South Africa",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a48261bbc5b45529307c238d89d11fd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchinas-chery-takes-over-former-nissan-car-factory-south-africa-2026-07-03%2f&amp;c=8886653876945650304&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 11:38:00 GMT",
+        "title": "Largest US power grid PJM orders emergency curbs as electricity use nears record peak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4841946fdd43a89e17d943a09e4563&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2flargest-us-power-grid-pjm-says-it-is-no-longer-able-provide-expected-energy-2026-07-03%2f&amp;c=13058588362095589939&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 13:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Firefighters battle blazes in southern France after European heatwave",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4841946fdd43a89e17d943a09e4563&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2ffirefighters-battle-wildfire-southern-france-2026-07-02%2f&amp;c=4742205171068134930&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 13:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dashing Djokovic matches Federer with 105th Wimbledon match win",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4841946fdd43a89e17d943a09e4563&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ftennis%2fdjokovic-matches-federer-with-105th-wimbledon-match-win-2026-07-03%2f&amp;c=9788971940615554555&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 11:42:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Portugal asks EU, Spain and Morocco for support as wildfire risk rises",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a48261bbc5b45529307c238d89d11fd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fportugal-asks-eu-spain-morocco-support-wildfire-risk-rises-2026-07-03%2f&amp;c=11125564498247856423&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4841946fdd43a89e17d943a09e4563&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fportugal-asks-eu-spain-morocco-support-wildfire-risk-rises-2026-07-03%2f&amp;c=11125564498247856423&amp;mkt=en-us",
         "pubDate": "Fri, 03 Jul 2026 11:20:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Heavy rains flood roads, homes in parts of India",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a48261bbc5b45529307c238d89d11fd&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW490203072026RP1%2f&amp;c=14828908464067404762&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 10:02:00 GMT",
+        "title": "Khamenei lies in state in Tehran as Iran begins week of funeral ceremonies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4841946fdd43a89e17d943a09e4563&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firans-slain-leader-khamenei-laid-state-tehran-week-mass-funeral-events-2026-07-03%2f&amp;c=2977315695854706044&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 08:30:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a48261bbc5b45529307c238d89d11fd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2firan-exploring-oil-sales-japan-buyers-seek-longer-sanctions-waiver-sources-2026-07-03%2f&amp;c=6776683661205061550&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 08:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Americans hit the roads for July 4 despite high gasoline prices",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a48261bbc5b45529307c238d89d11fd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2famericans-hit-road-july-4-despite-high-gasoline-prices-2026-07-03%2f&amp;c=4437115659316748206&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 07:58:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump to visit Mount Rushmore to mark US 250th celebrations",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a48261bbc5b45529307c238d89d11fd&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-visit-mount-rushmore-mark-us-250th-celebrations-2026-07-03%2f&amp;c=10490931444936079527&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 02:34:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Japan keeps yen intervention threat alive, says in close touch with US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a48262e4a38497da555524c86c5b3b1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapan-finance-minister-says-ready-respond-yen-contact-with-us-authorities-2026-07-03%2f&amp;c=8813346814463920215&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 01:57:00 GMT",
-        "category": "us"
+        "title": "Temasek-backed Manipal Health gets SEBI approval for India IPO, eyes July listing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4841d012f94af3935b6b6f9b605142&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2ftemasek-backed-manipal-health-gets-sebi-approval-india-ipo-eyes-july-listing-2026-07-03%2f&amp;c=10276150155278580898&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 06:32:00 GMT",
+        "category": "health"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "This generator builder catering to AI went public a month ago. Why analysts see big gains",
+        "link": "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html",
+        "pubDate": "Fri, 03 Jul 2026 13:28:07 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Don&apos;t throw away your shot to speak to an AI Alexander Hamilton at Boston&apos;s new finance museum",
+        "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
+        "pubDate": "Fri, 03 Jul 2026 13:16:09 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
