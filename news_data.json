@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-03T14:23:58.545166",
+  "updated_at": "2026-07-03T17:41:13.235749",
   "news": {
-    "ap": [
-      {
-        "title": "Reds open 3-game series at home against the Orioles",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47c56dbcc24dc5ab8868381ba1d501&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbaltimore-orioles-baseball-cincinnati-reds-6878cab2ff294ec3b643f97272e949c8&amp;c=6028578148165639738&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 01:02:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine&apos;s capital",
@@ -47,14 +40,14 @@
         "category": "tech"
       },
       {
-        "title": "How young people feel about American identity, on the nation&apos;s 250th birthday",
-        "link": "https://www.npr.org/2026/07/03/nx-s1-5869537/student-podcast-challenge-america-250",
+        "title": "Oregon ER doctors win a &apos;David and Goliath&apos; battle against a national company",
+        "link": "https://www.npr.org/2026/07/03/nx-s1-5875435/eugene-oregon-corporate-medicine-emergency-doctors",
         "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Oregon ER doctors win a &apos;David and Goliath&apos; battle against a national company",
-        "link": "https://www.npr.org/2026/07/03/nx-s1-5875435/eugene-oregon-corporate-medicine-emergency-doctors",
+        "title": "How young people feel about American identity, on the nation&apos;s 250th birthday",
+        "link": "https://www.npr.org/2026/07/03/nx-s1-5869537/student-podcast-challenge-america-250",
         "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -73,86 +66,105 @@
     ],
     "bbc": [
       {
-        "title": "Three men found not guilty of Lyra McKee murder",
-        "link": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 14:18:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dangerous heatwave scorches US as Fourth of July holiday kicks off",
+        "title": "Americans swelter under dangerous heatwave as Fourth of July holiday kicks off",
         "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 14:17:40 GMT",
+        "pubDate": "Fri, 03 Jul 2026 17:07:54 GMT",
         "category": "us"
       },
       {
-        "title": "Police criticise timing of decision on pubs staying open for England match",
-        "link": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 14:14:05 GMT",
+        "title": "Polish PM warns critical months ahead in face of Russian threat",
+        "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 16:41:00 GMT",
         "category": "Top News"
       },
       {
         "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
         "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 13:14:52 GMT",
+        "pubDate": "Fri, 03 Jul 2026 16:13:14 GMT",
         "category": "business"
+      },
+      {
+        "title": "Three men found not guilty of journalist Lyra McKee's murder",
+        "link": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 16:12:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Henry Nowak's killer appeals conviction and sentence",
+        "link": "https://www.bbc.co.uk/news/articles/c3wy26p5lexo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 16:11:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Parents warned not to publicly share children\u2019s images amid AI abuse risks",
+        "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 15:57:42 GMT",
+        "category": "tech"
       },
       {
         "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
         "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 13:12:52 GMT",
-        "category": "Top News"
+        "pubDate": "Fri, 03 Jul 2026 15:20:57 GMT",
+        "category": "world"
       },
       {
-        "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-        "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 10:23:32 GMT",
-        "category": "world"
+        "title": "German row over plan for workers to need sick note on first day of illness",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 14:56:30 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Police criticise timing of decision on pubs staying open for England match",
+        "link": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 14:22:16 GMT",
+        "category": "Top News"
       },
       {
         "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
         "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 02 Jul 2026 23:15:22 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "NHS to reward people who walk 30 minutes a day",
-        "link": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 23:13:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "AI is 'not smart' so what's next in artificial intelligence?",
-        "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 23:02:09 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "WHO says Hantavirus outbreak linked to ship is over",
-        "link": "https://www.bbc.co.uk/news/articles/cd7wjy2e1d8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 16:30:42 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Japan keeps yen intervention threat alive, says in close touch with US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47c5923f0c4818aa746d6b1d174f48&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapan-finance-minister-says-ready-respond-yen-contact-with-us-authorities-2026-07-03%2f&amp;c=8813346814463920215&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 01:57:00 GMT",
-        "category": "us"
+        "title": "Temasek-backed Manipal Health gets SEBI approval for India IPO, eyes July listing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47f407202446758786cd2423b30b59&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2ftemasek-backed-manipal-health-gets-sebi-approval-india-ipo-eyes-july-listing-2026-07-03%2f&amp;c=10276150155278580898&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 06:32:00 GMT",
+        "category": "health"
       },
       {
-        "title": "Global equity fund inflows rise as investors add tech stocks after market dip",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47c5a43d2f42779073f7ad3f2d002f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-flows-graphic-pix-2026-07-03%2f&amp;c=11434326177093507324&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 01:49:00 GMT",
+        "title": "South African rand firms on weaker dollar before business activity PMI",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47f3f613d44957a861073a141f532b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fsouth-african-rand-firms-weaker-dollar-before-business-activity-pmi-2026-07-03%2f&amp;c=14000713298159014028&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 00:14:00 GMT",
+        "category": "business"
+      }
+    ],
+    "markets": [
+      {
+        "title": "The hunt for AI&apos;s next winners defined the stock market&apos;s holiday-shortened week",
+        "link": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
+        "pubDate": "Fri, 03 Jul 2026 15:51:06 GMT",
         "category": "tech"
       },
       {
-        "title": "At least 3,700 excess deaths reported during heatwave in France, Belgium and Netherlands",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47c5a69f4346c597d467b70ad841d1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fleast-3700-excess-deaths-reported-during-heatwave-france-belgium-netherlands-2026-07-03%2f&amp;c=7906293268652644146&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 00:25:00 GMT",
-        "category": "health"
+        "title": "This generator builder catering to AI went public a month ago. Why analysts see big gains",
+        "link": "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html",
+        "pubDate": "Fri, 03 Jul 2026 13:28:07 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Don&apos;t throw away your shot to speak to an AI Alexander Hamilton at Boston&apos;s new finance museum",
+        "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
+        "pubDate": "Fri, 03 Jul 2026 13:16:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Citadel&apos;s hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
+        "link": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html",
+        "pubDate": "Thu, 02 Jul 2026 21:11:03 GMT",
+        "category": "Top News"
       }
-    ],
-    "markets": []
+    ]
   }
 }
