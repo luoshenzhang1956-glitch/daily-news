@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-07-03T10:45:19.424504",
+  "updated_at": "2026-07-03T14:23:58.545166",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Reds open 3-game series at home against the Orioles",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47c56dbcc24dc5ab8868381ba1d501&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbaltimore-orioles-baseball-cincinnati-reds-6878cab2ff294ec3b643f97272e949c8&amp;c=6028578148165639738&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 01:02:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine&apos;s capital",
+        "link": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
+        "pubDate": "Fri, 03 Jul 2026 07:39:07 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Just gave birth or are about to? Share your story and questions about costs",
+        "link": "https://www.npr.org/2026/07/03/nx-s1-5879531/birth-pregnancy-costs-healthcare-us",
+        "pubDate": "Fri, 03 Jul 2026 07:03:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Former USAID head grieves its closure while hoping for its future",
+        "link": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future",
+        "pubDate": "Fri, 03 Jul 2026 07:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
         "link": "https://www.npr.org/2026/07/03/nx-s1-5877344/fertilizer-shortage-food-prices",
@@ -22,14 +47,14 @@
         "category": "tech"
       },
       {
-        "title": "Oregon ER doctors win a &apos;David and Goliath&apos; battle against a national company",
-        "link": "https://www.npr.org/2026/07/03/nx-s1-5875435/eugene-oregon-corporate-medicine-emergency-doctors",
-        "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
         "title": "How young people feel about American identity, on the nation&apos;s 250th birthday",
         "link": "https://www.npr.org/2026/07/03/nx-s1-5869537/student-podcast-challenge-america-250",
+        "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Oregon ER doctors win a &apos;David and Goliath&apos; battle against a national company",
+        "link": "https://www.npr.org/2026/07/03/nx-s1-5875435/eugene-oregon-corporate-medicine-emergency-doctors",
         "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -40,54 +65,48 @@
         "category": "Top News"
       },
       {
-        "title": "Some states rolling back worker heat protections",
-        "link": "https://www.npr.org/2026/07/03/nx-s1-5876237/some-states-rolling-back-worker-heat-protections",
-        "pubDate": "Fri, 03 Jul 2026 04:14:28 -0400",
+        "title": "Hakeem Jeffries addresses Democratic Party divisions, says Trump is the bigger issue",
+        "link": "https://www.npr.org/2026/07/03/nx-s1-5879082/hakeem-jeffries-democratic-party-divisions-trump-midterms",
+        "pubDate": "Fri, 03 Jul 2026 04:15:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Designer of 50-star flag looks back at his high school project",
-        "link": "https://www.npr.org/2026/07/03/nx-s1-5879510/designer-of-50-star-flag-looks-back-at-his-high-school-project",
-        "pubDate": "Fri, 03 Jul 2026 04:10:51 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Croatia vs. Portugal: What happened in those final, chaotic minutes",
-        "link": "https://www.npr.org/2026/07/03/nx-s1-5880386/croatia-portugal-chaotic-minutes",
-        "pubDate": "Fri, 03 Jul 2026 02:42:15 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Australian officials ask fans to respect the privacy of Neil, a trouble-making seal",
-        "link": "https://www.npr.org/2026/07/03/g-s1-131911/australia-trouble-making-seal",
-        "pubDate": "Fri, 03 Jul 2026 02:39:51 -0400",
-        "category": "world"
       }
     ],
     "bbc": [
+      {
+        "title": "Three men found not guilty of Lyra McKee murder",
+        "link": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 14:18:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dangerous heatwave scorches US as Fourth of July holiday kicks off",
+        "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 14:17:40 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Police criticise timing of decision on pubs staying open for England match",
+        "link": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 14:14:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+        "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 13:14:52 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+        "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 13:12:52 GMT",
+        "category": "Top News"
+      },
       {
         "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
         "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 03 Jul 2026 10:23:32 GMT",
         "category": "world"
-      },
-      {
-        "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
-        "link": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 08:36:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Burnham says there is some room for movement on tax",
-        "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 07:40:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dangerous heatwave scorches US ahead of Fourth of July holiday",
-        "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 02:24:34 GMT",
-        "category": "us"
       },
       {
         "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
@@ -108,18 +127,6 @@
         "category": "tech"
       },
       {
-        "title": "'Nobody wants a random dish': How much should you gift at a wedding?",
-        "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 23:01:24 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
-        "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 20:49:17 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "WHO says Hantavirus outbreak linked to ship is over",
         "link": "https://www.bbc.co.uk/news/articles/cd7wjy2e1d8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 02 Jul 2026 16:30:42 GMT",
@@ -128,43 +135,24 @@
     ],
     "reuters": [
       {
+        "title": "Japan keeps yen intervention threat alive, says in close touch with US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47c5923f0c4818aa746d6b1d174f48&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapan-finance-minister-says-ready-respond-yen-contact-with-us-authorities-2026-07-03%2f&amp;c=8813346814463920215&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 01:57:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Global equity fund inflows rise as investors add tech stocks after market dip",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47926c99bc4780a7ad01811540803f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-flows-graphic-pix-2026-07-03%2f&amp;c=11434326177093507324&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 02:48:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47c5a43d2f42779073f7ad3f2d002f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-flows-graphic-pix-2026-07-03%2f&amp;c=11434326177093507324&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 01:49:00 GMT",
         "category": "tech"
       },
       {
         "title": "At least 3,700 excess deaths reported during heatwave in France, Belgium and Netherlands",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47926dc8034f338784796c84470aee&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fleast-3700-excess-deaths-reported-during-heatwave-france-belgium-netherlands-2026-07-03%2f&amp;c=7906293268652644146&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47c5a69f4346c597d467b70ad841d1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fleast-3700-excess-deaths-reported-during-heatwave-france-belgium-netherlands-2026-07-03%2f&amp;c=7906293268652644146&amp;mkt=en-us",
         "pubDate": "Fri, 03 Jul 2026 00:25:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "Japan keeps yen intervention threat alive, says in close touch with US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47926a575a42d98d25dad426552a97&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapan-finance-minister-says-ready-respond-yen-contact-with-us-authorities-2026-07-03%2f&amp;c=8813346814463920215&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Jul 2026 23:42:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "South African rand firms on weaker dollar before business activity PMI",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47926bfab74a5faafa51528c8d4fbc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fsouth-african-rand-firms-weaker-dollar-before-business-activity-pmi-2026-07-03%2f&amp;c=14000713298159014028&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Jul 2026 23:14:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "World Cup reunites Peace Corps teacher with Cape Verde student",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4792671b4c4239a3882a78d0c5f382&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW468603072026RP1%2f&amp;c=640808195320542372&amp;mkt=en-us",
-        "pubDate": "Thu, 02 Jul 2026 21:41:00 GMT",
-        "category": "world"
       }
     ],
-    "markets": [
-      {
-        "title": "Sandwich chain Jersey Mike&apos;s files for IPO, reports 50% same-store sales growth in recent years",
-        "link": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html",
-        "pubDate": "Thu, 02 Jul 2026 17:38:30 GMT",
-        "category": "business"
-      }
-    ]
+    "markets": []
   }
 }
