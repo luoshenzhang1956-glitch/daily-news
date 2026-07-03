@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-03T17:41:13.235749",
+  "updated_at": "2026-07-03T19:40:34.762319",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Egg producers will pay $3.3M and donate 53 million eggs to settle price-fixing claims",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480f881e454953bd22c4996f674ef5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fegg-prices-collusion-settlement-d32b05892541613df3f4e4932109ee0c&amp;c=4243165848151832540&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 06:09:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
       {
         "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine&apos;s capital",
@@ -66,10 +73,22 @@
     ],
     "bbc": [
       {
-        "title": "Americans swelter under dangerous heatwave as Fourth of July holiday kicks off",
+        "title": "England v Mexico set to move to earlier kick-off time",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 19:24:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sweltering heat forces temporary closure of Great American State fair as Fourth of July holiday kicks off",
         "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 17:07:54 GMT",
+        "pubDate": "Fri, 03 Jul 2026 18:34:25 GMT",
         "category": "us"
+      },
+      {
+        "title": "Burnham rules out calling early election as PM",
+        "link": "https://www.bbc.co.uk/news/articles/c982r5z7v0no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 03 Jul 2026 18:22:58 GMT",
+        "category": "Top News"
       },
       {
         "title": "Polish PM warns critical months ahead in face of Russian threat",
@@ -90,7 +109,7 @@
         "category": "Top News"
       },
       {
-        "title": "Henry Nowak's killer appeals conviction and sentence",
+        "title": "Nowak killer appeals against conviction and sentence",
         "link": "https://www.bbc.co.uk/news/articles/c3wy26p5lexo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 03 Jul 2026 16:11:14 GMT",
         "category": "Top News"
@@ -112,58 +131,82 @@
         "link": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 03 Jul 2026 14:56:30 GMT",
         "category": "health"
-      },
-      {
-        "title": "Police criticise timing of decision on pubs staying open for England match",
-        "link": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 14:22:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-        "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 02 Jul 2026 23:15:22 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Temasek-backed Manipal Health gets SEBI approval for India IPO, eyes July listing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47f407202446758786cd2423b30b59&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2ftemasek-backed-manipal-health-gets-sebi-approval-india-ipo-eyes-july-listing-2026-07-03%2f&amp;c=10276150155278580898&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 06:32:00 GMT",
-        "category": "health"
+        "title": "Largest US power grid PJM escalates emergency actions to avoid blackouts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480fab0c95419ba828a41a8415309e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2flargest-us-power-grid-pjm-says-it-is-no-longer-able-provide-expected-energy-2026-07-03%2f&amp;c=13058588362095589939&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 11:46:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "South African rand firms on weaker dollar before business activity PMI",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a47f3f613d44957a861073a141f532b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fsouth-african-rand-firms-weaker-dollar-before-business-activity-pmi-2026-07-03%2f&amp;c=14000713298159014028&amp;mkt=en-us",
-        "pubDate": "Fri, 03 Jul 2026 00:14:00 GMT",
-        "category": "business"
+        "title": "Texas Attorney General launches investigation into StubHub amid World Cup complaints",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480fab0c95419ba828a41a8415309e&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ftexas-attorney-general-launches-investigation-into-stubhub-amid-world-cup-2026-07-03%2f&amp;c=9674746845758804896&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 11:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Keiko Fujimori declared winner of Peru presidential race",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480fab0c95419ba828a41a8415309e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fkeiko-fujimori-declared-winner-peru-presidential-race-2026-07-03%2f&amp;c=8491071476042002905&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 11:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Heavy rains flood roads, homes in parts of India",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480fab0c95419ba828a41a8415309e&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW490203072026RP1%2f&amp;c=14828908464067404762&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 11:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Russian attacks kill six in three different regions, officials say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480fab0c95419ba828a41a8415309e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2frussian-attacks-kill-six-three-different-regions-officials-say-2026-07-03%2f&amp;c=8503492238643205886&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 11:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "In the West Bank, Israeli settlers take over Palestinian's dream home",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480fab0c95419ba828a41a8415309e&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW480003072026RP1%2f&amp;c=410996024405966571&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 10:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran's president, FM bid farewell to slain Supreme Leader Khamenei",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480fab0c95419ba828a41a8415309e&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRCV00GR76%2f&amp;c=282385026431965986&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 09:40:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Americans hit road for July 4 despite high gasoline prices",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480fab0c95419ba828a41a8415309e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2famericans-hit-road-july-4-despite-high-gasoline-prices-2026-07-03%2f&amp;c=4437115659316748206&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 07:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480fab0c95419ba828a41a8415309e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2firan-exploring-oil-sales-japan-buyers-seek-longer-sanctions-waiver-sources-2026-07-03%2f&amp;c=6776683661205061550&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 05:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "As America turns 250, museums and parks fight to preserve the country\u2019s troubled history",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a480fab0c95419ba828a41a8415309e&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2famerica-turns-250-museums-parks-fight-preserve-countrys-troubled-history-2026-07-03%2f&amp;c=5059721408753298785&amp;mkt=en-us",
+        "pubDate": "Fri, 03 Jul 2026 03:07:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "The hunt for AI&apos;s next winners defined the stock market&apos;s holiday-shortened week",
-        "link": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
-        "pubDate": "Fri, 03 Jul 2026 15:51:06 GMT",
+        "title": "First known congressional SpaceX stock buys surface after record IPO",
+        "link": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+        "pubDate": "Fri, 03 Jul 2026 18:16:43 GMT",
         "category": "tech"
       },
       {
-        "title": "This generator builder catering to AI went public a month ago. Why analysts see big gains",
-        "link": "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html",
-        "pubDate": "Fri, 03 Jul 2026 13:28:07 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Don&apos;t throw away your shot to speak to an AI Alexander Hamilton at Boston&apos;s new finance museum",
-        "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
-        "pubDate": "Fri, 03 Jul 2026 13:16:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Citadel&apos;s hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
-        "link": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html",
-        "pubDate": "Thu, 02 Jul 2026 21:11:03 GMT",
-        "category": "Top News"
+        "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
+        "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
+        "pubDate": "Fri, 03 Jul 2026 12:08:21 GMT",
+        "category": "business"
       }
     ]
   }
