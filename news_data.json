@@ -1,23 +1,41 @@
 {
-  "updated_at": "2026-07-04T21:07:33.205200",
+  "updated_at": "2026-07-04T23:04:44.852219",
   "news": {
     "ap": [
       {
-        "title": "Trump hails US exceptionalism before veering into darkly political speech to usher in America 250",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4975559e7b44498a5765991c53485a&amp;url=https%3a%2f%2fapnews.com%2farticle%2famerica-250-celebrations-heatwave-trump-9d84acb8bd36837b2f21fab9e1808fc0&amp;c=10991971596894867278&amp;mkt=en-us",
-        "pubDate": "Sat, 04 Jul 2026 11:05:00 GMT",
-        "category": "us"
+        "title": "A child can drown in seconds. Doctors want more families to be prepared",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a499121c62e40c9b8174c2c8f305f38&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdrowning-children-stew-leonards-6e627bdbfc58fffbc5ac7b4e4a8978ef&amp;c=14976183613510623366&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 05:01:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Padres take road slide into matchup against the Dodgers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a49911d05ec49b396028462d909da13&amp;url=https%3a%2f%2fapnews.com%2farticle%2flos-angeles-dodgers-san-diego-padres-baseball-athlete-injuries-6722679ce8f34301ae99b56516434cc6&amp;c=17279455802011255501&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 01:01:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
       {
-        "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
-        "link": "https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250",
-        "pubDate": "Sat, 04 Jul 2026 16:34:31 -0400",
+        "title": "A new phase in the war in Ukraine",
+        "link": "https://www.npr.org/2026/07/04/nx-s1-5879372/a-new-phase-in-the-war-in-ukraine",
+        "pubDate": "Sat, 04 Jul 2026 17:03:51 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Trump closes out July Fourth with a speech and fireworks",
+        "link": "https://www.npr.org/2026/07/04/nx-s1-5879179/trump-closes-out-july-fourth-with-a-speech-and-fireworks",
+        "pubDate": "Sat, 04 Jul 2026 17:03:48 -0400",
         "category": "us"
       },
       {
-        "title": "Washington&apos;s July 4 parade is off. The fireworks are still on",
+        "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
+        "link": "https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250",
+        "pubDate": "Sat, 04 Jul 2026 16:34:31 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Washington&apos;s July 4 parade is called off. The fireworks are still on",
         "link": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
         "pubDate": "Sat, 04 Jul 2026 12:42:10 -0400",
         "category": "Top News"
@@ -32,7 +50,7 @@
         "title": "China&apos;s military promotes 2 new generals after anti-corruption purge thins ranks",
         "link": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
         "pubDate": "Sat, 04 Jul 2026 10:07:57 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Opinion: America is still a work in progress",
@@ -57,15 +75,15 @@
         "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
         "pubDate": "Sat, 04 Jul 2026 01:04:16 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Reflections on America&apos;s 250th birthday",
-        "link": "https://www.npr.org/2026/07/04/nx-s1-5876246/reflections-on-americas-250th-birthday",
-        "pubDate": "Sat, 04 Jul 2026 00:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "NHS app to use AI to determine which service best for patients",
+        "link": "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 04 Jul 2026 21:32:08 GMT",
+        "category": "health"
+      },
       {
         "title": "Police leadership needs 'ethical reset', Lord Blunkett tells BBC",
         "link": "https://www.bbc.co.uk/news/articles/cy0429yx1k9o?at_medium=RSS&amp;at_campaign=rss",
@@ -103,9 +121,9 @@
         "category": "Top News"
       },
       {
-        "title": "Pubs and police brace for England-Mexico 1am kick-off after Fifa U-turn",
-        "link": "https://www.bbc.co.uk/news/articles/cy9r2x4pz1wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 04 Jul 2026 12:13:46 GMT",
+        "title": "The massive scramble behind the scenes before the new PM arrives",
+        "link": "https://www.bbc.co.uk/news/articles/cj4g0n0p15xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 04 Jul 2026 12:19:05 GMT",
         "category": "Top News"
       },
       {
@@ -119,15 +137,70 @@
         "link": "https://www.bbc.co.uk/iplayer/episode/m002ysd5?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 04 Jul 2026 01:00:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "How to walk 30 minutes a day - your tips",
-        "link": "https://www.bbc.co.uk/news/articles/c20y2lkgz13o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 03 Jul 2026 21:31:05 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Insurgents stage coordinated attacks on army positions across Mali",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a49912377f141f2a8630359433667e7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2finsurgents-attack-multiple-towns-northern-central-mali-sources-say-2026-07-04%2f&amp;c=2109407943946397788&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 14:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Coach Aguirre says selfless Mexico ready for England test",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a49912377f141f2a8630359433667e7&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fcoach-aguirre-says-selfless-mexico-ready-england-test-2026-07-04%2f&amp;c=9121656866766093877&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 14:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4991574d864e56bb12acd42893ee57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fdeath-toll-venezuela-quakes-rises-2954-2026-07-04%2f&amp;c=12720628966039303247&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 14:33:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Ukraine's Zelenskiy says he spoke to Trump, calls for 'American resolve' to help end war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a49912377f141f2a8630359433667e7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fukraines-zelenskiy-says-he-spoke-trump-calls-american-resolve-help-end-war-2026-07-04%2f&amp;c=13674785496633985284&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 14:33:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Eating champion Joey Chestnut defends title but blames heat for lower hot-dog tally",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a49912377f141f2a8630359433667e7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2feating-champion-joey-chestnut-defends-title-blames-heat-lower-hot-dog-tally-2026-07-04%2f&amp;c=15909144607944234045&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 14:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Masked Patriot Front white nationalists stage July 4 march through DC",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a49912377f141f2a8630359433667e7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fmasked-patriot-front-white-nationalists-stage-july-4-march-through-dc-2026-07-04%2f&amp;c=899288004676477478&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 14:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump to mark US 250th anniversary with campaign-style rally on National Mall",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a49912377f141f2a8630359433667e7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-mark-us-250th-anniversary-with-campaign-style-rally-national-mall-2026-07-04%2f&amp;c=4081380977156146225&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 14:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Mass grief at Khamenei funeral projects hardline grip on post-war Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a49912377f141f2a8630359433667e7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2firanians-flock-week-long-funeral-rites-khamenei-2026-07-04%2f&amp;c=20228169243135363&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 09:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thousands protest in Germany as far-right AfD sets sights on power",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a49912377f141f2a8630359433667e7&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW515704072026RP1%2f&amp;c=9745140100612133704&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 08:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "For one small business, AI was key to a quick start and expansion",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4991555991465eabed885f094f4f8b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fone-small-business-ai-was-key-quick-start-expansion-2026-07-04%2f&amp;c=15226655758345488416&amp;mkt=en-us",
+        "pubDate": "Sat, 04 Jul 2026 07:20:00 GMT",
+        "category": "tech"
+      }
+    ],
     "markets": []
   }
 }
