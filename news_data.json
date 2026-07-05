@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-07-05T17:19:46.653598",
+  "updated_at": "2026-07-05T19:28:44.655270",
   "news": {
     "ap": [
       {
-        "title": "Astros square off against the Rays with series tied 1-1",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4a91be3ae3421ba79b7072b2982724&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhouston-astros-tampa-bay-rays-baseball-athlete-injuries-83634497e70e418ea151b21c3ff94d08&amp;c=625574099648473879&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 01:02:00 GMT",
-        "category": "tech"
+        "title": "Mitchell Robinson says injury before NBA Finals came from hitting truck amid concern for his brother",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafd628ca4500a99e0f653bf0121c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fknicks-mitchell-robinson-injury-9939c056256740c725756f1b9f99ae9c&amp;c=2385160721066345033&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 11:56:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Folarin Balogun&apos;s soccer ban suspended by FIFA, allowing U.S. striker to play Belgium",
+        "link": "https://www.npr.org/2026/07/05/g-s1-132061/folarin-balogun-soccer-reinstated-ban-suspended-fifa-belgium",
+        "pubDate": "Sun, 05 Jul 2026 14:37:19 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi",
+        "link": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
+        "pubDate": "Sun, 05 Jul 2026 13:22:55 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Construction is a man&apos;s game. These women are demolishing the barriers",
         "link": "https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya",
@@ -44,7 +56,7 @@
         "title": "Pastor freed from prison in China weeks after Trump requested his release",
         "link": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
         "pubDate": "Sun, 05 Jul 2026 04:30:07 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
@@ -55,21 +67,45 @@
     ],
     "bbc": [
       {
-        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-        "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 15:48:55 GMT",
-        "category": "world"
+        "title": "Reform denies rules broken by Farage after benefits from ally not declared",
+        "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 05 Jul 2026 19:22:47 GMT",
+        "category": "Top News"
       },
       {
-        "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-        "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 15:48:20 GMT",
-        "category": "Top News"
+        "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
+        "link": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 05 Jul 2026 18:35:23 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+        "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 05 Jul 2026 17:58:01 GMT",
+        "category": "world"
       },
       {
         "title": "'Posh George': Who is aristocrat and convicted criminal at heart of Farage controversy?",
         "link": "https://www.bbc.co.uk/news/articles/c5yzzw5vk8vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 15:34:34 GMT",
+        "pubDate": "Sun, 05 Jul 2026 17:57:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Emotion and politics merge in Tehran at funeral of former supreme leader",
+        "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 05 Jul 2026 17:54:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "EasyJet reaches 'agreement in principle' over potential takeover",
+        "link": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 05 Jul 2026 17:30:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump thanks Fifa after USA striker Balogun's ban suspended",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 05 Jul 2026 17:15:30 GMT",
         "category": "Top News"
       },
       {
@@ -77,18 +113,6 @@
         "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 05 Jul 2026 13:55:34 GMT",
         "category": "business"
-      },
-      {
-        "title": "Australia probes mystery space balls that washed up on beach",
-        "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 12:55:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Reform denies rules broken by Farage after benefits from ally not declared",
-        "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 12:31:39 GMT",
-        "category": "Top News"
       },
       {
         "title": "England battling the weight of history as well as Mexican nation in Azteca cauldron",
@@ -101,32 +125,68 @@
         "link": "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 05 Jul 2026 11:18:15 GMT",
         "category": "health"
-      },
-      {
-        "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-        "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 08:24:32 GMT",
-        "category": "us"
-      },
-      {
-        "title": "What Sky buying ITV could mean for your favourite shows",
-        "link": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 04 Jul 2026 23:23:51 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Uber pauses Europe food delivery expansion as it pursues Delivery Hero deal, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4a91fea126446ea95b307c22f9177d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fuber-pauses-europe-food-delivery-expansion-it-pursues-delivery-hero-deal-ft-2026-07-05%2f&amp;c=15197696797382201228&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 07:49:00 GMT",
-        "category": "business"
+        "title": "Osaka topples Sabalenka to blow Wimbledon draw wide open",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafdac00a4c828a5d146f5bdf5f72&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ftennis%2ftop-seed-sabalenka-beaten-wimbledon-by-inspired-osaka-2026-07-05%2f&amp;c=6895072234802065203&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 11:14:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Wall St Week Ahead Investors look for Fed clues, earnings signs as tech wobbles",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4a920150fc41b78392eca1206d581b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-week-ahead-investors-look-fed-clues-earnings-signs-tech-wobbles-2026-07-03%2f&amp;c=1079034021476243634&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 05:00:00 GMT",
-        "category": "tech"
+        "title": "Jordan part ways with coach Sellami",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafdac00a4c828a5d146f5bdf5f72&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fjordan-part-ways-with-coach-sellami-2026-07-05%2f&amp;c=18292070928284612400&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 11:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Leclerc wins British GP as F1 leader Antonelli fails to score",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafdac00a4c828a5d146f5bdf5f72&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fformula1%2fleclerc-wins-british-gp-behind-safety-car-2026-07-05%2f&amp;c=13829741488240327830&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 11:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Swiss expect toughest challenge yet from Colombia in last 16",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafdac00a4c828a5d146f5bdf5f72&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fswiss-expect-toughest-challenge-yet-colombia-last-16-2026-07-05%2f&amp;c=11275339589928062707&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 10:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump to meet leaders of Ukraine, Syria alongside NATO summit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafdac00a4c828a5d146f5bdf5f72&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrump-meet-leaders-ukraine-syria-alongside-nato-summit-2026-07-05%2f&amp;c=17478993027372151846&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 10:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK budget airline easyJet agrees to $7.3 billion takeover",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafdac00a4c828a5d146f5bdf5f72&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2feasyjet-agrees-principle-castlelakes-sweetened-690-per-share-bid-2026-07-05%2f&amp;c=6289224319827639206&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 10:37:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US striker Balogun available for Belgium clash despite red card",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafdac00a4c828a5d146f5bdf5f72&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fus-striker-balogun-available-belgium-clash-despite-red-card-2026-07-05%2f&amp;c=2317977127459227197&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 09:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "French wildfires force officials to ban public from Tour de France's third stage",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafdac00a4c828a5d146f5bdf5f72&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2ffrench-wildfires-jeopardise-finish-line-tour-de-frances-third-stage-2026-07-05%2f&amp;c=527112342077106416&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 09:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafdac00a4c828a5d146f5bdf5f72&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fthree-sons-irans-slain-leader-khamenei-appear-funeral-not-his-successor-2026-07-05%2f&amp;c=6326322091319529439&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 08:33:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Masked Patriot Front white nationalists stage July 4 march through DC",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4aafdac00a4c828a5d146f5bdf5f72&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fmasked-patriot-front-white-nationalists-stage-july-4-march-through-dc-2026-07-04%2f&amp;c=899288004676477478&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 03:23:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": []
