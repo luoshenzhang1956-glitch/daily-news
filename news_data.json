@@ -1,10 +1,41 @@
 {
-  "updated_at": "2026-07-06T10:52:09.078287",
+  "updated_at": "2026-07-06T15:48:03.222742",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US stocks tick higher after AI winners rebound",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4bcd7b75ac479fbd9d95711168c946&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-hormuz-iran-trump-oil-9563a33b0789edf00cf92e76c6516fe5&amp;c=14568080947965207227&amp;mkt=en-us",
+        "pubDate": "Mon, 06 Jul 2026 06:47:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "FIFA lifts US star\u2019s suspension at World Cup after Trump call, Khamenei\u2019s funeral procession, stunning steam railway in Swiss Alps",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4bcd62f9a94bfab751bdbc8a554cae&amp;url=https%3a%2f%2fapnews.com%2fnewsletter%2fmorning-wire%2fjuly-6-2026&amp;c=2260808975814832637&amp;mkt=en-us",
+        "pubDate": "Mon, 06 Jul 2026 04:05:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
-        "title": "Marriage used to be a glide path to citizenship. Now there are more speed bumps",
+        "title": "Militant LGBTQ+ rights group &apos;the Lavender Panthers&apos; was founded on this day in 1973",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/07/06/g-s1-131803/lgbtqia-group-lavender-panthers-founded-1973",
+        "pubDate": "Mon, 06 Jul 2026 10:25:41 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Historic World Cup furor at &apos;incomprehensible&apos; FIFA decision to let U.S. forward Balogun play",
+        "link": "https://www.npr.org/2026/07/06/g-s1-132108/world-cup-balogun-uefa-fifa-belgum-trump",
+        "pubDate": "Mon, 06 Jul 2026 10:11:39 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump, Mamdani give contrasting July 4th speeches. And, U.S. faces Belgium in World Cup",
+        "link": "https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun",
+        "pubDate": "Mon, 06 Jul 2026 07:46:36 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Under Trump, spouses of U.S. citizens face policy changes in the immigration system",
         "link": "https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change",
         "pubDate": "Mon, 06 Jul 2026 05:00:00 -0400",
         "category": "us"
@@ -16,7 +47,7 @@
         "category": "business"
       },
       {
-        "title": "Fast walkers in their 80s cut their risk of cognitive decline by half, study finds",
+        "title": "Fast walkers in their 80s cut their risk of cognitive decline by half, a study finds",
         "link": "https://www.npr.org/2026/07/06/nx-s1-5877419/walk-pace-gait-brain-cognitive-health",
         "pubDate": "Mon, 06 Jul 2026 05:00:00 -0400",
         "category": "health"
@@ -28,110 +59,98 @@
         "category": "Top News"
       },
       {
+        "title": "Former Marine says military veterans running for office advance bipartisan politics",
+        "link": "https://www.npr.org/2026/07/06/nx-s1-5851595/former-marine-says-military-veterans-running-for-office-advance-bipartisan-politics",
+        "pubDate": "Mon, 06 Jul 2026 04:17:59 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "The U.S. faces Belgium in the World Cup on the heels of Trump-Infantino red card call",
         "link": "https://www.npr.org/2026/07/06/nx-s1-5879131/2026-world-cup-fifa-usmnt-belgium-round-of-16",
         "pubDate": "Mon, 06 Jul 2026 04:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Russian missile and drone attack on Ukraine&apos;s capital kills at least 11",
-        "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-11",
+        "title": "Russian missile and drone attack on Ukraine&apos;s capital kills at least 12",
+        "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12",
         "pubDate": "Mon, 06 Jul 2026 03:41:08 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Trump won spending promises from NATO last year. This week, he&apos;ll try to enforce them",
-        "link": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending",
-        "pubDate": "Mon, 06 Jul 2026 02:06:17 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Mexico&apos;s World Cup run ends with loss to England at Estadio Azteca",
-        "link": "https://www.npr.org/2026/07/06/g-s1-132079/mexico-world-cup-ends-loss-england",
-        "pubDate": "Mon, 06 Jul 2026 01:32:57 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Y si s\u00ed: the phrase uniting Mexico during the World Cup",
-        "link": "https://www.npr.org/2026/07/05/nx-s1-5881076/y-si-si-the-phrase-uniting-mexicos-world-cup-fans",
-        "pubDate": "Sun, 05 Jul 2026 17:03:43 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Thunderstorms, heat and wind will hamper efforts to contain Colorado wildfires",
-        "link": "https://www.npr.org/2026/07/05/nx-s1-5883052/colorado-wildfires-thunderstorms-firefighters-killed",
-        "pubDate": "Sun, 05 Jul 2026 16:54:38 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "ITV sells media and entertainment arm to Sky for \u00a31.6bn",
-        "link": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 10:35:30 GMT",
+        "title": "How often do you get up from your desk?",
+        "link": "https://www.bbc.co.uk/news/videos/cy8www7pv5wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 15:32:59 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Trump confirms he asked Fifa to review Balogun ban",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 15:27:59 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+        "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 15:18:53 GMT",
         "category": "business"
+      },
+      {
+        "title": "All-nighters, phone bans and school screenings - how you watched England's epic win",
+        "link": "https://www.bbc.co.uk/news/articles/c9q22p2v9dxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 15:15:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
+        "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 15:09:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chris Mason: Accusations around Farage leave him looking vulnerable to his rivals",
+        "link": "https://www.bbc.co.uk/news/articles/c04yyx15xngo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 14:01:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Amber heat-health alerts issued as UK could see 10 consecutive days of temperatures over 30C",
+        "link": "https://www.bbc.co.uk/weather/articles/cly77zjey40o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 12:54:05 GMT",
+        "category": "Top News"
       },
       {
         "title": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
         "link": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 10:31:46 GMT",
+        "pubDate": "Mon, 06 Jul 2026 12:52:38 GMT",
         "category": "Top News"
       },
       {
-        "title": "Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region",
-        "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 10:21:17 GMT",
-        "category": "world"
+        "title": "Watch: Why Australia's PM apologised for 'inappropriate' Kylie comments",
+        "link": "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 10:00:08 GMT",
+        "category": "Top News"
       },
       {
         "title": "Red card system in disarray over Trump, Fifa and Balogun decision",
         "link": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 06 Jul 2026 09:06:26 GMT",
         "category": "us"
-      },
-      {
-        "title": "Uefa says 'integrity of game at stake' after Fifa's decision to overturn US star's red card ban",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 08:36:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Farage says he's 'done no wrongdoing' after benefits from ally not declared",
-        "link": "https://www.bbc.co.uk/news/articles/cql11kk90zgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 08:11:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-        "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 05:04:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pizza Express held inquiry into Andrew's Woking claim",
-        "link": "https://www.bbc.co.uk/news/articles/c1my27lyjx9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 05:01:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
-        "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 00:06:42 GMT",
-        "category": "health"
-      },
-      {
-        "title": "The dark side of the Brazilian butt lift boom",
-        "link": "https://www.bbc.co.uk/news/articles/c20y39wy760o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 23:30:51 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "SK Hynix launches $28 billion US listing, draws $7 billion in investor interest",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b885f3eb44a80bba9241850d671e2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06%2f&amp;c=3238667378872883704&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Jul 2026 02:33:00 GMT",
+        "title": "US judge rejects Elon Musk bid to set aside Twitter fraud verdict",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4bcdac232940bfbe6cf9c3c11fd4d8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-rejects-elon-musk-bid-set-aside-twitter-fraud-verdict-2026-07-06%2f&amp;c=11015845046781499058&amp;mkt=en-us",
+        "pubDate": "Mon, 06 Jul 2026 07:31:00 GMT",
         "category": "us"
+      },
+      {
+        "title": "Fireworks and a people's party as Norway celebrates World Cup win over Brazil",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4bcdabd0e24d3dbead6c15c6f14b5b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffireworks-peoples-party-norway-celebrates-world-cup-win-over-brazil-2026-07-05%2f&amp;c=3007977916954583490&amp;mkt=en-us",
+        "pubDate": "Sun, 05 Jul 2026 19:32:00 GMT",
+        "category": "world"
       }
     ],
     "markets": []
