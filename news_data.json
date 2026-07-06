@@ -1,147 +1,116 @@
 {
-  "updated_at": "2026-07-06T04:06:58.341580",
+  "updated_at": "2026-07-06T10:52:09.078287",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Wildfires rage in Portugal, Greece and Spain while Greek authorities warn of toxic smoke",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b29367de94191ba5153ebf6965d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgreece-portugal-wildfire-vouzela-thessaloniki-f2ad8db8f37063ba0f06adb25fbd7a78&amp;c=2170866144150177688&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 20:50:00 GMT",
+        "title": "Marriage used to be a glide path to citizenship. Now there are more speed bumps",
+        "link": "https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change",
+        "pubDate": "Mon, 06 Jul 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Hate food waste? 7 creative ways to turn your leftovers into a new meal",
+        "link": "https://www.npr.org/2026/07/06/nx-s1-5879248/hate-food-waste-7-creative-ways-to-turn-your-leftovers-into-a-new-meal",
+        "pubDate": "Mon, 06 Jul 2026 05:00:00 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Fast walkers in their 80s cut their risk of cognitive decline by half, study finds",
+        "link": "https://www.npr.org/2026/07/06/nx-s1-5877419/walk-pace-gait-brain-cognitive-health",
+        "pubDate": "Mon, 06 Jul 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "These Medicare beneficiaries thought their drug plan was free. Then they lost it",
+        "link": "https://www.npr.org/2026/07/06/nx-s1-5879413/medicare-drug-plan-coverage-premiums-wellcare",
+        "pubDate": "Mon, 06 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Erling Haaland scores twice to beat Brazil, send Norway into World Cup quarterfinals for 1st time",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b29367de94191ba5153ebf6965d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-brazil-norway-score-5bba7c6c6d50d3cbcc2628e4c1bfb180&amp;c=12389369166203126318&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 20:15:00 GMT",
+        "title": "The U.S. faces Belgium in the World Cup on the heels of Trump-Infantino red card call",
+        "link": "https://www.npr.org/2026/07/06/nx-s1-5879131/2026-world-cup-fifa-usmnt-belgium-round-of-16",
+        "pubDate": "Mon, 06 Jul 2026 04:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Iran begins a procession through Tehran for Supreme Leader Ayatollah Ali Khamenei\u2019s funeral",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b29367de94191ba5153ebf6965d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkhamenei-funeral-supreme-leader-iran-us-war-july-6-2026-88b7f2e4902c18e2c1aa0eb91ad7bcfb&amp;c=7989020219349691569&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 20:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Padres snap their 8-game skid with 5-2 win over Dodgers on Manny Machado\u2019s 3-run homer",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b29367de94191ba5153ebf6965d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdodgers-padres-score-shohei-ohtani-c4f019d0e4fbf35534606e9317bd8b97&amp;c=5938188418933791820&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 19:46:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tordin has a goal and 2 assists in the Thorns\u2019 4-0 rout of Racing Louisville",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b29367de94191ba5153ebf6965d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2fportland-thorns-racing-louisville-chicago-stars-boston-legacy-utah-royals-bay-fc-nwsl-2895df8333197ae4ba0d00bde5266290&amp;c=14672267827520149007&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 19:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Egypt uncovers lost Byzantine-era city in the western desert",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b29367de94191ba5153ebf6965d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2fegypt-antiquities-tourism-desert-oasis-byzantine-3fe1e9fbea2261e372db5ca4e90ea619&amp;c=2101902816079092256&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 17:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b29367de94191ba5153ebf6965d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2fopec-increase-oil-production-iran-hormuz-bae40a1146cea569ddfdfc39d4867441&amp;c=6848028840214717902&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 17:21:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "FIFA lifts US star striker Balogun\u2019s red card suspension at World Cup after Trump calls Infantino",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b293761bf49e8a3c89dc4f51e4995&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffalorin-balogun-suspension-world-cup-e5a5cab5731a916808601be93cb36832&amp;c=7374428224703578905&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 17:10:00 GMT",
+        "title": "Russian missile and drone attack on Ukraine&apos;s capital kills at least 11",
+        "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-11",
+        "pubDate": "Mon, 06 Jul 2026 03:41:08 -0400",
         "category": "world"
       },
       {
-        "title": "Trump posts a doctored photo of the Obamas and Air Force One with graffiti spray-painted on plane",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b29367de94191ba5153ebf6965d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-obama-post-air-force-one-98403ac6ac0eca0a891fa91d6e391b56&amp;c=6608812553869038702&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 16:59:00 GMT",
+        "title": "Trump won spending promises from NATO last year. This week, he&apos;ll try to enforce them",
+        "link": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending",
+        "pubDate": "Mon, 06 Jul 2026 02:06:17 -0400",
         "category": "Top News"
       },
       {
-        "title": "Dodgers\u2019 Eli&#233;zer Alfonzo makes MLB debut with sister, stepmother still missing in Venezuela quakes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b29367de94191ba5153ebf6965d92&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdodgers-eliezer-alfonzo-venezuela-45d59102c919f05560e2ff7c2ee17149&amp;c=9732505049420666220&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 16:45:00 GMT",
+        "title": "Mexico&apos;s World Cup run ends with loss to England at Estadio Azteca",
+        "link": "https://www.npr.org/2026/07/06/g-s1-132079/mexico-world-cup-ends-loss-england",
+        "pubDate": "Mon, 06 Jul 2026 01:32:57 -0400",
         "category": "Top News"
-      }
-    ],
-    "npr": [
-      {
-        "title": "Loving America means facing its history",
-        "link": "https://www.npr.org/2026/07/05/nx-s1-5876264/loving-america-means-facing-its-history",
-        "pubDate": "Sun, 05 Jul 2026 17:03:45 -0400",
-        "category": "us"
       },
       {
         "title": "Y si s\u00ed: the phrase uniting Mexico during the World Cup",
         "link": "https://www.npr.org/2026/07/05/nx-s1-5881076/y-si-si-the-phrase-uniting-mexicos-world-cup-fans",
         "pubDate": "Sun, 05 Jul 2026 17:03:43 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Thunderstorms, heat and wind will hamper efforts to contain Colorado wildfires",
         "link": "https://www.npr.org/2026/07/05/nx-s1-5883052/colorado-wildfires-thunderstorms-firefighters-killed",
         "pubDate": "Sun, 05 Jul 2026 16:54:38 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "National Guard troops fatally shoot a man in downtown Memphis",
-        "link": "https://www.npr.org/2026/07/05/nx-s1-5883091/national-guard-fatal-shooting-memphis",
-        "pubDate": "Sun, 05 Jul 2026 15:40:37 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Folarin Balogun&apos;s ban is lifted by FIFA, allowing U.S. striker to play Belgium",
-        "link": "https://www.npr.org/2026/07/05/g-s1-132061/folarin-balogun-soccer-reinstated-ban-suspended-fifa-belgium",
-        "pubDate": "Sun, 05 Jul 2026 14:37:19 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Super Typhoon Bavi brings intense winds to Guam and surrounding Pacific islands",
-        "link": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
-        "pubDate": "Sun, 05 Jul 2026 13:22:55 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Construction is a man&apos;s game. These women are demolishing the barriers",
-        "link": "https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya",
-        "pubDate": "Sun, 05 Jul 2026 10:10:38 -0400",
-        "category": "health"
-      },
-      {
-        "title": "A new law in California will clarify &apos;sell by&apos; dates to reduce food waste",
-        "link": "https://www.npr.org/2026/07/05/nx-s1-5879284/a-new-law-in-california-will-clarify-sell-by-dates-to-reduce-food-waste",
-        "pubDate": "Sun, 05 Jul 2026 08:26:17 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Pennsylvania&apos;s proposed data centers are bringing strangers together in protest",
-        "link": "https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest",
-        "pubDate": "Sun, 05 Jul 2026 08:26:06 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Egg producers settle with DOJ, states over price-fixing complaint",
-        "link": "https://www.npr.org/2026/07/05/nx-s1-5876239-e1/egg-producers-settle-with-doj-states-over-price-fixing-complaint",
-        "pubDate": "Sun, 05 Jul 2026 08:04:29 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "The man England will fear most - Haaland fires Norway to history with win over Brazil",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 03:20:59 GMT",
+        "title": "ITV sells media and entertainment arm to Sky for \u00a31.6bn",
+        "link": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 10:35:30 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
+        "link": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 10:31:46 GMT",
         "category": "Top News"
       },
       {
-        "title": "Overseas voters moving to UK could face \u00a3100,000 donations cap for year",
-        "link": "https://www.bbc.co.uk/news/articles/c0jyyw59gpjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 00:51:42 GMT",
+        "title": "Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region",
+        "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 10:21:17 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Red card system in disarray over Trump, Fifa and Balogun decision",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 09:06:26 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Uefa says 'integrity of game at stake' after Fifa's decision to overturn US star's red card ban",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 08:36:59 GMT",
         "category": "Top News"
       },
       {
-        "title": "Police leadership needs fundamental overhaul, review finds",
-        "link": "https://www.bbc.co.uk/news/articles/crlwwkyg610o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 00:17:01 GMT",
+        "title": "Farage says he's 'done no wrongdoing' after benefits from ally not declared",
+        "link": "https://www.bbc.co.uk/news/articles/cql11kk90zgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 08:11:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+        "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 05:04:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pizza Express held inquiry into Andrew's Woking claim",
+        "link": "https://www.bbc.co.uk/news/articles/c1my27lyjx9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 06 Jul 2026 05:01:11 GMT",
         "category": "Top News"
       },
       {
@@ -155,44 +124,14 @@
         "link": "https://www.bbc.co.uk/news/articles/c20y39wy760o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 05 Jul 2026 23:30:51 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Former partner of journalist Lyra McKee hopes her death haunts killer",
-        "link": "https://www.bbc.co.uk/news/articles/cy5vvydg0eqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 23:01:12 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Benedict's Law to overhaul school allergy training",
-        "link": "https://www.bbc.co.uk/news/articles/c79yj0g77n2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 21:30:10 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
-        "link": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 18:35:23 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-        "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 17:58:01 GMT",
-        "category": "world"
-      },
-      {
-        "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-        "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 05 Jul 2026 13:55:34 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b297543ad4aaea261cff5bf7584cd&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fus-striker-balogun-available-belgium-clash-despite-red-card-2026-07-05%2f&amp;c=2317977127459227197&amp;mkt=en-us",
-        "pubDate": "Sun, 05 Jul 2026 18:29:00 GMT",
-        "category": "world"
+        "title": "SK Hynix launches $28 billion US listing, draws $7 billion in investor interest",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4b885f3eb44a80bba9241850d671e2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06%2f&amp;c=3238667378872883704&amp;mkt=en-us",
+        "pubDate": "Mon, 06 Jul 2026 02:33:00 GMT",
+        "category": "us"
       }
     ],
     "markets": []
