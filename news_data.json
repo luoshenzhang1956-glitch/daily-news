@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-07-07T03:57:32.839490",
+  "updated_at": "2026-07-07T07:49:31.771552",
   "news": {
-    "ap": [
-      {
-        "title": "Rebounding AI stocks send the S&amp;P 500 within 1% of its record",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4c78cd479346438dc511ef8f2e8b77&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-hormuz-iran-trump-oil-9563a33b0789edf00cf92e76c6516fe5&amp;c=14568080947965207227&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Jul 2026 13:28:00 GMT",
-        "category": "business"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
+        "link": "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific",
+        "pubDate": "Tue, 07 Jul 2026 01:29:03 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz",
+        "link": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
+        "pubDate": "Tue, 07 Jul 2026 01:28:45 -0400",
+        "category": "Top News"
+      },
       {
         "title": "What a divorce coach wishes couples knew before ending a marriage",
         "link": "https://www.npr.org/2026/07/07/nx-s1-5877797/end-marriage-good-terms-divorce",
@@ -41,12 +46,6 @@
         "category": "Top News"
       },
       {
-        "title": "Russia-Ukraine war escalates before NATO summit",
-        "link": "https://www.npr.org/2026/07/06/nx-s1-5883752/russia-ukraine-war-escalates-before-nato-summit",
-        "pubDate": "Mon, 06 Jul 2026 16:37:06 -0400",
-        "category": "world"
-      },
-      {
         "title": "Supreme Court lets Texas restrict minors&apos; access to app stores for the time being",
         "link": "https://www.npr.org/2026/07/06/nx-s1-5883978/supreme-court-texas-app-store-minors",
         "pubDate": "Mon, 06 Jul 2026 16:15:17 -0400",
@@ -59,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Man sues DHS after agents tracked him down for sending a scathing email to ICE",
-        "link": "https://www.npr.org/2026/07/06/nx-s1-5883784/dhs-ice-critic-lawsuit-free-speech",
-        "pubDate": "Mon, 06 Jul 2026 11:50:18 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Hate food waste? 7 creative ways to turn your leftovers into a new meal",
         "link": "https://www.npr.org/2026/07/06/nx-s1-5879248/hate-food-waste-7-creative-ways-to-turn-your-leftovers-into-a-new-meal",
         "pubDate": "Mon, 06 Jul 2026 05:00:00 -0400",
@@ -73,16 +66,22 @@
     ],
     "bbc": [
       {
-        "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
-        "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Jul 2026 02:33:18 GMT",
+        "title": "MI5 knew agent was misogynist 'obsessed' with violence, watchdog finds",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gggjekyjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Jul 2026 05:00:08 GMT",
         "category": "Top News"
       },
       {
         "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
         "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 07 Jul 2026 02:07:15 GMT",
+        "pubDate": "Tue, 07 Jul 2026 04:18:19 GMT",
         "category": "world"
+      },
+      {
+        "title": "Watch: Belgium make light work of US to set up quarter-final tie with Spain",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cj0gg55613do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 07 Jul 2026 02:39:07 GMT",
+        "category": "Top News"
       },
       {
         "title": "Party Rock Anthem singer Lauren Bennett dies aged 37",
@@ -109,22 +108,16 @@
         "category": "tech"
       },
       {
-        "title": "Women face hidden fertility ceiling despite donor eggs",
+        "title": "Women hit fertility tipping point at 49 - even with young donor eggs",
         "link": "https://www.bbc.co.uk/news/articles/ckg018w1r02o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 06 Jul 2026 23:33:47 GMT",
         "category": "health"
       },
       {
-        "title": "Banks accused of failing most vulnerable customers",
+        "title": "Banks accused of pushing customers away from basic accounts",
         "link": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 06 Jul 2026 23:29:34 GMT",
         "category": "business"
-      },
-      {
-        "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
-        "link": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 06 Jul 2026 23:08:51 GMT",
-        "category": "Top News"
       },
       {
         "title": "Why European backlash over Trump intervention won't worry Infantino",
@@ -133,32 +126,20 @@
         "category": "us"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "Belgium end US World Cup dreams with 4-1 rout amid Balogun row",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4c78ec3440402e905360d3c9b787a8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fde-ketelaere-double-puts-belgium-into-world-cup-last-eight-ends-home-interest-2026-07-07%2f&amp;c=9218368898008345752&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Jul 2026 19:07:00 GMT",
+        "title": "Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience",
+        "link": "https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html",
+        "pubDate": "Tue, 07 Jul 2026 07:18:55 GMT",
         "category": "world"
       },
       {
-        "title": "George E. Johnson, founder of pioneering Black hair products company, dead at 99",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4c78ee49c54181a94c1d4abe60d10b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fgeorge-e-johnson-founder-pioneering-black-hair-products-company-dead-99-2026-07-07%2f&amp;c=5093568264045164441&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Jul 2026 17:16:00 GMT",
+        "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas",
+        "link": "https://www.cnbc.com/2026/07/06/toyota-tacoma-truck-san-antonio-plant.html",
+        "pubDate": "Mon, 06 Jul 2026 20:30:01 GMT",
         "category": "business"
-      },
-      {
-        "title": "South Korea's SK Hynix launches $28 billion US listing to ride global AI wave",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4c78ed54194cef9b93b051454b5327&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06%2f&amp;c=3238667378872883704&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Jul 2026 16:16:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Fincantieri to buy underwater technology companies in \u20ac600 million deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4c78ef266e4cf196dc5db983b50634&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffincantieri-buy-four-underwater-firms-600-million-deal-2026-07-06%2f&amp;c=18442272099557066096&amp;mkt=en-us",
-        "pubDate": "Mon, 06 Jul 2026 07:30:00 GMT",
-        "category": "tech"
       }
-    ],
-    "markets": []
+    ]
   }
 }
