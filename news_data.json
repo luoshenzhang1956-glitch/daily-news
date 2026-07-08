@@ -1,19 +1,104 @@
 {
-  "updated_at": "2026-07-08T19:44:22.809112",
+  "updated_at": "2026-07-08T21:15:45.473500",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "NCAA sends letter of inquiry to Cincinnati about Brendan Sorsby, according to reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebd7c83b0477b8c47de3dc0d8951c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fncaa-letter-cincinnati-brendan-sorsby-gambling-84804ded23c9b71ff463148fe72ca771&amp;c=17635690708806500328&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 14:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Prosecutors play video in court of suspect in Charlie Kirk\u2019s shooting after he turned himself in",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebd7c83b0477b8c47de3dc0d8951c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcharlie-kirk-tyler-robinson-hearing-dna-503c0fd85b45d3216b332a09cf720cdd&amp;c=18406248644121042095&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 14:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US carries out another round of strikes on Iran after Trump says ceasefire is over",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebd7c83b0477b8c47de3dc0d8951c&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-israel-war-oil-july-8-2026-fee04dcea661c08de12c04914ff2751b&amp;c=11805804035931208557&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 13:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is \u2018over\u2019",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebd7c83b0477b8c47de3dc0d8951c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-rates-oil-iran-ai-671d9c94b302f7db533f46baa18387d3&amp;c=10901240482996965509&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 13:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Judge orders E. Jean Carroll be paid $5.8M in Trump sex abuse and defamation case; Trump appeals",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebd7c83b0477b8c47de3dc0d8951c&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-e-jean-carroll-sexual-abuse-defamation-fe911fa64d58b03b4d96a628a5cdccb0&amp;c=1433275849705517989&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 12:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "\u2018The Pitt\u2019 leads with 25 Emmy nominations and \u2018Hacks\u2019 breaks record for comedies with 24",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebd7c83b0477b8c47de3dc0d8951c&amp;url=https%3a%2f%2fapnews.com%2farticle%2femmy-nominations-pluribus-beef-hacks-pitt-7d21700a43d7d5da1a662898e3646d46&amp;c=6896109197079449649&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 12:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed minutes: Officials deeply divided over future path of US inflation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebd973f5b425ba1761b8e4d8ffaa9&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffederal-reserve-warsh-inflation-3ec0b0c2fe05e3833e324fa522a1882a&amp;c=7246163747716250676&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 12:08:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "McConnell speaks to Republican leaders as speculation swirls about his health, remains hospitalized",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebd9ec1264d179f9d4529e4c541e6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmcconnell-health-hospital-senate-21a76f059653c6c713e660abb7722c5e&amp;c=16111289734227728923&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 12:05:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Judges deny request to return Trump\u2019s name to Kennedy Center pending an appeal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebd7c83b0477b8c47de3dc0d8951c&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-kennedy-center-name-lawsuit-5ee3073d3df9549fcd27b597df8c1ed4&amp;c=8869685541134968699&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 11:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The Trump administration is ramping up pressure on states to change election practices",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebd7c83b0477b8c47de3dc0d8951c&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-voting-threat-states-3ec6b7838c97342965416756c0b83496&amp;c=17951024593945048066&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 11:25:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "npr": [
+      {
+        "title": "A new proposal for organ donation sparks concern",
+        "link": "https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation",
+        "pubDate": "Wed, 08 Jul 2026 17:00:19 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Ohio entrepreneur wants to bring &apos;farm-to-table&apos; concept to clothing industry",
+        "link": "https://www.npr.org/2026/07/08/nx-s1-5871377-e1/ohio-entrepreneur-wants-to-bring-farm-to-table-concept-to-clothing-industry",
+        "pubDate": "Wed, 08 Jul 2026 16:16:53 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Trump threatens Iran as NATO summit wraps",
+        "link": "https://www.npr.org/2026/07/08/nx-s1-5886102/trump-threatens-iran-as-nato-summit-wraps",
+        "pubDate": "Wed, 08 Jul 2026 16:02:03 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Should you sign your kids up for Trump Accounts? Four things to consider",
+        "link": "https://www.npr.org/2026/07/08/nx-s1-5884855/trump-accounts-what-to-know",
+        "pubDate": "Wed, 08 Jul 2026 16:02:02 -0400",
+        "category": "business"
+      },
       {
         "title": "Supreme Court financial disclosures reveal how their books add to their income",
         "link": "https://www.npr.org/2026/07/08/nx-s1-5886170/supreme-court-financial-disclosures-books-gifts-income",
         "pubDate": "Wed, 08 Jul 2026 14:03:30 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "New U.S. passports with Trump&apos;s image are available. Here&apos;s how to get (or avoid) one",
         "link": "https://www.npr.org/2026/07/08/g-s1-132497/passports-trump-image",
         "pubDate": "Wed, 08 Jul 2026 13:27:33 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Appeals court denies Trump&apos;s request to halt removal of his name from the Kennedy Center",
@@ -25,7 +110,7 @@
         "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy",
         "link": "https://www.npr.org/2026/07/08/nx-s1-5885946/iran-trump-oil-stock-inflation-gas-federal-reserve",
         "pubDate": "Wed, 08 Jul 2026 13:07:22 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Family of Nolan Wells, Black teen found dead off Mississippi island, retains lawyer Ben Crump",
@@ -38,44 +123,32 @@
         "link": "https://www.npr.org/2026/07/08/nx-s1-5869629/trump-arch-inspiration-long-before-design-approved",
         "pubDate": "Wed, 08 Jul 2026 12:28:28 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "The IOC clears the way for Russian athletes to return to Olympic competition",
-        "link": "https://www.npr.org/2026/07/08/g-s1-132480/russia-olympics-ioc-decision",
-        "pubDate": "Wed, 08 Jul 2026 12:17:37 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Do you know where your birth certificate is? Journalist warns of new voting barriers",
-        "link": "https://www.npr.org/2026/07/08/nx-s1-5884918/scotus-trump-election-barriers-ari-berman",
-        "pubDate": "Wed, 08 Jul 2026 12:06:45 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A spirit of resilience helps Venezuelans face healthcare challenges after the quakes",
-        "link": "https://www.npr.org/2026/07/08/g-s1-132410/venezuela-earthquake-healthcare",
-        "pubDate": "Wed, 08 Jul 2026 07:06:26 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Why AI companies are hiring philosophers to help develop their models",
-        "link": "https://www.npr.org/2026/07/07/nx-s1-5875184/why-ai-companies-are-hiring-philosophers-to-help-develop-their-models",
-        "pubDate": "Tue, 07 Jul 2026 16:59:13 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
+      {
+        "title": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+        "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Jul 2026 21:08:26 GMT",
+        "category": "world"
+      },
+      {
+        "title": "MenB vaccine offers men no protection from gonorrhoea, claims major study",
+        "link": "https://www.bbc.co.uk/news/articles/crel4yyxwd1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Jul 2026 21:06:53 GMT",
+        "category": "health"
+      },
+      {
+        "title": "UK heatwave spreads further north and west as temperatures continue to climb",
+        "link": "https://www.bbc.co.uk/weather/articles/ce3e443e1yko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 08 Jul 2026 20:34:56 GMT",
+        "category": "Top News"
+      },
       {
         "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
         "link": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Jul 2026 18:05:58 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
-        "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Jul 2026 18:05:31 GMT",
-        "category": "world"
       },
       {
         "title": "British wildcard Arthur Fery through to Wimbledon semi-finals after stunning victory",
@@ -84,7 +157,7 @@
         "category": "Top News"
       },
       {
-        "title": "Mason: It's far from certain whether by-election will strengthen Farage",
+        "title": "Mason: Farage called by-election from weak position - and it could backfire on him",
         "link": "https://www.bbc.co.uk/news/articles/c9d2882jj3yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Jul 2026 17:14:04 GMT",
         "category": "Top News"
@@ -102,18 +175,6 @@
         "category": "us"
       },
       {
-        "title": "Police name man wanted over murders of wife and daughters",
-        "link": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Jul 2026 14:38:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "German doctor jailed for murder of 15 patients and suspected of more",
-        "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 08 Jul 2026 14:25:25 GMT",
-        "category": "health"
-      },
-      {
         "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
         "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 08 Jul 2026 12:28:03 GMT",
@@ -126,19 +187,32 @@
         "category": "business"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Trump says he&apos;s &apos;not sure&apos; he wants Iran deal as Hormuz Strait strife deepens",
-        "link": "https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html",
-        "pubDate": "Wed, 08 Jul 2026 19:18:52 GMT",
+        "title": "Inside the fitness demands on World Cup referees",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebdb52ce84b89842f61c684847636&amp;url=https%3a%2f%2fwww.reuters.com%2fgraphics%2fSOCCER-WORLDCUP%2fREFEREE-FITNESS%2fdwvknennxpm%2f&amp;c=16635401515540290927&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 13:10:00 GMT",
         "category": "world"
       },
       {
-        "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
-        "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
-        "pubDate": "Wed, 08 Jul 2026 16:11:15 GMT",
+        "title": "US judge approves Elon Musk settlement with SEC despite misgivings, 'red flags'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebdb625a043099a57717aa61f6d79&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fjudge-approves-elon-musk-settlement-with-us-sec-over-twitter-disclosures-2026-07-08%2f&amp;c=10122822042725575607&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 13:04:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "SpaceXAI launches Grok 4.5 model for coding, agentic tasks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4ebdb7421a4f058cbbc56f7a36074d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fspacexai-launches-grok-45-model-coding-agentic-tasks-2026-07-08%2f&amp;c=5441227939813043306&amp;mkt=en-us",
+        "pubDate": "Wed, 08 Jul 2026 12:47:00 GMT",
         "category": "business"
+      }
+    ],
+    "markets": [
+      {
+        "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion",
+        "link": "https://www.cnbc.com/2026/07/08/spacex-stock-nasdaq-100-ipo.html",
+        "pubDate": "Wed, 08 Jul 2026 21:10:47 GMT",
+        "category": "tech"
       }
     ]
   }
