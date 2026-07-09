@@ -1,13 +1,44 @@
 {
-  "updated_at": "2026-07-09T15:24:59.524529",
+  "updated_at": "2026-07-09T18:03:44.204190",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US and Iran exchange more attacks across the Mideast, threatening ceasefire deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe1e25b5b44ccbafb12efd308fd69&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf&amp;c=9785939697944631794&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 10:34:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "World Santa Congress brings Christmas cheer to the height of summer",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe1e1f73241aaa6a661483af485c8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsanta-denmark-claus-christmas-summer-congress-aalborg-8892150e77cdd4823db4b27d535d3b84&amp;c=15255498368279259396&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 08:48:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
-        "title": "Former Olympian pleads not guilty in reflecting pool vandalism charges",
+        "title": "OUTDOOR ACCESS FOR DISABLED IN VERMONT",
+        "link": "https://www.npr.org/2026/07/09/nx-s1-5879435/outdoor-access-for-disabled-in-vermont",
+        "pubDate": "Thu, 09 Jul 2026 14:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+        "link": "https://www.npr.org/2026/07/09/nx-s1-5885052/spacexai-stabilityai-deepfake-csam-class-action",
+        "pubDate": "Thu, 09 Jul 2026 13:49:33 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "&apos;Solo agers&apos; are a growing group. Changes that would help them could help everyone",
+        "link": "https://www.npr.org/2026/07/09/nx-s1-5886348/solo-agers-demographics-caregiving-family-aging",
+        "pubDate": "Thu, 09 Jul 2026 11:58:19 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Former Olympian pleads not guilty in reflecting pool vandalism charge",
         "link": "https://www.npr.org/2026/07/09/nx-s1-5887308/reflecting-pool-vandalism-charges-plea-olympian-canoeist-david-hearn",
         "pubDate": "Thu, 09 Jul 2026 10:59:11 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Former coach at Bucknell University charged in death of freshman football player",
@@ -22,7 +53,7 @@
         "category": "world"
       },
       {
-        "title": "Bonnie Tyler, singer of ballad &apos;Total Eclipse of the Heart,&apos; has died at 75",
+        "title": "Bonnie Tyler, singer of power ballad &apos;Total Eclipse of the Heart,&apos; dies at 75",
         "link": "https://www.npr.org/2026/07/09/nx-s1-5887107/bonnie-tyler-obit",
         "pubDate": "Thu, 09 Jul 2026 05:50:28 -0400",
         "category": "Top News"
@@ -40,54 +71,36 @@
         "category": "business"
       },
       {
-        "title": "Campaign staffers keep trying to bet on races despite push to curb insider trading",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5869569/kalshi-election-staffers-caught",
-        "pubDate": "Thu, 09 Jul 2026 05:00:00 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "The Iran war has pushed some countries away from oil and toward clean energy",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5872786/iran-war-evs-solar-energy-transition",
-        "pubDate": "Thu, 09 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "How England&apos;s class divide shaped Andy Burnham, the U.K.&apos;s likely next prime minister",
         "link": "https://www.npr.org/2026/07/09/nx-s1-5876065/andy-burnham-england-uk",
         "pubDate": "Thu, 09 Jul 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "A new proposal for organ donation sparks concern",
-        "link": "https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation",
-        "pubDate": "Wed, 08 Jul 2026 17:00:19 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
+      {
+        "title": "Heat health alerts extended as record for most 34C days in a year broken",
+        "link": "https://www.bbc.co.uk/news/articles/cyv0znm6y2eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Jul 2026 16:52:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+        "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Jul 2026 16:15:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham on path to No 10 with Labour nominations under way",
+        "link": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Jul 2026 15:41:11 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Restore Britain leader describes Dunblane school shooting as 'one murder'",
         "link": "https://www.bbc.co.uk/news/articles/cj3gdj300lyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 09 Jul 2026 15:02:30 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Disability benefit not fit for purpose, minister leading review says",
-        "link": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Jul 2026 14:56:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Steep fall in Hormuz ship crossings after new US-Iran strikes",
-        "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Jul 2026 14:41:54 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-        "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Jul 2026 14:37:19 GMT",
-        "category": "us"
       },
       {
         "title": "No contact from UK about on-the-run murder suspect, say Zimbabwe police",
@@ -96,7 +109,7 @@
         "category": "Top News"
       },
       {
-        "title": "Iran launches more strikes after accusing US of striking near nuclear plant",
+        "title": "Tehran launches more strikes after explosions reported in southern Iran",
         "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 09 Jul 2026 13:29:56 GMT",
         "category": "world"
@@ -108,10 +121,10 @@
         "category": "tech"
       },
       {
-        "title": "'Heartbroken' Catherine Zeta-Jones leads tributes to singer Bonnie Tyler",
-        "link": "https://www.bbc.co.uk/news/articles/clypqj2z1zpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Jul 2026 10:39:06 GMT",
-        "category": "Top News"
+        "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+        "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Jul 2026 06:28:08 GMT",
+        "category": "us"
       },
       {
         "title": "Why electric cars cost more to insure - and what's being done about it",
@@ -126,14 +139,68 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Trump says Iran called to make a deal after U.S. strikes; adds it&apos;s unclear if war is back on",
-        "link": "https://www.cnbc.com/2026/07/09/trump-iran-war-strikes-hormuz.html",
-        "pubDate": "Thu, 09 Jul 2026 12:18:14 GMT",
+        "title": "Overcrowded shelters, poor water access pose health risks after Venezuela quakes, PAHO says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe2430bac4d019b12d8fd02685e39&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fovercrowding-lack-clean-water-among-biggest-health-risks-venezuela-quakes-says-2026-07-09%2f&amp;c=6295636047369206978&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 09:44:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Iran war live: Tehran retaliates in Gulf after second day of US strikes as ceasefire falters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe2141b7f4b98a2b09e15f4bc6a5c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-tehran-retaliates-kuwait-bahrain-after-second-day-us-strikes-2026-07-09%2f&amp;c=5372572768145205154&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 09:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How Palestinian town is defending itself against Israeli settler attacks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe2141b7f4b98a2b09e15f4bc6a5c&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW672109072026RP1%2f&amp;c=4550046814188093408&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 09:34:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Who could replace Maine US Senate candidate Graham Platner?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe2141b7f4b98a2b09e15f4bc6a5c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fwho-could-replace-maine-senate-candidate-graham-platner-if-he-dropped-out-2026-07-07%2f&amp;c=13340738139880470127&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 09:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dior shows haute couture dresses in Paris after Taylor Swift win",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe2141b7f4b98a2b09e15f4bc6a5c&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW667409072026RP1%2f&amp;c=790090870494262362&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 08:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall St rises as chip rally offsets renewed Iran worries",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe2141b7f4b98a2b09e15f4bc6a5c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-rebound-oil-retreats-investors-weigh-us-iran-tensions-2026-07-09%2f&amp;c=12665797482012240355&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 08:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Former US Olympian pleads not guilty in Reflecting Pool damage case",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe2141b7f4b98a2b09e15f4bc6a5c&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW667909072026RP1%2f&amp;c=12617775613291979696&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 08:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Valencia activates water cannon to cool forests in rising heat",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe2141b7f4b98a2b09e15f4bc6a5c&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW665709072026RP1%2f&amp;c=1221919617204541932&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 08:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Maine Democrats seek path forward in critical US Senate race",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe2141b7f4b98a2b09e15f4bc6a5c&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fmaine-democrats-seek-path-forward-critical-us-senate-race-2026-07-09%2f&amp;c=9604960525493516551&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 07:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "At Cape Verde academy, soccer talents dream big after World Cup debut",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a4fe21573c74e29a1c9c19bcf58b6dc&amp;url=https%3a%2f%2fwww.reuters.com%2finvestigates%2fspecial-report%2fsoccer-worldcup-cpv-academy%2f&amp;c=16561372974735651431&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 04:27:00 GMT",
         "category": "world"
       }
-    ]
+    ],
+    "markets": []
   }
 }
