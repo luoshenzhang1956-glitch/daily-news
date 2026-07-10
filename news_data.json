@@ -1,21 +1,20 @@
 {
-  "updated_at": "2026-07-10T03:53:42.037478",
+  "updated_at": "2026-07-10T07:43:36.141610",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Analysis: China\u2019s ballistic missile launch was a message for the US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a506c00d07a481a84c6039baba135bd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-missile-test-submarine-nuclear-us-pacific-434cc050331f9278f1c4eb6011bd6111&amp;c=6044175997453506652&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Jul 2026 19:40:00 GMT",
-        "category": "us"
+        "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
+        "link": "https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo",
+        "pubDate": "Fri, 10 Jul 2026 02:33:38 -0400",
+        "category": "world"
       },
       {
-        "title": "Unbeaten Spain meets star-powered Belgium in the World Cup quarterfinals",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a506c00c7fe467cb013f83c4e2cf658&amp;url=https%3a%2f%2fapnews.com%2farticle%2fspain-belgium-world-cup-744017069f4238f289c4b4b87bb15756&amp;c=4392407725752508032&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Jul 2026 14:42:00 GMT",
-        "category": "world"
-      }
-    ],
-    "npr": [
+        "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
+        "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
+        "pubDate": "Fri, 10 Jul 2026 02:12:36 -0400",
+        "category": "Top News"
+      },
       {
         "title": "President Trump cleans house at the bipartisan Election Assistance Commission",
         "link": "https://www.npr.org/2026/07/09/nx-s1-5887690/trump-election-assistance-commission",
@@ -47,21 +46,9 @@
         "category": "business"
       },
       {
-        "title": "Former U.S. envoy reacts to Iran strikes and NATO summit",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit",
-        "pubDate": "Thu, 09 Jul 2026 16:02:31 -0400",
-        "category": "world"
-      },
-      {
         "title": "Smithsonian chief emphasizes &apos;accuracy and integrity&apos; after White House report",
         "link": "https://www.npr.org/2026/07/09/nx-s1-5887518/smithsonian-chief-lonnie-bunch-white-house-accusations",
         "pubDate": "Thu, 09 Jul 2026 15:46:02 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "How to deal with seesawing gas prices",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5886319/gas-prices-budget",
-        "pubDate": "Thu, 09 Jul 2026 15:10:47 -0400",
         "category": "Top News"
       },
       {
@@ -79,15 +66,51 @@
     ],
     "bbc": [
       {
+        "title": "Police investigating Reform donations - reports",
+        "link": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 07:40:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "At least 11 dead and 19 missing in wildfire in southern Spain",
+        "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 07:39:39 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Burnham set to be next PM as 322 Labour MPs back him in first nomination tally",
+        "link": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 07:30:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "EasyJet agrees to rival \u00a35.7bn takeover bid",
+        "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 07:22:29 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Former Tory minister Ann Widdecombe dies at 78",
+        "link": "https://www.bbc.co.uk/news/articles/ced47jqyg1eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 07:07:48 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bayeux Tapestry arrives overnight at British Museum under police guard",
+        "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 05:00:04 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Vapes to have less enticing names to protect children, under UK plans",
         "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Jul 2026 02:15:38 GMT",
         "category": "health"
       },
       {
-        "title": "BBC radio DJ Paul Gambaccini diagnosed with Alzheimer's",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyvp7y89jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 01:39:35 GMT",
+        "title": "Pioneering treatment saves identical twins from rare pregnancy condition",
+        "link": "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 01:37:23 GMT",
         "category": "Top News"
       },
       {
@@ -97,62 +120,75 @@
         "category": "tech"
       },
       {
-        "title": "Thousands of offenders not wearing electronic tags, report says",
-        "link": "https://www.bbc.co.uk/news/articles/cze9z81d183o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 01:29:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Burnham set to be next PM as 322 Labour MPs back him in first nomination tally",
-        "link": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 00:32:43 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Charlie Kirk murder suspect told roommate 'he wishes he hadn't done it', court hears",
         "link": "https://www.bbc.co.uk/news/articles/c621v466y91o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Jul 2026 00:07:58 GMT",
         "category": "us"
-      },
-      {
-        "title": "UK bakes in 35C highs as heatwave to continue next week",
-        "link": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Jul 2026 23:08:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US and Iran trade attacks as Khamenei is buried",
-        "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Jul 2026 23:02:18 GMT",
-        "category": "world"
-      },
-      {
-        "title": "We saved \u00a36,000 on holidays by swapping homes with strangers",
-        "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Jul 2026 23:00:38 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Guehi a doubt for Norway game and Rice ill with bug",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Jul 2026 22:33:14 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Discover Immersive Fan Experiences with Hisense at FIFA World Cup 2026\u2122",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a506c3c2c854c8c81ab99808cc1f9aa&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fhisense-fifa-world-cup-2026-immersive-fan-experiences-2026-07-09%2f&amp;c=8399183157562917509&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Micron boosts US investment plan again, commits $250 billion through 2035",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a506c4de904426fa260ee613953e31a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmicron-invest-up-3-billion-us-chip-supply-chain-2026-07-09%2f&amp;c=18242425194407196149&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Jul 2026 06:29:00 GMT",
-        "category": "business"
+        "title": "SK Hynix raises $26.5 billion in US offering after pricing ADRs at $149",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50a27b4386465ba29317647aaf7954&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsk-hynix-us-listing-more-than-seven-times-oversubscribed-source-says-2026-07-09%2f&amp;c=11900014851157825477&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 21:51:00 GMT",
+        "category": "tech"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Will SK Hynix\u2019s Wall Street debut narrow its &apos;Korea discount&apos;?",
+        "link": "https://www.cnbc.com/2026/07/10/sk-hynix-debuts-on-nasdaq-will-that-bridge-its-korea-discount-.html",
+        "pubDate": "Fri, 10 Jul 2026 06:21:42 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Florida&apos;s Palm Beach airport renamed for Trump",
+        "link": "https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html",
+        "pubDate": "Thu, 09 Jul 2026 20:55:37 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Here are analysts&apos; favorite Nasdaq 100 stocks for the second half",
+        "link": "https://www.cnbc.com/2026/07/09/here-are-analysts-favorite-nasdaq-100-stocks-for-the-second-half.html",
+        "pubDate": "Thu, 09 Jul 2026 20:00:33 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
+        "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
+        "pubDate": "Thu, 09 Jul 2026 19:53:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
+        "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
+        "pubDate": "Thu, 09 Jul 2026 19:44:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Prediction markets spark insider trading concerns. Here&apos;s how Goldman and other companies are responding",
+        "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
+        "pubDate": "Thu, 09 Jul 2026 18:52:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "AstraZeneca stock drops 9% after heart drug trial miss deals rare blow to pharma powerhouse",
+        "link": "https://www.cnbc.com/2026/07/09/astrazeneca-stock-trial-heart-drug-pharma.html",
+        "pubDate": "Thu, 09 Jul 2026 18:44:55 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Micron, Paramount Skydance, Mara Holdings, PepsiCo &amp; more",
+        "link": "https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-midday-mu-psky-mara-pep.html",
+        "pubDate": "Thu, 09 Jul 2026 15:58:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+        "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
+        "pubDate": "Thu, 09 Jul 2026 15:00:50 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
