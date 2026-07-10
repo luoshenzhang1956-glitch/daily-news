@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-07-10T14:42:10.597097",
+  "updated_at": "2026-07-10T17:51:50.521520",
   "news": {
     "ap": [
       {
+        "title": "Stocks and oil prices drift, while South Korean AI darling SK Hynix leaps in its Wall Street debut",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5130e6448b45f69eacd10a8b6492a1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-market-iran-war-ai-oil-45e2da56e466900ff8def70ab931387d&amp;c=6078879709632589770&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 10:07:00 GMT",
+        "category": "business"
+      },
+      {
         "title": "Donald Trump ousts election commission members in latest push to reshape US voting process",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a51043aaac04837ab164e1816b5a9bc&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-fires-election-commission-members-0dc1f37c3990398b3085f22a14ea239a&amp;c=17236605300479157323&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 05:58:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5130e4a98c4066b0f6f734fd3e6877&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-fires-election-commission-members-0dc1f37c3990398b3085f22a14ea239a&amp;c=17236605300479157323&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 09:23:00 GMT",
         "category": "us"
+      },
+      {
+        "title": "FIFA has nearly 1,200 tickets on sale for World Cup final at $7,380",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5130e33cdb4d61a4535c8291bb14b2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-final-tickets-1eb6731d9cb7dc1bde02b41c9992174c&amp;c=5652949843189532436&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 08:33:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "China blocks exports of helium, key for chipmaking, as Iran war squeezes supply",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5130e95eb546809a3dad5c4b0ce638&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-helium-export-iran-war-chips-346d8806f8ba410d81de6ced150acb87&amp;c=1293245413287323815&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 07:25:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "EPA promised a Make America Healthy Again agenda. It has yet to materialize, frustrating activists",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5130ec0fa94abbb91d0f580da11de0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fepa-maha-pesticides-zeldin-chemicals-microplastics-f6d4c207f2ebe023feec0fe11bf25667&amp;c=8021228402319053083&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 05:23:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "A major housing bill is set to become law at midnight \u2014 even though Trump says he won&apos;t sign",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature",
+        "pubDate": "Fri, 10 Jul 2026 10:55:21 -0400",
+        "category": "business"
+      },
       {
         "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
         "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
@@ -29,12 +59,6 @@
         "category": "us"
       },
       {
-        "title": "Shelling at night, gunfire by day in Israel&apos;s expanding zone of control in Gaza",
-        "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Count Binface: The intergalactic warrior who could upend Britain&apos;s strangest election",
         "link": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election",
         "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
@@ -47,8 +71,8 @@
         "category": "Top News"
       },
       {
-        "title": "Trump leans on &apos;communist&apos; messaging as economic angst drives Democrats",
-        "link": "https://www.npr.org/2026/07/10/nx-s1-5876512/trump-communist-messaging-economy-democrats",
+        "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
         "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -59,30 +83,66 @@
         "category": "Top News"
       },
       {
-        "title": "Microsoft is doing a hard reset of its XBOX gaming division",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5884900/microsoft-is-doing-a-hard-reset-of-its-xbox-gaming-division",
-        "pubDate": "Thu, 09 Jul 2026 16:03:40 -0400",
-        "category": "business"
+        "title": "Trump leans on &apos;communist&apos; messaging as economic angst drives Democrats",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5876512/trump-communist-messaging-economy-democrats",
+        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
       },
       {
-        "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5885052/spacexai-stabilityai-deepfake-csam-class-action",
-        "pubDate": "Thu, 09 Jul 2026 13:49:33 -0400",
-        "category": "tech"
+        "title": "One of Spain&apos;s deadliest wildfires kills at least 12 people, with 23 others missing",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5888160/southern-spain-wildfire-almeria",
+        "pubDate": "Fri, 10 Jul 2026 04:53:37 -0400",
+        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-        "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 14:14:25 GMT",
+        "title": "Watch: Police confirm 26 year-old suspect in custody",
+        "link": "https://www.bbc.co.uk/news/videos/c1ly3glepr1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 17:18:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ann Widdecombe murder probe: What we know so far",
+        "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 17:04:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: 'Shocked' Starmer and Badenoch react to murder investigation",
+        "link": "https://www.bbc.co.uk/news/videos/c0lydpe9722o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 16:47:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+        "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 16:42:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Major car firms found not to have installed emissions-cheating devices",
+        "link": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 16:18:08 GMT",
         "category": "business"
       },
       {
-        "title": "Prince Harry plays pickleball at Invictus Games event, but no Meghan",
-        "link": "https://www.bbc.co.uk/news/articles/c2dyw9lp02wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 13:05:03 GMT",
+        "title": "Pioneering treatment saves twins in early pregnancy",
+        "link": "https://www.bbc.co.uk/news/videos/c3ry5xl4qr1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 16:04:37 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Arthur Fery's Wimbledon run ended by Alexander Zverev in semi-finals",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 15:36:30 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+        "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 14:08:26 GMT",
+        "category": "world"
       },
       {
         "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
@@ -91,69 +151,45 @@
         "category": "us"
       },
       {
-        "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-        "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 12:31:08 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
         "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Jul 2026 12:02:40 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Met police investigating Reform over election donations - reports",
-        "link": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 11:46:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'People don't realise how at risk they are': A day with an ambulance service in a heatwave",
-        "link": "https://www.bbc.co.uk/news/articles/cvg4y289ppjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 10:18:28 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
-        "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 05:00:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pioneering treatment saves identical twins from rare pregnancy condition",
-        "link": "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 01:37:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-        "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 09 Jul 2026 23:18:18 GMT",
-        "category": "world"
       }
     ],
     "reuters": [
       {
-        "title": "SK Hynix's shares indicated to jump 20% in marquee US debut",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a51047e95d9486d8a9893460f5cef22&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsk-hynix-set-marquee-us-debut-test-ai-appetite-2026-07-10%2f&amp;c=14725096694824090140&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 06:24:00 GMT",
-        "category": "us"
-      },
-      {
         "title": "SK Hynix options to trade two business days after Nasdaq debut, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a51047fbe0a4cdaa483c3aa9cc30711&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fcboe-expects-sk-hynix-options-trade-two-business-days-after-nasdaq-debut-source-2026-07-10%2f&amp;c=4119295991115706009&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a513100176a4a349336618c373fc6fb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fcboe-expects-sk-hynix-options-trade-two-business-days-after-nasdaq-debut-source-2026-07-10%2f&amp;c=4119295991115706009&amp;mkt=en-us",
         "pubDate": "Fri, 10 Jul 2026 05:58:00 GMT",
         "category": "business"
       },
       {
-        "title": "Mbapp&#233; closes within one goal of World Cup scoring record as France reach semifinals",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a51047c95ca480e9ebfa7e6b764f94e&amp;url=https%3a%2f%2fwww.reuters.com%2fgraphics%2fSOCCER-WORLDCUP%2fzgvolqqoypd%2f2026-07-10%2ftop-scorers-battle%2f&amp;c=5115360490285646730&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 02:00:00 GMT",
-        "category": "world"
+        "title": "Mission creep: FIFA's embrace of technology backfires in controversy-riven World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a513101e48c47c9b44274c0d0a13b88&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fmission-creep-fifas-embrace-technology-backfires-controversy-riven-world-cup-2026-07-10%2f&amp;c=17055913620545384338&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 02:51:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Overcrowded shelters, lack of clean water pose health risks after Venezuela quakes, PAHO says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5131041ff14a618ff0a968f8876be1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fovercrowding-lack-clean-water-among-biggest-health-risks-venezuela-quakes-says-2026-07-09%2f&amp;c=6295636047369206978&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 22:15:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
+      {
+        "title": "Traders fall back in love with Meta. Here&apos;s where bulls see it going",
+        "link": "https://www.cnbc.com/2026/07/10/traders-fall-back-in-love-with-meta-heres-where-bulls-see-it-going.html",
+        "pubDate": "Fri, 10 Jul 2026 17:40:29 GMT",
+        "category": "us"
+      },
+      {
+        "title": "SK Hynix opens at $170 on Nasdaq. Chairman tells CNBC &apos;demand is enormous&apos;",
+        "link": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+        "pubDate": "Fri, 10 Jul 2026 16:53:11 GMT",
+        "category": "world"
+      },
       {
         "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
         "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
