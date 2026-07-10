@@ -1,39 +1,27 @@
 {
-  "updated_at": "2026-07-10T17:51:50.521520",
+  "updated_at": "2026-07-10T19:42:30.659864",
   "news": {
     "ap": [
       {
-        "title": "Stocks and oil prices drift, while South Korean AI darling SK Hynix leaps in its Wall Street debut",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5130e6448b45f69eacd10a8b6492a1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-market-iran-war-ai-oil-45e2da56e466900ff8def70ab931387d&amp;c=6078879709632589770&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 10:07:00 GMT",
+        "title": "US stocks rise as Wall Street shows it\u2019s still hungry for AI winners",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a514aa3929c4b9589559ce57fb202ee&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-market-iran-war-ai-oil-45e2da56e466900ff8def70ab931387d&amp;c=6078879709632589770&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 12:26:00 GMT",
         "category": "business"
       },
       {
-        "title": "Donald Trump ousts election commission members in latest push to reshape US voting process",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5130e4a98c4066b0f6f734fd3e6877&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-fires-election-commission-members-0dc1f37c3990398b3085f22a14ea239a&amp;c=17236605300479157323&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 09:23:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "FIFA has nearly 1,200 tickets on sale for World Cup final at $7,380",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5130e33cdb4d61a4535c8291bb14b2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-final-tickets-1eb6731d9cb7dc1bde02b41c9992174c&amp;c=5652949843189532436&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 08:33:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "China blocks exports of helium, key for chipmaking, as Iran war squeezes supply",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5130e95eb546809a3dad5c4b0ce638&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-helium-export-iran-war-chips-346d8806f8ba410d81de6ced150acb87&amp;c=1293245413287323815&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 07:25:00 GMT",
-        "category": "tech"
-      },
-      {
         "title": "EPA promised a Make America Healthy Again agenda. It has yet to materialize, frustrating activists",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5130ec0fa94abbb91d0f580da11de0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fepa-maha-pesticides-zeldin-chemicals-microplastics-f6d4c207f2ebe023feec0fe11bf25667&amp;c=8021228402319053083&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a514ab8314045d59c372308ea713c4a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fepa-maha-pesticides-zeldin-chemicals-microplastics-f6d4c207f2ebe023feec0fe11bf25667&amp;c=8021228402319053083&amp;mkt=en-us",
         "pubDate": "Fri, 10 Jul 2026 05:23:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
+        "pubDate": "Fri, 10 Jul 2026 15:08:57 -0400",
+        "category": "us"
+      },
       {
         "title": "A major housing bill is set to become law at midnight \u2014 even though Trump says he won&apos;t sign",
         "link": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature",
@@ -56,7 +44,7 @@
         "title": "Waymo called the cops on teen riders, raising privacy concerns",
         "link": "https://www.npr.org/2026/07/10/nx-s1-5886113/waymo-police-privacy-driverless-autonomous-vehicles",
         "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
-        "category": "us"
+        "category": "tech"
       },
       {
         "title": "Count Binface: The intergalactic warrior who could upend Britain&apos;s strangest election",
@@ -87,15 +75,21 @@
         "link": "https://www.npr.org/2026/07/10/nx-s1-5876512/trump-communist-messaging-economy-democrats",
         "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "One of Spain&apos;s deadliest wildfires kills at least 12 people, with 23 others missing",
-        "link": "https://www.npr.org/2026/07/10/nx-s1-5888160/southern-spain-wildfire-almeria",
-        "pubDate": "Fri, 10 Jul 2026 04:53:37 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Anton du Beke 'devastated' over Ann Widdecombe death as politicians react",
+        "link": "https://www.bbc.co.uk/news/articles/cm2d370npe4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 19:30:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Beford triple murder suspect arrested in South Africa",
+        "link": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 19:30:19 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Watch: Police confirm 26 year-old suspect in custody",
         "link": "https://www.bbc.co.uk/news/videos/c1ly3glepr1o?at_medium=RSS&amp;at_campaign=rss",
@@ -109,15 +103,9 @@
         "category": "Top News"
       },
       {
-        "title": "Watch: 'Shocked' Starmer and Badenoch react to murder investigation",
+        "title": "Watch: Starmer and Badenoch 'shocked' at murder investigation",
         "link": "https://www.bbc.co.uk/news/videos/c0lydpe9722o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Jul 2026 16:47:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-        "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 16:42:24 GMT",
         "category": "Top News"
       },
       {
@@ -131,12 +119,6 @@
         "link": "https://www.bbc.co.uk/news/videos/c3ry5xl4qr1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Jul 2026 16:04:37 GMT",
         "category": "health"
-      },
-      {
-        "title": "Arthur Fery's Wimbledon run ended by Alexander Zverev in semi-finals",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 15:36:30 GMT",
-        "category": "Top News"
       },
       {
         "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
@@ -159,42 +141,54 @@
     ],
     "reuters": [
       {
-        "title": "SK Hynix options to trade two business days after Nasdaq debut, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a513100176a4a349336618c373fc6fb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fcboe-expects-sk-hynix-options-trade-two-business-days-after-nasdaq-debut-source-2026-07-10%2f&amp;c=4119295991115706009&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 05:58:00 GMT",
-        "category": "business"
-      },
-      {
         "title": "Mission creep: FIFA's embrace of technology backfires in controversy-riven World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a513101e48c47c9b44274c0d0a13b88&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fmission-creep-fifas-embrace-technology-backfires-controversy-riven-world-cup-2026-07-10%2f&amp;c=17055913620545384338&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a514aeaff834dfc890cd2ff4b9a9c43&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fmission-creep-fifas-embrace-technology-backfires-controversy-riven-world-cup-2026-07-10%2f&amp;c=17055913620545384338&amp;mkt=en-us",
         "pubDate": "Fri, 10 Jul 2026 02:51:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Overcrowded shelters, lack of clean water pose health risks after Venezuela quakes, PAHO says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5131041ff14a618ff0a968f8876be1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fovercrowding-lack-clean-water-among-biggest-health-risks-venezuela-quakes-says-2026-07-09%2f&amp;c=6295636047369206978&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Jul 2026 22:15:00 GMT",
+        "title": "German lawmakers approve healthcare shake-up aimed at taming costs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a514aeaf8fa4b36a0cf6dd7b7a42989&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fgermanys-lower-house-parliament-passes-healthcare-reform-2026-07-10%2f&amp;c=11898156574363459049&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 02:35:00 GMT",
         "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Traders fall back in love with Meta. Here&apos;s where bulls see it going",
-        "link": "https://www.cnbc.com/2026/07/10/traders-fall-back-in-love-with-meta-heres-where-bulls-see-it-going.html",
-        "pubDate": "Fri, 10 Jul 2026 17:40:29 GMT",
-        "category": "us"
+        "title": "Meta stock got the 18% pop Jim Cramer said it could on cloud news. What&apos;s next?",
+        "link": "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html",
+        "pubDate": "Fri, 10 Jul 2026 19:39:24 GMT",
+        "category": "tech"
       },
       {
-        "title": "SK Hynix opens at $170 on Nasdaq. Chairman tells CNBC &apos;demand is enormous&apos;",
-        "link": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
-        "pubDate": "Fri, 10 Jul 2026 16:53:11 GMT",
-        "category": "world"
+        "title": "Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone &amp; more",
+        "link": "https://www.cnbc.com/2026/07/10/stocks-making-big-midday-moves-skhyv-meta-wdfc-dal-vod-.html",
+        "pubDate": "Fri, 10 Jul 2026 17:53:52 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
-        "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
-        "pubDate": "Fri, 10 Jul 2026 11:59:16 GMT",
-        "category": "business"
+        "title": "The stock market looks pretty cheap based on future earnings expectations. Don&apos;t be fooled",
+        "link": "https://www.cnbc.com/2026/07/10/the-stock-market-looks-pretty-cheap-based-on-future-earnings-expectations-dont-be-fooled.html",
+        "pubDate": "Fri, 10 Jul 2026 16:56:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Prediction markets spark insider trading concerns. Here&apos;s how Goldman and other companies are responding",
+        "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
+        "pubDate": "Fri, 10 Jul 2026 14:22:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
+        "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
+        "pubDate": "Thu, 09 Jul 2026 19:53:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
+        "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
+        "pubDate": "Thu, 09 Jul 2026 19:44:17 GMT",
+        "category": "Top News"
       }
     ]
   }
