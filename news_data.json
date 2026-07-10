@@ -1,26 +1,38 @@
 {
-  "updated_at": "2026-07-10T19:42:30.659864",
+  "updated_at": "2026-07-10T21:12:55.000018",
   "news": {
     "ap": [
       {
         "title": "US stocks rise as Wall Street shows it\u2019s still hungry for AI winners",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a514aa3929c4b9589559ce57fb202ee&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-market-iran-war-ai-oil-45e2da56e466900ff8def70ab931387d&amp;c=6078879709632589770&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 12:26:00 GMT",
-        "category": "business"
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a515fefc09345e18dd804c99de98f82&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-market-iran-war-ai-oil-45e2da56e466900ff8def70ab931387d&amp;c=6078879709632589770&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 13:13:00 GMT",
+        "category": "tech"
       },
       {
         "title": "EPA promised a Make America Healthy Again agenda. It has yet to materialize, frustrating activists",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a514ab8314045d59c372308ea713c4a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fepa-maha-pesticides-zeldin-chemicals-microplastics-f6d4c207f2ebe023feec0fe11bf25667&amp;c=8021228402319053083&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a515ff2d50043b0b61654348b68085b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fepa-maha-pesticides-zeldin-chemicals-microplastics-f6d4c207f2ebe023feec0fe11bf25667&amp;c=8021228402319053083&amp;mkt=en-us",
         "pubDate": "Fri, 10 Jul 2026 05:23:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
       {
+        "title": "Utah judge now considering evidence against accused killer of Charlie Kirk",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5888440/utah-judge-now-considering-evidence-against-accused-killer-of-charlie-kirk",
+        "pubDate": "Fri, 10 Jul 2026 17:00:40 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Patriotic art gets the spotlight as NEA funding shifts. Cue &apos;The Ronald Reagan Overture&apos;",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art",
+        "pubDate": "Fri, 10 Jul 2026 16:00:00 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
         "link": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
         "pubDate": "Fri, 10 Jul 2026 15:08:57 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "A major housing bill is set to become law at midnight \u2014 even though Trump says he won&apos;t sign",
@@ -63,49 +75,37 @@
         "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
         "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
-        "link": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
-        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump leans on &apos;communist&apos; messaging as economic angst drives Democrats",
-        "link": "https://www.npr.org/2026/07/10/nx-s1-5876512/trump-communist-messaging-economy-democrats",
-        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Anton du Beke 'devastated' over Ann Widdecombe death as politicians react",
+        "title": "Anton du Beke 'devastated' at death of Strictly co-star Ann Widdecombe",
         "link": "https://www.bbc.co.uk/news/articles/cm2d370npe4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 19:30:38 GMT",
+        "pubDate": "Fri, 10 Jul 2026 20:11:44 GMT",
         "category": "Top News"
       },
       {
-        "title": "Beford triple murder suspect arrested in South Africa",
+        "title": "Triple murder suspect arrested in South Africa",
         "link": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 19:30:19 GMT",
+        "pubDate": "Fri, 10 Jul 2026 20:09:57 GMT",
         "category": "Top News"
       },
       {
-        "title": "Watch: Police confirm 26 year-old suspect in custody",
-        "link": "https://www.bbc.co.uk/news/videos/c1ly3glepr1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 17:18:02 GMT",
+        "title": "Man arrested on suspicion of murder after death of Ann Widdecombe",
+        "link": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 19:39:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Ann Widdecombe murder probe: What we know so far",
-        "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 17:04:40 GMT",
+        "title": "Harry visits King with Meghan and children for first time in four years",
+        "link": "https://www.bbc.co.uk/news/articles/cj4g79exkzlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 18:50:54 GMT",
         "category": "Top News"
       },
       {
-        "title": "Watch: Starmer and Badenoch 'shocked' at murder investigation",
-        "link": "https://www.bbc.co.uk/news/videos/c0lydpe9722o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 16:47:24 GMT",
+        "title": "Man pulls wheelies then throws electric motorbike off bridge after police chase",
+        "link": "https://www.bbc.co.uk/news/articles/cx2xd555levo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 18:17:47 GMT",
         "category": "Top News"
       },
       {
@@ -139,26 +139,19 @@
         "category": "tech"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "Mission creep: FIFA's embrace of technology backfires in controversy-riven World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a514aeaff834dfc890cd2ff4b9a9c43&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fmission-creep-fifas-embrace-technology-backfires-controversy-riven-world-cup-2026-07-10%2f&amp;c=17055913620545384338&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 02:51:00 GMT",
+        "title": "Apple sues OpenAI alleging trade secret theft, says scheme was &apos;at every level&apos;",
+        "link": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+        "pubDate": "Fri, 10 Jul 2026 20:38:26 GMT",
         "category": "tech"
       },
       {
-        "title": "German lawmakers approve healthcare shake-up aimed at taming costs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a514aeaf8fa4b36a0cf6dd7b7a42989&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fgermanys-lower-house-parliament-passes-healthcare-reform-2026-07-10%2f&amp;c=11898156574363459049&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 02:35:00 GMT",
-        "category": "health"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Meta stock got the 18% pop Jim Cramer said it could on cloud news. What&apos;s next?",
-        "link": "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html",
-        "pubDate": "Fri, 10 Jul 2026 19:39:24 GMT",
-        "category": "tech"
+        "title": "SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC &apos;demand is enormous&apos;",
+        "link": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+        "pubDate": "Fri, 10 Jul 2026 20:34:32 GMT",
+        "category": "world"
       },
       {
         "title": "Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone &amp; more",
@@ -176,18 +169,6 @@
         "title": "Prediction markets spark insider trading concerns. Here&apos;s how Goldman and other companies are responding",
         "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
         "pubDate": "Fri, 10 Jul 2026 14:22:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
-        "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
-        "pubDate": "Thu, 09 Jul 2026 19:53:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
-        "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
-        "pubDate": "Thu, 09 Jul 2026 19:44:17 GMT",
         "category": "Top News"
       }
     ]
