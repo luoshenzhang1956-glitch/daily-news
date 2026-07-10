@@ -1,61 +1,68 @@
 {
-  "updated_at": "2026-07-10T07:43:36.141610",
+  "updated_at": "2026-07-10T11:13:15.738263",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d33c502a40faaccb232def7b1bf0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-oil-iran-ai-ebb040b1377034108cfd55adfa94ecd1&amp;c=12806385653597230622&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 17:21:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "Shelling at night, gunfire by day in Israel&apos;s expanding zone of control in Gaza",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
+        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Waymo called the cops on teen riders, raising privacy concerns",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5886113/waymo-police-privacy-driverless-autonomous-vehicles",
+        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
+        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Count Binface: The intergalactic warrior who could upend Britain&apos;s strangest election",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election",
+        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "One U.S. visa program is growing rapidly. No one is happy with it",
+        "link": "https://www.npr.org/2026/07/10/g-s1-132915/congress-agriculture-h2a-visa-program",
+        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump leans on &apos;communist&apos; messaging as economic angst drives Democrats",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5876512/trump-communist-messaging-economy-democrats",
+        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "One of Spain&apos;s deadliest wildfires has killed at least 11 people",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5888160/one-of-spains-deadliest-wildfires-has-killed-at-least-11-people",
+        "pubDate": "Fri, 10 Jul 2026 04:53:37 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
         "link": "https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo",
         "pubDate": "Fri, 10 Jul 2026 02:33:38 -0400",
-        "category": "world"
-      },
-      {
-        "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
-        "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
-        "pubDate": "Fri, 10 Jul 2026 02:12:36 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "President Trump cleans house at the bipartisan Election Assistance Commission",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5887690/trump-election-assistance-commission",
-        "pubDate": "Thu, 09 Jul 2026 22:52:32 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "In private call, Education Dept. tried, but failed, to reassure disability advocates",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5887650/education-department-special-ed-hhs",
-        "pubDate": "Thu, 09 Jul 2026 21:03:56 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Trump&apos;s arch clears another hurdle, setting up a big debate: Do height limits apply?",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5884728/trump-arch-height-act-commission-meeting",
-        "pubDate": "Thu, 09 Jul 2026 20:44:48 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "France downs Morocco 2-0 to advance to the World Cup semifinal",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5887619/2026-world-cup-fifa-france-morocco-quarterfinal",
-        "pubDate": "Thu, 09 Jul 2026 18:01:54 -0400",
-        "category": "Top News"
+        "category": "health"
       },
       {
         "title": "Microsoft is doing a hard reset of its XBOX gaming division",
         "link": "https://www.npr.org/2026/07/09/nx-s1-5884900/microsoft-is-doing-a-hard-reset-of-its-xbox-gaming-division",
         "pubDate": "Thu, 09 Jul 2026 16:03:40 -0400",
         "category": "business"
-      },
-      {
-        "title": "Smithsonian chief emphasizes &apos;accuracy and integrity&apos; after White House report",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5887518/smithsonian-chief-lonnie-bunch-white-house-accusations",
-        "pubDate": "Thu, 09 Jul 2026 15:46:02 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "EPA proposes weakening heavy-duty truck pollution rules",
-        "link": "https://www.npr.org/2026/07/09/nx-s1-5886354/epa-heavy-duty-truck-emissions",
-        "pubDate": "Thu, 09 Jul 2026 15:03:41 -0400",
-        "category": "health"
       },
       {
         "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
@@ -66,46 +73,40 @@
     ],
     "bbc": [
       {
+        "title": "'People don't realise how at risk they are': A day with an ambulance service in a heatwave",
+        "link": "https://www.bbc.co.uk/news/articles/cvg4y289ppjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 10:18:28 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Former Tory minister Ann Widdecombe dies at 78",
+        "link": "https://www.bbc.co.uk/news/articles/ced47jqyg1eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 10:03:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Big tech must deal with scam ads under Ofcom proposals",
+        "link": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 09:59:19 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+        "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 09:38:07 GMT",
+        "category": "business"
+      },
+      {
         "title": "Police investigating Reform donations - reports",
         "link": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Jul 2026 07:40:41 GMT",
         "category": "Top News"
       },
       {
-        "title": "At least 11 dead and 19 missing in wildfire in southern Spain",
-        "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 07:39:39 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Burnham set to be next PM as 322 Labour MPs back him in first nomination tally",
-        "link": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 07:30:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "EasyJet agrees to rival \u00a35.7bn takeover bid",
-        "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 07:22:29 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Former Tory minister Ann Widdecombe dies at 78",
-        "link": "https://www.bbc.co.uk/news/articles/ced47jqyg1eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 07:07:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bayeux Tapestry arrives overnight at British Museum under police guard",
+        "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
         "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Jul 2026 05:00:04 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Vapes to have less enticing names to protect children, under UK plans",
-        "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 02:15:38 GMT",
-        "category": "health"
       },
       {
         "title": "Pioneering treatment saves identical twins from rare pregnancy condition",
@@ -117,77 +118,89 @@
         "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
         "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Jul 2026 01:33:45 GMT",
-        "category": "tech"
+        "category": "Top News"
       },
       {
         "title": "Charlie Kirk murder suspect told roommate 'he wishes he hadn't done it', court hears",
         "link": "https://www.bbc.co.uk/news/articles/c621v466y91o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Jul 2026 00:07:58 GMT",
         "category": "us"
+      },
+      {
+        "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 09 Jul 2026 23:18:18 GMT",
+        "category": "world"
       }
     ],
     "reuters": [
       {
-        "title": "SK Hynix raises $26.5 billion in US offering after pricing ADRs at $149",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50a27b4386465ba29317647aaf7954&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsk-hynix-us-listing-more-than-seven-times-oversubscribed-source-says-2026-07-09%2f&amp;c=11900014851157825477&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Jul 2026 21:51:00 GMT",
-        "category": "tech"
+        "title": "Eleven killed, 19 missing in one of Spain's deadliest wildfires",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fwildfires-southern-spain-kill-12-emergency-agency-says-2026-07-10%2f&amp;c=16512784248710795459&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 02:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump makes the stock market his scoreboard, but many Americans aren't even in the game",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2ftrump-makes-stock-market-his-scoreboard-many-americans-arent-even-game-2026-07-10%2f&amp;c=11106291639453344103&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 02:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "DOJ sues Maryland, alleges state policies interfere with immigration crackdown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fdoj-sues-maryland-alleges-state-policies-interfere-with-immigration-crackdown-2026-07-10%2f&amp;c=9192963343140564390&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 02:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Andy Burnham poised to become Britain's next PM after most Labour lawmakers support him",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fandy-burnham-poised-become-britains-next-pm-after-most-labour-lawmakers-support-2026-07-10%2f&amp;c=13621290754040210598&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 02:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "World Cup brings fans joy, torment and a lifetime of memories",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34f771c4f48ab3efd1b41f0d13f&amp;url=https%3a%2f%2fwww.reuters.com%2finvestigates%2fspecial-report%2fsoccer-worldcup-fans%2f&amp;c=8625798741092474543&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 02:00:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Missile test showcases sensitive Chinese submarine capabilities key to nuclear deterrent",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fmissile-test-showcases-sensitive-chinese-submarine-capabilities-key-nuclear-2026-07-10%2f&amp;c=16859823219833907480&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 01:22:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "SK Hynix's marquee US debut to test AI appetite",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d35d964247c39c29de3acbb138be&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsk-hynix-set-marquee-us-debut-test-ai-appetite-2026-07-10%2f&amp;c=14725096694824090140&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 00:57:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Bangladesh's Hasina plans December return with party colleagues to surrender",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fbangladeshs-hasina-plans-december-return-with-party-colleagues-surrender-2026-07-10%2f&amp;c=5636783910432089696&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 23:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "In Houston's 'Little Mexico,' an ICE shooting leaves scars",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fhoustons-little-mexico-an-ice-shooting-leaves-scars-2026-07-09%2f&amp;c=15025182912811643389&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 17:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New Mexico says US Justice Dept hindering probe of former Epstein ranch",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fnew-mexico-says-us-justice-dept-hindering-probe-former-epstein-ranch-2026-07-09%2f&amp;c=14077657300809806489&amp;mkt=en-us",
+        "pubDate": "Thu, 09 Jul 2026 13:36:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Will SK Hynix\u2019s Wall Street debut narrow its &apos;Korea discount&apos;?",
-        "link": "https://www.cnbc.com/2026/07/10/sk-hynix-debuts-on-nasdaq-will-that-bridge-its-korea-discount-.html",
-        "pubDate": "Fri, 10 Jul 2026 06:21:42 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Florida&apos;s Palm Beach airport renamed for Trump",
-        "link": "https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html",
-        "pubDate": "Thu, 09 Jul 2026 20:55:37 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Here are analysts&apos; favorite Nasdaq 100 stocks for the second half",
-        "link": "https://www.cnbc.com/2026/07/09/here-are-analysts-favorite-nasdaq-100-stocks-for-the-second-half.html",
-        "pubDate": "Thu, 09 Jul 2026 20:00:33 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
-        "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
-        "pubDate": "Thu, 09 Jul 2026 19:53:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
-        "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
-        "pubDate": "Thu, 09 Jul 2026 19:44:17 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prediction markets spark insider trading concerns. Here&apos;s how Goldman and other companies are responding",
-        "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
-        "pubDate": "Thu, 09 Jul 2026 18:52:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "AstraZeneca stock drops 9% after heart drug trial miss deals rare blow to pharma powerhouse",
-        "link": "https://www.cnbc.com/2026/07/09/astrazeneca-stock-trial-heart-drug-pharma.html",
-        "pubDate": "Thu, 09 Jul 2026 18:44:55 GMT",
+        "title": "Abivax $920 million cash haul lets it prepare for solo U.S. launch instead of relying on a buyer, CEO tells CNBC",
+        "link": "https://www.cnbc.com/2026/07/10/abivax-stock-takeover-us-launch-obefazimod-ulcerative-colitis.html",
+        "pubDate": "Fri, 10 Jul 2026 10:10:15 GMT",
         "category": "health"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Micron, Paramount Skydance, Mara Holdings, PepsiCo &amp; more",
-        "link": "https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-midday-mu-psky-mara-pep.html",
-        "pubDate": "Thu, 09 Jul 2026 15:58:55 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
-        "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
-        "pubDate": "Thu, 09 Jul 2026 15:00:50 GMT",
-        "category": "Top News"
       }
     ]
   }
