@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-07-10T11:13:15.738263",
+  "updated_at": "2026-07-10T14:42:10.597097",
   "news": {
     "ap": [
       {
-        "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d33c502a40faaccb232def7b1bf0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-oil-iran-ai-ebb040b1377034108cfd55adfa94ecd1&amp;c=12806385653597230622&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Jul 2026 17:21:00 GMT",
-        "category": "tech"
+        "title": "Donald Trump ousts election commission members in latest push to reshape US voting process",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a51043aaac04837ab164e1816b5a9bc&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-fires-election-commission-members-0dc1f37c3990398b3085f22a14ea239a&amp;c=17236605300479157323&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 05:58:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
       {
-        "title": "Shelling at night, gunfire by day in Israel&apos;s expanding zone of control in Gaza",
-        "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
+        "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
+        "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+        "pubDate": "Fri, 10 Jul 2026 07:43:38 -0400",
         "category": "world"
+      },
+      {
+        "title": "Taliban declares war on smartphones",
+        "link": "https://www.npr.org/2026/07/10/g-s1-132396/smartphones-taliban-afghanistan-ban",
+        "pubDate": "Fri, 10 Jul 2026 07:12:39 -0400",
+        "category": "health"
       },
       {
         "title": "Waymo called the cops on teen riders, raising privacy concerns",
@@ -23,8 +29,8 @@
         "category": "us"
       },
       {
-        "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
-        "link": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
+        "title": "Shelling at night, gunfire by day in Israel&apos;s expanding zone of control in Gaza",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
         "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -47,16 +53,10 @@
         "category": "Top News"
       },
       {
-        "title": "One of Spain&apos;s deadliest wildfires has killed at least 11 people",
-        "link": "https://www.npr.org/2026/07/10/nx-s1-5888160/one-of-spains-deadliest-wildfires-has-killed-at-least-11-people",
-        "pubDate": "Fri, 10 Jul 2026 04:53:37 -0400",
+        "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
+        "link": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
+        "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
-        "link": "https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo",
-        "pubDate": "Fri, 10 Jul 2026 02:33:38 -0400",
-        "category": "health"
       },
       {
         "title": "Microsoft is doing a hard reset of its XBOX gaming division",
@@ -73,34 +73,46 @@
     ],
     "bbc": [
       {
+        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+        "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 14:14:25 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Prince Harry plays pickleball at Invictus Games event, but no Meghan",
+        "link": "https://www.bbc.co.uk/news/articles/c2dyw9lp02wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 13:05:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 12:51:46 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+        "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 12:31:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+        "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 12:02:40 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Met police investigating Reform over election donations - reports",
+        "link": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 10 Jul 2026 11:46:03 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "'People don't realise how at risk they are': A day with an ambulance service in a heatwave",
         "link": "https://www.bbc.co.uk/news/articles/cvg4y289ppjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 10 Jul 2026 10:18:28 GMT",
         "category": "health"
-      },
-      {
-        "title": "Former Tory minister Ann Widdecombe dies at 78",
-        "link": "https://www.bbc.co.uk/news/articles/ced47jqyg1eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 10:03:12 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Big tech must deal with scam ads under Ofcom proposals",
-        "link": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 09:59:19 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-        "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 09:38:07 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Police investigating Reform donations - reports",
-        "link": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 07:40:41 GMT",
-        "category": "Top News"
       },
       {
         "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
@@ -115,18 +127,6 @@
         "category": "Top News"
       },
       {
-        "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-        "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 01:33:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Charlie Kirk murder suspect told roommate 'he wishes he hadn't done it', court hears",
-        "link": "https://www.bbc.co.uk/news/articles/c621v466y91o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 10 Jul 2026 00:07:58 GMT",
-        "category": "us"
-      },
-      {
         "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
         "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 09 Jul 2026 23:18:18 GMT",
@@ -135,72 +135,30 @@
     ],
     "reuters": [
       {
-        "title": "Eleven killed, 19 missing in one of Spain's deadliest wildfires",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fwildfires-southern-spain-kill-12-emergency-agency-says-2026-07-10%2f&amp;c=16512784248710795459&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 02:50:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump makes the stock market his scoreboard, but many Americans aren't even in the game",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2ftrump-makes-stock-market-his-scoreboard-many-americans-arent-even-game-2026-07-10%2f&amp;c=11106291639453344103&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 02:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "DOJ sues Maryland, alleges state policies interfere with immigration crackdown",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fdoj-sues-maryland-alleges-state-policies-interfere-with-immigration-crackdown-2026-07-10%2f&amp;c=9192963343140564390&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 02:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Andy Burnham poised to become Britain's next PM after most Labour lawmakers support him",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fandy-burnham-poised-become-britains-next-pm-after-most-labour-lawmakers-support-2026-07-10%2f&amp;c=13621290754040210598&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 02:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "World Cup brings fans joy, torment and a lifetime of memories",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34f771c4f48ab3efd1b41f0d13f&amp;url=https%3a%2f%2fwww.reuters.com%2finvestigates%2fspecial-report%2fsoccer-worldcup-fans%2f&amp;c=8625798741092474543&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 02:00:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Missile test showcases sensitive Chinese submarine capabilities key to nuclear deterrent",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fmissile-test-showcases-sensitive-chinese-submarine-capabilities-key-nuclear-2026-07-10%2f&amp;c=16859823219833907480&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 01:22:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SK Hynix's marquee US debut to test AI appetite",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d35d964247c39c29de3acbb138be&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsk-hynix-set-marquee-us-debut-test-ai-appetite-2026-07-10%2f&amp;c=14725096694824090140&amp;mkt=en-us",
-        "pubDate": "Fri, 10 Jul 2026 00:57:00 GMT",
+        "title": "SK Hynix's shares indicated to jump 20% in marquee US debut",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a51047e95d9486d8a9893460f5cef22&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsk-hynix-set-marquee-us-debut-test-ai-appetite-2026-07-10%2f&amp;c=14725096694824090140&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 06:24:00 GMT",
         "category": "us"
       },
       {
-        "title": "Bangladesh's Hasina plans December return with party colleagues to surrender",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fbangladeshs-hasina-plans-december-return-with-party-colleagues-surrender-2026-07-10%2f&amp;c=5636783910432089696&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Jul 2026 23:46:00 GMT",
-        "category": "Top News"
+        "title": "SK Hynix options to trade two business days after Nasdaq debut, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a51047fbe0a4cdaa483c3aa9cc30711&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fcboe-expects-sk-hynix-options-trade-two-business-days-after-nasdaq-debut-source-2026-07-10%2f&amp;c=4119295991115706009&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 05:58:00 GMT",
+        "category": "business"
       },
       {
-        "title": "In Houston's 'Little Mexico,' an ICE shooting leaves scars",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fhoustons-little-mexico-an-ice-shooting-leaves-scars-2026-07-09%2f&amp;c=15025182912811643389&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Jul 2026 17:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New Mexico says US Justice Dept hindering probe of former Epstein ranch",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a50d34d9c294224bfbbf2cfcb339e36&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fnew-mexico-says-us-justice-dept-hindering-probe-former-epstein-ranch-2026-07-09%2f&amp;c=14077657300809806489&amp;mkt=en-us",
-        "pubDate": "Thu, 09 Jul 2026 13:36:00 GMT",
-        "category": "Top News"
+        "title": "Mbapp&#233; closes within one goal of World Cup scoring record as France reach semifinals",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a51047c95ca480e9ebfa7e6b764f94e&amp;url=https%3a%2f%2fwww.reuters.com%2fgraphics%2fSOCCER-WORLDCUP%2fzgvolqqoypd%2f2026-07-10%2ftop-scorers-battle%2f&amp;c=5115360490285646730&amp;mkt=en-us",
+        "pubDate": "Fri, 10 Jul 2026 02:00:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Abivax $920 million cash haul lets it prepare for solo U.S. launch instead of relying on a buyer, CEO tells CNBC",
-        "link": "https://www.cnbc.com/2026/07/10/abivax-stock-takeover-us-launch-obefazimod-ulcerative-colitis.html",
-        "pubDate": "Fri, 10 Jul 2026 10:10:15 GMT",
-        "category": "health"
+        "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
+        "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
+        "pubDate": "Fri, 10 Jul 2026 11:59:16 GMT",
+        "category": "business"
       }
     ]
   }
