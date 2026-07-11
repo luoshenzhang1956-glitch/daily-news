@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T19:14:09.001949",
+  "updated_at": "2026-07-11T20:59:19.212482",
   "news": {
     "ap": [],
     "npr": [
@@ -66,10 +66,22 @@
     ],
     "bbc": [
       {
-        "title": "Noskova holds off extraordinary Muchova fightback to win Wimbledon",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 11 Jul 2026 18:12:21 GMT",
+        "title": "Iran supreme leader calls for revenge for father's killing",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 11 Jul 2026 19:30:36 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Tributes paid to TV presenter Dermot Murnaghan",
+        "link": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 11 Jul 2026 19:29:45 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "China's second typhoon in a week makes landfall",
+        "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 11 Jul 2026 17:41:56 GMT",
+        "category": "world"
       },
       {
         "title": "Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe",
@@ -78,27 +90,9 @@
         "category": "Top News"
       },
       {
-        "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
-        "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 11 Jul 2026 16:55:57 GMT",
-        "category": "world"
-      },
-      {
         "title": "Village in shock as 'horrific' Ann Widdecombe murder case unfolds",
         "link": "https://www.bbc.co.uk/news/articles/c0ky0e147jzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 11 Jul 2026 16:18:17 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-        "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 11 Jul 2026 16:11:33 GMT",
-        "category": "us"
-      },
-      {
-        "title": "TV presenter Dermot Murnaghan dies aged 68",
-        "link": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 11 Jul 2026 15:11:05 GMT",
         "category": "Top News"
       },
       {
@@ -111,6 +105,12 @@
         "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
         "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 11 Jul 2026 12:00:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
+        "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 11 Jul 2026 11:45:55 GMT",
         "category": "Top News"
       },
       {
@@ -128,25 +128,12 @@
     ],
     "reuters": [
       {
-        "title": "Trump revives praise for his health, cognitive test in post about May physical",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5295c28b244afab6bedc6fd8c1dff3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-says-he-just-finished-physical-walter-reed-2026-07-11%2f&amp;c=1407849688110451565&amp;mkt=en-us",
-        "pubDate": "Sat, 11 Jul 2026 10:06:00 GMT",
-        "category": "health"
+        "title": "US Postal Service raises stamp price to 82 cents",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a52ae79a1a941e2a920b1ee90be488a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-postal-service-raises-stamp-price-82-cents-2026-07-11%2f&amp;c=11780969950297324415&amp;mkt=en-us",
+        "pubDate": "Sat, 11 Jul 2026 11:35:00 GMT",
+        "category": "business"
       }
     ],
-    "markets": [
-      {
-        "title": "These underperforming trades could yield big returns over next six months",
-        "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
-        "pubDate": "Sat, 11 Jul 2026 15:00:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump threatens to &apos;decimate&apos; Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-        "link": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-        "pubDate": "Sat, 11 Jul 2026 12:51:50 GMT",
-        "category": "world"
-      }
-    ]
+    "markets": []
   }
 }
