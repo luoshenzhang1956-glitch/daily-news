@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-07-12T21:00:04.825775",
+  "updated_at": "2026-07-12T22:59:05.379581",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "What would it mean for Ukraine if it actually starts producing Patriot missiles?",
+        "link": "https://www.npr.org/2026/07/12/nx-s1-5887435/what-would-it-mean-for-ukraine-if-it-actually-starts-producing-patriot-missiles",
+        "pubDate": "Sun, 12 Jul 2026 17:08:18 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Georgia&apos;s unique in the American Revolution told through its historical markers",
+        "link": "https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers",
+        "pubDate": "Sun, 12 Jul 2026 17:08:15 -0400",
+        "category": "us"
+      },
+      {
         "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
         "link": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
         "pubDate": "Sun, 12 Jul 2026 15:53:24 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Toronto police looking for suspects after deadly shooting at festival",
@@ -20,12 +32,6 @@
         "link": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
         "pubDate": "Sun, 12 Jul 2026 12:48:41 -0400",
         "category": "health"
-      },
-      {
-        "title": "Airline consolidation now rules the skies. Has it been good for passengers?",
-        "link": "https://www.npr.org/2026/07/12/nx-s1-5822534-e1/airline-consolidation-now-rules-the-skies-has-it-been-good-for-passengers",
-        "pubDate": "Sun, 12 Jul 2026 07:57:16 -0400",
-        "category": "us"
       },
       {
         "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
@@ -56,19 +62,25 @@
         "link": "https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist",
         "pubDate": "Sun, 12 Jul 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
-        "link": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
-        "pubDate": "Sun, 12 Jul 2026 03:10:41 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 12 Jul 2026 22:17:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 12 Jul 2026 22:08:07 GMT",
+        "category": "us"
+      },
+      {
         "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
         "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 20:48:53 GMT",
+        "pubDate": "Sun, 12 Jul 2026 21:22:54 GMT",
         "category": "Top News"
       },
       {
@@ -78,7 +90,7 @@
         "category": "Top News"
       },
       {
-        "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+        "title": "At least 27 killed in Bangkok bar fire",
         "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 12 Jul 2026 20:13:14 GMT",
         "category": "world"
@@ -93,18 +105,6 @@
         "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
         "link": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 12 Jul 2026 18:18:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 17:40:34 GMT",
-        "category": "us"
-      },
-      {
-        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 16:46:24 GMT",
         "category": "Top News"
       },
       {
@@ -126,14 +126,15 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
-        "link": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
-        "pubDate": "Sun, 12 Jul 2026 16:49:18 GMT",
-        "category": "world"
-      },
+        "title": "Myanmar tells ASEAN 'sister' Aung San Suu Kyi will be looked after, envoy says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a541be71fed42878d8186f34fb15829&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fmyanmar-tells-asean-detained-aung-san-suu-kyi-will-be-looked-after-special-envoy-2026-07-12%2f&amp;c=5473111165282273991&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Jul 2026 05:32:00 GMT",
+        "category": "health"
+      }
+    ],
+    "markets": [
       {
         "title": "Goldman Sachs picks its favorite Chinese AI models",
         "link": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html",
