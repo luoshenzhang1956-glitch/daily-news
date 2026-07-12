@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-07-12T19:14:22.111467",
+  "updated_at": "2026-07-12T21:00:04.825775",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "World Cup semifinals: Four previous champions, a bitter rivalry, Mbapp&#233; vs Yamal and Messi vs Kane",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a53e71c6a984aedb1ad75973c685b53&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-semifinals-preview-messi-d271d7d89fe3384614357258687686a0&amp;c=10726419519602905158&amp;mkt=en-us",
-        "pubDate": "Sun, 12 Jul 2026 11:52:00 GMT",
+        "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
+        "link": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+        "pubDate": "Sun, 12 Jul 2026 15:53:24 -0400",
         "category": "world"
       },
-      {
-        "title": "Focus turns to building stronger institutions in Africa to speed shift to renewable energy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a53e731f2af483b8ed584b114dc95ed&amp;url=https%3a%2f%2fapnews.com%2farticle%2frenewable-energy-finance-africa-290f6f3dd0a6f4b71d5d1e280a41e060&amp;c=4607430765151648301&amp;mkt=en-us",
-        "pubDate": "Sat, 11 Jul 2026 22:06:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "npr": [
       {
         "title": "Toronto police looking for suspects after deadly shooting at festival",
         "link": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
         "pubDate": "Sun, 12 Jul 2026 13:22:29 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states",
@@ -53,7 +46,7 @@
         "category": "business"
       },
       {
-        "title": "Some are raising ethical concerns about political text messages using AI",
+        "title": "Campaign text messages could soon get more effective \u2014 and annoying",
         "link": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
         "pubDate": "Sun, 12 Jul 2026 05:00:00 -0400",
         "category": "tech"
@@ -69,31 +62,37 @@
         "link": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
         "pubDate": "Sun, 12 Jul 2026 03:10:41 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Alvarez&apos;s 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
-        "link": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
-        "pubDate": "Sun, 12 Jul 2026 00:10:30 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
         "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
         "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 19:04:36 GMT",
+        "pubDate": "Sun, 12 Jul 2026 20:48:53 GMT",
         "category": "Top News"
       },
       {
-        "title": "Major incident declared in Wales as firefighters tackle wildfires across UK",
-        "link": "https://www.bbc.co.uk/news/articles/cy8w67l642no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 19:03:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Two men die trying to save children in sea",
+        "title": "Two men die trying to help children in sea",
         "link": "https://www.bbc.co.uk/news/articles/cq81l5gj54zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 18:56:49 GMT",
+        "pubDate": "Sun, 12 Jul 2026 20:33:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+        "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 12 Jul 2026 20:13:14 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Sinner holds off Zverev to defend Wimbledon title",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c78y2eqq317o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 12 Jul 2026 20:10:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 12 Jul 2026 18:18:22 GMT",
         "category": "Top News"
       },
       {
@@ -106,24 +105,12 @@
         "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
         "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 12 Jul 2026 16:46:24 GMT",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Andrew Flintoff's Top Gear crash passenger sues BBC Studios",
         "link": "https://www.bbc.co.uk/news/articles/c4gy59p5gz6o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 12 Jul 2026 16:11:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-        "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 13:35:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tuchel wasn't happy with the performance. So why do England keep winning?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 12:19:03 GMT",
         "category": "Top News"
       },
       {
@@ -139,26 +126,19 @@
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Ford, Canada's Unifor reach tentative deal on labor contract",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a53e74140864777bbdd611162c9380a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fford-canadas-unifor-reach-tentative-deal-labor-contract-2026-07-12%2f&amp;c=5344270698363637688&amp;mkt=en-us",
-        "pubDate": "Sun, 12 Jul 2026 04:42:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a53e7437b604acd86ca7a4756b9ac16&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-2026-07-12%2f&amp;c=6003094994645060292&amp;mkt=en-us",
-        "pubDate": "Sun, 12 Jul 2026 00:37:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-        "link": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-        "pubDate": "Sun, 12 Jul 2026 18:16:11 GMT",
-        "category": "tech"
+        "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
+        "link": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+        "pubDate": "Sun, 12 Jul 2026 16:49:18 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Goldman Sachs picks its favorite Chinese AI models",
+        "link": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html",
+        "pubDate": "Sun, 12 Jul 2026 12:03:29 GMT",
+        "category": "Top News"
       }
     ]
   }
