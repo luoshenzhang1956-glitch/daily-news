@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-07-12T22:59:05.379581",
+  "updated_at": "2026-07-13T03:34:05.585119",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Tehran strikes Gulf states after US ends latest round of airstrikes on Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a545bfd922145a4ba9233cd8e3774ca&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-hormuz-strait-war-july-13-2026-6c2c44cfdd089d6393d18fa5930ed620&amp;c=488936799651427389&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Jul 2026 20:18:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Israeli fire in Gaza kills 6 people, including a little girl, health officials say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a545c183bea44ecbc964ecfc6d2937f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgaza-israel-palestinians-hamas-ceasefire-18dda139302048a5d7f2f69acaf597b0&amp;c=1516622903651768821&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Jul 2026 17:21:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "World Cup semifinals: Four previous champions, a bitter rivalry, Mbapp&#233; vs Yamal and Messi vs Kane",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a545bfb820945bbbebff2d1d117d665&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-semifinals-preview-messi-d271d7d89fe3384614357258687686a0&amp;c=10726419519602905158&amp;mkt=en-us",
+        "pubDate": "Sun, 12 Jul 2026 15:58:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "Want to own a real T. rex? It could cost you $30 million",
+        "link": "https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions",
+        "pubDate": "Sun, 12 Jul 2026 20:14:03 -0400",
+        "category": "us"
+      },
       {
         "title": "What would it mean for Ukraine if it actually starts producing Patriot missiles?",
         "link": "https://www.npr.org/2026/07/12/nx-s1-5887435/what-would-it-mean-for-ukraine-if-it-actually-starts-producing-patriot-missiles",
@@ -13,7 +38,7 @@
         "title": "Georgia&apos;s unique in the American Revolution told through its historical markers",
         "link": "https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers",
         "pubDate": "Sun, 12 Jul 2026 17:08:15 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
@@ -56,15 +81,57 @@
         "link": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
         "pubDate": "Sun, 12 Jul 2026 05:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "An artist brought &apos;I.C.E. pops&apos; to a Texas campus. The show was shut down in days",
-        "link": "https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist",
-        "pubDate": "Sun, 12 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
+        "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Jul 2026 02:28:35 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
+        "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Jul 2026 01:43:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "British couple return to village at heart of deadly Spanish wildfire",
+        "link": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Jul 2026 00:29:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "10 years of Pok\u00e9mon Go and the millions still trying to catch 'em all",
+        "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 13 Jul 2026 00:07:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "UK heatwave to intensify again as it enters second week",
+        "link": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 12 Jul 2026 23:56:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him",
+        "link": "https://www.bbc.co.uk/news/articles/cn8qzlvlz81o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 12 Jul 2026 23:49:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Why switching to save money is easier than you might think",
+        "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 12 Jul 2026 23:28:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Thousands may have died in UK's exceptional May and June heatwaves",
+        "link": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 12 Jul 2026 23:10:23 GMT",
+        "category": "health"
+      },
       {
         "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
         "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
@@ -76,65 +143,22 @@
         "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 12 Jul 2026 22:08:07 GMT",
         "category": "us"
-      },
-      {
-        "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
-        "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 21:22:54 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Two men die trying to help children in sea",
-        "link": "https://www.bbc.co.uk/news/articles/cq81l5gj54zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 20:33:54 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "At least 27 killed in Bangkok bar fire",
-        "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 20:13:14 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Sinner holds off Zverev to defend Wimbledon title",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c78y2eqq317o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 20:10:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 18:18:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Andrew Flintoff's Top Gear crash passenger sues BBC Studios",
-        "link": "https://www.bbc.co.uk/news/articles/c4gy59p5gz6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 16:11:20 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-        "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 05:00:15 GMT",
-        "category": "business"
-      },
-      {
-        "title": "We are living fewer years in good health: Is the NHS part of the problem?",
-        "link": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 12 Jul 2026 00:42:35 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Myanmar tells ASEAN 'sister' Aung San Suu Kyi will be looked after, envoy says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a541be71fed42878d8186f34fb15829&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fmyanmar-tells-asean-detained-aung-san-suu-kyi-will-be-looked-after-special-envoy-2026-07-12%2f&amp;c=5473111165282273991&amp;mkt=en-us",
-        "pubDate": "Sun, 12 Jul 2026 05:32:00 GMT",
-        "category": "health"
-      }
-    ],
+    "reuters": [],
     "markets": [
+      {
+        "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+        "link": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+        "pubDate": "Sun, 12 Jul 2026 20:29:06 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Top Wall Street analysts are confident about these 3 stocks for the long haul",
+        "link": "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html",
+        "pubDate": "Sun, 12 Jul 2026 12:05:02 GMT",
+        "category": "us"
+      },
       {
         "title": "Goldman Sachs picks its favorite Chinese AI models",
         "link": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html",
