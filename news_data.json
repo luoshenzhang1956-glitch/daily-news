@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-07-14T13:58:44.320353",
+  "updated_at": "2026-07-14T15:39:15.377950",
   "news": {
-    "ap": [
-      {
-        "title": "Wall Street calms, and stocks hold steadier after US inflation data comes in less bad than expected",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a564001be8f430e8f98c78ad923b9e4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-oil-iran-trump-ai-6807d21c72974fbac48356f83eeebbce&amp;c=16070792135673623118&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Jul 2026 06:51:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "An experimental Alzheimer\u2019s drug shows some promise as researchers hunt new approaches",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56402ea38a4fdfabc2aac703284ec8&amp;url=https%3a%2f%2fapnews.com%2farticle%2falzheimers-drug-brain-protein-tau-diranersen-biogen-d58728ee8f7d9dfd9ec8de416cddd75d&amp;c=291577753765447348&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Jul 2026 06:32:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "World Cup absence of Jerry Jones at the home of his Dallas Cowboys is finally about to end",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a564000083743c397e3fac993a5f806&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdallas-cowboys-world-cup-jerry-jones-dd536da3d73f95ea0c49b7187cfd1304&amp;c=7954141917609423891&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Jul 2026 03:00:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Why your favorite international artist might be reconsidering their next U.S. tour",
+        "link": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us",
+        "pubDate": "Tue, 14 Jul 2026 10:46:11 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Inflation slowed sharply -- but it may not last",
+        "link": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve",
+        "pubDate": "Tue, 14 Jul 2026 10:40:20 -0400",
+        "category": "business"
+      },
       {
         "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
         "link": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
@@ -38,7 +31,7 @@
         "title": "&apos;The Trojan Teddy Bear&apos;: The promise and peril of childhood in the age of AI",
         "link": "https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai",
         "pubDate": "Tue, 14 Jul 2026 06:30:00 -0400",
-        "category": "business"
+        "category": "tech"
       },
       {
         "title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
@@ -69,37 +62,25 @@
         "link": "https://www.npr.org/2026/07/14/nx-s1-5877715/direct-democracy-state-constitutional-amendment-thresholds",
         "pubDate": "Tue, 14 Jul 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Trump&apos;s National Guard deployment in D.C. has been extended until 2029",
-        "link": "https://www.npr.org/2026/07/14/nx-s1-5892498/national-guard-deployment-dc-2029",
-        "pubDate": "Tue, 14 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Your cheat sheet to the teams headed to the World Cup semi-finals",
-        "link": "https://www.npr.org/2026/07/14/g-s1-133337/world-cup-final-france-england-spain-argentina",
-        "pubDate": "Tue, 14 Jul 2026 04:16:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Man who staged wife's suicide jailed for  murder",
+        "link": "https://www.bbc.co.uk/news/articles/c8626147e6no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Jul 2026 14:59:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "MPs expected to approve long-delayed Hillsborough Law",
+        "link": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Jul 2026 14:56:48 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
         "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 14 Jul 2026 13:49:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "MPs expected to approve long-delayed 'Hillsborough Law'",
-        "link": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Jul 2026 12:53:55 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Government failing Farage over security, says Jenrick",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyg9452qlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Jul 2026 12:47:53 GMT",
         "category": "Top News"
       },
       {
@@ -127,16 +108,16 @@
         "category": "Top News"
       },
       {
+        "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+        "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Jul 2026 05:00:03 GMT",
+        "category": "world"
+      },
+      {
         "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
         "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 14 Jul 2026 04:50:48 GMT",
         "category": "us"
-      },
-      {
-        "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
-        "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Jul 2026 03:47:41 GMT",
-        "category": "world"
       },
       {
         "title": "The mysterious crypto firm backed by Farage's biggest donor",
@@ -147,67 +128,66 @@
     ],
     "reuters": [
       {
-        "title": "TSMC seen riding AI boom to fifth straight quarter of record profit",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56406082c749b7a797cd90ea8d9764&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftsmc-seen-riding-ai-boom-fifth-straight-quarter-record-profit-2026-07-14%2f&amp;c=6896750947460045852&amp;mkt=en-us",
-        "pubDate": "Mon, 13 Jul 2026 19:11:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "markets": [
-      {
-        "title": "IBM stock craters 23% after issuing second-quarter earnings warning",
-        "link": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-        "pubDate": "Tue, 14 Jul 2026 13:57:39 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock",
-        "link": "https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html",
-        "pubDate": "Tue, 14 Jul 2026 12:41:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Bank of America, IBM, Apple &amp; more",
-        "link": "https://www.cnbc.com/2026/07/14/stocks-making-the-biggest-moves-premarket-jpm-bac-ibm-aapl.html",
-        "pubDate": "Tue, 14 Jul 2026 12:36:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Warsh promises inflation will be a &apos;thing of the past,&apos; cites benefits of AI investment boom",
-        "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-        "pubDate": "Tue, 14 Jul 2026 12:30:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Mike Santoli: Why eye-popping earnings expectations have failed to lift the market for two months",
-        "link": "https://www.cnbc.com/2026/07/14/mike-santoli-why-eye-popping-earnings-expectations-have-failed-to-lift-the-market-for-two-months.html",
-        "pubDate": "Tue, 14 Jul 2026 12:15:21 GMT",
+        "title": "US Supreme Court justices testify on Capitol Hill as threats to judges surge",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56579d13294af2b67692a8cca6a444&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fjustices-barrett-kagan-testify-before-congress-court-seeks-security-funds-2026-07-14%2f&amp;c=17960217981765163036&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 07:08:00 GMT",
         "category": "us"
       },
       {
-        "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
-        "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-        "pubDate": "Tue, 14 Jul 2026 09:18:28 GMT",
+        "title": "Iran and US step up attacks, battle over control of Strait of Hormuz",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56578958c84731a6f4198386231e11&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-says-it-struck-us-air-base-jordan-us-military-ends-five-hours-attacks-2026-07-14%2f&amp;c=7466758337471037050&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 07:06:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "&apos;Listing is a must&apos;: Chinese humanoid startups are rushing to launch IPOs",
-        "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
-        "pubDate": "Tue, 14 Jul 2026 00:31:01 GMT",
+        "title": "Live: Iran hits tankers after third night of US attacks; Trump reimposes naval blockade",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56578958c84731a6f4198386231e11&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-us-launches-new-strikes-iran-more-tankers-attacked-hormuz-2026-07-14%2f&amp;c=6946847356261857920&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 06:53:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Waller says Fed shouldn&apos;t &apos;fight the last war&apos; on inflation but warns hikes still possible",
-        "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
-        "pubDate": "Mon, 13 Jul 2026 19:15:25 GMT",
+        "title": "Wall Street bank earnings surge, lifted by trading and investment banking",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56578958c84731a6f4198386231e11&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fwall-street-bank-earnings-surge-lifted-by-trading-investment-banking-2026-07-14%2f&amp;c=18247438956525365262&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 06:51:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "A July rate hike from the Fed? The odds are rising",
-        "link": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
-        "pubDate": "Mon, 13 Jul 2026 17:07:51 GMT",
+        "title": "ZTE among Chinese firms licensed to purchase Nvidia's H200 chips, documents show",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56578958c84731a6f4198386231e11&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fzte-among-chinese-firms-licensed-purchase-nvidias-h200-chips-documents-show-2026-07-14%2f&amp;c=2128728572030482819&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 06:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New York becomes the first state to impose a data center moratorium",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56578958c84731a6f4198386231e11&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fnew-york-becomes-first-state-impose-data-center-moratorium-2026-07-14%2f&amp;c=10349845704874897831&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 06:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed's Warsh to appear before Congress after tentative steps away from Trump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56578958c84731a6f4198386231e11&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffeds-warsh-heads-congress-after-tentative-steps-away-trump-2026-07-14%2f&amp;c=12905966443030166509&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 05:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Can US Senator Lindsey Graham's Ukraine initiatives survive without him?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56578958c84731a6f4198386231e11&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fcan-us-senator-lindsey-grahams-ukraine-initiatives-survive-without-him-2026-07-14%2f&amp;c=9549980373394600519&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 05:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "ICE agent fatally shoots driver in Maine, six days after similar death in Texas",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56578958c84731a6f4198386231e11&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fperson-killed-ice-involved-shooting-maine-media-reports-2026-07-13%2f&amp;c=12774651276965807673&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 03:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Blanche on 'glide path' for US attorney general confirmation, Republican insiders say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a56578958c84731a6f4198386231e11&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fblanche-glide-path-us-attorney-general-confirmation-republican-insiders-say-2026-07-14%2f&amp;c=8478916916724559408&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 02:42:00 GMT",
         "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
