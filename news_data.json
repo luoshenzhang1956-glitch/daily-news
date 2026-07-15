@@ -1,32 +1,38 @@
 {
-  "updated_at": "2026-07-15T17:25:29.925795",
+  "updated_at": "2026-07-15T19:21:18.740719",
   "news": {
     "ap": [
       {
-        "title": "Technology stocks lead markets higher, while oil prices keep rising",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57c1c5eff742ae9daa3fa069870920&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-iran-inflation-oil-3544bd70e0f767404d2de91fd116d68e&amp;c=6742877483487259610&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Jul 2026 21:09:00 GMT",
+        "title": "Amazon will launch its satellite internet in South Africa, seemingly beating Musk in his homeland",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57dd45560f4eed881bef89fa6ec1e5&amp;url=https%3a%2f%2fapnews.com%2farticle%2famazon-leo-satellite-internet-musk-starlink-efbf4c29189f6c87534b7bce4d781aaa&amp;c=15437224189209238527&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 08:26:00 GMT",
         "category": "business"
       },
       {
-        "title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57c1c29ade4529bd4502c192ab8b23&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-hormuz-strait-war-july-15-2026-b7c592f269d822407dd6b5641602bf25&amp;c=8017677924267163330&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Jul 2026 20:25:00 GMT",
-        "category": "us"
+        "title": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57dd4ae4ff46c885776ed9eee0e94f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-outbreak-who-2000-cases-b0645a84c4f95c7101e343484edeac1b&amp;c=7099284854256327818&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 01:03:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Trump will address a defense technology gathering as the Iran war has reduced US weapon stocks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57dd4799904c99b4aec511a6d4f6cc&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-pennsylvania-defense-summit-mccormick-iran-b848f9a016d6ffd9c8b9ada45f120a8d&amp;c=16238544257310483063&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 21:01:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
+      {
+        "title": "Trump relished in being compared to dictators like Hitler and Stalin, journalist says",
+        "link": "https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman",
+        "pubDate": "Wed, 15 Jul 2026 14:56:56 -0400",
+        "category": "us"
+      },
       {
         "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
         "link": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
         "pubDate": "Wed, 15 Jul 2026 11:37:22 -0400",
         "category": "world"
-      },
-      {
-        "title": "Todd Blanche&apos;s high-stakes confirmation hearing for attorney general is underway",
-        "link": "https://www.npr.org/2026/07/15/nx-s1-5894750/todd-blanches-high-stakes-confirmation-hearing-for-attorney-general-is-underway",
-        "pubDate": "Wed, 15 Jul 2026 11:19:42 -0400",
-        "category": "us"
       },
       {
         "title": "Cancer disparities researchers say federal funding changes have disrupted their work",
@@ -79,10 +85,28 @@
     ],
     "bbc": [
       {
-        "title": "Boy, 14, charged with terror offence targeting mosques",
+        "title": "Epstein 'mistakes' and Trump ties: Key takeaways from Todd Blanche's confirmation hearing",
+        "link": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 19:05:43 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Boy, 14, charged with terrorism offence over alleged plan to target mosques",
         "link": "https://www.bbc.co.uk/news/articles/czrjgmmx5rmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 17:17:47 GMT",
+        "pubDate": "Wed, 15 Jul 2026 18:34:42 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "SpaceX share price drops below stock market debut",
+        "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 18:11:57 GMT",
+        "category": "business"
+      },
+      {
+        "title": "French MPs approve assisted dying law with strict rules after years of argument",
+        "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 17:29:26 GMT",
+        "category": "world"
       },
       {
         "title": "Iain Watson: Burnham faces crucial choice for chancellor as battle for No 11 continues",
@@ -109,18 +133,6 @@
         "category": "Top News"
       },
       {
-        "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-        "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 12:26:38 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Cash-strapped Thames Water poses big test for Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 12:09:08 GMT",
-        "category": "business"
-      },
-      {
         "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
         "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 15 Jul 2026 11:24:29 GMT",
@@ -131,22 +143,83 @@
         "link": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 15 Jul 2026 11:11:32 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-        "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
+        "title": "Wall Street banks point to resilient US consumer as loan growth picks up",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57dd5ca2e8424faddfe83f5bb75aa1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fwall-street-banks-point-resilient-us-consumer-loan-growth-picks-up-2026-07-15%2f&amp;c=6040782175381046750&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 09:33:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Elevance Health shares slide as profit forecast hike not enough to impress investors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57c238a414418792ee7c690d9eb571&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2felevance-raises-annual-profit-forecast-better-medical-cost-management-2026-07-15%2f&amp;c=8136810207614771276&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57dd7e93914006997dd98001afba59&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2felevance-raises-annual-profit-forecast-better-medical-cost-management-2026-07-15%2f&amp;c=8136810207614771276&amp;mkt=en-us",
         "pubDate": "Wed, 15 Jul 2026 03:19:00 GMT",
         "category": "health"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Munis are having a solid 2026. Investors can still grab &apos;generationally attractive yields&apos;",
+        "link": "https://www.cnbc.com/2026/07/15/munis-are-having-a-solid-2026-.html",
+        "pubDate": "Wed, 15 Jul 2026 19:12:19 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Fed Chairman Kevin Warsh&apos;s testimony to Senate banking committee hits on economy, interest rates",
+        "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+        "pubDate": "Wed, 15 Jul 2026 19:05:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New York Fed President Williams says inflation has peaked, rates &apos;well positioned&apos;",
+        "link": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
+        "pubDate": "Wed, 15 Jul 2026 17:31:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+        "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+        "pubDate": "Wed, 15 Jul 2026 17:22:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: SpaceX, Apple, PayPal, Cava, Progressive, Micron &amp; more",
+        "link": "https://www.cnbc.com/2026/07/15/stocks-making-the-biggest-moves-midday-spcx-aapl-pypl-cava-pgr-mu.html",
+        "pubDate": "Wed, 15 Jul 2026 16:28:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Warren Buffett on the market today: &apos;It&apos;s tough to find values when everybody is preferring gambling&apos;",
+        "link": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
+        "pubDate": "Wed, 15 Jul 2026 15:08:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming &apos;forever war&apos;",
+        "link": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+        "pubDate": "Wed, 15 Jul 2026 14:28:24 GMT",
+        "category": "world"
+      },
+      {
+        "title": "\u2018Arsenal of democracy\u2019: Jamie Dimon announces $24 million effort to boost American shipbuilding",
+        "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
+        "pubDate": "Wed, 15 Jul 2026 13:45:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Buffett says Trump&apos;s pick of Kevin Warsh for Fed chair was &apos;good choice&apos;",
+        "link": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
+        "pubDate": "Wed, 15 Jul 2026 12:21:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush",
+        "link": "https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html",
+        "pubDate": "Wed, 15 Jul 2026 11:51:55 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
