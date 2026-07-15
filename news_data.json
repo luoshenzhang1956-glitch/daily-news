@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-07-15T15:39:21.028858",
+  "updated_at": "2026-07-15T17:25:29.925795",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Technology stocks lead markets higher, while oil prices keep rising",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57c1c5eff742ae9daa3fa069870920&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-iran-inflation-oil-3544bd70e0f767404d2de91fd116d68e&amp;c=6742877483487259610&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 21:09:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57c1c29ade4529bd4502c192ab8b23&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-hormuz-strait-war-july-15-2026-b7c592f269d822407dd6b5641602bf25&amp;c=8017677924267163330&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 20:25:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
+        "link": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
+        "pubDate": "Wed, 15 Jul 2026 11:37:22 -0400",
+        "category": "world"
+      },
       {
         "title": "Todd Blanche&apos;s high-stakes confirmation hearing for attorney general is underway",
         "link": "https://www.npr.org/2026/07/15/nx-s1-5894750/todd-blanches-high-stakes-confirmation-hearing-for-attorney-general-is-underway",
@@ -19,7 +38,7 @@
         "title": "China&apos;s economy grows 4.3% in Q2, slowest since late 2022",
         "link": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
         "pubDate": "Wed, 15 Jul 2026 10:11:41 -0400",
-        "category": "world"
+        "category": "business"
       },
       {
         "title": "Old rivals, new battle: Argentina and England clash in World Cup Semifinal",
@@ -55,16 +74,28 @@
         "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
         "link": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
         "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
-        "category": "business"
-      },
-      {
-        "title": "How do young people feel about AI? 7 teens weigh in",
-        "link": "https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school",
-        "pubDate": "Tue, 14 Jul 2026 16:00:00 -0400",
         "category": "tech"
       }
     ],
     "bbc": [
+      {
+        "title": "Boy, 14, charged with terror offence targeting mosques",
+        "link": "https://www.bbc.co.uk/news/articles/czrjgmmx5rmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 17:17:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iain Watson: Burnham faces crucial choice for chancellor as battle for No 11 continues",
+        "link": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 17:13:06 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The methanol poisoning that \"all began with that drink\"",
+        "link": "https://www.bbc.co.uk/news/videos/clyeyyr4k6vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 15:40:24 GMT",
+        "category": "health"
+      },
       {
         "title": "Man arrested over social media post threatening to shoot Farage",
         "link": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o?at_medium=RSS&amp;at_campaign=rss",
@@ -72,34 +103,10 @@
         "category": "Top News"
       },
       {
-        "title": "Watch: Starmer's kind send-off across the Commons",
-        "link": "https://www.bbc.co.uk/news/videos/c36y66j142wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 15:19:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tourists warned of methanol poisoning risks in new campaign",
-        "link": "https://www.bbc.co.uk/news/articles/c9929dg5l5lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 14:55:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Three men who raped woman on Brighton beach jailed",
-        "link": "https://www.bbc.co.uk/news/articles/cyv0vqp04pgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 14:35:34 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
         "link": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 15 Jul 2026 14:13:44 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "What in the World",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct9926?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 13:46:00 GMT",
-        "category": "health"
       },
       {
         "title": "Iran threatens to block more trade routes as US launches fresh strikes",
@@ -120,6 +127,12 @@
         "category": "tech"
       },
       {
+        "title": "UK's extreme weather is the new normal, Met Office says",
+        "link": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 11:11:32 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
         "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT",
@@ -128,64 +141,10 @@
     ],
     "reuters": [
       {
-        "title": "Stripe, Advent offer to buy PayPal for more than $53 billion, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57a93a62874f47beabc51d34237be5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fstripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15%2f&amp;c=13195605910009600765&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Jul 2026 08:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Goldman's Reummler says she would have reported Epstein if she knew of his abuses",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57a93a62874f47beabc51d34237be5&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fgoldmans-reummler-says-she-would-have-reported-epstein-if-she-knew-his-abuses-2026-07-15%2f&amp;c=9347391177088747870&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Jul 2026 08:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Sweden's Neko Health raises $700 million ahead of US launch",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57a96321ad491197b4f30c46bdbb3b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fswedens-neko-health-raises-700-million-ahead-us-launch-2026-07-15%2f&amp;c=8319035770955672189&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Jul 2026 06:19:00 GMT",
+        "title": "Elevance Health shares slide as profit forecast hike not enough to impress investors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57c238a414418792ee7c690d9eb571&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2felevance-raises-annual-profit-forecast-better-medical-cost-management-2026-07-15%2f&amp;c=8136810207614771276&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 03:19:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "Spain\u2019s anaconda grip crushes French World Cup dream",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57a93deb9f406db5908086f78d603f&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fspain-choke-life-out-france-reach-world-cup-final-2026-07-14%2f&amp;c=16932725087609620337&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Jul 2026 04:28:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "In occupied zone of Lebanon, Israeli military veterans see shadow of past wars",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57a93a62874f47beabc51d34237be5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2foccupied-zone-lebanon-israeli-military-veterans-see-shadow-past-wars-2026-07-15%2f&amp;c=6053238568124706047&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Jul 2026 03:32:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wall St rises with earnings in focus; PayPal jumps on takeover bid report",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57a93a62874f47beabc51d34237be5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-edge-up-with-earnings-focus-paypal-jumps-2026-07-15%2f&amp;c=12566440267038193277&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Jul 2026 03:16:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Goldman Sachs lawyer Ruemmler to face House panel on Epstein",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57a93a62874f47beabc51d34237be5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fgoldman-sachs-lawyer-ruemmler-face-house-panel-epstein-2026-07-15%2f&amp;c=48376657286477552&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Jul 2026 03:05:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Apple Intelligence AI service registered with Chinese cyberspace regulator",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57a93a62874f47beabc51d34237be5&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fapple-intelligence-ai-service-registered-with-chinas-cyberspace-regulator-2026-07-15%2f&amp;c=2261208009178829674&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Jul 2026 02:11:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Files relating to India\u2019s largest nuclear power plant Kudankulam exposed in data breach",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57a93a62874f47beabc51d34237be5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2ffiles-relating-indias-largest-nuclear-power-plant-kudankulam-exposed-data-breach-2026-07-15%2f&amp;c=2096148753997026710&amp;mkt=en-us",
-        "pubDate": "Wed, 15 Jul 2026 02:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran war live: US launches new wave of strikes and Tehran threatens to close shipping routes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a57a93a62874f47beabc51d34237be5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-threatens-power-plant-hits-us-resumes-blockade-launches-more-2026-07-15%2f&amp;c=7728338616404305764&amp;mkt=en-us",
-        "pubDate": "Tue, 14 Jul 2026 18:28:00 GMT",
-        "category": "Top News"
       }
     ],
     "markets": []
