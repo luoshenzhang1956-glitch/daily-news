@@ -1,30 +1,85 @@
 {
-  "updated_at": "2026-07-15T06:23:37.183039",
+  "updated_at": "2026-07-15T10:10:21.397001",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Trump to address defense technology gathering as the Iran war has reduced US weapon stocks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575bf54d344ba697354ece08dc4e59&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-pennsylvania-defense-summit-mccormick-iran-b848f9a016d6ffd9c8b9ada45f120a8d&amp;c=16238544257310483063&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 21:01:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Tehran threatens to halt all Middle East energy exports after US reimposes its blockade on Iran",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575befd06b4bfb8ba2512958e68002&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-hormuz-strait-war-july-15-2026-b7c592f269d822407dd6b5641602bf25&amp;c=8017677924267163330&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 20:25:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Europe league, expansion, Kawhi probe, second apron all topics at NBA\u2019s board of governors meeting",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575bf2692443f8b759d205df1dfdb3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnba-board-of-governors-europe-expansion-kawhi-2a2f0282b9c251d26cd6c49d6614486e&amp;c=7227074416289743199&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 19:44:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Lamine Yamal didn\u2019t score, but a sneaky play helped Spain beat France in the World Cup semifinals",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575beb6561412aa5299458d61e8724&amp;url=https%3a%2f%2fapnews.com%2farticle%2fspain-lamine-yamal-world-cup-66cbafff20c10757e0b6a1550fc0d238&amp;c=3609011937302856290&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 18:04:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+        "link": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
+        "pubDate": "Wed, 15 Jul 2026 05:56:31 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Todd Blanche faces high-stakes confirmation hearing for attorney general",
+        "link": "https://www.npr.org/2026/07/15/nx-s1-5891870/todd-blanche-senate-confirmation-attorney-general",
+        "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
+        "link": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
+        "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
+        "category": "business"
+      },
+      {
+        "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+        "link": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing",
+        "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Todd Blanche&apos;s confirmation brings one Epstein survivor to center stage",
+        "link": "https://www.npr.org/2026/07/15/nx-s1-5850397/jeffrey-epstein-todd-blanche-dani-bensky-survivor-victims-sexual-abuse-trafficking",
+        "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief",
+        "pubDate": "Wed, 15 Jul 2026 04:50:19 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Mystery bidder buys T. rex nicknamed &apos;Gus&apos; for a record $50 million",
+        "link": "https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex",
+        "pubDate": "Wed, 15 Jul 2026 02:25:26 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Trump will speak on elections in Thursday primetime address",
         "link": "https://www.npr.org/2026/07/15/nx-s1-5894580/trump-elections-primetime-address",
         "pubDate": "Wed, 15 Jul 2026 02:00:46 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700",
         "link": "https://www.npr.org/2026/07/15/g-s1-133630/ebola-congo-deaths",
         "pubDate": "Wed, 15 Jul 2026 01:39:55 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Supreme Court Justices give chilling accounts of threats to their safety",
-        "link": "https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety",
-        "pubDate": "Tue, 14 Jul 2026 23:19:25 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
-        "link": "https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal",
-        "pubDate": "Tue, 14 Jul 2026 16:59:10 -0400",
         "category": "Top News"
       },
       {
@@ -32,56 +87,50 @@
         "link": "https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school",
         "pubDate": "Tue, 14 Jul 2026 16:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
-        "link": "https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston",
-        "pubDate": "Tue, 14 Jul 2026 15:54:53 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case",
-        "link": "https://www.npr.org/2026/07/14/nx-s1-5893598/e-jean-carroll-trump-sexual-abuse-defamation",
-        "pubDate": "Tue, 14 Jul 2026 14:00:35 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Environmental groups sue government to stop a big change to the Endangered Species Act",
-        "link": "https://www.npr.org/2026/07/14/nx-s1-5891858/trump-esa-harm-endangered-species-act-threatened-lawsuit",
-        "pubDate": "Tue, 14 Jul 2026 12:46:18 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Inflation slowed sharply -- but it may not last",
-        "link": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve",
-        "pubDate": "Tue, 14 Jul 2026 10:40:20 -0400",
-        "category": "business"
-      },
-      {
-        "title": "What is an aortic dissection?",
-        "link": "https://www.npr.org/2026/07/14/nx-s1-5891800/what-is-an-aortic-dissection",
-        "pubDate": "Tue, 14 Jul 2026 05:02:11 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Briton's Iran jail sentence extended by two years, family says",
-        "link": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 05:02:33 GMT",
-        "category": "Top News"
+        "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+        "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 09:58:54 GMT",
+        "category": "tech"
       },
       {
-        "title": "England's biggest match since 1966 as Three Lions close in on immortality",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c20y0zzdx9go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 05:02:16 GMT",
-        "category": "Top News"
+        "title": "Thames Water returns to profit after raising bills",
+        "link": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 09:31:07 GMT",
+        "category": "business"
       },
       {
         "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
         "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 03:57:17 GMT",
+        "pubDate": "Wed, 15 Jul 2026 09:06:52 GMT",
         "category": "world"
+      },
+      {
+        "title": "Briton's Iran jail sentence extended by two years, family says",
+        "link": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 08:33:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+        "link": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 08:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Review of MP security needed after Widdecombe death, Burnham says",
+        "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 07:50:59 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "I still feel pain of '98 but this can be different for England, says Shearer",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 05:02:28 GMT",
+        "category": "Top News"
       },
       {
         "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
@@ -90,34 +139,10 @@
         "category": "us"
       },
       {
-        "title": "Midnight social media curfew proposed for older UK teens",
-        "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Jul 2026 23:17:23 GMT",
+        "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
+        "link": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 14 Jul 2026 23:08:13 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Heating oil customers to get compensation after price hikes",
-        "link": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Jul 2026 23:00:41 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Spain into World Cup final with victory over France",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Jul 2026 21:32:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Review of MP security needed after Widdecombe death, Burnham says",
-        "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Jul 2026 21:30:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tech Life",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 14 Jul 2026 20:00:00 GMT",
-        "category": "tech"
       },
       {
         "title": "Covid inquiry PPE report - key findings",
@@ -126,7 +151,81 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Stripe, Advent offer to buy PayPal for more than $53 billion, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575c0ba838471981493ab74b070e63&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fstripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15%2f&amp;c=13195605910009600765&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 02:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "ASML raises 2026 forecast, expands capacity on AI chip demand",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575c0ba838471981493ab74b070e63&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW810615072026RP1%2f&amp;c=987936501747348&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 02:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks steady as oil surge offsets ASML boost to tech shares",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575c0ba838471981493ab74b070e63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-07-15%2f&amp;c=15322589111684116724&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 02:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Files relating to India\u2019s largest nuclear power plant Kudankulam exposed in data breach",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575c0ba838471981493ab74b070e63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2ffiles-relating-indias-largest-nuclear-power-plant-kudankulam-exposed-data-breach-2026-07-15%2f&amp;c=2096148753997026710&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 02:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575c0ba838471981493ab74b070e63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-threatens-block-more-vital-seaways-trump-orders-renewed-iran-blockade-2026-07-15%2f&amp;c=16472425825311755111&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 01:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK's Dr Martens backs annual outlook on US wholesale demand",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575c0ba838471981493ab74b070e63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fuks-dr-martens-backs-annual-outlook-us-wholesale-demand-2026-07-15%2f&amp;c=2399074143219850753&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 00:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China's growth slides as fears grow over unbalanced economy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575c0ba838471981493ab74b070e63&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW806215072026RP1%2f&amp;c=11326488443153026671&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 00:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Inside the compound of a Cambodian scam empire",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575c0ba838471981493ab74b070e63&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW811415072026RP1%2f&amp;c=15289510521727686660&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 00:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran war live: Trump threatens power plant hits and Tehran warns of new shipping blocks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575c0ba838471981493ab74b070e63&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2firan-war-live-trump-threatens-power-plant-hits-us-resumes-blockade-launches-more-2026-07-15%2f&amp;c=7728338616404305764&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 18:28:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Spain\u2019s anaconda grip crushes French World Cup dream",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a575c1195964ec692cf5af023ec2033&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fspain-choke-life-out-france-reach-world-cup-final-2026-07-14%2f&amp;c=16932725087609620337&amp;mkt=en-us",
+        "pubDate": "Tue, 14 Jul 2026 14:30:00 GMT",
+        "category": "world"
+      }
+    ],
+    "markets": [
+      {
+        "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+        "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+        "pubDate": "Tue, 14 Jul 2026 19:50:48 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Biotech&apos;s recovery isn&apos;t a &apos;head fake.&apos;\u00a0 These 3 stocks could lead the next leg up",
+        "link": "https://www.cnbc.com/2026/07/14/biotechs-recovery-isnt-a-head-fake-these-3-stocks-could-lead-the-next-leg-up.html",
+        "pubDate": "Tue, 14 Jul 2026 15:34:23 GMT",
+        "category": "health"
+      }
+    ]
   }
 }
