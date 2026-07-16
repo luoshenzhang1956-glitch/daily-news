@@ -1,74 +1,159 @@
 {
-  "updated_at": "2026-07-16T06:27:06.198938",
+  "updated_at": "2026-07-16T10:17:45.430758",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Hong Kong official says booksellers should ensure titles won\u2019t harm national security after arrests",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a58af308163483e9e4f7107ae2848f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhong-kong-booksellers-arrests-national-security-arrests-412f1458d3526d06a193e4412ec56250&amp;c=1098660584223487891&amp;mkt=en-us",
+        "pubDate": "Thu, 16 Jul 2026 02:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Triathlon unites to increase its popularity closer to the level of tennis and golf",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a58af308163483e9e4f7107ae2848f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftriathlon-new-global-tour-d3ced0b8ddad2e1f0016bcbba79231f2&amp;c=15719286983604214330&amp;mkt=en-us",
+        "pubDate": "Thu, 16 Jul 2026 02:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "World Rugby bans Italy coach Gonzalo Quesada for 2 matches over referee comments",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a58af308163483e9e4f7107ae2848f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fquesada-italy-coach-ban-referee-abuse-5e2fb3c9eee6bdcc1a98f6b6ff174889&amp;c=2580009860262541105&amp;mkt=en-us",
+        "pubDate": "Thu, 16 Jul 2026 01:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "World shares mostly decline with South Korea\u2019s Kospi down 6.4%, while oil prices slip",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a58af34c3f74695ae1060593295f897&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-iran-inflation-oil-e1c646be279423406586c67c79e738e4&amp;c=14020544720436711828&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 22:13:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "\u2018Jurassic Park\u2019 actor Sam Neill died from pneumonia, agent says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a58af308163483e9e4f7107ae2848f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsam-neill-pneumonia-cause-of-death-a24b8770ab1af7ab2e2160d8e9394e34&amp;c=12567286583577661691&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 21:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "America already tried permanent daylight saving time. It lasted less than a year. Could it work now?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a58af308163483e9e4f7107ae2848f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdaylight-saving-time-change-permanent-6b5adef13d13862933ce400af3572f32&amp;c=16337292749284595984&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 21:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US expands strikes into northern Iran and disables ship trying to run blockade",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a58af308163483e9e4f7107ae2848f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769&amp;c=16960757902996973181&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 20:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What living in one of the world\u2019s hottest towns feels like",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a58af308163483e9e4f7107ae2848f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhottest-city-india-heat-banda-climate-change-d090f23b5b6a30fdde339a656e7ceddf&amp;c=4820771635142417967&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 18:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Family of Black teen found dead after boat trip agrees to inspect his cellphone with DA",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a58af308163483e9e4f7107ae2848f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnolan-wells-grand-jury-death-investigation-f2cec9063683b0137d3c392fb8c9eca0&amp;c=2378263376638245475&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 15:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Human rights groups sue over Trump administration\u2019s sanctions on ICC for investigations into Israel",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a58af308163483e9e4f7107ae2848f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-icc-trump-gaza-war-lawsuit-588e29cf3d5e67ab28eb4ac8027e33ea&amp;c=11760206458954233230&amp;mkt=en-us",
+        "pubDate": "Wed, 15 Jul 2026 13:17:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "npr": [
+      {
+        "title": "Oil companies are making billions. In the U.S., calls to tax their windfall are growing",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
+        "pubDate": "Thu, 16 Jul 2026 05:01:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "No Asian team managed to go far this World Cup (again). What&apos;s holding them back?",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5884732/world-cup-asian-football-confederation-korea-japan",
+        "pubDate": "Thu, 16 Jul 2026 05:00:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead",
+        "pubDate": "Thu, 16 Jul 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "DHS pledged body cams for all immigration agents. Months later, that hasn&apos;t happened",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5894825/body-cams-ice-shootings",
+        "pubDate": "Thu, 16 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "&apos;Gossip&apos; had godly origins. Here&apos;s how it gained its sinful reputation",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5884780/gossip-word-origins-etymology",
+        "pubDate": "Thu, 16 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Bike lanes and speed cameras disappear from the DOT&apos;s list of proven safety measures",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5893672/dot-bike-lanes-speed-cameras-safety-measures",
+        "pubDate": "Thu, 16 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump earned billions last year. Some Pennsylvania swing voters say they don&apos;t care",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5893599/pennsylvania-focus-groups-trump-corruption",
+        "pubDate": "Thu, 16 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The use of force has become a &apos;default tool&apos; for ICE officers, a new report finds",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report",
+        "pubDate": "Thu, 16 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
         "link": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
         "pubDate": "Thu, 16 Jul 2026 02:03:21 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Fear and hope in Utah in the shadow of America&apos;s largest wildfire",
-        "link": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire",
-        "pubDate": "Wed, 15 Jul 2026 17:55:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Argentina is back in the World Cup final after a thrilling semifinal win over England",
-        "link": "https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal",
-        "pubDate": "Wed, 15 Jul 2026 17:10:43 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Takeaways from Todd Blanche&apos;s confirmation hearing for attorney general",
-        "link": "https://www.npr.org/2026/07/15/nx-s1-5895105/todd-blanche-senate-confirmation-attorney-general-takeaways",
-        "pubDate": "Wed, 15 Jul 2026 17:09:09 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "China and Xi favored over U.S. and Trump in many nations: Survey",
-        "link": "https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey",
-        "pubDate": "Wed, 15 Jul 2026 16:34:30 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump relished in being compared to dictators like Hitler and Stalin, journalist says",
-        "link": "https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman",
-        "pubDate": "Wed, 15 Jul 2026 14:56:56 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-        "link": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-        "pubDate": "Wed, 15 Jul 2026 11:37:22 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Cancer disparities researchers say federal funding changes have disrupted their work",
-        "link": "https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions",
-        "pubDate": "Wed, 15 Jul 2026 11:16:35 -0400",
-        "category": "health"
       },
       {
         "title": "China&apos;s economy grows 4.3% in Q2, slowest since late 2022",
         "link": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
         "pubDate": "Wed, 15 Jul 2026 10:11:41 -0400",
         "category": "business"
-      },
-      {
-        "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
-        "link": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
-        "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "Government brings British Steel under public ownership",
+        "title": "Ten unheard tracks from David Bowie's early career to be released",
+        "link": "https://www.bbc.co.uk/news/articles/cd7l3y83g7eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 16 Jul 2026 09:48:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+        "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 16 Jul 2026 09:29:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran targets military bases as US launches wave of strikes",
+        "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 16 Jul 2026 08:50:02 GMT",
+        "category": "world"
+      },
+      {
+        "title": "TikTok faces Ofcom investigation over child age checks",
+        "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 16 Jul 2026 08:19:21 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "British Steel taken into public ownership to protect 'vital' UK supply",
         "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Jul 2026 06:09:31 GMT",
+        "pubDate": "Thu, 16 Jul 2026 07:34:47 GMT",
         "category": "business"
       },
       {
@@ -78,52 +163,28 @@
         "category": "health"
       },
       {
-        "title": "Starmer on final trip to Ukraine as PM pledges UK's 'cast-iron' support",
-        "link": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Jul 2026 05:00:10 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
         "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 16 Jul 2026 04:06:11 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Weekend cooldown to mark end of heatwave for some",
-        "link": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Jul 2026 00:31:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Singer Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
-        "link": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 16 Jul 2026 00:20:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
-        "link": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 23:45:12 GMT",
         "category": "us"
       },
       {
-        "title": "Argentina face action after waving Falklands banner",
+        "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+        "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 23:02:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+        "link": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 15 Jul 2026 23:02:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Argentina face action over Falklands banner",
         "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 15 Jul 2026 22:49:47 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Argentina shatter England's World Cup dreams in semi-final",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cwy059qwdg4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 22:05:15 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SpaceX share price drops below stock market debut",
-        "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 15 Jul 2026 18:11:57 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [],
