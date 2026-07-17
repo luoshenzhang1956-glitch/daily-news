@@ -1,15 +1,26 @@
 {
-  "updated_at": "2026-07-17T19:21:29.084632",
+  "updated_at": "2026-07-17T21:04:30.224148",
   "news": {
-    "ap": [
-      {
-        "title": "US strikes bridges in Iran, which targets a water desalination plant in Kuwait",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5a7feea8104b1caaa197ee129ddbb8&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-hormuz-strait-war-july-17-2026-2ad0cfe592eb258cb15a9eb04411d58a&amp;c=16467371614168726679&amp;mkt=en-us",
-        "pubDate": "Thu, 16 Jul 2026 21:11:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Cyclospora outbreak: FDA says do not eat shredded lettuce from Taco Bell in 5 states",
+        "link": "https://www.npr.org/2026/07/17/nx-s1-5897457/cyclospora-outbreak-fda-says-do-not-eat-shredded-lettuce-from-taco-bell-in-5-states",
+        "pubDate": "Fri, 17 Jul 2026 16:19:26 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Spain could make World Cup history: The first to win men&apos;s and women&apos;s trophies back-to-back",
+        "link": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
+        "pubDate": "Fri, 17 Jul 2026 16:17:27 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Move over, Super Bowl? There&apos;s an even bigger \u2013 and splashier \u2013 World Cup halftime show coming",
+        "link": "https://www.npr.org/2026/07/17/nx-s1-5897510/bts-bieber-madonna-shakira-world-cup-halftime-show",
+        "pubDate": "Fri, 17 Jul 2026 15:24:52 -0400",
+        "category": "Top News"
+      },
       {
         "title": "China signals possible return of U.S. trade privileges for Hong Kong",
         "link": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
@@ -26,7 +37,7 @@
         "title": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
         "link": "https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak",
         "pubDate": "Fri, 17 Jul 2026 13:04:33 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
@@ -38,24 +49,6 @@
         "title": "Wildfire smoke is like smoking &apos;half a pack a day.&apos; Here&apos;s how to protect yourself",
         "link": "https://www.npr.org/2026/07/17/g-s1-134227/wildfire-smoke-canada-us",
         "pubDate": "Fri, 17 Jul 2026 11:24:49 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Is smoke in your home? Here&apos;s how to make an air purifier using a box fan",
-        "link": "https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan",
-        "pubDate": "Fri, 17 Jul 2026 11:07:09 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Pakistani forces kill 24 militants in border raids near Afghanistan",
-        "link": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
-        "pubDate": "Fri, 17 Jul 2026 09:15:49 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Takeaways from Trump&apos;s primetime speech. And, at least 2 dead in major Texas flooding",
-        "link": "https://www.npr.org/2026/07/17/g-s1-134162/up-first-newsletter-trump-speech-illegal-voting-texas-flooding-wildfires-air-quality",
-        "pubDate": "Fri, 17 Jul 2026 07:27:01 -0400",
         "category": "Top News"
       },
       {
@@ -133,13 +126,26 @@
         "category": "business"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "The economic goal that never came: World Cup falls short of boosting Mexico",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5a98618e2d48178e8c1f3b76d3419c&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2feconomic-goal-that-never-came-world-cup-falls-short-boosting-mexico-2026-07-17%2f&amp;c=12059019064374389949&amp;mkt=en-us",
+        "pubDate": "Fri, 17 Jul 2026 13:29:00 GMT",
+        "category": "world"
+      }
+    ],
     "markets": [
       {
-        "title": "The cyclosporiasis outbreak linked to Taco Bell is hitting some restaurant stocks, but don&apos;t expect a long-term impact",
-        "link": "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html",
-        "pubDate": "Fri, 17 Jul 2026 18:56:04 GMT",
+        "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
+        "link": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
+        "pubDate": "Fri, 17 Jul 2026 21:00:54 GMT",
         "category": "health"
+      },
+      {
+        "title": "Anthropic in early talks with Meta to acquire compute power",
+        "link": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+        "pubDate": "Fri, 17 Jul 2026 19:52:07 GMT",
+        "category": "tech"
       }
     ]
   }
