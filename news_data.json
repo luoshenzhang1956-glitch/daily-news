@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-07-17T13:52:38.360055",
+  "updated_at": "2026-07-17T15:20:18.128338",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "10 songs to get hyped for the World Cup final",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5a478e969b4ca0a157108e9b6c0601&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-playlist-2dc9e49fe69765c3db1bd286df57d3fb&amp;c=2108573893823482818&amp;mkt=en-us",
+        "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Swings for AI stocks whipsaw markets worldwide, while oil prices keep climbing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5a47ae99204570a1446d9dfee73951&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-ai-iran-trump-rates-65449e9565fba441a617f9517e097f5a&amp;c=6994324503095948985&amp;mkt=en-us",
+        "pubDate": "Thu, 16 Jul 2026 21:34:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "Is smoke in your home? Here&apos;s how to make an air purifier using a box fan",
+        "link": "https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan",
+        "pubDate": "Fri, 17 Jul 2026 11:07:09 -0400",
+        "category": "us"
+      },
       {
         "title": "Pakistani forces kill 24 militants in border raids near Afghanistan",
         "link": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
@@ -19,7 +38,7 @@
         "title": "Photos: When the World Cup came to town",
         "link": "https://www.npr.org/sections/the-picture-show/2026/07/17/g-s1-133556/world-cup-watch-party-photos",
         "pubDate": "Fri, 17 Jul 2026 07:17:24 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
@@ -56,19 +75,25 @@
         "link": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
         "pubDate": "Fri, 17 Jul 2026 05:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Republican campaigns see immigration as a winning issue for midterms",
-        "link": "https://www.npr.org/2026/07/17/g-s1-133702/midterm-election-ads-immigration-republicans-democrats",
-        "pubDate": "Fri, 17 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "German politician faces calls to resign over surrogacy child",
-        "link": "https://www.bbc.co.uk/news/articles/cq56ed827peo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Jul 2026 12:26:29 GMT",
+        "title": "Mother of Henry Nowak killer jailed for removing knife from murder scene",
+        "link": "https://www.bbc.co.uk/news/articles/c1w1nnzgg2no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Jul 2026 14:51:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran accuses US of hitting civilian infrastructure",
+        "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Jul 2026 14:32:07 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Zeffman: Burnham promises huge change - now to find out how he will deliver it",
+        "link": "https://www.bbc.co.uk/news/articles/cz7djw5dznpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Jul 2026 13:52:20 GMT",
         "category": "Top News"
       },
       {
@@ -102,22 +127,10 @@
         "category": "Top News"
       },
       {
-        "title": "Iran accuses US of hitting civilian infrastructure",
-        "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Jul 2026 10:57:50 GMT",
-        "category": "world"
-      },
-      {
         "title": "Trump Media to sell instant access to 'market-moving' social posts",
         "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 17 Jul 2026 07:25:31 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Five headaches Andy Burnham will have to deal with as PM",
-        "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Jul 2026 05:59:36 GMT",
-        "category": "Top News"
       },
       {
         "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
@@ -128,78 +141,24 @@
     ],
     "reuters": [
       {
-        "title": "South Korea-US team unveils robotic technology that dresses the wearer",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5a334b21674f04ad6f1a233cd1d0b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-korea-us-team-unveils-robotic-technology-that-dresses-wearer-2026-07-17%2f&amp;c=3204610530375721021&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Jul 2026 05:01:00 GMT",
-        "category": "us"
-      },
-      {
         "title": "SpaceX IPO earns millions for US Small Business Administration head Kelly Loeffler",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5a334dbdea4c3fa89eaced888630d4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fspacex-ipo-earns-millions-us-small-business-administration-head-kelly-loeffler-2026-07-17%2f&amp;c=15333532877285428411&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5a47f3352e45b6b95f375ee68327a1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fspacex-ipo-earns-millions-us-small-business-administration-head-kelly-loeffler-2026-07-17%2f&amp;c=15333532877285428411&amp;mkt=en-us",
         "pubDate": "Fri, 17 Jul 2026 03:01:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "Stocks tumble, head for losing week, led by chipmakers; Netflix plunges: Live updates",
+        "title": "S&amp;P 500 falls, heads for losing week, led by chipmakers; Netflix plunges: Live updates",
         "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
-        "pubDate": "Fri, 17 Jul 2026 13:46:02 GMT",
+        "pubDate": "Fri, 17 Jul 2026 14:56:57 GMT",
         "category": "world"
-      },
-      {
-        "title": "The semiconductor trade tumbled this week. Why UBS and Barclays are still bullish",
-        "link": "https://www.cnbc.com/2026/07/17/the-semiconductor-trade-tumbled-this-week-why-ubs-and-barclays-are-still-bullish.html",
-        "pubDate": "Fri, 17 Jul 2026 13:27:20 GMT",
-        "category": "us"
       },
       {
         "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
         "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
         "pubDate": "Fri, 17 Jul 2026 13:12:11 GMT",
         "category": "business"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Netflix, SpaceX, Alphabet and more",
-        "link": "https://www.cnbc.com/2026/07/17/stocks-making-the-biggest-moves-premarket-nflx-spcx-googl-and-more.html",
-        "pubDate": "Fri, 17 Jul 2026 11:47:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "India&apos;s biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
-        "link": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html",
-        "pubDate": "Fri, 17 Jul 2026 03:54:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dallas Fed President Logan calls for &apos;modestly&apos; higher interest rates",
-        "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-        "pubDate": "Thu, 16 Jul 2026 18:50:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Short sellers load up against SpaceX as stock drops below IPO price",
-        "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
-        "pubDate": "Thu, 16 Jul 2026 18:12:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Warren Buffett calls Bill Gates&apos; actions with Epstein &apos;distasteful&apos; but says people make mistakes",
-        "link": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
-        "pubDate": "Thu, 16 Jul 2026 17:07:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Sen. Warren says Trump&apos;s CFPB overhaul has cost Americans $26.5 billion",
-        "link": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
-        "pubDate": "Thu, 16 Jul 2026 16:36:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush",
-        "link": "https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html",
-        "pubDate": "Thu, 16 Jul 2026 14:24:47 GMT",
-        "category": "Top News"
       }
     ]
   }
