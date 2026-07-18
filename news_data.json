@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-07-17T22:56:17.447028",
+  "updated_at": "2026-07-18T02:57:05.348342",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "ICE shared Medicaid data it wasn&apos;t supposed to have with Palantir",
+        "link": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data",
+        "pubDate": "Fri, 17 Jul 2026 19:32:02 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies",
+        "link": "https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette",
+        "pubDate": "Fri, 17 Jul 2026 18:36:02 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Cyclospora outbreak: FDA says do not eat shredded lettuce from Taco Bell in 5 states",
         "link": "https://www.npr.org/2026/07/17/nx-s1-5897457/cyclospora-outbreak-fda-says-do-not-eat-shredded-lettuce-from-taco-bell-in-5-states",
@@ -31,7 +43,7 @@
         "title": "The new $1 Trump coin doesn&apos;t just buck norms. Experts say it also breaks laws",
         "link": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
         "pubDate": "Fri, 17 Jul 2026 14:59:36 -0400",
-        "category": "us"
+        "category": "business"
       },
       {
         "title": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
@@ -46,18 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Wildfire smoke is like smoking &apos;half a pack a day.&apos; Here&apos;s how to protect yourself",
-        "link": "https://www.npr.org/2026/07/17/g-s1-134227/wildfire-smoke-canada-us",
-        "pubDate": "Fri, 17 Jul 2026 11:24:49 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Federal Reserve looks for &apos;secret sauce&apos; behind a successful Wisconsin toolmaker",
-        "link": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
-        "pubDate": "Fri, 17 Jul 2026 05:00:00 -0400",
-        "category": "business"
-      },
-      {
         "title": "Kalshi says it&apos;s not a sportsbook even as World Cup bets surge",
         "link": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
         "pubDate": "Fri, 17 Jul 2026 05:00:00 -0400",
@@ -65,6 +65,24 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+        "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 18 Jul 2026 01:29:47 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US strikes hit Iran for seventh consecutive night",
+        "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 18 Jul 2026 01:16:11 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What this desert city can teach the world about tackling heat deaths",
+        "link": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 17 Jul 2026 23:56:08 GMT",
+        "category": "us"
+      },
       {
         "title": "White House defends Argentina team over Falklands banner",
         "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&amp;at_campaign=rss",
@@ -76,12 +94,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cjd45xmexnyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 17 Jul 2026 21:00:09 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
-        "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Jul 2026 18:33:12 GMT",
-        "category": "world"
       },
       {
         "title": "Burnham finalising cabinet ahead of becoming PM on Monday",
@@ -96,22 +108,10 @@
         "category": "Top News"
       },
       {
-        "title": "Bayeux Tapestry in 'wonderful state' after journey to London, French minister says",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Jul 2026 17:07:24 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
         "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 17 Jul 2026 16:53:04 GMT",
         "category": "tech"
-      },
-      {
-        "title": "How the World Cup made an 'NFL-obsessed' American a football fan",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n22eprzpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 17 Jul 2026 11:54:38 GMT",
-        "category": "us"
       },
       {
         "title": "What type of procrastinator are you - and how to fix it now (not later)",
@@ -128,97 +128,12 @@
     ],
     "reuters": [
       {
-        "title": "Top US prosecutor will not dispute DOJ decision to drop Indian tycoon Gautam Adani's criminal case",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ab2bb087746ad87051a000987156f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftop-us-prosecutor-will-not-dispute-doj-decision-drop-indian-tycoon-gautam-adanis-2026-07-17%2f&amp;c=9091450578834322467&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Jul 2026 15:40:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Taylor Farms, Sysco pull iceberg lettuce from central Mexico linked to US parasite outbreak",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ab2bb087746ad87051a000987156f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fwendys-chipotle-say-they-are-not-affected-by-cyclosporiasis-outbreak-2026-07-17%2f&amp;c=406527835039373065&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Jul 2026 14:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "World stocks fall in semiconductor rout; oil rises on Middle East escalation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ab2bb087746ad87051a000987156f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-07-17%2f&amp;c=8780211217644112136&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Jul 2026 14:10:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Clover Health says employee accounts accessed in cyber incident",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ab2eaa95a45b99c0a100ff8dd0a7f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fclover-health-says-employee-accounts-accessed-cyber-incident-2026-07-17%2f&amp;c=16625426031938357375&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5aeb2a255a405b8c51d71dd930b8a4&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fclover-health-says-employee-accounts-accessed-cyber-incident-2026-07-17%2f&amp;c=16625426031938357375&amp;mkt=en-us",
         "pubDate": "Fri, 17 Jul 2026 13:49:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "Xi pitches China as leader of new global AI order, challenging US dominance",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ab2ccd1f743adac7e1f121c5e6580&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17%2f&amp;c=9569664283260578332&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Jul 2026 12:57:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Musk's SpaceX in talks to supply the Pentagon with computing power, WSJ reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ab2bb087746ad87051a000987156f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fmusks-spacex-talks-provide-computing-power-pentagon-wsj-reports-2026-07-17%2f&amp;c=18056868409553039979&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Jul 2026 12:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Smoke, fire, floods: US faces triple extreme summer weather threats",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ab2bb087746ad87051a000987156f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fsmoke-fire-floods-us-faces-triple-extreme-summer-weather-threats-2026-07-17%2f&amp;c=13603375881197705292&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Jul 2026 11:34:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Top US tax lawyer forced out after White House clash over tax audits",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ab2bb087746ad87051a000987156f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2ftop-us-tax-lawyer-forced-out-after-white-house-clash-over-tax-audits-2026-07-17%2f&amp;c=3789527871056897718&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Jul 2026 09:32:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ab2bb087746ad87051a000987156f&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fmeta-talks-10-billion-anthropic-compute-deal-nyt-reports-2026-07-17%2f&amp;c=1425485477721153877&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Jul 2026 09:29:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ab2bb087746ad87051a000987156f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fontario-buy-new-11-new-aircraft-very-difficult-wildfire-fight-2026-07-17%2f&amp;c=6086367450169301125&amp;mkt=en-us",
-        "pubDate": "Fri, 17 Jul 2026 09:11:00 GMT",
-        "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "The White House is dictating access to frontier AI models, shifting power from tech giants",
-        "link": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
-        "pubDate": "Fri, 17 Jul 2026 22:04:48 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
-        "link": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
-        "pubDate": "Fri, 17 Jul 2026 21:00:54 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-        "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
-        "pubDate": "Fri, 17 Jul 2026 13:12:11 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Netflix, SpaceX, Alphabet and more",
-        "link": "https://www.cnbc.com/2026/07/17/stocks-making-the-biggest-moves-premarket-nflx-spcx-googl-and-more.html",
-        "pubDate": "Fri, 17 Jul 2026 11:47:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "India&apos;s biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
-        "link": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html",
-        "pubDate": "Fri, 17 Jul 2026 03:54:47 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
