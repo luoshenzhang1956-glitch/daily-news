@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-07-19T15:05:06.895678",
+  "updated_at": "2026-07-19T17:06:49.529686",
   "news": {
     "ap": [
       {
-        "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ce701c79649229970be43e4b29fe8&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftate-brothers-social-influencers-arrest-82b6638219839dcf653c09309da66f16&amp;c=646660882365609767&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 02:57:00 GMT",
-        "category": "us"
+        "title": "Second death reported in Legionnaires\u2019 disease outbreak in New York City",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d0387679c47f283cd0cd430872d8b&amp;url=https%3a%2f%2fapnews.com%2farticle%2flegionnaires-disease-new-york-78365fb2954c0781181216e409b78718&amp;c=17612577681635155018&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 09:08:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "If history is any indication, expect some goals in the World Cup final between Argentina and Spain",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d035766cb4103913e6251faa2308a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-final-messi-argentina-spain-4c6eaf707c7ee3eaeb243269b720aa9e&amp;c=14000938483682755213&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 03:00:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
+      {
+        "title": "Who is Andy Burnham, the U.K.&apos;s new prime minister?",
+        "link": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
+        "pubDate": "Sun, 19 Jul 2026 12:00:00 -0400",
+        "category": "world"
+      },
       {
         "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
         "link": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility",
@@ -20,7 +32,7 @@
         "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
         "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
         "pubDate": "Sun, 19 Jul 2026 06:00:00 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Deadly overnight Russian attack on Ukraine targets the capital",
@@ -63,26 +75,26 @@
         "link": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
         "pubDate": "Sat, 18 Jul 2026 16:06:35 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
-        "link": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
-        "pubDate": "Sat, 18 Jul 2026 14:15:42 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 15:35:18 GMT",
+        "category": "world"
+      },
+      {
+        "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+        "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 14:50:11 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
         "link": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 14:23:44 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "US and Iran trade fire after two US soldiers killed in Jordan",
-        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 13:10:57 GMT",
-        "category": "world"
       },
       {
         "title": "Tate brothers arrested in US as further UK charges take total to 59",
@@ -103,21 +115,15 @@
         "category": "business"
       },
       {
-        "title": "Messi on the brink of history - will it be his last World Cup game?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 09:55:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
-        "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 08:55:06 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Bruno Mars has an unexpected opening before Wembley party starts",
         "link": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 08:26:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Neighbours actor Terence Donovan dies aged 90",
+        "link": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 08:18:32 GMT",
         "category": "Top News"
       },
       {
@@ -133,20 +139,13 @@
         "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "Andrew, Tristan Tate arrested in US on new charges of rape, trafficking",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5ce72dc4664cff8914f2a567ac29bf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-marshals-arrest-hypermasculine-social-media-stars-andrew-tristan-tate-uk-2026-07-19%2f&amp;c=12015891011901948373&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 07:40:00 GMT",
-        "category": "us"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-        "link": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-        "pubDate": "Sun, 19 Jul 2026 14:52:49 GMT",
-        "category": "world"
+        "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+        "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+        "pubDate": "Sun, 19 Jul 2026 12:00:01 GMT",
+        "category": "business"
       }
     ]
   }
