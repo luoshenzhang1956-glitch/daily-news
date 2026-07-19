@@ -1,26 +1,44 @@
 {
-  "updated_at": "2026-07-19T09:57:21.735387",
+  "updated_at": "2026-07-19T11:14:58.664148",
   "news": {
     "ap": [
       {
+        "title": "The World Cup final is here, with Argentina taking on Spain in soccer\u2019s showdown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5cb143e3b54c9481f46b1676db71b1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fargentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617&amp;c=651376493338732802&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 03:00:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "Nigerian children pay the price for the Iran war as malnutrition and poverty surge",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f5261c04883b86750821950203d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnigeria-strait-hormuz-iran-war-poverty-malnutrition-555a5d0099ddc68345386c50656fe25f&amp;c=14345961898579827816&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5cb14ef98d4598bc3c9f54378b0d1b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnigeria-strait-hormuz-iran-war-poverty-malnutrition-555a5d0099ddc68345386c50656fe25f&amp;c=14345961898579827816&amp;mkt=en-us",
         "pubDate": "Sat, 18 Jul 2026 22:14:00 GMT",
         "category": "health"
       },
       {
-        "title": "Trial of roadside virtual fence tech to reduce vehicle collisions with wildlife",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f4f2ee44c27983d2747ef320e05&amp;url=https%3a%2f%2fapnews.com%2fvideo%2ftrial-of-roadside-virtual-fence-tech-to-reduce-vehicle-collisions-with-wildlife-33f44847bd2b49d0925b6e2c0fa5f417&amp;c=6385895962778565348&amp;mkt=en-us",
-        "pubDate": "Sat, 18 Jul 2026 10:14:00 GMT",
-        "category": "tech"
+        "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5cb14831e04aca9cac4c8146ba7c55&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftate-brothers-social-influencers-arrest-82b6638219839dcf653c09309da66f16&amp;c=646660882365609767&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Jul 2026 16:22:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
       {
+        "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
+        "link": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility",
+        "pubDate": "Sun, 19 Jul 2026 07:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+        "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
+        "pubDate": "Sun, 19 Jul 2026 06:00:00 -0400",
+        "category": "world"
+      },
+      {
         "title": "Deadly overnight Russian attack on Ukraine targets the capital",
         "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
         "pubDate": "Sun, 19 Jul 2026 05:14:38 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "5 clever design tricks to make a small home look bigger",
@@ -53,12 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "How to make the complex world of skincare easy",
-        "link": "https://www.npr.org/2026/07/18/nx-s1-5887632/how-to-make-the-complex-world-of-skincare-easy",
-        "pubDate": "Sat, 18 Jul 2026 17:20:43 -0400",
-        "category": "health"
-      },
-      {
         "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
         "link": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
         "pubDate": "Sat, 18 Jul 2026 16:06:35 -0400",
@@ -69,15 +81,39 @@
         "link": "https://www.npr.org/2026/07/18/nx-s1-5885040-e1/engineers-develop-a-bird-scale-flapping-robot-for-aerial-aquatic-travel",
         "pubDate": "Sat, 18 Jul 2026 07:42:13 -0400",
         "category": "tech"
-      },
-      {
-        "title": "The 2000s called. They want their digital camera back",
-        "link": "https://www.npr.org/2026/07/18/nx-s1-5896117/retro-digital-camera-analog-reboot",
-        "pubDate": "Sat, 18 Jul 2026 06:01:00 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
+      {
+        "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 11:10:40 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Tate brothers arrested in US as further UK charges take total to 59",
+        "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 11:04:50 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Chinese firm seeks compensation over British Steel nationalisation",
+        "link": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 10:59:07 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
+        "link": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 10:29:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Messi on the brink of history - will it be his last World Cup game?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 09:55:22 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Russia launches major ballistic missile attack on Kyiv",
         "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
@@ -85,37 +121,19 @@
         "category": "Top News"
       },
       {
-        "title": "Tate brothers arrested in US as further UK charges take total to 59",
-        "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 09:37:32 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
+        "title": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
         "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 08:55:06 GMT",
         "category": "Top News"
       },
       {
-        "title": "'A 10-goal thriller': England fans react to 6-4 win over France",
-        "link": "https://www.bbc.co.uk/news/videos/cdj0337k0r7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 06:31:07 GMT",
+        "title": "Bruno Mars has an unexpected opening before Wembley party starts",
+        "link": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 08:26:02 GMT",
         "category": "Top News"
       },
       {
-        "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 05:10:57 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Best England team for a long time? That's a fact, says Rice",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 02:29:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why some women are being driven out of the workplace by an illness",
+        "title": "I had to stop modelling because I kept passing out from crippling endometriosis",
         "link": "https://www.bbc.co.uk/news/articles/c79yyzw9v8xo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 02:12:23 GMT",
         "category": "health"
@@ -124,101 +142,35 @@
         "title": "New EU border system tripling time at passport control, airport boss says",
         "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 01:47:59 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Watch: Highlights as England stun France 6-4 in third-place play-off",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 01:12:34 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The hidden cost of the night shift and how to sleep it off",
-        "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 00:01:55 GMT",
         "category": "Top News"
       }
     ],
     "reuters": [
       {
         "title": "Wife of Indian activist Wangchuk asks court to move him to private hospital",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f6821d74ea4814ca914ace929f4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fwife-indian-activist-wangchuk-asks-court-move-him-private-hospital-2026-07-19%2f&amp;c=4481983801272618519&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 02:30:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5cb1825e1a4f0d836d39d7dc315bbe&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fwife-indian-activist-wangchuk-asks-court-move-him-private-hospital-2026-07-19%2f&amp;c=4481983801272618519&amp;mkt=en-us",
+        "pubDate": "Sat, 18 Jul 2026 22:35:00 GMT",
         "category": "health"
       },
       {
-        "title": "Russia pounds Kyiv in major ballistic missile attack",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f550fdb4672853ce6ee2488c607&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2frussian-ballistic-missiles-rock-kyiv-one-killed-officials-say-2026-07-19%2f&amp;c=2840901226804385029&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 02:30:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Sao Tome and Principe votes for president, Vila Nova seeks new term",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f550fdb4672853ce6ee2488c607&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fsao-tome-principe-votes-president-vila-nova-seeks-new-term-2026-07-19%2f&amp;c=2461308790135238154&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 02:30:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Institutional demand for CXMT's $8.6 bln Shanghai IPO dented by chip stock selloff",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f550fdb4672853ce6ee2488c607&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2finstitutional-demand-cxmts-86-bln-shanghai-ipo-dented-by-chip-stock-selloff-2026-07-19%2f&amp;c=5114632836661873807&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 02:11:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Users of Meta's Facebook, Instagram report suffering some outages",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f550fdb4672853ce6ee2488c607&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fusers-metas-facebook-instagram-report-suffering-some-outages-2026-07-19%2f&amp;c=7545144207712901775&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 01:52:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f550fdb4672853ce6ee2488c607&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2flebanons-aoun-meet-trump-white-house-hoping-generate-pressure-israel-2026-07-19%2f&amp;c=1693754823679045701&amp;mkt=en-us",
-        "pubDate": "Sat, 18 Jul 2026 23:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f550fdb4672853ce6ee2488c607&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-renews-strikes-iran-after-two-military-personnel-were-killed-by-iranian-2026-07-18%2f&amp;c=7732148280671124439&amp;mkt=en-us",
-        "pubDate": "Sat, 18 Jul 2026 16:21:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Samsung cuts US jobs, offers relocations ahead of HQ move",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f64aa874060a75df9e4569acafb&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsamsung-electronics-america-reduce-workforce-by-739-new-jersey-us-warn-notice-2026-07-18%2f&amp;c=8553622269457028774&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5cb16f844448c38d41cc2d86697366&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsamsung-electronics-america-reduce-workforce-by-739-new-jersey-us-warn-notice-2026-07-18%2f&amp;c=8553622269457028774&amp;mkt=en-us",
         "pubDate": "Sat, 18 Jul 2026 14:58:00 GMT",
-        "category": "tech"
+        "category": "us"
       },
       {
         "title": "SpaceX IPO earns millions for US Small Business Administration head Kelly Loeffler",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5c9f6051cd4cde9cdabf915c48ac01&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fspacex-ipo-earns-millions-us-small-business-administration-head-kelly-loeffler-2026-07-17%2f&amp;c=15333532877285428411&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5cb17233424f099641761808acf1f5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fspacex-ipo-earns-millions-us-small-business-administration-head-kelly-loeffler-2026-07-17%2f&amp;c=15333532877285428411&amp;mkt=en-us",
         "pubDate": "Sat, 18 Jul 2026 11:26:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-        "link": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-        "pubDate": "Sun, 19 Jul 2026 09:47:28 GMT",
-        "category": "world"
-      },
-      {
         "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
         "link": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
         "pubDate": "Sat, 18 Jul 2026 23:01:01 GMT",
         "category": "tech"
-      },
-      {
-        "title": "&apos;WarshGPT&apos;: How Wall Street is adapting to the Fed&apos;s new era of communication",
-        "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-        "pubDate": "Sat, 18 Jul 2026 18:16:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Two unexpected revelations in Warren Buffett&apos;s CNBC interview",
-        "link": "https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html",
-        "pubDate": "Sat, 18 Jul 2026 14:53:36 GMT",
-        "category": "us"
       }
     ]
   }
