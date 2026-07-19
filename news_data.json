@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-07-19T19:12:50.203418",
+  "updated_at": "2026-07-19T20:58:51.431941",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "BTS, Madonna and the Muppets take the World Cup stage",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d3a19b80e436eae999d14c1753134&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-final-performances-halftime-show-0e9e3bc37939c901be92441b73d7b4e6&amp;c=18100946125862875229&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 13:01:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Second death reported in Legionnaires\u2019 disease outbreak in New York City",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d3a2c2b3f45e0aff46a080b81dadb&amp;url=https%3a%2f%2fapnews.com%2farticle%2flegionnaires-disease-new-york-78365fb2954c0781181216e409b78718&amp;c=17612577681635155018&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 09:08:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Goals, technology and hydration breaks: How the biggest World Cup in history will be remembered",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d3a29d97f4eeebb2f1a8e5d75b2b8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-final-spain-argentina-e45fd30932bb9885812805cafa99ca33&amp;c=3894100331219578944&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 00:39:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
         "title": "Who is Andy Burnham, the U.K.&apos;s new prime minister?",
@@ -56,20 +75,26 @@
         "link": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
         "pubDate": "Sat, 18 Jul 2026 20:57:08 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
-        "link": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
-        "pubDate": "Sat, 18 Jul 2026 16:06:35 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Fire crews battling blaze on Arthur\u2019s Seat in Edinburgh",
+        "link": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 20:49:32 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Burnham to promise 'more breathing room' for people in first speech as PM",
         "link": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 19:08:27 GMT",
+        "pubDate": "Sun, 19 Jul 2026 20:19:06 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "US soldier killed and one injured after Iranian attack in Iraq",
+        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 19:45:12 GMT",
+        "category": "world"
       },
       {
         "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
@@ -84,12 +109,6 @@
         "category": "Top News"
       },
       {
-        "title": "US and Iran trade fire after two US soldiers killed in Jordan",
-        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 17:22:23 GMT",
-        "category": "world"
-      },
-      {
         "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
         "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 14:50:11 GMT",
@@ -100,12 +119,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 12:53:20 GMT",
         "category": "us"
-      },
-      {
-        "title": "Chinese firm seeks compensation over British Steel nationalisation",
-        "link": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 10:59:07 GMT",
-        "category": "Top News"
       },
       {
         "title": "Neighbours actor Terence Donovan dies aged 90",
@@ -128,52 +141,10 @@
     ],
     "reuters": [
       {
-        "title": "Duckett's big century sets up England series win over India",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fducketts-big-century-sets-up-england-series-win-over-india-2026-07-19%2f&amp;c=4868262305882912484&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 12:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "No majors for Scottie Scheffler in 2026 after late push at Open",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2fno-majors-scottie-scheffler-2026-after-late-push-open--flm-2026-07-19%2f&amp;c=12973382438544133940&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 11:58:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Saquon Barkley, family unharmed after home break-in",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsaquon-barkley-family-unharmed-after-home-break-in--flm-2026-07-19%2f&amp;c=2624817994631159497&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 11:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Andrew, Tristan Tate arrested in US on new charges of rape, trafficking",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-marshals-arrest-hypermasculine-social-media-stars-andrew-tristan-tate-uk-2026-07-19%2f&amp;c=12015891011901948373&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 11:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Russia pounds Kyiv in major ballistic missile attack",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2frussian-ballistic-missiles-rock-kyiv-one-killed-officials-say-2026-07-19%2f&amp;c=2840901226804385029&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 11:15:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "With security lines and star-studded spectacle, World Cup prepares for final showdown",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b107a84b11aaf93aded01041f8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fwith-security-lines-star-studded-spectacle-world-cup-prepares-final-showdown-2026-07-19%2f&amp;c=414779718606983658&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d3a400935482a8ff831fa32a0f180&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fwith-security-lines-star-studded-spectacle-world-cup-prepares-final-showdown-2026-07-19%2f&amp;c=414779718606983658&amp;mkt=en-us",
         "pubDate": "Sun, 19 Jul 2026 10:36:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "At least six dead and 21 injured after 2 earthquakes in Peru",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fearthquake-magnitude-56-strikes-central-peru-emsc-says-2026-07-19%2f&amp;c=972001858486283598&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 09:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "ICE officers to wear body cameras during vehicle stops, border czar says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fice-officers-wear-body-cameras-during-vehicle-stops-border-czar-says-2026-07-19%2f&amp;c=9743865397989445266&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 09:22:00 GMT",
-        "category": "Top News"
       }
     ],
     "markets": []
