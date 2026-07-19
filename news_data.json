@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-07-19T20:58:51.431941",
+  "updated_at": "2026-07-19T22:59:02.565584",
   "news": {
-    "ap": [
-      {
-        "title": "BTS, Madonna and the Muppets take the World Cup stage",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d3a19b80e436eae999d14c1753134&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-final-performances-halftime-show-0e9e3bc37939c901be92441b73d7b4e6&amp;c=18100946125862875229&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 13:01:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Second death reported in Legionnaires\u2019 disease outbreak in New York City",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d3a2c2b3f45e0aff46a080b81dadb&amp;url=https%3a%2f%2fapnews.com%2farticle%2flegionnaires-disease-new-york-78365fb2954c0781181216e409b78718&amp;c=17612577681635155018&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 09:08:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Goals, technology and hydration breaks: How the biggest World Cup in history will be remembered",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d3a29d97f4eeebb2f1a8e5d75b2b8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-final-spain-argentina-e45fd30932bb9885812805cafa99ca33&amp;c=3894100331219578944&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 00:39:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "America&apos;s 250th carries somber note for forcibly displaced Indigenous groups",
+        "link": "https://www.npr.org/2026/07/19/nx-s1-5897600/americas-250th-carries-somber-note-for-forcibly-displaced-indigenous-groups",
+        "pubDate": "Sun, 19 Jul 2026 17:54:37 -0400",
+        "category": "us"
+      },
+      {
+        "title": "A cavalcade of international stars headlined the World Cup&apos;s first-ever halftime final show",
+        "link": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
+        "pubDate": "Sun, 19 Jul 2026 17:29:52 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Who is Andy Burnham, the U.K.&apos;s new prime minister?",
         "link": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
@@ -62,27 +55,21 @@
         "title": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
         "link": "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer",
         "pubDate": "Sun, 19 Jul 2026 03:00:00 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup final",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship",
-        "pubDate": "Sun, 19 Jul 2026 00:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Andrew and Tristan Tate arrested in Florida on charges of rape and sex trafficking",
-        "link": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
-        "pubDate": "Sat, 18 Jul 2026 20:57:08 -0400",
+        "title": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title",
+        "link": "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship",
+        "pubDate": "Sun, 19 Jul 2026 00:00:00 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Fire crews battling blaze on Arthur\u2019s Seat in Edinburgh",
-        "link": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 20:49:32 GMT",
-        "category": "Top News"
+        "title": "JD Vance announces birth of baby boy with wife Usha",
+        "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 22:40:53 GMT",
+        "category": "us"
       },
       {
         "title": "Burnham to promise 'more breathing room' for people in first speech as PM",
@@ -118,7 +105,7 @@
         "title": "Tate brothers arrested in US as further UK charges take total to 59",
         "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 12:53:20 GMT",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Neighbours actor Terence Donovan dies aged 90",
@@ -141,12 +128,91 @@
     ],
     "reuters": [
       {
-        "title": "With security lines and star-studded spectacle, World Cup prepares for final showdown",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d3a400935482a8ff831fa32a0f180&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fwith-security-lines-star-studded-spectacle-world-cup-prepares-final-showdown-2026-07-19%2f&amp;c=414779718606983658&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 10:36:00 GMT",
+        "title": "Boos as Trump and Infantino enter the field for World Cup trophy ceremony",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d56665c28479ca6461f5ec5532a33&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fboos-trump-infantino-enter-field-world-cup-trophy-ceremony-2026-07-19%2f&amp;c=14681840691720854007&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 15:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Andrew, Tristan Tate arrested in US on new charges of rape, trafficking",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d56665c28479ca6461f5ec5532a33&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-marshals-arrest-hypermasculine-social-media-stars-andrew-tristan-tate-uk-2026-07-19%2f&amp;c=12015891011901948373&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 15:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "SpaceX moves Starship launch attempt to Thursday",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d56665c28479ca6461f5ec5532a33&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fspacex-moves-starship-launch-attempt-thursday-2026-07-19%2f&amp;c=14645883604484259773&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 15:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US Vice President JD Vance announces birth of son",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d56665c28479ca6461f5ec5532a33&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-vice-president-jd-vance-announces-birth-son-2026-07-19%2f&amp;c=10874403159912755386&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 15:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Shooting in Tucson, Arizona, leaves 10 people wounded, including suspect",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d56665c28479ca6461f5ec5532a33&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fshooting-tucson-arizona-leaves-10-people-wounded-including-suspect-2026-07-19%2f&amp;c=13318796361570736044&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 15:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "World Cup final between 10-man Argentina and Spain goes to extra time",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d56665c28479ca6461f5ec5532a33&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fworld-cup-final-between-10-man-argentina-spain-goes-extra-time-2026-07-19%2f&amp;c=2953720597779500816&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 14:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Madonna, BTS and Bieber bring star power to World Cup halftime show",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d5669459f44bb8bfecd5a34657245&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fmadonna-bts-bieber-bring-star-power-world-cup-halftime-show-2026-07-19%2f&amp;c=10219302671735965931&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 14:01:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "With security lines and star-studded spectacle, World Cup prepares for final showdown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d56665c28479ca6461f5ec5532a33&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fwith-security-lines-star-studded-spectacle-world-cup-prepares-final-showdown-2026-07-19%2f&amp;c=414779718606983658&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 10:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jackson gains majority delegate support in Maine to challenge US Senator Collins, Politico reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d56665c28479ca6461f5ec5532a33&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fbellows-withdraws-us-senate-race-maine-democrats-regroup-2026-07-19%2f&amp;c=6096567452938297113&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 09:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Boeing on track for 2028 Air Force One delivery, costs rise",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d56665c28479ca6461f5ec5532a33&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fboeing-track-2028-air-force-one-delivery-costs-rise-2026-07-19%2f&amp;c=7919058179359717292&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 09:28:00 GMT",
+        "category": "Top News"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "U.S. death toll rises again as Iran war escalates over the weekend",
+        "link": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+        "pubDate": "Sun, 19 Jul 2026 20:25:15 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
+        "link": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
+        "pubDate": "Sun, 19 Jul 2026 12:46:25 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
+        "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
+        "pubDate": "Sun, 19 Jul 2026 12:42:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+        "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+        "pubDate": "Sun, 19 Jul 2026 12:00:01 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
