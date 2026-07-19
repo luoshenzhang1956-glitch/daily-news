@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-19T17:06:49.529686",
+  "updated_at": "2026-07-19T19:12:50.203418",
   "news": {
-    "ap": [
-      {
-        "title": "Second death reported in Legionnaires\u2019 disease outbreak in New York City",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d0387679c47f283cd0cd430872d8b&amp;url=https%3a%2f%2fapnews.com%2farticle%2flegionnaires-disease-new-york-78365fb2954c0781181216e409b78718&amp;c=17612577681635155018&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 09:08:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "If history is any indication, expect some goals in the World Cup final between Argentina and Spain",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d035766cb4103913e6251faa2308a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-final-messi-argentina-spain-4c6eaf707c7ee3eaeb243269b720aa9e&amp;c=14000938483682755213&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 03:00:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Who is Andy Burnham, the U.K.&apos;s new prime minister?",
@@ -79,9 +66,27 @@
     ],
     "bbc": [
       {
+        "title": "Burnham to promise 'more breathing room' for people in first speech as PM",
+        "link": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 19:08:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+        "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 18:35:16 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+        "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 18:25:40 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "US and Iran trade fire after two US soldiers killed in Jordan",
         "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 15:35:18 GMT",
+        "pubDate": "Sun, 19 Jul 2026 17:22:23 GMT",
         "category": "world"
       },
       {
@@ -91,33 +96,15 @@
         "category": "Top News"
       },
       {
-        "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
-        "link": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 14:23:44 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Tate brothers arrested in US as further UK charges take total to 59",
         "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 12:53:20 GMT",
         "category": "us"
       },
       {
-        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-        "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 11:28:24 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Chinese firm seeks compensation over British Steel nationalisation",
         "link": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 10:59:07 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Bruno Mars has an unexpected opening before Wembley party starts",
-        "link": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 08:26:02 GMT",
         "category": "Top News"
       },
       {
@@ -139,14 +126,56 @@
         "category": "Top News"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
-        "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
-        "pubDate": "Sun, 19 Jul 2026 12:00:01 GMT",
-        "category": "business"
+        "title": "Duckett's big century sets up England series win over India",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fducketts-big-century-sets-up-england-series-win-over-india-2026-07-19%2f&amp;c=4868262305882912484&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 12:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "No majors for Scottie Scheffler in 2026 after late push at Open",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fgolf%2fno-majors-scottie-scheffler-2026-after-late-push-open--flm-2026-07-19%2f&amp;c=12973382438544133940&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 11:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Saquon Barkley, family unharmed after home break-in",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsaquon-barkley-family-unharmed-after-home-break-in--flm-2026-07-19%2f&amp;c=2624817994631159497&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 11:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Andrew, Tristan Tate arrested in US on new charges of rape, trafficking",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-marshals-arrest-hypermasculine-social-media-stars-andrew-tristan-tate-uk-2026-07-19%2f&amp;c=12015891011901948373&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 11:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Russia pounds Kyiv in major ballistic missile attack",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2frussian-ballistic-missiles-rock-kyiv-one-killed-officials-say-2026-07-19%2f&amp;c=2840901226804385029&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 11:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "With security lines and star-studded spectacle, World Cup prepares for final showdown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b107a84b11aaf93aded01041f8&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fwith-security-lines-star-studded-spectacle-world-cup-prepares-final-showdown-2026-07-19%2f&amp;c=414779718606983658&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 10:36:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "At least six dead and 21 injured after 2 earthquakes in Peru",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fearthquake-magnitude-56-strikes-central-peru-emsc-says-2026-07-19%2f&amp;c=972001858486283598&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 09:28:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "ICE officers to wear body cameras during vehicle stops, border czar says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5d21b02ac0454892b4d6b794a8fe4d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fice-officers-wear-body-cameras-during-vehicle-stops-border-czar-says-2026-07-19%2f&amp;c=9743865397989445266&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 09:22:00 GMT",
+        "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
