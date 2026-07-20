@@ -1,19 +1,48 @@
 {
-  "updated_at": "2026-07-20T06:55:12.580989",
+  "updated_at": "2026-07-20T11:10:12.736261",
   "news": {
-    "ap": [
-      {
-        "title": "At least 930 people have died in Congo\u2019s Ebola outbreak",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5dc5efbd1949acabf83f30b25304d1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-deaths-cd70fcfeb7c7d0b172c4fef7a9c3a93f&amp;c=11389550144262008723&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 23:40:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
-        "title": "America&apos;s 250th carries somber note for forcibly displaced Indigenous groups",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5897600/americas-250th-carries-somber-note-for-forcibly-displaced-indigenous-groups",
-        "pubDate": "Sun, 19 Jul 2026 17:54:37 -0400",
+        "title": "At least 930 people have died in Congo&apos;s Ebola outbreak",
+        "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
+        "pubDate": "Mon, 20 Jul 2026 06:36:08 -0400",
+        "category": "world"
+      },
+      {
+        "title": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
+        "link": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
+        "pubDate": "Mon, 20 Jul 2026 06:04:56 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "So distressed you can&apos;t think straight? Lower the intensity with these 4 skills",
+        "link": "https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills",
+        "pubDate": "Mon, 20 Jul 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "&apos;I just wanted to give up&apos;: Disabled patients face Medicaid denials from IT errors",
+        "link": "https://www.npr.org/2026/07/20/nx-s1-5896359/medicaid-disabled-patients-denied-deloitte-michigan",
+        "pubDate": "Mon, 20 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief",
+        "pubDate": "Mon, 20 Jul 2026 04:43:08 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Keir Starmer resigns, Andy Burnham becomes U.K. prime minister",
+        "link": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
+        "pubDate": "Mon, 20 Jul 2026 04:41:42 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "New federal law could bring running water to tribal homes, but states have concerns",
+        "link": "https://www.npr.org/2026/07/20/nx-s1-5885047/new-federal-law-could-bring-running-water-to-tribal-homes-but-states-have-concerns",
+        "pubDate": "Mon, 20 Jul 2026 04:41:29 -0400",
         "category": "us"
       },
       {
@@ -26,68 +55,50 @@
         "title": "Who is Andy Burnham, the U.K.&apos;s new prime minister?",
         "link": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
         "pubDate": "Sun, 19 Jul 2026 12:00:00 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility",
-        "pubDate": "Sun, 19 Jul 2026 07:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
-        "pubDate": "Sun, 19 Jul 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Deadly overnight Russian attack on Ukraine targets the capital",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
-        "pubDate": "Sun, 19 Jul 2026 05:14:38 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "5 clever design tricks to make a small home look bigger",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
-        "pubDate": "Sun, 19 Jul 2026 05:01:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
-        "pubDate": "Sun, 19 Jul 2026 03:27:59 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer",
-        "pubDate": "Sun, 19 Jul 2026 03:00:00 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-        "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 06:31:55 GMT",
+        "title": "Watch: Sir Keir Starmer's last speech as prime minister in full",
+        "link": "https://www.bbc.co.uk/news/videos/cx2ml6g4y6ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 10:37:20 GMT",
         "category": "Top News"
       },
       {
-        "title": "Fire crews battle blaze on Arthur\u2019s Seat in Edinburgh",
-        "link": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 06:15:55 GMT",
+        "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+        "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 10:12:36 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
+        "link": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 09:44:31 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "A very quick guide to Andy Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 09:32:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Broadcaster and journalist Edward Stourton dies aged 68",
+        "link": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 07:30:13 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Granny wins care home Happy Hour law change",
+        "link": "https://www.bbc.co.uk/news/videos/c5yrx8347ego?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 06:57:55 GMT",
+        "category": "health"
       },
       {
         "title": "Victory for football? Spain beat Argentina to win World Cup",
         "link": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 20 Jul 2026 00:28:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "\u2018Everyone's afraid to die\u2019: Struggle to recruit soldiers in Ukraine turns violent",
-        "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 00:19:12 GMT",
         "category": "Top News"
       },
       {
@@ -97,28 +108,10 @@
         "category": "Top News"
       },
       {
-        "title": "Moment fans in Madrid celebrate World Cup win",
-        "link": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 23:48:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Are you a parent missing out on \u00a327 a week? Here's how to check",
-        "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 23:16:47 GMT",
-        "category": "business"
-      },
-      {
-        "title": "JD Vance announces birth of baby boy with wife Usha",
-        "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 23:16:04 GMT",
+        "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+        "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 22:16:39 GMT",
         "category": "us"
-      },
-      {
-        "title": "My fitness tracker knew I was pregnant before I did",
-        "link": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 23:09:18 GMT",
-        "category": "health"
       },
       {
         "title": "US soldier killed and one injured after Iranian attack in Iraq",
@@ -127,45 +120,7 @@
         "category": "world"
       }
     ],
-    "reuters": [
-      {
-        "title": "Suzuki's no-frills cars once ruled India. Then buyers demanded frills.",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5dc61a19864046ba6c7b7a60d75d19&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fsuzukis-no-frills-cars-once-ruled-india-then-buyers-demanded-frills-2026-07-20%2f&amp;c=7329925980064326466&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 16:59:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Sonam Wangchuk, Indian activist rallying Gen Z against Modi",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5dc61d3852424b80922046fac97cb8&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fsonam-wangchuk-indian-activist-rallying-gen-z-against-modi-2026-07-20%2f&amp;c=15951115244338289879&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 16:59:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Canada to temporarily bar entry for foreigners who have recently been to Congo, against UN advice",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5dc61d93b849ccb81ac37a90439648&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcanada-temporarily-bar-entry-foreigners-who-have-recently-been-congo-against-un-2026-07-19%2f&amp;c=13681167334831187994&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 08:52:00 GMT",
-        "category": "health"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise",
-        "link": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
-        "pubDate": "Mon, 20 Jul 2026 04:43:02 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
-        "link": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
-        "pubDate": "Sun, 19 Jul 2026 12:46:25 GMT",
-        "category": "us"
-      },
-      {
-        "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
-        "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
-        "pubDate": "Sun, 19 Jul 2026 12:00:01 GMT",
-        "category": "business"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
