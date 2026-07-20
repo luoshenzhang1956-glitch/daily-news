@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-07-20T14:22:22.079638",
+  "updated_at": "2026-07-20T18:13:20.120982",
   "news": {
-    "ap": [
-      {
-        "title": "US bombing of Iran expands as Tehran retaliates against the Gulf states",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5e2e5c3dd74295beeb2461988ca2fc&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297&amp;c=1250079996606984590&amp;mkt=en-us",
-        "pubDate": "Sun, 19 Jul 2026 20:44:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Court ruling freezes Paramount-Warner Bros. merger for now",
+        "link": "https://www.npr.org/2026/07/20/nx-s1-5900888/paramount-wbd-tro-restraining-lawsuit",
+        "pubDate": "Mon, 20 Jul 2026 13:55:31 -0400",
+        "category": "business"
+      },
+      {
+        "title": "India&apos;s Gen Z &apos;Cockroach People&apos;s Party&apos; started as satire but is serious about change",
+        "link": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests",
+        "pubDate": "Mon, 20 Jul 2026 12:36:04 -0400",
+        "category": "world"
+      },
       {
         "title": "Putin meets North Korean foreign minister in diplomatic push",
         "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
         "pubDate": "Mon, 20 Jul 2026 09:18:51 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
@@ -53,101 +58,75 @@
         "category": "Top News"
       },
       {
-        "title": "Andy Burnham becomes U.K. prime minister",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
-        "pubDate": "Mon, 20 Jul 2026 04:41:42 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "New federal law could bring running water to tribal homes, but states have concerns",
         "link": "https://www.npr.org/2026/07/20/nx-s1-5885047/new-federal-law-could-bring-running-water-to-tribal-homes-but-states-have-concerns",
         "pubDate": "Mon, 20 Jul 2026 04:41:29 -0400",
         "category": "us"
-      },
-      {
-        "title": "A cavalcade of international stars headlined the World Cup&apos;s first-ever halftime final show",
-        "link": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
-        "pubDate": "Sun, 19 Jul 2026 17:29:52 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Burnham pledges to end rough sleeping in first speech as prime minister",
-        "link": "https://www.bbc.co.uk/news/articles/c0jl839j6z3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 14:11:09 GMT",
+        "title": "'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites",
+        "link": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 18:01:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Key takeaways as Andy Burnham becomes PM",
+        "link": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 17:39:09 GMT",
         "category": "Top News"
       },
       {
-        "title": "AliExpress fined record \u20ac550m by EU for allowing sale of illegal goods",
-        "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 13:44:55 GMT",
+        "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 17:21:27 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+        "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 17:20:37 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Ofcom unable to take further legal action against suicide forum",
+        "link": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 16:57:30 GMT",
         "category": "tech"
       },
       {
-        "title": "Ofcom launches investigation into Married at First Sight UK",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 13:42:04 GMT",
+        "title": "Burnham has big ideas - but what will they cost?",
+        "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 16:51:54 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Faisal Islam: The new PM has big ideas - but what will they cost?",
+        "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 16:51:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham's policy choices reveal what kind of PM he wants to be",
+        "link": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 15:41:02 GMT",
         "category": "Top News"
       },
       {
         "title": "Burnham promises help with your money. How could it affect you?",
         "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 13:03:23 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Rare identical quadruplets born in Australia",
-        "link": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 12:57:32 GMT",
-        "category": "health"
+        "pubDate": "Mon, 20 Jul 2026 15:10:48 GMT",
+        "category": "Top News"
       },
       {
         "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
         "link": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 20 Jul 2026 12:49:18 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
-        "link": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 12:43:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-        "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 11:18:40 GMT",
-        "category": "world"
-      },
-      {
-        "title": "My fitness tracker knew I was pregnant before I did",
-        "link": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 23:09:18 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US soldier killed and one injured after Iranian attack in Iraq",
-        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 19:45:12 GMT",
-        "category": "us"
       }
     ],
-    "reuters": [
-      {
-        "title": "Honeywell Aerospace wins IndiGo avionics deal; Aeromexico to deploy runway safety technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5e2ec7819344ca9a38282d65400f23&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fhoneywell-aerospace-wins-indigo-avionics-deal-aeromexico-deploy-runway-safety-2026-07-20%2f&amp;c=15901200943174283320&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Jul 2026 00:29:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "markets": [
-      {
-        "title": "UK&apos;s Andy Burnham becomes PM as Trump slams Britain as &apos;Poverty Stricken Disaster&apos;",
-        "link": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
-        "pubDate": "Mon, 20 Jul 2026 14:09:20 GMT",
-        "category": "world"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
