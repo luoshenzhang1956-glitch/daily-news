@@ -1,13 +1,32 @@
 {
-  "updated_at": "2026-07-20T11:10:12.736261",
+  "updated_at": "2026-07-20T14:22:22.079638",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US bombing of Iran expands as Tehran retaliates against the Gulf states",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5e2e5c3dd74295beeb2461988ca2fc&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297&amp;c=1250079996606984590&amp;mkt=en-us",
+        "pubDate": "Sun, 19 Jul 2026 20:44:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "Putin meets North Korean foreign minister in diplomatic push",
+        "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
+        "pubDate": "Mon, 20 Jul 2026 09:18:51 -0400",
+        "category": "world"
+      },
+      {
+        "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+        "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
+        "pubDate": "Mon, 20 Jul 2026 07:40:28 -0400",
+        "category": "Top News"
+      },
       {
         "title": "At least 930 people have died in Congo&apos;s Ebola outbreak",
         "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
         "pubDate": "Mon, 20 Jul 2026 06:36:08 -0400",
-        "category": "world"
+        "category": "health"
       },
       {
         "title": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
@@ -16,14 +35,14 @@
         "category": "Top News"
       },
       {
-        "title": "So distressed you can&apos;t think straight? Lower the intensity with these 4 skills",
-        "link": "https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills",
+        "title": "Deloitte-run systems denied Medicaid to disabled people. New laws could make it worse",
+        "link": "https://www.npr.org/2026/07/20/nx-s1-5896359/medicaid-disabled-patients-denied-deloitte-michigan",
         "pubDate": "Mon, 20 Jul 2026 05:00:00 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
-        "title": "&apos;I just wanted to give up&apos;: Disabled patients face Medicaid denials from IT errors",
-        "link": "https://www.npr.org/2026/07/20/nx-s1-5896359/medicaid-disabled-patients-denied-deloitte-michigan",
+        "title": "So distressed you can&apos;t think straight? Lower the intensity with these 4 skills",
+        "link": "https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills",
         "pubDate": "Mon, 20 Jul 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -34,7 +53,7 @@
         "category": "Top News"
       },
       {
-        "title": "Keir Starmer resigns, Andy Burnham becomes U.K. prime minister",
+        "title": "Andy Burnham becomes U.K. prime minister",
         "link": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
         "pubDate": "Mon, 20 Jul 2026 04:41:42 -0400",
         "category": "Top News"
@@ -50,77 +69,85 @@
         "link": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
         "pubDate": "Sun, 19 Jul 2026 17:29:52 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Who is Andy Burnham, the U.K.&apos;s new prime minister?",
-        "link": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
-        "pubDate": "Sun, 19 Jul 2026 12:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Watch: Sir Keir Starmer's last speech as prime minister in full",
-        "link": "https://www.bbc.co.uk/news/videos/cx2ml6g4y6ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 10:37:20 GMT",
+        "title": "Burnham pledges to end rough sleeping in first speech as prime minister",
+        "link": "https://www.bbc.co.uk/news/articles/c0jl839j6z3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 14:11:09 GMT",
         "category": "Top News"
       },
       {
-        "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-        "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 10:12:36 GMT",
+        "title": "AliExpress fined record \u20ac550m by EU for allowing sale of illegal goods",
+        "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 13:44:55 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Ofcom launches investigation into Married at First Sight UK",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 13:42:04 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham promises help with your money. How could it affect you?",
+        "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 13:03:23 GMT",
         "category": "business"
+      },
+      {
+        "title": "Rare identical quadruplets born in Australia",
+        "link": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 12:57:32 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
+        "link": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 12:49:18 GMT",
+        "category": "Top News"
       },
       {
         "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
         "link": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 09:44:31 GMT",
+        "pubDate": "Mon, 20 Jul 2026 12:43:13 GMT",
         "category": "Top News"
       },
       {
-        "title": "A very quick guide to Andy Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 09:32:07 GMT",
+        "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+        "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 20 Jul 2026 11:18:40 GMT",
+        "category": "world"
+      },
+      {
+        "title": "My fitness tracker knew I was pregnant before I did",
+        "link": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 19 Jul 2026 23:09:18 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Broadcaster and journalist Edward Stourton dies aged 68",
-        "link": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 07:30:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Granny wins care home Happy Hour law change",
-        "link": "https://www.bbc.co.uk/news/videos/c5yrx8347ego?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 06:57:55 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Victory for football? Spain beat Argentina to win World Cup",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 00:28:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Chris Mason: Burnham is fifth PM in four years - now he'll try to buck the trend",
-        "link": "https://www.bbc.co.uk/news/articles/cr7knml2y99o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 23:53:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
-        "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 19 Jul 2026 22:16:39 GMT",
-        "category": "us"
       },
       {
         "title": "US soldier killed and one injured after Iranian attack in Iraq",
         "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 19 Jul 2026 19:45:12 GMT",
-        "category": "world"
+        "category": "us"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Honeywell Aerospace wins IndiGo avionics deal; Aeromexico to deploy runway safety technology",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5e2ec7819344ca9a38282d65400f23&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fhoneywell-aerospace-wins-indigo-avionics-deal-aeromexico-deploy-runway-safety-2026-07-20%2f&amp;c=15901200943174283320&amp;mkt=en-us",
+        "pubDate": "Mon, 20 Jul 2026 00:29:00 GMT",
+        "category": "tech"
+      }
+    ],
+    "markets": [
+      {
+        "title": "UK&apos;s Andy Burnham becomes PM as Trump slams Britain as &apos;Poverty Stricken Disaster&apos;",
+        "link": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
+        "pubDate": "Mon, 20 Jul 2026 14:09:20 GMT",
+        "category": "world"
+      }
+    ]
   }
 }
