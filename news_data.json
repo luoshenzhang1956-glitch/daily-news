@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-07-21T17:29:15.186111",
+  "updated_at": "2026-07-21T19:41:39.048741",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Mass. Senate wants to address primary-care doctor shortage",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcae2bc2141b99d36889a1c8849f5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmassachusetts-senate-primary-care-doctor-shortage-eefb6f085f23d15df15d9c1c1b13995e&amp;c=15887632305803826726&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 11:04:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Attacks between US and Iran across Mideast overshadow efforts to keep diplomacy alive",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcabc545c4b2898a23b8559269a5b&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-hormuz-strait-war-july-21-2026-1664f6a4dad005a99771b2ad15213585&amp;c=16799842012622727085&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 00:44:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "Nicaragua&apos;s President Ortega says no more elections, extending his 20-year rule",
+        "link": "https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections",
+        "pubDate": "Tue, 21 Jul 2026 15:10:42 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Is that food really made with 100% avocado oil? Likely not",
+        "link": "https://www.npr.org/2026/07/21/nx-s1-5902084/avocado-oil-health-fraud-study",
+        "pubDate": "Tue, 21 Jul 2026 14:00:52 -0400",
+        "category": "health"
+      },
       {
         "title": "The best games of 2026 so far, picked by NPR&apos;s staff",
         "link": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
@@ -13,7 +38,7 @@
         "title": "India&apos;s youth-led Cockroach movement vows to continue protest after police crackdown",
         "link": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown",
         "pubDate": "Tue, 21 Jul 2026 08:00:56 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
@@ -22,7 +47,7 @@
         "category": "Top News"
       },
       {
-        "title": "Defense Secretary Pete Hegseth goes to the Hill with $350B funding request",
+        "title": "Defense Secretary Pete Hegseth goes to the Hill with nearly $90B funding request",
         "link": "https://www.npr.org/2026/07/21/nx-s1-5900838/defense-secretary-pete-hegseth-goes-to-the-hill-with-350b-funding-request",
         "pubDate": "Tue, 21 Jul 2026 06:41:41 -0400",
         "category": "Top News"
@@ -50,44 +75,38 @@
         "link": "https://www.npr.org/sections/the-picture-show/2026/07/21/nx-s1-5897423/soccer-in-us-nepali-bhutanese-community",
         "pubDate": "Tue, 21 Jul 2026 06:30:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
-        "link": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
-        "pubDate": "Tue, 21 Jul 2026 06:21:43 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Amid nurse shortage, a university rolls out the welcome mat for men",
-        "link": "https://www.npr.org/2026/07/21/nx-s1-5869813/nursing-men-jobs-male-nurses",
-        "pubDate": "Tue, 21 Jul 2026 06:00:00 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
         "title": "Burnham tells cabinet to tackle living costs at first meeting",
         "link": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 17:25:41 GMT",
+        "pubDate": "Tue, 21 Jul 2026 19:00:23 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Row escalates in Ukraine over army chief's future",
+        "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Jul 2026 18:49:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+        "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Jul 2026 18:07:34 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+        "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Jul 2026 17:33:22 GMT",
+        "category": "us"
       },
       {
         "title": "Sackings, cabinet surprises and policies: Burnham's first 24 hours as PM",
         "link": "https://www.bbc.co.uk/news/articles/c4gjz907pppo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 21 Jul 2026 17:14:44 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-        "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 16:50:51 GMT",
-        "category": "world"
-      },
-      {
-        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-        "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 16:10:56 GMT",
-        "category": "us"
       },
       {
         "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say",
@@ -108,12 +127,6 @@
         "category": "Top News"
       },
       {
-        "title": "Row escalates in Ukraine over army chief's future",
-        "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 12:33:15 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "AI minister role boosted but tech department axed in Burnham shake-up",
         "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 21 Jul 2026 09:15:55 GMT",
@@ -128,61 +141,66 @@
     ],
     "reuters": [
       {
-        "title": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fac0ef589446eb91b48130a470893&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-launches-iran-strikes-ninth-day-another-american-confirmed-killed-2026-07-20%2f&amp;c=74808980053530930&amp;mkt=en-us",
-        "pubDate": "Tue, 21 Jul 2026 01:51:00 GMT",
-        "category": "us"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Want to diversify away from AI? Goldman says look at these stocks",
-        "link": "https://www.cnbc.com/2026/07/21/want-to-diversify-away-from-ai-goldman-says-look-at-these-stocks.html",
-        "pubDate": "Tue, 21 Jul 2026 16:46:14 GMT",
-        "category": "us"
-      },
-      {
-        "title": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
-        "link": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
-        "pubDate": "Tue, 21 Jul 2026 16:30:11 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won&apos;t survive",
-        "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
-        "pubDate": "Tue, 21 Jul 2026 15:35:59 GMT",
+        "title": "Displaced Lebanese await return to southern town after Israeli withdrawal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcae6625a4a418af272d55a62b82b&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW977521072026RP1%2f&amp;c=18141153894137768162&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 12:18:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "GM announces new gas-powered Cadillac vehicles amid EV pullback",
-        "link": "https://www.cnbc.com/2026/07/21/gm-new-gas-powered-cadillac.html",
-        "pubDate": "Tue, 21 Jul 2026 15:03:42 GMT",
+        "title": "US Senate panel narrowly backs Trump nominee to be top US spy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcae6625a4a418af272d55a62b82b&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-senate-panel-narrowly-backs-trump-nominee-be-top-us-spy-2026-07-21%2f&amp;c=7676461967251247224&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 12:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Guyana ferry death toll rises to 41 as more bodies are recovered",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcae6625a4a418af272d55a62b82b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fguyana-ferry-death-toll-rises-41-more-bodies-are-recovered-2026-07-21%2f&amp;c=730561281001218028&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 11:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Senate Democrat calls for probe of US derivatives regulator's staff cuts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcae6625a4a418af272d55a62b82b&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fsenate-democrat-calls-probe-us-derivatives-regulators-staff-cuts-2026-07-21%2f&amp;c=14452901737315393704&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 11:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rio Tinto exits aluminum composites business, transfers customers to Canada's Cymat",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcafd1cb54ba4b1d5eec7301bdf77&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2frio-tinto-exits-aluminum-composites-business-transfers-customers-canadas-cymat-2026-07-21%2f&amp;c=16829073345056972929&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 10:36:00 GMT",
         "category": "business"
       },
       {
-        "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
-        "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
-        "pubDate": "Tue, 21 Jul 2026 14:37:08 GMT",
+        "title": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcae6625a4a418af272d55a62b82b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fasian-refiners-look-suez-canal-move-saudi-oil-amid-houthi-shipping-threats-2026-07-21%2f&amp;c=5742440928830024610&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 10:35:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius &amp; more",
-        "link": "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html",
-        "pubDate": "Tue, 21 Jul 2026 13:09:44 GMT",
+        "title": "US pauses $1 billion in Medicaid payments to California, Minnesota",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcae6625a4a418af272d55a62b82b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-health-secretary-kennedy-says-cms-is-pausing-medicaid-payments-california-2026-07-21%2f&amp;c=12457746520044050183&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 07:53:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Jamie Dimon says markets underestimate risks and he wouldn&apos;t buy stocks or Treasurys at current prices",
-        "link": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-        "pubDate": "Tue, 21 Jul 2026 10:24:07 GMT",
+        "title": "Trump administration to unveil forced labor trade action soon, says Greer",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcae6625a4a418af272d55a62b82b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftrump-administration-unveil-forced-labor-trade-action-soon-says-greer-2026-07-21%2f&amp;c=9442059753326417033&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 07:27:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
-        "link": "https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html",
-        "pubDate": "Mon, 20 Jul 2026 18:14:23 GMT",
+        "title": "Advanced chipmaking tool arrives at New York state innovation hub",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcae6625a4a418af272d55a62b82b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fadvanced-chipmaking-tool-arrives-new-york-state-innovation-hub-2026-07-21%2f&amp;c=3274412180100590735&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 05:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pop vocalist D4vd faces evidentiary hearing in murder of teenage girl",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5fcae6625a4a418af272d55a62b82b&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fpop-vocalist-d4vd-faces-evidentiary-hearing-murder-teenage-girl-2026-07-21%2f&amp;c=5496725194596138987&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 03:05:00 GMT",
         "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
