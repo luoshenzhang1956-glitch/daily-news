@@ -1,55 +1,54 @@
 {
-  "updated_at": "2026-07-21T06:37:08.029481",
+  "updated_at": "2026-07-21T10:32:22.323900",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5f12ddad7b434b97f4fa899c52cadd&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-trump-airstrikes-strait-hormuz-8c42c6ddc0c32d53ce452ace92a62b9a&amp;c=6563059445584700515&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Jul 2026 21:02:00 GMT",
+        "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
+        "link": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
+        "pubDate": "Tue, 21 Jul 2026 06:21:43 -0400",
+        "category": "world"
+      },
+      {
+        "title": "These men went to college in search of stable careers. They found it in nursing",
+        "link": "https://www.npr.org/2026/07/21/nx-s1-5869813/nursing-men-jobs-male-nurses",
+        "pubDate": "Tue, 21 Jul 2026 06:00:00 -0400",
         "category": "us"
       },
       {
-        "title": "Wall Street drifts as AI stocks hold steadier after last week\u2019s losses",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5f12e4d81844eda44d1391c83fa40c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-market-ai-oil-iran-war-15939a01f378bcec5eec2868e8100ca9&amp;c=4439476806064637487&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Jul 2026 13:49:00 GMT",
-        "category": "business"
+        "title": "A homeless man was charged with a felony for camping. He&apos;s one of the first",
+        "link": "https://www.npr.org/2026/07/21/nx-s1-5887358/tennessee-homeless-arrest-felony-camping-ban",
+        "pubDate": "Tue, 21 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
       },
       {
-        "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5f12f4ff04444d82cd1fc967b550d8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcyclospora-lettuce-taco-bell-cdc-fda-77f2b6db56fbeddcae045a03ccf122c4&amp;c=13926942623433203454&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Jul 2026 12:50:00 GMT",
+        "title": "Arizona primaries set the stage for contested fall races in a swing state",
+        "link": "https://www.npr.org/2026/07/21/nx-s1-5901065/midterms-primaries-arizona-elections",
+        "pubDate": "Tue, 21 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief",
+        "pubDate": "Tue, 21 Jul 2026 04:44:49 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+        "link": "https://www.npr.org/2026/07/21/nx-s1-5901086/fda-still-focused-on-taylor-farms-lettuce-as-cyclospora-source-despite-retracted-test",
+        "pubDate": "Tue, 21 Jul 2026 04:44:15 -0400",
         "category": "health"
       },
       {
-        "title": "How Spain built a soccer identity that conquered the world",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5f12da3324427f841bb92356ed8215&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-spain-soccer-dominance-84c8ec052e4135c1e1e93d58ddd445bc&amp;c=5681312022249172977&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Jul 2026 07:20:00 GMT",
-        "category": "world"
-      }
-    ],
-    "npr": [
+        "title": "Spain&apos;s World Cup champions return home for parade in front of almost 2 million",
+        "link": "https://www.npr.org/2026/07/21/nx-s1-5901832/spain-world-cup-champions-return-home",
+        "pubDate": "Tue, 21 Jul 2026 03:09:22 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Powerball ticket sales begin Tuesday in the United Kingdom",
         "link": "https://www.npr.org/2026/07/21/nx-s1-5901828/powerball-begin-united-kingdom",
         "pubDate": "Tue, 21 Jul 2026 01:28:53 -0400",
-        "category": "world"
-      },
-      {
-        "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-        "link": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test",
-        "pubDate": "Mon, 20 Jul 2026 20:36:28 -0400",
-        "category": "us"
-      },
-      {
-        "title": "At Mississippi funeral, Civil Rights leaders call for justice for Nolan Wells, 18",
-        "link": "https://www.npr.org/2026/07/20/nx-s1-5897559/nolan-wells-sharpton-crump-funeral",
-        "pubDate": "Mon, 20 Jul 2026 16:55:52 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "World Cup: Spain&apos;s homecoming heroes",
-        "link": "https://www.npr.org/2026/07/20/nx-s1-5900868/world-cup-spains-homecoming-heroes",
-        "pubDate": "Mon, 20 Jul 2026 16:50:42 -0400",
         "category": "Top News"
       },
       {
@@ -59,113 +58,88 @@
         "category": "tech"
       },
       {
-        "title": "FDA retracts positive cyclospora test on Taylor Farms lettuce",
-        "link": "https://www.npr.org/2026/07/20/nx-s1-5900880/fda-retracts-positive-cyclospora-test-on-taylor-farms-lettuce",
-        "pubDate": "Mon, 20 Jul 2026 16:03:55 -0400",
-        "category": "health"
-      },
-      {
-        "title": "10 things that wowed us at the 2026 World Cup",
-        "link": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament",
-        "pubDate": "Mon, 20 Jul 2026 15:56:44 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Court ruling freezes Paramount-Warner Bros. merger for now",
         "link": "https://www.npr.org/2026/07/20/nx-s1-5900888/paramount-wbd-tro-restraining-lawsuit",
         "pubDate": "Mon, 20 Jul 2026 13:55:31 -0400",
         "category": "business"
-      },
-      {
-        "title": "India&apos;s Gen Z &apos;Cockroach People&apos;s Party&apos; started as satire but is serious about change",
-        "link": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests",
-        "pubDate": "Mon, 20 Jul 2026 12:36:04 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Putin meets North Korean foreign minister in diplomatic push",
-        "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
-        "pubDate": "Mon, 20 Jul 2026 09:18:51 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Man due in court charged with murder of Ann Widdecombe",
-        "link": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 06:26:07 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "VAT to be cut from household electricity bills in October",
         "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 06:23:16 GMT",
+        "pubDate": "Tue, 21 Jul 2026 10:07:38 GMT",
         "category": "business"
+      },
+      {
+        "title": "Cause of Ann Widdecombe's death not yet established, inquest hears",
+        "link": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Jul 2026 09:56:49 GMT",
+        "category": "Top News"
       },
       {
         "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
         "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 06:16:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Who's in Andy Burnham's cabinet?",
-        "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 06:03:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Chris Mason: Cull of Starmer allies as new chancellor faces crunching spending choices",
-        "link": "https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 05:30:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials",
-        "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 02:16:05 GMT",
-        "category": "us"
-      },
-      {
-        "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-        "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 02:07:48 GMT",
+        "pubDate": "Tue, 21 Jul 2026 09:48:20 GMT",
         "category": "Top News"
       },
       {
         "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
         "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 21 Jul 2026 00:34:47 GMT",
+        "pubDate": "Tue, 21 Jul 2026 09:16:21 GMT",
         "category": "world"
       },
       {
-        "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
-        "link": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 23:07:40 GMT",
+        "title": "AI minister role boosted but tech department axed in Burnham shake-up",
+        "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Jul 2026 09:15:55 GMT",
         "category": "tech"
       },
       {
-        "title": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
-        "link": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 20 Jul 2026 18:01:00 GMT",
+        "title": "Chris Mason: Starmer ally takes swipe at Burnham's first big policy",
+        "link": "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Jul 2026 09:00:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Who's in Andy Burnham's cabinet?",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Jul 2026 07:57:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+        "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Jul 2026 02:16:05 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
+        "link": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Jul 2026 00:16:08 GMT",
         "category": "health"
+      },
+      {
+        "title": "Is UK facing drought for second summer in a row?",
+        "link": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 21 Jul 2026 00:12:17 GMT",
+        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Munich Re reviewing P&amp;C reinsurance revenue outlook, Boersen-Zeitung newspaper reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5f1322318e4d71998073fc729a6287&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmunich-re-reviewing-pc-reinsurance-revenue-outlook-boersen-zeitung-newspaper-2026-07-21%2f&amp;c=2898245532074144356&amp;mkt=en-us",
-        "pubDate": "Mon, 20 Jul 2026 23:07:00 GMT",
-        "category": "business"
+        "title": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5f4a39bf05467f9b2b180dbd5c551a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-launches-iran-strikes-ninth-day-another-american-confirmed-killed-2026-07-20%2f&amp;c=74808980053530930&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 01:51:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Scores celebrate Spain's 'Kings of the World' win in exhilarated Madrid",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a5f4a3620914d8e9dd9ba3b57192c38&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fscores-celebrate-spains-kings-world-win-exhilarated-madrid-2026-07-20%2f&amp;c=10626827156803713735&amp;mkt=en-us",
+        "pubDate": "Tue, 21 Jul 2026 00:21:00 GMT",
+        "category": "world"
       }
     ],
-    "markets": [
-      {
-        "title": "General Motors is set to report earnings before the bell. Here&apos;s what Wall Street expects",
-        "link": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
-        "pubDate": "Tue, 21 Jul 2026 04:01:01 GMT",
-        "category": "business"
-      }
-    ]
+    "markets": []
   }
 }
