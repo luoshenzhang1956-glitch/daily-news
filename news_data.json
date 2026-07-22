@@ -1,19 +1,44 @@
 {
-  "updated_at": "2026-07-22T21:17:20.023606",
+  "updated_at": "2026-07-22T23:12:15.558108",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Madonna, BTS and more World Cup halftime performers see jump in song streams, Justin Bieber up 110%",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a614d8f28064342954319177fa73956&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-halftime-justin-bieber-madonna-bts-6c6a045f28ea1e884199abac7750b785&amp;c=4496633702986587804&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Jul 2026 13:22:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US and Saudi Arabia sign new nuclear agreement that could pave way for kingdom to enrich uranium",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a614d931c6c45099c0f966cd9529c3d&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-saudi-arabia-nuclear-program-uranium-15fdb262bb9c83d0d959ca96b7561c12&amp;c=15523767424477574469&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Jul 2026 06:48:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "House passes Pentagon funding and limits on stock trades in a last dash before recess",
+        "link": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation",
+        "pubDate": "Wed, 22 Jul 2026 17:51:19 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "In South Dakota, public media endures a year after federal funding was wiped out",
+        "link": "https://www.npr.org/2026/07/22/nx-s1-5903146/in-south-dakota-public-media-endures-a-year-after-federal-funding-was-wiped-out",
+        "pubDate": "Wed, 22 Jul 2026 17:21:35 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
+        "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
+        "pubDate": "Wed, 22 Jul 2026 17:17:24 -0400",
+        "category": "world"
+      },
       {
         "title": "Tennessee farmers pivot to other crops as looming federal ban on hemp approaches",
         "link": "https://www.npr.org/2026/07/22/nx-s1-5879381-e1/tennessee-farmers-pivot-to-other-crops-as-looming-federal-ban-on-hemp-approaches",
         "pubDate": "Wed, 22 Jul 2026 15:58:57 -0400",
         "category": "us"
-      },
-      {
-        "title": "Why the U.S. and Saudi Arabia signed a nuclear agreement",
-        "link": "https://www.npr.org/2026/07/22/nx-s1-5903077/why-the-u-s-and-saudi-arabia-signed-a-nuclear-agreement",
-        "pubDate": "Wed, 22 Jul 2026 15:58:55 -0400",
-        "category": "world"
       },
       {
         "title": "What to know about Ukraine&apos;s military shakeup",
@@ -50,32 +75,26 @@
         "link": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
         "pubDate": "Wed, 22 Jul 2026 09:45:35 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
-        "link": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
-        "pubDate": "Wed, 22 Jul 2026 07:24:22 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says",
-        "link": "https://www.npr.org/2026/07/22/nx-s1-5902333/health-insurance-jobs-gallup",
-        "pubDate": "Wed, 22 Jul 2026 00:01:00 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
-        "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Jul 2026 20:05:31 GMT",
-        "category": "world"
+        "title": "Google burning through cash with spiralling AI costs",
+        "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Jul 2026 23:02:32 GMT",
+        "category": "tech"
       },
       {
-        "title": "Teenager drops social media addiction lawsuit against Meta",
-        "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Jul 2026 19:04:47 GMT",
-        "category": "tech"
+        "title": "Glasgow set to welcome the world for scaled back Commonwealth Games",
+        "link": "https://www.bbc.co.uk/news/articles/czj8zjnzw4po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Jul 2026 21:51:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US signs landmark nuclear deal with Saudi Arabia",
+        "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Jul 2026 21:31:25 GMT",
+        "category": "world"
       },
       {
         "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water quality tests",
@@ -93,12 +112,6 @@
         "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
         "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 22 Jul 2026 14:52:25 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prince George enjoys coastal fun in new video as he becomes a teenager",
-        "link": "https://www.bbc.co.uk/news/articles/cm2ge7z0708o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Jul 2026 14:42:32 GMT",
         "category": "Top News"
       },
       {
@@ -128,10 +141,10 @@
     ],
     "reuters": [
       {
-        "title": "S&amp;P 500, Nasdaq close lower as investors await technology earnings",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6133101f1a4b7abf199262e189659b&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fwall-st-futures-edge-lower-caution-builds-ahead-big-tech-earnings-2026-07-22%2f&amp;c=1229517515240112121&amp;mkt=en-us",
-        "pubDate": "Wed, 22 Jul 2026 02:58:00 GMT",
-        "category": "tech"
+        "title": "Casino operator Las Vegas Sands quarterly profit, revenue slip on weak Macau business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a614deb974f46fc94139925b521b329&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fcasino-operator-las-vegas-sands-quarterly-profit-revenue-slip-weak-macau-2026-07-22%2f&amp;c=15091347725041114845&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Jul 2026 14:10:00 GMT",
+        "category": "business"
       }
     ],
     "markets": []
