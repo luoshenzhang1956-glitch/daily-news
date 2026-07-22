@@ -1,38 +1,25 @@
 {
-  "updated_at": "2026-07-22T19:29:43.489873",
+  "updated_at": "2026-07-22T21:17:20.023606",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Oil prices rise another 3%, while Wall Street drifts in mixed trading",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6119b1994c4339a073c272afac2598&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-iran-ai-trump-207dfa55d180fcc565420454178168c5&amp;c=5585648969859533071&amp;mkt=en-us",
-        "pubDate": "Wed, 22 Jul 2026 11:15:00 GMT",
-        "category": "tech"
+        "title": "Tennessee farmers pivot to other crops as looming federal ban on hemp approaches",
+        "link": "https://www.npr.org/2026/07/22/nx-s1-5879381-e1/tennessee-farmers-pivot-to-other-crops-as-looming-federal-ban-on-hemp-approaches",
+        "pubDate": "Wed, 22 Jul 2026 15:58:57 -0400",
+        "category": "us"
       },
       {
-        "title": "Author Charles Gaines, who popularized the world of bodybuilding with \u2018Pumping Iron,\u2019 dies at 84",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a611997586d4eaabaa8a42bd74656f5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcharles-gaines-dead-pumping-ab439b518f8e5619b762fe0aaaa6a82b&amp;c=5895540671830735310&amp;mkt=en-us",
-        "pubDate": "Wed, 22 Jul 2026 10:25:00 GMT",
+        "title": "Why the U.S. and Saudi Arabia signed a nuclear agreement",
+        "link": "https://www.npr.org/2026/07/22/nx-s1-5903077/why-the-u-s-and-saudi-arabia-signed-a-nuclear-agreement",
+        "pubDate": "Wed, 22 Jul 2026 15:58:55 -0400",
         "category": "world"
       },
-      {
-        "title": "Congo\u2019s Ebola outbreak has killed over 1,000 people",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6119b752f545ebab335632ddf91d72&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-bundibugyo-ituri-154413267e8816b82c7561c352b90321&amp;c=15264500883657064257&amp;mkt=en-us",
-        "pubDate": "Wed, 22 Jul 2026 03:09:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "June 1 trial date set for Venezuela\u2019s Nicol&#225;s Maduro in his US drug trafficking case",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a61199b7f744208ad69c90ea132d46c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmaduro-venezuela-criminal-case-f90603d36d36a88837f485dd5b2698b5&amp;c=8263293968841244834&amp;mkt=en-us",
-        "pubDate": "Tue, 21 Jul 2026 21:03:00 GMT",
-        "category": "us"
-      }
-    ],
-    "npr": [
       {
         "title": "What to know about Ukraine&apos;s military shakeup",
         "link": "https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy",
         "pubDate": "Wed, 22 Jul 2026 14:01:18 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "A strange transmissible cancer is spreading through the catfish in this lake",
@@ -50,7 +37,7 @@
         "title": "People are watching the Reflecting Pool like reality TV. What does that say about us?",
         "link": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers",
         "pubDate": "Wed, 22 Jul 2026 11:41:39 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Independent autopsy &apos;inconclusive&apos; on cause of death for 18-year-old Nolan Wells in Mississippi",
@@ -71,18 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Her son was killed by ICE at a traffic stop. She says she&apos;s still waiting for justice",
-        "link": "https://www.npr.org/2026/07/22/nx-s1-5900933/ruben-ray-martinez-ice-shooting-texas-maine",
-        "pubDate": "Wed, 22 Jul 2026 07:20:01 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
-        "link": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
-        "pubDate": "Wed, 22 Jul 2026 06:46:01 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says",
         "link": "https://www.npr.org/2026/07/22/nx-s1-5902333/health-insurance-jobs-gallup",
         "pubDate": "Wed, 22 Jul 2026 00:01:00 -0400",
@@ -90,6 +65,12 @@
       }
     ],
     "bbc": [
+      {
+        "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+        "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 22 Jul 2026 20:05:31 GMT",
+        "category": "world"
+      },
       {
         "title": "Teenager drops social media addiction lawsuit against Meta",
         "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&amp;at_campaign=rss",
@@ -113,12 +94,6 @@
         "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 22 Jul 2026 14:52:25 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
-        "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 22 Jul 2026 14:49:12 GMT",
-        "category": "world"
       },
       {
         "title": "Prince George enjoys coastal fun in new video as he becomes a teenager",
@@ -153,16 +128,10 @@
     ],
     "reuters": [
       {
-        "title": "Trump attends return of US soldiers killed in Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6119cb0b6d4813b03fe2f93ae1e2f9&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW008022072026RP1%2f&amp;c=92461009824534103&amp;mkt=en-us",
-        "pubDate": "Wed, 22 Jul 2026 11:14:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Vozinha, Haaland named in fan-voted World Cup dream team",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6119c9d2fb412db42d722cac47431d&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fvozinha-haaland-named-fan-voted-world-cup-dream-team-2026-07-22%2f&amp;c=10736320201050571281&amp;mkt=en-us",
-        "pubDate": "Wed, 22 Jul 2026 11:13:00 GMT",
-        "category": "world"
+        "title": "S&amp;P 500, Nasdaq close lower as investors await technology earnings",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6133101f1a4b7abf199262e189659b&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fwall-st-futures-edge-lower-caution-builds-ahead-big-tech-earnings-2026-07-22%2f&amp;c=1229517515240112121&amp;mkt=en-us",
+        "pubDate": "Wed, 22 Jul 2026 02:58:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": []
