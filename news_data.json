@@ -1,21 +1,39 @@
 {
-  "updated_at": "2026-07-23T21:13:08.215136",
+  "updated_at": "2026-07-23T23:03:02.937096",
   "news": {
     "ap": [
       {
+        "title": "Ford to partner with Chinese automaker Geely in Spain in new joint venture",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a629d5014d0409ba023f92b8f9fd391&amp;url=https%3a%2f%2fapnews.com%2farticle%2fford-spain-geely-electric-vehicles-auto-market-475494783c415901cd031376220e551f&amp;c=10952450793668637805&amp;mkt=en-us",
+        "pubDate": "Thu, 23 Jul 2026 12:33:00 GMT",
+        "category": "business"
+      },
+      {
         "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a628333d87343c4a36abd1a8add988f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e&amp;c=7234575253178287051&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a629d4c9da447bcb23e49cec40bd3e8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e&amp;c=7234575253178287051&amp;mkt=en-us",
         "pubDate": "Thu, 23 Jul 2026 09:42:00 GMT",
         "category": "us"
       },
       {
-        "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6283352d3c4513b7c5576e47a9eaef&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-iran-trump-ai-inflation-45b9165d6c518f5bea668b6ba7a89838&amp;c=11694657452304097364&amp;mkt=en-us",
-        "pubDate": "Wed, 22 Jul 2026 22:25:00 GMT",
-        "category": "business"
+        "title": "AI models\u2019 breakout from human control brings a told-you-so moment for technology researchers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a629d53a20a40f0b72c09eabebed759&amp;url=https%3a%2f%2fapnews.com%2farticle%2fopenai-hugging-face-hacking-ai-model-708cb598bc1e33cef560e7196adb2afa&amp;c=14544633793931795480&amp;mkt=en-us",
+        "pubDate": "Thu, 23 Jul 2026 03:23:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
+      {
+        "title": "Trump to impose double-digit tariffs on dozens of countries",
+        "link": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country",
+        "pubDate": "Thu, 23 Jul 2026 18:06:50 -0400",
+        "category": "us"
+      },
+      {
+        "title": "How to keep an ancient text interesting to students? Make it a summer blockbuster",
+        "link": "https://www.npr.org/2026/07/23/nx-s1-5903075/odyssey-movie-english-teachers-school",
+        "pubDate": "Thu, 23 Jul 2026 16:37:47 -0400",
+        "category": "Top News"
+      },
       {
         "title": "A town renamed its festival &apos;AI Love Irondale Day.&apos; Then came the comments",
         "link": "https://www.npr.org/2026/07/23/nx-s1-5896481-e1/a-town-renamed-its-festival-ai-love-irondale-day-then-came-the-comments",
@@ -23,10 +41,10 @@
         "category": "business"
       },
       {
-        "title": "Questions remain after fatal police shooting in Madison, Wisconsin",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5904536/questions-remain-after-fatal-police-shooting-in-madison-wisconsin",
-        "pubDate": "Thu, 23 Jul 2026 16:36:34 -0400",
-        "category": "us"
+        "title": "Egyptian warrior princesses, ancient avocados, and more science news",
+        "link": "https://www.npr.org/2026/07/23/nx-s1-5897598/egyptian-warrior-princesses-ancient-avocados-and-more-science-news",
+        "pubDate": "Thu, 23 Jul 2026 16:36:23 -0400",
+        "category": "Top News"
       },
       {
         "title": "Trump cuts target federal advisory boards. What does it mean for agencies like NASA?",
@@ -47,22 +65,10 @@
         "category": "Top News"
       },
       {
-        "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote",
-        "pubDate": "Thu, 23 Jul 2026 13:35:02 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "In a first, Chinese woman wins the prestigious Fields Medal",
         "link": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
         "pubDate": "Thu, 23 Jul 2026 10:56:47 -0400",
         "category": "world"
-      },
-      {
-        "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
-        "link": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
-        "pubDate": "Thu, 23 Jul 2026 10:12:45 -0400",
-        "category": "Top News"
       },
       {
         "title": "Get into med school in the graphic memoir &apos;See One, Do One, Teach One&apos;",
@@ -79,22 +85,28 @@
     ],
     "bbc": [
       {
-        "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-        "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Jul 2026 20:58:35 GMT",
+        "title": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 23 Jul 2026 22:34:36 GMT",
         "category": "business"
       },
       {
-        "title": "Google and Tesla shares plunge as AI spending rattles markets",
-        "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Jul 2026 20:42:33 GMT",
-        "category": "tech"
+        "title": "King's Tardis entrance as Commonwealth Games begin",
+        "link": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 23 Jul 2026 21:53:02 GMT",
+        "category": "Top News"
       },
       {
-        "title": "UK 'ready to defend itself' after Iran says bases are 'legitimate targets'",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Jul 2026 20:00:27 GMT",
+        "title": "PM to spend first day working from northern branch of No 10",
+        "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 23 Jul 2026 21:31:03 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+        "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 23 Jul 2026 20:58:35 GMT",
+        "category": "tech"
       },
       {
         "title": "Burnham pauses plan to release some prisoners early from September",
@@ -121,12 +133,6 @@
         "category": "world"
       },
       {
-        "title": "Senior ministers and aides set to work from No 10 North",
-        "link": "https://www.bbc.co.uk/news/articles/czrjl0nev3no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Jul 2026 14:46:01 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Rayner rules out repaying severance cash after making cabinet return",
         "link": "https://www.bbc.co.uk/news/articles/cx27mg0erd3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 23 Jul 2026 13:59:23 GMT",
@@ -139,80 +145,31 @@
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a62835f7a1e4ac9bcabd99de3b26a48&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-treasury-finds-no-trading-partner-manipulated-currency-trade-advantage-2025-2026-07-23%2f&amp;c=1042275435948839966&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 13:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Intel forecast crushes estimates as AI boom boosts chip demand; shares jump",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a62835f7a1e4ac9bcabd99de3b26a48&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fintel-forecasts-upbeat-quarterly-revenue-profit-strong-ai-driven-server-chip-2026-07-23%2f&amp;c=8074529548948898380&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 13:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US agency drops bid to force Penn to provide names in antisemitism probe",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a62835f7a1e4ac9bcabd99de3b26a48&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-agency-drops-bid-force-penn-provide-names-antisemitism-probe-2026-07-23%2f&amp;c=8967063197074043619&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 12:42:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump vows to punish Iran for Houthi attacks in Red Sea; oil surges over $100",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a62835f7a1e4ac9bcabd99de3b26a48&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fhouthis-say-they-attacked-saudi-tankers-red-sea-threatening-new-chokepoint-iran-2026-07-23%2f&amp;c=17734518608715806865&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 10:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Should world leaders have a bedtime?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a628360352b452a8c249f18217162dd&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRCV00GSVQ%2f&amp;c=15701197141441351354&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 06:28:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Wall St falls as tech earnings spark AI spending worries and oil hits $100",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a62835f7a1e4ac9bcabd99de3b26a48&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fwall-st-futures-ease-big-tech-results-revive-ai-spending-worries-oil-jumps-2026-07-23%2f&amp;c=14873035322128471003&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 03:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's consumer finance watchdog pick pledges 'open mind' on plans to fire most of the agency's workforce",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a62835f7a1e4ac9bcabd99de3b26a48&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2ftrumps-new-pick-run-consumer-finance-watchdog-face-senate-2026-07-23%2f&amp;c=13028748247102833923&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 03:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US prosecutors to drop New York Times subpoenas over Trump plane reporting",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a62835f7a1e4ac9bcabd99de3b26a48&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-judge-weigh-new-york-times-subpoenas-over-trump-plane-reporting-2026-07-23%2f&amp;c=15821955219430173918&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 03:09:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Warren accuses AI firms of trying to curb oversight in trade accord",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a62835f7a1e4ac9bcabd99de3b26a48&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fwarren-accuses-ai-firms-trying-curb-oversight-trade-accord-2026-07-23%2f&amp;c=13046865743951931749&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 03:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tesla's once-bullish tone on robotaxis shifts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a62835f7a1e4ac9bcabd99de3b26a48&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fteslas-once-bullish-tone-robotaxis-shifts-2026-07-23%2f&amp;c=16121986954285282313&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 02:36:00 GMT",
-        "category": "Top News"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
         "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
         "link": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
-        "pubDate": "Thu, 23 Jul 2026 21:02:34 GMT",
+        "pubDate": "Thu, 23 Jul 2026 21:56:31 GMT",
         "category": "tech"
       },
       {
-        "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
-        "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
-        "pubDate": "Thu, 23 Jul 2026 20:45:13 GMT",
-        "category": "business"
+        "title": "Dow drops 500 points as Brent crude surges above $100; Alphabet and Tesla tank: Live updates",
+        "link": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html",
+        "pubDate": "Thu, 23 Jul 2026 20:34:02 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Josh Brown says the stock market is \u2018broadening out.&apos; Here\u2019s how to play it",
+        "link": "https://www.cnbc.com/2026/07/23/josh-brown-says-the-stock-market-is-broadening-out-heres-how-to-play-it.html",
+        "pubDate": "Thu, 23 Jul 2026 19:12:19 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Cyclospora outbreak tests RFK Jr.&apos;s promise to overhaul food system, rebuild trust in CDC",
+        "link": "https://www.cnbc.com/2026/07/23/cyclospora-outbreak-tests-rfk-jr-response-funding-cuts.html",
+        "pubDate": "Thu, 23 Jul 2026 14:48:08 GMT",
+        "category": "health"
       }
     ]
   }
