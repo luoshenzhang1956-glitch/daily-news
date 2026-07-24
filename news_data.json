@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-07-24T03:21:50.566363",
+  "updated_at": "2026-07-24T06:32:31.103745",
   "news": {
     "ap": [
       {
-        "title": "AI models\u2019 breakout from human control brings a told-you-so moment for technology researchers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a62d98dc52c460aa76f87006c8f4e13&amp;url=https%3a%2f%2fapnews.com%2farticle%2fopenai-hugging-face-hacking-ai-model-708cb598bc1e33cef560e7196adb2afa&amp;c=14544633793931795480&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 03:23:00 GMT",
-        "category": "tech"
+        "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6306a9478b4175ac8df3eb72f2cc73&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e&amp;c=7234575253178287051&amp;mkt=en-us",
+        "pubDate": "Thu, 23 Jul 2026 09:42:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Indian activist Wangchuk ends 26-day hunger strike as &apos;Cockroach&apos; protesters vow to press on",
+        "link": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
+        "pubDate": "Fri, 24 Jul 2026 01:56:15 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
+        "link": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
+        "pubDate": "Fri, 24 Jul 2026 01:45:47 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Justice Dept. drops &apos;New York Times&apos; subpoenas under pressure from judge",
+        "link": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
+        "pubDate": "Thu, 23 Jul 2026 23:31:19 -0400",
+        "category": "business"
+      },
       {
         "title": "Trump to impose double-digit tariffs on dozens of countries",
         "link": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country",
@@ -21,12 +39,6 @@
         "link": "https://www.npr.org/2026/07/23/nx-s1-5903075/odyssey-movie-english-teachers-school",
         "pubDate": "Thu, 23 Jul 2026 16:37:47 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "A town renamed its festival &apos;AI Love Irondale Day.&apos; Then came the comments",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5896481-e1/a-town-renamed-its-festival-ai-love-irondale-day-then-came-the-comments",
-        "pubDate": "Thu, 23 Jul 2026 16:36:35 -0400",
-        "category": "business"
       },
       {
         "title": "Egyptian warrior princesses, ancient avocados, and more science news",
@@ -47,36 +59,42 @@
         "category": "Top News"
       },
       {
-        "title": "Trump allies are poised to weaken protections for historic sites \u2014 not just in D.C.",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council",
-        "pubDate": "Thu, 23 Jul 2026 16:14:58 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "In a first, Chinese woman wins the prestigious Fields Medal",
-        "link": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
-        "pubDate": "Thu, 23 Jul 2026 10:56:47 -0400",
-        "category": "world"
-      },
-      {
         "title": "Get into med school in the graphic memoir &apos;See One, Do One, Teach One&apos;",
         "link": "https://www.npr.org/2026/07/23/nx-s1-5901975/med-school-graphic-memoir-grace-farris",
         "pubDate": "Thu, 23 Jul 2026 08:36:29 -0400",
         "category": "health"
       },
       {
-        "title": "OpenAI says AI models hacked into another AI company without being instructed",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5903083/openai-says-ai-models-hacked-into-another-ai-company-without-being-instructed",
-        "pubDate": "Thu, 23 Jul 2026 04:44:09 -0400",
+        "title": "A town renamed its festival &apos;AI Love Irondale Day.&apos; Then came the comments",
+        "link": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day",
+        "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
         "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "title": "US hits dozens of trading partners with new wave of tariffs",
         "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Jul 2026 02:10:00 GMT",
+        "pubDate": "Fri, 24 Jul 2026 06:12:47 GMT",
         "category": "world"
+      },
+      {
+        "title": "Fifty women come forward saying they were pressured into swinging",
+        "link": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Jul 2026 05:01:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Evidence lacking' for mental health monitoring tech",
+        "link": "https://www.bbc.co.uk/news/articles/c7vgd11d60do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Jul 2026 04:48:36 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Heat health alerts issued in parts of UK as rain returns for some this weekend",
+        "link": "https://www.bbc.co.uk/weather/articles/c75gze7427vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Jul 2026 03:29:52 GMT",
+        "category": "Top News"
       },
       {
         "title": "PM to spend first day working from northern branch of No 10",
@@ -91,7 +109,7 @@
         "category": "tech"
       },
       {
-        "title": "UK complacent about war threat, warns defence boss",
+        "title": "UK complacent about war threat, warns BAE boss",
         "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 23 Jul 2026 23:04:19 GMT",
         "category": "business"
@@ -109,43 +127,56 @@
         "category": "Top News"
       },
       {
-        "title": "UK 'ready to defend itself' after Iran says bases are 'legitimate targets'",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1e2542wno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Jul 2026 20:00:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Burnham pauses plan to release some prisoners early from September",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Jul 2026 18:17:54 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Saudis must recognise Israel for nuclear deal, says Trump",
         "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 23 Jul 2026 17:58:02 GMT",
         "category": "us"
-      },
-      {
-        "title": "Mum and daughter who died at beach were trying to save boy, 7",
-        "link": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Jul 2026 17:23:21 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "World Cup helps propel Peacock to record subscribers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6306ac966941eb9f60304564caa00a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fworld-cup-helps-propel-peacock-record-subscribers--flm-2026-07-24%2f&amp;c=3812130930107500849&amp;mkt=en-us",
+        "pubDate": "Thu, 23 Jul 2026 17:00:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trump imposes forced labor duties on 60 trading partners as 10% US tariffs expire",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6306b3201f44d08b4f9b00b18d4209&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-imposes-forced-labor-duties-60-trading-partners-as-10-us-tariffs-expire-2026-07-24%2f&amp;c=7523605282535332014&amp;mkt=en-us",
+        "pubDate": "Thu, 23 Jul 2026 17:00:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "China\u2019s memory chip makers ride AI boom to new power \u2014 and U.S. scrutiny",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6306c4dca940f8b336d0eca13fb796&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinas-memory-chip-makers-ride-ai-boom-new-power-us-scrutiny-2026-07-24%2f&amp;c=12738467109660060192&amp;mkt=en-us",
+        "pubDate": "Thu, 23 Jul 2026 17:00:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Temasek-backed Manipal Health seeks $8 billion valuation in India IPO",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6306ccb6a747488ddf9e9bdccf778f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2ftemasek-backed-manipal-health-seeks-8-billion-valuation-india-ipo-2026-07-24%2f&amp;c=15014465527710382604&amp;mkt=en-us",
+        "pubDate": "Thu, 23 Jul 2026 17:00:00 GMT",
+        "category": "health"
+      }
+    ],
     "markets": [
       {
         "title": "Trump&apos;s new global tariff draws rebukes from trade partners over forced-labor justification",
         "link": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
-        "pubDate": "Fri, 24 Jul 2026 03:15:46 GMT",
+        "pubDate": "Fri, 24 Jul 2026 05:47:21 GMT",
         "category": "world"
       },
       {
-        "title": "U.S., other nations back open-source AI with &apos;strong security&apos; at China summit",
-        "link": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
-        "pubDate": "Fri, 24 Jul 2026 02:42:21 GMT",
-        "category": "tech"
+        "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+        "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
+        "pubDate": "Thu, 23 Jul 2026 20:45:13 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Cyclospora outbreak tests RFK Jr.&apos;s promise to overhaul food system, rebuild trust in CDC",
+        "link": "https://www.cnbc.com/2026/07/23/cyclospora-outbreak-tests-rfk-jr-response-funding-cuts.html",
+        "pubDate": "Thu, 23 Jul 2026 14:48:08 GMT",
+        "category": "health"
       }
     ]
   }
