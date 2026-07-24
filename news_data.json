@@ -1,20 +1,74 @@
 {
-  "updated_at": "2026-07-24T06:32:31.103745",
+  "updated_at": "2026-07-24T10:27:01.489770",
   "news": {
     "ap": [
       {
-        "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6306a9478b4175ac8df3eb72f2cc73&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e&amp;c=7234575253178287051&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 09:42:00 GMT",
+        "title": "Tech redefining modern warfare: from autonomous counter-strike systems to unmanned stealth drones",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a633d50f7af48c29a0bc83de9d048c2&amp;url=https%3a%2f%2fapnews.com%2fvideo%2ftech-redefining-modern-warfare-from-autonomous-counter-strike-systems-to-unmanned-stealth-drones-54063a6d6262449e999277049669657f&amp;c=10011954613386931024&amp;mkt=en-us",
+        "pubDate": "Fri, 24 Jul 2026 02:23:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Chairman of South Korean tech giant SK ordered to pay $640 million in divorce case",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a633d4cd48d4333a38cf67e28fa4944&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsouth-korea-sk-chey-roh-divorce-court-7e69121237b47bb06129a0374842be55&amp;c=13658750023687102860&amp;mkt=en-us",
+        "pubDate": "Fri, 24 Jul 2026 01:46:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "4 Palestinians and 1 Israeli dead after West Bank shooting",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a633d5380f74985a8de279d2b127841&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-palestinians-west-bank-violence-settlers-c9394defe87c7529655d9b23cab58cdc&amp;c=1277852931763479199&amp;mkt=en-us",
+        "pubDate": "Fri, 24 Jul 2026 00:08:00 GMT",
         "category": "health"
       }
     ],
     "npr": [
       {
+        "title": "What animal is the deformed-but-adorable Jimothy? The quiz knows \u2014 do you?",
+        "link": "https://www.npr.org/2026/07/24/g-s1-134821/jimothy-ai-uk-mamdani-strait-iran-news-quiz",
+        "pubDate": "Fri, 24 Jul 2026 05:01:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Netflix viewers the world over are binge-watching South African series &apos;The Polygamist.&apos; Here&apos;s why",
+        "link": "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist",
+        "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Trump refuses to give up on tariffs - a pillar of his economic legacy",
+        "link": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada",
+        "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "West Virginia paid digital nomads to move there during COVID. Many are staying",
+        "link": "https://www.npr.org/2026/07/24/nx-s1-5869402/remote-work-west-virginia-cash-incentive",
+        "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Video: Scientists watch orcas ram a sunfish so hard it explodes",
+        "link": "https://www.npr.org/2026/07/24/nx-s1-5905327/orcas-ram-sunfish-hard-explodes",
+        "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief",
+        "pubDate": "Fri, 24 Jul 2026 04:45:17 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "15 years later, is the FDA&apos;s produce safety overhaul working?",
+        "link": "https://www.npr.org/2026/07/24/nx-s1-5903267/15-years-later-is-the-fdas-produce-safety-overhaul-working",
+        "pubDate": "Fri, 24 Jul 2026 04:44:12 -0400",
+        "category": "health"
+      },
+      {
         "title": "Indian activist Wangchuk ends 26-day hunger strike as &apos;Cockroach&apos; protesters vow to press on",
         "link": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
         "pubDate": "Fri, 24 Jul 2026 01:56:15 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
@@ -27,59 +81,47 @@
         "link": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
         "pubDate": "Thu, 23 Jul 2026 23:31:19 -0400",
         "category": "business"
-      },
-      {
-        "title": "Trump to impose double-digit tariffs on dozens of countries",
-        "link": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country",
-        "pubDate": "Thu, 23 Jul 2026 18:06:50 -0400",
-        "category": "us"
-      },
-      {
-        "title": "How to keep an ancient text interesting to students? Make it a summer blockbuster",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5903075/odyssey-movie-english-teachers-school",
-        "pubDate": "Thu, 23 Jul 2026 16:37:47 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Egyptian warrior princesses, ancient avocados, and more science news",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5897598/egyptian-warrior-princesses-ancient-avocados-and-more-science-news",
-        "pubDate": "Thu, 23 Jul 2026 16:36:23 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump cuts target federal advisory boards. What does it mean for agencies like NASA?",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5869732/trump-cuts-target-federal-advisory-boards-what-does-it-mean-for-agencies-like-nasa",
-        "pubDate": "Thu, 23 Jul 2026 16:33:52 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Invasive species cause more harm in the Global South",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5902194/invasive-species-cause-more-harm-in-the-global-south",
-        "pubDate": "Thu, 23 Jul 2026 16:33:18 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Get into med school in the graphic memoir &apos;See One, Do One, Teach One&apos;",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5901975/med-school-graphic-memoir-grace-farris",
-        "pubDate": "Thu, 23 Jul 2026 08:36:29 -0400",
-        "category": "health"
-      },
-      {
-        "title": "A town renamed its festival &apos;AI Love Irondale Day.&apos; Then came the comments",
-        "link": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day",
-        "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "US hits dozens of trading partners with new wave of tariffs",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Jul 2026 06:12:47 GMT",
+        "title": "Hero swimmer helped two children during West Mersea beach tragedy",
+        "link": "https://www.bbc.co.uk/news/articles/cly89wrmdxyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Jul 2026 10:20:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Southport killer Axel Rudakubana manipulating the system, families' lawyer says",
+        "link": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Jul 2026 10:08:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Angela Rayner rules out rent controls in England",
+        "link": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Jul 2026 10:01:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "They became best friends \u2013 then discovered they were brother and sister",
+        "link": "https://www.bbc.co.uk/news/articles/c4g397rl4nzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Jul 2026 09:52:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+        "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Jul 2026 09:22:11 GMT",
         "category": "world"
       },
       {
-        "title": "Fifty women come forward saying they were pressured into swinging",
+        "title": "US hits dozens of countries with new wave of tariffs",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Jul 2026 08:59:31 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Fifty women tell BBC they were pressured into having sex with strangers",
         "link": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 24 Jul 2026 05:01:19 GMT",
         "category": "Top News"
@@ -89,18 +131,6 @@
         "link": "https://www.bbc.co.uk/news/articles/c7vgd11d60do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 24 Jul 2026 04:48:36 GMT",
         "category": "health"
-      },
-      {
-        "title": "Heat health alerts issued in parts of UK as rain returns for some this weekend",
-        "link": "https://www.bbc.co.uk/weather/articles/c75gze7427vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Jul 2026 03:29:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "PM to spend first day working from northern branch of No 10",
-        "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Jul 2026 01:44:39 GMT",
-        "category": "Top News"
       },
       {
         "title": "Google fined \u20ac890m by EU for favouring its own apps over rivals",
@@ -113,65 +143,17 @@
         "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 23 Jul 2026 23:04:19 GMT",
         "category": "business"
-      },
-      {
-        "title": "UK mortgage rates rise to highest level for a month",
-        "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Jul 2026 23:02:10 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "King's Tardis entrance as Commonwealth Games begin",
-        "link": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Jul 2026 21:53:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-        "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 23 Jul 2026 17:58:02 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "World Cup helps propel Peacock to record subscribers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6306ac966941eb9f60304564caa00a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fworld-cup-helps-propel-peacock-record-subscribers--flm-2026-07-24%2f&amp;c=3812130930107500849&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 17:00:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Trump imposes forced labor duties on 60 trading partners as 10% US tariffs expire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6306b3201f44d08b4f9b00b18d4209&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-imposes-forced-labor-duties-60-trading-partners-as-10-us-tariffs-expire-2026-07-24%2f&amp;c=7523605282535332014&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 17:00:00 GMT",
+        "title": "US auto safety regulator denies petition seeking Tesla door-release defect probe",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a633d7671da4801b540b0ceb039e31b&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-auto-safety-regulator-denies-petition-seeking-tesla-door-release-defect-probe-2026-07-24%2f&amp;c=15092375433030578300&amp;mkt=en-us",
+        "pubDate": "Fri, 24 Jul 2026 03:00:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "China\u2019s memory chip makers ride AI boom to new power \u2014 and U.S. scrutiny",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6306c4dca940f8b336d0eca13fb796&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinas-memory-chip-makers-ride-ai-boom-new-power-us-scrutiny-2026-07-24%2f&amp;c=12738467109660060192&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 17:00:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Temasek-backed Manipal Health seeks $8 billion valuation in India IPO",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6306ccb6a747488ddf9e9bdccf778f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2ftemasek-backed-manipal-health-seeks-8-billion-valuation-india-ipo-2026-07-24%2f&amp;c=15014465527710382604&amp;mkt=en-us",
-        "pubDate": "Thu, 23 Jul 2026 17:00:00 GMT",
-        "category": "health"
       }
     ],
     "markets": [
-      {
-        "title": "Trump&apos;s new global tariff draws rebukes from trade partners over forced-labor justification",
-        "link": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
-        "pubDate": "Fri, 24 Jul 2026 05:47:21 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
-        "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
-        "pubDate": "Thu, 23 Jul 2026 20:45:13 GMT",
-        "category": "business"
-      },
       {
         "title": "Cyclospora outbreak tests RFK Jr.&apos;s promise to overhaul food system, rebuild trust in CDC",
         "link": "https://www.cnbc.com/2026/07/23/cyclospora-outbreak-tests-rfk-jr-response-funding-cuts.html",
