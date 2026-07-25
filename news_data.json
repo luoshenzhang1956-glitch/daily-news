@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T09:57:31.866973",
+  "updated_at": "2026-07-25T11:18:15.904729",
   "news": {
     "ap": [],
     "npr": [
@@ -66,16 +66,22 @@
     ],
     "bbc": [
       {
-        "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
+        "title": "Police declare 'major incident' over Cairngorms wildfire",
         "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 25 Jul 2026 07:08:41 GMT",
+        "pubDate": "Sat, 25 Jul 2026 10:51:01 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+        "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 25 Jul 2026 10:14:41 GMT",
+        "category": "tech"
       },
       {
         "title": "Trump takes swipes at press during White House Correspondents' Dinner",
         "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 25 Jul 2026 06:41:42 GMT",
-        "category": "Top News"
+        "category": "world"
       },
       {
         "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
@@ -84,28 +90,22 @@
         "category": "Top News"
       },
       {
-        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-        "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 25 Jul 2026 02:29:36 GMT",
-        "category": "world"
-      },
-      {
         "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
         "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 25 Jul 2026 02:14:50 GMT",
         "category": "us"
       },
       {
+        "title": "Long overdue, life-changing or frivolous: What you had to say about wedding rule changes",
+        "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 24 Jul 2026 23:31:11 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
         "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 24 Jul 2026 23:23:53 GMT",
         "category": "business"
-      },
-      {
-        "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-        "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Jul 2026 23:11:13 GMT",
-        "category": "tech"
       },
       {
         "title": "The pop band who went from playing for rescue dogs to selling out arenas",
@@ -126,7 +126,45 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Focus: Michigan battles massive outbreak as state reels from Trump cuts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a649b498cbb4513a63dd3057fe0ad06&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fmichigan-battles-massive-outbreak-state-reels-trump-cuts-2026-07-25%2f&amp;c=6953660502322082912&amp;mkt=en-us",
+        "pubDate": "Sat, 25 Jul 2026 03:06:00 GMT",
+        "category": "health"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Moody&apos;s says &apos;unprecedented&apos; AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+        "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+        "pubDate": "Fri, 24 Jul 2026 22:43:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+        "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+        "pubDate": "Fri, 24 Jul 2026 21:24:09 GMT",
+        "category": "business"
+      },
+      {
+        "title": "CDC says massive cyclospora outbreak is now in nine states",
+        "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+        "pubDate": "Fri, 24 Jul 2026 19:53:01 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Shortsighted stock market can no longer brush off war: &apos;It&apos;s too hard to ignore $100 oil&apos;",
+        "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+        "pubDate": "Fri, 24 Jul 2026 14:10:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Intel, Oracle, American Express &amp; more",
+        "link": "https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-premarket-intc-orcl-axp.html",
+        "pubDate": "Fri, 24 Jul 2026 12:54:48 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
