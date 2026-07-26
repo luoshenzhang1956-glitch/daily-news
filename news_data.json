@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-07-25T23:01:37.850127",
+  "updated_at": "2026-07-26T03:32:05.443015",
   "news": {
     "ap": [
       {
-        "title": "More health workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a653fc0a20d4da7bdb842b84b54f2ef&amp;url=https%3a%2f%2fapnews.com%2farticle%2febola-congo-strike-4e61d1c9ae80c892efa38db95a23dd9e&amp;c=9180638873616725077&amp;mkt=en-us",
-        "pubDate": "Sat, 25 Jul 2026 02:21:00 GMT",
-        "category": "health"
+        "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a657f478d2642438021ddf86bd753d1&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-trump-diplomacy-netanyahu-d491158a4c9a1d3429a87a6ed58f2f72&amp;c=9637791936337830925&amp;mkt=en-us",
+        "pubDate": "Sat, 25 Jul 2026 17:14:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
+      {
+        "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+        "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+        "pubDate": "Sat, 25 Jul 2026 21:10:56 -0400",
+        "category": "world"
+      },
+      {
+        "title": "France and Spain fires force more than 200,000 to flee homes",
+        "link": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+        "pubDate": "Sat, 25 Jul 2026 21:05:45 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Wildfire alert in the Western U.S. reaches its highest level",
         "link": "https://www.npr.org/2026/07/25/nx-s1-5905334/wildfire-alert-in-the-western-u-s-reaches-its-highest-level",
@@ -32,7 +44,7 @@
         "title": "India&apos;s &apos;cockroach&apos; movement ousts minister, but can Modi calm youth?",
         "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
         "pubDate": "Sat, 25 Jul 2026 10:48:22 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
@@ -57,21 +69,39 @@
         "link": "https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria",
         "pubDate": "Sat, 25 Jul 2026 07:51:44 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Trump is hellbent on tariffs. Here are 5 implications",
-        "link": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
-        "pubDate": "Sat, 25 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
-        "link": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race",
-        "pubDate": "Sat, 25 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Man charged with possession of explosive substance after bomb found in car",
+        "link": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 26 Jul 2026 01:46:13 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "More than 300,000 flee wildfires in France and Spain",
+        "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 26 Jul 2026 00:54:06 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Rental searches for pet friendly properties drop after law change",
+        "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 26 Jul 2026 00:00:49 GMT",
+        "category": "business"
+      },
+      {
+        "title": "What Love Island tells us about the changing face of dating",
+        "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 25 Jul 2026 23:31:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ramsay-Peaty in tears after missing out on gold again",
+        "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 25 Jul 2026 22:37:49 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Burnham to address social care, youth unemployment and devolution",
         "link": "https://www.bbc.co.uk/news/articles/cwylnl17w09o?at_medium=RSS&amp;at_campaign=rss",
@@ -91,24 +121,6 @@
         "category": "Top News"
       },
       {
-        "title": "India's 'cockroach' protest called off after education minister quits",
-        "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 25 Jul 2026 17:44:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "More than 250,000 flee wildfires in France and Spain",
-        "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 25 Jul 2026 17:13:40 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Tourists tell BBC how their holiday turned into race to escape fires",
-        "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 25 Jul 2026 14:18:32 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Trump takes swipes at press during White House Correspondents' Dinner",
         "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 25 Jul 2026 13:51:07 GMT",
@@ -119,21 +131,16 @@
         "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 25 Jul 2026 10:14:41 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Long overdue, life-changing or frivolous: What you had to say about wedding rule changes",
-        "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Jul 2026 23:31:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-        "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 24 Jul 2026 23:23:53 GMT",
-        "category": "business"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a657f6c9976434080792617b6b44022&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-vows-punish-iran-houthis-attacks-red-sea-2026-07-24%2f&amp;c=231514302517668496&amp;mkt=en-us",
+        "pubDate": "Sat, 25 Jul 2026 13:33:00 GMT",
+        "category": "us"
+      }
+    ],
     "markets": [
       {
         "title": "Here are 4 forces that drove a tough week for stocks",
@@ -142,10 +149,10 @@
         "category": "tech"
       },
       {
-        "title": "These stocks have momentum on their side heading into earnings, including Amazon",
-        "link": "https://www.cnbc.com/2026/07/25/amazon-other-stocks-with-momentum-heading-into-earnings.html",
-        "pubDate": "Sat, 25 Jul 2026 12:49:58 GMT",
-        "category": "us"
+        "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
+        "link": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+        "pubDate": "Sat, 25 Jul 2026 14:03:03 GMT",
+        "category": "world"
       }
     ]
   }
