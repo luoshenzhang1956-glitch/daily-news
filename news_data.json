@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-27T17:50:53.079166",
+  "updated_at": "2026-07-27T19:43:58.222314",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "McConnell remains in rehab and says he\u2019ll miss key Kentucky political event",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4a61da245739658dcd0fbb965a4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmitch-mcconnell-fall-polio-health-fancy-farm-0f22b78f636d962c548cd8505a854d8a&amp;c=12215823075669226898&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 09:51:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Stocks are drifting on Wall Street and crude oil prices drop 6% as Mideast tensions cool",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4a4c42c4097ac269299d7ff93ff&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-oil-rates-markets-cxmt-2b81f0e01bb318ae8d4281964f89f2f1&amp;c=4973140214986304783&amp;mkt=en-us",
+        "pubDate": "Sun, 26 Jul 2026 22:34:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
         "title": "The &apos;cockroach&apos; in the machine: How Gen Z is rattling South Asia&apos;s elites",
@@ -66,10 +79,28 @@
     ],
     "bbc": [
       {
+        "title": "Reform UK reporting Green leader Zack Polanski to police over Instagram post",
+        "link": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Jul 2026 19:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Police still searching for second suspect in fatal Seattle food festival shooting",
+        "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Jul 2026 19:23:08 GMT",
+        "category": "us"
+      },
+      {
         "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
         "link": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 17:30:23 GMT",
+        "pubDate": "Mon, 27 Jul 2026 18:49:54 GMT",
         "category": "business"
+      },
+      {
+        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+        "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Jul 2026 17:50:42 GMT",
+        "category": "world"
       },
       {
         "title": "Funeral director who left people unburied breached families' trust 'on industrial scale', court hears",
@@ -87,30 +118,12 @@
         "title": "Devastating European wildfires in maps - and how they're being tackled",
         "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 27 Jul 2026 15:59:27 GMT",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
         "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 27 Jul 2026 15:58:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-        "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 15:39:54 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Carly Simon reveals Parkinson's diagnosis",
-        "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 14:04:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
-        "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 11:50:13 GMT",
         "category": "Top News"
       },
       {
@@ -126,7 +139,75 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "France and Spain race to curb wildfires before new heatwave arrives",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4b99de943a6aa95e6e900e2feee&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2ffirefighters-battle-keep-blazes-away-frances-bordeaux-2026-07-27%2f&amp;c=5096455244539105088&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 12:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Marvel reveals Avengers Doomsday cast at Comic-Con",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4b99de943a6aa95e6e900e2feee&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW121027072026RP1%2f&amp;c=5729224233202995347&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 11:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Shot fired outside US consulate in Toronto for second time this year",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4c47f894e38bab91a545fae356a&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW120927072026RP1%2f&amp;c=6999612533008527062&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 10:51:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "US appeals court upholds Colorado congestion fee on rental cars",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4b99de943a6aa95e6e900e2feee&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-appeals-court-upholds-colorado-congestion-fee-rental-cars-2026-07-27%2f&amp;c=10866721979853518515&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 10:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says Fed should lower interest rates",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4b99de943a6aa95e6e900e2feee&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-says-fed-should-lower-interest-rates-2026-07-27%2f&amp;c=5109514071053562924&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 09:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sectors Up Close: 'Fintech is a threat' to big banks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4b99de943a6aa95e6e900e2feee&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW121927072026RP1%2f&amp;c=4487891265442233889&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 07:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pollution linked to French-British oil firm's Congo operations poses health risks, report says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4cfd05e4d7daa23070f0954da73&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fpollution-linked-french-british-oil-firms-congo-operations-poses-health-risks-2026-07-27%2f&amp;c=4897760455843458064&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 06:10:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4cbf9c2476baf9475bed324b11e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-accuses-us-ai-hegemonism-threatens-countermeasures-over-potential-probes-2026-07-27%2f&amp;c=17884208736144159672&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 05:18:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Expand Energy to beef up gas marketing business with $1.25 billion Twin Eagle deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4c9880b46119ca5ca344f083ea8&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fexpand-energy-acquire-twin-eagle-125-billion-deal-2026-07-27%2f&amp;c=12253239875915873005&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 04:10:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Trump says US and Tehran having 'good talks' as drones hit Iran's neighbours",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67b4b99de943a6aa95e6e900e2feee&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-says-it-still-controls-strait-not-seeking-talks-after-trump-halts-bombing-2026-07-27%2f&amp;c=10233062406837437715&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 02:46:00 GMT",
+        "category": "Top News"
+      }
+    ],
+    "markets": [
+      {
+        "title": "U.S. and Iran pause fighting, Trump dismisses concerns of dwindling stockpiles",
+        "link": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
+        "pubDate": "Mon, 27 Jul 2026 17:43:48 GMT",
+        "category": "world"
+      }
+    ]
   }
 }
