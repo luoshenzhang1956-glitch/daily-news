@@ -1,13 +1,50 @@
 {
-  "updated_at": "2026-07-27T21:18:33.228024",
+  "updated_at": "2026-07-27T23:10:32.132504",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Federal survey shows promising trends for youth mental health and drug use",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67e4ea7b1e46b792b187f0d9726f68&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmental-health-addiction-drugs-19d7638073fe40c7f36766b97e826349&amp;c=5915851885596035791&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 14:10:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Cardinals open 4-game series at home against the Cubs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67e4e85dec4807aae822ee68258ffa&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchicago-cubs-st-louis-cardinals-baseball-f872aa0ea92944e58c6976c4f15423c8&amp;c=10755122088545252894&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 01:01:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "Pakistan study suggests microbiome may influence preterm birth",
+        "link": "https://www.npr.org/2026/07/27/nx-s1-5899519/pakistan-study-suggests-microbiome-may-influence-preterm-birth",
+        "pubDate": "Mon, 27 Jul 2026 17:42:39 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Platner energized Maine&apos;s Democrats. Jackson&apos;s challenge will be to keep them engaged",
+        "link": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
+        "pubDate": "Mon, 27 Jul 2026 17:29:27 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Georgia&apos;s Okefenokee Swamp becomes a UNESCO World Heritage site",
+        "link": "https://www.npr.org/2026/07/27/nx-s1-5906359-e1/georgias-okefenokee-swamp-becomes-a-unesco-world-heritage-site",
+        "pubDate": "Mon, 27 Jul 2026 17:22:33 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Authors have mixed feelings about the $1.5 billion Anthropic copyright infringement settlement",
+        "link": "https://www.npr.org/2026/07/27/nx-s1-5904606/anthropic-vs-bartz-ai-copyright-lawsuit-pros-cons",
+        "pubDate": "Mon, 27 Jul 2026 16:49:57 -0400",
+        "category": "tech"
+      },
       {
         "title": "Authors wary of content ownership despite court ruling on Anthropic case",
         "link": "https://www.npr.org/2026/07/27/nx-s1-5904606/authors-wary-of-content-ownership-despite-court-ruling-on-anthropic-case",
         "pubDate": "Mon, 27 Jul 2026 16:49:57 -0400",
-        "category": "tech"
+        "category": "Top News"
       },
       {
         "title": "Pentagon changes how it releases casualty data as Iran conflict continues",
@@ -25,7 +62,7 @@
         "title": "The &apos;cockroach&apos; in the machine: How Gen Z is rattling South Asia&apos;s elites",
         "link": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
         "pubDate": "Mon, 27 Jul 2026 12:54:28 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
@@ -34,37 +71,43 @@
         "category": "Top News"
       },
       {
-        "title": "France continues to fight devastating wildfires, while progress is made in Spain",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
-        "pubDate": "Mon, 27 Jul 2026 06:50:09 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Kalshi attacks a Wisconsin law banning election bets as &apos;voter suppression&apos;",
         "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
         "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
         "category": "business"
-      },
-      {
-        "title": "Baltimore will turn 911 into more than just an emergency number",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
-        "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "In Memphis, an &apos;anti-crime&apos; task force quietly turned into an ICE crackdown",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
-        "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5901889/morning-news-brief",
-        "pubDate": "Mon, 27 Jul 2026 04:43:38 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Is it time to stop using glue and labels on paper?",
+        "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Jul 2026 23:00:06 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+        "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Jul 2026 22:58:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New technical education routes to be offered at 14 in England",
+        "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Jul 2026 22:25:31 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Love Island UK crowns winners of twist-filled series",
+        "link": "https://www.bbc.co.uk/news/articles/c0rd5l4xlvro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Jul 2026 22:11:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
+        "link": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Jul 2026 21:57:08 GMT",
+        "category": "Top News"
+      },
       {
         "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
         "link": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&amp;at_campaign=rss",
@@ -78,27 +121,15 @@
         "category": "world"
       },
       {
-        "title": "Reform UK reports Zack Polanski to police over guillotine t-shirt post",
-        "link": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 20:00:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
-        "link": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 18:49:54 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Funeral director who left people unburied breached families' trust 'on industrial scale', court hears",
-        "link": "https://www.bbc.co.uk/news/articles/cp8ek0682jdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 16:46:19 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
         "link": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 27 Jul 2026 16:38:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+        "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Jul 2026 16:33:05 GMT",
         "category": "Top News"
       },
       {
@@ -106,82 +137,34 @@
         "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 27 Jul 2026 15:59:27 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
-        "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 15:58:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Carly Simon reveals Parkinson's diagnosis",
-        "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 14:04:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
-        "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 07:53:30 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
         "title": "Italy's Sanlorenzo backs bid for embattled yacht maker Italian Sea Group",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67caf17b0d40eca8ab5ad53182061a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fitalys-sanlorenzo-backs-bid-embattled-yacht-maker-italian-sea-group-2026-07-27%2f&amp;c=16804509570329451096&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67e5275fe64f95ae73291ce6961382&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fitalys-sanlorenzo-backs-bid-embattled-yacht-maker-italian-sea-group-2026-07-27%2f&amp;c=16804509570329451096&amp;mkt=en-us",
         "pubDate": "Mon, 27 Jul 2026 13:37:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "World risks HIV resurgence as funding falls 18%, UNAIDS says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67cae4156b428abb8da0cf8ff1cff0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fworld-risks-hiv-resurgence-funding-falls-18-unaids-says-2026-07-27%2f&amp;c=836626541447151020&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Jul 2026 10:02:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67caf59407415a9d987b8b9678619b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-accuses-us-ai-hegemonism-threatens-countermeasures-over-potential-probes-2026-07-27%2f&amp;c=17884208736144159672&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Jul 2026 05:18:00 GMT",
-        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more",
-        "link": "https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-after-hours-cdns-rmbs-well.html",
-        "pubDate": "Mon, 27 Jul 2026 21:05:26 GMT",
-        "category": "Top News"
+        "title": "Jim Cramer warns AI&apos;s circular financing frenzy echoes the dot-com bubble",
+        "link": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
+        "pubDate": "Mon, 27 Jul 2026 22:20:01 GMT",
+        "category": "tech"
       },
       {
-        "title": "Yields are surging on these inflation-protected bonds. How they may fit into your portfolio",
-        "link": "https://www.cnbc.com/2026/07/27/yields-are-surging-on-these-inflation-protected-bonds-how-to-use-them.html",
-        "pubDate": "Mon, 27 Jul 2026 19:26:55 GMT",
+        "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+        "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+        "pubDate": "Mon, 27 Jul 2026 21:26:03 GMT",
         "category": "us"
       },
       {
-        "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
-        "link": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
-        "pubDate": "Mon, 27 Jul 2026 18:06:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. and Iran pause fighting, Trump dismisses concerns of dwindling stockpiles",
-        "link": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
-        "pubDate": "Mon, 27 Jul 2026 17:43:48 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Sen. McConnell still not cleared to go back to work as he recovers from fall, doctors say",
-        "link": "https://www.cnbc.com/2026/07/27/mcconnell-fall-hospital-senate-recovery.html",
-        "pubDate": "Mon, 27 Jul 2026 17:13:36 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Steve Eisman is starting to have doubts about AI. The &apos;Big Short&apos; investor just sold a key tech stock",
-        "link": "https://www.cnbc.com/2026/07/27/eisman-has-doubts-about-ai-big-short-investor-just-sold-key-tech-stock.html",
-        "pubDate": "Mon, 27 Jul 2026 13:59:57 GMT",
-        "category": "Top News"
+        "title": "JetBlue overhauls fare options, from basic first to flexible economy. Here&apos;s what to know",
+        "link": "https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html",
+        "pubDate": "Mon, 27 Jul 2026 17:14:58 GMT",
+        "category": "business"
       }
     ]
   }
