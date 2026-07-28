@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-07-28T02:56:41.762428",
+  "updated_at": "2026-07-28T06:33:54.754861",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
+        "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
+        "pubDate": "Tue, 28 Jul 2026 02:25:18 -0400",
+        "category": "world"
+      },
       {
         "title": "Rand Paul releases Anthony Fauci&apos;s pandemic-era diary notes. Here&apos;s what they tell us",
         "link": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
@@ -14,12 +20,6 @@
         "link": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
         "pubDate": "Mon, 27 Jul 2026 17:29:27 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Georgia&apos;s Okefenokee Swamp becomes a UNESCO World Heritage site",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5906359-e1/georgias-okefenokee-swamp-becomes-a-unesco-world-heritage-site",
-        "pubDate": "Mon, 27 Jul 2026 17:22:33 -0400",
-        "category": "world"
       },
       {
         "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling",
@@ -66,22 +66,34 @@
     ],
     "bbc": [
       {
-        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+        "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
+        "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 05:52:51 GMT",
+        "category": "business"
+      },
+      {
+        "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+        "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 05:01:19 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
         "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 28 Jul 2026 01:53:58 GMT",
         "category": "Top News"
       },
       {
-        "title": "BBC reports from outside court after judge rules singer D4vd will stand trial for murder",
-        "link": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Jul 2026 01:29:25 GMT",
+        "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+        "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 01:39:50 GMT",
         "category": "Top News"
       },
       {
-        "title": "New technical education routes to be offered at 14 in England",
-        "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Jul 2026 00:57:43 GMT",
-        "category": "business"
+        "title": "Fourth heatwave grips parts of UK with 35C forecast",
+        "link": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 00:18:58 GMT",
+        "category": "Top News"
       },
       {
         "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
@@ -112,83 +124,34 @@
         "link": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 27 Jul 2026 21:06:42 GMT",
         "category": "us"
-      },
-      {
-        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-        "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 20:34:55 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Devastating European wildfires in maps - and how they're being tackled",
-        "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 15:59:27 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "US threatens to cut funding for two school districts over transgender policies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a681a28dd69424d9efeb26f804e36be&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-threatens-cut-funding-two-school-districts-over-transgender-policies-2026-07-28%2f&amp;c=8597317926623446777&amp;mkt=en-us",
+        "title": "Incoming Apple CEO aims to build on movie and TV progress",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a684d01ab7f4c42af4b4a39b57a9c25&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fincoming-apple-ceo-aims-build-movie-tv-progress-2026-07-28%2f&amp;c=9332173009475389287&amp;mkt=en-us",
         "pubDate": "Mon, 27 Jul 2026 17:00:00 GMT",
-        "category": "us"
+        "category": "business"
       },
       {
-        "title": "South Korea's KOSPI drops 7% as global chipmaker selloff deepens",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a681a3e622b413b8557d9455eb64c03&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-koreas-kospi-drops-7-global-chipmaker-selloff-deepens-2026-07-28%2f&amp;c=4747661090454750534&amp;mkt=en-us",
+        "title": "Nvidia behind $50 billion lease on Texas data center, FT reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a684d0355904485b00af21c8ac2b4b7&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fnvidia-behind-50-billion-lease-texas-data-center-ft-reports-2026-07-28%2f&amp;c=6732899231428855344&amp;mkt=en-us",
         "pubDate": "Mon, 27 Jul 2026 17:00:00 GMT",
         "category": "tech"
       },
       {
+        "title": "Macron says wildfire fight 'toughest since the Second World War'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a684cf5da964c51aa797ccdaf40e777&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW125527072026RP1%2f&amp;c=326295231096637867&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 15:46:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "Universal Health Services cuts 2026 forecast on Medicaid reimbursement uncertainty",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a681a4063844320aebdba7d45452339&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2funiversal-health-services-cuts-2026-forecast-medicaid-reimbursement-uncertainty-2026-07-27%2f&amp;c=14706912170398652500&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a684d0a78c349cebe3eca43040f179c&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2funiversal-health-services-cuts-2026-forecast-medicaid-reimbursement-uncertainty-2026-07-27%2f&amp;c=14706912170398652500&amp;mkt=en-us",
         "pubDate": "Mon, 27 Jul 2026 14:30:00 GMT",
         "category": "health"
       }
     ],
-    "markets": [
-      {
-        "title": "U.S. and Korean tech stocks are now tightly linked \u2014 and that could be a worry for investors",
-        "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
-        "pubDate": "Tue, 28 Jul 2026 01:34:28 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
-        "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
-        "pubDate": "Mon, 27 Jul 2026 21:26:03 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more",
-        "link": "https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-after-hours-cdns-rmbs-well.html",
-        "pubDate": "Mon, 27 Jul 2026 21:05:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
-        "link": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
-        "pubDate": "Mon, 27 Jul 2026 18:06:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "JetBlue overhauls fare options, from basic first to flexible economy. Here&apos;s what to know",
-        "link": "https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html",
-        "pubDate": "Mon, 27 Jul 2026 17:14:58 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Sen. McConnell still not cleared to go back to work as he recovers from fall, doctors say",
-        "link": "https://www.cnbc.com/2026/07/27/mcconnell-fall-hospital-senate-recovery.html",
-        "pubDate": "Mon, 27 Jul 2026 17:13:36 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Steve Eisman is starting to have doubts about AI. The &apos;Big Short&apos; investor just sold a key tech stock",
-        "link": "https://www.cnbc.com/2026/07/27/eisman-has-doubts-about-ai-big-short-investor-just-sold-key-tech-stock.html",
-        "pubDate": "Mon, 27 Jul 2026 13:59:57 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
