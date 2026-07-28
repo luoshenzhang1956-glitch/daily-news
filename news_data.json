@@ -1,25 +1,12 @@
 {
-  "updated_at": "2026-07-27T23:10:32.132504",
+  "updated_at": "2026-07-28T02:56:41.762428",
   "news": {
-    "ap": [
-      {
-        "title": "Federal survey shows promising trends for youth mental health and drug use",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67e4ea7b1e46b792b187f0d9726f68&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmental-health-addiction-drugs-19d7638073fe40c7f36766b97e826349&amp;c=5915851885596035791&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Jul 2026 14:10:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Cardinals open 4-game series at home against the Cubs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67e4e85dec4807aae822ee68258ffa&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchicago-cubs-st-louis-cardinals-baseball-f872aa0ea92944e58c6976c4f15423c8&amp;c=10755122088545252894&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Jul 2026 01:01:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
-        "title": "Pakistan study suggests microbiome may influence preterm birth",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5899519/pakistan-study-suggests-microbiome-may-influence-preterm-birth",
-        "pubDate": "Mon, 27 Jul 2026 17:42:39 -0400",
+        "title": "Rand Paul releases Anthony Fauci&apos;s pandemic-era diary notes. Here&apos;s what they tell us",
+        "link": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
+        "pubDate": "Mon, 27 Jul 2026 20:05:31 -0400",
         "category": "health"
       },
       {
@@ -35,16 +22,10 @@
         "category": "world"
       },
       {
-        "title": "Authors have mixed feelings about the $1.5 billion Anthropic copyright infringement settlement",
+        "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling",
         "link": "https://www.npr.org/2026/07/27/nx-s1-5904606/anthropic-vs-bartz-ai-copyright-lawsuit-pros-cons",
         "pubDate": "Mon, 27 Jul 2026 16:49:57 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Authors wary of content ownership despite court ruling on Anthropic case",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5904606/authors-wary-of-content-ownership-despite-court-ruling-on-anthropic-case",
-        "pubDate": "Mon, 27 Jul 2026 16:49:57 -0400",
-        "category": "Top News"
       },
       {
         "title": "Pentagon changes how it releases casualty data as Iran conflict continues",
@@ -71,6 +52,12 @@
         "category": "Top News"
       },
       {
+        "title": "France continues to fight devastating wildfires, while progress is made in Spain",
+        "link": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
+        "pubDate": "Mon, 27 Jul 2026 06:50:09 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Kalshi attacks a Wisconsin law banning election bets as &apos;voter suppression&apos;",
         "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
         "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
@@ -79,22 +66,34 @@
     ],
     "bbc": [
       {
-        "title": "Is it time to stop using glue and labels on paper?",
-        "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 23:00:06 GMT",
-        "category": "tech"
+        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+        "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 01:53:58 GMT",
+        "category": "Top News"
       },
       {
-        "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-        "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 22:58:49 GMT",
+        "title": "BBC reports from outside court after judge rules singer D4vd will stand trial for murder",
+        "link": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 01:29:25 GMT",
         "category": "Top News"
       },
       {
         "title": "New technical education routes to be offered at 14 in England",
         "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 22:25:31 GMT",
+        "pubDate": "Tue, 28 Jul 2026 00:57:43 GMT",
         "category": "business"
+      },
+      {
+        "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
+        "link": "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 00:14:41 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Is it time to stop using glue and labels on paper?",
+        "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 27 Jul 2026 23:00:06 GMT",
+        "category": "tech"
       },
       {
         "title": "Love Island UK crowns winners of twist-filled series",
@@ -121,18 +120,6 @@
         "category": "world"
       },
       {
-        "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
-        "link": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 16:38:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-        "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 27 Jul 2026 16:33:05 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Devastating European wildfires in maps - and how they're being tackled",
         "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 27 Jul 2026 15:59:27 GMT",
@@ -141,17 +128,29 @@
     ],
     "reuters": [
       {
-        "title": "Italy's Sanlorenzo backs bid for embattled yacht maker Italian Sea Group",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a67e5275fe64f95ae73291ce6961382&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fitalys-sanlorenzo-backs-bid-embattled-yacht-maker-italian-sea-group-2026-07-27%2f&amp;c=16804509570329451096&amp;mkt=en-us",
-        "pubDate": "Mon, 27 Jul 2026 13:37:00 GMT",
-        "category": "business"
+        "title": "US threatens to cut funding for two school districts over transgender policies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a681a28dd69424d9efeb26f804e36be&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-threatens-cut-funding-two-school-districts-over-transgender-policies-2026-07-28%2f&amp;c=8597317926623446777&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 17:00:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "South Korea's KOSPI drops 7% as global chipmaker selloff deepens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a681a3e622b413b8557d9455eb64c03&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-koreas-kospi-drops-7-global-chipmaker-selloff-deepens-2026-07-28%2f&amp;c=4747661090454750534&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 17:00:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Universal Health Services cuts 2026 forecast on Medicaid reimbursement uncertainty",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a681a4063844320aebdba7d45452339&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2funiversal-health-services-cuts-2026-forecast-medicaid-reimbursement-uncertainty-2026-07-27%2f&amp;c=14706912170398652500&amp;mkt=en-us",
+        "pubDate": "Mon, 27 Jul 2026 14:30:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Jim Cramer warns AI&apos;s circular financing frenzy echoes the dot-com bubble",
-        "link": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
-        "pubDate": "Mon, 27 Jul 2026 22:20:01 GMT",
+        "title": "U.S. and Korean tech stocks are now tightly linked \u2014 and that could be a worry for investors",
+        "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+        "pubDate": "Tue, 28 Jul 2026 01:34:28 GMT",
         "category": "tech"
       },
       {
@@ -161,10 +160,34 @@
         "category": "us"
       },
       {
+        "title": "Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more",
+        "link": "https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-after-hours-cdns-rmbs-well.html",
+        "pubDate": "Mon, 27 Jul 2026 21:05:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+        "link": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+        "pubDate": "Mon, 27 Jul 2026 18:06:35 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "JetBlue overhauls fare options, from basic first to flexible economy. Here&apos;s what to know",
         "link": "https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html",
         "pubDate": "Mon, 27 Jul 2026 17:14:58 GMT",
         "category": "business"
+      },
+      {
+        "title": "Sen. McConnell still not cleared to go back to work as he recovers from fall, doctors say",
+        "link": "https://www.cnbc.com/2026/07/27/mcconnell-fall-hospital-senate-recovery.html",
+        "pubDate": "Mon, 27 Jul 2026 17:13:36 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Steve Eisman is starting to have doubts about AI. The &apos;Big Short&apos; investor just sold a key tech stock",
+        "link": "https://www.cnbc.com/2026/07/27/eisman-has-doubts-about-ai-big-short-investor-just-sold-key-tech-stock.html",
+        "pubDate": "Mon, 27 Jul 2026 13:59:57 GMT",
+        "category": "Top News"
       }
     ]
   }
