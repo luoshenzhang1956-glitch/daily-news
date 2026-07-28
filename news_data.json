@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-07-28T10:43:45.888956",
+  "updated_at": "2026-07-28T14:23:33.702070",
   "news": {
     "ap": [
       {
-        "title": "Second octogenarian in modern US history faces lethal injection as Florida set to execute 2 in a day",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a688725bad4493498cfeed3f576a754&amp;url=https%3a%2f%2fapnews.com%2farticle%2fflorida-execution-duckett-occhicone-4c313a84631ad20a62998f7dd061dbcf&amp;c=3267637034852317886&amp;mkt=en-us",
-        "pubDate": "Tue, 28 Jul 2026 03:07:00 GMT",
+        "title": "Ebola cases in Congo top 3,200, nearing record of the country\u2019s worst outbreak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb17ab864cb6abc11a2fbf02b3d3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-995a582d3eab3766610f3925165144ce&amp;c=17971852978850301231&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 06:57:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Workplaces look for cheaper AI as \u2018tokenmaxxing\u2019 fades as a corporate fad",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb14c8a6436998a01685eee3084c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1&amp;c=12851511261593651097&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 06:32:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "US looks to boost anti-China spending worldwide by hundreds of millions, documents say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb0c3cc34b388ab7f07efbda281b&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-countering-china-funding-e8ed66bd2d8a2a06dd750b6157979a1e&amp;c=10853574167146018887&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 04:04:00 GMT",
         "category": "us"
       }
     ],
     "npr": [
+      {
+        "title": "Here are the 13 books that made the Booker Prize longlist",
+        "link": "https://www.npr.org/2026/07/28/nx-s1-5874638/2026-booker-prize-longlist-fiction",
+        "pubDate": "Tue, 28 Jul 2026 09:05:31 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "A 7.1 quake hits Japan&apos;s Kyushu, trapping people in a collapsed shopping center",
+        "link": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
+        "pubDate": "Tue, 28 Jul 2026 08:51:33 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
+        "link": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
+        "pubDate": "Tue, 28 Jul 2026 07:26:09 -0400",
+        "category": "Top News"
+      },
       {
         "title": "AI tokens could become the kilowatt-hour of the AI age",
         "link": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
@@ -44,24 +74,6 @@
         "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
         "link": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
         "pubDate": "Tue, 28 Jul 2026 03:42:11 -0400",
-        "category": "world"
-      },
-      {
-        "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
-        "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
-        "pubDate": "Tue, 28 Jul 2026 02:25:18 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Rand Paul releases Anthony Fauci&apos;s pandemic-era diary notes. Here&apos;s what they tell us",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
-        "pubDate": "Mon, 27 Jul 2026 20:05:31 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Platner energized Maine&apos;s Democrats. Jackson&apos;s challenge will be to keep them engaged",
-        "link": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
-        "pubDate": "Mon, 27 Jul 2026 17:29:27 -0400",
         "category": "Top News"
       },
       {
@@ -73,9 +85,27 @@
     ],
     "bbc": [
       {
-        "title": "People trapped inside Japan shopping centre after earthquake",
-        "link": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Jul 2026 10:39:34 GMT",
+        "title": "French patrol boat appears to fire gunshots in the Channel during MP's BBC interview",
+        "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 13:53:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+        "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 13:25:13 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Mother and boyfriend guilty of murder of girl, two",
+        "link": "https://www.bbc.co.uk/news/articles/cvg9lv27v69o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 12:49:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
+        "link": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 11:38:26 GMT",
         "category": "Top News"
       },
       {
@@ -83,12 +113,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 28 Jul 2026 10:25:52 GMT",
         "category": "business"
-      },
-      {
-        "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
-        "link": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Jul 2026 10:16:37 GMT",
-        "category": "Top News"
       },
       {
         "title": "Odyssey translator writes scathing review of Nolan film adaptation",
@@ -109,18 +133,6 @@
         "category": "tech"
       },
       {
-        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-        "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Jul 2026 05:01:19 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Fourth heatwave grips parts of UK with 35C forecast",
-        "link": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Jul 2026 00:18:58 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
         "link": "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 28 Jul 2026 00:14:41 GMT",
@@ -135,24 +147,91 @@
     ],
     "reuters": [
       {
-        "title": "Trump, Zelenskiy and Netanyahu to attend US Senator Graham's funeral",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68877ee382499fbf03d0207723fb0b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-zelenskiy-netanyahu-attend-us-senator-grahams-funeral-2026-07-28%2f&amp;c=8307092695856475265&amp;mkt=en-us",
-        "pubDate": "Tue, 28 Jul 2026 03:03:00 GMT",
-        "category": "us"
+        "title": "Trump welcomes Zelenskiy ahead of funeral of Senate ally who championed Ukraine",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb193b5c4f0381bb1b35008a750f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-welcomes-zelenskiy-ahead-funeral-senate-ally-who-championed-ukraine-2026-07-28%2f&amp;c=5129200285650217746&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 06:47:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Uganda's health minister declares country free of Ebola",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68879522dc470e97d6d347c2a7057d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fugandas-health-minister-declares-country-free-ebola-2026-07-28%2f&amp;c=4556303041200206538&amp;mkt=en-us",
+        "title": "Under pressure over China backers, Mercedes CEO pledges to defend US business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb2ae44446398ab35a4ef0bccdbb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2funder-pressure-over-china-backers-mercedes-ceo-pledges-defend-us-business-2026-07-28%2f&amp;c=18093686097765895002&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 06:15:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Food technology firm GrubMarket confidentially files for US IPO",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb2b52c441a785a081e3f5809b3e&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fgrubmarket-confidentially-files-us-ipo-2026-07-28%2f&amp;c=1945412649892393561&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 05:36:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Thousands of children, sponsors arrested by ICE after tips from US child migrant agency",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb193b5c4f0381bb1b35008a750f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fthousands-children-sponsors-arrested-by-ice-after-tips-us-child-migrant-agency-2026-07-28%2f&amp;c=20350624240831166&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 04:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump, Zelenskiy and Netanyahu to attend US Senator Graham's funeral",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb193b5c4f0381bb1b35008a750f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-zelenskiy-netanyahu-attend-us-senator-grahams-funeral-2026-07-28%2f&amp;c=8307092695856475265&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 03:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "J&amp;J reaches sweeping talc deal that could end decade of litigation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb193b5c4f0381bb1b35008a750f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fjohnson-johnson-announces-55-billion-settlement-talc-lawsuits-2026-07-27%2f&amp;c=11310172099230023281&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 02:49:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel's yellow line, a shifting edge of war pushing Gazans from home",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb193b5c4f0381bb1b35008a750f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraels-yellow-line-shifting-edge-war-pushing-gazans-home-2026-07-28%2f&amp;c=11024465259680557630&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 02:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Uganda declares end to latest Ebola outbreak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb2d43f44d71abce72c80bc31adc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fugandas-health-minister-declares-country-free-ebola-2026-07-28%2f&amp;c=4556303041200206538&amp;mkt=en-us",
         "pubDate": "Tue, 28 Jul 2026 01:51:00 GMT",
         "category": "health"
       },
       {
-        "title": "European shares subdued as earnings boost counters tech slide",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a688791c1634d3db61ffa0d89ddb7dd&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2feurope%2feuropean-shares-subdued-earnings-boost-counters-tech-slide-2026-07-28%2f&amp;c=13914872975525261840&amp;mkt=en-us",
-        "pubDate": "Tue, 28 Jul 2026 00:24:00 GMT",
-        "category": "tech"
+        "title": "China starts production of home-grown immersion DUV chipmaking tools - source",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb193b5c4f0381bb1b35008a750f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28%2f&amp;c=12592548891513643971&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 01:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Powerful quake hits southern Japan, deaths feared in shopping mall blast",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a68bb193b5c4f0381bb1b35008a750f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fmagnitude-71-earthquake-hits-japans-kyushu-region-jma-says-2026-07-28%2f&amp;c=16899859147380741835&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 00:35:00 GMT",
+        "category": "Top News"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
+        "link": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+        "pubDate": "Tue, 28 Jul 2026 13:56:52 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Coca-Cola earnings, Altman in D.C., Apple&apos;s market cap milestone and more in Morning Squawk",
+        "link": "https://www.cnbc.com/2026/07/28/5-things-to-know-before-the-stock-market-opens.html",
+        "pubDate": "Tue, 28 Jul 2026 12:23:25 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Coca-Cola, Sherwin-Williams, Johnson &amp; Johnson &amp; more",
+        "link": "https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-premarket-ko-shw-jnj.html",
+        "pubDate": "Tue, 28 Jul 2026 11:42:06 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+        "link": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+        "pubDate": "Mon, 27 Jul 2026 18:06:35 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
