@@ -1,8 +1,81 @@
 {
-  "updated_at": "2026-07-29T03:15:33.876789",
+  "updated_at": "2026-07-29T06:39:22.480144",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US bans foreign-made humanoid robots, targeting China over national security",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a699f3bc5d14c66bd7b27f483f17e43&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366&amp;c=1176708305511991239&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 22:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dominic Canzone\u2019s 2-run homer in the 8th lifts the Mariners over the Dodgers 7-6",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a699f3bc5d14c66bd7b27f483f17e43&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdodgers-mariners-score-canzone-777fe37914394679467a09f44519f207&amp;c=14569586588469187155&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 22:37:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Austria\u2019s 16th century bell foundry adds modern technology to keep the casting process alive",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a699f6961af48b6aea43cc318fc0a1d&amp;url=https%3a%2f%2fapnews.com%2farticle%2faustria-bell-foundry-traditional-craft-914ac2ed8c307b6d9ee5e4b43d6a05b5&amp;c=7535283677331856730&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 22:33:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a699f3bc5d14c66bd7b27f483f17e43&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-us-hormuz-strait-july-29-2026-e31d249ba6443decdd3e63cd00f0fb84&amp;c=6124384207617471049&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 22:32:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fringe Israeli settler group is sneaking into Syria to try to claim land for a Jewish outpost",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a699f3bc5d14c66bd7b27f483f17e43&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-syria-netanyahu-jewish-settlers-bashan-461c4c4f686d5cf74f0617a7e70ffa29&amp;c=2762629725445492428&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 22:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Few families return to southern Lebanese village as part of Israel \u2018pilot zones\u2019 deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a699f3bc5d14c66bd7b27f483f17e43&amp;url=https%3a%2f%2fapnews.com%2farticle%2flebanon-israel-zawtar-pilot-zones-talks-rome-hezbollah-21ec1cae5cfc2b8b2c31873287686340&amp;c=15778973609913744787&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 22:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tropical Storm Fausto to splash past Hawaii as Hurricane Genevieve sends swells to Mexico",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a699f3bc5d14c66bd7b27f483f17e43&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftropical-weather-hurricane-genevieve-fausto-dae26f4e019398458e153e64f01d9755&amp;c=16158890244178946216&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 20:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a699f3bc5d14c66bd7b27f483f17e43&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnew-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df&amp;c=15335479957366936683&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 16:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a699f3bc5d14c66bd7b27f483f17e43&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-us-trump-saudi-houthis-iraq-8d2ae29300a8dc5495a4ce56c5312bf1&amp;c=12476257402983224913&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 14:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe\u2019s UEFA",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a699f3bc5d14c66bd7b27f483f17e43&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-fifa-investors-kushner-infantino-uefa-8345e0864e3a217632733810c232b423&amp;c=5488563422991356024&amp;mkt=en-us",
+        "pubDate": "Tue, 28 Jul 2026 10:25:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "npr": [
+      {
+        "title": "Judge allows use of police interview in Tupac Shakur murder trial",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5911616/police-interview-tupac-trial",
+        "pubDate": "Wed, 29 Jul 2026 02:04:35 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Rescuers search for the missing after Japan earthquake as death toll rises to 13",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
+        "pubDate": "Wed, 29 Jul 2026 01:34:42 -0400",
+        "category": "world"
+      },
       {
         "title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
         "link": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
@@ -13,7 +86,7 @@
         "title": "As Spain battles wildfires, its politicians battle over climate change&apos;s role",
         "link": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change",
         "pubDate": "Tue, 28 Jul 2026 16:31:54 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Artist Betye Saar, who used repurposed objects to reclaim identity, has died at 99",
@@ -34,12 +107,6 @@
         "category": "Top News"
       },
       {
-        "title": "Trump, Thune and many others remember late Sen. Lindsey Graham",
-        "link": "https://www.npr.org/2026/07/28/nx-s1-5910652/trump-thune-and-many-others-remember-late-sen-lindsey-graham",
-        "pubDate": "Tue, 28 Jul 2026 16:14:25 -0400",
-        "category": "us"
-      },
-      {
         "title": "Federal funds can&apos;t be spent on giving drug users test strips, raising overdose fears",
         "link": "https://www.npr.org/2026/07/28/nx-s1-5856406/federal-funds-cant-be-spent-on-giving-drug-users-test-strips-raising-overdose-fears",
         "pubDate": "Tue, 28 Jul 2026 16:14:21 -0400",
@@ -56,37 +123,43 @@
         "link": "https://www.npr.org/2026/07/28/g-s1-135640/ukraine-war-peace-negotiator-russia",
         "pubDate": "Tue, 28 Jul 2026 16:10:18 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
-        "link": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
-        "pubDate": "Tue, 28 Jul 2026 13:08:29 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Iran and US trade strikes, shattering brief lull in fighting",
-        "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 29 Jul 2026 02:47:28 GMT",
+        "title": "Burnham invites Tories and Lib Dems to social care talks",
+        "link": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 29 Jul 2026 06:35:42 GMT",
         "category": "Top News"
       },
       {
-        "title": "Burnham invites Tories and Lib Dems to social care talks",
-        "link": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 29 Jul 2026 01:59:59 GMT",
+        "title": "Ticket prices set to rise as Heathrow able to recover runway money",
+        "link": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 29 Jul 2026 06:32:39 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Japan in a \u2018race against time\u2019 to rescue people trapped beneath rubble after quake",
+        "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 29 Jul 2026 06:10:19 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+        "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 29 Jul 2026 05:00:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran and US trade strikes, shattering brief lull in fighting",
+        "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 29 Jul 2026 04:30:08 GMT",
         "category": "Top News"
       },
       {
         "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
         "link": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 29 Jul 2026 00:49:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The evidence that shows today's 20-somethings really do have it worse",
-        "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Jul 2026 23:52:23 GMT",
         "category": "Top News"
       },
       {
@@ -102,74 +175,25 @@
         "category": "tech"
       },
       {
-        "title": "Burnham has no scope to increase borrowing, think tank warns",
-        "link": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Jul 2026 23:00:12 GMT",
-        "category": "business"
-      },
-      {
         "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
         "link": "https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 28 Jul 2026 21:38:37 GMT",
         "category": "us"
       },
       {
-        "title": "Watch: The moment quake hit Japan",
-        "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Jul 2026 15:32:37 GMT",
-        "category": "world"
-      },
-      {
-        "title": "'Things need to change': The campaign for women's minister",
-        "link": "https://www.bbc.co.uk/news/videos/c20j1l232k7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 28 Jul 2026 05:45:16 GMT",
+        "title": "Does NI need a minister for women's safety and health?",
+        "link": "https://www.bbc.co.uk/news/articles/cn9n34wpvveo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 28 Jul 2026 07:58:35 GMT",
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "Citigroup taps Cristina Mascanzoni as Australia, New Zealand technology lead",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a69702e55ba40cca9ba45e88052f194&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fcitigroup-taps-cristina-mascanzoni-australia-new-zealand-technology-lead-2026-07-29%2f&amp;c=95885020785123884&amp;mkt=en-us",
-        "pubDate": "Tue, 28 Jul 2026 17:00:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Trump says he does not care about USMCA as US, Canada plan trade talks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a697026c6264a5093938a5f077685c1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2ftrump-says-he-does-not-care-about-usmca-us-canada-plan-trade-talks-2026-07-28%2f&amp;c=6814837480795592097&amp;mkt=en-us",
-        "pubDate": "Tue, 28 Jul 2026 15:51:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "UK PM Burnham to set out first steps on social care in speech",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a697030188b42aea36bc7e1dcc1b25b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fuk-pm-burnham-set-out-first-steps-social-care-speech-2026-07-28%2f&amp;c=8272621014658454146&amp;mkt=en-us",
-        "pubDate": "Tue, 28 Jul 2026 14:36:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6970281fd14c17abfd751c878ce1d8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2famazon-winds-down-most-flagship-ai-models-strategy-overhaul-business-insider-2026-07-28%2f&amp;c=2935997214052456534&amp;mkt=en-us",
-        "pubDate": "Tue, 28 Jul 2026 03:34:00 GMT",
-        "category": "business"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit",
+        "title": "Asian technology stocks extend sell-off with SoftBank down 10% as AI plays take a hit",
         "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-        "pubDate": "Wed, 29 Jul 2026 03:02:57 GMT",
+        "pubDate": "Wed, 29 Jul 2026 04:12:30 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Audi continues U.S. product push with three-row Q9 SUV",
-        "link": "https://www.cnbc.com/2026/07/28/audi-q9-suv.html",
-        "pubDate": "Wed, 29 Jul 2026 01:56:52 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/07/28/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Tue, 28 Jul 2026 23:52:11 GMT",
-        "category": "us"
       },
       {
         "title": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
