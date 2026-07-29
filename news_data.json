@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-29T17:23:25.809974",
+  "updated_at": "2026-07-29T19:27:55.509085",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "After Venezuela\u2019s quakes, experts say environmental and health risks have just begun",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6a5398bc9643a99c1ab5022387371e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvenezuela-earthquakes-environment-rubble-health-99a155f55b67b68bfa76d17e1744cb5a&amp;c=3270499037912858959&amp;mkt=en-us",
+        "pubDate": "Wed, 29 Jul 2026 06:05:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
         "title": "&apos;Taiwan Travelogue&apos; rethinks history, colonialism, and identity",
@@ -40,14 +47,14 @@
         "category": "Top News"
       },
       {
-        "title": "As extreme heat grips the South and West, here&apos;s how to stay safe",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather",
+        "title": "To win over working-class voters, Democrats need to stop talking about democracy",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
         "category": "us"
       },
       {
-        "title": "The Federal Reserve faces a critical decision on interest rates",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+        "title": "More Americans are going bankrupt. What does that mean?",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
         "category": "business"
       },
@@ -66,10 +73,34 @@
     ],
     "bbc": [
       {
+        "title": "US interest rates held for fifth time in a row",
+        "link": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 29 Jul 2026 18:57:44 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 29 Jul 2026 18:41:31 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Police to take no further action against Polanski over guillotine re-post",
+        "link": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 29 Jul 2026 18:40:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Charities unable to pay staff after fraud alert",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dlelz711o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 29 Jul 2026 18:17:23 GMT",
+        "category": "business"
+      },
+      {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
         "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 29 Jul 2026 17:04:42 GMT",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Moment police officers set foot in 'horror scene' funeral home",
@@ -90,33 +121,9 @@
         "category": "Top News"
       },
       {
-        "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-        "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 29 Jul 2026 16:23:41 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
-        "link": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 29 Jul 2026 16:10:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Some tech shares are plunging - what does that mean for the AI revolution?",
-        "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 29 Jul 2026 15:32:28 GMT",
-        "category": "business"
-      },
-      {
         "title": "More than half of England in drought, Environment Agency declares",
         "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 29 Jul 2026 14:37:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Is World Cup sell-off plan a step too far by Infantino?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 29 Jul 2026 13:48:10 GMT",
         "category": "Top News"
       },
       {
@@ -127,19 +134,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Dow falls more than 700 points as oil rises ahead of Fed decision: Live updates",
-        "link": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html",
-        "pubDate": "Wed, 29 Jul 2026 17:10:14 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",
-        "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
-        "pubDate": "Wed, 29 Jul 2026 16:05:34 GMT",
-        "category": "tech"
-      }
-    ]
+    "markets": []
   }
 }
