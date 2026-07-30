@@ -1,35 +1,59 @@
 {
-  "updated_at": "2026-07-30T17:43:09.057460",
+  "updated_at": "2026-07-30T19:43:26.476876",
   "news": {
     "ap": [
       {
         "title": "Microsoft leads a rally on Wall Street, while worries about inflation remain in the bond market",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6b8cba7ab8499798cc0ae509aa44b3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-rates-korea-ai-oil-99b5702d93a2b5c6e513fb952ccdcc92&amp;c=1451549601727487604&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6ba8ba4f284eee9966f0de5bd32722&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-rates-korea-ai-oil-99b5702d93a2b5c6e513fb952ccdcc92&amp;c=1451549601727487604&amp;mkt=en-us",
         "pubDate": "Thu, 30 Jul 2026 09:02:00 GMT",
         "category": "business"
       },
       {
+        "title": "European nations vow to boycott World Cup, other FIFA tournaments over Infantino private equity plan",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6ba8b047c445e7b04345b13e2ad38f&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffifa-investors-infantino-kushner-uefa-afc-76169d3e9bb68f4d174b3c87f6b53e50&amp;c=1346870660356545980&amp;mkt=en-us",
+        "pubDate": "Thu, 30 Jul 2026 05:56:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "EU lays out $11.4 billion for 7 AI gigafactories as it aims to catch up with US and China",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6b8cbc2b784afa8fcf01c18787a49d&amp;url=https%3a%2f%2fapnews.com%2farticle%2feu-ai-gigafactories-china-us-data-center-88b83cd517a4d47c115605e636d0b3e4&amp;c=11547696207184210584&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6ba8bb33704a309ff06c69a2773db1&amp;url=https%3a%2f%2fapnews.com%2farticle%2feu-ai-gigafactories-china-us-data-center-88b83cd517a4d47c115605e636d0b3e4&amp;c=11547696207184210584&amp;mkt=en-us",
         "pubDate": "Thu, 30 Jul 2026 03:01:00 GMT",
         "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million",
+        "pubDate": "Thu, 30 Jul 2026 13:47:57 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Are you choosing to stay single? We want to hear from you",
+        "link": "https://www.npr.org/2026/07/30/g-s1-136079/single-adult-solo-choice",
+        "pubDate": "Thu, 30 Jul 2026 13:47:44 -0400",
+        "category": "business"
+      },
+      {
+        "title": "European soccer leaders to boycott  the World Cup in an unprecedented step",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
+        "pubDate": "Thu, 30 Jul 2026 13:38:38 -0400",
+        "category": "world"
+      },
+      {
         "title": "Trump says he &apos;may&apos; pull Blanche AG nomination temporarily",
         "link": "https://www.npr.org/2026/07/30/g-s1-135784/todd-blanche-attorney-general-trump",
         "pubDate": "Thu, 30 Jul 2026 12:30:58 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "The economy slowed a bit -- but Americans continued to spend",
         "link": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
         "pubDate": "Thu, 30 Jul 2026 10:47:23 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
-        "title": "Alien Terrorist Removal Court to hold its first-ever hearing after 30 years",
+        "title": "Alien Terrorist Removal Court holds its first-ever hearing after 30 years",
         "link": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
         "pubDate": "Thu, 30 Jul 2026 09:10:45 -0400",
         "category": "Top News"
@@ -38,10 +62,10 @@
         "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
         "link": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
         "pubDate": "Thu, 30 Jul 2026 07:45:46 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
-        "title": "Russian strikes across Ukraine kill at least 8 civilians and wound dozens",
+        "title": "Russian strikes across Ukraine kill 10 and a missile falls in Poland",
         "link": "https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war",
         "pubDate": "Thu, 30 Jul 2026 05:53:10 -0400",
         "category": "Top News"
@@ -53,35 +77,17 @@
         "category": "tech"
       },
       {
-        "title": "Pediatricians and health officials are sidestepping Trump&apos;s CDC on vaccine advice",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
-        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
         "title": "The Lumbee Tribe of N.C. wants better healthcare, but plans to fund it are in limbo",
         "link": "https://www.npr.org/2026/07/30/nx-s1-5906740/lumbee-tribe-indian-health-service-gambling-north-carolina",
         "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The renter-owner wealth gap is wider than ever, as many are priced out of buying",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5910711/renter-owner-wealth-gap",
-        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The Trump administration has undercut the U.S. asylum program. These 3 charts show how",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5891889/trump-asylum-program-changes-charts",
-        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
+        "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Why limited war with the US may suit Iran better than peace",
-        "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 30 Jul 2026 17:26:01 GMT",
+        "title": "MP Diane Abbott readmitted into Labour Party after suspension",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 30 Jul 2026 19:32:47 GMT",
         "category": "Top News"
       },
       {
@@ -139,38 +145,19 @@
         "category": "world"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "OpenAI cuts prices on smaller models as businesses scrutinize AI spend",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6b8ce1a5914e95b3adb049f5894ed3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fopenai-cuts-prices-smaller-models-businesses-scrutinize-ai-spend-2026-07-30%2f&amp;c=8570592103788881072&amp;mkt=en-us",
-        "pubDate": "Thu, 30 Jul 2026 10:01:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Gold rises on weaker US dollar, soft inflation data",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6b8cdef0e646bdb9f7e9ce6c08b61f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fgold-edges-higher-markets-weigh-warshs-inflation-message-after-fed-decision-2026-07-30%2f&amp;c=13878208527903570496&amp;mkt=en-us",
-        "pubDate": "Thu, 30 Jul 2026 09:13:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "UEFA statement on FIFA plan to sell stakes in subsidiary to run World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6b8cdc6a0e4d4e82a82b1a409b1343&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fuefa-statement-fifa-plan-sell-stakes-subsidiary-run-world-cup-2026-07-30%2f&amp;c=2666470274082635883&amp;mkt=en-us",
-        "pubDate": "Thu, 30 Jul 2026 09:09:00 GMT",
+        "title": "Dow rallies 600 points, Nasdaq soars nearly 3% in tech-fueled recovery: Live updates",
+        "link": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
+        "pubDate": "Thu, 30 Jul 2026 19:23:59 GMT",
         "category": "world"
       },
       {
-        "title": "UK heat-linked deaths this year approach 2022 record, health agency says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6b8ceefc024b7eaa9571a0bbfd6699&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fuk-heat-linked-deaths-this-year-approach-2022-record-health-agency-says-2026-07-30%2f&amp;c=9354394112756236730&amp;mkt=en-us",
-        "pubDate": "Thu, 30 Jul 2026 04:24:00 GMT",
-        "category": "health"
-      }
-    ],
-    "markets": [
-      {
-        "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
-        "link": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
-        "pubDate": "Thu, 30 Jul 2026 17:30:06 GMT",
-        "category": "business"
+        "title": "Here&apos;s where Jeffrey Gundlach is investing after the Fed held rates steady",
+        "link": "https://www.cnbc.com/2026/07/30/heres-where-jeffrey-gundlach-is-investing-after-the-fed-held-rates-steady.html",
+        "pubDate": "Thu, 30 Jul 2026 19:06:57 GMT",
+        "category": "us"
       }
     ]
   }
