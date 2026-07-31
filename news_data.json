@@ -1,69 +1,93 @@
 {
-  "updated_at": "2026-07-31T19:42:49.780298",
+  "updated_at": "2026-07-31T21:13:58.762916",
   "news": {
     "ap": [
       {
+        "title": "Seattle mayor defends ousting police chief after festival shootout",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0f8fb7174d71932f71545703d1ff&amp;url=https%3a%2f%2fapnews.com%2farticle%2fseattle-mayor-katie-wilson-festival-shooting-police-be27c0d53f4fff77ac435bacbaf9a070&amp;c=17815942478512148553&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 13:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "FCC chairman defends actions against ABC, says broadcasters must operate \u2018in the public interest\u2019",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0f95458f4e6a882566b31ea4a070&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffcc-brendan-carr-abc-licenses-59a1af6fd76ed310a89b9764ae1fad8b&amp;c=15988583491586731505&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 12:58:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Ex-deputy who shot Sonya Massey is denied a request for medical release from prison",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0f8fb7174d71932f71545703d1ff&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsean-grayson-sonya-massey-illinois-springfield-medical-release-061e4407c108330ad2cb67d68a21cfc3&amp;c=6013065863631177483&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 12:36:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Authorities release early ransom note in Nancy Guthrie case, hoping someone recognizes it",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa6746664288b842f9cb95c92af5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsavannah-nancy-guthrie-missing-mom-ransom-note-7a53c668597233ef4dbc82204118067f&amp;c=16863700082063689159&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0f8fb7174d71932f71545703d1ff&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsavannah-nancy-guthrie-missing-mom-ransom-note-7a53c668597233ef4dbc82204118067f&amp;c=16863700082063689159&amp;mkt=en-us",
         "pubDate": "Fri, 31 Jul 2026 12:30:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa6746664288b842f9cb95c92af5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmarine-corp-f35-jet-crash-miramar-8731483556a42c793ec2796327d8986c&amp;c=10408789702045843197&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 12:09:00 GMT",
+        "title": "A high-stakes test for Trump\u2019s Gaza ceasefire board as Hamas disarmament looms",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0f8fb7174d71932f71545703d1ff&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-hamas-gaza-trump-disarmament-palestinians-board-of-peace-mladenov-19bc6cfd488059602e43d00df113dd6e&amp;c=12984252591280796667&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 12:23:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump administration pushes tougher English rules for Mexican train crews crossing into the US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa7634f64866a4078ae68ee46b6a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmexican-train-crew-english-union-pacific-cpkc-2de3ba3b5b96b24dac67378d4028ad61&amp;c=4653504937022446867&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 11:37:00 GMT",
+        "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0f8fb7174d71932f71545703d1ff&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmarine-corp-f35-jet-crash-miramar-8731483556a42c793ec2796327d8986c&amp;c=10408789702045843197&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 11:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US to make visa bond requirements permanent, affecting mostly African countries",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0f9349da45f3a55c2e955085d93f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvisa-bonds-permanent-us-state-department-travelers-ca7e5a540309d7cafad47ed1520b9c68&amp;c=13079513745941870933&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 11:44:00 GMT",
         "category": "us"
       },
       {
         "title": "Infantino\u2019s World Cup private investment plan has drawn seismic FIFA backlash. Here\u2019s what to know",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa7587b34261a89505425ce843cb&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-fifa-infantino-investors-10160e494eebf37301201b9175ec836d&amp;c=188371614020312140&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0f8f71c0465dad922c1a0923e630&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-fifa-infantino-investors-10160e494eebf37301201b9175ec836d&amp;c=188371614020312140&amp;mkt=en-us",
         "pubDate": "Fri, 31 Jul 2026 11:02:00 GMT",
         "category": "world"
       },
       {
-        "title": "Live updates: Trump takes Cabinet meeting to Camp David as Hamas agrees to his disarmament deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa6746664288b842f9cb95c92af5&amp;url=https%3a%2f%2fapnews.com%2flive%2ftrump-news-hamas-gaza-camp-david-updates-07-31-2026&amp;c=15259544399631796689&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 10:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tax returns show California\u2019s Newsom earning between $1.7 million and $2 million annually",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa78bfb84de5aa75937cc2bfa30f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcalifornia-newsom-tax-returns-income-f27b7c094b83cff8d175374acd3fe49d&amp;c=17244400142388561530&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 10:00:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Jurors in Lindsay Clancy\u2019s trial visit the home where she killed her children",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa6746664288b842f9cb95c92af5&amp;url=https%3a%2f%2fapnews.com%2farticle%2flindsay-clancy-murder-trial-jury-site-visit-468af9031f496bf2d1d9b723e5aa35f8&amp;c=5300997186044352199&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 08:44:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "A high-stakes test for Trump\u2019s Gaza ceasefire board as Hamas disarmament looms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa6746664288b842f9cb95c92af5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-hamas-gaza-trump-disarmament-palestinians-board-of-peace-mladenov-19bc6cfd488059602e43d00df113dd6e&amp;c=12984252591280796667&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 07:42:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Immigration crackdown threatens Haitian caregivers and the seniors who rely on them",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa7b03494ba496887179432b5429&amp;url=https%3a%2f%2fapnews.com%2farticle%2fimmigration-haiti-nursing-homes-elderly-tps-cb291c13c9c9868ad31092183c8e039d&amp;c=12210845136551964434&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0f8fb7174d71932f71545703d1ff&amp;url=https%3a%2f%2fapnews.com%2farticle%2fimmigration-haiti-nursing-homes-elderly-tps-cb291c13c9c9868ad31092183c8e039d&amp;c=12210845136551964434&amp;mkt=en-us",
         "pubDate": "Fri, 31 Jul 2026 03:02:00 GMT",
-        "category": "health"
+        "category": "Top News"
       },
       {
-        "title": "Anthropic says its AI models hacked 3 organizations during testing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa79d38b40e4a78f1d7cd82e3045&amp;url=https%3a%2f%2fapnews.com%2farticle%2fanthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec&amp;c=12999137249630268435&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 02:53:00 GMT",
-        "category": "tech"
+        "title": "Tens of thousands of migrants voluntarily leave after crossing into Spanish territory of Ceuta",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0f8fb7174d71932f71545703d1ff&amp;url=https%3a%2f%2fapnews.com%2farticle%2fspain-ceuta-migration-66839d113f24ba80d08b36d2b337201c&amp;c=5883298416033754949&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 00:22:00 GMT",
+        "category": "Top News"
       }
     ],
     "npr": [
+      {
+        "title": "Climate adaptation at its limits, says one scientist",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
+        "pubDate": "Fri, 31 Jul 2026 16:28:46 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Drone delivery helps in Rwanda, but only so much",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
+        "pubDate": "Fri, 31 Jul 2026 16:28:41 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Major oil companies report sky-high earnings off higher crude prices",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5910660/major-oil-companies-report-sky-high-earnings-off-higher-crude-prices",
+        "pubDate": "Fri, 31 Jul 2026 16:28:38 -0400",
+        "category": "business"
+      },
+      {
+        "title": "What&apos;s it like to be on the frontlines of the Cyclosporiasis outbreak?",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5910699/whats-it-like-to-be-on-the-frontlines-of-the-cyclosporiasis-outbreak",
+        "pubDate": "Fri, 31 Jul 2026 16:20:20 -0400",
+        "category": "health"
+      },
       {
         "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
@@ -74,7 +98,7 @@
         "title": "Keeping cool without AC: Our readers share their tips",
         "link": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
         "pubDate": "Fri, 31 Jul 2026 10:44:47 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "In Nebraska, Americans begin to lose Medicaid under Trump&apos;s work rules",
@@ -86,7 +110,7 @@
         "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
         "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
         "pubDate": "Fri, 31 Jul 2026 07:30:26 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Who&apos;s driving a bookmobile full of Epstein files? The quiz knows!",
@@ -95,48 +119,24 @@
         "category": "Top News"
       },
       {
-        "title": "450K borrowers say they were ripped off. Their student loans are being erased",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
-        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump&apos;s claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
-        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Democrats show divisions on Israel amid competitive midterm elections",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Trump&apos;s AI review order raises questions about federal oversight",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5913688/trumps-ai-review-order-raises-questions-about-federal-oversight",
         "pubDate": "Fri, 31 Jul 2026 04:48:58 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
-        "pubDate": "Thu, 30 Jul 2026 16:37:59 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
+      {
+        "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+        "link": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 31 Jul 2026 20:58:27 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Minnesota not Iran to blame for state's water issues, says Trump",
         "link": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 31 Jul 2026 19:03:28 GMT",
         "category": "us"
-      },
-      {
-        "title": "Two more small boat pilots jailed for Channel crossings",
-        "link": "https://www.bbc.co.uk/news/articles/cq6d8m1y3y9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 31 Jul 2026 18:14:49 GMT",
-        "category": "Top News"
       },
       {
         "title": "AI firms must answer for rogue bots, says boss of hacked company",
@@ -145,7 +145,7 @@
         "category": "tech"
       },
       {
-        "title": "'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan",
+        "title": "Fifa executive says staff 'deceived' by Infantino plans",
         "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 31 Jul 2026 17:45:11 GMT",
         "category": "Top News"
@@ -189,36 +189,30 @@
     ],
     "reuters": [
       {
-        "title": "US proposes deep Colorado River water cuts for Arizona, California, Nevada",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa90f33841f4aa6b608494e5aef6&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-presents-colorado-river-water-sharing-plan-2026-07-31%2f&amp;c=15520401882777293295&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 07:56:00 GMT",
-        "category": "us"
+        "title": "Ex-Steward Health CEO loses appeal in lawsuit against US senators",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0fd68df14962a96dd84b732a5a86&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fex-steward-health-ceo-loses-appeal-lawsuit-against-us-senators-2026-07-31%2f&amp;c=16088951960271633992&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 12:16:00 GMT",
+        "category": "health"
       },
       {
-        "title": "Norwegian football chief warns of 'very serious' crisis over FIFA World Cup stake plan",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa8ecd844e5982e99bb1be1b1b95&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnorwegian-football-chief-warns-very-serious-crisis-over-fifa-world-cup-stake-2026-07-31%2f&amp;c=7288089505145628960&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 03:54:00 GMT",
-        "category": "world"
+        "title": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0fd5ccff45788278cde124d333fb&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2feric-trump-backed-defense-technology-company-space-eyes-go-public-638-million-2026-07-31%2f&amp;c=12609376960390984896&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 07:55:00 GMT",
+        "category": "tech"
       },
       {
-        "title": "Wall Street climbs as Amazon soothes AI jitters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6cfa939ec54b169528aafd6bd751cc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnasdaq-100-leads-us-futures-higher-amazon-surge-offsets-apple-decline-2026-07-31%2f&amp;c=11069074559080698996&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 03:22:00 GMT",
+        "title": "Apple set to lose nearly $500 billion in value after weak forecast",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d0fd5a08f4493b507b331233fef77&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fapple-slides-supply-snags-cloud-outlook-putting-iphone-demand-focus-2026-07-31%2f&amp;c=15265795854181409393&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 01:28:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "Scoop up more yield amid Fed rate uncertainty with these portfolio tweaks",
-        "link": "https://www.cnbc.com/2026/07/31/scoop-up-more-yield-amid-fed-rate-uncertainty-with-these-portfolio-tweaks.html",
-        "pubDate": "Fri, 31 Jul 2026 19:28:51 GMT",
-        "category": "us"
-      },
-      {
         "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days",
         "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-        "pubDate": "Fri, 31 Jul 2026 19:07:44 GMT",
-        "category": "Top News"
+        "pubDate": "Fri, 31 Jul 2026 20:19:03 GMT",
+        "category": "business"
       },
       {
         "title": "Investors may want to focus on front end of yield curve \u2014 as Street anticipates next Fed meetings",
@@ -230,7 +224,7 @@
         "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
         "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
         "pubDate": "Fri, 31 Jul 2026 18:20:01 GMT",
-        "category": "tech"
+        "category": "Top News"
       },
       {
         "title": "Stocks making the biggest moves midday: Apple, Amazon, Reddit, GoDaddy, IES Holdings &amp; more",
@@ -257,15 +251,15 @@
         "category": "Top News"
       },
       {
-        "title": "Dwindling cash and soaring memory costs: Tech&apos;s AI buildout has ballooning price tag",
-        "link": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
-        "pubDate": "Fri, 31 Jul 2026 13:26:59 GMT",
-        "category": "world"
-      },
-      {
         "title": "More consumer companies are staying private for longer, avoiding the IPO road",
         "link": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
         "pubDate": "Fri, 31 Jul 2026 11:30:01 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China\u2019s U.S.-bound shipments fall in July after brief recovery, survey shows",
+        "link": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
+        "pubDate": "Thu, 30 Jul 2026 22:01:01 GMT",
         "category": "Top News"
       }
     ]
