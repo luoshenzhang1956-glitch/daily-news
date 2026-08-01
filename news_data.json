@@ -1,44 +1,55 @@
 {
-  "updated_at": "2026-08-01T06:35:39.340992",
+  "updated_at": "2026-08-01T10:06:40.244424",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d9368509b4ae68b4097d39dafb968&amp;url=https%3a%2f%2fapnews.com%2farticle%2fworld-cup-infantino-fifa-investors-8aba1b529f220c27d02d326e8fd9e377&amp;c=10284825129297935204&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 18:47:00 GMT",
+        "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
+        "pubDate": "Sat, 01 Aug 2026 05:36:05 -0400",
         "category": "world"
       },
       {
-        "title": "FCC chairman defends actions against ABC, says broadcasters must operate \u2018in the public interest\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d936a1d8e427a82979cec232a0166&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffcc-brendan-carr-abc-licenses-59a1af6fd76ed310a89b9764ae1fad8b&amp;c=15988583491586731505&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 12:58:00 GMT",
+        "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Why did OpenAI&apos;s and Anthropic&apos;s AI models hack other companies?",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
         "category": "business"
       },
       {
-        "title": "FACT FOCUS: Trump blames Minnesota governor for cyberattacks against the state. Cites no evidence",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d936a81af433ca6ed58f21af7a679&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffact-check-trump-minnesota-prescriptions-immigration-7adb2340586cabc2162c39d6f4bc9d92&amp;c=7472575947400648191&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 12:49:00 GMT",
+        "title": "For sale: early access to Trump&apos;s Truth Social posts",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
         "category": "tech"
       },
       {
-        "title": "Why do these researchers want your baby teeth?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d936e48c34cd893ecb692b43c8cb0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fohio-researchers-baby-teeth-oilfield-brine-health-aa81b4c46b8219909069373109c939fb&amp;c=7540412588254464429&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 12:47:00 GMT",
+        "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
         "category": "health"
       },
       {
-        "title": "US to make visa bond requirements permanent, affecting mostly African countries",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d93699d59470ca1734f1250de5909&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvisa-bonds-permanent-us-state-department-travelers-ca7e5a540309d7cafad47ed1520b9c68&amp;c=13079513745941870933&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 11:44:00 GMT",
-        "category": "us"
-      }
-    ],
-    "npr": [
+        "title": "In the race for Senate in Michigan, multiple party fights are colliding for Democrats",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5904608/michigan-primary-haley-stevens-abdul-el-sayed-democrats",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
         "pubDate": "Fri, 31 Jul 2026 22:08:51 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying &apos;botched installation&apos; to blame",
@@ -51,62 +62,26 @@
         "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
         "pubDate": "Fri, 31 Jul 2026 16:28:46 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Drone delivery helps in Rwanda, but only so much",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
-        "pubDate": "Fri, 31 Jul 2026 16:28:41 -0400",
-        "category": "world"
-      },
-      {
-        "title": "What&apos;s it like to be on the frontlines of the Cyclosporiasis outbreak?",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5910699/whats-it-like-to-be-on-the-frontlines-of-the-cyclosporiasis-outbreak",
-        "pubDate": "Fri, 31 Jul 2026 16:20:20 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
-        "pubDate": "Fri, 31 Jul 2026 13:48:26 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Keeping cool without AC: Our readers share their tips",
-        "link": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
-        "pubDate": "Fri, 31 Jul 2026 10:44:47 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "In Nebraska, Americans begin to lose Medicaid under Trump&apos;s work rules",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
-        "pubDate": "Fri, 31 Jul 2026 09:22:40 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
-        "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
-        "pubDate": "Fri, 31 Jul 2026 07:30:26 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump&apos;s AI review order raises questions about federal oversight",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5913688/trumps-ai-review-order-raises-questions-about-federal-oversight",
-        "pubDate": "Fri, 31 Jul 2026 04:48:58 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
+      {
+        "title": "Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 01 Aug 2026 09:51:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 01 Aug 2026 09:13:00 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Fifa scraps controversial World Cup investment plan",
         "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 01 Aug 2026 05:42:31 GMT",
         "category": "world"
-      },
-      {
-        "title": "Fifa scraps World Cup investment plan after outcry",
-        "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 01 Aug 2026 05:42:31 GMT",
-        "category": "Top News"
       },
       {
         "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
@@ -115,9 +90,9 @@
         "category": "Top News"
       },
       {
-        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 01 Aug 2026 04:06:34 GMT",
+        "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+        "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 01 Aug 2026 00:20:43 GMT",
         "category": "Top News"
       },
       {
@@ -145,12 +120,6 @@
         "category": "tech"
       },
       {
-        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 31 Jul 2026 17:03:47 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "How to advocate for your health",
         "link": "https://www.bbc.co.uk/news/videos/cr7k4evd22go?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 31 Jul 2026 12:34:45 GMT",
@@ -159,115 +128,18 @@
     ],
     "reuters": [
       {
-        "title": "Musk dismisses report of Tesla's potential China business sale",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d937788d04a7d8382d1c2ad9a0eaf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ftesla-weighs-sale-china-business-pave-way-potential-spacex-merger-wsj-reports-2026-07-31%2f&amp;c=7999748501162597066&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 21:59:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Cullen Werwie",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d93722df1474ea1491dd58a3bae9e&amp;url=https%3a%2f%2fwww.reuters.com%2fpractical-law-the-journal%2fauthors%2fcullen-werwie%2f&amp;c=6449168995843293482&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 21:22:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Amy Ciepluch",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d93722df1474ea1491dd58a3bae9e&amp;url=https%3a%2f%2fwww.reuters.com%2fpractical-law-the-journal%2fauthors%2famy-ciepluch%2f&amp;c=7601980955160409356&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 21:22:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Asian confederation chief welcome's FIFA decision to scrap World Cup sell-off plan",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d9374993a4dc98b08eb52b38065e9&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fasian-confederation-chief-welcomes-fifa-decision-scrap-world-cup-sell-off-plan-2026-08-01%2f&amp;c=15373587966710810925&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 17:00:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "US to make visa bond program permanent for people from dozens of countries",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d9374fe654300be9f7a27813d40bc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-make-visa-bond-program-permanent-people-dozens-countries-2026-08-01%2f&amp;c=17236356241201666989&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 17:00:00 GMT",
+        "title": "US Treasury intervenes to support yen after Japan steps in, FT reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6dc4b5dc924cf78fac06bf7ba89516&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-treasury-undertakes-intervention-yen-market-ft-reports-2026-08-01%2f&amp;c=14668666221884337312&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 01:41:00 GMT",
         "category": "us"
       },
       {
-        "title": "Preparing for a Civil Antitrust Jury Trial",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d93722df1474ea1491dd58a3bae9e&amp;url=https%3a%2f%2fwww.reuters.com%2fpractical-law-the-journal%2flitigation%2fpreparing-civil-antitrust-jury-trial-2026-08-01%2f&amp;c=16024895717661368237&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Justice Department says 'flawed' work led to Reflecting Pool peeling",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d93722df1474ea1491dd58a3bae9e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-justice-department-drops-case-against-former-us-olympian-over-lincoln-2026-07-31%2f&amp;c=8868847969263654591&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 15:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d93722df1474ea1491dd58a3bae9e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31%2f&amp;c=9454054234671438729&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 13:16:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ex-Steward Health CEO loses appeal in lawsuit against US senators",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d9378b1354dd1b91a5b00d61623c6&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fex-steward-health-ceo-loses-appeal-lawsuit-against-us-senators-2026-07-31%2f&amp;c=16088951960271633992&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 12:16:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6d93783884436fa919acf2f8039f21&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2feric-trump-backed-defense-technology-company-space-eyes-go-public-638-million-2026-07-31%2f&amp;c=12609376960390984896&amp;mkt=en-us",
-        "pubDate": "Fri, 31 Jul 2026 07:55:00 GMT",
+        "title": "FTC approves IonQ acquisition of SkyWater semiconductor \u200dfoundry",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6dc4c9b5ab443082e2d19e382d361f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fftc-approves-ionq-acquisition-skywater-semiconductor-foundry-2026-07-31%2f&amp;c=2479678383468240929&amp;mkt=en-us",
+        "pubDate": "Fri, 31 Jul 2026 14:43:00 GMT",
         "category": "tech"
       }
     ],
-    "markets": [
-      {
-        "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-        "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-        "pubDate": "Fri, 31 Jul 2026 21:49:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days",
-        "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-        "pubDate": "Fri, 31 Jul 2026 20:19:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Investors may want to focus on front end of yield curve \u2014 as Street anticipates next Fed meetings",
-        "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
-        "pubDate": "Fri, 31 Jul 2026 18:46:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Apple, Amazon, Reddit, GoDaddy, IES Holdings &amp; more",
-        "link": "https://www.cnbc.com/2026/07/31/stocks-making-the-biggest-moves-midday-aapl-amzn-rddt-gddy-iesc.html",
-        "pubDate": "Fri, 31 Jul 2026 17:42:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
-        "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
-        "pubDate": "Fri, 31 Jul 2026 16:14:54 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New York sues Kalshi, says prediction market is running &apos;illegal gambling operation&apos;",
-        "link": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
-        "pubDate": "Fri, 31 Jul 2026 15:31:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fed officials who voted to hike rates say action is needed now against inflation",
-        "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
-        "pubDate": "Fri, 31 Jul 2026 14:35:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "More consumer companies are staying private for longer, avoiding the IPO road",
-        "link": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
-        "pubDate": "Fri, 31 Jul 2026 11:30:01 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
