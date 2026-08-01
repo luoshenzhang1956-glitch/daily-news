@@ -1,21 +1,14 @@
 {
-  "updated_at": "2026-08-01T17:08:31.056180",
+  "updated_at": "2026-08-01T19:19:45.295862",
   "news": {
-    "ap": [
-      {
-        "title": "America In Focus: US economy expands at sluggish pace, mortgage rate hit the highest level in a year",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e276745b14df5a1646e77e1124a38&amp;url=https%3a%2f%2fapnews.com%2farticle%2finflation-economy-iran-trump-unemployment-fed-mortgage-5d007b238c423f27ced307ea145400f4&amp;c=7103340557169191268&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 07:11:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e2773addc4453892a5353e921cf51&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-truth-social-media-insider-trading-posts-feeds-traders-25c2c5be926f2650d0610c84100cffb8&amp;c=2375617441970760589&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 04:06:00 GMT",
-        "category": "business"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Spain&apos;s Pedro S\u00e1nchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
+        "pubDate": "Sat, 01 Aug 2026 14:33:27 -0400",
+        "category": "world"
+      },
       {
         "title": "Opinion: Remembering Margo Howard",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard",
@@ -35,7 +28,7 @@
         "category": "health"
       },
       {
-        "title": "They call it &apos;a dream fulfilled&apos; -- new homes designed for (and by) slum residents",
+        "title": "How these slum dwellers went from one-room shacks to beautiful new apartments",
         "link": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
         "pubDate": "Sat, 01 Aug 2026 07:14:58 -0400",
         "category": "Top News"
@@ -50,18 +43,12 @@
         "title": "Lebanese who fled the Israeli invasion visit to see what&apos;s left",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
         "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
         "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
-        "pubDate": "Sat, 01 Aug 2026 05:36:05 -0400",
         "category": "Top News"
       },
       {
@@ -79,15 +66,15 @@
     ],
     "bbc": [
       {
-        "title": "Call for 'full review' as pressure grows on Infantino",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 01 Aug 2026 16:29:10 GMT",
+        "title": "William and Kate bring children to Commonwealth Games",
+        "link": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 01 Aug 2026 17:23:55 GMT",
         "category": "Top News"
       },
       {
-        "title": "William and Kate bring children to Commonwealth Games",
-        "link": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 01 Aug 2026 16:20:57 GMT",
+        "title": "Call for 'full review' as pressure grows on Infantino",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 01 Aug 2026 17:07:46 GMT",
         "category": "Top News"
       },
       {
@@ -141,49 +128,60 @@
     ],
     "reuters": [
       {
+        "title": "Freedom Holding Corp. Completes Acquisition of Turkish Bank",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2ffreedom-holding-acquires-turkish-bank-2026-08-01%2f&amp;c=4862210392638015102&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 11:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exiled Trevor Bauer wishes he never signed with Dodgers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fexiled-trevor-bauer-wishes-he-never-signed-with-dodgers--flm-2026-08-01%2f&amp;c=11183558576657590369&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 11:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cafe explosion in central Moscow kills three, injures 15, police say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fthree-killed-15-injured-moscow-explosion-tass-says-2026-08-01%2f&amp;c=4530045596836625762&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 11:23:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "US Treasury intervenes to support yen after Japan steps in, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e27b19b73495bb65198b5cac4512a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-treasury-undertakes-intervention-yen-market-ft-reports-2026-08-01%2f&amp;c=14668666221884337312&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 07:54:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e466644af469380c2e38046ecaab9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-treasury-undertakes-intervention-yen-market-ft-reports-2026-08-01%2f&amp;c=14668666221884337312&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 10:36:00 GMT",
         "category": "us"
+      },
+      {
+        "title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fspain-installs-floating-barrier-ceuta-after-calm-night-following-border-rush-2026-08-01%2f&amp;c=16436255504033061356&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 10:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fthousands-expected-amsterdam-boisterous-worldpride-shadow-berlin-attack-2026-08-01%2f&amp;c=18024476760033529402&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 10:20:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Clayton will take over as US intelligence chief on Monday, Pulte says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fclayton-set-take-over-top-us-spy-monday-pulte-says-2026-08-01%2f&amp;c=7969061995396297084&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 10:12:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Russia pounds Kyiv, kills 10 as Ukraine appeals for Patriot interceptors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2frussia-pounds-kyiv-with-missiles-2026-07-31%2f&amp;c=11825503081046783023&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 06:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e466392d04b4e9916333828ce6799&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffifa-faces-fresh-transparency-calls-after-retreat-world-cup-sell-off-plan-2026-08-01%2f&amp;c=13220966076584437087&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 00:40:00 GMT",
+        "category": "world"
       }
     ],
-    "markets": [
-      {
-        "title": "Berkshire Hathaway shares hit eight-month high",
-        "link": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
-        "pubDate": "Sat, 01 Aug 2026 14:41:54 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
-        "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-        "pubDate": "Sat, 01 Aug 2026 10:56:11 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-        "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-        "pubDate": "Fri, 31 Jul 2026 21:49:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days",
-        "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-        "pubDate": "Fri, 31 Jul 2026 20:19:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Investors may want to focus on front end of yield curve \u2014 as Street anticipates next Fed meetings",
-        "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
-        "pubDate": "Fri, 31 Jul 2026 18:46:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Apple, Amazon, Reddit, GoDaddy, IES Holdings &amp; more",
-        "link": "https://www.cnbc.com/2026/07/31/stocks-making-the-biggest-moves-midday-aapl-amzn-rddt-gddy-iesc.html",
-        "pubDate": "Fri, 31 Jul 2026 17:42:49 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
