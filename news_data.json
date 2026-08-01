@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-08-01T19:19:45.295862",
+  "updated_at": "2026-08-01T21:01:59.547943",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+        "pubDate": "Sat, 01 Aug 2026 16:27:32 -0400",
+        "category": "world"
+      },
+      {
         "title": "Spain&apos;s Pedro S\u00e1nchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
         "pubDate": "Sat, 01 Aug 2026 14:33:27 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Opinion: Remembering Margo Howard",
@@ -46,12 +52,6 @@
         "category": "Top News"
       },
       {
-        "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
-        "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Why did OpenAI&apos;s and Anthropic&apos;s AI models hack other companies?",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
         "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
@@ -65,6 +65,24 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+        "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 01 Aug 2026 20:39:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cambridge professor at centre of plagiarism row defends his work",
+        "link": "https://www.bbc.co.uk/news/articles/c78gmp7zylvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 01 Aug 2026 20:32:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+        "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 01 Aug 2026 20:09:27 GMT",
+        "category": "world"
+      },
       {
         "title": "William and Kate bring children to Commonwealth Games",
         "link": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&amp;at_campaign=rss",
@@ -84,21 +102,9 @@
         "category": "us"
       },
       {
-        "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-        "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 01 Aug 2026 15:46:08 GMT",
-        "category": "world"
-      },
-      {
         "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
         "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 01 Aug 2026 15:25:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 01 Aug 2026 13:35:39 GMT",
         "category": "Top News"
       },
       {
@@ -114,12 +120,6 @@
         "category": "Top News"
       },
       {
-        "title": "He thought a fitness supplement was safe, but it sent him into psychosis",
-        "link": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 31 Jul 2026 23:42:03 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
         "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 31 Jul 2026 21:57:59 GMT",
@@ -128,60 +128,79 @@
     ],
     "reuters": [
       {
-        "title": "Freedom Holding Corp. Completes Acquisition of Turkish Bank",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2ffreedom-holding-acquires-turkish-bank-2026-08-01%2f&amp;c=4862210392638015102&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 11:57:00 GMT",
+        "title": "Versatile Taysom Hill could find reunion with Broncos' Sean Payton",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e5e64ea8a4e0882194c2483834be0&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fversatile-taysom-hill-could-find-reunion-with-broncos-sean-payton--flm-2026-08-01%2f&amp;c=16340956243461194600&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 13:28:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Exiled Trevor Bauer wishes he never signed with Dodgers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fexiled-trevor-bauer-wishes-he-never-signed-with-dodgers--flm-2026-08-01%2f&amp;c=11183558576657590369&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 11:42:00 GMT",
+        "title": "Thirteen die in tourist plane crash over Peru's Nazca Lines",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e5e64ea8a4e0882194c2483834be0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fthirteen-die-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-2026-08-01%2f&amp;c=831245646174286270&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 12:54:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Cafe explosion in central Moscow kills three, injures 15, police say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fthree-killed-15-injured-moscow-explosion-tass-says-2026-08-01%2f&amp;c=4530045596836625762&amp;mkt=en-us",
+        "title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e5e64ea8a4e0882194c2483834be0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fspain-installs-floating-barrier-ceuta-after-calm-night-following-border-rush-2026-08-01%2f&amp;c=16436255504033061356&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 12:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Restaurant explosion in central Moscow kills three, injures 15, police say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e5e64ea8a4e0882194c2483834be0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fthree-killed-15-injured-moscow-explosion-tass-says-2026-08-01%2f&amp;c=4530045596836625762&amp;mkt=en-us",
         "pubDate": "Sat, 01 Aug 2026 11:23:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US Treasury intervenes to support yen after Japan steps in, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e466644af469380c2e38046ecaab9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-treasury-undertakes-intervention-yen-market-ft-reports-2026-08-01%2f&amp;c=14668666221884337312&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 10:36:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Spain installs floating barrier in Ceuta after deadly migrant rush",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fspain-installs-floating-barrier-ceuta-after-calm-night-following-border-rush-2026-08-01%2f&amp;c=16436255504033061356&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 10:21:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fthousands-expected-amsterdam-boisterous-worldpride-shadow-berlin-attack-2026-08-01%2f&amp;c=18024476760033529402&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 10:20:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Clayton will take over as US intelligence chief on Monday, Pulte says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fclayton-set-take-over-top-us-spy-monday-pulte-says-2026-08-01%2f&amp;c=7969061995396297084&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 10:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Russia pounds Kyiv, kills 10 as Ukraine appeals for Patriot interceptors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e4661672b4b819bf89f9e7d09e480&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2frussia-pounds-kyiv-with-missiles-2026-07-31%2f&amp;c=11825503081046783023&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 06:51:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e466392d04b4e9916333828ce6799&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffifa-faces-fresh-transparency-calls-after-retreat-world-cup-sell-off-plan-2026-08-01%2f&amp;c=13220966076584437087&amp;mkt=en-us",
-        "pubDate": "Sat, 01 Aug 2026 00:40:00 GMT",
-        "category": "world"
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e5e64ea8a4e0882194c2483834be0&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffifa-faces-fresh-transparency-calls-after-retreat-world-cup-sell-off-plan-2026-08-01%2f&amp;c=13220966076584437087&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 10:38:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump disputes his own Justice Department's findings on Reflecting Pool",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e5e64ea8a4e0882194c2483834be0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-disputes-his-own-justice-departments-findings-reflecting-pool-2026-08-01%2f&amp;c=6453038951516926688&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 10:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e5e64ea8a4e0882194c2483834be0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ffamed-climber-nirmal-purja-nine-others-die-avalanche-pakistan-hiking-company-2026-08-01%2f&amp;c=18160016881583534866&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wildfires spread across Greece, conditions worsen in France and Spain",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a6e5e64ea8a4e0882194c2483834be0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fwildfires-rage-greece-firefighters-continue-battle-france-spain-2026-08-01%2f&amp;c=9862294256827309397&amp;mkt=en-us",
+        "pubDate": "Sat, 01 Aug 2026 03:01:00 GMT",
+        "category": "Top News"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Goldman traders are on pace for a record year. A close-up look at how they&apos;re doing it",
+        "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+        "pubDate": "Sat, 01 Aug 2026 20:22:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+        "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+        "pubDate": "Sat, 01 Aug 2026 12:00:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Iran&apos;s overlapping power centers make ending the war more complicated",
+        "link": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
+        "pubDate": "Sat, 01 Aug 2026 06:52:42 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+        "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+        "pubDate": "Fri, 31 Jul 2026 21:49:40 GMT",
+        "category": "tech"
+      }
+    ]
   }
 }
