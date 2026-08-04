@@ -1,35 +1,108 @@
 {
-  "updated_at": "2026-08-04T10:48:10.001971",
+  "updated_at": "2026-08-04T14:29:29.113166",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Guatemala evacuates villages due to an eruption of the Fuego volcano",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f6dafce240d5a6414fb2d2f454b0&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffuego-volcano-guatemala-eruption-evacuation-d4791ca218180a2daa42a3b09673a52c&amp;c=1517761186517497666&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 06:49:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Live updates: Trump\u2019s tax audit immunity remains in place as Blanche\u2019s path to confirmation is cleared",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f6dafce240d5a6414fb2d2f454b0&amp;url=https%3a%2f%2fapnews.com%2flive%2ftrump-news-blanche-iran-updates-08-04-2026&amp;c=1325285100402704780&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 06:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "PGA Tour regular season ends with Wyndham Championship and LIV goes to Trump Bedminster",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f6dafce240d5a6414fb2d2f454b0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwyndham-championship-fedex-cup-liv-golf-78e330a09b2ceef4f8900687d9694e5c&amp;c=8961200344628833201&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 06:33:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Musk likely to face tough questions during SpaceX\u2019s first earnings call as a public company",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f6dafce240d5a6414fb2d2f454b0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmusk-spacex-tesla-earnings-merger-3b7b66a3e522e51d75caebc40af7e09e&amp;c=1153428078882045269&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 06:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Top FIFA officials Wenger and Grafstr&#246;m distance themselves from Infantino\u2019s World Cup sell-off plan",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f6dcdfe2400c88a3ca07efdc78fd&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffifa-world-cup-private-investors-wenger-infantino-7a553620217d2b1299b0c8bea8b800cd&amp;c=974999283972307652&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 05:26:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trump is making a rare Western trip to talk about the economy, something polls show he\u2019s weak on",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f6dafce240d5a6414fb2d2f454b0&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-california-nevada-economy-69284a95842b0266af8b54a6d31ced4a&amp;c=14496818212352723782&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 04:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump criticizes Pirro\u2019s move to drop Reflecting Pool vandalism charges, what to watch in today\u2019s primaries, spicy cocktails",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f6dafce240d5a6414fb2d2f454b0&amp;url=https%3a%2f%2fapnews.com%2fnewsletter%2fmorning-wire%2faugust-4-2026&amp;c=11583300953870332853&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 03:38:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "A new football title chase lies ahead as women\u2019s flag football closes in on NCAA championship status",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f70ba92648eea74ea5d855f1aa0c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fncaa-womens-flag-football-17aa1c0c9934f219998b14222b48bc30&amp;c=13765214371870005936&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 03:00:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Former progressive Squad member Cori Bush attempts political comeback against Missouri US Rep. Bell",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f6dafce240d5a6414fb2d2f454b0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmissouri-election-2026-primary-5226443026ad3b9a3e9a5979abb910a9&amp;c=15494656024256869199&amp;mkt=en-us",
+        "pubDate": "Mon, 03 Aug 2026 21:01:00 GMT",
+        "category": "Top News"
+      }
+    ],
     "npr": [
+      {
+        "title": "13 new books in August will get you through the dog days of summer",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
+        "pubDate": "Tue, 04 Aug 2026 09:34:45 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+        "link": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+        "pubDate": "Tue, 04 Aug 2026 07:29:23 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "They&apos;re a world leader in using drones for healthcare. But drones can&apos;t do it all",
+        "link": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
+        "pubDate": "Tue, 04 Aug 2026 07:05:10 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
+        "link": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
+        "pubDate": "Tue, 04 Aug 2026 06:56:56 -0400",
+        "category": "us"
+      },
       {
         "title": "The sneaky economics of healthwashing",
         "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
         "pubDate": "Tue, 04 Aug 2026 06:30:00 -0400",
-        "category": "us"
+        "category": "business"
       },
       {
         "title": "Why Texas is betting &apos;Y&apos;all Street&apos; can take on Wall Street",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Medicaid work rule leaves homeless people in the cold",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "5 states hold polls on Tuesday. Here&apos;s what to know",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
         "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
         "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
+        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Medicaid work rule leaves homeless people in the cold",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
         "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -44,37 +117,43 @@
         "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
         "pubDate": "Tue, 04 Aug 2026 02:59:01 -0400",
         "category": "world"
-      },
-      {
-        "title": "These are some of the last pristine ocean ecosystems. Now, they&apos;re losing protections",
-        "link": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
-        "pubDate": "Mon, 03 Aug 2026 18:53:15 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
-        "pubDate": "Mon, 03 Aug 2026 17:17:49 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
-        "pubDate": "Mon, 03 Aug 2026 15:33:05 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+        "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 04 Aug 2026 13:59:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Scottish exam pass rates rise as students find out results",
+        "link": "https://www.bbc.co.uk/news/articles/c8xn11nv12do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 04 Aug 2026 13:51:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Prison overcrowding crisis limits ability to cut early releases, minister says",
+        "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 04 Aug 2026 12:51:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+        "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 04 Aug 2026 12:19:50 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "More than 150 migrants rescued after boat catches fire in Channel",
         "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 04 Aug 2026 10:38:27 GMT",
+        "pubDate": "Tue, 04 Aug 2026 11:19:08 GMT",
         "category": "world"
       },
       {
-        "title": "Boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
-        "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 04 Aug 2026 10:23:55 GMT",
+        "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 04 Aug 2026 10:45:14 GMT",
         "category": "Top News"
       },
       {
@@ -100,94 +179,130 @@
         "link": "https://www.bbc.co.uk/news/articles/cd9wk27y05zo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 04 Aug 2026 06:55:45 GMT",
         "category": "health"
-      },
-      {
-        "title": "Ariana Grande says 'boundaries need to be set' after announcing break",
-        "link": "https://www.bbc.co.uk/news/articles/c6295z6jkw6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 04 Aug 2026 06:36:18 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
-        "link": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 04 Aug 2026 01:08:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
-        "link": "https://www.bbc.co.uk/weather/articles/c62q036nqxyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 03 Aug 2026 23:28:34 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "There's a reason child vaccination rates are falling - and it's not social media",
-        "link": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 03 Aug 2026 23:10:05 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "US consumer watchdog supervisor warned staff of 'unpleasant' fallout if they go too hard on firms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71c2df4bfd420d8e1249c1c40791cf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-consumer-watchdog-supervisor-warned-staff-unpleasant-fallout-if-they-go-too-2026-08-04%2f&amp;c=9404885861452478349&amp;mkt=en-us",
-        "pubDate": "Tue, 04 Aug 2026 03:09:00 GMT",
+        "title": "In Brazil, Indigenous experts care for native, stingless bees",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f70e26244761946623a949af2293&amp;url=https%3a%2f%2fwww.reuters.com%2finvestigates%2fspecial-report%2fbrazil-indigenous-bees%2f&amp;c=16408147152452959886&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 07:22:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Michigan primary offers key test of Democratic voters' views on Israel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71c2df4bfd420d8e1249c1c40791cf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fmichigan-primary-offers-key-test-democratic-voters-views-israel-2026-08-04%2f&amp;c=18232872682520552097&amp;mkt=en-us",
-        "pubDate": "Tue, 04 Aug 2026 03:06:00 GMT",
+        "title": "S&amp;P 500, Dow hit record highs on strong AI-linked earnings, Mideast deal hopes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f70e26244761946623a949af2293&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnasdaq-futures-underpinned-by-strong-ai-forecasts-focus-earnings-data-2026-08-04%2f&amp;c=16078580268986039301&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 06:56:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Focus: SpaceX's satellite ambitions squeeze out rivals reliant on its rockets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71c2df4bfd420d8e1249c1c40791cf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fspacexs-satellite-ambitions-squeeze-out-rivals-reliant-its-rockets-2026-08-04%2f&amp;c=5775237976715212552&amp;mkt=en-us",
-        "pubDate": "Tue, 04 Aug 2026 03:06:00 GMT",
+        "title": "How the Iran war threatens global airlines",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f70e26244761946623a949af2293&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW311204082026RP1%2f&amp;c=711187187111755565&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 06:53:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump vowed to 'bring free speech back.' Judges in 75 cases ruled that he has stifled it",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71c2df4bfd420d8e1249c1c40791cf&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-vowed-bring-free-speech-back-judges-75-cases-ruled-that-he-has-stifled-it-2026-08-04%2f&amp;c=4365435289110562320&amp;mkt=en-us",
-        "pubDate": "Tue, 04 Aug 2026 03:05:00 GMT",
+        "title": "SNAPSHOT S&amp;P 500 hits record high on strong AI-linked earnings, Mideast deal hopes",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f70e26244761946623a949af2293&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsnapshot-sp-500-hits-record-high-strong-ai-linked-earnings-mideast-deal-hopes-2026-08-04%2f&amp;c=8267738726778013850&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 06:35:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Indonesia completes ferry fire rescue operation, five dead, agency says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71c2df4bfd420d8e1249c1c40791cf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2findonesia-completes-ferry-fire-rescue-operation-five-dead-agency-says-2026-08-04%2f&amp;c=17692024329544967160&amp;mkt=en-us",
-        "pubDate": "Tue, 04 Aug 2026 03:02:00 GMT",
+        "title": "AI offers 'lifeline' for emerging economies, World Bank says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f71187ce451c9c1c1ab370cf573b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fai-offers-lifeline-emerging-economies-world-bank-says-2026-08-04%2f&amp;c=2942746949687676260&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 06:02:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "'Go now, go now': Spokane family returns to wildfire-destroyed home",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f70e26244761946623a949af2293&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRCV00GTKZ%2f&amp;c=7226838761685527957&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 05:59:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Nasdaq futures underpinned by strong AI forecasts; focus on earnings, data",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71c2df4bfd420d8e1249c1c40791cf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnasdaq-futures-underpinned-by-strong-ai-forecasts-focus-earnings-data-2026-08-04%2f&amp;c=16078580268986039301&amp;mkt=en-us",
-        "pubDate": "Tue, 04 Aug 2026 02:40:00 GMT",
-        "category": "Top News"
+        "title": "Obsidian Security raises funding at $1.1 billion valuation on AI security demand",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f724311141c983095360d414111f&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fobsidian-security-raises-funding-11-billion-valuation-ai-security-demand-2026-08-04%2f&amp;c=11040114815592936643&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 05:02:00 GMT",
+        "category": "tech"
       },
       {
-        "title": "Battle lines drawn as Infantino fights to hold onto power after FIFA stake sale fiasco",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71c2df4bfd420d8e1249c1c40791cf&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fbattle-lines-drawn-infantino-fights-hold-onto-power-after-fifa-stake-sale-fiasco-2026-08-04%2f&amp;c=991155288996186092&amp;mkt=en-us",
-        "pubDate": "Tue, 04 Aug 2026 01:25:00 GMT",
-        "category": "Top News"
+        "title": "Shifting left, Democrats see universal health care, taxing the rich as 'essential,' Reuters/Ipsos poll finds",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f7256844459596b77da755ecc343&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fshifting-left-democrats-see-universal-health-care-taxing-rich-essential-2026-08-04%2f&amp;c=10875909239648300247&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 03:03:00 GMT",
+        "category": "health"
       },
       {
-        "title": "Shein seeks $30-$40 billion valuation for August Hong Kong IPO, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71c2df4bfd420d8e1249c1c40791cf&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fshein-seeks-30-40-billion-valuation-august-hong-kong-ipo-sources-say-2026-08-04%2f&amp;c=227794542394232684&amp;mkt=en-us",
+        "title": "Shein targets $30 to $40 billion Hong Kong IPO valuation this month, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f70e26244761946623a949af2293&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fshein-seeks-30-40-billion-valuation-august-hong-kong-ipo-sources-say-2026-08-04%2f&amp;c=227794542394232684&amp;mkt=en-us",
         "pubDate": "Mon, 03 Aug 2026 21:09:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71c2df4bfd420d8e1249c1c40791cf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fdemocrats-lead-republicans-economy-trump-approval-falls-reutersipsos-poll-finds-2026-08-03%2f&amp;c=1413267474515548863&amp;mkt=en-us",
-        "pubDate": "Mon, 03 Aug 2026 13:18:00 GMT",
-        "category": "Top News"
+        "title": "What a gastroenterologist says about cyclospora deaths in the US",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a71f712db5b42fdbe64c411426297c1&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW297803082026RP1%2f&amp;c=14527788771282118888&amp;mkt=en-us",
+        "pubDate": "Mon, 03 Aug 2026 17:00:00 GMT",
+        "category": "us"
       }
     ],
     "markets": [
       {
-        "title": "Trump warns Iran talks are \u2018last chance\u2019 to end war \u2014 oil prices rise as Tehran denies negotiations",
-        "link": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
-        "pubDate": "Tue, 04 Aug 2026 09:55:49 GMT",
+        "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with &apos;freedom of movement&apos;",
+        "link": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
+        "pubDate": "Tue, 04 Aug 2026 14:00:55 GMT",
         "category": "world"
+      },
+      {
+        "title": "Foreigners are buying fewer U.S. properties, but luxury homebuilders still draw them in",
+        "link": "https://www.cnbc.com/2026/08/04/foreign-buyers-us-properties.html",
+        "pubDate": "Tue, 04 Aug 2026 13:33:21 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
+        "link": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
+        "pubDate": "Tue, 04 Aug 2026 13:31:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
+        "link": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
+        "pubDate": "Tue, 04 Aug 2026 13:24:53 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
+        "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
+        "pubDate": "Tue, 04 Aug 2026 13:18:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
+        "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
+        "pubDate": "Tue, 04 Aug 2026 13:12:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Palantir earnings, McDonald&apos;s new U.S. head, tiny &apos;cars&apos; and more in Morning Squawk",
+        "link": "https://www.cnbc.com/2026/08/04/5-things-to-know-before-the-stock-market-opens.html",
+        "pubDate": "Tue, 04 Aug 2026 12:42:32 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Kalshi strikes partnership with compliance tech firm to help companies police insider trading",
+        "link": "https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html",
+        "pubDate": "Tue, 04 Aug 2026 12:05:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: McDonald&apos;s, Caterpillar, Palantir, Merck &amp; more",
+        "link": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-premarket-mcd-cat-pltr-mrk.html",
+        "pubDate": "Tue, 04 Aug 2026 11:42:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Kalshi traders think July jobs report will come in slightly cooler than economists\u2019 predictions",
+        "link": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
+        "pubDate": "Mon, 03 Aug 2026 15:59:04 GMT",
+        "category": "Top News"
       }
     ]
   }
