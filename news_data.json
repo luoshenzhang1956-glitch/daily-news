@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-08-04T17:56:04.514152",
+  "updated_at": "2026-08-04T19:46:26.596218",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Chipotle pulls jalape&#241;os from some restaurants as health officials investigate salmonella outbreak",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a724100264c4e36a20fb9b0b3b61e50&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchipotle-jalapeno-salmonella-outbreak-investigation-feecdd5ba46237c8992e41de8ea6d1df&amp;c=15195607005976907491&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 12:24:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "The Danube River\u2019s water is dropping so low that World War II ships are emerging",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7240d061814bad8579bccbbbd08157&amp;url=https%3a%2f%2fapnews.com%2farticle%2fserbia-danube-river-drought-ships-7f938261b92ebbc88330d5f1b892fb2e&amp;c=18408824716215771004&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 07:59:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
+        "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
+        "pubDate": "Tue, 04 Aug 2026 14:01:04 -0400",
+        "category": "world"
+      },
       {
         "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
@@ -13,7 +32,7 @@
         "title": "Europe heat wave fuels drought, fires and energy fears",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
         "pubDate": "Tue, 04 Aug 2026 12:37:38 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "13 new books in August will get you through the dog days of summer",
@@ -46,35 +65,35 @@
         "category": "business"
       },
       {
+        "title": "Why Texas is betting &apos;Y&apos;all Street&apos; can take on Wall Street",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
+        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "5 states have primary elections on Tuesday. These are the races to watch",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A veteran was detained by the National Guard in her front yard. Now she&apos;s suing",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918354/national-guard-dc-veteran-detained",
         "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Princess Eugenie gives birth to baby girl in Portugal",
-        "link": "https://www.bbc.co.uk/news/articles/cpq81pxw5gro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 04 Aug 2026 17:44:10 GMT",
+        "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+        "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 04 Aug 2026 19:31:26 GMT",
         "category": "Top News"
       },
       {
-        "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
-        "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 04 Aug 2026 17:33:13 GMT",
+        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+        "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 04 Aug 2026 19:00:43 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Princess Eugenie gives birth to baby girl in Portugal",
+        "link": "https://www.bbc.co.uk/news/articles/cpq81pxw5gro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 04 Aug 2026 17:44:10 GMT",
         "category": "Top News"
       },
       {
@@ -88,12 +107,6 @@
         "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 04 Aug 2026 17:25:41 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-        "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 04 Aug 2026 17:06:17 GMT",
-        "category": "business"
       },
       {
         "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
@@ -126,56 +139,14 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
-        "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
-        "pubDate": "Tue, 04 Aug 2026 17:49:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Novo Nordisk shares slide after guidance disappoints investors",
-        "link": "https://www.cnbc.com/2026/08/04/novo-nordisk-releases-earnings-and-guidance.html",
-        "pubDate": "Tue, 04 Aug 2026 17:30:15 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-        "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-        "pubDate": "Tue, 04 Aug 2026 16:14:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with &apos;freedom of movement&apos;",
-        "link": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
-        "pubDate": "Tue, 04 Aug 2026 14:00:55 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
-        "link": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
-        "pubDate": "Tue, 04 Aug 2026 13:31:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kalshi strikes partnership with compliance tech firm to help companies police insider trading",
-        "link": "https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html",
-        "pubDate": "Tue, 04 Aug 2026 12:05:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: McDonald&apos;s, Caterpillar, Palantir, Merck &amp; more",
-        "link": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-premarket-mcd-cat-pltr-mrk.html",
-        "pubDate": "Tue, 04 Aug 2026 11:42:17 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "California&apos;s diesel prices have jumped since the Iran war started, with ripple effects across the country",
-        "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
-        "pubDate": "Mon, 03 Aug 2026 19:20:25 GMT",
-        "category": "Top News"
+        "title": "FTC takes closer look at Cencora-Covetrus animal health merger, Bloomberg News reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a724140c9af44c08422c440efa80d74&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fftc-takes-closer-look-cencora-covetrus-animal-health-merger-bloomberg-news-2026-08-04%2f&amp;c=3856497346343768389&amp;mkt=en-us",
+        "pubDate": "Tue, 04 Aug 2026 11:31:00 GMT",
+        "category": "health"
       }
-    ]
+    ],
+    "markets": []
   }
 }
