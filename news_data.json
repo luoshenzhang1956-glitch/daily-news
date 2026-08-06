@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-08-06T10:47:31.552413",
+  "updated_at": "2026-08-06T14:27:55.305171",
   "news": {
     "ap": [],
     "npr": [
       {
-        "title": "How deep-rooted medical bias creates deadly consequences for addiction patients",
+        "title": "Trump administration moves to deregulate Head Start, opening door for sweeping change",
+        "link": "https://www.npr.org/2026/08/06/nx-s1-5920386/head-start-regulations-trump",
+        "pubDate": "Thu, 06 Aug 2026 09:30:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "How Cambodia became the first Asian country to hit an elusive HIV target",
+        "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
+        "pubDate": "Thu, 06 Aug 2026 09:13:28 -0400",
+        "category": "world"
+      },
+      {
+        "title": "El-Sayed wins Michigan&apos;s primary. And, Fauci faces contempt of Congress vote",
+        "link": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
+        "pubDate": "Thu, 06 Aug 2026 07:30:59 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
         "link": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
         "pubDate": "Thu, 06 Aug 2026 05:52:45 -0400",
-        "category": "us"
+        "category": "health"
       },
       {
         "title": "Celebrity culture is one thing. For TMZ, Congress is the new &apos;reality show&apos;",
@@ -19,7 +37,7 @@
         "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
         "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
         "pubDate": "Thu, 06 Aug 2026 04:52:16 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Morning news brief",
@@ -28,13 +46,7 @@
         "category": "Top News"
       },
       {
-        "title": "Most U.S. doctors avoid treating patients with addiction, leaving millions vulnerable",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5918040/most-u-s-doctors-avoid-treating-patients-with-addiction-leaving-millions-vulnerable",
-        "pubDate": "Thu, 06 Aug 2026 04:39:55 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
+        "title": "Senate Homeland Security committee votes to hold Fauci in contempt of Congress",
         "link": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
         "pubDate": "Thu, 06 Aug 2026 03:16:22 -0400",
         "category": "Top News"
@@ -50,32 +62,44 @@
         "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
         "pubDate": "Wed, 05 Aug 2026 16:43:29 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
-        "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
-        "pubDate": "Wed, 05 Aug 2026 16:23:02 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-        "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
-        "pubDate": "Wed, 05 Aug 2026 16:00:24 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show",
-        "link": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 06 Aug 2026 10:19:39 GMT",
+        "title": "EasyJet agrees to \u00a35.7bn takeover by US firm",
+        "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 06 Aug 2026 14:21:07 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Burnham orders review of grooming gang early releases",
+        "link": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 06 Aug 2026 13:56:53 GMT",
         "category": "Top News"
       },
       {
-        "title": "Families' anger at jailed funeral boss's apology letter",
-        "link": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 06 Aug 2026 10:17:59 GMT",
+        "title": "Calls for inquiry into Army training college for teenagers after reports of rape and abuse",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 06 Aug 2026 12:51:39 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Farmer jailed for lodger's 'body in barrel' murder",
+        "link": "https://www.bbc.co.uk/news/articles/c8jnwennnkdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 06 Aug 2026 12:30:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine hits two oil refineries deep in Russian territory",
+        "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 06 Aug 2026 12:18:48 GMT",
+        "category": "world"
+      },
+      {
+        "title": "NHS must plan for heatwaves like it does for winter, health secretary says",
+        "link": "https://www.bbc.co.uk/news/articles/c4gke0dvgvvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 06 Aug 2026 12:05:00 GMT",
+        "category": "health"
       },
       {
         "title": "Majority of England's rivers and lakes fail new environmental review",
@@ -87,13 +111,7 @@
         "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
         "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 06 Aug 2026 09:40:18 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Walk-in mental health centres to open in banks and libraries across England",
-        "link": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 06 Aug 2026 07:28:08 GMT",
-        "category": "health"
+        "category": "tech"
       },
       {
         "title": "Cambridge professor at centre of plagiarism row resigns",
@@ -102,98 +120,26 @@
         "category": "Top News"
       },
       {
-        "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-        "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 06 Aug 2026 05:00:54 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
-        "link": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 06 Aug 2026 05:00:09 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "US beef prices have soared but farmers aren't making more money",
         "link": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 05 Aug 2026 23:23:05 GMT",
         "category": "us"
-      },
-      {
-        "title": "AI or real? BBC analyses viral China disaster videos",
-        "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 05 Aug 2026 22:00:32 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7465c720044477a861148e8adba74f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftwo-israeli-soldiers-killed-southern-lebanon-israeli-military-says-2026-08-06%2f&amp;c=13284781213874461742&amp;mkt=en-us",
-        "pubDate": "Thu, 06 Aug 2026 03:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How the new generation of left-wing US media is powering progressive candidates",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7465c720044477a861148e8adba74f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fhow-new-generation-left-wing-us-media-is-powering-progressive-candidates-2026-08-06%2f&amp;c=11613552511575901193&amp;mkt=en-us",
-        "pubDate": "Thu, 06 Aug 2026 03:09:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "In deep-red Tennessee, governor's race becomes showdown between staunch Trump allies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7465c720044477a861148e8adba74f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fdeep-red-tennessee-governors-race-becomes-showdown-between-staunch-trump-allies-2026-08-06%2f&amp;c=2281328987118260438&amp;mkt=en-us",
-        "pubDate": "Thu, 06 Aug 2026 03:09:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "South African clothing factories struggle after migrant workers flee",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7465c720044477a861148e8adba74f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fsouth-african-clothing-factories-struggle-after-migrant-workers-flee-2026-08-06%2f&amp;c=13645461976173119994&amp;mkt=en-us",
-        "pubDate": "Thu, 06 Aug 2026 03:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7465c720044477a861148e8adba74f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-war-drags-americans-are-bracing-more-chaos-middle-east-reutersipsos-poll-2026-08-06%2f&amp;c=11611601081302414412&amp;mkt=en-us",
-        "pubDate": "Thu, 06 Aug 2026 03:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "European stocks rise on earnings optimism as traders weigh Iran proposals",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7465c720044477a861148e8adba74f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-08-06%2f&amp;c=9324630629274611792&amp;mkt=en-us",
-        "pubDate": "Thu, 06 Aug 2026 03:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7465c720044477a861148e8adba74f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fpressured-by-tesla-european-regulators-keep-full-self-driving-safety-data-secret-2026-08-06%2f&amp;c=14687719978116703954&amp;mkt=en-us",
-        "pubDate": "Thu, 06 Aug 2026 03:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "As Pakistan's army chief turns on hardline Islamist groups, blasphemy cases plummet",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7465c720044477a861148e8adba74f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistans-army-chief-turns-hardline-islamist-groups-blasphemy-cases-plummet-2026-08-06%2f&amp;c=6324097399439988251&amp;mkt=en-us",
-        "pubDate": "Thu, 06 Aug 2026 01:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Google\u2019s $15 billion India data centre project battles water, wildlife concerns",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7465c720044477a861148e8adba74f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fgoogles-15-billion-india-data-centre-project-battles-water-wildlife-concerns-2026-08-06%2f&amp;c=11088619951324007060&amp;mkt=en-us",
-        "pubDate": "Thu, 06 Aug 2026 00:18:00 GMT",
-        "category": "Top News"
+        "title": "EPAM cuts annual revenue forecast on weak software services demand, shares fall",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a749990f41e4252a0f7f0c249b573da&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fepam-cuts-annual-revenue-forecast-weak-software-services-demand-2026-08-06%2f&amp;c=2226183084752477675&amp;mkt=en-us",
+        "pubDate": "Thu, 06 Aug 2026 04:25:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
-        "link": "https://www.cnbc.com/2026/08/06/hadrian-defense-tech-ai-manufacturing.html",
-        "pubDate": "Thu, 06 Aug 2026 09:54:58 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale",
-        "link": "https://www.cnbc.com/2026/08/06/astrazeneca-bristol-myers-merger-talks.html",
-        "pubDate": "Thu, 06 Aug 2026 09:40:16 GMT",
-        "category": "health"
+        "title": "U.S. ready to return to \u2018commitments,\u2019 Iran says as Strait of Hormuz deal looms",
+        "link": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
+        "pubDate": "Thu, 06 Aug 2026 13:08:54 GMT",
+        "category": "world"
       }
     ]
   }
