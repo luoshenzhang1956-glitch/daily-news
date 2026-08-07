@@ -1,10 +1,29 @@
 {
-  "updated_at": "2026-08-07T15:00:38.238390",
+  "updated_at": "2026-08-07T16:59:57.605986",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a760eb4a8824ad2a076710e201819a8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fartificial-intelligence-financial-planning-money-7b77e31b127d83dd22c11161ffaddff2&amp;c=731900303186102331&amp;mkt=en-us",
+        "pubDate": "Fri, 07 Aug 2026 05:31:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Syria\u2019s Health Ministry corrects Damascus minibus blast toll: 14 wounded, no deaths",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a760eb5894f45998f384be0e3c2d766&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsyria-jaramana-explosion-minibus-car-bomb-bd0379b83a4ab8c0b613799162cfd5cd&amp;c=3415817912457381504&amp;mkt=en-us",
+        "pubDate": "Fri, 07 Aug 2026 01:25:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
-        "title": "Murkowski will oppose Blanche nomination, narrowing his path to confirmation",
+        "title": "Colombia&apos;s new president vows to remake the country \u2014 and challenge its fragile peace",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
+        "pubDate": "Fri, 07 Aug 2026 11:41:45 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Blanche&apos;s path to confirmation appears clear after winning key Republican&apos;s support",
         "link": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
         "pubDate": "Fri, 07 Aug 2026 10:12:59 -0400",
         "category": "Top News"
@@ -25,7 +44,7 @@
         "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
         "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
         "pubDate": "Fri, 07 Aug 2026 06:56:19 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Kalshi and Polymarket bets on clinical trials criticized as &apos;ghastly&apos;",
@@ -56,37 +75,43 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
         "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
-        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
-        "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 07 Aug 2026 14:48:00 GMT",
+        "title": "Streeting 'sickened' by sex abuse claims at Army college",
+        "link": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 07 Aug 2026 16:53:25 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
-        "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 07 Aug 2026 14:44:35 GMT",
-        "category": "world"
       },
       {
         "title": "Serial sex offender guilty of murdering two women and raping third",
         "link": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 07 Aug 2026 14:43:09 GMT",
+        "pubDate": "Fri, 07 Aug 2026 16:46:50 GMT",
         "category": "Top News"
       },
       {
-        "title": "Streeting 'sickened' by sex abuse claims at Army college",
-        "link": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 07 Aug 2026 14:34:29 GMT",
+        "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+        "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 07 Aug 2026 16:31:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How a 90-second power outage sparked chaos for rail commuters",
+        "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 07 Aug 2026 16:11:32 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Seven killed after Thai student opens fire at home and school",
+        "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 07 Aug 2026 15:51:16 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
+        "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 07 Aug 2026 14:48:00 GMT",
         "category": "Top News"
       },
       {
@@ -99,18 +124,6 @@
         "title": "How police let a registered sex offender murder and attack women",
         "link": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 07 Aug 2026 14:03:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "How a 90-second power outage sparked  chaos for rail commuters",
-        "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 07 Aug 2026 12:30:07 GMT",
-        "category": "business"
-      },
-      {
-        "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
-        "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 07 Aug 2026 09:30:30 GMT",
         "category": "Top News"
       },
       {
@@ -128,30 +141,72 @@
     ],
     "reuters": [
       {
-        "title": "Some Chinese traders, steelmakers stopped dealing with Radiant World, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a75f2a5fc794aa6935821d63e6156a9&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsome-chinese-traders-steelmakers-stopped-dealing-with-radiant-world-sources-say-2026-08-07%2f&amp;c=2735706748260583802&amp;mkt=en-us",
-        "pubDate": "Fri, 07 Aug 2026 06:36:00 GMT",
-        "category": "world"
+        "title": "Trump says Congress wants to regulate AI industry 'out of business'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a760ee3a7d14af99f72ed8973f77fdb&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2ftrump-says-congress-wants-regulate-ai-industry-out-business-2026-08-07%2f&amp;c=6971737322124819897&amp;mkt=en-us",
+        "pubDate": "Fri, 07 Aug 2026 07:20:00 GMT",
+        "category": "business"
       },
       {
         "title": "Volkswagen to overhaul US strategy with planned pick-up truck, source says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a75f2a607504f089c191436a003df0f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fvolkswagen-overhaul-us-strategy-with-planned-pick-up-truck-source-says-2026-08-07%2f&amp;c=153121603453923387&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a760ee23779497bb37edb258169d230&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fvolkswagen-overhaul-us-strategy-with-planned-pick-up-truck-source-says-2026-08-07%2f&amp;c=153121603453923387&amp;mkt=en-us",
         "pubDate": "Fri, 07 Aug 2026 05:13:00 GMT",
         "category": "us"
+      },
+      {
+        "title": "Who is liable when AI goes rogue? Lawyers see new risks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a760ee629624da39f57fdfb12687044&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwho-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07%2f&amp;c=14599474263202381024&amp;mkt=en-us",
+        "pubDate": "Fri, 07 Aug 2026 03:07:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "SpaceX shares upgraded. Argus says AI investments will pay off, and don&apos;t bet against Musk",
-        "link": "https://www.cnbc.com/2026/08/07/spacex-shares-upgraded-argus-says-dont-bet-against-musk.html",
-        "pubDate": "Fri, 07 Aug 2026 14:46:29 GMT",
+        "title": "Berkshire earnings may prove stock is cheap. And that Abel and Buffett think so too",
+        "link": "https://www.cnbc.com/2026/08/07/berkshire-earnings-may-prove-stock-is-cheap-and-that-abel-and-buffett-think-so-too.html",
+        "pubDate": "Fri, 07 Aug 2026 16:43:36 GMT",
         "category": "us"
       },
       {
-        "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-        "link": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
-        "pubDate": "Fri, 07 Aug 2026 13:40:19 GMT",
+        "title": "Trump teased an Iran deal that didn&apos;t come, but markets soared. Here\u2019s why it keeps happening",
+        "link": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+        "pubDate": "Fri, 07 Aug 2026 16:40:08 GMT",
         "category": "world"
+      },
+      {
+        "title": "Chesky says Airbnb will spend \u2018a lot more\u2019 on AI as earnings beat and stock surges 15%",
+        "link": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
+        "pubDate": "Fri, 07 Aug 2026 16:28:54 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+        "link": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+        "pubDate": "Fri, 07 Aug 2026 16:18:58 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+        "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+        "pubDate": "Fri, 07 Aug 2026 13:34:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Atlassian Corporation, Doximity, First Solar, Airbnb\u00a0&amp; more",
+        "link": "https://www.cnbc.com/2026/08/07/stocks-making-the-biggest-moves-premarket-atlassian-corporation-wendys-vista-corp-first-solar-airbnb-more.html",
+        "pubDate": "Fri, 07 Aug 2026 13:23:35 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
+        "link": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
+        "pubDate": "Thu, 06 Aug 2026 20:37:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Copper jumps to its highest level ever. What the metal is telling us",
+        "link": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
+        "pubDate": "Thu, 06 Aug 2026 20:07:51 GMT",
+        "category": "Top News"
       }
     ]
   }
