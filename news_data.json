@@ -1,26 +1,38 @@
 {
-  "updated_at": "2026-08-08T20:37:38.273275",
+  "updated_at": "2026-08-08T22:37:00.499926",
   "news": {
     "ap": [
       {
-        "title": "Eagles All-Pro offensive lineman Lane Johnson says his 14th season will \u2018probably\u2019 be his last",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77934935c34bbdb828382624bb9b40&amp;url=https%3a%2f%2fapnews.com%2farticle%2fphiladelphia-eagles-lane-johnson-nfl-68b71fa5a045ffda14a24873a21f9a88&amp;c=16664607696860442646&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 10:07:00 GMT",
-        "category": "health"
+        "title": "Morocco earns Women\u2019s World Cup berth with 2-1 WAFCON quarterfinal victory over South Africa",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77aef2109b41619ee86ff5730228bd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmorocco-south-africa-score-wafcon-womens-world-cup-70432c34da29a7f525b86d673f2645d4&amp;c=131835228979300500&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 15:32:00 GMT",
+        "category": "world"
       },
       {
-        "title": "Pirates aim to end losing streak in game against the Mets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77933e77f047ac9a4d50b77a18a980&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnew-york-mets-pittsburgh-pirates-carson-benge-baseball-illinois-a1746c98bfd84d2cabce835eaa78578c&amp;c=6273298972378880573&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 01:00:00 GMT",
-        "category": "tech"
+        "title": "America In Focus: US employers unexpectedly cut 23,000 jobs; mortgage rates rise again",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77aef35b78435b89eeaf966f1ec7de&amp;url=https%3a%2f%2fapnews.com%2farticle%2finflation-economy-trump-iran-unemployment-7e17e0d7b7baf952878274ced568a2f8&amp;c=4737794269153941187&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 07:10:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
       {
+        "title": "National Guard deployment in D.C. approaches one year",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5924868/national-guard-deployment-in-d-c-approaches-one-year",
+        "pubDate": "Sat, 08 Aug 2026 17:32:11 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Tanker sailors still face danger in the Strait of Hormuz",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+        "pubDate": "Sat, 08 Aug 2026 17:19:54 -0400",
+        "category": "world"
+      },
+      {
         "title": "Ukraine mourns &apos;collector of souls&apos; Oleksiy Yukov, killed recovering war dead",
         "link": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
         "pubDate": "Sat, 08 Aug 2026 13:46:05 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "K-pop&apos;s global wave inspires Chile&apos;s next pop stars",
@@ -33,12 +45,6 @@
         "link": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
         "pubDate": "Sat, 08 Aug 2026 08:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Diehard Phillies fan wins $22K broadcast bid, sounds like a 1940s radio pro",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5925284/diehard-phillies-fan-wins-22k-broadcast-bid-sounds-like-a-1940s-radio-pro",
-        "pubDate": "Sat, 08 Aug 2026 07:43:54 -0400",
-        "category": "us"
       },
       {
         "title": "Meta AI breaches external firm during security testing sandbox error",
@@ -69,12 +75,6 @@
         "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
         "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
         "category": "health"
-      },
-      {
-        "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
-        "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
@@ -141,91 +141,67 @@
     ],
     "reuters": [
       {
-        "title": "British Columbia declares provincial state of emergency as wildfires grow",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77934b40cf4a14981012c01b23c9d3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fbritish-columbia-declares-provincial-state-emergency-wildfires-grow-2026-08-08%2f&amp;c=13594349677324327337&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 13:20:00 GMT",
+        "title": "Gerrit Cole outduels Chris Sale as Yankees edge Braves again",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77af2fffd84840a83b6b59b2bd0d87&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fgerrit-cole-outduels-chris-sale-yankees-edge-braves-again--flm-2026-08-08%2f&amp;c=18174666971125753193&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 15:14:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Paige Taylor White",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77934b40cf4a14981012c01b23c9d3&amp;url=https%3a%2f%2fwww.reuters.com%2fauthors%2fpaige-taylor-white%2f&amp;c=16706580875459005025&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 12:55:00 GMT",
+        "title": "German minister warns of daily 'hybrid warfare' after suspected drone attack",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77af2fffd84840a83b6b59b2bd0d87&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fgerman-minister-warns-daily-hybrid-warfare-after-suspected-drone-attack-2026-08-08%2f&amp;c=15447550033854441644&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 15:12:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77934b40cf4a14981012c01b23c9d3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fex-president-joe-bidens-cancer-has-spread-is-very-painful-son-says-2026-08-08%2f&amp;c=14257264059449373450&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 12:35:00 GMT",
+        "title": "FIFA warns of effort to undermine Infantino as leadership crisis deepens",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77af2fffd84840a83b6b59b2bd0d87&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffifa-warns-effort-undermine-infantino-leadership-crisis-deepens-2026-08-08%2f&amp;c=7266332035679976846&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 14:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Former P Tommy John in hospice care, pens farewell letter",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77af498b8746ecaea19e54267af46a&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fformer-p-tommy-john-hospice-care-pens-farewell-letter--flm-2026-08-08%2f&amp;c=8394985234877234089&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 12:16:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Flying high over Bristol at the annual hot air balloon festival",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77af2fffd84840a83b6b59b2bd0d87&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW412308082026RP1%2f&amp;c=13721201680092066201&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 10:50:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Teenager recounts how she survived Thailand's deadly school shooting",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77934b40cf4a14981012c01b23c9d3&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW410708082026RP1%2f&amp;c=12263777950030928703&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77af2fffd84840a83b6b59b2bd0d87&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW410708082026RP1%2f&amp;c=12263777950030928703&amp;mkt=en-us",
         "pubDate": "Sat, 08 Aug 2026 09:23:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US to partially restart activities in Mexico's avocado hub",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77935bfa2f4ee0b728f9069ee862cf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fus-partially-restart-activities-mexicos-avocado-hub-2026-08-08%2f&amp;c=958200898514891176&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77af31a2f141d8a64e391b8115f977&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fus-partially-restart-activities-mexicos-avocado-hub-2026-08-08%2f&amp;c=958200898514891176&amp;mkt=en-us",
         "pubDate": "Sat, 08 Aug 2026 06:55:00 GMT",
         "category": "us"
       },
       {
-        "title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77934b40cf4a14981012c01b23c9d3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsaudi-arabia-turkey-pakistan-sign-joint-defence-deal-amid-regional-turmoil-2026-08-07%2f&amp;c=4111457016139889889&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 06:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77936dd29f402baf65eb9cca807035&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fapple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08%2f&amp;c=298526377438176787&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 05:35:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77934b40cf4a14981012c01b23c9d3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-says-deal-strait-hormuz-is-close-will-not-open-waterway-by-itself-2026-08-08%2f&amp;c=12521349875132785579&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 05:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Democrats plan Trump investigations over impeachment if they win House, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77934b40cf4a14981012c01b23c9d3&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fdemocrats-plan-trump-investigations-over-impeachment-if-they-win-house-sources-2026-08-08%2f&amp;c=5563996302762242032&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 03:04:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77934b40cf4a14981012c01b23c9d3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fsenate-republicans-narrowly-confirm-todd-blanche-attorney-general-2026-08-08%2f&amp;c=507097062995670028&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 01:34:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77af2fffd84840a83b6b59b2bd0d87&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fsenate-republicans-narrowly-confirm-todd-blanche-attorney-general-2026-08-08%2f&amp;c=507097062995670028&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 06:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Berkshire accelerates buybacks, lowers cash stake as profit tops forecasts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77af3eeb5b4af7b8d75f5b88c67b58&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2fberkshire-lowers-cash-stake-buybacks-accelerate-reports-higher-profit-2026-08-08%2f&amp;c=1790932635804162778&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 06:01:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a77af2fffd84840a83b6b59b2bd0d87&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-says-deal-strait-hormuz-is-close-will-not-open-waterway-by-itself-2026-08-08%2f&amp;c=12521349875132785579&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 05:31:00 GMT",
         "category": "Top News"
       }
     ],
     "markets": [
-      {
-        "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
-        "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-        "pubDate": "Sat, 08 Aug 2026 17:41:31 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-        "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
-        "pubDate": "Sat, 08 Aug 2026 15:00:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Here\u2019s how we played the massive rebound in AI stocks this week",
-        "link": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
-        "pubDate": "Sat, 08 Aug 2026 14:07:30 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett&apos;s massive cash hoard",
-        "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-        "pubDate": "Sat, 08 Aug 2026 13:28:00 GMT",
-        "category": "Top News"
-      },
       {
         "title": "Cyclospora fears lead consumers to lose their appetite for salads",
         "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
