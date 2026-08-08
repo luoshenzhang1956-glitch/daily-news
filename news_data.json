@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-08-08T13:00:36.727728",
+  "updated_at": "2026-08-08T14:38:27.895401",
   "news": {
     "ap": [
       {
-        "title": "California craft liquor delivery is about to go away thanks to big money lobbying",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7727d628294dfaa292191c8c1bef11&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcalifornia-craft-liquor-delivery-last-call-7a4e30300b7267d8a1896d8b27b28616&amp;c=9086208203700801644&amp;mkt=en-us",
-        "pubDate": "Fri, 07 Aug 2026 13:33:00 GMT",
-        "category": "business"
+        "title": "America In Focus: US employers unexpectedly cut 23,000 jobs; mortgage rates rise again",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773eed03a0423aa7b88a553bbfd37a&amp;url=https%3a%2f%2fapnews.com%2farticle%2finflation-economy-trump-iran-unemployment-7e17e0d7b7baf952878274ced568a2f8&amp;c=4737794269153941187&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 07:10:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Pirates aim to end losing streak in game against the Mets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f02458f4a3f929160206224c526&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnew-york-mets-pittsburgh-pirates-carson-benge-baseball-illinois-a1746c98bfd84d2cabce835eaa78578c&amp;c=6273298972378880573&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 01:00:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
+      {
+        "title": "K-pop&apos;s global wave inspires Chile&apos;s next pop stars",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
+        "pubDate": "Sat, 08 Aug 2026 09:34:45 -0400",
+        "category": "world"
+      },
       {
         "title": "Opinion: Europe&apos;s summer of heat",
         "link": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
@@ -38,7 +50,7 @@
         "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
         "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
         "pubDate": "Sat, 08 Aug 2026 07:01:00 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "The Women&apos;s Professional Baseball League makes its historic debut",
@@ -63,23 +75,29 @@
         "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
         "pubDate": "Sat, 08 Aug 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Senate votes to confirm Todd Blanche as attorney general",
-        "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-        "pubDate": "Sat, 08 Aug 2026 04:46:39 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
         "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
         "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 08 Aug 2026 12:36:29 GMT",
+        "pubDate": "Sat, 08 Aug 2026 13:41:32 GMT",
         "category": "business"
       },
       {
-        "title": "Victims urged to come forward as police accused of 'failures' over murderer and rapist",
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 08 Aug 2026 13:29:38 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+        "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 08 Aug 2026 13:23:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
         "link": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 08 Aug 2026 11:55:30 GMT",
         "category": "Top News"
@@ -91,16 +109,16 @@
         "category": "Top News"
       },
       {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 08 Aug 2026 06:12:56 GMT",
-        "category": "world"
-      },
-      {
         "title": "How a former GB Olympian curbed his porn problem - and the signs and steps to recovery",
         "link": "https://www.bbc.co.uk/news/articles/c89n8j5e32do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 08 Aug 2026 01:34:07 GMT",
         "category": "health"
+      },
+      {
+        "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
+        "link": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 08 Aug 2026 00:37:42 GMT",
+        "category": "Top News"
       },
       {
         "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
@@ -115,18 +133,6 @@
         "category": "Top News"
       },
       {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 07 Aug 2026 22:13:55 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-        "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 07 Aug 2026 22:07:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
         "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 07 Aug 2026 17:41:30 GMT",
@@ -135,18 +141,78 @@
     ],
     "reuters": [
       {
-        "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7728231f4946a98554485bbe27cff3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fapple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08%2f&amp;c=298526377438176787&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 05:35:00 GMT",
-        "category": "business"
+        "title": "Giants to honor World Series heroes before interleague matchup with Tigers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f137e00499f93e62e5723cfab9b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fgiants-honor-world-series-heroes-before-interleague-matchup-with-tigers--flm-2026-08-08%2f&amp;c=11813589751016005472&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 07:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f137e00499f93e62e5723cfab9b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fbritish-columbia-district-declares-state-emergency-issues-evacuation-orders-2026-08-08%2f&amp;c=1790961123540911286&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 07:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Father of soccer star Lionel Messi dies at 68 in Argentina",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f137e00499f93e62e5723cfab9b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2ffather-soccer-star-lionel-messi-dies-68-argentina-2026-08-08%2f&amp;c=838206723564137203&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 06:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nats' Daylen Lile strives to keep a hot bat against Reds",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f137e00499f93e62e5723cfab9b&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fnats-daylen-lile-strives-keep-hot-bat-against-reds--flm-2026-08-08%2f&amp;c=1633493822643568393&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 06:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Michigan salad warnings ease, but cyclospora keeps shoppers and grocers on edge",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f2bd9c4418586e14b9a1b9681d3&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fmichigan-salad-warnings-ease-cyclospora-keeps-shoppers-grocers-edge-2026-08-08%2f&amp;c=5839367702336651531&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 06:04:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Berkshire lowers cash stake as buybacks accelerate, reports higher profit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f137e00499f93e62e5723cfab9b&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2fberkshire-lowers-cash-stake-buybacks-accelerate-reports-higher-profit-2026-08-08%2f&amp;c=1790932635804162778&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 06:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Hawaii primary is latest to pit Democratic incumbent against younger, more left-wing challenger",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f137e00499f93e62e5723cfab9b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fhawaii-primary-is-latest-pit-democratic-incumbent-against-younger-more-left-wing-2026-08-08%2f&amp;c=6764156068593554145&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 03:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f137e00499f93e62e5723cfab9b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fsenate-republicans-narrowly-confirm-todd-blanche-attorney-general-2026-08-08%2f&amp;c=507097062995670028&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 01:34:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f1d8ff94813af583f0ee4583a24&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-expects-deal-soon-strait-hormuz-sunni-powers-unite-defense-pact-2026-08-07%2f&amp;c=12812234925941370912&amp;mkt=en-us",
+        "pubDate": "Fri, 07 Aug 2026 17:59:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Battery technology firm Sila receives $1.4 billion Pentagon loan commitment",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a773f2ae2f3459fa4189829699a02e8&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fbattery-technology-firm-sila-receives-14-billion-pentagon-loan-commitment-2026-08-07%2f&amp;c=4436467453377211242&amp;mkt=en-us",
+        "pubDate": "Fri, 07 Aug 2026 14:57:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms &apos;don&apos;t even know it&apos;",
-        "link": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-        "pubDate": "Sat, 08 Aug 2026 12:00:01 GMT",
+        "title": "Here\u2019s how we played the massive rebound in AI stocks this week",
+        "link": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
+        "pubDate": "Sat, 08 Aug 2026 14:07:30 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett&apos;s massive cash hoard",
+        "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+        "pubDate": "Sat, 08 Aug 2026 13:28:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Cyclospora fears lead consumers to lose their appetite for salads",
@@ -155,16 +221,10 @@
         "category": "health"
       },
       {
-        "title": "Odds the Fed will hike in September tumble following big July jobs miss",
-        "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
-        "pubDate": "Fri, 07 Aug 2026 13:34:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Atlassian Corporation, Doximity, First Solar, Airbnb\u00a0&amp; more",
-        "link": "https://www.cnbc.com/2026/08/07/stocks-making-the-biggest-moves-premarket-atlassian-corporation-wendys-vista-corp-first-solar-airbnb-more.html",
-        "pubDate": "Fri, 07 Aug 2026 13:23:35 GMT",
-        "category": "Top News"
+        "title": "Formula One is lagging other sport stocks. Why analysts think it&apos;s poised to race ahead",
+        "link": "https://www.cnbc.com/2026/08/08/formula-one-is-lagging-other-sport-stocks-why-analysts-think-its-poised-to-race-ahead.html",
+        "pubDate": "Sat, 08 Aug 2026 11:51:08 GMT",
+        "category": "us"
       }
     ]
   }
