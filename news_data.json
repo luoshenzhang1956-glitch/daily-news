@@ -1,25 +1,31 @@
 {
-  "updated_at": "2026-08-09T08:52:19.376404",
+  "updated_at": "2026-08-09T10:41:52.264893",
   "news": {
     "ap": [
       {
         "title": "Blue Jays aim to sweep series against the Phillies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a783f615a014fe08e032e4aa4f0be94&amp;url=https%3a%2f%2fapnews.com%2farticle%2fphiladelphia-phillies-baseball-toronto-blue-jays-6d07e9f3a25245a8b907debc9b0444ef&amp;c=1495078329277043725&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7858fe521a479cb53f065ce5ba7ff1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fphiladelphia-phillies-baseball-toronto-blue-jays-6d07e9f3a25245a8b907debc9b0444ef&amp;c=1495078329277043725&amp;mkt=en-us",
         "pubDate": "Sun, 09 Aug 2026 01:02:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Frederick Richard makes a statement in more ways than one en route to first US gymnastics title",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7858ee9fab41619e56f0ceedc999dc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgymnastics-2028-olympics-frederick-richard-a630cd0f68b1712bfd89fd7f2869daec&amp;c=1976868742157798246&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 19:14:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
       {
-        "title": "Solar eclipse to occur next week. Here is what to know",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
-        "pubDate": "Sat, 08 Aug 2026 20:56:21 -0400",
+        "title": "Yemen&apos;s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+        "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+        "pubDate": "Sun, 09 Aug 2026 05:44:02 -0400",
         "category": "world"
       },
       {
-        "title": "National Guard deployment in D.C. approaches one year",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5924868/national-guard-deployment-in-d-c-approaches-one-year",
-        "pubDate": "Sat, 08 Aug 2026 17:32:11 -0400",
+        "title": "Solar eclipse to occur next week. Here is what to know",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
+        "pubDate": "Sat, 08 Aug 2026 20:56:21 -0400",
         "category": "us"
       },
       {
@@ -63,15 +69,15 @@
         "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
         "pubDate": "Sat, 08 Aug 2026 07:01:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Federal funds can&apos;t be used to give test strips to drug users, raising overdose fears",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
-        "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
+      {
+        "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 09 Aug 2026 10:02:52 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
         "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&amp;at_campaign=rss",
@@ -85,19 +91,13 @@
         "category": "Top News"
       },
       {
-        "title": "Zendaya saw me on the red carpet and her jaw dropped - I'm still in shock",
-        "link": "https://www.bbc.co.uk/news/articles/cq56j53g9yeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 09 Aug 2026 00:39:27 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
         "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 08 Aug 2026 23:43:44 GMT",
         "category": "world"
       },
       {
-        "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+        "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
         "link": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 08 Aug 2026 23:13:35 GMT",
         "category": "Top News"
@@ -135,19 +135,49 @@
     ],
     "reuters": [
       {
-        "title": "Former P Tommy John in hospice care, pens farewell letter",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a783fb197714dd491dbc7d7c6fcffa0&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fformer-p-tommy-john-hospice-care-pens-farewell-letter--flm-2026-08-08%2f&amp;c=8394985234877234089&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 12:16:00 GMT",
-        "category": "health"
+        "title": "More workers join strike at BHP's Port Hedland iron ore operations",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a785925b9aa4226bfcf7d165c50e504&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fmore-workers-join-strike-bhps-port-hedland-iron-ore-operations-2026-08-09%2f&amp;c=3930381501408720489&amp;mkt=en-us",
+        "pubDate": "Sun, 09 Aug 2026 03:04:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Typhoon Dolphin set to hit China's east coast, triggering flood warnings",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a785901490c48f886613b22f03b0492&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2ftyphoon-dolphin-set-hit-chinas-east-coast-triggering-flood-warnings-2026-08-09%2f&amp;c=40256793497851005&amp;mkt=en-us",
+        "pubDate": "Sun, 09 Aug 2026 03:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine's Odesa port sustains damage from Russian attack, Zelenskiy says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a785901490c48f886613b22f03b0492&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fukraines-odesa-port-sustains-damage-russian-attack-zelenskiy-says-2026-08-09%2f&amp;c=15827117414705982270&amp;mkt=en-us",
+        "pubDate": "Sun, 09 Aug 2026 02:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Risk of deaths linked to heatwaves underestimated, Swiss Re CEO says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a785901490c48f886613b22f03b0492&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2frisk-deaths-linked-heatwaves-underestimated-swiss-re-ceo-says-2026-08-09%2f&amp;c=6112855013633821663&amp;mkt=en-us",
+        "pubDate": "Sun, 09 Aug 2026 02:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "India's Maruti sees passenger vehicle market rising to up to 6.3 mln units by 2031",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a785901490c48f886613b22f03b0492&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2findias-maruti-sees-passenger-vehicle-market-rising-up-63-mln-units-by-2031-2026-08-09%2f&amp;c=938032363867353812&amp;mkt=en-us",
+        "pubDate": "Sun, 09 Aug 2026 02:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Taylor Swift songs removed from White House, Trump campaign posts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a785901490c48f886613b22f03b0492&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ftaylor-swift-songs-removed-white-house-trump-campaign-posts-2026-08-09%2f&amp;c=5669467471824556871&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 16:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a785901490c48f886613b22f03b0492&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fex-president-joe-bidens-cancer-has-spread-is-very-painful-son-says-2026-08-08%2f&amp;c=14257264059449373450&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 12:35:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
-      {
-        "title": "Myspace eyes comeback as an an &apos;antidote&apos; to social media fatigue \u2014 but it may be a long shot",
-        "link": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
-        "pubDate": "Sun, 09 Aug 2026 05:00:01 GMT",
-        "category": "tech"
-      },
       {
         "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
         "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
@@ -159,30 +189,6 @@
         "link": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
         "pubDate": "Sat, 08 Aug 2026 17:25:25 GMT",
         "category": "health"
-      },
-      {
-        "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-        "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
-        "pubDate": "Sat, 08 Aug 2026 15:00:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett&apos;s massive cash hoard",
-        "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-        "pubDate": "Sat, 08 Aug 2026 13:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Cyclospora fears lead consumers to lose their appetite for salads",
-        "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-        "pubDate": "Sat, 08 Aug 2026 12:00:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Formula One is lagging other sport stocks. Why analysts think it&apos;s poised to race ahead",
-        "link": "https://www.cnbc.com/2026/08/08/formula-one-is-lagging-other-sport-stocks-why-analysts-think-its-poised-to-race-ahead.html",
-        "pubDate": "Sat, 08 Aug 2026 11:51:08 GMT",
-        "category": "us"
       }
     ]
   }
