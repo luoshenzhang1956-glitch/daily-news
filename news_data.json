@@ -1,18 +1,12 @@
 {
-  "updated_at": "2026-08-09T07:06:37.114664",
+  "updated_at": "2026-08-09T08:52:19.376404",
   "news": {
     "ap": [
       {
-        "title": "As the world rediscovers \u2018The Odyssey,\u2019 disabled actors in Greece explore the pain of war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a78263d3e9046b2a22660bdad7d3787&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgreece-ancient-theater-accessibility-odyssey-homer-353553292cf006c6e734978dfe9e931c&amp;c=9091950612943575602&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 21:08:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Frederick Richard makes a statement in more ways than one en route to first US gymnastics title",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a78264416844e43ad314d1e68b3a34e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgymnastics-2028-olympics-frederick-richard-a630cd0f68b1712bfd89fd7f2869daec&amp;c=1976868742157798246&amp;mkt=en-us",
-        "pubDate": "Sat, 08 Aug 2026 19:14:00 GMT",
-        "category": "us"
+        "title": "Blue Jays aim to sweep series against the Phillies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a783f615a014fe08e032e4aa4f0be94&amp;url=https%3a%2f%2fapnews.com%2farticle%2fphiladelphia-phillies-baseball-toronto-blue-jays-6d07e9f3a25245a8b907debc9b0444ef&amp;c=1495078329277043725&amp;mkt=en-us",
+        "pubDate": "Sun, 09 Aug 2026 01:02:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
@@ -139,7 +133,57 @@
         "category": "business"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Former P Tommy John in hospice care, pens farewell letter",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a783fb197714dd491dbc7d7c6fcffa0&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fformer-p-tommy-john-hospice-care-pens-farewell-letter--flm-2026-08-08%2f&amp;c=8394985234877234089&amp;mkt=en-us",
+        "pubDate": "Sat, 08 Aug 2026 12:16:00 GMT",
+        "category": "health"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Myspace eyes comeback as an an &apos;antidote&apos; to social media fatigue \u2014 but it may be a long shot",
+        "link": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
+        "pubDate": "Sun, 09 Aug 2026 05:00:01 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
+        "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+        "pubDate": "Sat, 08 Aug 2026 17:41:31 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Hunter Biden says Joe Biden\u2019s cancer has spread further and is \u2018very painful\u2019",
+        "link": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
+        "pubDate": "Sat, 08 Aug 2026 17:25:25 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+        "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+        "pubDate": "Sat, 08 Aug 2026 15:00:01 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett&apos;s massive cash hoard",
+        "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+        "pubDate": "Sat, 08 Aug 2026 13:28:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+        "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+        "pubDate": "Sat, 08 Aug 2026 12:00:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Formula One is lagging other sport stocks. Why analysts think it&apos;s poised to race ahead",
+        "link": "https://www.cnbc.com/2026/08/08/formula-one-is-lagging-other-sport-stocks-why-analysts-think-its-poised-to-race-ahead.html",
+        "pubDate": "Sat, 08 Aug 2026 11:51:08 GMT",
+        "category": "us"
+      }
+    ]
   }
 }
