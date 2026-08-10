@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-08-10T15:07:14.418916",
+  "updated_at": "2026-08-10T17:01:07.032067",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
+        "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
+        "pubDate": "Mon, 10 Aug 2026 12:08:06 -0400",
+        "category": "world"
+      },
       {
         "title": "Does spending money make you feel bad? Read this comic",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
@@ -13,7 +19,7 @@
         "title": "Flood death toll in India&apos;s Assam reaches 100 as thousands lose their homes",
         "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
         "pubDate": "Mon, 10 Aug 2026 08:39:05 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Decades of abuse revealed at Michigan art school. And, the Iran war&apos;s impact on midterms",
@@ -34,12 +40,6 @@
         "category": "us"
       },
       {
-        "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "In a competitive Maine Senate race, women voters could be the deciders",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
@@ -52,8 +52,8 @@
         "category": "Top News"
       },
       {
-        "title": "The FAA wants to reboot the nation&apos;s airspace. This airline shows how it might work",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
+        "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -65,6 +65,18 @@
       }
     ],
     "bbc": [
+      {
+        "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 10 Aug 2026 16:10:56 GMT",
+        "category": "us"
+      },
+      {
+        "title": "New weight loss pill approved for use in UK",
+        "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 10 Aug 2026 15:25:07 GMT",
+        "category": "health"
+      },
       {
         "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
         "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&amp;at_campaign=rss",
@@ -112,21 +124,16 @@
         "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 10 Aug 2026 05:00:07 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 03:33:51 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Evidence that South African special forces murdered top detective shared with BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 09 Aug 2026 23:05:29 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a0382c8e84589a1d4165d0e4b4f1a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fkey-republican-urges-us-stop-any-advanced-chips-reaching-sanctioned-chinese-2026-08-10%2f&amp;c=8008846873286369180&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 03:05:00 GMT",
+        "category": "us"
+      }
+    ],
     "markets": []
   }
 }
