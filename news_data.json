@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-08-10T17:01:07.032067",
+  "updated_at": "2026-08-10T19:06:44.861849",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "&apos;The Nerd Reich&apos; tracks the &apos;unmasking of Silicon Valley&apos;s true politics&apos;",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
+        "pubDate": "Mon, 10 Aug 2026 13:38:12 -0400",
+        "category": "tech"
+      },
       {
         "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
         "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
@@ -52,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Who really needs testosterone?",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
@@ -65,6 +65,24 @@
       }
     ],
     "bbc": [
+      {
+        "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 10 Aug 2026 17:50:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "More than two-thirds of England now in drought",
+        "link": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 10 Aug 2026 17:41:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "30 years later, a former rival will stand trial for Tupac's murder",
+        "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 10 Aug 2026 16:52:47 GMT",
+        "category": "Top News"
+      },
       {
         "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
         "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&amp;at_campaign=rss",
@@ -76,12 +94,6 @@
         "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 10 Aug 2026 15:25:07 GMT",
         "category": "health"
-      },
-      {
-        "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-        "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 14:58:24 GMT",
-        "category": "Top News"
       },
       {
         "title": "Record 230 people cross Channel in one small boat",
@@ -108,32 +120,45 @@
         "category": "Top News"
       },
       {
-        "title": "Nigel Farage says incident at his home 'directly linked' to Ann Widdecombe murder",
-        "link": "https://www.bbc.co.uk/news/articles/c3v06k2qk1qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 12:39:48 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
         "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 10 Aug 2026 05:00:32 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Travelodge staff gave domestic abuser key to his victim's room",
-        "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 05:00:07 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a0382c8e84589a1d4165d0e4b4f1a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fkey-republican-urges-us-stop-any-advanced-chips-reaching-sanctioned-chinese-2026-08-10%2f&amp;c=8008846873286369180&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 03:05:00 GMT",
-        "category": "us"
+        "title": "US health agency moves to increase oversight of food additives",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a20f3fd43467ba601bac115f691dd&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-health-agency-moves-increase-oversight-food-additives-2026-08-10%2f&amp;c=13190689669336400334&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 08:03:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Archer to buy Boeing's Wisk, two other units for nearly 20% equity stake",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a20f13926488a9230eb0546ca07a7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2farcher-acquire-boeings-wisk-two-subsidiaries-near-20-equity-stake-2026-08-10%2f&amp;c=17428554938092773760&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 05:16:00 GMT",
+        "category": "tech"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
+        "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+        "pubDate": "Mon, 10 Aug 2026 18:58:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three reasons Goldman&apos;s co-head of global banking and markets says to stay invested",
+        "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+        "pubDate": "Mon, 10 Aug 2026 18:36:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics &amp; more",
+        "link": "https://www.cnbc.com/2026/08/10/stocks-making-the-biggest-moves-midday-ntap-intc-aapl-docs-vrsk.html",
+        "pubDate": "Mon, 10 Aug 2026 17:43:55 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
