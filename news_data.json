@@ -1,27 +1,14 @@
 {
-  "updated_at": "2026-08-11T02:07:02.967533",
+  "updated_at": "2026-08-11T05:16:16.403107",
   "news": {
-    "ap": [
-      {
-        "title": "Zuckerberg manifesto sketches out Meta\u2019s ambitions for world-changing AI technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836167264a5d801803f8a654f0fa&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeta-ai-mark-zuckerberg-artificial-intelligence-df8a4e7d7825470d09e8090367457c2c&amp;c=14762573424715315346&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 15:47:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Contiguous US breaks its record for hottest month ever, NOAA says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a834c81dd4993b6f53fa68f9d4c0b&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fcontiguous-us-breaks-its-record-for-hottest-month-ever-noaa-says-567a0a1c88384def8c31c6ae61d41457&amp;c=15099032172424646608&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 14:11:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Trump officials propose new requirements for food additives and ingredients",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a8362520940db99469501f8984826&amp;url=https%3a%2f%2fapnews.com%2farticle%2fultraprocessed-food-fda-kennedy-additives-health-794c137570e53ad8598dc6ca526fac10&amp;c=11868675536832461207&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 11:30:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+        "pubDate": "Mon, 10 Aug 2026 23:39:40 -0400",
+        "category": "world"
+      },
       {
         "title": "Alabama heads into a second primary election after redistricting",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
@@ -45,12 +32,6 @@
         "link": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
         "pubDate": "Mon, 10 Aug 2026 16:25:02 -0400",
         "category": "health"
-      },
-      {
-        "title": "Why Russia and Ukraine can&apos;t stop each other&apos;s air attacks",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5921306/why-russia-and-ukraine-cant-stop-each-others-air-attacks",
-        "pubDate": "Mon, 10 Aug 2026 16:14:08 -0400",
-        "category": "world"
       },
       {
         "title": "China&apos;s courts side with workers displaced by AI but employees remain anxious",
@@ -85,10 +66,34 @@
     ],
     "bbc": [
       {
+        "title": "Jewish school heads spend more time on security than education, review finds",
+        "link": "https://www.bbc.co.uk/news/articles/c98vm1n64ljo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 05:01:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+        "link": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 04:25:55 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "At least 132 killed in Colombia's largest  earthquake in years",
         "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 01:59:40 GMT",
+        "pubDate": "Tue, 11 Aug 2026 04:06:07 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Firefighting in New Forest to continue for several days",
+        "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 03:51:06 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 02:43:01 GMT",
+        "category": "us"
       },
       {
         "title": "Amber heat health alerts for almost all of England as next heatwave begins",
@@ -109,12 +114,6 @@
         "category": "Top News"
       },
       {
-        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 23:03:52 GMT",
-        "category": "us"
-      },
-      {
         "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
         "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 10 Aug 2026 22:31:42 GMT",
@@ -125,88 +124,95 @@
         "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 10 Aug 2026 21:33:51 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "New Forest firefighting to continue overnight as cars abandoned",
-        "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 20:24:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 14:34:25 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-        "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 05:00:32 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "Oil steadies near one-week highs as US-Iran peace deal hopes dim",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a837115ba43139068ef13b82b9444&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-steadies-near-one-week-highs-us-iran-peace-deal-hopes-dim-2026-08-11%2f&amp;c=14425772213116980427&amp;mkt=en-us",
+        "title": "Russian attacks on Ukraine's Zaporizhzhia, Kyiv kill five, officials say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7aafbe748f4c358734b0906b753a8e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2frussian-attack-kyiv-triggers-fires-officials-say-2026-08-10%2f&amp;c=15849792679324202359&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 21:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Vietnam's VinSpace signs SpaceX launch deal for 2027",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7aafd2e98847faba62296f19888a1f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fvietnams-vinspace-signs-spacex-launch-deal-2027-2026-08-11%2f&amp;c=3552950255923381123&amp;mkt=en-us",
         "pubDate": "Mon, 10 Aug 2026 17:00:00 GMT",
         "category": "business"
       },
       {
-        "title": "Trump flew secretly from Turkey due to Iranian threat, the Washington Post reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ftrump-flew-secretly-turkey-due-iranian-threat-washington-post-reports-2026-08-11%2f&amp;c=5196049107162484026&amp;mkt=en-us",
+        "title": "Beijing braces for one-third of its annual rainfall over next 24 hours",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7aafbe748f4c358734b0906b753a8e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fbeijing-braces-one-third-its-annual-rainfall-over-next-24-hours-2026-08-11%2f&amp;c=4574449936609797620&amp;mkt=en-us",
         "pubDate": "Mon, 10 Aug 2026 17:00:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "In rural Wisconsin, frustrations over Trump ag policies heat up House race",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2frural-wisconsin-frustrations-over-trump-ag-policies-heat-up-house-race-2026-08-10%2f&amp;c=12216161027315971341&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 15:56:00 GMT",
+        "title": "Trump took secret flight out of Turkey due to Iran threat, the Washington Post reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7aafbe748f4c358734b0906b753a8e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ftrump-flew-secretly-turkey-due-iranian-threat-washington-post-reports-2026-08-11%2f&amp;c=5196049107162484026&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Typhoon Dolphin's vast storm system pushes inland, threatens central China",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7aafbe748f4c358734b0906b753a8e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2ftyphoon-dolphins-vast-storm-system-pushes-inland-threatens-central-china-2026-08-11%2f&amp;c=4629416150707507782&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 17:00:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US judge dismisses criminal case against Indian billionaire Adani",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-judge-dismisses-criminal-case-against-indian-billionaire-adani-2026-08-10%2f&amp;c=4640040889989044266&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7aafbe748f4c358734b0906b753a8e&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-judge-dismisses-criminal-case-against-indian-billionaire-adani-2026-08-10%2f&amp;c=4640040889989044266&amp;mkt=en-us",
         "pubDate": "Mon, 10 Aug 2026 12:29:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fwall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10%2f&amp;c=9145123956875825735&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7aafbe748f4c358734b0906b753a8e&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fwall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10%2f&amp;c=9145123956875825735&amp;mkt=en-us",
         "pubDate": "Mon, 10 Aug 2026 09:34:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836db3b24a30a9be93b7477133c1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10%2f&amp;c=1303764114790003921&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7aafd0ab344ab78fdd17cc662a575f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10%2f&amp;c=1303764114790003921&amp;mkt=en-us",
         "pubDate": "Mon, 10 Aug 2026 09:13:00 GMT",
         "category": "us"
       },
       {
         "title": "Colombia earthquake live: Death toll mounts as workers search collapsed buildings after powerful tremor",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fcolombia-earthquake-live-reports-deaths-collapsed-buildings-after-powerful-2026-08-10%2f&amp;c=14341382574923840055&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7aafbe748f4c358734b0906b753a8e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fcolombia-earthquake-live-reports-deaths-collapsed-buildings-after-powerful-2026-08-10%2f&amp;c=14341382574923840055&amp;mkt=en-us",
         "pubDate": "Mon, 10 Aug 2026 08:29:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "US communications agency is the unlikely spearhead of Trump's China policy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a83726922441fb109f9ede8354a48&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-communications-agency-is-unlikely-spearhead-trumps-china-policy-2026-08-10%2f&amp;c=11705412336728762477&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 07:19:00 GMT",
-        "category": "tech"
+        "title": "More than 100 killed after strongest quake this century hits western Colombia",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7aafbe748f4c358734b0906b753a8e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fearthquake-pacific-coast-shakes-colombian-capital-2026-08-10%2f&amp;c=10999804491300305150&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 06:04:00 GMT",
+        "category": "Top News"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Tuesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/08/10/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Mon, 10 Aug 2026 22:54:50 GMT",
+        "category": "us"
       },
       {
-        "title": "More than 100 killed after strongest quake this century hits western Colombia",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fearthquake-pacific-coast-shakes-colombian-capital-2026-08-10%2f&amp;c=10999804491300305150&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 06:04:00 GMT",
+        "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are \u2018investable asset\u2019",
+        "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+        "pubDate": "Mon, 10 Aug 2026 22:09:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Glencore's exposure to Radiant World more than $500 million, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a8369ca3d449fa015885bf0173191&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fglencores-exposure-radiant-world-more-than-500-million-sources-say-2026-08-10%2f&amp;c=6099568526623735199&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 05:06:00 GMT",
-        "category": "world"
+        "title": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics &amp; more",
+        "link": "https://www.cnbc.com/2026/08/10/stocks-making-the-biggest-moves-midday-ntap-intc-aapl-docs-vrsk.html",
+        "pubDate": "Mon, 10 Aug 2026 19:19:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three reasons Goldman&apos;s co-head of global banking and markets says to stay invested",
+        "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+        "pubDate": "Mon, 10 Aug 2026 18:36:26 GMT",
+        "category": "Top News"
       }
-    ],
-    "markets": []
+    ]
   }
 }
