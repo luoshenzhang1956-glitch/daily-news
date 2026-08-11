@@ -1,15 +1,38 @@
 {
-  "updated_at": "2026-08-11T09:06:07.172163",
+  "updated_at": "2026-08-11T10:57:02.210951",
   "news": {
-    "ap": [
-      {
-        "title": "Contiguous US breaks its record for hottest month ever, NOAA says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ae588857844bbbc31c3d766e28bf1&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fcontiguous-us-breaks-its-record-for-hottest-month-ever-noaa-says-567a0a1c88384def8c31c6ae61d41457&amp;c=15099032172424646608&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 14:11:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "The secret economics inside the new Planet Money board game",
+        "link": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
+        "pubDate": "Tue, 11 Aug 2026 06:30:00 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Former Syrian President Assad sentenced to death in absentia",
+        "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
+        "pubDate": "Tue, 11 Aug 2026 06:07:14 -0400",
+        "category": "world"
+      },
+      {
+        "title": "A midwife crosses &apos;maternity deserts&apos; to make a difference for Black moms and babies",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
+        "pubDate": "Tue, 11 Aug 2026 06:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
+        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
+        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "The school year begins in LA with one big change: limited screen time",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
@@ -23,59 +46,65 @@
         "category": "Top News"
       },
       {
-        "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
-        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief",
         "pubDate": "Tue, 11 Aug 2026 04:32:41 -0400",
         "category": "Top News"
       },
       {
-        "title": "Team works to identify WWII soldier who died in Alaskan plane crash",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5883874/team-works-to-identify-wwii-soldier-who-died-in-alaskan-plane-crash",
-        "pubDate": "Tue, 11 Aug 2026 04:32:08 -0400",
-        "category": "us"
+        "title": "Turkey&apos;s parliament approves a pardon-like bill for thousands of PKK militants",
+        "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+        "pubDate": "Tue, 11 Aug 2026 02:03:49 -0400",
+        "category": "Top News"
       },
       {
-        "title": "Pakistan-administered Kashmir holds elections amid calls for a boycott",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927084/pakistan-administered-kashmir-holds-elections-amid-calls-for-a-boycott",
-        "pubDate": "Tue, 11 Aug 2026 04:31:41 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Fewer resources and funding cuts contributing to spike in foodborne illnesses",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927285/fewer-resources-and-funding-cuts-contributing-to-spike-in-foodborne-illnesses",
-        "pubDate": "Tue, 11 Aug 2026 04:31:22 -0400",
-        "category": "health"
-      },
-      {
-        "title": "China&apos;s courts side with workers displaced by AI but employees remain anxious",
+        "title": "China&apos;s courts side with workers displaced by AI, but job anxiety persists",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5822592/chinas-courts-side-with-workers-displaced-by-ai-but-employees-remain-anxious",
         "pubDate": "Mon, 10 Aug 2026 16:14:06 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Does spending money make you feel bad? Read this comic",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
-        "pubDate": "Mon, 10 Aug 2026 10:20:35 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
+        "title": "Anne Hathaway pokes fun at 'fake baby bump' theories",
+        "link": "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 10:43:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
+        "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 10:37:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 10:00:04 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
         "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 08:57:26 GMT",
+        "pubDate": "Tue, 11 Aug 2026 09:58:45 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 09:39:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Call with No 10 gives us hope, PC Harper's mother says",
+        "link": "https://www.bbc.co.uk/news/articles/cy8m1pjg4k3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 09:33:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+        "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 09:23:58 GMT",
         "category": "Top News"
       },
       {
@@ -91,86 +120,32 @@
         "category": "tech"
       },
       {
-        "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 08:08:30 GMT",
+        "title": "'I started in my 20s and made \u00a38,000': Why women are often better investors than men",
+        "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 10 Aug 2026 23:32:10 GMT",
         "category": "business"
-      },
-      {
-        "title": "Amber heat health alerts in place for almost all of England as next heatwave hits",
-        "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 08:00:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says it would be 'terrible mistake' to remove Infantino",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 05:30:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "At least 132 killed in Colombia's largest  earthquake in years",
-        "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 04:06:07 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 02:43:01 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
-        "link": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 01:59:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Councils to get more powers to stop vape and betting shops, PM announces",
-        "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 21:33:51 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Econ World",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ae59fcaf34d37b8fe866530a1d010&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fecon-world%2f&amp;c=5759934779379928125&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 21:41:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Uniper's first-half core profit rises on stronger gas business",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ae5adeb424aa38f244f28dfdd6ed6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2funipers-first-half-core-profit-rises-stronger-gas-business-2026-08-11%2f&amp;c=7838388857886875111&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 17:00:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ae5b0b14f4a5c9bcfa084474409a8&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fwall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10%2f&amp;c=9145123956875825735&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 09:34:00 GMT",
-        "category": "tech"
+        "title": "Ebola deaths surpass 2,000 in Democratic Republic of Congo",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7affbba33043d0979ec3d6b8e7fac7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2febola-deaths-surpass-2000-democratic-republic-congo-2026-08-11%2f&amp;c=11618174173169585896&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 00:56:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Tuesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/08/10/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Mon, 10 Aug 2026 22:54:50 GMT",
-        "category": "us"
+        "title": "Wall Street just endorsed Jensen Huang&apos;s &apos;big concept&apos; for AI. What now?",
+        "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+        "pubDate": "Tue, 11 Aug 2026 10:12:14 GMT",
+        "category": "tech"
       },
       {
         "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are \u2018investable asset\u2019",
         "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
         "pubDate": "Mon, 10 Aug 2026 22:09:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
-        "link": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
-        "pubDate": "Mon, 10 Aug 2026 20:51:17 GMT",
-        "category": "health"
       }
     ]
   }
