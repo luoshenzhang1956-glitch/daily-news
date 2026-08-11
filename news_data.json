@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-08-10T22:45:41.386963",
+  "updated_at": "2026-08-11T02:07:02.967533",
   "news": {
     "ap": [
       {
-        "title": "Russian track and field files new claim with CAS over sanctions imposed by World Athletics",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a53d32c804e86b2f02907f2761f26&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussia-cas-appeal-world-athletics-e1f7a2cf0d1b89c831e85e8f74009fc5&amp;c=13328522732129813100&amp;mkt=en-us",
-        "pubDate": "Mon, 10 Aug 2026 09:49:00 GMT",
-        "category": "world"
+        "title": "Zuckerberg manifesto sketches out Meta\u2019s ambitions for world-changing AI technology",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836167264a5d801803f8a654f0fa&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeta-ai-mark-zuckerberg-artificial-intelligence-df8a4e7d7825470d09e8090367457c2c&amp;c=14762573424715315346&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 15:47:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Contiguous US breaks its record for hottest month ever, NOAA says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a834c81dd4993b6f53fa68f9d4c0b&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fcontiguous-us-breaks-its-record-for-hottest-month-ever-noaa-says-567a0a1c88384def8c31c6ae61d41457&amp;c=15099032172424646608&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 14:11:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Trump officials propose new requirements for food additives and ingredients",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a8362520940db99469501f8984826&amp;url=https%3a%2f%2fapnews.com%2farticle%2fultraprocessed-food-fda-kennedy-additives-health-794c137570e53ad8598dc6ca526fac10&amp;c=11868675536832461207&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 11:30:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Alabama heads into a second primary election after redistricting",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
+        "pubDate": "Mon, 10 Aug 2026 18:43:05 -0400",
+        "category": "Top News"
+      },
       {
         "title": "ICE crackdown in Minnesota changed the race for open U.S. Senate seat",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5925125/ice-crackdown-in-minnesota-changed-the-race-for-open-u-s-senate-seat",
@@ -63,17 +81,41 @@
         "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
         "pubDate": "Mon, 10 Aug 2026 08:39:05 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Decades of abuse revealed at Michigan art school. And, the Iran war&apos;s impact on midterms",
-        "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
-        "pubDate": "Mon, 10 Aug 2026 07:42:58 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Nvidia gets $500bn from major banks to develop AI data centres",
+        "title": "At least 132 killed in Colombia's largest  earthquake in years",
+        "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 01:59:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Amber heat health alerts for almost all of England as next heatwave begins",
+        "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 01:38:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "England set to eliminate hepatitis C",
+        "link": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 10 Aug 2026 23:40:58 GMT",
+        "category": "health"
+      },
+      {
+        "title": "'I started in my 20s and made \u00a38,000': Why women are often better investors than men",
+        "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 10 Aug 2026 23:32:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 10 Aug 2026 23:03:52 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
         "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 10 Aug 2026 22:31:42 GMT",
         "category": "business"
@@ -85,40 +127,10 @@
         "category": "Top News"
       },
       {
-        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 21:33:25 GMT",
-        "category": "us"
-      },
-      {
-        "title": "At least 111 killed in Colombia's largest  earthquake in years",
-        "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 21:24:29 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Canada flight cancelled after child refuses to wear seat belt",
-        "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 21:06:27 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "New Forest firefighting to continue overnight as cars abandoned",
         "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 10 Aug 2026 20:24:05 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "More than two-thirds of England now in drought",
-        "link": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 17:41:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New weight-loss pill approved for use in UK",
-        "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 15:25:07 GMT",
-        "category": "health"
       },
       {
         "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
@@ -133,7 +145,68 @@
         "category": "tech"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Oil steadies near one-week highs as US-Iran peace deal hopes dim",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a837115ba43139068ef13b82b9444&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-steadies-near-one-week-highs-us-iran-peace-deal-hopes-dim-2026-08-11%2f&amp;c=14425772213116980427&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 17:00:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Trump flew secretly from Turkey due to Iranian threat, the Washington Post reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ftrump-flew-secretly-turkey-due-iranian-threat-washington-post-reports-2026-08-11%2f&amp;c=5196049107162484026&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "In rural Wisconsin, frustrations over Trump ag policies heat up House race",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2frural-wisconsin-frustrations-over-trump-ag-policies-heat-up-house-race-2026-08-10%2f&amp;c=12216161027315971341&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 15:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US judge dismisses criminal case against Indian billionaire Adani",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-judge-dismisses-criminal-case-against-indian-billionaire-adani-2026-08-10%2f&amp;c=4640040889989044266&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 12:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fwall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10%2f&amp;c=9145123956875825735&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 09:34:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836db3b24a30a9be93b7477133c1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10%2f&amp;c=1303764114790003921&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 09:13:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Colombia earthquake live: Death toll mounts as workers search collapsed buildings after powerful tremor",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fcolombia-earthquake-live-reports-deaths-collapsed-buildings-after-powerful-2026-08-10%2f&amp;c=14341382574923840055&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 08:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US communications agency is the unlikely spearhead of Trump's China policy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a83726922441fb109f9ede8354a48&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-communications-agency-is-unlikely-spearhead-trumps-china-policy-2026-08-10%2f&amp;c=11705412336728762477&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 07:19:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "More than 100 killed after strongest quake this century hits western Colombia",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a836860484b008d5844ef58c96893&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fearthquake-pacific-coast-shakes-colombian-capital-2026-08-10%2f&amp;c=10999804491300305150&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 06:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Glencore's exposure to Radiant World more than $500 million, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7a8369ca3d449fa015885bf0173191&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fglencores-exposure-radiant-world-more-than-500-million-sources-say-2026-08-10%2f&amp;c=6099568526623735199&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 05:06:00 GMT",
+        "category": "world"
+      }
+    ],
     "markets": []
   }
 }
