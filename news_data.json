@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-08-11T10:57:02.210951",
+  "updated_at": "2026-08-11T13:18:32.613786",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Zuckerberg manifesto sketches out Meta\u2019s ambitions for world-changing AI technology",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b20a9d72240ebb5f97b9e6d699a30&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeta-ai-mark-zuckerberg-artificial-intelligence-df8a4e7d7825470d09e8090367457c2c&amp;c=14762573424715315346&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 15:47:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Neil Leibman exits Texas Rangers chairman role to pursue new business opportunities",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b20a88b024609a2e60fad4765ee2a&amp;url=https%3a%2f%2fapnews.com%2farticle%2frangers-mlb-leibman-9a92c1fa298be3a5d5e44f2cd2e08f48&amp;c=10374409597277283360&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 15:39:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Contiguous US breaks its record for hottest month ever, NOAA says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b20a716a147c9885541e84e2a4ce2&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fcontiguous-us-breaks-its-record-for-hottest-month-ever-noaa-says-567a0a1c88384def8c31c6ae61d41457&amp;c=15099032172424646608&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 14:11:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+        "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+        "pubDate": "Tue, 11 Aug 2026 07:11:14 -0400",
+        "category": "world"
+      },
       {
         "title": "The secret economics inside the new Planet Money board game",
         "link": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
@@ -13,7 +38,7 @@
         "title": "Former Syrian President Assad sentenced to death in absentia",
         "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
         "pubDate": "Tue, 11 Aug 2026 06:07:14 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "A midwife crosses &apos;maternity deserts&apos; to make a difference for Black moms and babies",
@@ -28,20 +53,20 @@
         "category": "us"
       },
       {
-        "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
-        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "The school year begins in LA with one big change: limited screen time",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
         "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
+        "title": "Armed troops have patrolled D.C. for 1 year now. It&apos;s challenging democratic norms",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
+        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
         "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -49,12 +74,6 @@
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief",
         "pubDate": "Tue, 11 Aug 2026 04:32:41 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Turkey&apos;s parliament approves a pardon-like bill for thousands of PKK militants",
-        "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
-        "pubDate": "Tue, 11 Aug 2026 02:03:49 -0400",
         "category": "Top News"
       },
       {
@@ -66,22 +85,40 @@
     ],
     "bbc": [
       {
+        "title": "Eclipse chasers scramble for glasses as stocks run low",
+        "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 12:37:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
+        "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 12:21:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "AI agent hacks gym to get its owner spot in pilates class",
+        "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 12:09:26 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "The big questions in Luigi Mangione case as he returns to court",
+        "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 11:35:20 GMT",
+        "category": "us"
+      },
+      {
         "title": "Anne Hathaway pokes fun at 'fake baby bump' theories",
         "link": "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 11 Aug 2026 10:43:08 GMT",
         "category": "Top News"
       },
       {
-        "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
-        "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 10:37:50 GMT",
+        "title": "Watch: Family narrowly escapes home during Colombia earthquake",
+        "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 10:12:21 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 10:00:04 GMT",
-        "category": "us"
       },
       {
         "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
@@ -96,28 +133,10 @@
         "category": "Top News"
       },
       {
-        "title": "Call with No 10 gives us hope, PC Harper's mother says",
-        "link": "https://www.bbc.co.uk/news/articles/cy8m1pjg4k3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 09:33:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Councils to get more powers to stop vape and betting shops, PM announces",
-        "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 09:23:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "England set to eliminate hepatitis C",
+        "title": "England set to be one of the first countries to eliminate hepatitis C",
         "link": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 11 Aug 2026 08:54:57 GMT",
         "category": "health"
-      },
-      {
-        "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-        "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 08:44:52 GMT",
-        "category": "tech"
       },
       {
         "title": "'I started in my 20s and made \u00a38,000': Why women are often better investors than men",
@@ -128,24 +147,42 @@
     ],
     "reuters": [
       {
-        "title": "Ebola deaths surpass 2,000 in Democratic Republic of Congo",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7affbba33043d0979ec3d6b8e7fac7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2febola-deaths-surpass-2000-democratic-republic-congo-2026-08-11%2f&amp;c=11618174173169585896&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 00:56:00 GMT",
-        "category": "health"
+        "title": "UEFA, AFC, CONCACAF renew attacks on Infantino over failed World Cup stake sale proposal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b20b3bda24be7ad1f6a4d181e31ae&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fuefa-afc-concacaf-hit-out-infantino-over-world-cup-stake-sale-2026-08-10%2f&amp;c=9289440012897274558&amp;mkt=en-us",
+        "pubDate": "Mon, 10 Aug 2026 20:07:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
       {
+        "title": "Here are Tuesday&apos;s biggest analyst calls: SpaceX, Nvidia, Tesla, Apple, Best Buy, Boeing, First Solar &amp; more",
+        "link": "https://www.cnbc.com/2026/08/11/tuesday-top-stocks-by-analyst-calls-like-nvidia.html",
+        "pubDate": "Tue, 11 Aug 2026 12:22:03 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Riot Platforms, Hims &amp; Hers Health, Intel &amp; more",
+        "link": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-premarket-riot-hims-intc.html",
+        "pubDate": "Tue, 11 Aug 2026 11:40:10 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Wall Street just endorsed Jensen Huang&apos;s &apos;big concept&apos; for AI. What now?",
         "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-        "pubDate": "Tue, 11 Aug 2026 10:12:14 GMT",
-        "category": "tech"
+        "pubDate": "Tue, 11 Aug 2026 11:15:16 GMT",
+        "category": "Top News"
       },
       {
         "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are \u2018investable asset\u2019",
         "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
         "pubDate": "Mon, 10 Aug 2026 22:09:00 GMT",
-        "category": "business"
+        "category": "Top News"
+      },
+      {
+        "title": "Three reasons Goldman&apos;s co-head of global banking and markets says to stay invested",
+        "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+        "pubDate": "Mon, 10 Aug 2026 18:36:26 GMT",
+        "category": "Top News"
       }
     ]
   }
