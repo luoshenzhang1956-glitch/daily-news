@@ -1,13 +1,32 @@
 {
-  "updated_at": "2026-08-11T20:53:55.746320",
+  "updated_at": "2026-08-11T22:51:31.542899",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Medicaid says it will stop paying for some gender-affirming care for transgender minors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba70ff3f34bf08917a671b3dc2b49&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftransgender-surgery-hormones-minors-medicaid-oz-39722b01ab47a891bbca643a7ae5dde6&amp;c=15535335329666262690&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 14:54:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
-        "title": "In Spokane, those who lost homes to the fires are taking stock of the damage",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927467/in-spokane-those-who-lost-homes-to-the-fires-are-taking-stock-of-the-damage",
-        "pubDate": "Tue, 11 Aug 2026 16:42:19 -0400",
+        "title": "In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
+        "pubDate": "Tue, 11 Aug 2026 18:39:22 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Troops have been patrolling D.C. for a year. Experts are worried about elections",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5927394/troops-have-been-patrolling-d-c-for-a-year-experts-are-worried-about-elections",
+        "pubDate": "Tue, 11 Aug 2026 18:07:48 -0400",
         "category": "us"
+      },
+      {
+        "title": "A judge expands a block on U.S. Postal Service work on Trump&apos;s mail-in voting order",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
+        "pubDate": "Tue, 11 Aug 2026 17:11:09 -0400",
+        "category": "Top News"
       },
       {
         "title": "Kennedy Center must pay $250,000 in legal fees to musician who canceled in protest",
@@ -50,25 +69,19 @@
         "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
         "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Armed troops have patrolled D.C. for 1 year now. It&apos;s challenging democratic norms",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
-        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
-        "link": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 20:09:52 GMT",
+        "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+        "link": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 21:21:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+        "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 21:00:46 GMT",
         "category": "Top News"
       },
       {
@@ -81,12 +94,6 @@
         "title": "Eclipse chasers scramble for glasses as stocks run low",
         "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 11 Aug 2026 16:31:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-        "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 16:19:44 GMT",
         "category": "Top News"
       },
       {
@@ -128,126 +135,72 @@
     ],
     "reuters": [
       {
-        "title": "White Sox back on track with home series vs. Reds ahead",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b8b7c4d40462dbe2039c714e3e824&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fwhite-sox-back-track-with-home-series-vs-reds-ahead--flm-2026-08-11%2f&amp;c=934671983867000286&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 13:34:00 GMT",
+        "title": "Colombia quake death toll tops 250 as rescuers race to find survivors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fcolombia-rescue-efforts-press-after-quake-death-toll-expected-rise-2026-08-11%2f&amp;c=12795020340100400376&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 15:27:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b8b7c4d40462dbe2039c714e3e824&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-08-11%2f&amp;c=12741934427702839297&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 13:23:00 GMT",
+        "title": "Oil prices continue climb on US-Iran deal doubts; stocks retreat",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-08-11%2f&amp;c=12741934427702839297&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 15:04:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "For McDonald's and rivals, cheap deals no longer do the trick",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b8b7c4d40462dbe2039c714e3e824&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmcdonalds-rivals-cheap-deals-no-longer-do-trick-2026-08-11%2f&amp;c=10700757666633912385&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 13:20:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Cava beats quarterly expectations, reiterates forecasts amid outbreaks and economic worries",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b8b7c4d40462dbe2039c714e3e824&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fcava-beats-quarterly-expectations-reiterates-forecasts-amid-outbreaks-economic-2026-08-11%2f&amp;c=5613731868639604117&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 13:11:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Super Micro forecasts upbeat annual revenue on AI boom",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b8b7c4d40462dbe2039c714e3e824&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsuper-micro-forecasts-upbeat-annual-revenue-2026-08-11%2f&amp;c=17000076002515754980&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 13:09:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump floats possible legal challenge to New York tax on luxury second homes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b8b7c4d40462dbe2039c714e3e824&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-floats-possible-legal-challenge-new-york-tax-luxury-second-homes-2026-08-11%2f&amp;c=17529601026161270594&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 09:14:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US FDA urges sanitation, supplier checks to curb fresh-cut produce contamination",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b8b8f61ee4401802c7e35866a9303&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-fda-finalizes-new-guidance-freshly-cut-produce-2026-08-11%2f&amp;c=5486621451327726642&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 08:09:00 GMT",
+        "title": "Trump administration finalizes ownership reporting exemption for US firms",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba715b1324a198df8096f14d63f9d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-administration-finalizes-ownership-reporting-exemption-us-firms-2026-08-11%2f&amp;c=6042251425080507012&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 14:03:00 GMT",
         "category": "us"
       },
       {
-        "title": "US transport secretary working on telecom issues fix after close call involving Trump helicopter",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b8b7c4d40462dbe2039c714e3e824&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-transport-secretary-says-working-telecom-issues-fix-after-close-call-2026-08-11%2f&amp;c=13138733915606609655&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 06:47:00 GMT",
+        "title": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba719da864da8b69c7823f32d5f36&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fcoreweave-edges-past-quarterly-revenue-estimates-2026-08-11%2f&amp;c=12284276396419144635&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 13:12:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Inflation is the biggest problem, Fed's Goolsbee says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fus%2finflation-is-biggest-problem-feds-goolsbee-says-2026-08-11%2f&amp;c=12794633362682094053&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 09:39:00 GMT",
         "category": "Top News"
       },
       {
+        "title": "New attacks on shipping as Iran war talks hit fresh impasse",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fpakistan-says-us-iran-close-some-sort-deal-despite-attacks-shipping-2026-08-11%2f&amp;c=15888459434081699071&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 08:18:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Poland says preparations for Women's under-20 World Cup remain on schedule",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba714b86c4e1897ca86d975869eff&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnew-zealand-joins-france-committing-fifa-under-20-womens-world-cup-2026-08-11%2f&amp;c=1374249209601137194&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 08:07:00 GMT",
+        "category": "world"
+      },
+      {
         "title": "Wall Street ends down as US-Iran peace optimism fades",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b8b7c4d40462dbe2039c714e3e824&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-muted-us-iran-impasse-lifts-oil-prices-2026-08-11%2f&amp;c=4818995518111178065&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-muted-us-iran-impasse-lifts-oil-prices-2026-08-11%2f&amp;c=4818995518111178065&amp;mkt=en-us",
         "pubDate": "Tue, 11 Aug 2026 03:25:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "WHO defends immunisation schedules after Trump orders fewer childhood shots",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7b8b7c4d40462dbe2039c714e3e824&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fwho-defends-immunisation-schedules-after-trump-orders-fewer-childhood-shots-2026-08-11%2f&amp;c=13253300478986998858&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 03:06:00 GMT",
+        "title": "In Upper Midwest primaries, a test of progressive energy and Trump's influence",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fupper-midwest-primaries-test-progressive-energy-trumps-influence-2026-08-11%2f&amp;c=13514049337783921421&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 03:07:00 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "US small-business sentiment rises to 11-month high in July, labor shortages a worry",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71826da4e48a1e17dd633d441be&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-small-business-sentiment-rises-11-month-high-july-labor-shortages-worry-2026-08-11%2f&amp;c=13663502283571247301&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 03:03:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "CoreWeave stock pops 12% as revenue doubles on accelerating AI infrastructure demand",
-        "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
-        "pubDate": "Tue, 11 Aug 2026 20:51:14 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
-        "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
-        "pubDate": "Tue, 11 Aug 2026 20:43:59 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
-        "link": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
-        "pubDate": "Tue, 11 Aug 2026 20:26:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "We&apos;re lifting our price target on Cardinal Health after issuing rosy profit guidance",
-        "link": "https://www.cnbc.com/2026/08/11/were-lifting-our-price-target-on-cardinal-health-after-issuing-rosy-profit-guidance-.html",
-        "pubDate": "Tue, 11 Aug 2026 20:05:46 GMT",
+        "title": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
+        "link": "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html",
+        "pubDate": "Tue, 11 Aug 2026 21:36:03 GMT",
         "category": "health"
-      },
-      {
-        "title": "Investors poured $2.3 billion into this riskier corner of the bond market in July",
-        "link": "https://www.cnbc.com/2026/08/11/investors-poured-2point3-billion-into-this-riskier-corner-of-the-bond-market-in-july.html",
-        "pubDate": "Tue, 11 Aug 2026 19:12:11 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Why JPMorgan is investing big in the 2028 LA Olympics",
-        "link": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
-        "pubDate": "Tue, 11 Aug 2026 18:50:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
-        "link": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
-        "pubDate": "Tue, 11 Aug 2026 18:44:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-        "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-        "pubDate": "Tue, 11 Aug 2026 18:09:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wall Street just endorsed Jensen Huang&apos;s &apos;big concept&apos; for AI. What now?",
-        "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-        "pubDate": "Tue, 11 Aug 2026 14:11:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Riot Platforms, Hims &amp; Hers Health, Intel &amp; more",
-        "link": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-premarket-riot-hims-intc.html",
-        "pubDate": "Tue, 11 Aug 2026 11:40:10 GMT",
-        "category": "Top News"
       }
     ]
   }
