@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-12T05:43:20.205517",
+  "updated_at": "2026-08-12T07:41:23.938928",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Max Muncy\u2019s 10th-inning single lifts the Dodgers past the Royals 5-4",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c232ce5bc4f70a576f749f4a1d9b5&amp;url=https%3a%2f%2fapnews.com%2farticle%2froyals-dodgers-score-ac2077a03331b786f4434ec78f211855&amp;c=15640189679091516051&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 22:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Taylor Walls homers from each side of the plate to make Tampa Bay Rays history",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c232ce5bc4f70a576f749f4a1d9b5&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftaylor-walls-rays-home-runs-d48fc09bc109d733ef1aa4245b69d9c0&amp;c=4023658489538227640&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 21:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thousands flee yearslong drought in Somalia as hunger deepens and aid shrinks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c232ce5bc4f70a576f749f4a1d9b5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsomalia-hunger-malnutrition-displacement-28d37013c290c3327b50911a9bcfc8c2&amp;c=13652325631945568336&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 21:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "In Taiwan, Chinese-born spouses face questions of loyalty and, some say, discrimination",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c232ce5bc4f70a576f749f4a1d9b5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmainland-spouses-taiwan-china-discrimination-b507abdeeab2e33ff727583b157e0f07&amp;c=18127824989894856445&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 20:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Blake Snell fans 10 in 6 innings in return for the Dodgers after a 3-month elbow injury layoff",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c232ce5bc4f70a576f749f4a1d9b5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdodgers-blake-snell-returns-e35fe904d3ca8f2ed83d0b45bc069e2d&amp;c=5313573738446854076&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 17:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tropical Storm Chan-hom weakens and departs Japan after causing power outages and injuries",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c232ce5bc4f70a576f749f4a1d9b5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjapan-storm-chanhom-landfall-tokyo-fdf0cb3090d46c7ef94145f75afecab9&amp;c=12530231640717690260&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 17:40:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Medicaid says it will stop paying for some gender-affirming care for transgender minors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c232ce5bc4f70a576f749f4a1d9b5&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftransgender-surgery-hormones-minors-medicaid-oz-39722b01ab47a891bbca643a7ae5dde6&amp;c=15535335329666262690&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 14:54:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US fires on ships it claims are trying to break its blockade of Iranian ports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c233211ae481293f67b84ecb86869&amp;url=https%3a%2f%2fapnews.com%2flive%2fdonald-trump-news-iran-updates-08-11-2026&amp;c=9267107570851833108&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 14:07:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Government fights trade judge\u2019s order for tariff refunds to all importers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c2335e86148909b5f6b209d622222&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftariff-refund-government-appeal-435c34b570308d57895212baea601854&amp;c=5739074871047973738&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 10:24:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
       {
         "title": "Former U.S. Marine held in Russia on disputed charges has been released",
@@ -68,13 +123,13 @@
       {
         "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
         "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 05:40:00 GMT",
+        "pubDate": "Wed, 12 Aug 2026 07:10:24 GMT",
         "category": "Top News"
       },
       {
-        "title": "'Overwhelmed' probation officers warn  of early prison release crime risk",
+        "title": "Early release scheme risks more serious crimes, probation chief warns",
         "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 05:00:23 GMT",
+        "pubDate": "Wed, 12 Aug 2026 06:52:15 GMT",
         "category": "Top News"
       },
       {
@@ -84,7 +139,7 @@
         "category": "business"
       },
       {
-        "title": "Trump says he switched planes after Nato summit because of possible threat",
+        "title": "Trump confirms he switched planes after Nato summit because of possible threat",
         "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 12 Aug 2026 03:44:55 GMT",
         "category": "us"
@@ -128,24 +183,90 @@
     ],
     "reuters": [
       {
+        "title": "Bangladesh wicketkeeper Litton cleared for series opener v Australia",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c2350b4444e779b0d94c78d21e932&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2fbangladesh-wicketkeeper-litton-cleared-series-opener-v-australia-2026-08-12%2f&amp;c=18144405246918327682&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 00:30:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Australia captain Cummins calls on Green to assert himself against Bangladesh",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c2350b4444e779b0d94c78d21e932&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fcricket%2faustralia-captain-cummins-calls-green-assert-himself-against-bangladesh-2026-08-12%2f&amp;c=5224984965860061574&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 00:10:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "HSBC global insurance business head Moncreiffe to leave, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c236807ec4ab398d9718fa8509c06&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhsbc-global-insurance-business-head-moncreiffe-leave-sources-say-2026-08-12%2f&amp;c=6976040537577033339&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 00:06:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Tata Sons' Chandrasekaran resigns amid tension with group's controlling charity arm",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c2350b4444e779b0d94c78d21e932&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findias-tata-sons-chairman-chandrasekaran-may-step-down-ahead-shareholder-meeting-2026-08-12%2f&amp;c=13774283577232565945&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 00:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK firm sets new world land speed record with hydrogen-powered car",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c2352db7a42c2aa1350d8bd10e96b&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW480712082026RP1%2f&amp;c=2838406136664817034&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 23:55:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "UK's Balfour Beatty raises annual profit forecast on British energy and US infra demand",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c2350b4444e779b0d94c78d21e932&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fuks-balfour-beatty-raises-annual-profit-forecast-british-energy-us-infra-demand-2026-08-12%2f&amp;c=16463582983275554410&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 23:55:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Colombia quake death toll tops 250 as rescuers race to find survivors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c2350b4444e779b0d94c78d21e932&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fcolombia-rescue-efforts-press-after-quake-death-toll-expected-rise-2026-08-11%2f&amp;c=12795020340100400376&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 23:44:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Warship builder TKMS raises 2026 outlook on higher demand for sonar technology, frigates",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c07bedcb74a0fb3442b668ff2c577&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwarship-builder-tkms-raises-2026-outlook-higher-demand-sonar-technology-frigates-2026-08-12%2f&amp;c=13170819829405855367&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c23690ca745229f70c9b344dc910e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwarship-builder-tkms-raises-2026-outlook-higher-demand-sonar-technology-frigates-2026-08-12%2f&amp;c=13170819829405855367&amp;mkt=en-us",
         "pubDate": "Tue, 11 Aug 2026 17:00:00 GMT",
         "category": "tech"
+      },
+      {
+        "title": "US bars federal funding of gender-affirming care for low-income minors",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c236c7edf42e395635c615d0c6884&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-bars-federal-funding-gender-affirming-care-low-income-minors-2026-08-12%2f&amp;c=16162957807156196318&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 17:00:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "NZ's Luxon survives party vote, but challenge exposes cracks ahead of election",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c2350b4444e779b0d94c78d21e932&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fnew-zealands-luxon-faces-lawmakers-leadership-speculation-mounts-2026-08-11%2f&amp;c=11520635060967233774&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 14:17:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Google\u2019s new AI boss inherits a race to catch OpenAI and Anthropic",
-        "link": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
-        "pubDate": "Wed, 12 Aug 2026 05:00:01 GMT",
-        "category": "tech"
+        "title": "World&apos;s largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
+        "link": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
+        "pubDate": "Wed, 12 Aug 2026 07:01:56 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/08/11/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Tue, 11 Aug 2026 23:37:38 GMT",
+        "category": "us"
       },
       {
         "title": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
         "link": "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html",
         "pubDate": "Tue, 11 Aug 2026 21:36:03 GMT",
         "category": "health"
+      },
+      {
+        "title": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
+        "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+        "pubDate": "Tue, 11 Aug 2026 21:01:13 GMT",
+        "category": "business"
       }
     ]
   }
