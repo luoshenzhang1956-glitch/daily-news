@@ -1,68 +1,37 @@
 {
-  "updated_at": "2026-08-12T11:04:44.849745",
+  "updated_at": "2026-08-12T13:22:53.728851",
   "news": {
-    "ap": [
-      {
-        "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c52c36f3b42a282c0f5d398954112&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchery-africa-ev-china-autos-3138ab43620ff7e0a7d2b7b658facdf1&amp;c=9014957194171433051&amp;mkt=en-us",
-        "pubDate": "Wed, 12 Aug 2026 00:51:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Shares are mixed in Europe and Asia ahead of US inflation report, while oil prices gain",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c52c7ca9d41889a8cd1084155e5f6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-markets-rates-trump-iran-chips-db541ced9f928f993bd3a17958a3deaa&amp;c=14959689517456768486&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 22:21:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Earthquake response strains Colombia\u2019s new government and rescuers as they race against the clock",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c52c36f3b42a282c0f5d398954112&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcolombia-earthquake-aid-search-survivors-a35440647cc3efed1bbce935d223565e&amp;c=12444671595185323181&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 21:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "In Taiwan, Chinese-born spouses face questions of loyalty and, some say, discrimination",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c52c36f3b42a282c0f5d398954112&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmainland-spouses-taiwan-china-discrimination-b507abdeeab2e33ff727583b157e0f07&amp;c=18127824989894856445&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 20:21:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Blake Snell fans 10 in 6 innings in return for the Dodgers after a 3-month elbow injury layoff",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c52c36f3b42a282c0f5d398954112&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdodgers-blake-snell-returns-e35fe904d3ca8f2ed83d0b45bc069e2d&amp;c=5313573738446854076&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 17:43:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "John Gotti\u2019s grandson kept trying to delay prison to donate kidney to mother. A judge said enough",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c52c36f3b42a282c0f5d398954112&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgotti-grandson-fraud-prison-kidney-donation-fc85b6f7c5752ee6e96306eaa98d566e&amp;c=1542890261137735141&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 15:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c52c36f3b42a282c0f5d398954112&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-secret-flight-turkey-iran-threats-d23a6454d1410cc8461368007db6ca25&amp;c=16218524964198980571&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 15:19:00 GMT",
-        "category": "Top News"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "His wedding guests gave $6k to fund a health startup. Now it&apos;s won a $3 million prize",
+        "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
+        "pubDate": "Wed, 12 Aug 2026 09:00:19 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Zhu Rongji, who drove China&apos;s 1990s economic reforms, has died at 97",
+        "link": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
+        "pubDate": "Wed, 12 Aug 2026 08:36:30 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump&apos;s secret plane swap",
+        "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+        "pubDate": "Wed, 12 Aug 2026 07:25:11 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Andrew Tate&apos;s extradition fight tests his influence with Trump&apos;s America",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
         "pubDate": "Wed, 12 Aug 2026 06:47:30 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Former U.S. Marine back home after being held in Russia for over four years",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5928260/former-u-s-marine-back-home-after-being-held-in-russia-for-over-four-years",
-        "pubDate": "Wed, 12 Aug 2026 06:47:19 -0400",
         "category": "us"
       },
       {
         "title": "Feel so busy you don&apos;t even realize you&apos;re busy? Try doing a time audit",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
         "pubDate": "Wed, 12 Aug 2026 05:02:00 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Here&apos;s how gyms, salons and ice cream are changing America&apos;s Main Streets",
@@ -93,74 +62,62 @@
         "link": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
         "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief",
-        "pubDate": "Wed, 12 Aug 2026 04:47:50 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Four takeaways from Tuesday&apos;s primaries in six states",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5928112/four-takeaways-primaries-six-states",
-        "pubDate": "Wed, 12 Aug 2026 04:35:50 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Know how to check your breasts for cancer. Actor Lucy Davis found a 'hard spot', not a lump",
+        "title": "Lucy Davis urges women to check their breasts for cancer - here's how",
         "link": "https://www.bbc.co.uk/news/articles/cj03p2jpdd4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 10:58:37 GMT",
+        "pubDate": "Wed, 12 Aug 2026 13:16:37 GMT",
         "category": "health"
+      },
+      {
+        "title": "Burnham warned of Iran war impact on UK growth next year",
+        "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 12 Aug 2026 13:14:45 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
+        "link": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 12 Aug 2026 12:32:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cambridge review into Jason Arday post will be independent, university says",
+        "link": "https://www.bbc.co.uk/news/articles/cn4npy3w1p2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 12 Aug 2026 12:14:24 GMT",
+        "category": "Top News"
       },
       {
         "title": "Burnham says disposable BBQ ban under consideration",
         "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 10:53:11 GMT",
+        "pubDate": "Wed, 12 Aug 2026 11:48:58 GMT",
         "category": "Top News"
       },
       {
-        "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
+        "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
         "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 09:55:40 GMT",
+        "pubDate": "Wed, 12 Aug 2026 11:32:17 GMT",
         "category": "us"
       },
       {
-        "title": "Early release scheme risks more serious crimes, probation chief warns",
-        "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 08:57:44 GMT",
+        "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+        "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 12 Aug 2026 11:28:02 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Serious failings found in new military crimes unit, leaked report finds",
-        "link": "https://www.bbc.co.uk/news/articles/cwy4w62p6gvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 06:32:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "PM admits cost of living help is not enough and hints at further support",
-        "link": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 04:13:45 GMT",
-        "category": "business"
       },
       {
         "title": "Trump confirms he switched planes after Nato summit because of possible threat",
         "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 12 Aug 2026 03:44:55 GMT",
-        "category": "Top News"
+        "category": "world"
       },
       {
         "title": "Tokenomics: Why making AI pay is tricky",
         "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 11 Aug 2026 23:03:52 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-        "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 19:09:52 GMT",
-        "category": "world"
       },
       {
         "title": "Three ways to watch the solar eclipse safely without glasses",
@@ -171,48 +128,84 @@
     ],
     "reuters": [
       {
-        "title": "South Korea unveils future technology drivers, targets moon landing by 2030",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c5311bdfc4645b370ac11675b1c81&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-korea-unveils-future-technology-projects-targets-moon-landing-by-2030-2026-08-12%2f&amp;c=3541315376299583823&amp;mkt=en-us",
-        "pubDate": "Wed, 12 Aug 2026 03:37:00 GMT",
-        "category": "tech"
+        "title": "US consumer prices increase as expected in July",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c73553ba644fa990c58f3646df344&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-consumer-prices-increase-expected-july-2026-08-12%2f&amp;c=13418323171284551334&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 05:58:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "India plans insurance reforms to rein in healthcare costs, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c5313fa7643f89d2a3f0a934a8960&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2findia-plans-insurance-reforms-rein-healthcare-costs-sources-say-2026-08-12%2f&amp;c=2794796172747966669&amp;mkt=en-us",
-        "pubDate": "Wed, 12 Aug 2026 01:30:00 GMT",
-        "category": "health"
+        "title": "Ukraine pounds grain terminals at Russia's Black Sea Novorossiysk port",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c73553ba644fa990c58f3646df344&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdrones-hit-residential-buildings-russias-black-sea-port-novorossiysk-mayor-says-2026-08-12%2f&amp;c=9262496316302960616&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 05:52:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Australia sets 'world-leading' minimum pay and insurance rules for gig delivery workers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c52fb82554907850201bdc156a3d2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2faustralia-sets-world-leading-minimum-pay-insurance-rules-gig-delivery-workers-2026-08-12%2f&amp;c=11106512226759243378&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 20:42:00 GMT",
-        "category": "world"
+        "title": "Half of Afghan women rarely leave home as Taliban restrictions deepen, UN agency says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c73553ba644fa990c58f3646df344&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fhalf-afghan-women-rarely-leave-home-taliban-restrictions-deepen-un-agency-says-2026-08-12%2f&amp;c=8006989873497366603&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 05:52:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "North Korea fires missile ahead of major US-South Korea drills",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c52fcec5e4e16873fc96ea21439fe&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fnorth-korea-fires-unidentified-projectile-media-says-2026-08-11%2f&amp;c=11917824933996269661&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 14:24:00 GMT",
+        "title": "Chair of India's Tata to step down after tension with controlling charity",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c73553ba644fa990c58f3646df344&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findias-tata-sons-chairman-chandrasekaran-may-step-down-ahead-shareholder-meeting-2026-08-12%2f&amp;c=13774283577232565945&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 05:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Indonesia says navy drill with China that angered Taiwan was routine",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c73553ba644fa990c58f3646df344&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftaiwan-condemns-dangerous-planned-chinese-navy-drill-with-indonesia-its-east-2026-08-12%2f&amp;c=1008298173317992139&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 05:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says his plane faced 'greater risk' in secret flight change",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c73553ba644fa990c58f3646df344&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ftrump-says-his-plane-faced-greater-risk-flight-change-2026-08-12%2f&amp;c=13726049497402871468&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 05:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil prices rise after ship attacks, US-Iran talks deadlock",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c73553ba644fa990c58f3646df344&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-rises-doubts-over-us-iran-deal-heighten-supply-concerns-2026-08-12%2f&amp;c=13737995286683186184&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 05:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall St set to open higher after inflation data, earnings boost",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c73553ba644fa990c58f3646df344&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12%2f&amp;c=1135025595128502705&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 03:22:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Meta, 29 states head to court in biggest test yet of youth social media litigation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c73553ba644fa990c58f3646df344&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmeta-29-states-head-court-biggest-test-yet-youth-social-media-litigation-2026-08-12%2f&amp;c=12613993592107567427&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 03:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bank of America pledges $250 billion for US infrastructure financing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7c736c78514648aecef65a026461d2&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fbank-america-launches-250-billion-initiative-us-tech-energy-infrastructure-2026-08-12%2f&amp;c=10108930147905903136&amp;mkt=en-us",
+        "pubDate": "Wed, 12 Aug 2026 02:02:00 GMT",
         "category": "us"
       }
     ],
     "markets": [
       {
-        "title": "CoreWeave surges 18% in premarket after a &apos;cleaner quarter&apos;. Here&apos;s what&apos;s happening",
-        "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
-        "pubDate": "Wed, 12 Aug 2026 10:29:58 GMT",
-        "category": "tech"
+        "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+        "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+        "pubDate": "Wed, 12 Aug 2026 12:54:09 GMT",
+        "category": "world"
       },
       {
-        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/08/11/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Tue, 11 Aug 2026 23:37:38 GMT",
+        "title": "JPMorgan sees even more gains ahead for this little-known social media stock",
+        "link": "https://www.cnbc.com/2026/08/12/jpmorgan-sees-even-more-gains-ahead-for-this-little-known-social-media-stock.html",
+        "pubDate": "Wed, 12 Aug 2026 12:03:44 GMT",
         "category": "us"
       },
       {
-        "title": "An inflation report Wednesday should be a big deal for the Fed. Here&apos;s what to expect",
-        "link": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
-        "pubDate": "Tue, 11 Aug 2026 18:34:41 GMT",
-        "category": "world"
+        "title": "Meta and Nvidia plant &apos;very firm flag&apos; in open-weight AI race led by Chinese Labs",
+        "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
+        "pubDate": "Wed, 12 Aug 2026 12:00:01 GMT",
+        "category": "tech"
       }
     ]
   }
