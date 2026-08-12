@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-11T22:51:31.542899",
+  "updated_at": "2026-08-12T02:24:48.149563",
   "news": {
     "ap": [
       {
-        "title": "Medicaid says it will stop paying for some gender-affirming care for transgender minors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba70ff3f34bf08917a671b3dc2b49&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftransgender-surgery-hormones-minors-medicaid-oz-39722b01ab47a891bbca643a7ae5dde6&amp;c=15535335329666262690&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 14:54:00 GMT",
-        "category": "health"
+        "title": "Super Cup: PSG vs Aston Villa, UEFA vs FIFA and the Somali ref barred from the World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd8daaab04da08c9f1d40b5daa257&amp;url=https%3a%2f%2fapnews.com%2farticle%2fuefa-super-cup-psg-aston-villa-artan-028c8ab2f50794723ac64a2761dd52d5&amp;c=9338838608202012423&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 04:13:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
       {
-        "title": "In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham",
+        "title": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
         "pubDate": "Tue, 11 Aug 2026 18:39:22 -0400",
         "category": "Top News"
@@ -21,6 +21,12 @@
         "link": "https://www.npr.org/2026/08/11/nx-s1-5927394/troops-have-been-patrolling-d-c-for-a-year-experts-are-worried-about-elections",
         "pubDate": "Tue, 11 Aug 2026 18:07:48 -0400",
         "category": "us"
+      },
+      {
+        "title": "The death toll climbs from Monday&apos;s 7.4 magnitude earthquake in Colombia",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5928036/the-death-toll-climbs-from-mondays-7-4-magnitude-earthquake-in-colombia",
+        "pubDate": "Tue, 11 Aug 2026 17:12:05 -0400",
+        "category": "world"
       },
       {
         "title": "A judge expands a block on U.S. Postal Service work on Trump&apos;s mail-in voting order",
@@ -44,7 +50,7 @@
         "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
         "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
         "pubDate": "Tue, 11 Aug 2026 07:11:14 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "The secret economics inside the new Planet Money board game",
@@ -63,15 +69,45 @@
         "link": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
         "pubDate": "Tue, 11 Aug 2026 06:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
-        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Trump says he switched planes after Nato summit because of possible threat",
+        "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 12 Aug 2026 02:05:30 GMT",
+        "category": "us"
+      },
+      {
+        "title": "More weather records as UK heat set to spike again",
+        "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 23:37:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Children as young as nine hurt in growing number of e-scooter crashes",
+        "link": "https://www.bbc.co.uk/news/articles/cx2rdggr304o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 23:31:02 GMT",
+        "category": "health"
+      },
+      {
+        "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
+        "link": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 23:17:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tokenomics: Why making AI pay is tricky",
+        "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 23:03:52 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "First 'pounds for pylons' energy bill discount sites revealed",
+        "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 11 Aug 2026 23:03:04 GMT",
+        "category": "business"
+      },
       {
         "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
         "link": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&amp;at_campaign=rss",
@@ -91,116 +127,92 @@
         "category": "world"
       },
       {
-        "title": "Eclipse chasers scramble for glasses as stocks run low",
-        "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 16:31:43 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
         "link": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 11 Aug 2026 15:53:53 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-        "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 14:47:28 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
-        "link": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 14:23:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "AI agent hacks gym to get its user a spot in pilates class",
-        "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 12:09:26 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "England set to be one of the first countries to eliminate hepatitis C",
-        "link": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 11 Aug 2026 08:54:57 GMT",
-        "category": "health"
-      },
-      {
-        "title": "'I started in my 20s and made \u00a38,000': Why women are often better investors than men",
-        "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 10 Aug 2026 23:32:10 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "Colombia quake death toll tops 250 as rescuers race to find survivors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fcolombia-rescue-efforts-press-after-quake-death-toll-expected-rise-2026-08-11%2f&amp;c=12795020340100400376&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 15:27:00 GMT",
+        "title": "Trump says his plane faced 'greater risk' in flight change",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd914b1d94445b8e7ec2630623e9e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ftrump-says-his-plane-faced-greater-risk-flight-change-2026-08-12%2f&amp;c=13726049497402871468&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 18:21:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Oil prices continue climb on US-Iran deal doubts; stocks retreat",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-08-11%2f&amp;c=12741934427702839297&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 15:04:00 GMT",
+        "title": "Trump boarded secret Turkey flight via catering truck due to Iran threat, reports say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd914b1d94445b8e7ec2630623e9e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2ftrump-flew-secretly-turkey-due-iranian-threat-washington-post-reports-2026-08-11%2f&amp;c=5196049107162484026&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 18:07:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump administration finalizes ownership reporting exemption for US firms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba715b1324a198df8096f14d63f9d&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-administration-finalizes-ownership-reporting-exemption-us-firms-2026-08-11%2f&amp;c=6042251425080507012&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 14:03:00 GMT",
+        "title": "Minnesota Democrats choose Amy Klobuchar as nominee for governor",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd914b1d94445b8e7ec2630623e9e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fminnesota-democrats-choose-amy-klobuchar-nominee-governor-2026-08-12%2f&amp;c=2062638705322021915&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Drones hit residential buildings in Russia's Black Sea port of Novorossiysk, mayor says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd914b1d94445b8e7ec2630623e9e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdrones-hit-residential-buildings-russias-black-sea-port-novorossiysk-mayor-says-2026-08-12%2f&amp;c=9262496316302960616&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US freight railroads lose appeal challenging new rule requiring at least two-person crews",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd9263d774a76a7bc794985d3bbe0&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-freight-railroads-lose-appeal-challenging-new-rule-requiring-least-two-person-2026-08-11%2f&amp;c=13733110054181121144&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 16:18:00 GMT",
         "category": "us"
       },
       {
-        "title": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba719da864da8b69c7823f32d5f36&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fcoreweave-edges-past-quarterly-revenue-estimates-2026-08-11%2f&amp;c=12284276396419144635&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 13:12:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Inflation is the biggest problem, Fed's Goolsbee says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fus%2finflation-is-biggest-problem-feds-goolsbee-says-2026-08-11%2f&amp;c=12794633362682094053&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 09:39:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New attacks on shipping as Iran war talks hit fresh impasse",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fpakistan-says-us-iran-close-some-sort-deal-despite-attacks-shipping-2026-08-11%2f&amp;c=15888459434081699071&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 08:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Poland says preparations for Women's under-20 World Cup remain on schedule",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba714b86c4e1897ca86d975869eff&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fnew-zealand-joins-france-committing-fifa-under-20-womens-world-cup-2026-08-11%2f&amp;c=1374249209601137194&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 08:07:00 GMT",
-        "category": "world"
-      },
-      {
         "title": "Wall Street ends down as US-Iran peace optimism fades",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-muted-us-iran-impasse-lifts-oil-prices-2026-08-11%2f&amp;c=4818995518111178065&amp;mkt=en-us",
-        "pubDate": "Tue, 11 Aug 2026 03:25:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd914b1d94445b8e7ec2630623e9e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-muted-us-iran-impasse-lifts-oil-prices-2026-08-11%2f&amp;c=4818995518111178065&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 16:17:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "In Upper Midwest primaries, a test of progressive energy and Trump's influence",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71312c945479c1748e6e9b6f432&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fupper-midwest-primaries-test-progressive-energy-trumps-influence-2026-08-11%2f&amp;c=13514049337783921421&amp;mkt=en-us",
+        "title": "North Korea fires ballistic missile ahead of major US-South Korea military drills",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd914b1d94445b8e7ec2630623e9e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fnorth-korea-fires-unidentified-projectile-media-says-2026-08-11%2f&amp;c=11917824933996269661&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 14:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cardinal Health forecasts full-year profit above estimates on specialty drug strength",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd9422f1641eb845907bb318f901f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fcardinal-health-forecasts-full-year-profit-above-estimates-specialty-drug-2026-08-11%2f&amp;c=17265590582896985543&amp;mkt=en-us",
+        "pubDate": "Tue, 11 Aug 2026 04:39:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Voting ends in Upper Midwest primaries, a test of progressive energy and Trump's influence",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd914b1d94445b8e7ec2630623e9e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fupper-midwest-primaries-test-progressive-energy-trumps-influence-2026-08-11%2f&amp;c=13514049337783921421&amp;mkt=en-us",
         "pubDate": "Tue, 11 Aug 2026 03:07:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US small-business sentiment rises to 11-month high in July, labor shortages a worry",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ba71826da4e48a1e17dd633d441be&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-small-business-sentiment-rises-11-month-high-july-labor-shortages-worry-2026-08-11%2f&amp;c=13663502283571247301&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7bd935f0084029ada37d73a6414fb0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-small-business-sentiment-rises-11-month-high-july-labor-shortages-worry-2026-08-11%2f&amp;c=13663502283571247301&amp;mkt=en-us",
         "pubDate": "Tue, 11 Aug 2026 03:03:00 GMT",
         "category": "business"
       }
     ],
     "markets": [
       {
-        "title": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
-        "link": "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html",
-        "pubDate": "Tue, 11 Aug 2026 21:36:03 GMT",
-        "category": "health"
+        "title": "EVs dominate China\u2019s car market: 5 takeaways from the country&apos;s latest auto sales data",
+        "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+        "pubDate": "Wed, 12 Aug 2026 01:20:13 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
+        "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+        "pubDate": "Tue, 11 Aug 2026 21:01:13 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Wall Street just endorsed Jensen Huang&apos;s &apos;big concept&apos; for AI. What now?",
+        "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+        "pubDate": "Tue, 11 Aug 2026 14:11:05 GMT",
+        "category": "world"
       }
     ]
   }
