@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-08-13T13:24:55.399992",
+  "updated_at": "2026-08-13T15:05:55.373157",
   "news": {
-    "ap": [
-      {
-        "title": "Lawsuit seeks to ban Trump Media from charging for early access to president\u2019s posts on US policy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7dc51a31bf459fb428cc0f6d624f99&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-media-lawsuit-truth-social-access-wall-street-traders-7f057fd1dba31dd4e357c8bf635ee009&amp;c=6117575190052930591&amp;mkt=en-us",
-        "pubDate": "Thu, 13 Aug 2026 05:10:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "FIFA chief Infantino receives support from 6 Arab federations amid revolt over World Cup plan",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7dc516c90b4fde85b5328963c47362&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffifa-infantino-world-cup-morocco-qatar-ab8ab11c93bffddaeeca675cc7e4d1d8&amp;c=9983687450878832628&amp;mkt=en-us",
-        "pubDate": "Thu, 13 Aug 2026 05:00:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+        "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
+        "pubDate": "Thu, 13 Aug 2026 09:18:43 -0400",
+        "category": "world"
+      },
       {
         "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
         "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
         "pubDate": "Thu, 13 Aug 2026 07:31:18 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
@@ -65,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Millions crowd cities to see Spain&apos;s first total solar eclipse in over a century",
-        "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
-        "pubDate": "Thu, 13 Aug 2026 02:04:38 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Trump sued over service selling faster access to Truth Social posts",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
         "pubDate": "Wed, 12 Aug 2026 16:33:10 -0400",
@@ -79,27 +66,45 @@
     ],
     "bbc": [
       {
-        "title": "Harvey Nichols bought by Sports Direct owner",
-        "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 13:14:31 GMT",
+        "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
+        "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 14:58:14 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 14:58:09 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Harvey Nichols bought by owner of Sports Direct",
+        "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 14:27:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
+        "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 14:09:05 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Did the eclipse damage your eyes?",
+        "link": "https://www.bbc.co.uk/news/videos/cy452z5j1x1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 13:39:18 GMT",
+        "category": "health"
       },
       {
         "title": "Water bills set to rise for many after firms permitted extra funding",
         "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 13:09:38 GMT",
+        "pubDate": "Thu, 13 Aug 2026 13:38:30 GMT",
         "category": "business"
       },
       {
-        "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-        "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 13:02:24 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Man, 102, dies after alleged pub assault",
-        "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 12:27:41 GMT",
+        "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
+        "link": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 12:23:12 GMT",
         "category": "Top News"
       },
       {
@@ -109,44 +114,26 @@
         "category": "Top News"
       },
       {
-        "title": "Heatwaves drive A&E attendances up to record high",
+        "title": "Busiest ever period for England's A&Es as extreme heat hits",
         "link": "https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 13 Aug 2026 11:56:32 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 04:55:58 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Leading doctor rebukes NHS chiefs over transplant failings",
-        "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 01:03:15 GMT",
-        "category": "health"
       },
       {
         "title": "Trump says White House press secretary Karoline Leavitt to leave post",
         "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 12 Aug 2026 22:58:45 GMT",
         "category": "us"
-      },
-      {
-        "title": "Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post",
-        "link": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 22:56:32 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
-        "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
-        "pubDate": "Thu, 13 Aug 2026 13:15:01 GMT",
-        "category": "business"
+        "title": "Ladbrokes owner Entain beats first-half profit view as World Cup offsets UK tax blow",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ddcbf1f7c4ad1835523c9c9f6dcda&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fladbrokes-owner-entain-beats-profit-expectations-world-cup-boost-2026-08-13%2f&amp;c=15809772197011991450&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 06:50:00 GMT",
+        "category": "world"
       }
-    ]
+    ],
+    "markets": []
   }
 }
