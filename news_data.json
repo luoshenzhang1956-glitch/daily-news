@@ -1,13 +1,44 @@
 {
-  "updated_at": "2026-08-13T11:06:29.623215",
+  "updated_at": "2026-08-13T13:24:55.399992",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Lawsuit seeks to ban Trump Media from charging for early access to president\u2019s posts on US policy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7dc51a31bf459fb428cc0f6d624f99&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-media-lawsuit-truth-social-access-wall-street-traders-7f057fd1dba31dd4e357c8bf635ee009&amp;c=6117575190052930591&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 05:10:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "FIFA chief Infantino receives support from 6 Arab federations amid revolt over World Cup plan",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7dc516c90b4fde85b5328963c47362&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffifa-infantino-world-cup-morocco-qatar-ab8ab11c93bffddaeeca675cc7e4d1d8&amp;c=9983687450878832628&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 05:00:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+        "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
+        "pubDate": "Thu, 13 Aug 2026 07:31:18 -0400",
+        "category": "world"
+      },
+      {
+        "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
+        "link": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
+        "pubDate": "Thu, 13 Aug 2026 07:18:53 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Primary voters send mixed signals about what they want from the Democratic Party",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
+        "pubDate": "Thu, 13 Aug 2026 06:59:33 -0400",
+        "category": "Top News"
+      },
       {
         "title": "U.S. ambassador calls settler siege of Palestinian homes a &apos;horrific act of terror&apos;",
         "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
         "pubDate": "Thu, 13 Aug 2026 05:58:40 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Sailors and their families have lives on pause, uncertain if they&apos;ll return to Mideast",
@@ -40,24 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
-        "link": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
-        "pubDate": "Thu, 13 Aug 2026 01:43:43 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Photos: See the best photos from the solar eclipse",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
-        "pubDate": "Wed, 12 Aug 2026 21:38:01 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Boston-area trial draws attention to post-partum psychosis",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5927479/boston-area-trial-draws-attention-to-post-partum-psychosis",
-        "pubDate": "Wed, 12 Aug 2026 16:59:56 -0400",
-        "category": "health"
-      },
-      {
         "title": "Trump sued over service selling faster access to Truth Social posts",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
         "pubDate": "Wed, 12 Aug 2026 16:33:10 -0400",
@@ -66,33 +79,39 @@
     ],
     "bbc": [
       {
-        "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-        "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 10:39:02 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
-        "link": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 10:19:08 GMT",
+        "title": "Harvey Nichols bought by Sports Direct owner",
+        "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 13:14:31 GMT",
         "category": "Top News"
       },
       {
-        "title": "UK economy grows but experts warn of challenging months ahead",
-        "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 10:17:56 GMT",
+        "title": "Water bills set to rise for many after firms permitted extra funding",
+        "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 13:09:38 GMT",
         "category": "business"
       },
       {
-        "title": "UK defends seizing shadow fleet tanker after Putin threat",
-        "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 09:52:30 GMT",
+        "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+        "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 13:02:24 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Man, 102, dies after alleged pub assault",
+        "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 12:27:41 GMT",
         "category": "Top News"
       },
       {
-        "title": "Scientists invent 'world's greenest party balloon'",
-        "link": "https://www.bbc.co.uk/news/articles/c78gqw3w6v5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 05:05:56 GMT",
+        "title": "The key signs you may have damaged your eyes by looking at the eclipse",
+        "link": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 11:57:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Heatwaves drive A&E attendances up to record high",
+        "link": "https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 11:56:32 GMT",
         "category": "Top News"
       },
       {
@@ -115,67 +134,19 @@
       },
       {
         "title": "Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post",
-        "link": "https://www.bbc.co.uk/programmes/p0p45qvs?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 22:37:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 21:53:45 GMT",
+        "link": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 12 Aug 2026 22:56:32 GMT",
         "category": "Top News"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "Russia attacks Ukrainian port on Danube, Zelenskiy urges US to send Patriots",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7da4a7843a46ab93244ff17076c55e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2frussian-attack-sets-ablaze-ukraines-izmail-port-infrastructure-regional-2026-08-13%2f&amp;c=9648298892345743990&amp;mkt=en-us",
-        "pubDate": "Thu, 13 Aug 2026 03:26:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Putin visits disputed island near Japan, drawing Tokyo's ire",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7da4a7843a46ab93244ff17076c55e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2frussias-putin-visits-disputed-kuril-islands-samples-fish-roe-media-say-2026-08-13%2f&amp;c=92872643589661558&amp;mkt=en-us",
-        "pubDate": "Thu, 13 Aug 2026 03:26:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump promised a sex-trafficking crackdown. His Justice Department hasn't delivered",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7da4a7843a46ab93244ff17076c55e&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-promised-sex-trafficking-crackdown-his-justice-department-hasnt-delivered-2026-08-13%2f&amp;c=10964449819994934103&amp;mkt=en-us",
-        "pubDate": "Thu, 13 Aug 2026 03:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7da4a7843a46ab93244ff17076c55e&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fmeta-says-it-has-taken-down-756000-australian-teen-accounts-ban-enforcement-2026-08-13%2f&amp;c=14614987946705637995&amp;mkt=en-us",
-        "pubDate": "Wed, 12 Aug 2026 20:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Zambia votes in election expected to favour incumbent Hichilema",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7da4a7843a46ab93244ff17076c55e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2fzambia-votes-elections-expected-favour-incumbent-hichilema-2026-08-12%2f&amp;c=15685446637436809606&amp;mkt=en-us",
-        "pubDate": "Wed, 12 Aug 2026 16:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump sued over service that offers paid early access to Truth Social posts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7da4a7843a46ab93244ff17076c55e&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-sued-over-service-that-offers-paid-early-access-truth-social-posts-2026-08-12%2f&amp;c=14588340069800395219&amp;mkt=en-us",
-        "pubDate": "Wed, 12 Aug 2026 15:13:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says press secretary Leavitt to leave job at month's end",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7da4a7843a46ab93244ff17076c55e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ftrump-says-press-secretary-leavitt-leave-job-months-end-2026-08-12%2f&amp;c=16875228071014432620&amp;mkt=en-us",
-        "pubDate": "Wed, 12 Aug 2026 14:19:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'If I go, you go, right?': Traveling on the presidential plane\u2014without Trump",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7da4a7843a46ab93244ff17076c55e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fif-i-go-you-go-right-traveling-presidential-plane-without-trump-2026-08-12%2f&amp;c=16211472176713686418&amp;mkt=en-us",
-        "pubDate": "Wed, 12 Aug 2026 14:03:00 GMT",
-        "category": "Top News"
+        "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
+        "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+        "pubDate": "Thu, 13 Aug 2026 13:15:01 GMT",
+        "category": "business"
       }
-    ],
-    "markets": []
+    ]
   }
 }
