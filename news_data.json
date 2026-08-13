@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-08-13T15:05:55.373157",
+  "updated_at": "2026-08-13T17:03:08.605911",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Lawsuit seeks to ban Trump Media from charging for early access to president\u2019s posts on US policy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7df831aee3456482b61d1aa367deca&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-media-lawsuit-truth-social-access-wall-street-traders-7f057fd1dba31dd4e357c8bf635ee009&amp;c=6117575190052930591&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 05:10:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Trump\u2019s vaccine plan would require millions of individual shots last used decades ago",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7df8504fdf4ef295c3b3032f736c47&amp;url=https%3a%2f%2fapnews.com%2farticle%2fvaccines-trump-mmr-drugmakers-5a1d91e149feab99b18dd916412523ee&amp;c=7858616240832165077&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 03:24:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
+        "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+        "pubDate": "Thu, 13 Aug 2026 12:40:26 -0400",
+        "category": "world"
+      },
+      {
+        "title": "By sky and sea, Ukraine&apos;s drone strikes challenge Russia&apos;s grip on Crimea",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+        "pubDate": "Thu, 13 Aug 2026 11:18:27 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
         "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
         "pubDate": "Thu, 13 Aug 2026 09:18:43 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
@@ -46,18 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
-        "pubDate": "Thu, 13 Aug 2026 04:44:44 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
-        "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
-        "pubDate": "Thu, 13 Aug 2026 02:21:25 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Trump sued over service selling faster access to Truth Social posts",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
         "pubDate": "Wed, 12 Aug 2026 16:33:10 -0400",
@@ -66,21 +79,39 @@
     ],
     "bbc": [
       {
-        "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
-        "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 14:58:14 GMT",
+        "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+        "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 16:53:28 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Five key takeaways from results day 2026",
+        "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 16:49:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Honeytrap thieves jailed for killing men they had drugged",
+        "link": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 16:47:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 16:45:06 GMT",
+        "category": "us"
       },
       {
         "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
         "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 14:58:09 GMT",
+        "pubDate": "Thu, 13 Aug 2026 16:20:41 GMT",
         "category": "world"
       },
       {
-        "title": "Harvey Nichols bought by owner of Sports Direct",
-        "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 14:27:43 GMT",
+        "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
+        "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 13 Aug 2026 14:58:14 GMT",
         "category": "Top News"
       },
       {
@@ -102,38 +133,39 @@
         "category": "business"
       },
       {
-        "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
-        "link": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 12:23:12 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "The key signs you may have damaged your eyes by looking at the eclipse",
         "link": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 13 Aug 2026 11:57:28 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Busiest ever period for England's A&Es as extreme heat hits",
-        "link": "https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 11:56:32 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-        "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 12 Aug 2026 22:58:45 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "Ladbrokes owner Entain beats first-half profit view as World Cup offsets UK tax blow",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ddcbf1f7c4ad1835523c9c9f6dcda&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fladbrokes-owner-entain-beats-profit-expectations-world-cup-boost-2026-08-13%2f&amp;c=15809772197011991450&amp;mkt=en-us",
-        "pubDate": "Thu, 13 Aug 2026 06:50:00 GMT",
-        "category": "world"
+        "title": "US can keep naval blockade on Iranian ports &quot;indefinitely,&quot; Pentagon chief says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7df8712e2c49d39839e81c1763dc29&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-can-keep-naval-blockade-iranian-ports-indefinitely-pentagon-chief-says-2026-08-13%2f&amp;c=2583707252894927420&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 09:15:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Fed should raise rates to restrain growth and inflation, Hammack says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7df872402341718abbba72715d57a2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2ffed-should-raise-rates-restrain-growth-inflation-hammack-says-2026-08-13%2f&amp;c=3871704446847286828&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 06:02:00 GMT",
+        "category": "business"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Bill Ackman buys Netflix again four years after exit, says it has won the streaming wars",
+        "link": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html",
+        "pubDate": "Thu, 13 Aug 2026 16:09:51 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
+        "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+        "pubDate": "Thu, 13 Aug 2026 15:19:31 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
