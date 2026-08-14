@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-08-14T07:43:26.072167",
+  "updated_at": "2026-08-14T09:15:48.731498",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "World War II Memorial in Washington vandalized with bubbles and graffiti",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7edbea24404627a1c552e97c3506ea&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwwii-memorial-vandalized-paint-bubbles-ac1f767c2bfb81f0902b1914c2dfe252&amp;c=17401496159971451084&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 23:48:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "An \u2018influencer\u2019 degree? Colleges bet on content creator major as critics question its value",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7edbfbe4de48f5924ca14e8dc5550b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcollege-degree-influencer-major-content-creator-c7522cdde7d61c7305b54df6effd03ff&amp;c=2838273654282669106&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 21:03:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Fill in the blank on this week&apos;s quiz: Rep. AOC is documenting ____ on Instagram",
+        "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
+        "pubDate": "Fri, 14 Aug 2026 05:01:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "ICE uses controversial program to boost deportations. Here&apos;s how it works in 1 county",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+        "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5927062/morning-news-brief",
+        "pubDate": "Fri, 14 Aug 2026 04:45:41 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Record cyclosporiasis outbreak tests agencies hit by Trump administration&apos;s cuts",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5923574/record-cyclosporiasis-outbreak-tests-agencies-hit-by-trump-administrations-cuts",
+        "pubDate": "Fri, 14 Aug 2026 04:45:23 -0400",
+        "category": "health"
+      },
       {
         "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
         "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
@@ -13,7 +50,7 @@
         "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
         "link": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
         "pubDate": "Fri, 14 Aug 2026 02:15:54 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
@@ -38,33 +75,21 @@
         "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
         "pubDate": "Thu, 13 Aug 2026 14:55:30 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
-        "pubDate": "Thu, 13 Aug 2026 13:29:15 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
-        "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-        "pubDate": "Thu, 13 Aug 2026 12:40:26 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "By sky and sea, Ukraine&apos;s drone strikes challenge Russia&apos;s grip on Crimea",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
-        "pubDate": "Thu, 13 Aug 2026 11:18:27 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
-        "link": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
-        "pubDate": "Thu, 13 Aug 2026 07:18:53 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
+      {
+        "title": "Farage's by-election victory won't stop questions about finances",
+        "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 08:18:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "I got an \u00a389 refund \u2013 how to cancel and  avoid unwanted subscriptions",
+        "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 07:45:51 GMT",
+        "category": "business"
+      },
       {
         "title": "Watch: Video shows scale of devastation in Stourbridge",
         "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&amp;at_campaign=rss",
@@ -72,16 +97,10 @@
         "category": "Top News"
       },
       {
-        "title": "'Unprecedented' rains in Japan kill six people",
+        "title": "'Unprecedented' rain in Japan kills six people",
         "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 14 Aug 2026 07:00:56 GMT",
         "category": "world"
-      },
-      {
-        "title": "Farage's by-election victory won't stop questions about finances",
-        "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 05:22:27 GMT",
-        "category": "Top News"
       },
       {
         "title": "NHS service admits data breach due to pager use",
@@ -90,21 +109,15 @@
         "category": "Top News"
       },
       {
-        "title": "Final day of heatwave for many before weekend cooldown",
-        "link": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 00:08:16 GMT",
+        "title": "Watch: What happens if Luigi Mangione pleads guilty?",
+        "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 01:19:19 GMT",
         "category": "Top News"
       },
       {
-        "title": "I got an \u00a389 refund \u2013 how to cancel and  avoid unwanted subscriptions",
-        "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 23:03:07 GMT",
-        "category": "business"
-      },
-      {
-        "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 22:40:50 GMT",
+        "title": "Final day of heatwave for many before weekend cooldown",
+        "link": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 00:08:16 GMT",
         "category": "Top News"
       },
       {
