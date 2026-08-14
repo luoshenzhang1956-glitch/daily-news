@@ -1,30 +1,54 @@
 {
-  "updated_at": "2026-08-14T09:15:48.731498",
+  "updated_at": "2026-08-14T11:03:09.544800",
   "news": {
     "ap": [
       {
-        "title": "World War II Memorial in Washington vandalized with bubbles and graffiti",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7edbea24404627a1c552e97c3506ea&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwwii-memorial-vandalized-paint-bubbles-ac1f767c2bfb81f0902b1914c2dfe252&amp;c=17401496159971451084&amp;mkt=en-us",
-        "pubDate": "Thu, 13 Aug 2026 23:48:00 GMT",
-        "category": "world"
+        "title": "US missionary kidnapped in Niger is released after 9 months in captivity, his organization says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ef55c0dfa44f5b8e5779690a393d0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fniger-kidnapped-us-missionary-released-268cdcbb3da14744d0129f30513ad5a8&amp;c=16076427463939348801&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 03:05:00 GMT",
+        "category": "us"
       },
       {
-        "title": "An \u2018influencer\u2019 degree? Colleges bet on content creator major as critics question its value",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7edbfbe4de48f5924ca14e8dc5550b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcollege-degree-influencer-major-content-creator-c7522cdde7d61c7305b54df6effd03ff&amp;c=2838273654282669106&amp;mkt=en-us",
-        "pubDate": "Thu, 13 Aug 2026 21:03:00 GMT",
+        "title": "Charlotte FC hosts the Columbus Crew in conference action",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ef561acfe4d2c8edee795a88fa6f6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcolumbus-crew-sc-charlotte-fc-mls-soccer-soccer-6fcb77a6fa8644ed9988f171676e569b&amp;c=5959235902643590677&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 23:16:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Trump set to highlight violent crime reduction during a visit to New York police academy",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ef55d10fc4035b03a76d707b706d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-new-york-police-academy-blakeman-crime-3fbc57b6a0978b5690b8e4550aedd488&amp;c=6408017393357666470&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 21:06:00 GMT",
         "category": "business"
       }
     ],
     "npr": [
       {
+        "title": "Reports about mental health, supply issues aboard USS Lincoln raise concerns",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5930567/reports-about-mental-health-supply-issues-aboard-uss-lincoln-raise-concerns",
+        "pubDate": "Fri, 14 Aug 2026 06:47:29 -0400",
+        "category": "us"
+      },
+      {
+        "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+        "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+        "pubDate": "Fri, 14 Aug 2026 06:30:17 -0400",
+        "category": "world"
+      },
+      {
         "title": "Fill in the blank on this week&apos;s quiz: Rep. AOC is documenting ____ on Instagram",
         "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
         "pubDate": "Fri, 14 Aug 2026 05:01:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "ICE uses controversial program to boost deportations. Here&apos;s how it works in 1 county",
         "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+        "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "At Big Bend National Park, bulldozers begin clearing pristine desert land for border barrier work",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5927276/big-bend-border-texas-rio-grande",
         "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -44,7 +68,7 @@
         "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
         "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
         "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
@@ -53,31 +77,37 @@
         "category": "Top News"
       },
       {
-        "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
-        "pubDate": "Fri, 14 Aug 2026 01:42:35 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Feds probe &apos;mention markets&apos; amid White House Kalshi controversy",
         "link": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
         "pubDate": "Thu, 13 Aug 2026 22:06:10 -0400",
         "category": "business"
-      },
-      {
-        "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
-        "pubDate": "Thu, 13 Aug 2026 17:39:19 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Kennedy Center Board votes again to shut main building down \u2014 and add Trump&apos;s name back",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
-        "pubDate": "Thu, 13 Aug 2026 14:55:30 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Mother jailed for killing baby by burning her with a hairdryer",
+        "link": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 10:56:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Unprecedented' rain in Japan kills eight people",
+        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 10:36:14 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Eurovision proposes new rules to tackle mass voting",
+        "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 10:23:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
+        "link": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 09:15:51 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Farage's by-election victory won't stop questions about finances",
         "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&amp;at_campaign=rss",
@@ -94,30 +124,6 @@
         "title": "Watch: Video shows scale of devastation in Stourbridge",
         "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 14 Aug 2026 07:26:53 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Unprecedented' rain in Japan kills six people",
-        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 07:00:56 GMT",
-        "category": "world"
-      },
-      {
-        "title": "NHS service admits data breach due to pager use",
-        "link": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 05:12:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: What happens if Luigi Mangione pleads guilty?",
-        "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 01:19:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Final day of heatwave for many before weekend cooldown",
-        "link": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 00:08:16 GMT",
         "category": "Top News"
       },
       {
@@ -139,7 +145,33 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Capricor shares skyrocket as FDA agrees to review new Duchenne drug data",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ef5b5e13e40409039e1e20841c0e7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fcapricor-shares-skyrocket-fda-agrees-review-new-duchenne-drug-data-2026-08-14%2f&amp;c=13234458250711309149&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 03:39:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Silver Lake in talks to buy Workday, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ef5b43f554fc1b036416fd97214cb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fsilver-lake-talks-buy-workday-sources-say-2026-08-13%2f&amp;c=15033676921789862968&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 11:34:00 GMT",
+        "category": "tech"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Nintendo shares pop 7% after &apos;Pok\u00e9mon Pokopia&apos; sales top 5 million",
+        "link": "https://www.cnbc.com/2026/08/14/nintendo-shares-pokemon-pokopia-switch-2.html",
+        "pubDate": "Fri, 14 Aug 2026 09:03:34 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
+        "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+        "pubDate": "Thu, 13 Aug 2026 15:19:31 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
