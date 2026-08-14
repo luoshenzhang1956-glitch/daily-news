@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-08-14T11:03:09.544800",
+  "updated_at": "2026-08-14T13:18:51.284340",
   "news": {
     "ap": [
       {
-        "title": "US missionary kidnapped in Niger is released after 9 months in captivity, his organization says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ef55c0dfa44f5b8e5779690a393d0&amp;url=https%3a%2f%2fapnews.com%2farticle%2fniger-kidnapped-us-missionary-released-268cdcbb3da14744d0129f30513ad5a8&amp;c=16076427463939348801&amp;mkt=en-us",
-        "pubDate": "Fri, 14 Aug 2026 03:05:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Charlotte FC hosts the Columbus Crew in conference action",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ef561acfe4d2c8edee795a88fa6f6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcolumbus-crew-sc-charlotte-fc-mls-soccer-soccer-6fcb77a6fa8644ed9988f171676e569b&amp;c=5959235902643590677&amp;mkt=en-us",
-        "pubDate": "Thu, 13 Aug 2026 23:16:00 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Trump set to highlight violent crime reduction during a visit to New York police academy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ef55d10fc4035b03a76d707b706d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-new-york-police-academy-blakeman-crime-3fbc57b6a0978b5690b8e4550aedd488&amp;c=6408017393357666470&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f157280ac46a19689b0f7a9560b86&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-new-york-police-academy-blakeman-crime-3fbc57b6a0978b5690b8e4550aedd488&amp;c=6408017393357666470&amp;mkt=en-us",
         "pubDate": "Thu, 13 Aug 2026 21:06:00 GMT",
         "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "U.S. missionary who was kidnapped in Niger is released",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+        "pubDate": "Fri, 14 Aug 2026 08:11:50 -0400",
+        "category": "world"
+      },
       {
         "title": "Reports about mental health, supply issues aboard USS Lincoln raise concerns",
         "link": "https://www.npr.org/2026/08/14/nx-s1-5930567/reports-about-mental-health-supply-issues-aboard-uss-lincoln-raise-concerns",
@@ -32,7 +26,7 @@
         "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
         "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
         "pubDate": "Fri, 14 Aug 2026 06:30:17 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Fill in the blank on this week&apos;s quiz: Rep. AOC is documenting ____ on Instagram",
@@ -65,15 +59,9 @@
         "category": "health"
       },
       {
-        "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-        "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
-        "link": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
-        "pubDate": "Fri, 14 Aug 2026 02:15:54 -0400",
+        "title": "2 workers share how helping kids at a community center has changed their lives",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5927231/2-workers-share-how-helping-kids-at-a-community-center-has-changed-their-lives",
+        "pubDate": "Fri, 14 Aug 2026 04:43:52 -0400",
         "category": "Top News"
       },
       {
@@ -85,9 +73,33 @@
     ],
     "bbc": [
       {
-        "title": "Mother jailed for killing baby by burning her with a hairdryer",
-        "link": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 10:56:16 GMT",
+        "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+        "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 13:09:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Prisoners charged over attack on Sara Sharif's father",
+        "link": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 13:09:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+        "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 12:19:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Selena Gomez sued for alleged fraud over mental health company",
+        "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 11:32:05 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+        "link": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 11:20:52 GMT",
         "category": "Top News"
       },
       {
@@ -97,33 +109,9 @@
         "category": "world"
       },
       {
-        "title": "Eurovision proposes new rules to tackle mass voting",
+        "title": "Eurovision proposes new rules to reduce political voting",
         "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 14 Aug 2026 10:23:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
-        "link": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 09:15:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Farage's by-election victory won't stop questions about finances",
-        "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 08:18:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "I got an \u00a389 refund \u2013 how to cancel and  avoid unwanted subscriptions",
-        "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 07:45:51 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Watch: Video shows scale of devastation in Stourbridge",
-        "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 07:26:53 GMT",
         "category": "Top News"
       },
       {
@@ -147,25 +135,67 @@
     ],
     "reuters": [
       {
+        "title": "Wildfires in Britain hit record levels after homes burn in intense heat",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f157d562a4016a62727b84f7f2d15&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fwildfires-britain-hit-record-levels-after-homes-burn-intense-heat-2026-08-14%2f&amp;c=5548110672655999328&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 05:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US retail sales unexpectedly fall in July",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f157d562a4016a62727b84f7f2d15&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-retail-sales-unexpectedly-fall-july-2026-08-14%2f&amp;c=12720990587788447095&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 05:37:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "France's Lactalis buys Saputo's British dairy unit in $1.34 billion deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f157d562a4016a62727b84f7f2d15&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2ffrances-lactalis-buys-saputos-british-dairy-unit-134-billion-deal-2026-08-14%2f&amp;c=4134851209189843718&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 05:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Market Talk: Can economic pressure reopen the Strait?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f157d562a4016a62727b84f7f2d15&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW542714082026RP1%2f&amp;c=18055267033816101347&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 05:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Air India A320 briefly lost key flight controls, Airbus analysis shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f157d562a4016a62727b84f7f2d15&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fair-india-a320-briefly-lost-key-flight-controls-during-300-foot-drop-airbus-2026-08-14%2f&amp;c=2739174975102985999&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 04:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f157d562a4016a62727b84f7f2d15&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fsiege-palestinian-village-draws-us-criticism-israeli-settlers-dig-2026-08-14%2f&amp;c=13805770890582146340&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 04:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Africa in Pictures: from the solar eclipse to snow",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f157d562a4016a62727b84f7f2d15&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW542614082026RP1%2f&amp;c=1092271115057314754&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 04:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall St futures muted as oil gains curb risk appetite after S&amp;P record close",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f157d562a4016a62727b84f7f2d15&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-muted-higher-oil-prices-temper-risk-appetite-after-sp-record-2026-08-14%2f&amp;c=12720532752640510610&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 04:14:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Capricor shares skyrocket as FDA agrees to review new Duchenne drug data",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ef5b5e13e40409039e1e20841c0e7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fcapricor-shares-skyrocket-fda-agrees-review-new-duchenne-drug-data-2026-08-14%2f&amp;c=13234458250711309149&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f1599c2ca4e85bd4f57c88914ed90&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fcapricor-shares-skyrocket-fda-agrees-review-new-duchenne-drug-data-2026-08-14%2f&amp;c=13234458250711309149&amp;mkt=en-us",
         "pubDate": "Fri, 14 Aug 2026 03:39:00 GMT",
         "category": "health"
       },
       {
-        "title": "Silver Lake in talks to buy Workday, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7ef5b43f554fc1b036416fd97214cb&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fsilver-lake-talks-buy-workday-sources-say-2026-08-13%2f&amp;c=15033676921789862968&amp;mkt=en-us",
-        "pubDate": "Thu, 13 Aug 2026 11:34:00 GMT",
-        "category": "tech"
+        "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f157d562a4016a62727b84f7f2d15&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fgoldman-talks-with-investors-nvidia-financing-deal-after-landing-prized-role-2026-08-14%2f&amp;c=13634497037999426456&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 21:05:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
-      {
-        "title": "Nintendo shares pop 7% after &apos;Pok\u00e9mon Pokopia&apos; sales top 5 million",
-        "link": "https://www.cnbc.com/2026/08/14/nintendo-shares-pokemon-pokopia-switch-2.html",
-        "pubDate": "Fri, 14 Aug 2026 09:03:34 GMT",
-        "category": "tech"
-      },
       {
         "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
         "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
