@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-08-14T14:58:12.135724",
+  "updated_at": "2026-08-14T17:01:44.812025",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US admiral says special forces ready to step up combat drills in Philippines",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f4934b48948868f78c7b882527083&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fus-admiral-says-special-forces-ready-to-step-up-combat-drills-in-philippines-2a24b903c2fe4f90945922b1c7f2f709&amp;c=17746032261878294664&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 08:12:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Suspect arrested in World War II Memorial vandalism in Washington, Pirro says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f49334bf24deb9ab0ae1c803542f4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwwii-memorial-vandalized-paint-bubbles-ac1f767c2bfb81f0902b1914c2dfe252&amp;c=17401496159971451084&amp;mkt=en-us",
+        "pubDate": "Thu, 13 Aug 2026 21:05:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "As speed cameras spread to more states, so does the backlash from drivers",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
+        "pubDate": "Fri, 14 Aug 2026 12:54:58 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Is there a summer COVID-19 surge this year? Yep, it&apos;s ramping up again",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
+        "pubDate": "Fri, 14 Aug 2026 12:37:54 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
+        "pubDate": "Fri, 14 Aug 2026 12:05:24 -0400",
+        "category": "Top News"
+      },
       {
         "title": "We learned 5 important things about the economy this week",
         "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
@@ -22,10 +53,10 @@
         "category": "Top News"
       },
       {
-        "title": "Reports about mental health, supply issues aboard USS Lincoln raise concerns",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5930567/reports-about-mental-health-supply-issues-aboard-uss-lincoln-raise-concerns",
-        "pubDate": "Fri, 14 Aug 2026 06:47:29 -0400",
-        "category": "us"
+        "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: &apos;That&apos;s not proper leadership&apos;",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
+        "pubDate": "Fri, 14 Aug 2026 06:47:19 -0400",
+        "category": "Top News"
       },
       {
         "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
@@ -40,24 +71,6 @@
         "category": "Top News"
       },
       {
-        "title": "ICE uses controversial program to boost deportations. Here&apos;s how it works in 1 county",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
-        "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "At Big Bend National Park, bulldozers begin clearing pristine desert land for border barrier work",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5927276/big-bend-border-texas-rio-grande",
-        "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Record cyclosporiasis outbreak tests agencies hit by Trump administration&apos;s cuts",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5923574/record-cyclosporiasis-outbreak-tests-agencies-hit-by-trump-administrations-cuts",
-        "pubDate": "Fri, 14 Aug 2026 04:45:23 -0400",
-        "category": "health"
-      },
-      {
         "title": "Feds probe &apos;mention markets&apos; amid White House Kalshi controversy",
         "link": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
         "pubDate": "Thu, 13 Aug 2026 22:06:10 -0400",
@@ -68,19 +81,43 @@
       {
         "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
         "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 14:30:46 GMT",
+        "pubDate": "Fri, 14 Aug 2026 16:49:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+        "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 16:47:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'I shot Mr Thompson' - Inside the court as Mangione pleaded guilty",
+        "link": "https://www.bbc.co.uk/news/videos/czxeqgp71r0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 16:32:27 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Bezos-backed consortium buys a third of Liverpool FC",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 16:00:16 GMT",
         "category": "Top News"
       },
       {
         "title": "Electric vehicle sales targets could be cut after pressure from car makers",
         "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 14:08:21 GMT",
+        "pubDate": "Fri, 14 Aug 2026 15:58:21 GMT",
         "category": "business"
       },
       {
-        "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
-        "link": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 13:58:55 GMT",
+        "title": "Trump asks Supreme Court to allow ballroom work to continue",
+        "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 15:10:41 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+        "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 14 Aug 2026 14:50:02 GMT",
         "category": "Top News"
       },
       {
@@ -90,98 +127,92 @@
         "category": "Top News"
       },
       {
-        "title": "Instagram accounts fuelling Ceuta migrant crisis with paid advice for help to cross",
+        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
         "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 14 Aug 2026 12:19:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Glam helps mentality' says sprinter Amy Hunt, but can it give you that winning edge?",
-        "link": "https://www.bbc.co.uk/news/articles/cd9wp32dgxxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 11:49:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Unprecedented' rain in Japan kills eight people",
-        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 10:36:14 GMT",
         "category": "world"
-      },
-      {
-        "title": "Eurovision proposes new rules to reduce political voting",
-        "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 10:23:08 GMT",
-        "category": "Top News"
       },
       {
         "title": "Sensitive medical data sent over unencrypted pager network",
         "link": "https://www.bbc.co.uk/news/videos/c5ywz5q4vx8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 14 Aug 2026 07:53:24 GMT",
         "category": "health"
-      },
-      {
-        "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-        "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 13 Aug 2026 18:45:51 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "US business inventories unchanged in June",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f2cb361d6498da6c6a799563b76cf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-business-inventories-unchanged-june-2026-08-14%2f&amp;c=1323004594992360490&amp;mkt=en-us",
-        "pubDate": "Fri, 14 Aug 2026 07:37:00 GMT",
-        "category": "business"
+        "title": "British cyclist dies in Volta a Portugal accident",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f496a548847f39a648c3f3d56dd28&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbritish-cyclist-dies-volta-portugal-accident-2026-08-14%2f&amp;c=13265199573078025753&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 09:52:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "El Nino forces firms to review their resilience planning",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f496a548847f39a648c3f3d56dd28&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW546514082026RP1%2f&amp;c=8242246245879376331&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 09:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "T-wolves to retire Kevin Garnett's No. 21 jersey on Feb. 28",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f496a548847f39a648c3f3d56dd28&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2ft-wolves-retire-kevin-garnetts-no-21-jersey-feb-28--flm-2026-08-14%2f&amp;c=17327826548679100762&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 09:22:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Teenage 'Superman' fights forest fires to save home in Indonesia",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f496a548847f39a648c3f3d56dd28&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW550414082026RP1%2f&amp;c=16466331551990447157&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 09:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f496a548847f39a648c3f3d56dd28&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW550314082026RP1%2f&amp;c=426446347706071097&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 09:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US raises pressure on EU to 'deliver' on non-tariff trade commitments",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f496a548847f39a648c3f3d56dd28&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fus-raises-pressure-eu-deliver-non-tariff-trade-commitments-2026-08-14%2f&amp;c=4946871708400285824&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 07:36:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US consumer sentiment deteriorates in August",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f496a548847f39a648c3f3d56dd28&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-consumer-sentiment-deteriorates-august-2026-08-14%2f&amp;c=13920031642022107713&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 07:23:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "US retail sales post first decline in nine months in July",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f2cb2bd664dd7bac8616b1eef9fc9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-retail-sales-unexpectedly-fall-july-2026-08-14%2f&amp;c=12720990587788447095&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f496a548847f39a648c3f3d56dd28&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-retail-sales-unexpectedly-fall-july-2026-08-14%2f&amp;c=12720990587788447095&amp;mkt=en-us",
         "pubDate": "Fri, 14 Aug 2026 05:37:00 GMT",
-        "category": "us"
+        "category": "Top News"
       },
       {
-        "title": "Capricor shares soar as potential FDA lifeline revives Duchenne drug hopes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f2cc5a6de436189ec3963b10908a3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fcapricor-shares-skyrocket-fda-agrees-review-new-duchenne-drug-data-2026-08-14%2f&amp;c=13234458250711309149&amp;mkt=en-us",
-        "pubDate": "Fri, 14 Aug 2026 03:39:00 GMT",
-        "category": "health"
+        "title": "Wall St subdued as markets pause after S&amp;P record high; data, Mideast in focus",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f496a548847f39a648c3f3d56dd28&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-muted-higher-oil-prices-temper-risk-appetite-after-sp-record-2026-08-14%2f&amp;c=12720532752640510610&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 04:14:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil climbs on tanker attacks, US-Iran claims about Hormuz control",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a7f496a548847f39a648c3f3d56dd28&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-set-weekly-gains-after-us-threatens-indefinite-blockade-iran-2026-08-14%2f&amp;c=9473163433773131059&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 04:02:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Stocks making the biggest moves premarket: Reddit, Applied Materials, Sandisk, Wayfair &amp; more",
-        "link": "https://www.cnbc.com/2026/08/14/stocks-making-the-biggest-moves-premarket-rddt-amat-sndk-w.html",
-        "pubDate": "Fri, 14 Aug 2026 10:46:55 GMT",
-        "category": "Top News"
+        "title": "The one big takeaway from a huge earnings season",
+        "link": "https://www.cnbc.com/2026/08/14/the-one-big-takeaway-from-a-huge-earnings-season.html",
+        "pubDate": "Fri, 14 Aug 2026 16:57:01 GMT",
+        "category": "us"
       },
       {
-        "title": "Uber partners with China&apos;s Pony.ai for 2,000 robotaxis in Europe",
-        "link": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
-        "pubDate": "Fri, 14 Aug 2026 01:02:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
-        "link": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-        "pubDate": "Thu, 13 Aug 2026 20:21:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bill Ackman buys Netflix again four years after exit, says it has won the streaming wars",
-        "link": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html",
-        "pubDate": "Thu, 13 Aug 2026 18:04:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-        "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-        "pubDate": "Thu, 13 Aug 2026 16:38:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;Big Short&apos; investor Steve Eisman sees an Achilles&apos; heel in the AI boom",
-        "link": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-        "pubDate": "Thu, 13 Aug 2026 15:16:00 GMT",
-        "category": "Top News"
+        "title": "Court rules companies can&apos;t import Gilead medications from overseas in blow to AFP health programs",
+        "link": "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
+        "pubDate": "Fri, 14 Aug 2026 16:27:07 GMT",
+        "category": "health"
       }
     ]
   }
