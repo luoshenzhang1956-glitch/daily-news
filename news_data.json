@@ -1,22 +1,10 @@
 {
-  "updated_at": "2026-08-15T10:30:53.740723",
+  "updated_at": "2026-08-15T12:48:56.454052",
   "news": {
     "ap": [
       {
-        "title": "Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a803f3d906d4c94a5b86ad6404b4c40&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsouthern-lebanon-israel-strike-hezbollah-iran-ansar-1124fd2bd0b7ed76b0e97683dddbcaad&amp;c=9851870048574766134&amp;mkt=en-us",
-        "pubDate": "Fri, 14 Aug 2026 23:00:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Pallister beats Ledecky, US sweeps relays over Australia at Pan Pacs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a803f2809954a1cb2ff3532506bf6b9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpan-pacific-swimming-74a4f7b0d84a0aadb8e81da7c33d60c0&amp;c=9234736507526131905&amp;mkt=en-us",
-        "pubDate": "Fri, 14 Aug 2026 22:30:00 GMT",
-        "category": "us"
-      },
-      {
         "title": "Trump focuses on violent crime reduction as he boosts GOP candidates at New York police academy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a803f29d7134f70bba583e5e8f6842a&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-new-york-police-academy-blakeman-crime-3fbc57b6a0978b5690b8e4550aedd488&amp;c=6408017393357666470&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a805fc9ea6d41a69bc587f78853c0dc&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-new-york-police-academy-blakeman-crime-3fbc57b6a0978b5690b8e4550aedd488&amp;c=6408017393357666470&amp;mkt=en-us",
         "pubDate": "Fri, 14 Aug 2026 14:03:00 GMT",
         "category": "business"
       }
@@ -85,40 +73,40 @@
     ],
     "bbc": [
       {
-        "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
-        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 10:14:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
         "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 08:52:55 GMT",
+        "pubDate": "Sat, 15 Aug 2026 12:31:55 GMT",
         "category": "world"
       },
       {
-        "title": "Heathrow Airport pipe leak causes flood disruption",
-        "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 08:52:13 GMT",
+        "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+        "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 15 Aug 2026 11:53:19 GMT",
         "category": "Top News"
       },
       {
-        "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-        "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 03:58:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-        "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 00:01:53 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why tech bosses keep sharing their manifestos about AI",
-        "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 14 Aug 2026 23:06:27 GMT",
+        "title": "Secondhand book sales are booming. Is it because of AI?",
+        "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 15 Aug 2026 11:25:32 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+        "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 15 Aug 2026 11:21:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jason Arday death 'tragedy on so many levels' says PM",
+        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 15 Aug 2026 11:06:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+        "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 15 Aug 2026 05:01:13 GMT",
+        "category": "Top News"
       },
       {
         "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
@@ -147,12 +135,61 @@
     ],
     "reuters": [
       {
-        "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a803f7db1804c4a873af2caed6ad8b9&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2finstitutional-investors-reveal-cautious-approach-tech-favorites-us-quarterly-13f-2026-08-14%2f&amp;c=9377580494696976094&amp;mkt=en-us",
-        "pubDate": "Fri, 14 Aug 2026 14:54:00 GMT",
-        "category": "tech"
+        "title": "FTC probes health records giant Epic Systems, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a80602506ab415799c1c65175a83703&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-ftc-probing-health-records-company-epic-systems-2026-08-14%2f&amp;c=5949734583995034488&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 12:53:00 GMT",
+        "category": "health"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+        "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+        "pubDate": "Sat, 15 Aug 2026 12:00:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "How long will software-defined cars last? The auto industry doesn&apos;t know yet",
+        "link": "https://www.cnbc.com/2026/08/15/software-defined-vehicles-rivian-tesla.html",
+        "pubDate": "Sat, 15 Aug 2026 12:00:01 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Iran rebuffs Trump&apos;s claim over Strait of Hormuz amid report of another ship being struck",
+        "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+        "pubDate": "Sat, 15 Aug 2026 11:00:36 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Situational Awareness filing shows AI bets before forced portfolio sale to Citadel",
+        "link": "https://www.cnbc.com/2026/08/14/situational-awareness-filing-shows-ai-bets-before-forced-portfolio-sale-to-citadel.html",
+        "pubDate": "Fri, 14 Aug 2026 22:27:32 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+        "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+        "pubDate": "Fri, 14 Aug 2026 21:06:48 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Goldman\u2019s latest cash cow is all about funding the AI infrastructure boom",
+        "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+        "pubDate": "Fri, 14 Aug 2026 20:05:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Regulators and banks step up scrutiny of prediction markets",
+        "link": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
+        "pubDate": "Fri, 14 Aug 2026 19:21:49 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Court rules companies can&apos;t import Gilead medications from overseas in blow to AFP health programs",
+        "link": "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
+        "pubDate": "Fri, 14 Aug 2026 16:27:07 GMT",
+        "category": "health"
+      }
+    ]
   }
 }
