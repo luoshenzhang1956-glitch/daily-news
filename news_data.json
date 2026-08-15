@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-08-15T20:30:52.925831",
+  "updated_at": "2026-08-15T22:29:15.634735",
   "news": {
     "ap": [
       {
-        "title": "Kate Douglass blazes to 50 free world record in Pan Pacific prelims",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a80cbc8f19a47ffb386ed5345ee568e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fswimming-world-record-kate-douglass-ec3e2f4a3cbe246dd4a914fe54f8f4bd&amp;c=18311784219120526632&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 11:06:00 GMT",
-        "category": "world"
+        "title": "Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a80e7d5644e43208814d20d5f76db7f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-contact-tracing-surveillance-workers-57c20999e2acfb4e8e3ea576078d063d&amp;c=3429988799419821654&amp;mkt=en-us",
+        "pubDate": "Fri, 14 Aug 2026 22:30:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
       {
+        "title": "Lake Powell and Lake Mead water levels hit record lows",
+        "link": "https://www.npr.org/2026/08/15/nx-s1-5931512/lake-powell-and-lake-mead-water-levels-hit-record-lows",
+        "pubDate": "Sat, 15 Aug 2026 17:49:54 -0400",
+        "category": "us"
+      },
+      {
         "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
         "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
         "pubDate": "Sat, 15 Aug 2026 16:04:13 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Families of USS Lincoln crew say Trump should be &apos;ashamed&apos; of conditions on board",
@@ -53,24 +59,36 @@
         "category": "Top News"
       },
       {
-        "title": "Magnitude 7.7 earthquake strikes off Indonesia&apos;s coast, killing at least 38",
+        "title": "Magnitude 7.7 earthquake strikes off Indonesia&apos;s coast, killing at least 47",
         "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
         "pubDate": "Sat, 15 Aug 2026 04:29:20 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Why some companies are paying more than $1 million to get through the Panama Canal",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5929414/why-some-companies-are-paying-more-than-1-million-to-get-through-the-panama-canal",
-        "pubDate": "Fri, 14 Aug 2026 17:22:05 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
+        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 15 Aug 2026 21:49:12 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+        "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 15 Aug 2026 21:28:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Reform UK plan would overhaul welfare system with \u00a350bn in savings",
+        "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 15 Aug 2026 21:19:28 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 15 Aug 2026 20:00:15 GMT",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Multiple suspects at large after five shot at Virginia State University, police say",
@@ -85,21 +103,9 @@
         "category": "Top News"
       },
       {
-        "title": "Major incidents across UK put firefighters under 'incredible pressure', fire chief says",
-        "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 17:41:54 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
         "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 15 Aug 2026 17:33:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Analysis: Arday's death will send shockwaves through a divided academia",
-        "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 13:48:38 GMT",
         "category": "Top News"
       },
       {
@@ -115,19 +121,26 @@
         "category": "tech"
       },
       {
-        "title": "Sellers puzzled by bulk orders suspect secondhand books being destroyed to train AI",
-        "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 11:25:32 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
         "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 15 Aug 2026 03:58:31 GMT",
         "category": "business"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Lebanon says Israeli strikes in south of the country kill at least 11",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a80e809101e4097b08426ac5e34623c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strikes-kill-nine-south-lebanon-state-news-reports-2026-08-15%2f&amp;c=4869272696578401357&amp;mkt=en-us",
+        "pubDate": "Sat, 15 Aug 2026 07:43:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Between cartel threats and US airstrikes, Ecuador fishermen have nowhere to hide",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a80e7ed5c554d6a914d2778d23ea46b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbetween-cartel-threats-us-airstrikes-ecuador-fishermen-have-nowhere-hide-2026-08-15%2f&amp;c=10038950937940474348&amp;mkt=en-us",
+        "pubDate": "Sat, 15 Aug 2026 03:11:00 GMT",
+        "category": "us"
+      }
+    ],
     "markets": [
       {
         "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
