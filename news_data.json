@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-08-16T16:34:09.802958",
+  "updated_at": "2026-08-16T18:38:50.080366",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "A good \u2013 and bad \u2013 week for Italy&apos;s art police and museum security",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
+        "pubDate": "Sun, 16 Aug 2026 12:27:54 -0400",
+        "category": "world"
+      },
       {
         "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
         "link": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
@@ -13,7 +19,7 @@
         "title": "What really happened in Ceuta? Why we may never find out",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
         "pubDate": "Sun, 16 Aug 2026 11:38:22 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "&apos;What are we going to do?&apos; The mom of a trans teen grapples with Trump&apos;s Medicaid move",
@@ -46,12 +52,6 @@
         "category": "Top News"
       },
       {
-        "title": "65 and older? Have a story to tell? Hit &apos;record&apos; and send NPR your podcast",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
-        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Lindsay Clancy&apos;s trial highlights gaps in understanding, treating postpartum psychosis",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
         "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
@@ -66,9 +66,15 @@
     ],
     "bbc": [
       {
-        "title": "Two dead and evacuation under way as fires break out on Greek island",
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 18:04:25 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
         "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 16:14:26 GMT",
+        "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
         "category": "Top News"
       },
       {
@@ -76,12 +82,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 16 Aug 2026 15:53:21 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 15:50:12 GMT",
-        "category": "world"
       },
       {
         "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
@@ -126,7 +126,27 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "German companies cut US investment to three-year low, data show",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8203467cfa4744b9772fda83c6a755&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fgerman-companies-cut-us-investment-three-year-low-data-show-2026-08-16%2f&amp;c=10959363150116281677&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 02:50:00 GMT",
+        "category": "us"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+        "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+        "pubDate": "Sun, 16 Aug 2026 17:08:04 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Secret outperformer: Dispelling the &apos;myths&apos; about an unloved stock market",
+        "link": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+        "pubDate": "Sun, 16 Aug 2026 09:45:45 GMT",
+        "category": "world"
+      }
+    ]
   }
 }
