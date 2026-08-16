@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-08-16T20:31:34.557831",
+  "updated_at": "2026-08-16T22:28:57.433105",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82391ca22948eb8b16f465734cd92f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbbc-trump-defamation-lawsuit-subpoenas-6e5936f0a221c04927459efdb1e949ef&amp;c=14204576266983846365&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 08:27:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
+      {
+        "title": "Multiple people dead as flooding continues in Indiana",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
+        "pubDate": "Sun, 16 Aug 2026 16:38:40 -0400",
+        "category": "us"
+      },
       {
         "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
         "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
@@ -25,7 +38,7 @@
         "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
         "link": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
         "pubDate": "Sun, 16 Aug 2026 11:47:58 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "What really happened in Ceuta? Why we may never find out",
@@ -56,20 +69,14 @@
         "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
         "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Are robotaxis finally here?",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
-        "pubDate": "Sat, 15 Aug 2026 17:30:21 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "US commander says mental health a 'priority' on USS Lincoln",
-        "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 20:14:37 GMT",
-        "category": "us"
+        "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 21:57:13 GMT",
+        "category": "world"
       },
       {
         "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
@@ -81,7 +88,7 @@
         "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
         "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT",
-        "category": "world"
+        "category": "us"
       },
       {
         "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
@@ -128,10 +135,22 @@
     ],
     "reuters": [
       {
+        "title": "Europe's heatwaves expose insurance gap as business losses mount",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82395a70114b74a8dcb2e0fcbdc640&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2feuropes-heatwaves-expose-insurance-gap-business-losses-mount-2026-08-16%2f&amp;c=14054259667700892735&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 14:05:00 GMT",
+        "category": "business"
+      },
+      {
         "title": "US Attorney General Blanche publicly backs Pirro after Trump criticism over Reflecting Pool",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a821db455e8415f8d482facf39ea57c&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-attorney-general-blanche-publicly-backs-pirro-after-trump-criticism-over-2026-08-16%2f&amp;c=3956688789854193932&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82395407c647b7bb9bed65536659d8&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-attorney-general-blanche-publicly-backs-pirro-after-trump-criticism-over-2026-08-16%2f&amp;c=3956688789854193932&amp;mkt=en-us",
         "pubDate": "Sun, 16 Aug 2026 12:39:00 GMT",
         "category": "us"
+      },
+      {
+        "title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82395ba47348689ce65715234cb32b&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbrazils-lula-launches-reelection-bid-aims-win-back-workers-his-workers-party-2026-08-16%2f&amp;c=3461781751743048014&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 03:07:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
