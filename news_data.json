@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-08-16T10:31:06.439736",
+  "updated_at": "2026-08-16T12:52:06.927091",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "As Trump blocks Medicaid funds, one trans teen&apos;s mom asks: What&apos;s next?",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+        "pubDate": "Sun, 16 Aug 2026 07:54:19 -0400",
+        "category": "health"
+      },
+      {
+        "title": "As speed cameras spread to more states, so does the backlash from drivers",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5927506-e1/as-speed-cameras-spread-to-more-states-so-does-the-backlash-from-drivers",
+        "pubDate": "Sun, 16 Aug 2026 07:46:30 -0400",
+        "category": "us"
+      },
+      {
+        "title": "U.S. oil reserves hit the lowest level seen in over 40 years",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5930403/u-s-oil-reserves-hit-the-lowest-level-seen-in-over-40-years",
+        "pubDate": "Sun, 16 Aug 2026 07:46:28 -0400",
+        "category": "business"
+      },
       {
         "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
@@ -13,13 +31,13 @@
         "title": "NPR Senior Podcast Challenge: Official Rules",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
         "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Doctors and women who&apos;ve had it call for more attention on postpartum psychosis",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
         "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
@@ -44,50 +62,38 @@
         "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
         "pubDate": "Sat, 15 Aug 2026 17:20:51 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-        "pubDate": "Sat, 15 Aug 2026 16:04:13 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Families of USS Lincoln crew say Trump should be &apos;ashamed&apos; of conditions on board",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-        "pubDate": "Sat, 15 Aug 2026 14:21:32 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
-        "pubDate": "Sat, 15 Aug 2026 13:25:34 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 10:09:10 GMT",
-        "category": "world"
+        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Murder inquiry after man bitten by dog dies",
+        "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 12:36:11 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+        "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 12:18:09 GMT",
+        "category": "Top News"
       },
       {
         "title": "People who fled Stourbridge fires start to return home",
         "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 09:35:01 GMT",
+        "pubDate": "Sun, 16 Aug 2026 12:14:44 GMT",
         "category": "Top News"
       },
       {
-        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 08:49:32 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 08:23:38 GMT",
-        "category": "Top News"
+        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 10:52:08 GMT",
+        "category": "world"
       },
       {
         "title": "Ariana Grande leaves problems at home as her tour hits the UK",
@@ -118,40 +124,70 @@
         "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 15 Aug 2026 19:34:22 GMT",
         "category": "us"
-      },
-      {
-        "title": "Secondhand book sales are booming. Is it because of AI?",
-        "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 11:25:32 GMT",
-        "category": "tech"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Secret outperformer: Dispelling the &apos;myths&apos; about an unloved stock market",
-        "link": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
-        "pubDate": "Sun, 16 Aug 2026 09:45:45 GMT",
-        "category": "world"
+        "title": "Iranian parliament votes to further criminalise interviews with 'hostile media'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81b1f5b4114bf8bf03c35629dc26e6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2firanian-parliament-votes-further-criminalise-interviews-with-hostile-media-2026-08-16%2f&amp;c=11019019706263511275&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 04:48:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-        "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-        "pubDate": "Sat, 15 Aug 2026 14:45:31 GMT",
-        "category": "tech"
+        "title": "Twelve killed and at least 10 injured in Polish bus crash in Hungary",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81b1f5b4114bf8bf03c35629dc26e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftwelve-killed-least-10-injured-polish-bus-crash-hungary-2026-08-16%2f&amp;c=12035490180131260583&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 04:48:00 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Goldman says these stocks are top ideas in the wake of their 2Q earnings",
-        "link": "https://www.cnbc.com/2026/08/15/goldman-says-these-stocks-are-top-ideas-in-wake-of-their-2q-earnings.html",
-        "pubDate": "Sat, 15 Aug 2026 13:34:29 GMT",
+        "title": "Massachusetts anti-hunger advocate fasts to protest Trump food stamp cuts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81b1f5b4114bf8bf03c35629dc26e6&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fmassachusetts-anti-hunger-advocate-fasts-protest-trump-food-stamp-cuts-2026-08-16%2f&amp;c=1189478619118457052&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 04:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81b1f5b4114bf8bf03c35629dc26e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbrazils-lula-launches-reelection-bid-aims-win-back-workers-his-workers-party-2026-08-16%2f&amp;c=3461781751743048014&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 03:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump wants more economic pressure on Iran. What are his options?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81b1f5b4114bf8bf03c35629dc26e6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrump-wants-more-economic-pressure-iran-what-are-his-options-2026-08-16%2f&amp;c=12788867792906722446&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 03:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "German companies cut US investment to three-year low, data show",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81b205e69649b6b128f175d6021202&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fgerman-companies-cut-us-investment-three-year-low-data-show-2026-08-16%2f&amp;c=10959363150116281677&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 02:50:00 GMT",
         "category": "us"
       },
       {
-        "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
-        "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-        "pubDate": "Sat, 15 Aug 2026 12:00:01 GMT",
-        "category": "business"
+        "title": "Suspected Russian drone shot down in Romanian airspace",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81b1f5b4114bf8bf03c35629dc26e6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fromania-shoots-down-drone-breaching-its-airspace-defence-ministry-2026-08-16%2f&amp;c=4818140270842502593&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 02:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Europe's heatwaves expose insurance gap as business losses mount",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81b1f5b4114bf8bf03c35629dc26e6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2feuropes-heatwaves-expose-insurance-gap-business-losses-mount-2026-08-16%2f&amp;c=14054259667700892735&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 02:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81b1f5b4114bf8bf03c35629dc26e6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fbillionaire-peter-thiel-buys-1-stake-argentine-vaca-muerta-oil-firm-filing-shows-2026-08-16%2f&amp;c=2321693626297030823&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 02:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Belgium's biggest wildfire on record heads towards Germany",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81b1f5b4114bf8bf03c35629dc26e6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fbelgiums-biggest-wildfire-record-heads-towards-germany-2026-08-16%2f&amp;c=8062520829762600709&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 02:04:00 GMT",
+        "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
