@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-16T03:07:26.963587",
+  "updated_at": "2026-08-16T04:43:07.039548",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a813f67a0c84871bd8e58fbbcaebda1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fberkshire-hathaway-warren-buffett-greg-abel-portfolio-fd9d6750d34f208c338e305759bcf6c9&amp;c=11929290887412720730&amp;mkt=en-us",
+        "pubDate": "Sat, 15 Aug 2026 14:57:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
         "title": "Lake Powell and Lake Mead water levels hit record lows",
@@ -66,6 +73,12 @@
     ],
     "bbc": [
       {
+        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 04:13:32 GMT",
+        "category": "world"
+      },
+      {
         "title": "Ariana Grande leaves problems at home as her tour hits the UK",
         "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 16 Aug 2026 02:01:42 GMT",
@@ -90,21 +103,15 @@
         "category": "health"
       },
       {
-        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 21:49:12 GMT",
-        "category": "world"
-      },
-      {
         "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
         "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 15 Aug 2026 21:28:54 GMT",
         "category": "Top News"
       },
       {
-        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
+        "title": "Hunt wins third gold as Asher-Smith makes history",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 15 Aug 2026 21:13:17 GMT",
         "category": "Top News"
       },
       {
@@ -126,68 +133,20 @@
         "category": "tech"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81290ebabb464d8ca955070c67cdf9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fanthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15%2f&amp;c=3370578761130245605&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 18:34:00 GMT",
+        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+        "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+        "pubDate": "Sat, 15 Aug 2026 14:45:31 GMT",
         "category": "tech"
       },
       {
-        "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81290bf7f74c24b3d62b03b57ad614&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fbillionaire-peter-thiel-buys-1-stake-argentine-vaca-muerta-oil-firm-filing-shows-2026-08-16%2f&amp;c=2321693626297030823&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 17:00:00 GMT",
+        "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+        "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+        "pubDate": "Sat, 15 Aug 2026 12:00:01 GMT",
         "category": "business"
-      },
-      {
-        "title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a812907c09142dab287075a2170b3fe&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fnorth-koreas-kim-russias-putin-reaffirm-ties-korean-liberation-day-2026-08-16%2f&amp;c=11329142150636087839&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bryson Stott caps big inning as Phillies dump Twins",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a812907c09142dab287075a2170b3fe&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fbryson-stott-caps-big-inning-phillies-dump-twins--flm-2026-08-16%2f&amp;c=10034378604302070465&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Croatia's raging wildfires seen from above",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a812907c09142dab287075a2170b3fe&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW574415082026RP1%2f&amp;c=10361852254159047611&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 14:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a812907c09142dab287075a2170b3fe&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15%2f&amp;c=4576431584105323344&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 12:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Yemen's Mocha port halts operations after Houthi attacks, port director says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a812907c09142dab287075a2170b3fe&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fyemens-mocha-port-halts-operations-after-houthi-attacks-port-director-says-2026-08-15%2f&amp;c=2578668747280963859&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 08:51:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lebanon says Israeli strikes in south of the country kill at least 11",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a812911489d4d408d5261a9ff481b8d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strikes-kill-nine-south-lebanon-state-news-reports-2026-08-15%2f&amp;c=4869272696578401357&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 07:43:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "A tale of two buildings: how quake rescue efforts differed in Colombia and Venezuela",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a812907c09142dab287075a2170b3fe&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2ftale-two-buildings-how-quake-rescue-efforts-differed-colombia-venezuela-2026-08-15%2f&amp;c=13019956190132440667&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 04:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Between cartel threats and US airstrikes, Ecuador fishermen have nowhere to hide",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a81290b7d774db096623242844c6562&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbetween-cartel-threats-us-airstrikes-ecuador-fishermen-have-nowhere-hide-2026-08-15%2f&amp;c=10038950937940474348&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 03:11:00 GMT",
-        "category": "us"
       }
-    ],
-    "markets": []
+    ]
   }
 }
