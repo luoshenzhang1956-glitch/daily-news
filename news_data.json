@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-08-16T18:38:50.080366",
+  "updated_at": "2026-08-16T20:31:34.557831",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+        "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+        "pubDate": "Sun, 16 Aug 2026 16:20:22 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+        "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+        "pubDate": "Sun, 16 Aug 2026 14:58:25 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "A good \u2013 and bad \u2013 week for Italy&apos;s art police and museum security",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
         "pubDate": "Sun, 16 Aug 2026 12:27:54 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
@@ -46,18 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
-        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Lindsay Clancy&apos;s trial highlights gaps in understanding, treating postpartum psychosis",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
-        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Are robotaxis finally here?",
         "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
         "pubDate": "Sat, 15 Aug 2026 17:30:21 -0400",
@@ -66,15 +66,27 @@
     ],
     "bbc": [
       {
-        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 18:04:25 GMT",
+        "title": "US commander says mental health a 'priority' on USS Lincoln",
+        "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 20:14:37 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+        "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 20:07:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT",
         "category": "world"
       },
       {
-        "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-        "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 19:03:04 GMT",
         "category": "Top News"
       },
       {
@@ -90,12 +102,6 @@
         "category": "Top News"
       },
       {
-        "title": "Teenager arrested in Virginia State University shooting that injured five",
-        "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 15:22:50 GMT",
-        "category": "us"
-      },
-      {
         "title": "Changing pubs into homes to be made harder under new rules",
         "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 16 Aug 2026 15:04:13 GMT",
@@ -105,12 +111,6 @@
         "title": "Murder inquiry after man bitten by dog dies",
         "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 16 Aug 2026 12:36:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
-        "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 12:18:09 GMT",
         "category": "Top News"
       },
       {
@@ -128,18 +128,18 @@
     ],
     "reuters": [
       {
-        "title": "German companies cut US investment to three-year low, data show",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8203467cfa4744b9772fda83c6a755&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fgerman-companies-cut-us-investment-three-year-low-data-show-2026-08-16%2f&amp;c=10959363150116281677&amp;mkt=en-us",
-        "pubDate": "Sun, 16 Aug 2026 02:50:00 GMT",
+        "title": "US Attorney General Blanche publicly backs Pirro after Trump criticism over Reflecting Pool",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a821db455e8415f8d482facf39ea57c&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-attorney-general-blanche-publicly-backs-pirro-after-trump-criticism-over-2026-08-16%2f&amp;c=3956688789854193932&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 12:39:00 GMT",
         "category": "us"
       }
     ],
     "markets": [
       {
-        "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-        "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
-        "pubDate": "Sun, 16 Aug 2026 17:08:04 GMT",
-        "category": "business"
+        "title": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
+        "link": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html",
+        "pubDate": "Sun, 16 Aug 2026 11:55:08 GMT",
+        "category": "Top News"
       },
       {
         "title": "Secret outperformer: Dispelling the &apos;myths&apos; about an unloved stock market",
