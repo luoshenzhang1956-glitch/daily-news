@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-16T04:43:07.039548",
+  "updated_at": "2026-08-16T06:50:11.901670",
   "news": {
-    "ap": [
-      {
-        "title": "Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a813f67a0c84871bd8e58fbbcaebda1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fberkshire-hathaway-warren-buffett-greg-abel-portfolio-fd9d6750d34f208c338e305759bcf6c9&amp;c=11929290887412720730&amp;mkt=en-us",
-        "pubDate": "Sat, 15 Aug 2026 14:57:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Lake Powell and Lake Mead water levels hit record lows",
@@ -79,13 +72,19 @@
         "category": "world"
       },
       {
+        "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 03:54:11 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Ariana Grande leaves problems at home as her tour hits the UK",
         "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 16 Aug 2026 02:01:42 GMT",
         "category": "Top News"
       },
       {
-        "title": "Reform UK plan would overhaul welfare system with \u00a350bn in savings",
+        "title": "Reform UK plans to overhaul welfare system to save \u00a350bn",
         "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 16 Aug 2026 00:39:22 GMT",
         "category": "Top News"
@@ -109,9 +108,9 @@
         "category": "Top News"
       },
       {
-        "title": "Hunt wins third gold as Asher-Smith makes history",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 21:13:17 GMT",
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
         "category": "Top News"
       },
       {
@@ -121,25 +120,50 @@
         "category": "us"
       },
       {
-        "title": "Jason Arday death 'tragedy on so many levels' says PM",
-        "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 15 Aug 2026 17:43:04 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Secondhand book sales are booming. Is it because of AI?",
         "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 15 Aug 2026 11:25:32 GMT",
         "category": "tech"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a815d78bdb74f03b033f4796a6c6553&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fanthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15%2f&amp;c=3370578761130245605&amp;mkt=en-us",
+        "pubDate": "Sat, 15 Aug 2026 22:06:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "German companies cut US investment to three-year low, data show",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a815d7419724d69ba874eb2162f1229&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fgerman-companies-cut-us-investment-three-year-low-data-show-2026-08-16%2f&amp;c=10959363150116281677&amp;mkt=en-us",
+        "pubDate": "Sat, 15 Aug 2026 17:00:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Europe's heatwaves expose insurance gap as business losses mount",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a815d766f204eaf957edc22ddf6d68d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2feuropes-heatwaves-expose-insurance-gap-business-losses-mount-2026-08-16%2f&amp;c=14054259667700892735&amp;mkt=en-us",
+        "pubDate": "Sat, 15 Aug 2026 17:00:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Lebanon says Israeli strikes in south of the country kill at least 11",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a815d7aa6e546bc86eb3d109d32fc6c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fisraeli-strikes-kill-nine-south-lebanon-state-news-reports-2026-08-15%2f&amp;c=4869272696578401357&amp;mkt=en-us",
+        "pubDate": "Sat, 15 Aug 2026 07:43:00 GMT",
+        "category": "health"
+      }
+    ],
     "markets": [
       {
         "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
         "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
         "pubDate": "Sat, 15 Aug 2026 14:45:31 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
+        "link": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
+        "pubDate": "Sat, 15 Aug 2026 14:19:35 GMT",
+        "category": "world"
       },
       {
         "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
