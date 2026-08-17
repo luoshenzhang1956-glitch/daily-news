@@ -1,86 +1,153 @@
 {
-  "updated_at": "2026-08-17T08:53:47.613521",
+  "updated_at": "2026-08-17T10:38:05.247134",
   "news": {
-    "ap": [],
-    "npr": [
+    "ap": [
       {
-        "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-        "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
-        "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400",
+        "title": "The Chargers and Eagles are among playoff teams hoping for boosts from new play-callers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82e424d33641c680ba993d3807b613&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnfl-new-coordinators-4d98b6803c789423e9679a67d0384038&amp;c=11682753949081449508&amp;mkt=en-us",
+        "pubDate": "Mon, 17 Aug 2026 03:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Colombia defender Jhon Lucum&#237; moves to Juventus after impressing at World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82e42510c9469494ba45ea88fd0de9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fitaly-transfers-juventus-lucumi-e8dcbea9bc3dd7cbd6e2213cbb3f560f&amp;c=7967379148119539928&amp;mkt=en-us",
+        "pubDate": "Mon, 17 Aug 2026 02:20:00 GMT",
         "category": "world"
       },
       {
-        "title": "Multiple people dead as flooding continues in Indiana",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
-        "pubDate": "Sun, 16 Aug 2026 16:38:40 -0400",
+        "title": "Kushner sits with Netanyahu to talk Gaza after 2-hour meeting with Hamas",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82e424d33641c680ba993d3807b613&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkushner-trump-netanyahu-board-of-peace-mladenov-18252d84c29658ca13ac3380743953be&amp;c=17237349244780825391&amp;mkt=en-us",
+        "pubDate": "Mon, 17 Aug 2026 01:48:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82e424d33641c680ba993d3807b613&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-military-operations-latin-american-western-hemisphere-a1fccf4414e44341d3dbd54e19ae1ba4&amp;c=8025329125979318626&amp;mkt=en-us",
+        "pubDate": "Mon, 17 Aug 2026 00:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82e424d33641c680ba993d3807b613&amp;url=https%3a%2f%2fapnews.com%2farticle%2findonesia-flores-earthquake-landslide-ec45607ccc22d9df2d5cfe4ab82d33eb&amp;c=8545206118341640447&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 21:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "In Florida, Wasserman Schultz sparks a debate over what representation means in diverse districts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82e424d33641c680ba993d3807b613&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmidterms-florida-trump-debbie-wasserman-schultz-72997f3c390437a7f33dc4134736d324&amp;c=2089865194859464273&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 21:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Long-awaited trial begins in rapper Tupac Shakur\u2019s 1996 killing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82e424d33641c680ba993d3807b613&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftupac-shakur-keffe-d-las-vegas-trial-00b666bad0c1cadb4b647e5976fd1f9e&amp;c=2675167784770834346&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 21:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "States take Meta to trial in California in the biggest fight yet over social media harms to children",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82e424d33641c680ba993d3807b613&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeta-facebook-social-media-trial-oakland-32e8f19738eb77ab832e0f084dd677af&amp;c=15213139061246066309&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 21:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Hayden Panettiere, who starred in the television series \u2018Heroes\u2019 and \u2018Nashville,\u2019 dies at 36",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82e424d33641c680ba993d3807b613&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhayden-panettiere-dies-1d660d3989916c3fa00421d05e4d78e7&amp;c=7586904691630410237&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 20:43:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82e424d33641c680ba993d3807b613&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbbc-trump-defamation-lawsuit-subpoenas-6e5936f0a221c04927459efdb1e949ef&amp;c=14204576266983846365&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 17:36:00 GMT",
+        "category": "Top News"
+      }
+    ],
+    "npr": [
+      {
+        "title": "Hayden Panettiere, who starred in &apos;Heroes&apos; and &apos;Nashville,&apos; dies at 36",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
+        "pubDate": "Mon, 17 Aug 2026 06:00:10 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
         "category": "us"
       },
       {
-        "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-        "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-        "pubDate": "Sun, 16 Aug 2026 16:20:22 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
-        "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
-        "pubDate": "Sun, 16 Aug 2026 14:58:25 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A good \u2013 and bad \u2013 week for Italy&apos;s art police and museum security",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
-        "pubDate": "Sun, 16 Aug 2026 12:27:54 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-        "link": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
-        "pubDate": "Sun, 16 Aug 2026 11:47:58 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "What really happened in Ceuta? Why we may never find out",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
-        "pubDate": "Sun, 16 Aug 2026 11:38:22 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;What are we going to do?&apos; The mom of a trans teen grapples with Trump&apos;s Medicaid move",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
-        "pubDate": "Sun, 16 Aug 2026 07:54:19 -0400",
-        "category": "health"
-      },
-      {
-        "title": "U.S. oil reserves hit the lowest level seen in over 40 years",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5930403/u-s-oil-reserves-hit-the-lowest-level-seen-in-over-40-years",
-        "pubDate": "Sun, 16 Aug 2026 07:46:28 -0400",
+        "title": "Car problems? No childcare? How an app is helping people get to work",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
         "category": "business"
       },
       {
-        "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-        "pubDate": "Sun, 16 Aug 2026 06:12:09 -0400",
+        "title": "Meta heads to court in a landmark trial about kids and social media addiction",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Can a student ID be used for voting? More Republican-led states are banning it",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Elon Musk&apos;s Starbase wants to expand in south Texas",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "At least 6 dead after Ukraine launches aerial attack on Russia",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5933059/at-least-6-dead-after-ukraine-launches-aerial-attack-on-russia",
+        "pubDate": "Mon, 17 Aug 2026 04:50:38 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
+        "pubDate": "Mon, 17 Aug 2026 04:49:18 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 17 Aug 2026 08:43:12 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Burnham exchanged messages with White House imposter",
+        "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
         "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 17 Aug 2026 08:38:10 GMT",
+        "pubDate": "Mon, 17 Aug 2026 10:16:25 GMT",
         "category": "Top News"
       },
       {
-        "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
-        "link": "https://www.bbc.co.uk/news/articles/cly555430nno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 17 Aug 2026 07:26:15 GMT",
+        "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
+        "link": "https://www.bbc.co.uk/news/articles/clyxklg3xypo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 17 Aug 2026 09:19:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 17 Aug 2026 08:43:12 GMT",
+        "category": "us"
+      },
+      {
+        "title": "'Are you not entertained?' Sprint sensation Amy Hunt on winning four gold medals in seven days",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 17 Aug 2026 07:02:43 GMT",
         "category": "Top News"
       },
       {
@@ -93,7 +160,7 @@
         "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
         "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 17 Aug 2026 06:24:31 GMT",
-        "category": "us"
+        "category": "world"
       },
       {
         "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
@@ -118,12 +185,6 @@
         "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 16 Aug 2026 23:14:47 GMT",
         "category": "business"
-      },
-      {
-        "title": "History for Hunt and Asher-Smith in golden finish for GB",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 20:14:46 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [],
