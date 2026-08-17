@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-08-17T04:51:52.074275",
+  "updated_at": "2026-08-17T07:07:53.444565",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+        "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+        "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400",
+        "category": "world"
+      },
       {
         "title": "Multiple people dead as flooding continues in Indiana",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
@@ -13,7 +19,7 @@
         "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
         "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
         "pubDate": "Sun, 16 Aug 2026 16:20:22 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
@@ -56,38 +62,44 @@
         "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
         "pubDate": "Sun, 16 Aug 2026 06:12:09 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "NPR Senior Podcast Challenge: Official Rules",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
-        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 17 Aug 2026 04:46:57 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Actress Hayden Panettiere dies aged 36, US media report",
-        "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 17 Aug 2026 04:27:11 GMT",
+        "title": "Ukrainian strikes kill six in Russia, acting governor says",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 17 Aug 2026 06:57:23 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 17 Aug 2026 02:51:27 GMT",
-        "category": "world"
+        "title": "Post-mortems to take place after five boys killed in crash on wrong side of motorway",
+        "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 17 Aug 2026 06:48:29 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Ferrari's first ever electric car sold for record $40m at auction",
-        "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT",
-        "category": "business"
+        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 17 Aug 2026 06:24:31 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+        "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 17 Aug 2026 05:03:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+        "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 17 Aug 2026 05:00:25 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 17 Aug 2026 04:50:56 GMT",
+        "category": "world"
       },
       {
         "title": "UK to turn cooler with rain after exceptional heat and dry spell",
@@ -96,37 +108,45 @@
         "category": "Top News"
       },
       {
-        "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-        "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 23:27:36 GMT",
-        "category": "tech"
+        "title": "'I want my brother back' - Tupac\u2019s brother tells BBC murder trial won\u2019t bring justice",
+        "link": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 23:21:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How switching your bank account could earn you up to \u00a3220",
+        "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 16 Aug 2026 23:14:47 GMT",
+        "category": "business"
       },
       {
         "title": "History for Hunt and Asher-Smith in golden finish for GB",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 16 Aug 2026 20:14:46 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
-        "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 20:07:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 19:03:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why Gen Z women know more about periods than their mums",
-        "link": "https://www.bbc.co.uk/news/articles/c5y0qp43zv0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 16 Aug 2026 06:12:31 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Big investors hunt for tomorrow's AI winners as capex angst fades",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a82b2f13b8c4e7babf70b9fd68ba995&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fbig-investors-hunt-tomorrows-ai-winners-capex-angst-fades-2026-08-17%2f&amp;c=5211337724590620018&amp;mkt=en-us",
+        "pubDate": "Sun, 16 Aug 2026 17:00:00 GMT",
+        "category": "tech"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Stock futures mixed after S&amp;P 500 posts three-week win streak: Live updates",
+        "link": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+        "pubDate": "Mon, 17 Aug 2026 06:57:46 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+        "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+        "pubDate": "Sun, 16 Aug 2026 17:08:04 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
