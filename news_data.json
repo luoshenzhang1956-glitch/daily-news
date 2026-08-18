@@ -1,20 +1,31 @@
 {
-  "updated_at": "2026-08-18T20:32:12.945109",
+  "updated_at": "2026-08-18T22:32:12.012546",
   "news": {
-    "ap": [
-      {
-        "title": "US and Canada hold last-minute talks to stop Trump\u2019s 50% tariffs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a84c0ad5973478a871047cfeb1d4136&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftariffs-trump-canada-usmca-trade-aae597c22617bec7a99f670a2c787ef9&amp;c=5238318833250532077&amp;mkt=en-us",
-        "pubDate": "Tue, 18 Aug 2026 07:28:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
-        "title": "Flexibility is a key part of keeping women employed",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5931746/flexibility-is-a-key-part-of-keeping-women-employed",
-        "pubDate": "Tue, 18 Aug 2026 16:17:59 -0400",
+        "title": "Border wall expansion brings protests in national monument, other Arizona locations",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5931944/border-wall-expansion-brings-protests-in-national-monument-other-arizona-locations",
+        "pubDate": "Tue, 18 Aug 2026 17:17:47 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Are you scrolling, instead of sleeping again? Here&apos;s when it may be an addiction",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5936249/are-you-scrolling-instead-of-sleeping-again-heres-when-it-may-be-an-addiction",
+        "pubDate": "Tue, 18 Aug 2026 17:06:56 -0400",
+        "category": "health"
+      },
+      {
+        "title": "An iconic mail-order music and video company is shutting down",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5936416/an-iconic-mail-order-music-and-video-company-is-shutting-down",
+        "pubDate": "Tue, 18 Aug 2026 17:02:38 -0400",
         "category": "business"
+      },
+      {
+        "title": "Canadian tariff deadline looms as two sides continue to negotiate",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5936214/canadian-tariff-deadline-looms-as-two-sides-continue-to-negotiate",
+        "pubDate": "Tue, 18 Aug 2026 16:49:22 -0400",
+        "category": "world"
       },
       {
         "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
@@ -38,7 +49,7 @@
         "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
         "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
         "pubDate": "Tue, 18 Aug 2026 11:19:40 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
@@ -51,27 +62,27 @@
         "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
         "pubDate": "Tue, 18 Aug 2026 06:30:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
-        "pubDate": "Tue, 18 Aug 2026 05:30:00 -0400",
-        "category": "us"
-      },
-      {
-        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
-        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Burnham received \u00a3345,000 of donations ahead of becoming PM",
+        "link": "https://www.bbc.co.uk/news/articles/c141d4l0mgko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 21:46:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+        "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 21:31:11 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three dead after family get into difficulty in sea",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 21:30:56 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
         "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&amp;at_campaign=rss",
@@ -85,12 +96,6 @@
         "category": "us"
       },
       {
-        "title": "Premier League chief says Fifa self-destructed over World Cup plan",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 16:18:37 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "One dead and hundreds ill in UK salmonella outbreak",
         "link": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 15:52:12 GMT",
@@ -100,12 +105,6 @@
         "title": "British couple on honeymoon killed in helicopter crash on Greek island",
         "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 15:30:13 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Earl Spencer to 'tell the truth' about his sister Princess Diana in new book",
-        "link": "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 13:45:03 GMT",
         "category": "Top News"
       },
       {
@@ -121,26 +120,20 @@
         "category": "Top News"
       },
       {
-        "title": "PM says he's not embarrassed about hoax message exchange",
-        "link": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 12:22:58 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
         "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 11:26:26 GMT",
         "category": "tech"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Apple overhauls Europe app store fees to resolve payments clash",
-        "link": "https://www.cnbc.com/2026/08/18/apple-eu-app-store-fees-iphone.html",
-        "pubDate": "Tue, 18 Aug 2026 17:16:49 GMT",
-        "category": "tech"
+        "title": "Court upholds US rule designating PFAS chemicals as 'hazardous'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a84dcfbcb284ba8b8886cca227e08c9&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fcourt-upholds-us-rule-designating-pfas-chemicals-hazardous-2026-08-18%2f&amp;c=11599480384283827889&amp;mkt=en-us",
+        "pubDate": "Tue, 18 Aug 2026 14:32:00 GMT",
+        "category": "business"
       }
-    ]
+    ],
+    "markets": []
   }
 }
