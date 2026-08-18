@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-08-18T14:41:08.344303",
+  "updated_at": "2026-08-18T16:39:51.827876",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+        "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
+        "pubDate": "Tue, 18 Aug 2026 11:19:40 -0400",
+        "category": "world"
+      },
+      {
         "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
         "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
         "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "The grueling fight over who profits from AI music",
@@ -46,48 +52,54 @@
         "category": "Top News"
       },
       {
+        "title": "Jason Arday&apos;s rise and fall tells a larger story about academia, a critic says",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5935396/jason-arday-former-cambridge-professor-found-dead-after-allegations-about-his-work",
+        "pubDate": "Tue, 18 Aug 2026 04:41:14 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur&apos;s 1996 killing",
         "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
         "pubDate": "Tue, 18 Aug 2026 01:56:44 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
-        "pubDate": "Tue, 18 Aug 2026 01:51:50 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
-        "pubDate": "Mon, 17 Aug 2026 18:37:58 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "British couple on honeymoon killed in helicopter crash on Greek island",
-        "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 13:56:26 GMT",
+        "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+        "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 16:22:54 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Premier League chief says Fifa self-destructed over World Cup plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 16:18:37 GMT",
         "category": "Top News"
       },
       {
-        "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
-        "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 12:52:26 GMT",
+        "title": "Global borrowing costs hit fresh highs",
+        "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 16:09:45 GMT",
         "category": "business"
+      },
+      {
+        "title": "One dead and hundreds ill in UK salmonella outbreak",
+        "link": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 15:52:12 GMT",
+        "category": "health"
+      },
+      {
+        "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 15:30:13 GMT",
+        "category": "Top News"
       },
       {
         "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
         "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 12:36:11 GMT",
         "category": "world"
-      },
-      {
-        "title": "One dead and hundreds ill in UK salmonella outbreak",
-        "link": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 12:28:29 GMT",
-        "category": "health"
       },
       {
         "title": "How soon will the drought be over?",
@@ -112,64 +124,15 @@
         "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 11:26:26 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
-        "link": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 11:10:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-        "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 09:00:33 GMT",
-        "category": "us"
       }
     ],
-    "reuters": [
-      {
-        "title": "As retail stagnates, ad dollars help Walmart stay the course",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a846eb8561744e6aa418b305ed28695&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fretail-stagnates-ad-dollars-help-walmart-stay-course-2026-08-18%2f&amp;c=5153830465062849150&amp;mkt=en-us",
-        "pubDate": "Tue, 18 Aug 2026 03:05:00 GMT",
-        "category": "business"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Kalshi seeks to launch \u2018perps\u2019 on equity indexes as it moves in on traditional exchanges&apos; turf",
-        "link": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
-        "pubDate": "Tue, 18 Aug 2026 14:22:10 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo &amp; more",
-        "link": "https://www.cnbc.com/2026/08/18/stocks-making-the-biggest-moves-premarket-hd-tsla-fn-duol.html",
-        "pubDate": "Tue, 18 Aug 2026 11:46:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
-        "link": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-        "pubDate": "Tue, 18 Aug 2026 10:53:25 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Credit card issuer Synchrony announces partnership with OpenAI",
-        "link": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
-        "pubDate": "Tue, 18 Aug 2026 02:48:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout",
-        "link": "https://www.cnbc.com/2026/08/17/druckenmiller-loaded-up-on-amazon-and-chip-stocks-before-july-rout.html",
-        "pubDate": "Mon, 17 Aug 2026 17:44:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
-        "link": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
-        "pubDate": "Mon, 17 Aug 2026 17:43:40 GMT",
-        "category": "Top News"
+        "title": "Hims &amp; Hers CEO says FTC lawsuit misunderstands how the company works",
+        "link": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html",
+        "pubDate": "Tue, 18 Aug 2026 14:20:05 GMT",
+        "category": "health"
       }
     ]
   }
