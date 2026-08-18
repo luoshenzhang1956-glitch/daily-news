@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-08-18T10:37:10.565866",
+  "updated_at": "2026-08-18T12:59:29.185755",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
+        "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
+        "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400",
+        "category": "world"
+      },
+      {
+        "title": "The grueling fight over who profits from AI music",
+        "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+        "pubDate": "Tue, 18 Aug 2026 06:30:00 -0400",
+        "category": "business"
+      },
       {
         "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
@@ -13,13 +25,13 @@
         "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "category": "business"
+        "category": "tech"
       },
       {
         "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "category": "tech"
+        "category": "health"
       },
       {
         "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
@@ -32,12 +44,6 @@
         "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
         "pubDate": "Tue, 18 Aug 2026 04:41:19 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "War between U.S. and Iran shifts key resources away from Asia",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
-        "pubDate": "Tue, 18 Aug 2026 04:40:36 -0400",
-        "category": "world"
       },
       {
         "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur&apos;s 1996 killing",
@@ -56,31 +62,43 @@
         "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
         "pubDate": "Mon, 17 Aug 2026 18:37:58 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Palestinian family in West Bank fear settler violence will rob them of home",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
-        "pubDate": "Mon, 17 Aug 2026 17:27:58 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Russia warns UK will pay for supplying drones to Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 09:55:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-        "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 09:26:41 GMT",
-        "category": "tech"
+        "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
+        "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 12:52:26 GMT",
+        "category": "business"
       },
       {
         "title": "British couple on honeymoon killed in helicopter crash on Greek island",
         "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 09:23:57 GMT",
+        "pubDate": "Tue, 18 Aug 2026 12:43:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 12:36:11 GMT",
+        "category": "world"
+      },
+      {
+        "title": "One dead and hundreds ill in UK salmonella outbreak",
+        "link": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 12:28:29 GMT",
+        "category": "health"
+      },
+      {
+        "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+        "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 11:26:26 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Serco employee charged with sharing asylum seeker addresses",
+        "link": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 11:10:45 GMT",
         "category": "Top News"
       },
       {
@@ -90,33 +108,15 @@
         "category": "us"
       },
       {
-        "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
-        "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 08:59:28 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-        "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
         "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 08:07:37 GMT",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Inside secret police warehouse as Germany targets small boats gangs",
         "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Heavy showers and thunderstorms bring risk of flash flooding to UK",
-        "link": "https://www.bbc.co.uk/weather/articles/cx2mzgv4vgjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 00:12:25 GMT",
         "category": "Top News"
       },
       {
