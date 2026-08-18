@@ -1,20 +1,38 @@
 {
-  "updated_at": "2026-08-18T18:48:09.398543",
+  "updated_at": "2026-08-18T20:32:12.945109",
   "news": {
     "ap": [
       {
-        "title": "Pentagon orders audit of 30 universities\u2019 partnerships with foreign institutions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a84a83858af48cc819343cac81cb752&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpentagon-audit-china-harvard-mit-738832f9f20186dc5f9ef1aa39914636&amp;c=6460113317316294645&amp;mkt=en-us",
-        "pubDate": "Tue, 18 Aug 2026 07:52:00 GMT",
-        "category": "tech"
+        "title": "US and Canada hold last-minute talks to stop Trump\u2019s 50% tariffs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a84c0ad5973478a871047cfeb1d4136&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftariffs-trump-canada-usmca-trade-aae597c22617bec7a99f670a2c787ef9&amp;c=5238318833250532077&amp;mkt=en-us",
+        "pubDate": "Tue, 18 Aug 2026 07:28:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
       {
+        "title": "Flexibility is a key part of keeping women employed",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5931746/flexibility-is-a-key-part-of-keeping-women-employed",
+        "pubDate": "Tue, 18 Aug 2026 16:17:59 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
+        "pubDate": "Tue, 18 Aug 2026 16:04:18 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "ABC and Disney sue FCC, alleging First Amendment violations",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
+        "pubDate": "Tue, 18 Aug 2026 15:51:27 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "&apos;Profits won.&apos; The child safety trial against Meta kicks off in federal court",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
         "pubDate": "Tue, 18 Aug 2026 13:39:29 -0400",
-        "category": "business"
+        "category": "tech"
       },
       {
         "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
@@ -44,30 +62,12 @@
         "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
-        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
+        "category": "health"
       },
       {
         "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
-        "pubDate": "Tue, 18 Aug 2026 04:41:19 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Jason Arday&apos;s rise and fall tells a larger story about academia, a critic says",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5935396/britain-cambridge-professor-jason-arday-hiring-questions",
-        "pubDate": "Tue, 18 Aug 2026 04:41:14 -0400",
         "category": "Top News"
       }
     ],
@@ -79,9 +79,9 @@
         "category": "business"
       },
       {
-        "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-        "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 16:22:54 GMT",
+        "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+        "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT",
         "category": "us"
       },
       {
@@ -103,6 +103,12 @@
         "category": "Top News"
       },
       {
+        "title": "Earl Spencer to 'tell the truth' about his sister Princess Diana in new book",
+        "link": "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 13:45:03 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
         "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 12:36:11 GMT",
@@ -121,26 +127,20 @@
         "category": "Top News"
       },
       {
-        "title": "National Television Awards pick first all-female shortlist for drama acting award",
-        "link": "https://www.bbc.co.uk/news/articles/crk53pr44kjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 11:57:42 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
         "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 11:26:26 GMT",
         "category": "tech"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "AI chip startup Etched doubles valuation to $21 billion in under a month",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a84a8848eb747e6a84020b86f24c1e5&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18%2f&amp;c=6782745113633571514&amp;mkt=en-us",
-        "pubDate": "Tue, 18 Aug 2026 08:13:00 GMT",
+        "title": "Apple overhauls Europe app store fees to resolve payments clash",
+        "link": "https://www.cnbc.com/2026/08/18/apple-eu-app-store-fees-iphone.html",
+        "pubDate": "Tue, 18 Aug 2026 17:16:49 GMT",
         "category": "tech"
       }
-    ],
-    "markets": []
+    ]
   }
 }
