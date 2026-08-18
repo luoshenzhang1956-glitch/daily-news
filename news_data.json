@@ -1,19 +1,55 @@
 {
-  "updated_at": "2026-08-18T08:45:02.730859",
+  "updated_at": "2026-08-18T10:37:10.565866",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+        "pubDate": "Tue, 18 Aug 2026 05:30:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+        "category": "business"
+      },
+      {
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
+        "pubDate": "Tue, 18 Aug 2026 04:41:19 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "War between U.S. and Iran shifts key resources away from Asia",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
+        "pubDate": "Tue, 18 Aug 2026 04:40:36 -0400",
+        "category": "world"
+      },
+      {
         "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur&apos;s 1996 killing",
         "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
         "pubDate": "Tue, 18 Aug 2026 01:56:44 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
         "pubDate": "Tue, 18 Aug 2026 01:51:50 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
@@ -26,73 +62,49 @@
         "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
         "pubDate": "Mon, 17 Aug 2026 17:27:58 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Cities are adopting new data center standards as public opposition grows",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5930494/cities-are-adopting-new-data-center-standards-as-public-opposition-grows",
-        "pubDate": "Mon, 17 Aug 2026 17:26:16 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Former federal prosecutor is suing DOJ for &apos;unlawful and retaliatory&apos; firing",
-        "link": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing",
-        "pubDate": "Mon, 17 Aug 2026 17:01:54 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
-        "pubDate": "Mon, 17 Aug 2026 15:53:37 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "DHS defends investigating agency critics and giving them warning notices",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-        "pubDate": "Mon, 17 Aug 2026 09:31:13 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Meta heads to court in a landmark trial about kids and social media addiction",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
+        "title": "Russia warns UK will pay for supplying drones to Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 09:55:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+        "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 09:26:41 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 09:23:57 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
         "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 08:19:37 GMT",
-        "category": "tech"
+        "pubDate": "Tue, 18 Aug 2026 09:00:33 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
+        "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 08:59:28 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+        "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT",
+        "category": "Top News"
       },
       {
         "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
         "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 08:07:37 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
-        "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 07:30:35 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 06:40:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Erin survived cancer aged 21 - now it's a race against time for a chance of a baby",
-        "link": "https://www.bbc.co.uk/news/articles/c98v031640vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 05:18:26 GMT",
         "category": "health"
       },
       {
@@ -112,125 +124,9 @@
         "link": "https://www.bbc.co.uk/news/articles/c1d1lpl9vrxo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 00:00:02 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Fifa official sacked after Infantino plan criticism",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 17 Aug 2026 20:46:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 17 Aug 2026 19:25:05 GMT",
-        "category": "us"
       }
     ],
-    "reuters": [
-      {
-        "title": "Eight Israeli airstrikes hit Syria's Abu al-Duhur airbase, no casualties, state TV reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a841b2b67f041fc86f208203785ae1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2feight-israeli-airstrikes-hit-syrias-abu-al-duhur-airbase-no-casualties-state-tv-2026-08-18%2f&amp;c=14559351976644674077&amp;mkt=en-us",
-        "pubDate": "Tue, 18 Aug 2026 01:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Swedish opposition holds big lead ahead of September vote, poll shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a841b2b67f041fc86f208203785ae1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fswedish-opposition-holds-big-lead-ahead-september-vote-poll-shows-2026-08-18%2f&amp;c=15801026192077429060&amp;mkt=en-us",
-        "pubDate": "Tue, 18 Aug 2026 01:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Selling grips bond markets from US to Japan as inflation, fiscal worries take hold",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a841b2b67f041fc86f208203785ae1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fselling-grips-bond-markets-us-japan-inflation-fiscal-worries-take-hold-2026-08-18%2f&amp;c=7612880001466074114&amp;mkt=en-us",
-        "pubDate": "Tue, 18 Aug 2026 00:50:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, local media says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a841b2b67f041fc86f208203785ae1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistan-top-court-orders-ex-pm-imran-khan-be-moved-hospital-jail-local-media-2026-08-18%2f&amp;c=14638548328385349871&amp;mkt=en-us",
-        "pubDate": "Tue, 18 Aug 2026 00:41:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a841b2b67f041fc86f208203785ae1d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-30-year-yields-hit-highest-level-since-2007-war-oil-worries-fester-2026-08-18%2f&amp;c=13001592844547005258&amp;mkt=en-us",
-        "pubDate": "Tue, 18 Aug 2026 00:11:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bond yields rise, oil extends gains as US-Iran ceasefire expires",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a841b2b67f041fc86f208203785ae1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-wrapup-1-2026-08-18%2f&amp;c=4441817767714532726&amp;mkt=en-us",
-        "pubDate": "Mon, 17 Aug 2026 18:17:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Climate damage: the next hit to Europe's public finances",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a841b2b67f041fc86f208203785ae1d&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fcop%2fclimate-damage-next-hit-europes-public-finances-2026-08-18%2f&amp;c=11260143837002681820&amp;mkt=en-us",
-        "pubDate": "Mon, 17 Aug 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Anthropic revenue run rate tops $65 billion, source says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a841b2b67f041fc86f208203785ae1d&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fanthropic-revenue-run-rate-tops-65-billion-source-says-2026-08-17%2f&amp;c=4054623875052467556&amp;mkt=en-us",
-        "pubDate": "Mon, 17 Aug 2026 14:36:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "A Palestinian American's journey to his West Bank home under settler siege",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a841b2b67f041fc86f208203785ae1d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fpalestinian-americans-journey-his-west-bank-home-under-settler-siege-2026-08-17%2f&amp;c=273026008111589351&amp;mkt=en-us",
-        "pubDate": "Mon, 17 Aug 2026 11:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Family says Massachusetts mother who killed children struggled with mental illness",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a841b658cb54f3e8a832a708c713566&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fmassachusetts-woman-searched-online-postpartum-psychosis-days-before-killing-2026-08-17%2f&amp;c=13854921636026431139&amp;mkt=en-us",
-        "pubDate": "Mon, 17 Aug 2026 10:20:00 GMT",
-        "category": "health"
-      }
-    ],
-    "markets": [
-      {
-        "title": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher",
-        "link": "https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html",
-        "pubDate": "Tue, 18 Aug 2026 06:11:52 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Credit card issuer Synchrony announces partnership with OpenAI",
-        "link": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
-        "pubDate": "Tue, 18 Aug 2026 02:48:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tuesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/08/17/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Mon, 17 Aug 2026 23:48:03 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
-        "link": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-        "pubDate": "Mon, 17 Aug 2026 23:47:54 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: EyePoint, Intuitive Machines, Workday, JetBlue &amp; more",
-        "link": "https://www.cnbc.com/2026/08/17/stocks-making-big-moves-midday-eypt-lunr-wday-jblu.html",
-        "pubDate": "Mon, 17 Aug 2026 18:22:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout",
-        "link": "https://www.cnbc.com/2026/08/17/druckenmiller-loaded-up-on-amazon-and-chip-stocks-before-july-rout.html",
-        "pubDate": "Mon, 17 Aug 2026 17:44:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
-        "link": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
-        "pubDate": "Mon, 17 Aug 2026 17:43:40 GMT",
-        "category": "Top News"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
