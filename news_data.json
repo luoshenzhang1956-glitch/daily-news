@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-08-19T14:42:17.919416",
+  "updated_at": "2026-08-19T16:39:19.113085",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Mobile gold miners in eastern Congo complicate health workers\u2019 efforts to contain Ebola",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a85dbabf65e46e294584127bdb26494&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ituri-ebola-gold-mining-bf0ebdd8b41f4276b839e7f79a2df381&amp;c=5179198423378599320&amp;mkt=en-us",
+        "pubDate": "Tue, 18 Aug 2026 22:39:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Why does the U.S. military seem stymied in the war with Iran?",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+        "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400",
+        "category": "world"
+      },
+      {
+        "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
+        "pubDate": "Wed, 19 Aug 2026 11:38:57 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "A real-world study of Oregon&apos;s nonmedical psilocybin program shows promise",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
+        "pubDate": "Wed, 19 Aug 2026 11:22:35 -0400",
+        "category": "health"
+      },
       {
         "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
         "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
         "pubDate": "Wed, 19 Aug 2026 10:19:20 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida&apos;s primaries",
@@ -25,18 +50,6 @@
         "title": "Striking hospital employees sound alarm over workplace violence",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
         "pubDate": "Wed, 19 Aug 2026 06:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Congo&apos;s Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
-        "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
-        "pubDate": "Wed, 19 Aug 2026 05:29:40 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Feeling restless? Level up your life by starting a side quest",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
-        "pubDate": "Wed, 19 Aug 2026 05:02:00 -0400",
         "category": "Top News"
       },
       {
@@ -44,12 +57,6 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
         "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
         "category": "us"
-      },
-      {
-        "title": "Elbridge who? How the name of a forgotten founder lives on in the word &apos;gerrymander&apos;",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
-        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
       },
       {
         "title": "Trump administration launches $5B AI initiative aimed at advancing science",
@@ -66,10 +73,40 @@
     ],
     "bbc": [
       {
-        "title": "Monzo down as some users unable to make card payments or transfers",
-        "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 14:13:33 GMT",
+        "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+        "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 16:14:46 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Tenders open for controversial West Bank settlement project, Israel announces",
+        "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 15:50:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Salmonella outbreak: What we know so far",
+        "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 15:48:49 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 15:47:31 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 15:33:32 GMT",
+        "category": "world"
+      },
+      {
+        "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
+        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 15:01:57 GMT",
+        "category": "Top News"
       },
       {
         "title": "Track defect found on approach to site of Lewes derailment, initial report says",
@@ -78,15 +115,9 @@
         "category": "Top News"
       },
       {
-        "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
-        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 13:53:51 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-        "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 12:47:53 GMT",
+        "title": "BBC presenter Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
+        "link": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 13:00:57 GMT",
         "category": "Top News"
       },
       {
@@ -100,46 +131,23 @@
         "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 19 Aug 2026 11:27:39 GMT",
         "category": "business"
-      },
-      {
-        "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-        "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 09:02:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 08:38:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-        "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Scientists 'stunned' by children's lung recovery in ultra low emission zone",
-        "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 23:53:24 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Broker Marex freezes Radiant World accounts, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a85c03ee224456f86439cf30820489a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fbroker-marex-freezes-radiant-world-accounts-sources-say-2026-08-19%2f&amp;c=6649155624581770730&amp;mkt=en-us",
-        "pubDate": "Wed, 19 Aug 2026 04:35:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Hershey targets the health-conscious with savoury Halloween snacks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a85c06e94d942fdb00aace8b2c76ed7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fhershey-targets-health-conscious-with-savoury-halloween-snacks-2026-08-19%2f&amp;c=13836611678819622085&amp;mkt=en-us",
-        "pubDate": "Wed, 19 Aug 2026 04:03:00 GMT",
-        "category": "health"
+        "title": "US, Canada trade negotiators meet after Trump sets new tariff deadline",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a85dbcdebbc405f881a7e6a2d433440&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-canada-trade-negotiators-meet-after-trump-sets-new-tariff-deadline-2026-08-19%2f&amp;c=17979313164630610390&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 09:19:00 GMT",
+        "category": "us"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Yields are driving the stock market right now. These are the stocks with the most at stake",
+        "link": "https://www.cnbc.com/2026/08/19/yields-are-driving-the-stock-market-right-now-these-are-the-stocks-with-the-most-at-stake.html",
+        "pubDate": "Wed, 19 Aug 2026 16:26:41 GMT",
+        "category": "us"
+      }
+    ]
   }
 }
