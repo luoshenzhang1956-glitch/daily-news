@@ -1,24 +1,73 @@
 {
-  "updated_at": "2026-08-19T08:46:28.944765",
+  "updated_at": "2026-08-19T10:37:10.508508",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a85868f76974665945a6c96ed18bd9d&amp;url=https%3a%2f%2fapnews.com%2farticle%2famazon-drone-delivery-expansion-walmart-20db399ba65e8bc36a76b547f990b118&amp;c=17701501451923705824&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 02:59:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Mobile gold miners in eastern Congo complicate health workers\u2019 efforts to contain Ebola",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8586af69c94250ac8e8519c7d31ca9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ituri-ebola-gold-mining-bf0ebdd8b41f4276b839e7f79a2df381&amp;c=5179198423378599320&amp;mkt=en-us",
+        "pubDate": "Tue, 18 Aug 2026 22:39:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
-        "title": "U.S. delays 50% tariff on Canadian imports after reaching deal",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5936217/u-s-delays-50-tariff-on-canadian-imports-after-reaching-deal",
-        "pubDate": "Wed, 19 Aug 2026 04:42:27 -0400",
+        "title": "How India&apos;s blocking of a film exposing real-life police abuses backfired",
+        "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
+        "pubDate": "Wed, 19 Aug 2026 06:02:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Striking hospital employees sound alarm over workplace violence",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
+        "pubDate": "Wed, 19 Aug 2026 06:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Congo&apos;s Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+        "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+        "pubDate": "Wed, 19 Aug 2026 05:29:40 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Feeling restless? Level up your life by starting a side quest",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
+        "pubDate": "Wed, 19 Aug 2026 05:02:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "15 states have laws that allow corporal punishment in schools. Here&apos;s where, and why",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
         "category": "us"
+      },
+      {
+        "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Elbridge who? How the name of a forgotten founder lives on in the word &apos;gerrymander&apos;",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
+        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump administration launches $5B AI initiative aimed at advancing science",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5935542/trump-administration-launches-5b-ai-initiative-aimed-at-advancing-science",
+        "pubDate": "Wed, 19 Aug 2026 04:46:21 -0400",
+        "category": "tech"
       },
       {
         "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
         "pubDate": "Wed, 19 Aug 2026 03:51:59 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
-        "pubDate": "Wed, 19 Aug 2026 02:57:51 -0400",
         "category": "Top News"
       },
       {
@@ -26,61 +75,49 @@
         "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
         "pubDate": "Wed, 19 Aug 2026 00:55:08 -0400",
         "category": "business"
-      },
-      {
-        "title": "Are you scrolling, instead of sleeping again? Here&apos;s when it may be an addiction",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5936249/are-you-scrolling-instead-of-sleeping-again-heres-when-it-may-be-an-addiction",
-        "pubDate": "Tue, 18 Aug 2026 17:06:56 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Key results from Florida primaries, so far",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
-        "pubDate": "Tue, 18 Aug 2026 17:01:17 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
-        "pubDate": "Tue, 18 Aug 2026 16:04:18 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "ABC and Disney sue FCC, alleging First Amendment violations",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
-        "pubDate": "Tue, 18 Aug 2026 15:51:27 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "&apos;Profits won.&apos; The child safety trial against Meta kicks off in federal court",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
-        "pubDate": "Tue, 18 Aug 2026 13:39:29 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
-        "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
-        "pubDate": "Tue, 18 Aug 2026 11:19:40 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+        "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 10:32:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Competition for degree apprenticeships quadruples as university costs rise",
+        "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 09:37:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
+        "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 09:26:05 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Sacked Ukrainian defence minister calls for presidential election",
         "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 07:14:50 GMT",
+        "pubDate": "Wed, 19 Aug 2026 09:02:08 GMT",
         "category": "world"
+      },
+      {
+        "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+        "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 09:02:03 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 08:38:37 GMT",
+        "category": "Top News"
       },
       {
         "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
         "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 19 Aug 2026 05:00:39 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Demand for degree apprenticeships in England quadruples in three years",
-        "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 05:00:12 GMT",
         "category": "Top News"
       },
       {
@@ -90,62 +127,25 @@
         "category": "us"
       },
       {
-        "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
-        "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 03:42:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-        "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Scientists 'stunned' by children's lung recovery in ultra low emission zone",
         "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 23:53:24 GMT",
         "category": "health"
       },
       {
-        "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
-        "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 23:37:18 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "The critical tech staying safe by going underground",
         "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 18 Aug 2026 23:25:21 GMT",
         "category": "tech"
-      },
-      {
-        "title": "'Banned over a pair of \u00a32 sandals': Why some sellers are complaining about Vinted",
-        "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 18 Aug 2026 23:14:49 GMT",
-        "category": "business"
       }
     ],
-    "reuters": [
-      {
-        "title": "Fintech Jack Henry beats quarterly estimates on strong demand",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a856d1173f24acabdb80d4acff54430&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2ffintech-jack-henry-beats-quarterly-estimates-strong-demand-2026-08-18%2f&amp;c=7932578179261487158&amp;mkt=en-us",
-        "pubDate": "Tue, 18 Aug 2026 14:09:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
-        "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-        "pubDate": "Wed, 19 Aug 2026 07:08:19 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Income investors need to &apos;wake up&apos; to the new market regime. Where to find solid yields now",
-        "link": "https://www.cnbc.com/2026/08/18/income-investors-wake-up-to-new-market-regime-where-to-find-solid-yields-now.html",
-        "pubDate": "Tue, 18 Aug 2026 20:16:28 GMT",
-        "category": "us"
+        "title": "Hims &amp; Hers CEO says FTC lawsuit misunderstands how the company works",
+        "link": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html",
+        "pubDate": "Tue, 18 Aug 2026 14:20:05 GMT",
+        "category": "health"
       }
     ]
   }
