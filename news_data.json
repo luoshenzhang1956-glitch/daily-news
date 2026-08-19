@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-08-19T18:44:07.087699",
+  "updated_at": "2026-08-19T20:36:44.414314",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "China successfully recovers rocket stage on land for the first time",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a86134abc6b4122b67c70ba18306350&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-space-rocket-reuse-land-7280ab07f29771e2034a917ff679e1a6&amp;c=5178690499446159436&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 06:04:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "Amid the Iran war, the U.S. has pivoted it&apos;s geopolitical attention away from Asia",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5935388/amid-the-iran-war-the-u-s-has-pivoted-its-geopolitical-attention-away-from-asia",
+        "pubDate": "Wed, 19 Aug 2026 16:16:16 -0400",
+        "category": "world"
+      },
+      {
+        "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
+        "pubDate": "Wed, 19 Aug 2026 16:09:39 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
+        "pubDate": "Wed, 19 Aug 2026 15:45:11 -0400",
+        "category": "health"
+      },
       {
         "title": "In new filings, Kennedy Center says it won&apos;t try to put Trump&apos;s name on facade until Sept. 8",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
@@ -19,7 +44,7 @@
         "title": "Why does the U.S. military seem stymied in the war with Iran?",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
         "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
@@ -31,7 +56,7 @@
         "title": "A real-world study of Oregon&apos;s nonmedical psilocybin program shows promise",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
         "pubDate": "Wed, 19 Aug 2026 11:22:35 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
@@ -40,54 +65,36 @@
         "category": "Top News"
       },
       {
-        "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida&apos;s primaries",
-        "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
-        "pubDate": "Wed, 19 Aug 2026 07:14:31 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "How India&apos;s blocking of a film exposing real-life police abuses backfired",
-        "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
-        "pubDate": "Wed, 19 Aug 2026 06:02:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Trump administration launches $5B AI initiative aimed at advancing science",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5935542/trump-administration-launches-5b-ai-initiative-aimed-at-advancing-science",
         "pubDate": "Wed, 19 Aug 2026 04:46:21 -0400",
         "category": "tech"
-      },
-      {
-        "title": "FCC head Brendan Carr says Disney free speech lawsuit is &apos;without merit&apos;",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5936665/abc-disney-sue-fcc-over-first-amendment-violations",
-        "pubDate": "Wed, 19 Aug 2026 04:43:08 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
         "title": "Canada and US say they are finalising a trade deal, but details remain murky",
         "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 17:47:52 GMT",
+        "pubDate": "Wed, 19 Aug 2026 19:59:14 GMT",
         "category": "us"
       },
       {
-        "title": "Tenders open for highly-sensitive West Bank settlement project, Israel announces",
-        "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 17:16:28 GMT",
-        "category": "Top News"
+        "title": "Vaccine breakthrough stops cancer returning in trial",
+        "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 19:00:48 GMT",
+        "category": "health"
       },
       {
-        "title": "Students wait for GCSE and BTec  grades as app launches for 750 schools in England",
-        "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 17:09:34 GMT",
+        "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+        "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 18:45:51 GMT",
         "category": "Top News"
       },
       {
         "title": "Salmonella outbreak: What we know so far",
         "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 19 Aug 2026 16:43:56 GMT",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
@@ -126,38 +133,13 @@
         "category": "business"
       }
     ],
-    "reuters": [
-      {
-        "title": "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a85f93dbfa04533913cfea0b3f9b464&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fmarvell-grants-google-122-billion-stock-warrant-custom-chip-deal-2026-08-19%2f&amp;c=7049344270879291875&amp;mkt=en-us",
-        "pubDate": "Wed, 19 Aug 2026 05:38:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Hershey targets the health-conscious with savoury Halloween snacks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a85f93e38df43099855909934f6ce55&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fhershey-targets-health-conscious-with-savoury-halloween-snacks-2026-08-19%2f&amp;c=13836611678819622085&amp;mkt=en-us",
-        "pubDate": "Wed, 19 Aug 2026 04:03:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Most Americans believe Trump has inappropriately profited since returning to power, Reuters/Ipsos poll finds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a85f93b2bad46c58687214e69f913a3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmost-americans-believe-trump-has-inappropriately-profited-since-returning-power-2026-08-19%2f&amp;c=13574381663595940600&amp;mkt=en-us",
-        "pubDate": "Wed, 19 Aug 2026 03:04:00 GMT",
-        "category": "business"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Bullish chart patterns are emerging for Range Resources, Frank Cappelleri says",
-        "link": "https://www.cnbc.com/2026/08/19/bullish-chart-patterns-emerging-for-range-resources-cappelleri-says.html",
-        "pubDate": "Wed, 19 Aug 2026 18:20:38 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-        "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-        "pubDate": "Wed, 19 Aug 2026 14:58:26 GMT",
-        "category": "business"
+        "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+        "link": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
+        "pubDate": "Wed, 19 Aug 2026 20:10:01 GMT",
+        "category": "tech"
       }
     ]
   }
