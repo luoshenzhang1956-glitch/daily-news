@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-08-19T12:59:24.360486",
+  "updated_at": "2026-08-19T14:42:17.919416",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
+        "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
+        "pubDate": "Wed, 19 Aug 2026 10:19:20 -0400",
+        "category": "world"
+      },
+      {
         "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida&apos;s primaries",
         "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
         "pubDate": "Wed, 19 Aug 2026 07:14:31 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "How India&apos;s blocking of a film exposing real-life police abuses backfired",
@@ -46,30 +52,42 @@
         "category": "Top News"
       },
       {
-        "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
-        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Trump administration launches $5B AI initiative aimed at advancing science",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5935542/trump-administration-launches-5b-ai-initiative-aimed-at-advancing-science",
         "pubDate": "Wed, 19 Aug 2026 04:46:21 -0400",
         "category": "tech"
       },
       {
-        "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-        "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-        "pubDate": "Wed, 19 Aug 2026 00:55:08 -0400",
+        "title": "FCC head Brendan Carr says Disney free speech lawsuit is &apos;without merit&apos;",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936665/abc-disney-sue-fcc-over-first-amendment-violations",
+        "pubDate": "Wed, 19 Aug 2026 04:43:08 -0400",
         "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+        "title": "Monzo down as some users unable to make card payments or transfers",
+        "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 14:13:33 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+        "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 14:06:42 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
         "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 12:41:46 GMT",
+        "pubDate": "Wed, 19 Aug 2026 13:53:51 GMT",
         "category": "world"
+      },
+      {
+        "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+        "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 12:47:53 GMT",
+        "category": "Top News"
       },
       {
         "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
@@ -78,22 +96,10 @@
         "category": "Top News"
       },
       {
-        "title": "PM unveils plan to get rough sleepers off streets for Christmas",
-        "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 11:45:33 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Inflation is heating up but don't expect another crisis",
         "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 19 Aug 2026 11:27:39 GMT",
         "category": "business"
-      },
-      {
-        "title": "OpenAI slows down training after its AI carried out hack",
-        "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 11:19:12 GMT",
-        "category": "tech"
       },
       {
         "title": "Jump in energy bills drives UK inflation to highest rate for four months",
@@ -105,12 +111,6 @@
         "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
         "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 19 Aug 2026 08:38:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-        "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 05:00:39 GMT",
         "category": "Top News"
       },
       {
@@ -126,7 +126,20 @@
         "category": "health"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Broker Marex freezes Radiant World accounts, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a85c03ee224456f86439cf30820489a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fbroker-marex-freezes-radiant-world-accounts-sources-say-2026-08-19%2f&amp;c=6649155624581770730&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 04:35:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Hershey targets the health-conscious with savoury Halloween snacks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a85c06e94d942fdb00aace8b2c76ed7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fhershey-targets-health-conscious-with-savoury-halloween-snacks-2026-08-19%2f&amp;c=13836611678819622085&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 04:03:00 GMT",
+        "category": "health"
+      }
+    ],
     "markets": []
   }
 }
