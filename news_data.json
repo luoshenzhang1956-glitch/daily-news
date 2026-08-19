@@ -1,26 +1,62 @@
 {
-  "updated_at": "2026-08-19T20:36:44.414314",
+  "updated_at": "2026-08-19T22:32:14.074475",
   "news": {
     "ap": [
       {
-        "title": "China successfully recovers rocket stage on land for the first time",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a86134abc6b4122b67c70ba18306350&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-space-rocket-reuse-land-7280ab07f29771e2034a917ff679e1a6&amp;c=5178690499446159436&amp;mkt=en-us",
-        "pubDate": "Wed, 19 Aug 2026 06:04:00 GMT",
-        "category": "tech"
+        "title": "From robot dogs to helpers, China puts robotics ambitions on display at world conference",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e38586c432887a23b6fd4765e55&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-robot-conference-951ebd3cddaccf5afcedc68174ba626a&amp;c=7910764099408719976&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 04:59:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e3c39754cfea97213ffde53e8fd&amp;url=https%3a%2f%2fapnews.com%2farticle%2famazon-drone-delivery-expansion-walmart-20db399ba65e8bc36a76b547f990b118&amp;c=17701501451923705824&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 02:59:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Mobile gold miners in eastern Congo complicate health workers\u2019 efforts to contain Ebola",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e5d1651462d89e4a77e1621437e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ituri-ebola-gold-mining-bf0ebdd8b41f4276b839e7f79a2df381&amp;c=5179198423378599320&amp;mkt=en-us",
+        "pubDate": "Tue, 18 Aug 2026 22:39:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
       {
-        "title": "Amid the Iran war, the U.S. has pivoted it&apos;s geopolitical attention away from Asia",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5935388/amid-the-iran-war-the-u-s-has-pivoted-its-geopolitical-attention-away-from-asia",
-        "pubDate": "Wed, 19 Aug 2026 16:16:16 -0400",
+        "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
+        "pubDate": "Wed, 19 Aug 2026 17:27:51 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Whistleblower Arturo B\u00e9jar leads testimony in landmark trial against Meta",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+        "pubDate": "Wed, 19 Aug 2026 17:20:15 -0400",
+        "category": "business"
+      },
+      {
+        "title": "More than 1,000 Afghan refugees have been stuck at a camp in Qatar since 2021",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936482/more-than-1-000-afghan-refugees-have-been-stuck-at-a-camp-in-qatar-since-2021",
+        "pubDate": "Wed, 19 Aug 2026 17:15:06 -0400",
         "category": "world"
+      },
+      {
+        "title": "Why tech companies are buying up tons of rare old books to train their AI models",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936438/why-tech-companies-are-buying-up-tons-of-rare-old-books-to-train-their-ai-models",
+        "pubDate": "Wed, 19 Aug 2026 17:13:09 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "On his 19th birthday, a vigil is planned for Mississippi teen Nolan Wells",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5937533/on-his-19th-birthday-a-vigil-is-planned-for-mississippi-teen-nolan-wells",
+        "pubDate": "Wed, 19 Aug 2026 16:53:13 -0400",
+        "category": "us"
       },
       {
         "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
         "pubDate": "Wed, 19 Aug 2026 16:09:39 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
@@ -32,7 +68,7 @@
         "title": "In new filings, Kennedy Center says it won&apos;t try to put Trump&apos;s name on facade until Sept. 8",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
         "pubDate": "Wed, 19 Aug 2026 14:01:03 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Why Aitana&apos;s &apos;Superestrella&apos; is the surprise Latin hit song of the summer",
@@ -45,33 +81,21 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
         "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
-        "pubDate": "Wed, 19 Aug 2026 11:38:57 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A real-world study of Oregon&apos;s nonmedical psilocybin program shows promise",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
-        "pubDate": "Wed, 19 Aug 2026 11:22:35 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
-        "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
-        "pubDate": "Wed, 19 Aug 2026 10:19:20 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration launches $5B AI initiative aimed at advancing science",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5935542/trump-administration-launches-5b-ai-initiative-aimed-at-advancing-science",
-        "pubDate": "Wed, 19 Aug 2026 04:46:21 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
+      {
+        "title": "Prince Harry and Meghan moving back to UK",
+        "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 21:59:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "People smuggler exposed by BBC investigation arrested and charged",
+        "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 20:54:51 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Canada and US say they are finalising a trade deal, but details remain murky",
         "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&amp;at_campaign=rss",
@@ -109,21 +133,9 @@
         "category": "world"
       },
       {
-        "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
-        "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 15:01:57 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Track defect found on approach to site of Lewes derailment, initial report says",
         "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 19 Aug 2026 14:06:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
-        "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 12:09:47 GMT",
         "category": "Top News"
       },
       {
@@ -133,14 +145,68 @@
         "category": "business"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-        "link": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
-        "pubDate": "Wed, 19 Aug 2026 20:10:01 GMT",
-        "category": "tech"
+        "title": "Multistate salmonella infections climb to 431, US CDC says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e6293d24edb909b50998512e0d4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fmultistate-salmonella-infections-climb-431-us-cdc-says-2026-08-19%2f&amp;c=10636815296909406769&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 14:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US FTC considers requiring disclosure of personalized pricing",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e6293d24edb909b50998512e0d4&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-ftc-considers-requiring-disclosure-personalized-pricing-2026-08-19%2f&amp;c=3160876542994338752&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 14:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Moderna, Merck breakthrough could usher in wave of cancer vaccines",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e6293d24edb909b50998512e0d4&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fmoderna-merck-breakthrough-could-usher-wave-cancer-vaccines-2026-08-19%2f&amp;c=14271149134101540237&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 13:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US Treasury 'playing trader' in effort to lower rates, investor says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e6293d24edb909b50998512e0d4&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW659519082026RP1%2f&amp;c=659591689077523611&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 13:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Simpsons' writer who predicted Trump as president makes his own bid",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e6293d24edb909b50998512e0d4&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW656819082026RP1%2f&amp;c=17883843574091282925&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 13:26:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e6293d24edb909b50998512e0d4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-debt-crosses-40-trillion-threshold-after-doubling-under-trump-biden-2026-08-19%2f&amp;c=54508883487046903&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 13:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Global yields fall after US Treasury boosts debt buybacks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e6293d24edb909b50998512e0d4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-08-19%2f&amp;c=16741531790777847570&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 12:58:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed policymakers' inflation concerns increased at July meeting, minutes show",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e6293d24edb909b50998512e0d4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19%2f&amp;c=16551805638785713034&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 11:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Insight: Trump put thousands of soldiers on Washington\u2019s streets. They seldom stop crime",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e6293d24edb909b50998512e0d4&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-put-thousands-soldiers-washingtons-streets-they-seldom-stop-crime-2026-08-19%2f&amp;c=4966142733365741482&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 03:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Zuckerberg did not make child safety a priority at Meta, former engineer testifies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a862e6293d24edb909b50998512e0d4&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fformer-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19%2f&amp;c=4901587463784933578&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 03:01:00 GMT",
+        "category": "Top News"
       }
-    ]
+    ],
+    "markets": []
   }
 }
