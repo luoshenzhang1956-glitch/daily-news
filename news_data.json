@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-08-20T04:45:14.234143",
+  "updated_at": "2026-08-20T06:57:03.381883",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "World\u2019s top-ranked racehorse Ombudsman beaten into 4th in Juddmonte International won by Item",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a86a485fa04401eb8ad4f3faa137fdc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhorseracing-york-juddmonte-item-ombudsman-b22489cf0d04543d549309d97f3f1b12&amp;c=17915420661623283249&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 09:17:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+        "pubDate": "Thu, 20 Aug 2026 02:17:42 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
+        "pubDate": "Thu, 20 Aug 2026 01:50:53 -0400",
+        "category": "Top News"
+      },
       {
         "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
@@ -20,12 +39,6 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
         "pubDate": "Wed, 19 Aug 2026 17:20:15 -0400",
         "category": "business"
-      },
-      {
-        "title": "More than 1,000 Afghan refugees have been stuck at a camp in Qatar since 2021",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5936482/more-than-1-000-afghan-refugees-have-been-stuck-at-a-camp-in-qatar-since-2021",
-        "pubDate": "Wed, 19 Aug 2026 17:15:06 -0400",
-        "category": "world"
       },
       {
         "title": "Why tech companies are buying up tons of rare old books to train their AI models",
@@ -56,29 +69,35 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer",
         "pubDate": "Wed, 19 Aug 2026 13:03:41 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Why does the U.S. military seem stymied in the war with Iran?",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-        "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least six",
+        "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
         "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 04:37:37 GMT",
+        "pubDate": "Thu, 20 Aug 2026 06:44:20 GMT",
         "category": "Top News"
       },
       {
-        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 04:17:53 GMT",
+        "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 06:39:14 GMT",
         "category": "world"
       },
       {
-        "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+        "title": "US national debt passes $40tn after doubling in a decade",
+        "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 06:23:23 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Prince Harry and Meghan moving back to UK later this month",
+        "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 06:08:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump vows tougher economic measures on Iran and supporting countries",
         "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 20 Aug 2026 03:22:57 GMT",
         "category": "business"
@@ -96,27 +115,15 @@
         "category": "Top News"
       },
       {
-        "title": "US national debt passes $40tn after doubling in a decade",
-        "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 01:24:26 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Prince Harry and Meghan moving back to UK later this month",
-        "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 01:14:29 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "'I'd love a normal life, but being a 17-year-old carer means sacrifices'",
         "link": "https://www.bbc.co.uk/news/articles/c4g355k8lg4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 20 Aug 2026 00:49:25 GMT",
         "category": "health"
       },
       {
-        "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
-        "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 19 Aug 2026 17:09:34 GMT",
+        "title": "Vaccine breakthrough stops cancer returning in trial",
+        "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 19 Aug 2026 19:00:48 GMT",
         "category": "Top News"
       },
       {
@@ -128,12 +135,31 @@
     ],
     "reuters": [
       {
-        "title": "Insurer AIA Group posts 10% jump in half-year new business value",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8685f32c004f788626f641478c85fd&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2faia-groups-first-half-new-business-value-rises-10-2026-08-19%2f&amp;c=15730428578102502002&amp;mkt=en-us",
-        "pubDate": "Wed, 19 Aug 2026 15:56:00 GMT",
-        "category": "business"
+        "title": "Bonds recover after US Treasury comes to the rescue",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a86a4d00b5840658b89d87ed2036d55&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-08-20%2f&amp;c=10590939656014635567&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 17:01:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Interactive 'Peaky Blinders' experience lets fans step into show's gritty world",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a86a4cf4790428694b845aa4bc43cdf&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW662519082026RP1%2f&amp;c=11432444507986826461&amp;mkt=en-us",
+        "pubDate": "Wed, 19 Aug 2026 15:36:00 GMT",
+        "category": "world"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Trump announces &apos;economic warfare&apos; on Iran, threatens \u2018tremendous\u2019 consequences for its backers",
+        "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+        "pubDate": "Thu, 20 Aug 2026 06:36:29 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+        "link": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
+        "pubDate": "Wed, 19 Aug 2026 20:10:01 GMT",
+        "category": "tech"
+      }
+    ]
   }
 }
