@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-08-20T16:42:12.264247",
+  "updated_at": "2026-08-20T18:51:05.656696",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Three things to know about the $40 trillion federal debt",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
+        "pubDate": "Thu, 20 Aug 2026 12:50:41 -0400",
+        "category": "business"
+      },
+      {
+        "title": "What to know about Dr. Heidi Overton, Trump&apos;s pick to lead the FDA",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
+        "pubDate": "Thu, 20 Aug 2026 12:49:11 -0400",
+        "category": "health"
+      },
       {
         "title": "D.C.&apos;s IndyCar race will zoom past museums. Some worry it could harm the art inside",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
@@ -22,22 +34,10 @@
         "category": "Top News"
       },
       {
-        "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "category": "business"
-      },
-      {
         "title": "Privacy advocates call on Maryland to investigate data brokers",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "category": "health"
       },
       {
         "title": "They grew up with disability rights. Now, they&apos;re fighting to keep them",
@@ -46,25 +46,61 @@
         "category": "Top News"
       },
       {
-        "title": "The system meant to protect ICE detainees has collapsed",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+        "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
-        "pubDate": "Thu, 20 Aug 2026 04:52:29 -0400",
+        "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Tech billionaires push back against proposed wealth tax in California",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
-        "pubDate": "Thu, 20 Aug 2026 04:45:47 -0400",
+        "title": "The system meant to protect ICE detainees has collapsed",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Harry and Meghan's return to UK reignites questions over security",
+        "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 18:12:59 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+        "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 17:48:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT",
+        "category": "world"
+      },
+      {
+        "title": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
+        "link": "https://www.bbc.co.uk/news/articles/cgew3drznd1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 17:03:09 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
+        "link": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 16:58:37 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+        "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 16:54:51 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Man charged over Manchester synagogue attack",
         "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&amp;at_campaign=rss",
@@ -78,61 +114,25 @@
         "category": "Top News"
       },
       {
-        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 13:56:25 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Harry and Meghan's security arrangements a private matter, PM says",
-        "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 13:53:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "John Swinney defends \u00a345,000 business-class flights to World Cup",
-        "link": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 12:33:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why are Harry and Meghan returning to the UK?",
-        "link": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 10:16:31 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
         "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 20 Aug 2026 10:05:24 GMT",
         "category": "business"
       },
       {
-        "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
-        "link": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 09:44:04 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Vaccine breakthrough stops cancer returning in trial",
         "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 20 Aug 2026 08:10:33 GMT",
         "category": "health"
-      },
-      {
-        "title": "US national debt passes $40tn after doubling in a decade",
-        "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 06:23:23 GMT",
-        "category": "us"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "AI data center outrage is showing up everywhere from ads to elections",
-        "link": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
-        "pubDate": "Thu, 20 Aug 2026 15:56:12 GMT",
-        "category": "tech"
+        "title": "Yields are on the move once again. These stocks could get a boost if they keep going higher",
+        "link": "https://www.cnbc.com/2026/08/20/yields-are-on-the-move-once-again-these-stocks-could-get-a-boost-if-they-keep-going-higher.html",
+        "pubDate": "Thu, 20 Aug 2026 18:28:05 GMT",
+        "category": "us"
       },
       {
         "title": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
