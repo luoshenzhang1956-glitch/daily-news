@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-08-20T18:51:05.656696",
+  "updated_at": "2026-08-20T20:37:30.626909",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Alibaba quarterly profit drops 75% as AI investment spending grows",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8764ce5f3344b0baad679d4ed559a6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchina-alibaba-earnings-ai-cloud-8a30302d23a96fc7b9aab664b9c1897d&amp;c=11303033873559185593&amp;mkt=en-us",
+        "pubDate": "Thu, 20 Aug 2026 08:05:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "Sources &amp; Methods",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/sources-methods",
+        "pubDate": "Thu, 20 Aug 2026 16:05:10 -0400",
+        "category": "world"
+      },
+      {
+        "title": "What we know about the Penn State cocaine trafficking ring",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5939523/what-we-know-about-the-penn-state-cocaine-trafficking-ring",
+        "pubDate": "Thu, 20 Aug 2026 16:04:27 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Record cyclosporiasis outbreak tests the response of a &apos;weakened&apos; health system",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+        "pubDate": "Thu, 20 Aug 2026 15:54:19 -0400",
+        "category": "health"
+      },
+      {
+        "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
+        "pubDate": "Thu, 20 Aug 2026 15:22:20 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Three things to know about the $40 trillion federal debt",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
@@ -13,19 +44,19 @@
         "title": "What to know about Dr. Heidi Overton, Trump&apos;s pick to lead the FDA",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
         "pubDate": "Thu, 20 Aug 2026 12:49:11 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "D.C.&apos;s IndyCar race will zoom past museums. Some worry it could harm the art inside",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
         "pubDate": "Thu, 20 Aug 2026 11:18:21 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
         "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
         "pubDate": "Thu, 20 Aug 2026 07:30:18 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "North Korea fires a suspected missile toward the sea, Japan says",
@@ -38,33 +69,21 @@
         "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "They grew up with disability rights. Now, they&apos;re fighting to keep them",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The system meant to protect ICE detainees has collapsed",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+        "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 19:52:48 GMT",
+        "category": "world"
+      },
+      {
+        "title": "ICE arrests captain in New York Harbor boat accident that killed mother and infant",
+        "link": "https://www.bbc.co.uk/news/articles/cwy45lxry14o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 19:07:55 GMT",
+        "category": "us"
+      },
       {
         "title": "Harry and Meghan's return to UK reignites questions over security",
         "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&amp;at_campaign=rss",
@@ -76,18 +95,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 20 Aug 2026 17:48:07 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT",
-        "category": "world"
-      },
-      {
-        "title": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
-        "link": "https://www.bbc.co.uk/news/articles/cgew3drznd1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 17:03:09 GMT",
-        "category": "us"
       },
       {
         "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
@@ -102,15 +109,15 @@
         "category": "Top News"
       },
       {
-        "title": "Man charged over Manchester synagogue attack",
-        "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 16:17:27 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Five key takeaways from GCSE results day 2026",
         "link": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 20 Aug 2026 14:28:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "John Swinney defends \u00a345,000 business-class flights to World Cup",
+        "link": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 12:33:09 GMT",
         "category": "Top News"
       },
       {
@@ -127,19 +134,6 @@
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Yields are on the move once again. These stocks could get a boost if they keep going higher",
-        "link": "https://www.cnbc.com/2026/08/20/yields-are-on-the-move-once-again-these-stocks-could-get-a-boost-if-they-keep-going-higher.html",
-        "pubDate": "Thu, 20 Aug 2026 18:28:05 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
-        "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-        "pubDate": "Wed, 19 Aug 2026 20:34:09 GMT",
-        "category": "health"
-      }
-    ]
+    "markets": []
   }
 }
