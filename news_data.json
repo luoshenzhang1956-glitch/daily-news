@@ -1,32 +1,37 @@
 {
-  "updated_at": "2026-08-20T10:38:57.056704",
+  "updated_at": "2026-08-20T13:00:59.793021",
   "news": {
-    "ap": [
-      {
-        "title": "US stocks halt their slide after the Treasury Department moves to ease pressure from the bond market",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a86d8831c894dc694a3a4e517b7f75f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstocks-futures-bonds-oil-inflation-trump-ai-9e355be634e4a21059fc1d1f20a1239e&amp;c=17745873335099438559&amp;mkt=en-us",
-        "pubDate": "Wed, 19 Aug 2026 13:57:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+        "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+        "pubDate": "Thu, 20 Aug 2026 07:30:18 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Trump to nominate Dr. Heidi Overton to lead FDA",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5938124/trump-to-nominate-dr-heidi-overton-to-lead-fda",
+        "pubDate": "Thu, 20 Aug 2026 06:55:30 -0400",
+        "category": "us"
+      },
       {
         "title": "North Korea fires a suspected missile toward the sea, Japan says",
         "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
         "pubDate": "Thu, 20 Aug 2026 05:24:45 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Privacy advocates call on Maryland to investigate data brokers",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "category": "business"
+      },
+      {
+        "title": "Privacy advocates call on Maryland to investigate data brokers",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "category": "tech"
       },
       {
         "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
@@ -41,7 +46,7 @@
         "category": "Top News"
       },
       {
-        "title": "Disabled adults learn and work in their communities. That right is under threat",
+        "title": "They grew up with disability rights. Now, they&apos;re fighting to keep them",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "category": "Top News"
@@ -53,36 +58,30 @@
         "category": "Top News"
       },
       {
-        "title": "Open AI launches ChatGPT designed for younger users",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5937930/open-ai-launches-chatgpt-designed-for-younger-users",
-        "pubDate": "Thu, 20 Aug 2026 04:44:33 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-        "pubDate": "Thu, 20 Aug 2026 03:31:55 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Prince Harry and Meghan are returning to the U.K. with their children",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
-        "pubDate": "Thu, 20 Aug 2026 02:17:42 -0400",
+        "title": "Tech billionaires push back against proposed wealth tax in California",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
+        "pubDate": "Thu, 20 Aug 2026 04:45:47 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 10:34:33 GMT",
-        "category": "world"
+        "title": "Harry and Meghan's security arrangements a private matter, PM says",
+        "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 12:26:35 GMT",
+        "category": "Top News"
       },
       {
-        "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
-        "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 10:28:26 GMT",
+        "title": "Train derailment carriages moved amid track probe",
+        "link": "https://www.bbc.co.uk/news/articles/c79gpp4dvwxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 12:09:40 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 11:06:54 GMT",
+        "category": "world"
       },
       {
         "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
@@ -101,12 +100,6 @@
         "link": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 20 Aug 2026 09:44:04 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Prince Harry and Meghan moving back to UK later this month",
-        "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 09:35:58 GMT",
-        "category": "Top News"
       },
       {
         "title": "Vaccine breakthrough stops cancer returning in trial",
@@ -133,15 +126,14 @@
         "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "UK's Ashtead Technology tumbles on lower-than-expected annual forecast",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a86d8ef3fa94faa87ea4b5329475296&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fuks-ashtead-technology-tumbles-lower-than-expected-annual-forecast-2026-08-20%2f&amp;c=250369303245415650&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 00:24:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
+      {
+        "title": "Stocks making the biggest moves premarket: Walmart, Coinbase, Moderna, Alibaba &amp; more",
+        "link": "https://www.cnbc.com/2026/08/20/stocks-making-the-biggest-moves-premarket-.html",
+        "pubDate": "Thu, 20 Aug 2026 12:24:53 GMT",
+        "category": "Top News"
+      },
       {
         "title": "China is defying the global bond yield surge, boosting its diversification appeal",
         "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
@@ -158,18 +150,6 @@
         "title": "Fed officials saw need for rate hike if inflation doesn&apos;t cool, minutes show",
         "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
         "pubDate": "Wed, 19 Aug 2026 18:54:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Moderna, Pilgrim&apos;s Pride, Target, gold miners &amp; more",
-        "link": "https://www.cnbc.com/2026/08/19/stocks-making-the-biggest-moves-midday-mrna-ppc-tgt-gdx.html",
-        "pubDate": "Wed, 19 Aug 2026 15:41:55 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Retail investors aren&apos;t entirely giving up on AI trade, but they appear more cautious",
-        "link": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
-        "pubDate": "Wed, 19 Aug 2026 11:09:33 GMT",
         "category": "Top News"
       }
     ]
