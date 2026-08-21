@@ -1,80 +1,37 @@
 {
-  "updated_at": "2026-08-21T04:46:33.326660",
+  "updated_at": "2026-08-21T06:57:39.286669",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Trump warns of \u2018economic D-Day\u2019 against Iran, but Tehran is well acquainted with sanctions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d77740864a4abeb3bc27977f0d90&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-trump-sanctions-economic-fury-oil-d28206ea288a3d4a9b82260ab44ce460&amp;c=4330858277149643725&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 21:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Vance will campaign at the Ohio steel plant where his grandfather once worked",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d77740864a4abeb3bc27977f0d90&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjd-vance-middletown-ohio-midterms-cda60aa61e9f3842df543f04e21a60c0&amp;c=7063244851530502039&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 21:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "First group of deportees arrives in troubled Haiti after US ends TPS program",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d77740864a4abeb3bc27977f0d90&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhaiti-us-deported-flight-tps-trump-e3b4e8aaffb70c3a962721fcce11b89b&amp;c=7444726366329288232&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 20:36:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fernando Mendoza throws a pick-6, struggles in 1st half of Raiders\u2019 22-20 preseason win over Texans",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d77740864a4abeb3bc27977f0d90&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftexans-raiders-score-0ca390b6ff0f94ded816c36917c75cff&amp;c=16220042193663823330&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 20:19:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Federal court is asked to block Kennedy Center from returning Trump\u2019s name to building",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d77740864a4abeb3bc27977f0d90&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkennedy-center-trump-name-jfk-lawsuit-e2356978ea3881bee4a9ea2b2edd463a&amp;c=4110567587591825240&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 18:43:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "2 organizers of Hong Kong\u2019s Tiananmen vigils convicted in national security case",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d77740864a4abeb3bc27977f0d90&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhong-kong-tiananmen-verdict-alliance-9e1f5c915931eecfa083053dd262548b&amp;c=14307758080864865933&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 16:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Does baseball need even more technology for plays like Pete Alonso\u2019s disputed fly ball?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d79075a14c1c8ce8392ade45552a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmlb-foul-ball-technology-a12bc519991baef96002ea5aa128ddc8&amp;c=14144211962917304817&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 15:42:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Army will shut down a unit in Europe focused on learning drone warfare",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d77740864a4abeb3bc27977f0d90&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdrones-army-ukraine-iran-war-hegseth-b4d70633a8832d779f3d4002b30298e3&amp;c=9087897840335419721&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 15:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US ramps up Cuba sanctions and detentions of Americans returning from the island",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d77c4f2842aa80d90ec295d87ca4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-cuba-sanctions-rubio-castro-f60f12386ac528c3511d929cc3e1431c&amp;c=7989107637437547173&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 10:21:00 GMT",
+        "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
+        "pubDate": "Fri, 21 Aug 2026 02:41:33 -0400",
         "category": "us"
       },
       {
-        "title": "Rio de Janeiro\u2019s Maracana Stadium to host opening game and final of 2027 Women\u2019s World Cup",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d77aab41406298a54e8600d7f7b2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbrazil-women-world-cup-maracana-a5b8b8c43e0b00c736fd15a3489542c1&amp;c=10927404611797687561&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 08:12:00 GMT",
-        "category": "world"
-      }
-    ],
-    "npr": [
+        "title": "&apos;Survival mode&apos;: Indiana residents endure a ninth day without power",
+        "link": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
+        "pubDate": "Fri, 21 Aug 2026 02:40:26 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
+        "pubDate": "Fri, 21 Aug 2026 01:49:48 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Jurors hear &apos;Keffe D&apos; say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5940538/jurors-hear-keffe-d-say-his-nephew-fired-fatal-shots-at-tupac-shakur-in-1996-drive-by-shooting",
+        "pubDate": "Fri, 21 Aug 2026 01:41:15 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Wars are happening across the world. Many of them are connected",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/wars-are-happening-across-the-world-many-of-them-are-connected",
         "pubDate": "Thu, 20 Aug 2026 16:05:10 -0400",
         "category": "world"
-      },
-      {
-        "title": "What we know about the Penn State cocaine trafficking ring",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5939523/what-we-know-about-the-penn-state-cocaine-trafficking-ring",
-        "pubDate": "Thu, 20 Aug 2026 16:04:27 -0400",
-        "category": "us"
       },
       {
         "title": "Record cyclosporiasis outbreak tests the response of a &apos;weakened&apos; health system",
@@ -101,24 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "D.C.&apos;s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
-        "pubDate": "Thu, 20 Aug 2026 11:18:21 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-        "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-        "pubDate": "Thu, 20 Aug 2026 07:30:18 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "North Korea fires a suspected missile toward the sea, Japan says",
-        "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-        "pubDate": "Thu, 20 Aug 2026 05:24:45 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Privacy advocates call on Maryland to investigate data brokers",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
@@ -127,7 +66,13 @@
     ],
     "bbc": [
       {
-        "title": "Will Harry's return heal rift with his brother? Don't hold your breath",
+        "title": "Israeli settlers return to Kadim in West Bank two decades after it was evacuated",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Will Harry's return heal deep-rooted rift with William?",
         "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 21 Aug 2026 04:07:22 GMT",
         "category": "Top News"
@@ -139,15 +84,9 @@
         "category": "Top News"
       },
       {
-        "title": "El Ni\u00f1o weather system set to be 'strongest in living memory', warns Met Office",
+        "title": "El Ni\u00f1o warming set to be 'strongest in living memory', warns Met Office",
         "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 21 Aug 2026 00:33:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "My student day out in London turned to terror - now survivors like me won't be forgotten",
-        "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 21 Aug 2026 00:11:18 GMT",
         "category": "Top News"
       },
       {
@@ -187,68 +126,7 @@
         "category": "health"
       }
     ],
-    "reuters": [
-      {
-        "title": "So much for the Bessent bid",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d7a50f7e465cbf160bdd94617cdc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-view-europe-2026-08-21%2f&amp;c=11454955339551034913&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 21:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pakistan ex-PM Imran Khan taken back to prison from hospital, party spokesman says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d7a50f7e465cbf160bdd94617cdc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fpakistan-ex-pm-imran-khan-taken-back-prison-hospital-party-spokesman-says-2026-08-21%2f&amp;c=17942337121964587533&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d7a50f7e465cbf160bdd94617cdc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-set-second-weekly-rise-unsettled-us-iran-war-crimps-supply-2026-08-21%2f&amp;c=2920646327576100535&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dollar wobbles as investors balk at US Treasury's rescue efforts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d7a50f7e465cbf160bdd94617cdc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fdollar-wobbles-investors-balk-us-treasurys-rescue-efforts-2026-08-21%2f&amp;c=16743709589847354061&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Asia shares downbeat on the week as bond yields, oil stay high",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d7a50f7e465cbf160bdd94617cdc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fglobal-markets-global-markets-2026-08-21%2f&amp;c=7905640884201555711&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "From euphoria to despair, Korea reckons with stock mania's emotional toll",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d7a50f7e465cbf160bdd94617cdc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2feuphoria-despair-korea-reckons-with-stock-manias-emotional-toll-2026-08-21%2f&amp;c=7826982007051013451&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US says it will impose 'toughest sanctions in history' on Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d7a50f7e465cbf160bdd94617cdc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-says-it-will-impose-toughest-sanctions-history-iran-2026-08-20%2f&amp;c=9981991133351603730&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 16:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d7c92ed449ee97a809e74879037b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-firm-powerus-wins-223-million-contract-protect-middle-east-energy-2026-08-20%2f&amp;c=17253418255009137186&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 13:55:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "BMO reorganizes international capital markets business, memo shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d7c504ef42db8889770c5b294f6d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fbmo-reorganizes-international-capital-markets-business-memo-shows-2026-08-20%2f&amp;c=2517543020343976130&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 10:21:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "FBI raids Democrat Swalwell's home in sexual-misconduct investigation, source says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a87d7a50f7e465cbf160bdd94617cdc&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ffbi-raids-democrat-swalwells-home-sexual-misconduct-investigation-source-says-2026-08-20%2f&amp;c=16245216198531823682&amp;mkt=en-us",
-        "pubDate": "Thu, 20 Aug 2026 09:59:00 GMT",
-        "category": "Top News"
-      }
-    ],
+    "reuters": [],
     "markets": []
   }
 }
