@@ -1,13 +1,32 @@
 {
-  "updated_at": "2026-08-21T06:57:39.286669",
+  "updated_at": "2026-08-21T08:49:22.814345",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Cameroon\u2019s President Biya returns after a long stay abroad raises health concerns",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8810a2fcdd4faa86d11b4e68a025fd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcameroon-paul-biya-returns-3f39e488f1ea1d2ea121fa2d43da4fd5&amp;c=12441655171783891621&amp;mkt=en-us",
+        "pubDate": "Thu, 20 Aug 2026 11:02:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Life settlements let people cash in on their own life insurance. Here&apos;s how it works",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5910560/life-settlements-let-people-cash-in-on-their-own-life-insurance-heres-how-it-works",
+        "pubDate": "Fri, 21 Aug 2026 04:45:43 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Investors sell stocks and bonds as government efforts fail to soothe market",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5940009/investors-sell-stocks-and-bonds-as-government-efforts-fail-to-soothe-market",
+        "pubDate": "Fri, 21 Aug 2026 04:44:31 -0400",
+        "category": "business"
+      },
       {
         "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
         "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
         "pubDate": "Fri, 21 Aug 2026 02:41:33 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "&apos;Survival mode&apos;: Indiana residents endure a ninth day without power",
@@ -46,18 +65,6 @@
         "category": "Top News"
       },
       {
-        "title": "3 things to know about the $40 trillion federal debt",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
-        "pubDate": "Thu, 20 Aug 2026 12:50:41 -0400",
-        "category": "business"
-      },
-      {
-        "title": "What to know about Dr. Heidi Overton, Trump&apos;s pick to lead the FDA",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
-        "pubDate": "Thu, 20 Aug 2026 12:49:11 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Privacy advocates call on Maryland to investigate data brokers",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
@@ -66,10 +73,28 @@
     ],
     "bbc": [
       {
-        "title": "Israeli settlers return to Kadim in West Bank two decades after it was evacuated",
+        "title": "French becoming more effective in stopping small boat crossings, UK says",
+        "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 21 Aug 2026 08:26:01 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+        "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 21 Aug 2026 07:45:13 GMT",
+        "category": "business"
+      },
+      {
+        "title": "El Ni\u00f1o warming set to be 'strongest in living memory', warns Met Office",
+        "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 21 Aug 2026 07:43:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT",
-        "category": "Top News"
+        "category": "world"
       },
       {
         "title": "Will Harry's return heal deep-rooted rift with William?",
@@ -84,9 +109,9 @@
         "category": "Top News"
       },
       {
-        "title": "El Ni\u00f1o warming set to be 'strongest in living memory', warns Met Office",
-        "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 21 Aug 2026 00:33:21 GMT",
+        "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
+        "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 21 Aug 2026 00:11:18 GMT",
         "category": "Top News"
       },
       {
@@ -102,31 +127,20 @@
         "category": "tech"
       },
       {
-        "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-        "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 22:59:35 GMT",
-        "category": "business"
-      },
-      {
-        "title": "French becoming more effective in stopping small boat crossings, UK says",
-        "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 22:23:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-        "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 18:55:14 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Vaccine breakthrough stops cancer returning in trial",
-        "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 20 Aug 2026 08:10:33 GMT",
+        "title": "Why are women going to London for abortions?",
+        "link": "https://www.bbc.co.uk/news/videos/cj63j4dyky9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 20 Aug 2026 09:01:56 GMT",
         "category": "health"
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Stock futures are flat after Treasury yield rebound sparks sell-off: Live updates",
+        "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+        "pubDate": "Fri, 21 Aug 2026 07:54:09 GMT",
+        "category": "world"
+      }
+    ]
   }
 }
