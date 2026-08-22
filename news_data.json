@@ -1,69 +1,33 @@
 {
-  "updated_at": "2026-08-22T10:31:41.754170",
+  "updated_at": "2026-08-22T12:52:11.610405",
   "news": {
     "ap": [
       {
-        "title": "Mexico resumes livestock sales to US under tight controls over screwworm risk",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8979cac9784e759c394f20d693a9d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmexico-us-cattle-livestock-resume-imports-screwworm-dd58d9ec59b792c72da44bbfed92188e&amp;c=14351505505870057162&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 03:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pope Leo praises San Marino as model of freedom and common good",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8979cac9784e759c394f20d693a9d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpope-leo-san-marino-abortion-politics-freedom-power-8edd2e7e78fa2f11ff0d3be418e1fb30&amp;c=9840649356112225794&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 02:34:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8979cbfbcb409eaff0c7e3b315dd10&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmiddle-east-iran-israel-golan-467d9b2970e0b9855ac9a68ef90c8e75&amp;c=6118689684857918785&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 02:23:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Somali pirates hijack oil tanker off Yemen in latest attack",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8979cac9784e759c394f20d693a9d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsomalia-piracy-yemen-puntland-5095054a9227548818dfc819d226dc76&amp;c=14355662033661101893&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 01:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tommy Edman delivers a 2-strike, 10th-inning walk-off single as the Dodgers edge the Pirates 5-4",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8979cac9784e759c394f20d693a9d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpirates-dodgers-score-6b57bb47cbfe9be30b1388f4de8e5749&amp;c=16260990509292135482&amp;mkt=en-us",
-        "pubDate": "Fri, 21 Aug 2026 22:47:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What to know about Alex Jones\u2019 Texas court win and more than $1 billion in damages he still faces",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8979cac9784e759c394f20d693a9d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2falex-jones-infowars-sandy-hook-60cd9f13513d338839a28af7f80eecc7&amp;c=11372106687250664442&amp;mkt=en-us",
-        "pubDate": "Fri, 21 Aug 2026 21:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why the bond market is flexing its muscles, and why everyone needs to care",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8979cac9784e759c394f20d693a9d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbond-market-yields-treasury-mortgages-savings-b62bedeb7a8b7d5479e25a560b52176c&amp;c=3300678602731410210&amp;mkt=en-us",
-        "pubDate": "Fri, 21 Aug 2026 21:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US imposes 50% tariffs on $20 billion worth of Canadian products, and Canada says it will retaliate",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8979cac9784e759c394f20d693a9d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcanada-us-trade-tariffs-trump-857ef76b20a766e370d70176135b678e&amp;c=4450064580761666081&amp;mkt=en-us",
-        "pubDate": "Fri, 21 Aug 2026 20:40:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kyle Tucker battles a brutal slump as the Dodgers chase a 3rd straight title",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8979cac9784e759c394f20d693a9d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdodgers-kyle-tucker-c3bf74da719d9e130bb041792d380eb0&amp;c=2595490701016447866&amp;mkt=en-us",
-        "pubDate": "Fri, 21 Aug 2026 18:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Rafael Devers returns to Fenway, but not interested in revisiting icy end to Red Sox tenure",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8979cac9784e759c394f20d693a9d5&amp;url=https%3a%2f%2fapnews.com%2farticle%2frafael-devers-red-sox-return-giants-430a80d374b4f5e82c5a8a812bd517d7&amp;c=17672465362911307221&amp;mkt=en-us",
-        "pubDate": "Fri, 21 Aug 2026 15:22:00 GMT",
-        "category": "Top News"
+        "title": "Wall Street week ahead: Reports on consumer confidence and inflation on tap",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a899ab7395c460caec739061f826665&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwall-street-consumer-confidence-inflation-f036e0c2aa019cc924ad148a1a497dbd&amp;c=6658301575104205970&amp;mkt=en-us",
+        "pubDate": "Sat, 22 Aug 2026 01:00:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+        "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
+        "pubDate": "Sat, 22 Aug 2026 08:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Colorado River crisis: Lower basin braces for massive federal water cuts",
+        "link": "https://www.npr.org/2026/08/22/nx-s1-5940831/colorado-river-crisis-lower-basin-braces-for-massive-federal-water-cuts",
+        "pubDate": "Sat, 22 Aug 2026 07:43:34 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Social robotics expert Naomi Fitter on why humanoid robots are reaching a tipping point",
+        "link": "https://www.npr.org/2026/08/22/nx-s1-5940003/social-robotics-expert-naomi-fitter-on-why-humanoid-robots-are-reaching-a-tipping-point",
+        "pubDate": "Sat, 22 Aug 2026 07:43:30 -0400",
+        "category": "tech"
+      },
       {
         "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
         "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
@@ -74,7 +38,7 @@
         "title": "A battle over &apos;Italian brainrot&apos; could shape who owns AI art",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
         "pubDate": "Fri, 21 Aug 2026 18:16:46 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "How to think about this summer&apos;s slate of food safety recalls",
@@ -93,38 +57,38 @@
         "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
         "pubDate": "Fri, 21 Aug 2026 12:40:59 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-        "pubDate": "Fri, 21 Aug 2026 07:42:10 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-        "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-        "pubDate": "Fri, 21 Aug 2026 07:25:10 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Multiple deaths after police vehicle and car crash during pursuit",
+        "title": "Robot horse and rider steal the spotlight at Chinese conference",
+        "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 22 Aug 2026 12:47:28 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Seven dead after police vehicle and car crash during pursuit",
         "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 22 Aug 2026 10:13:33 GMT",
+        "pubDate": "Sat, 22 Aug 2026 12:37:14 GMT",
         "category": "Top News"
       },
       {
-        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 22 Aug 2026 10:01:22 GMT",
+        "pubDate": "Sat, 22 Aug 2026 12:36:28 GMT",
         "category": "Top News"
       },
       {
-        "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-        "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 22 Aug 2026 09:09:41 GMT",
-        "category": "Top News"
+        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+        "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 22 Aug 2026 12:20:46 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US rapper BigXthaPlug arrested on drug and gun charges",
+        "link": "https://www.bbc.co.uk/news/articles/cn4n4737n32o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 22 Aug 2026 11:30:52 GMT",
+        "category": "us"
       },
       {
         "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
@@ -139,84 +103,30 @@
         "category": "health"
       },
       {
-        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-        "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 22 Aug 2026 04:46:33 GMT",
-        "category": "world"
+        "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+        "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 22 Aug 2026 00:40:47 GMT",
+        "category": "business"
+      },
+      {
+        "title": "How this 1960s ex-council house is managing to stay cool without air con",
+        "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 21 Aug 2026 23:56:48 GMT",
+        "category": "Top News"
       },
       {
         "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
         "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 21 Aug 2026 23:13:00 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-        "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-        "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 21 Aug 2026 22:02:10 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 21 Aug 2026 11:20:57 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "Chinese humanoid robot 'Lightning' beats human 100m world record, state media says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a897a11d7e045f4bb18d1fe3fe0f308&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fchinese-humanoid-robot-lightning-beats-human-100m-world-record-state-media-says-2026-08-22%2f&amp;c=11124114671500303296&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 03:07:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "The Week in Breakingviews: The art of IPO pricing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a897a0d29ab4aaeaf782cc65dda0688&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2fbreakingviews%2fglobal-markets-breakingviews-2026-08-22%2f&amp;c=2560368063496037278&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 03:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iranian official urges Qatar to move detained pilots to hospital on land",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a897a0d29ab4aaeaf782cc65dda0688&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firanian-official-urges-qatar-move-detained-pilots-hospital-land-2026-08-22%2f&amp;c=9110689725324816755&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 02:41:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "South Korea ship to test Arctic commercial route amid Western concerns",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a897a0d29ab4aaeaf782cc65dda0688&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fsouth-korea-ship-test-arctic-commercial-route-amid-western-concerns-2026-08-22%2f&amp;c=10468192900823526941&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 02:41:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Menna Alaa El-Din",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a897a0d29ab4aaeaf782cc65dda0688&amp;url=https%3a%2f%2fwww.reuters.com%2fauthors%2fmenna-alaa-el-din%2f&amp;c=17537719007654749004&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 01:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a897a1bbc3d4143aabb427c60b1c497&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fvatican-build-100-million-renewable-energy-plant-sources-say-2026-08-22%2f&amp;c=6741633408520198631&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 00:03:00 GMT",
+        "title": "Tanzania commissions country's largest hydropower plant",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a899b0238db4b379bf6104bf2f8c551&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftanzania-commissions-countrys-largest-hydropower-plant-2026-08-22%2f&amp;c=15337403180557606548&amp;mkt=en-us",
+        "pubDate": "Sat, 22 Aug 2026 05:06:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "The rise of the soccer shirt economy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a897a0d29ab4aaeaf782cc65dda0688&amp;url=https%3a%2f%2fwww.reuters.com%2fgraphics%2fSOCCER-ENGLAND%2fJERSEYS%2fegpbwxwzwvq%2f&amp;c=5820919188730298164&amp;mkt=en-us",
-        "pubDate": "Fri, 21 Aug 2026 12:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "German state politician calls for EU tariffs on Chinese hybrid cars, letter shows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a897a0d29ab4aaeaf782cc65dda0688&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fgerman-state-politician-calls-eu-tariffs-chinese-hybrid-cars-letter-shows-2026-08-21%2f&amp;c=279781102071655602&amp;mkt=en-us",
-        "pubDate": "Fri, 21 Aug 2026 11:09:00 GMT",
-        "category": "Top News"
       }
     ],
     "markets": []
