@@ -1,26 +1,25 @@
 {
-  "updated_at": "2026-08-23T12:51:59.804740",
+  "updated_at": "2026-08-23T14:30:43.751539",
   "news": {
-    "ap": [
-      {
-        "title": "As the Clancy case highlights postpartum psychosis, a mom stricken by it shares her story of hope",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8aec6e6ef640d6b590986383aabf5d&amp;url=https%3a%2f%2fapnews.com%2farticle%2flindsay-clancy-postpartum-psychosis-depression-d16d8a6345276e146104e3c065189c25&amp;c=8888021568328505410&amp;mkt=en-us",
-        "pubDate": "Sun, 23 Aug 2026 05:12:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Becerra, running for governor of California, faces a health insurance problem",
+        "link": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
+        "pubDate": "Sun, 23 Aug 2026 08:50:09 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+        "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+        "pubDate": "Sun, 23 Aug 2026 08:48:05 -0400",
+        "category": "us"
+      },
       {
         "title": "Have dating apps lost their luster? Data shows a decline in users",
         "link": "https://www.npr.org/2026/08/23/nx-s1-5938103/have-dating-apps-lost-their-luster-data-shows-a-decline-in-users",
         "pubDate": "Sun, 23 Aug 2026 08:35:26 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Why hundreds showed up to support murder trial defendant Lindsay Clancy",
-        "link": "https://www.npr.org/2026/08/23/nx-s1-5940882/why-hundreds-showed-up-to-support-murder-trial-defendant-lindsay-clancy",
-        "pubDate": "Sun, 23 Aug 2026 08:02:44 -0400",
-        "category": "us"
       },
       {
         "title": "Body cam shows federal agent was &apos;unjustified&apos; in Memphis shooting, attorney says",
@@ -45,13 +44,13 @@
       {
         "title": "CrossCountry cancels 'almost all' UK services after power cut",
         "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 12:38:01 GMT",
+        "pubDate": "Sun, 23 Aug 2026 14:05:16 GMT",
         "category": "Top News"
       },
       {
-        "title": "'New season, new trim' - Haaland reveals buzzcut",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 12:36:54 GMT",
+        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 23 Aug 2026 12:56:43 GMT",
         "category": "Top News"
       },
       {
@@ -67,16 +66,16 @@
         "category": "Top News"
       },
       {
-        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 09:37:05 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
         "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT",
         "category": "world"
+      },
+      {
+        "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+        "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 22 Aug 2026 23:45:01 GMT",
+        "category": "Top News"
       },
       {
         "title": "Why we can't look away from hoarder home clean-ups",
@@ -105,24 +104,73 @@
     ],
     "reuters": [
       {
+        "title": "Tunisia coast guard recovers eight bodies of migrants whose boat sank",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b03a624f24dd5ae6c02d94c333dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftunisia-coast-guard-recovers-eight-bodies-migrants-whose-boat-sank-2026-08-23%2f&amp;c=12416195925334601553&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 07:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Japan champions Miura, Kihara, who won hearts with grit and tears, to wed",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b03a624f24dd5ae6c02d94c333dac&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fjapan-champions-miura-kihara-who-won-hearts-with-grit-tears-wed-2026-08-23%2f&amp;c=5460788072217512965&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 07:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Randy Arozarena, Mariners stay hungry ahead of finale vs. Cubs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b03a624f24dd5ae6c02d94c333dac&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2frandy-arozarena-mariners-stay-hungry-ahead-finale-vs-cubs--flm-2026-08-23%2f&amp;c=10962316404905336440&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 07:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Red Sox try to solve deceptive Giants LHP Matt Wilkinson in sweep quest",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b03a624f24dd5ae6c02d94c333dac&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fred-sox-try-solve-deceptive-giants-lhp-matt-wilkinson-sweep-quest--flm-2026-08-23%2f&amp;c=7787838377637095337&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 06:49:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Robots can outrun humans, but can they plug in a cable?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b03a624f24dd5ae6c02d94c333dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2frobots-can-outrun-humans-can-they-plug-cable-2026-08-23%2f&amp;c=3635483873525342294&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 06:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran says new sanctions threatened by 'desperate' US will fail",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b03a624f24dd5ae6c02d94c333dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-says-new-sanctions-threatened-by-desperate-us-will-fail-2026-08-23%2f&amp;c=2500466156187181382&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 05:25:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b03a624f24dd5ae6c02d94c333dac&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2falibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23%2f&amp;c=4263538850537076579&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 03:51:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Brush fire in Nevada grows to over 10,500 acres",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b03a624f24dd5ae6c02d94c333dac&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fbrush-fire-nevada-grows-over-10500-acres-2026-08-23%2f&amp;c=10238952664178874306&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 03:51:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Trump caps summer of US 250th birthday with auto race through Washington",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8aec9188a64c548e2074f8f314b369&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-caps-summer-us-250th-birthday-with-auto-race-through-washington-2026-08-23%2f&amp;c=5164725508472199374&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b03a624f24dd5ae6c02d94c333dac&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-caps-summer-us-250th-birthday-with-auto-race-through-washington-2026-08-23%2f&amp;c=5164725508472199374&amp;mkt=en-us",
         "pubDate": "Sun, 23 Aug 2026 03:08:00 GMT",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8aec94753c4d6ca4af55f4eb01cd1d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fecb-chief-lagarde-ready-serve-wef-swiss-newspaper-reports-2026-08-23%2f&amp;c=3446516265766166654&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b03c1779f4690902341a774d85f1b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fecb-chief-lagarde-ready-serve-wef-swiss-newspaper-reports-2026-08-23%2f&amp;c=3446516265766166654&amp;mkt=en-us",
         "pubDate": "Sun, 23 Aug 2026 01:13:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "From science fair to strategic showcase: a decade of China\u2019s robot games",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8aec98119c443482764816ce8f9959&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fscience-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22%2f&amp;c=11201232481759441586&amp;mkt=en-us",
-        "pubDate": "Sat, 22 Aug 2026 20:15:00 GMT",
-        "category": "tech"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
+        "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
+        "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
+        "category": "us"
+      }
+    ]
   }
 }
