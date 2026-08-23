@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-08-23T16:34:59.933923",
+  "updated_at": "2026-08-23T18:38:20.517865",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+        "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
+        "pubDate": "Sun, 23 Aug 2026 12:55:37 -0400",
+        "category": "us"
+      },
       {
         "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
         "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
@@ -19,7 +25,7 @@
         "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
         "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
         "pubDate": "Sun, 23 Aug 2026 08:48:05 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Have dating apps lost their luster? Data shows a decline in users",
@@ -48,6 +54,30 @@
     ],
     "bbc": [
       {
+        "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+        "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 23 Aug 2026 18:17:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "France links sharp rise in drownings to heatwaves",
+        "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 23 Aug 2026 17:39:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man arrested travelling to France after one dead and eight injured in London fire",
+        "link": "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 23 Aug 2026 16:38:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Newcastle and Liverpool united in tribute to legend Keegan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 23 Aug 2026 15:53:38 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
         "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 23 Aug 2026 15:07:04 GMT",
@@ -69,13 +99,7 @@
         "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
         "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 23 Aug 2026 12:56:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Robot boxing, football and sprinting at World Humanoid Games",
-        "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 12:47:06 GMT",
-        "category": "Top News"
+        "category": "world"
       },
       {
         "title": "Struggling households need more help with bills, energy industry says",
@@ -84,38 +108,26 @@
         "category": "business"
       },
       {
-        "title": "Mayors to get powers to overrule local councils on planning decisions",
-        "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 10:02:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Scammers increasingly using QR codes to steal money and data",
-        "link": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 06:23:54 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
         "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Carney faces crucial test after walking away from Trump's deal",
-        "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 22 Aug 2026 20:02:46 GMT",
         "category": "us"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "America&apos;s AI backlash: How the effort to keep worker trust is evolving inside companies",
-        "link": "https://www.cnbc.com/2026/08/23/ai-backlash-workers-job-losses.html",
-        "pubDate": "Sun, 23 Aug 2026 14:42:28 GMT",
-        "category": "tech"
+        "title": "Health of Norway's king deteriorates while in hospital, palace says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b3dec0d724406be3945fae04ec9ff&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fhealth-norways-king-deteriorates-while-hospital-palace-says-2026-08-23%2f&amp;c=6885354365604629711&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 11:06:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Trump caps summer of US 250th birthday at IndyCar race through Washington",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b3dcd25234939a56abc03dc8b5d1c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-caps-summer-us-250th-birthday-with-auto-race-through-washington-2026-08-23%2f&amp;c=5164725508472199374&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 03:08:00 GMT",
+        "category": "us"
       }
-    ]
+    ],
+    "markets": []
   }
 }
