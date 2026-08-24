@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-08-24T18:50:39.870374",
+  "updated_at": "2026-08-24T20:38:16.262036",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Cricket captains from around the world renew appeal for medical treatment of Imran Khan",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8cab177dd54d7890f865fee9231faa&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpakistan-world-cricketers-appeal-imran-khan-health-ef31563b0a9122c6752c09b9b6b73782&amp;c=8783543827238930541&amp;mkt=en-us",
+        "pubDate": "Mon, 24 Aug 2026 00:41:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
-        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
+        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
         "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
         "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
         "category": "world"
@@ -66,16 +73,22 @@
     ],
     "bbc": [
       {
-        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 24 Aug 2026 18:39:53 GMT",
-        "category": "world"
+        "title": "Watch: Doug Ford's blunt warning to Trump over Canada tariffs",
+        "link": "https://www.bbc.co.uk/news/videos/cx2zgr4272zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 24 Aug 2026 19:45:59 GMT",
+        "category": "us"
       },
       {
-        "title": "Police pass Mohamed Al Fayed case file to prosecutors",
-        "link": "https://www.bbc.co.uk/news/articles/cz6zx0njdywo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 24 Aug 2026 18:20:37 GMT",
+        "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
+        "link": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 24 Aug 2026 19:43:51 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 24 Aug 2026 19:12:35 GMT",
+        "category": "world"
       },
       {
         "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
@@ -114,12 +127,6 @@
         "category": "Top News"
       },
       {
-        "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-        "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 24 Aug 2026 09:47:22 GMT",
-        "category": "us"
-      },
-      {
         "title": "Why is it so hard to find an NHS dentist? Find out how many have closed where you live",
         "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 23 Aug 2026 23:10:18 GMT",
@@ -128,24 +135,25 @@
     ],
     "reuters": [
       {
+        "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8cab4985a84c5886be4e67b3349a4c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-approval-holds-record-low-us-support-iran-war-falls-reuters-ipsos-poll-2026-08-24%2f&amp;c=3680237485866594739&amp;mkt=en-us",
+        "pubDate": "Mon, 24 Aug 2026 12:06:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Former world champion Dott convicted of historical sexual abuse",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8c9223c6c5432c97dc042f18fd2d52&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fformer-world-champion-dott-convicted-historical-sexual-abuse-2026-08-24%2f&amp;c=6058140992550109555&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8cab4777ed4346aeb6903e81103d0e&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fformer-world-champion-dott-convicted-historical-sexual-abuse-2026-08-24%2f&amp;c=6058140992550109555&amp;mkt=en-us",
         "pubDate": "Mon, 24 Aug 2026 07:55:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "US threatens countries doing business with Iran, but holds off on penalties for now",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8c9227e2284747baf0c69025a16cec&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-treasury-broaden-scope-secondary-sanctions-iran-source-says-2026-08-24%2f&amp;c=2190418081182770127&amp;mkt=en-us",
-        "pubDate": "Mon, 24 Aug 2026 05:40:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Looming US sanctions on Iran put China oil buying in spotlight",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8c9225781e4bc3928d012711c8c9e1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2flooming-us-sanctions-iran-put-china-oil-buying-spotlight-2026-08-24%2f&amp;c=9158915979030777046&amp;mkt=en-us",
-        "pubDate": "Mon, 24 Aug 2026 02:19:00 GMT",
-        "category": "us"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Jim Cramer says don&apos;t sell Meta on litigation risk \u2014 the stock is worth the wait",
+        "link": "https://www.cnbc.com/2026/08/24/jim-cramer-says-dont-sell-meta-on-litigation-risk-the-stock-is-worth-the-wait.html",
+        "pubDate": "Mon, 24 Aug 2026 20:15:13 GMT",
+        "category": "tech"
+      }
+    ]
   }
 }
