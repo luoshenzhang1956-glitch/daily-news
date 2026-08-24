@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-23T22:30:58.838891",
+  "updated_at": "2026-08-24T01:43:33.129660",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Trump is heading to his golf course in Ireland to watch the Irish Open golf tournament next month",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ba1204efc4437a9976e7bc5c2a9d4&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-ireland-golf-course-irish-open-481a6c45bd7bf7c97ccbcbd5dcbf65d9&amp;c=14882546081669481774&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 16:40:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Iran\u2019s president Pezeshkian says US memorandum is best path out of stalled war",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ba11a5a134add8a0b349430b2812a&amp;url=https%3a%2f%2fapnews.com%2fvideo%2firans-president-pezeshkian-says-us-memorandum-is-best-path-out-of-stalled-war-bd3ea5e2bf684f8697d5baa6c026ffc3&amp;c=3268741480444192169&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 04:39:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
       {
         "title": "Learning to live in a post-American world",
@@ -50,19 +63,37 @@
       {
         "title": "Families of two police officers killed in crash say they were heroes",
         "link": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 21:22:17 GMT",
+        "pubDate": "Mon, 24 Aug 2026 00:37:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Review launched into how pub and hotel business rates calculated",
+        "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 23 Aug 2026 23:26:15 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Why students are being paid \u00a32,000 to play computer games",
+        "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 23 Aug 2026 23:23:55 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "How easy is it to find an NHS dentist? It depends where you live",
+        "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 23 Aug 2026 23:10:18 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 23 Aug 2026 23:07:10 GMT",
         "category": "Top News"
       },
       {
         "title": "Reform says it will prioritise British-born young workers for social housing",
         "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 23 Aug 2026 21:07:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
-        "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 21:05:43 GMT",
         "category": "Top News"
       },
       {
@@ -84,38 +115,33 @@
         "category": "Top News"
       },
       {
-        "title": "Newcastle and Liverpool united in tribute to legend Keegan",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 15:53:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 15:07:04 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
         "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 23 Aug 2026 12:56:43 GMT",
         "category": "world"
-      },
-      {
-        "title": "Struggling households need more help with bills, energy industry says",
-        "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 23 Aug 2026 10:11:21 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "Trump caps summer of US 250th birthday at IndyCar race through Washington",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8b74235673432d9774bbdb8040d4f6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-caps-summer-us-250th-birthday-with-auto-race-through-washington-2026-08-23%2f&amp;c=5164725508472199374&amp;mkt=en-us",
-        "pubDate": "Sun, 23 Aug 2026 03:08:00 GMT",
-        "category": "us"
+        "title": "Robots can outrun humans, but can they plug in a cable?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ba167c02142c29c4bfcc90369d8a1&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2frobots-can-outrun-humans-can-they-plug-cable-2026-08-23%2f&amp;c=3635483873525342294&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 17:49:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Hugging Face exploring sale valuing it at $13 billion, Business Insider says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ba165019a463e85e2577ae473f596&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhugging-face-exploring-sale-valuing-it-13-billion-business-insider-says-2026-08-23%2f&amp;c=1565751179938635256&amp;mkt=en-us",
+        "pubDate": "Sun, 23 Aug 2026 13:01:00 GMT",
+        "category": "business"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
+        "link": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
+        "pubDate": "Sun, 23 Aug 2026 22:39:41 GMT",
+        "category": "world"
+      }
+    ]
   }
 }
