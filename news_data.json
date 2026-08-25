@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-08-25T20:36:07.599793",
+  "updated_at": "2026-08-25T22:34:56.250794",
   "news": {
     "ap": [
       {
-        "title": "Pennsylvania reports first 2 measles deaths in the US this year, both people unvaccinated",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc4c8fc64958be32a5580b32ad40&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeasles-deaths-pennsylvania-16c6c527c13e88ac3cdea57ffdbd2e19&amp;c=9331946489175122535&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 08:08:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Florida, hard-hit by Obamacare drop-off, feels the squeeze of rising healthcare costs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc4500534a35832b895c900909df&amp;url=https%3a%2f%2fapnews.com%2farticle%2faffordable-care-act-obamacare-subsidies-florida-health-b224d1bdb33690d8d2ddeb094437bdc8&amp;c=17230578611279898713&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 03:41:00 GMT",
+        "title": "BlueCo clubs Chelsea and Strasbourg do transfer business again as Kellyman moves to France",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e17f873ef4c199f87d85114962c6c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchelsea-strasbourg-kellyman-1527f6f7d0a5c8379897b0aeeb2e3ce5&amp;c=7278720646419448340&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 09:05:00 GMT",
         "category": "business"
       },
       {
-        "title": "Graham Arnold extends Iraq coaching deal through 2027 Asian Cup after World Cup return",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc37a1674e5d98ed6b2cdfae9d60&amp;url=https%3a%2f%2fapnews.com%2farticle%2firaq-arnold-soccer-coach-world-cup-936a8bf464cbe01a884ccc8d661f4992&amp;c=6080699860847322818&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 01:22:00 GMT",
+        "title": "World Cup winners including Thomas M&#252;ller buy Portuguese top-flight team in $47M deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e17e7a8f7422397421d6927689697&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmuller-hummels-hernandez-estrela-sale-ccd96d90ea6448fd39bb49095fb31d16&amp;c=2242019376300255182&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 07:21:00 GMT",
         "category": "world"
       }
     ],
     "npr": [
+      {
+        "title": "Mexican cattle allowed in the U.S. after a yearlong ban",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943100-e1/mexican-cattle-allowed-in-the-u-s-after-a-yearlong-ban",
+        "pubDate": "Tue, 25 Aug 2026 16:55:48 -0400",
+        "category": "us"
+      },
+      {
+        "title": "South Carolina U.S. senate runoff election will test Trump&apos;s endorsement",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
+        "pubDate": "Tue, 25 Aug 2026 16:47:54 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Dolly Parton, one of country music&apos;s most singular performers, has died at age 80",
         "link": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
@@ -65,25 +71,19 @@
         "category": "business"
       },
       {
-        "title": "Trump administration unveils new Iran sanctions",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5943570/trump-administration-unveils-new-iran-sanctions",
-        "pubDate": "Tue, 25 Aug 2026 06:28:31 -0400",
-        "category": "us"
-      },
-      {
         "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
         "category": "health"
-      },
-      {
-        "title": "OpenAI says it will slow its AI model development to shore up safety",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5943167/openai-says-it-will-slow-its-ai-model-development-to-shore-up-safety",
-        "pubDate": "Mon, 24 Aug 2026 17:17:36 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
+      {
+        "title": "Trump says all mines cleared from Strait of Hormuz",
+        "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 21:23:41 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&amp;at_campaign=rss",
@@ -103,22 +103,16 @@
         "category": "Top News"
       },
       {
+        "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
+        "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 19:11:40 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Dolly Parton: The life of an iconic country singer",
         "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 25 Aug 2026 18:27:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dolly Parton: Life of the music legend whose songs touched millions",
-        "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 18:14:13 GMT",
         "category": "us"
-      },
-      {
-        "title": "Trump says all mines cleared from Strait of Hormuz",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 17:32:50 GMT",
-        "category": "Top News"
       },
       {
         "title": "Father's house rammed before son died in A66 crash",
@@ -147,79 +141,12 @@
     ],
     "reuters": [
       {
-        "title": "Nvidia revenue, return on investment key, says portfolio manager",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc5099c14162843e0fcf5b375ae8&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW781225082026RP1%2f&amp;c=13351560277858890440&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 13:14:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. Secret Service aware of Iranian video threat against Barron Trump",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc5099c14162843e0fcf5b375ae8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fus-secret-service-aware-iranian-video-threat-against-barron-trump-2026-08-25%2f&amp;c=16062273007457893892&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 12:46:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dolly Parton, queen of country music, dies at 80",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc5099c14162843e0fcf5b375ae8&amp;url=https%3a%2f%2fwww.reuters.com%2flifestyle%2fdolly-parton-has-died-family-says-2026-08-25%2f&amp;c=13411551884476734427&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 12:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "California AG says no settlement talks scheduled with Paramount",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc5099c14162843e0fcf5b375ae8&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fcalifornia-ag-says-no-settlement-talks-scheduled-with-paramount-2026-08-25%2f&amp;c=2250412251556054959&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 11:29:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Instagram head Adam Mosseri begins testimony at Meta child social media addiction trial",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc5099c14162843e0fcf5b375ae8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2finstagram-head-adam-mosseri-testify-meta-trial-2026-08-25%2f&amp;c=8708140664104993865&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 08:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration defends Kennedy Center renaming plan, warns of demolition risk",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc5099c14162843e0fcf5b375ae8&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-administration-says-new-kennedy-center-renaming-does-not-violate-court-2026-08-25%2f&amp;c=7103463874397504047&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 08:50:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc5099c14162843e0fcf5b375ae8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fcanada-announces-20-bln-retaliatory-tariffs-us-goods-unveils-support-measures-2026-08-25%2f&amp;c=4208574364511689519&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 08:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "JPMorgan hiring Citigroup's McDow to run east coast tech investment bank, memo says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc5099c14162843e0fcf5b375ae8&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fjpmorgan-hiring-citigroups-mcdow-run-east-coast-tech-investment-bank-memo-says-2026-08-25%2f&amp;c=12349307043426041468&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 07:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pennsylvania reports first U.S. measles deaths this year as outbreak grows",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc5099c14162843e0fcf5b375ae8&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fpennsylvania-reports-two-deaths-measles-health-department-says-2026-08-25%2f&amp;c=4472027153182404846&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 06:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lego sales rise as World Cup products draw new customers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8dfc53cb894d4d9766e22d0d8e5634&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2flego-sales-rise-world-cup-products-draw-new-customers-2026-08-25%2f&amp;c=6128272322770558779&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 00:01:00 GMT",
-        "category": "world"
+        "title": "Iran vows to resist widened US sanctions, says Washington seeks talks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e182761c248678b2bf2dd53d55c20&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2firan-vows-retaliate-after-us-widens-sanctions-2026-08-25%2f&amp;c=139067620503073444&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 15:03:00 GMT",
+        "category": "us"
       }
     ],
-    "markets": [
-      {
-        "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-        "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-        "pubDate": "Tue, 25 Aug 2026 20:32:15 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
-        "link": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
-        "pubDate": "Tue, 25 Aug 2026 17:00:01 GMT",
-        "category": "health"
-      }
-    ]
+    "markets": []
   }
 }
