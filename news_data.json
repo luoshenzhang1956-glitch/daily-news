@@ -1,101 +1,82 @@
 {
-  "updated_at": "2026-08-25T08:51:24.020377",
+  "updated_at": "2026-08-25T10:40:51.659973",
   "news": {
-    "ap": [
-      {
-        "title": "8-year-old Louisiana girl dies from a rare brain-eating amoeba found in warm freshwater",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d5715e2e740b4bfc42a2d810dc415&amp;url=https%3a%2f%2fapnews.com%2farticle%2flouisiana-brain-amoeba-lillian-smart-25acf0aad67cd7cd2197dfe2d624e18d&amp;c=2079490820430641286&amp;mkt=en-us",
-        "pubDate": "Mon, 24 Aug 2026 15:05:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Zillow and Redfin resolve litigation over deal FTC claims suppresses rental listings competition",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d570e175246228548fed5f65b19dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fzillow-redfin-ftc-lawsuit-rental-ads-232e60707cc47f1a62bab7757b1b5f27&amp;c=5767933317358662259&amp;mkt=en-us",
-        "pubDate": "Mon, 24 Aug 2026 13:27:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Feds may end Ohio manufacturing program after audit cites $20.9 million in misspending",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d5712ec7c46edac12f8ed852da003&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmanufacturing-extension-partnership-ohio-federal-audit-20e52ffcb800eee3eb37e18099726d48&amp;c=14643646807485273448&amp;mkt=en-us",
-        "pubDate": "Mon, 24 Aug 2026 13:14:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Strikes in Gaza kill 4, including 2 children, a week after US asked Israel to curb attacks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d570cdea649b2b2b0eddf3309532e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgaza-israel-war-hamas-strikes-palestinians-39f50725df3fc132adabef2a8cbec9c5&amp;c=11904514525054653486&amp;mkt=en-us",
-        "pubDate": "Mon, 24 Aug 2026 11:56:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Playoff race tightens as the WNBA nears the World Cup break",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d570941bc417c84a029d070235815&amp;url=https%3a%2f%2fapnews.com%2farticle%2flynx-valkyries-wnba-playoffs-b779435647d6bee64c3717751aa02867&amp;c=10306326549163863775&amp;mkt=en-us",
-        "pubDate": "Mon, 24 Aug 2026 10:23:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
-        "title": "Canada to announce retaliatory tariffs on the U.S. as ties deteriorate",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5943075/canada-to-announce-retaliatory-tariffs-on-the-u-s-as-ties-deteriorate",
-        "pubDate": "Tue, 25 Aug 2026 04:44:10 -0400",
-        "category": "world"
+        "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
+        "link": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
+        "pubDate": "Tue, 25 Aug 2026 06:30:00 -0400",
+        "category": "business"
       },
       {
-        "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
-        "pubDate": "Tue, 25 Aug 2026 01:24:16 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
-        "pubDate": "Tue, 25 Aug 2026 01:14:03 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
-        "pubDate": "Tue, 25 Aug 2026 00:56:29 -0400",
+        "title": "Trump administration unveils new Iran sanctions",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943570/trump-administration-unveils-new-iran-sanctions",
+        "pubDate": "Tue, 25 Aug 2026 06:28:31 -0400",
         "category": "us"
       },
       {
-        "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
-        "pubDate": "Mon, 24 Aug 2026 18:22:13 -0400",
-        "category": "Top News"
+        "title": "Can Trump&apos;s economic war against Iran do what airstrikes and negotiations couldn&apos;t?",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+        "pubDate": "Tue, 25 Aug 2026 05:07:09 -0400",
+        "category": "world"
       },
       {
-        "title": "A look at the future of brain research funding, from a kids&apos; camp for TBI survivors",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5936521/a-look-at-the-future-of-brain-research-funding-from-a-kids-camp-for-tbi-survivors",
-        "pubDate": "Mon, 24 Aug 2026 18:09:37 -0400",
+        "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
         "category": "health"
       },
       {
-        "title": "The latest twists and turns in the proposed Paramount and Warner Bros. merger",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5940824/the-latest-twists-and-turns-in-the-proposed-paramount-and-warner-bros-merger",
-        "pubDate": "Mon, 24 Aug 2026 17:38:29 -0400",
-        "category": "business"
+        "title": "How to understand this heat wave (as told by NPR&apos;s senior climate editor)",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "When is suspending students discrimination? Education Dept. renews an old fight",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "OpenAI says it will slow its AI model development to shore up safety",
         "link": "https://www.npr.org/2026/08/24/nx-s1-5943167/openai-says-it-will-slow-its-ai-model-development-to-shore-up-safety",
         "pubDate": "Mon, 24 Aug 2026 17:17:36 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
-        "pubDate": "Mon, 24 Aug 2026 17:17:31 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-        "pubDate": "Mon, 24 Aug 2026 16:53:45 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Man dies in crash after police pursuit",
+        "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 10:14:21 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
+        "link": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 10:06:04 GMT",
+        "category": "Top News"
+      },
       {
         "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
         "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&amp;at_campaign=rss",
@@ -107,12 +88,6 @@
         "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 25 Aug 2026 08:08:26 GMT",
         "category": "world"
-      },
-      {
-        "title": "Lockerbie bombing trial postponed days before it was due to start",
-        "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 06:59:03 GMT",
-        "category": "Top News"
       },
       {
         "title": "Burnham refuses to rule out tax rises in autumn Budget",
@@ -145,93 +120,13 @@
         "category": "health"
       },
       {
-        "title": "The grieving family who say the coroners' courts aren't working",
-        "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 24 Aug 2026 23:09:16 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
         "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 24 Aug 2026 22:13:20 GMT",
         "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "Nvidia shares set for $280 billion price swing after earnings, options show",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d5719ecf447bfb52fd9d9f29574e2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnvidia-shares-set-280-billion-price-swing-after-earnings-options-show-2026-08-25%2f&amp;c=6941763529942470419&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 01:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Six months into Iran war, almost half of global oil flows from war zones",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d5719ecf447bfb52fd9d9f29574e2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fsix-months-into-iran-war-almost-half-global-oil-flows-war-zones-2026-08-25%2f&amp;c=5378718250499279988&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 01:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tesla raises prices of Cybertrucks in the US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d5719ecf447bfb52fd9d9f29574e2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2ftesla-raises-prices-cybertrucks-us-2026-08-25%2f&amp;c=8657444351282033581&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 01:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d5719ecf447bfb52fd9d9f29574e2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fbitcoin-rises-above-80000-soft-dollar-debasement-fears-boost-momentum-2026-08-25%2f&amp;c=2355314636339042399&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 01:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran vows to retaliate after US widens sanctions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d57203ba64a5f8d266f5a34be1bf2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2firan-vows-retaliate-after-us-widens-sanctions-2026-08-25%2f&amp;c=139067620503073444&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 01:05:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Melrose shares climb on Garden Grove plant reopening timeline",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d5719ecf447bfb52fd9d9f29574e2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmelrose-shares-climb-garden-grove-plant-reopening-timeline-2026-08-25%2f&amp;c=5980169537898959626&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 00:53:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stablecoin card spending forecast to hit $50 billion a year by 2028 - RedotPay",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d5719ecf447bfb52fd9d9f29574e2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fstablecoin-card-spending-forecast-hit-50-billion-year-by-2028-redotpay-2026-08-25%2f&amp;c=2866547832083771930&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 00:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lego sales rise as World Cup products draw new customers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d571cccb64b32ba4dcf422fe9a301&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2flego-sales-rise-world-cup-products-draw-new-customers-2026-08-25%2f&amp;c=6128272322770558779&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 00:01:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "US Treasury buybacks a 'mistake' costing credibility, says Druckenmiller",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d5719ecf447bfb52fd9d9f29574e2&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fus-treasury-buybacks-mistake-costing-credibility-says-druckenmiller-2026-08-25%2f&amp;c=1084393607938086261&amp;mkt=en-us",
-        "pubDate": "Mon, 24 Aug 2026 23:44:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8d5719ecf447bfb52fd9d9f29574e2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrumps-approval-holds-record-low-us-support-iran-war-falls-reuters-ipsos-poll-2026-08-24%2f&amp;c=3680237485866594739&amp;mkt=en-us",
-        "pubDate": "Mon, 24 Aug 2026 12:06:00 GMT",
-        "category": "Top News"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
-        "link": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
-        "pubDate": "Tue, 25 Aug 2026 07:00:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Tuesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
-        "link": "https://www.cnbc.com/2026/08/24/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "pubDate": "Mon, 24 Aug 2026 23:24:12 GMT",
-        "category": "us"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
