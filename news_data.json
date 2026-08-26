@@ -1,26 +1,25 @@
 {
-  "updated_at": "2026-08-26T04:47:51.646312",
+  "updated_at": "2026-08-26T06:59:30.388919",
   "news": {
-    "ap": [
-      {
-        "title": "BlueCo clubs Chelsea and Strasbourg do transfer business again as Kellyman moves to France",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e6f5ea2394694a81cafafd7ee908d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchelsea-strasbourg-kellyman-1527f6f7d0a5c8379897b0aeeb2e3ce5&amp;c=7278720646419448340&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 09:05:00 GMT",
-        "category": "business"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Target faces renewed backlash for Halloween costume with &apos;minstrel show features&apos;",
+        "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
+        "pubDate": "Wed, 26 Aug 2026 01:45:58 -0400",
+        "category": "us"
+      },
+      {
+        "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
+        "pubDate": "Wed, 26 Aug 2026 01:45:34 -0400",
+        "category": "world"
+      },
       {
         "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
         "pubDate": "Tue, 25 Aug 2026 18:50:57 -0400",
         "category": "business"
-      },
-      {
-        "title": "Mexican cattle allowed in the U.S. after a yearlong ban",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5943100-e1/mexican-cattle-allowed-in-the-u-s-after-a-yearlong-ban",
-        "pubDate": "Tue, 25 Aug 2026 16:55:48 -0400",
-        "category": "us"
       },
       {
         "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
@@ -44,7 +43,7 @@
         "title": "Canada hits back at the U.S. with tariffs as the countries&apos; trade fight escalates",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
         "pubDate": "Tue, 25 Aug 2026 11:20:18 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "&apos;Forget about going back&apos;: 9 years on, Rohingya crisis enters dangerous phase",
@@ -59,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-        "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
-        "pubDate": "Tue, 25 Aug 2026 07:09:01 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
@@ -72,6 +65,18 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 06:24:42 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+        "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 05:14:12 GMT",
+        "category": "Top News"
+      },
       {
         "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
         "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&amp;at_campaign=rss",
@@ -97,16 +102,10 @@
         "category": "Top News"
       },
       {
-        "title": "Firms scramble for battery power in Spain and Portugal",
-        "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 23:09:31 GMT",
+        "title": "Tech Life",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyb?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 20:00:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Winter energy prices expected to rise to three-year high",
-        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 23:07:29 GMT",
-        "category": "business"
       },
       {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -121,12 +120,6 @@
         "category": "Top News"
       },
       {
-        "title": "Man dies in crash after police pursuit",
-        "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 19:39:44 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Dolly Parton: The life of an iconic country singer",
         "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 25 Aug 2026 18:27:22 GMT",
@@ -135,24 +128,72 @@
     ],
     "reuters": [
       {
-        "title": "US conservative gay rights group says it is ending advocacy for transgender causes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e6f8e52fe49d593fa141abcf09341&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-conservative-gay-rights-group-says-it-is-ending-advocacy-transgender-causes-2026-08-26%2f&amp;c=11848257217641792888&amp;mkt=en-us",
+        "title": "China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e8ea55f64444bacf22fb35f08beae&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fchinas-huawei-us-pc-maker-hp-sign-multi-year-wi-fi-patent-deal-2026-08-26%2f&amp;c=13742886394491473340&amp;mkt=en-us",
         "pubDate": "Tue, 25 Aug 2026 16:59:00 GMT",
-        "category": "us"
+        "category": "tech"
+      },
+      {
+        "title": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e8e82942c400c9a8c45845e702497&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fwar-strands-qatari-gas-6-months-us-sales-rise-european-stocks-plummet-2026-08-26%2f&amp;c=5829688559211489964&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 16:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How a Ukrainian commander sped through the 'kill zone' to save wounded troops",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e8e82942c400c9a8c45845e702497&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fhow-ukrainian-commander-sped-through-kill-zone-save-wounded-troops-2026-08-26%2f&amp;c=12448359375514822107&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 16:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US-Iran war sinks into energy trench warfare six months on",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e8e82942c400c9a8c45845e702497&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2freuters-open-interest%2fus-iran-war-sinks-into-energy-trench-warfare-six-months-2026-08-26%2f&amp;c=11775224078243262096&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 16:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "At least 15 infants killed in Islamabad hospital fire, local TV reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e8e82942c400c9a8c45845e702497&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fleast-14-infants-killed-islamabad-hospital-fire-local-tv-reports-2026-08-26%2f&amp;c=14148341490475953194&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 16:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China flexes its auto-safety chops with huge recall of Tesla, other cars",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e8e82942c400c9a8c45845e702497&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fchina-flexes-its-auto-safety-chops-with-huge-recall-tesla-other-cars-2026-08-26%2f&amp;c=14110677338782600590&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 16:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Meta, US states have discussed settling teen social media harm case, Bloomberg News reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e8e82942c400c9a8c45845e702497&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fmeta-us-states-have-discussed-settling-teen-social-media-harm-case-bloomberg-2026-08-26%2f&amp;c=18132492517000838156&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 16:59:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e8e82942c400c9a8c45845e702497&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-sends-saudi-nuclear-deal-congress-says-riyadh-must-recognize-israel-2026-08-25%2f&amp;c=17299937002766298757&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 16:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "U.S. Secret Service aware of Iranian video threat against Barron Trump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e8e82942c400c9a8c45845e702497&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fus-secret-service-aware-iranian-video-threat-against-barron-trump-2026-08-25%2f&amp;c=16062273007457893892&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 12:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dolly Parton, queen of country music, dies at 80",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e8e82942c400c9a8c45845e702497&amp;url=https%3a%2f%2fwww.reuters.com%2flifestyle%2fdolly-parton-has-died-family-says-2026-08-25%2f&amp;c=13411551884476734427&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 12:06:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Trump&apos;s Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
-        "link": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
-        "pubDate": "Wed, 26 Aug 2026 02:34:28 GMT",
-        "category": "world"
-      },
-      {
-        "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
-        "link": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
-        "pubDate": "Tue, 25 Aug 2026 17:00:01 GMT",
-        "category": "business"
+        "title": "Nvidia&apos;s &apos;expectations premium&apos; dogs the stock after earnings. Here&apos;s what analysts are watching",
+        "link": "https://www.cnbc.com/2026/08/25/nvidias-expectations-premium-dogs-the-stock-after-earnings.html",
+        "pubDate": "Tue, 25 Aug 2026 20:21:10 GMT",
+        "category": "us"
       }
     ]
   }
