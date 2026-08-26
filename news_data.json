@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-25T22:34:56.250794",
+  "updated_at": "2026-08-26T01:43:31.166372",
   "news": {
     "ap": [
       {
-        "title": "BlueCo clubs Chelsea and Strasbourg do transfer business again as Kellyman moves to France",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e17f873ef4c199f87d85114962c6c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchelsea-strasbourg-kellyman-1527f6f7d0a5c8379897b0aeeb2e3ce5&amp;c=7278720646419448340&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 09:05:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "World Cup winners including Thomas M&#252;ller buy Portuguese top-flight team in $47M deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e17e7a8f7422397421d6927689697&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmuller-hummels-hernandez-estrela-sale-ccd96d90ea6448fd39bb49095fb31d16&amp;c=2242019376300255182&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 07:21:00 GMT",
-        "category": "world"
+        "title": "Florida, hard-hit by Obamacare drop-off, feels the squeeze of rising healthcare costs",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e442843b04aebb8e1eab2457cf071&amp;url=https%3a%2f%2fapnews.com%2farticle%2faffordable-care-act-obamacare-subsidies-florida-health-b224d1bdb33690d8d2ddeb094437bdc8&amp;c=17230578611279898713&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 03:41:00 GMT",
+        "category": "health"
       }
     ],
     "npr": [
+      {
+        "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
+        "pubDate": "Tue, 25 Aug 2026 18:50:57 -0400",
+        "category": "business"
+      },
       {
         "title": "Mexican cattle allowed in the U.S. after a yearlong ban",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943100-e1/mexican-cattle-allowed-in-the-u-s-after-a-yearlong-ban",
@@ -23,7 +23,7 @@
         "category": "us"
       },
       {
-        "title": "South Carolina U.S. senate runoff election will test Trump&apos;s endorsement",
+        "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
         "pubDate": "Tue, 25 Aug 2026 16:47:54 -0400",
         "category": "Top News"
@@ -65,12 +65,6 @@
         "category": "Top News"
       },
       {
-        "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
-        "link": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
-        "pubDate": "Tue, 25 Aug 2026 06:30:00 -0400",
-        "category": "business"
-      },
-      {
         "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
@@ -79,10 +73,34 @@
     ],
     "bbc": [
       {
-        "title": "Trump says all mines cleared from Strait of Hormuz",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 21:23:41 GMT",
+        "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+        "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 01:32:07 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Nicotine vapes best chance to quit smoking, major review finds",
+        "link": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 23:40:38 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
+        "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 23:13:34 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
+        "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 23:11:15 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Winter energy prices expected to rise to three-year high",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 23:07:29 GMT",
+        "category": "business"
       },
       {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -103,12 +121,6 @@
         "category": "Top News"
       },
       {
-        "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
-        "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 19:11:40 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Dolly Parton: The life of an iconic country singer",
         "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 25 Aug 2026 18:27:22 GMT",
@@ -119,31 +131,13 @@
         "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 25 Aug 2026 17:30:40 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 08:08:26 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Songs created by AI banned from Australia's music charts",
-        "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 04:54:01 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "HPV home-testing kits available for women in England who have missed cervical screening",
-        "link": "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 24 Aug 2026 23:27:50 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Iran vows to resist widened US sanctions, says Washington seeks talks",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e182761c248678b2bf2dd53d55c20&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2firan-vows-retaliate-after-us-widens-sanctions-2026-08-25%2f&amp;c=139067620503073444&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 15:03:00 GMT",
+        "title": "In win for Trump, Graham secures Republican nomination for US Senate in South Carolina",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e4448f59e4cc48c3cafd78066db2e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fdarline-graham-vies-senate-seat-with-trumps-clout-line-2026-08-25%2f&amp;c=17307605998676041172&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 03:02:00 GMT",
         "category": "us"
       }
     ],
