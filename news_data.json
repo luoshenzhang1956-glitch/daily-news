@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-26T01:43:31.166372",
+  "updated_at": "2026-08-26T03:13:14.168018",
   "news": {
-    "ap": [
-      {
-        "title": "Florida, hard-hit by Obamacare drop-off, feels the squeeze of rising healthcare costs",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e442843b04aebb8e1eab2457cf071&amp;url=https%3a%2f%2fapnews.com%2farticle%2faffordable-care-act-obamacare-subsidies-florida-health-b224d1bdb33690d8d2ddeb094437bdc8&amp;c=17230578611279898713&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 03:41:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
@@ -73,10 +66,10 @@
     ],
     "bbc": [
       {
-        "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-        "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 01:32:07 GMT",
-        "category": "tech"
+        "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+        "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 23:50:53 GMT",
+        "category": "Top News"
       },
       {
         "title": "Nicotine vapes best chance to quit smoking, major review finds",
@@ -95,6 +88,12 @@
         "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 25 Aug 2026 23:11:15 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Firms scramble for battery power in Spain and Portugal",
+        "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 25 Aug 2026 23:09:31 GMT",
+        "category": "tech"
       },
       {
         "title": "Winter energy prices expected to rise to three-year high",
@@ -125,22 +124,29 @@
         "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 25 Aug 2026 18:27:22 GMT",
         "category": "us"
-      },
-      {
-        "title": "Father's house rammed before son died in A66 crash",
-        "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 17:30:40 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "In win for Trump, Graham secures Republican nomination for US Senate in South Carolina",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e4448f59e4cc48c3cafd78066db2e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fdarline-graham-vies-senate-seat-with-trumps-clout-line-2026-08-25%2f&amp;c=17307605998676041172&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 03:02:00 GMT",
-        "category": "us"
+        "title": "The business case for human rights is more important and urgent than ever",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e596ebea446668880dea1e56916ec&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fsociety-equity%2fbusiness-case-human-rights-is-more-important-urgent-than-ever--ecmii-2026-08-25%2f&amp;c=16541397790901373477&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 08:15:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8e59702dcc49e1937ffe9c45ad5a99&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fgoogle-expands-gemini-ai-platform-law-firms-lawyers-2026-08-25%2f&amp;c=14696068596705873654&amp;mkt=en-us",
+        "pubDate": "Tue, 25 Aug 2026 05:03:00 GMT",
+        "category": "tech"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company&apos;s WiFi tech",
+        "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+        "pubDate": "Wed, 26 Aug 2026 02:01:01 GMT",
+        "category": "tech"
+      }
+    ]
   }
 }
