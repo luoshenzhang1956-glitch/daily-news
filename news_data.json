@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-08-26T13:05:01.461523",
+  "updated_at": "2026-08-26T14:53:13.891058",
   "news": {
-    "ap": [
-      {
-        "title": "Release of Marine veteran from Russian custody turns focus to other detainees with health concerns",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ee3ec89fe4cc79a0a29c816d21831&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussia-state-department-prisoners-gilman-release-5e27816ea4e216da8829eab0ca26e965&amp;c=3843121277092746201&amp;mkt=en-us",
-        "pubDate": "Tue, 25 Aug 2026 21:08:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Dolly Parton didn&apos;t just write hits \u2014 she created an American songbook",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
+        "pubDate": "Wed, 26 Aug 2026 09:46:34 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Meta, states agree to $17 billion settlement in child safety trial",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+        "pubDate": "Wed, 26 Aug 2026 09:33:39 -0400",
+        "category": "business"
+      },
       {
         "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
         "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
@@ -35,33 +40,21 @@
         "category": "health"
       },
       {
+        "title": "COMIC: Trying for a baby? These lifestyle habits may boost your fertility odds",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
+        "pubDate": "Wed, 26 Aug 2026 05:02:00 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "She got an electric bill for $1,373. She&apos;s not alone",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
         "pubDate": "Wed, 26 Aug 2026 05:01:00 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Hollywood&apos;s summer box office is glowing, but the numbers come with startling caveats",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
         "pubDate": "Wed, 26 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Hospital nursery fire kills 14 newborns in Pakistan&apos;s capital, officials order immediate inquiry",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-        "pubDate": "Wed, 26 Aug 2026 03:34:59 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Test your global economic knowledge with this quick Planet Money quiz!",
-        "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
-        "pubDate": "Wed, 26 Aug 2026 03:30:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Target faces renewed backlash for Halloween costume with &apos;minstrel show features&apos;",
-        "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
-        "pubDate": "Wed, 26 Aug 2026 01:45:58 -0400",
         "category": "Top News"
       },
       {
@@ -73,15 +66,33 @@
     ],
     "bbc": [
       {
-        "title": "Prince Harry and Meghan land in UK days after announcing move",
-        "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 13:01:51 GMT",
+        "title": "Stourbridge fire started accidentally, say investigators",
+        "link": "https://www.bbc.co.uk/news/articles/c5ye3ld87y1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 14:48:02 GMT",
         "category": "Top News"
       },
       {
         "title": "Murder probe as two people dead in house fire in Middlesbrough",
         "link": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 12:53:26 GMT",
+        "pubDate": "Wed, 26 Aug 2026 14:34:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: How Dolly became a fashion icon",
+        "link": "https://www.bbc.co.uk/news/videos/cy7z8pz25k8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 14:24:43 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Meta agrees to pay up to $17.1bn to settle social media case",
+        "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 14:10:17 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Prince Harry and Meghan land in UK days after announcing move",
+        "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 13:01:51 GMT",
         "category": "Top News"
       },
       {
@@ -91,9 +102,9 @@
         "category": "Top News"
       },
       {
-        "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-        "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 12:32:47 GMT",
+        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+        "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 11:32:11 GMT",
         "category": "world"
       },
       {
@@ -101,12 +112,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 26 Aug 2026 11:03:50 GMT",
         "category": "business"
-      },
-      {
-        "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
-        "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 10:29:36 GMT",
-        "category": "Top News"
       },
       {
         "title": "Dolly Parton was the one thing most Americans could agree on",
@@ -119,26 +124,14 @@
         "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 26 Aug 2026 04:07:48 GMT",
         "category": "health"
-      },
-      {
-        "title": "AI gold rush draws crypto firms away from Bitcoin",
-        "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 23:11:02 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
-        "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 25 Aug 2026 18:27:22 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "China's Huawei, US PC maker HP sign multi-year Wi-Fi patent deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ee42f1da14a12b2c5bca02a241fc5&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fchinas-huawei-us-pc-maker-hp-sign-multi-year-wi-fi-patent-deal-2026-08-26%2f&amp;c=13742886394491473340&amp;mkt=en-us",
-        "pubDate": "Wed, 26 Aug 2026 03:50:00 GMT",
-        "category": "tech"
+        "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate, and more",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8efd5782b64f56a46e22e628f5f816&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-sponsored-hacking-platforms-seized-by-us-justice-department-says-2026-08-26%2f&amp;c=9600909888898764802&amp;mkt=en-us",
+        "pubDate": "Wed, 26 Aug 2026 07:32:00 GMT",
+        "category": "us"
       }
     ],
     "markets": []
