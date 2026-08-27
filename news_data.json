@@ -1,32 +1,37 @@
 {
-  "updated_at": "2026-08-26T23:13:56.909861",
+  "updated_at": "2026-08-27T08:38:55.859134",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "NFL and players association announce Behavioral Health Network for mental health assistance",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8f7287b70c4c148da266b81cf33d02&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnfl-behavioral-health-d35ee31d8a8384bab844e20de45b646b&amp;c=1371533952371405990&amp;mkt=en-us",
-        "pubDate": "Wed, 26 Aug 2026 13:07:00 GMT",
+        "title": "Why Meta&apos;s settlement could be an &apos;inflection point&apos; for reining in Big Tech",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5945278/meta-settlement-child-safety-big-tech",
+        "pubDate": "Thu, 27 Aug 2026 03:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "FDA approves landmark pancreatic cancer drug that&apos;s shown to improve survival",
+        "link": "https://www.npr.org/2026/08/27/g-s1-140410/fda-approves-landmark-pancreatic-cancer-drug",
+        "pubDate": "Thu, 27 Aug 2026 02:54:35 -0400",
         "category": "health"
       },
       {
-        "title": "Army to spend $2B to build nuclear microreactors at 5 bases as US seeks to ramp up nuclear power",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8f726861974b05a154683814d47e09&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnuclear-trump-army-microreactors-janus-200edd5fb98b6fe04d029a3c1dba1a4a&amp;c=9254297676136558903&amp;mkt=en-us",
-        "pubDate": "Wed, 26 Aug 2026 13:01:00 GMT",
-        "category": "us"
-      }
-    ],
-    "npr": [
+        "title": "Official leading Trump&apos;s Gaza ceasefire effort criticizes Israel for its attacks",
+        "link": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
+        "pubDate": "Thu, 27 Aug 2026 02:04:56 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Yayoi Kusama, high priestess of polka dots, has died",
+        "link": "https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died",
+        "pubDate": "Wed, 26 Aug 2026 23:42:56 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Drugstores say Medicare&apos;s $50 obesity drug program is catching on",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs",
         "pubDate": "Wed, 26 Aug 2026 17:11:42 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Amid rising threats, a WNBA team calls in experts on violent extremism",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5915634/amid-rising-threats-a-wnba-team-calls-in-experts-on-violent-extremism",
-        "pubDate": "Wed, 26 Aug 2026 16:19:24 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Meta agrees to $17 billion settlement and new protections for teens",
@@ -44,30 +49,12 @@
         "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
         "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
         "pubDate": "Wed, 26 Aug 2026 13:36:13 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "States try new tactics to bring down high hospital prices",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
         "pubDate": "Wed, 26 Aug 2026 13:29:13 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Judge clears the way for Postal Service work on Trump&apos;s mail-in voting order for now",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
-        "pubDate": "Wed, 26 Aug 2026 13:15:17 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Will Trump&apos;s latest beef plan make your hamburger cheaper? Not much, experts say",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
-        "pubDate": "Wed, 26 Aug 2026 10:58:58 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "How Dolly Parton wrote the story of a changing America",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
-        "pubDate": "Wed, 26 Aug 2026 09:46:34 -0400",
         "category": "Top News"
       },
       {
@@ -79,15 +66,51 @@
     ],
     "bbc": [
       {
+        "title": "Two teenagers, 13 and 14, among 33 UK nationals missing",
+        "link": "https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 27 Aug 2026 07:13:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Rescue teams pull survivors from thick mud",
+        "link": "https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 27 Aug 2026 06:02:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Japanese polka dot artist Yayoi Kusama dies aged 97",
+        "link": "https://www.bbc.co.uk/news/articles/c3v4k0re3vwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 27 Aug 2026 05:47:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 27 Aug 2026 00:12:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dozens of US and Canadian citizens missing after flash flooding in Nepal",
+        "link": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 23:14:14 GMT",
+        "category": "us"
+      },
+      {
         "title": "Treatment involving patient's family cuts mental health hospital admissions, study finds",
         "link": "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 26 Aug 2026 23:07:51 GMT",
         "category": "health"
       },
       {
-        "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
-        "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 23:06:41 GMT",
+        "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
+        "link": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 23:07:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+        "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 26 Aug 2026 23:04:24 GMT",
         "category": "business"
       },
       {
@@ -97,49 +120,81 @@
         "category": "tech"
       },
       {
-        "title": "Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 21:29:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-        "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 21:27:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "BBC visits hospital in Kathmandu as families wait for news",
-        "link": "https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 21:15:34 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Rocky Horror star Tim Curry dies at 80",
-        "link": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 19:53:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New thunderstorm warnings for parts of UK as rain set to continue",
-        "link": "https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 19:15:35 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
         "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 26 Aug 2026 11:32:11 GMT",
         "category": "world"
-      },
-      {
-        "title": "Dolly Parton was the one thing most Americans could agree on",
-        "link": "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 26 Aug 2026 08:11:14 GMT",
-        "category": "us"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Nvidia rises after signaling longer AI spending runway",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ff7108dee484894f7d5453bd285aa&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fnvidia-rises-after-signaling-longer-ai-spending-runway-2026-08-27%2f&amp;c=16572294753713113380&amp;mkt=en-us",
+        "pubDate": "Thu, 27 Aug 2026 01:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nepal floods live: Nearly 1,500 missing, including foreign tourists, as death toll rises",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ff7108dee484894f7d5453bd285aa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fnepal-floods-live-nearly-1500-missing-including-tourists-death-toll-rises-2026-08-27%2f&amp;c=6639323492991689480&amp;mkt=en-us",
+        "pubDate": "Thu, 27 Aug 2026 01:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Shein's Hong Kong IPO pricing values company at $26.5 billion, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ff7108dee484894f7d5453bd285aa&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fshein-set-raise-17-billion-hong-kong-ipo-sources-say-2026-08-27%2f&amp;c=150914854307645181&amp;mkt=en-us",
+        "pubDate": "Thu, 27 Aug 2026 01:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bessent, Warsh diverge on who should set the price of money",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ff7108dee484894f7d5453bd285aa&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fbessent-warsh-diverge-who-should-set-price-money-2026-08-27%2f&amp;c=17381409180853918476&amp;mkt=en-us",
+        "pubDate": "Thu, 27 Aug 2026 00:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "A mass kidnapping is testing Nigeria's government",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ff7108dee484894f7d5453bd285aa&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW821227082026RP1%2f&amp;c=10130115482621401756&amp;mkt=en-us",
+        "pubDate": "Thu, 27 Aug 2026 00:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Meta settlement opens new front in global fight over social media harm",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ff7108dee484894f7d5453bd285aa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fmeta-settlement-opens-new-front-global-fight-over-social-media-harm-2026-08-27%2f&amp;c=5210652124539769718&amp;mkt=en-us",
+        "pubDate": "Thu, 27 Aug 2026 00:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Japan's Yayoi Kusama, who turned hallucinations into art, dies at 97",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ff7108dee484894f7d5453bd285aa&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fjapanese-artist-yayoi-kusama-dies-97-kyodo-says-2026-08-27%2f&amp;c=788268886198144992&amp;mkt=en-us",
+        "pubDate": "Thu, 27 Aug 2026 00:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Warsh\u2019s tight lip test",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ff7108dee484894f7d5453bd285aa&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW817727082026RP1%2f&amp;c=14341294808409135062&amp;mkt=en-us",
+        "pubDate": "Wed, 26 Aug 2026 23:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China\u2019s humanoid robots aren\u2019t smart enough to take your job \u2013 yet",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ff7108dee484894f7d5453bd285aa&amp;url=https%3a%2f%2fwww.reuters.com%2finvestigations%2fchinas-humanoid-robots-arent-smart-enough-take-your-job-yet-2026-08-27%2f&amp;c=3578370311230037538&amp;mkt=en-us",
+        "pubDate": "Wed, 26 Aug 2026 22:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a8ff7108dee484894f7d5453bd285aa&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fnvidia-forecasts-quarterly-revenue-above-estimates-2026-08-26%2f&amp;c=7636268862211495811&amp;mkt=en-us",
+        "pubDate": "Wed, 26 Aug 2026 13:24:00 GMT",
+        "category": "Top News"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Nvidia jumps 7% in after blockbuster earnings boost AI confidence",
+        "link": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+        "pubDate": "Thu, 27 Aug 2026 08:28:05 GMT",
+        "category": "world"
+      }
+    ]
   }
 }
