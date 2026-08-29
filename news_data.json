@@ -1,32 +1,44 @@
 {
-  "updated_at": "2026-08-28T20:09:15.812634",
+  "updated_at": "2026-08-29T03:37:42.137159",
   "news": {
     "ap": [
       {
-        "title": "US targets Egyptian bank\u2019s UAE branches under new push for Iran\u2019s economic isolation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a91ea68f8d6407b9e2ea8d8af85ec09&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-economic-isolation-sanctions-trump-bessent-ae1c438ff169effa0c63a56a93ca23ae&amp;c=14053783251606867743&amp;mkt=en-us",
-        "pubDate": "Fri, 28 Aug 2026 08:33:00 GMT",
-        "category": "business"
+        "title": "Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a925384ec204433a3a3da40be857b07&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-venezuela-oil-reserves-eb0ed5a1e99602c21a7f690c3368020e&amp;c=51131543677284469&amp;mkt=en-us",
+        "pubDate": "Fri, 28 Aug 2026 16:05:00 GMT",
+        "category": "us"
       },
       {
-        "title": "Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a91ea67cc074d96882498a8cc376aa6&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffederal-reserve-warsh-interest-trump-inflation-ab896df808df3a5a3fa8b943ac5f3867&amp;c=12954172235154704685&amp;mkt=en-us",
-        "pubDate": "Fri, 28 Aug 2026 06:22:00 GMT",
-        "category": "us"
+        "title": "Juul gets OK to sell updated vaping device with age-gating technology",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a925386f56a49f6bdcca85129a6f35d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjuul-vape-update-fda-age-verification-juul2-10c93d78a67bf5e4be25f437528fb416&amp;c=5898855715225392842&amp;mkt=en-us",
+        "pubDate": "Fri, 28 Aug 2026 13:30:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "US targets Egyptian bank\u2019s UAE branches under new push for Iran\u2019s economic isolation",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a925385bcbe4b4f955ebef25cc22ffc&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-economic-isolation-sanctions-trump-bessent-ae1c438ff169effa0c63a56a93ca23ae&amp;c=14053783251606867743&amp;mkt=en-us",
+        "pubDate": "Fri, 28 Aug 2026 08:33:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
       {
-        "title": "After six months of war, Iranians live in fear and hardship",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5945071/after-six-months-of-war-iranians-live-in-fear-and-hardship",
-        "pubDate": "Fri, 28 Aug 2026 15:52:45 -0400",
+        "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+        "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+        "pubDate": "Fri, 28 Aug 2026 22:07:55 -0400",
         "category": "world"
       },
       {
-        "title": "A conversation about doctors, addiction patients and stigma",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5945729/a-conversation-about-doctors-addiction-patients-and-stigma",
-        "pubDate": "Fri, 28 Aug 2026 15:52:43 -0400",
-        "category": "health"
+        "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
+        "link": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
+        "pubDate": "Fri, 28 Aug 2026 20:06:04 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Social media restrictions on young users: What do the kids say?",
+        "link": "https://www.npr.org/2026/08/28/nx-s1-5947170/social-media-restrictions-on-young-users-what-do-the-kids-say",
+        "pubDate": "Fri, 28 Aug 2026 16:26:06 -0400",
+        "category": "business"
       },
       {
         "title": "After 6 months of war, Iran&apos;s battered regime remains entrenched",
@@ -38,7 +50,7 @@
         "title": "Fed&apos;s Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
         "link": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
         "pubDate": "Fri, 28 Aug 2026 12:05:40 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
@@ -62,93 +74,99 @@
         "title": "&apos;It&apos;s essentially been one long day&apos;: A daughter details search for parents in Nepal",
         "link": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
         "pubDate": "Fri, 28 Aug 2026 06:54:22 -0400",
-        "category": "us"
-      },
-      {
-        "title": "NASA is about to launch a space telescope that could change how we see the universe",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
-        "pubDate": "Fri, 28 Aug 2026 06:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "This week&apos;s quiz includes two Dolly Parton questions, because she deserves it",
-        "link": "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
+        "title": "4 ways to cope with constant thoughts about your body image",
+        "link": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help",
         "pubDate": "Fri, 28 Aug 2026 05:01:00 -0400",
-        "category": "Top News"
+        "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-        "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 19:45:39 GMT",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 02:42:27 GMT",
         "category": "us"
       },
       {
-        "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-        "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 19:40:45 GMT",
+        "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+        "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 00:56:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The race to stop England running out of water",
+        "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 00:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+        "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 00:32:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 28 Aug 2026 22:05:41 GMT",
         "category": "world"
       },
       {
-        "title": "What we know about the 33 British nationals missing in Nepal",
-        "link": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 19:21:57 GMT",
+        "title": "Man dies and at least six injured after sign falls at Christian festival",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 28 Aug 2026 21:41:12 GMT",
         "category": "Top News"
       },
       {
-        "title": "Norway's 'grandfather': King Harald remembered as son Haakon takes the throne",
-        "link": "https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 18:11:13 GMT",
+        "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+        "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 28 Aug 2026 21:17:54 GMT",
         "category": "Top News"
       },
       {
-        "title": "Wife of man who died after turbulence sues Singapore Airlines",
+        "title": "Wife of man who died after turbulence sues airline",
         "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 28 Aug 2026 17:47:00 GMT",
-        "category": "Top News"
+        "category": "business"
       },
       {
-        "title": "Videos show people survive floodwaters on balcony in Nepal",
-        "link": "https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 17:32:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-        "link": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 14:06:13 GMT",
-        "category": "Top News"
+        "title": "What are the symptoms of Hypermobility Spectrum Disorder?",
+        "link": "https://www.bbc.co.uk/news/videos/c4gvx94djpdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 28 Aug 2026 10:23:21 GMT",
+        "category": "health"
       },
       {
         "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
         "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 28 Aug 2026 05:11:16 GMT",
         "category": "tech"
-      },
-      {
-        "title": "NHS bosses warn of chaos in ADHD and autism care",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 01:23:09 GMT",
-        "category": "health"
-      },
-      {
-        "title": "I was spending \u00a3700 a month: How I beat my late-night shopping addiction",
-        "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 27 Aug 2026 23:04:21 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
+        "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9253bb1e514d149872de2715bb31ad&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwill-warshs-jackson-hole-speech-be-course-correction-or-detour-2026-08-28%2f&amp;c=7030662553057389271&amp;mkt=en-us",
+        "pubDate": "Fri, 28 Aug 2026 19:02:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Trump says US is taking partial control of Venezuela's vast oil reserves",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9253b8ec74406ca948290b0a18ae6e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-enters-into-oil-agreement-with-venezuela-trump-says-2026-08-28%2f&amp;c=3813147139578450765&amp;mkt=en-us",
+        "pubDate": "Fri, 28 Aug 2026 15:55:00 GMT",
+        "category": "us"
+      },
+      {
         "title": "Explainer: What to know about postpartum mental illness",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a91eac21e6745b6ad57389ceba737c7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fwhat-know-about-postpartum-mental-illness-2026-08-28%2f&amp;c=15242446283716260929&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9253c05b5c4d13b68afda8468ad473&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fwhat-know-about-postpartum-mental-illness-2026-08-28%2f&amp;c=15242446283716260929&amp;mkt=en-us",
         "pubDate": "Fri, 28 Aug 2026 08:15:00 GMT",
         "category": "health"
       },
       {
         "title": "Geely Auto Group Unveils AI-Powered Off-Road Technology to Combine All-Terrain Capability with Everyday Comfort",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a91eac026fa41eaa809287d3fbcf716&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fgeely-auto-ai-powered-off-road-technology-2026-08-28%2f&amp;c=13690489743545428539&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9253bedf60421eb1839a6bc610b3a5&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fgeely-auto-ai-powered-off-road-technology-2026-08-28%2f&amp;c=13690489743545428539&amp;mkt=en-us",
         "pubDate": "Fri, 28 Aug 2026 06:39:00 GMT",
         "category": "tech"
       }
@@ -157,20 +175,14 @@
       {
         "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
         "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-        "pubDate": "Fri, 28 Aug 2026 19:32:48 GMT",
+        "pubDate": "Sat, 29 Aug 2026 02:23:52 GMT",
         "category": "Top News"
       },
       {
-        "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
-        "link": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
-        "pubDate": "Fri, 28 Aug 2026 19:09:34 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Bolster your portfolio with these dividend-paying cash cows as midterms approach",
-        "link": "https://www.cnbc.com/2026/08/28/bolster-your-portfolio-with-these-dividend-paying-cash-cows-as-midterms-approach.html",
-        "pubDate": "Fri, 28 Aug 2026 18:41:20 GMT",
-        "category": "us"
+        "title": "Corn and wheat prices jump to highest prices in more than three years",
+        "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
+        "pubDate": "Fri, 28 Aug 2026 20:00:56 GMT",
+        "category": "Top News"
       },
       {
         "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
@@ -194,18 +206,6 @@
         "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here&apos;s what to expect",
         "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
         "pubDate": "Fri, 28 Aug 2026 11:39:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "BioCryst is profitable. Now it wants to buy more rare disease drugs",
-        "link": "https://www.cnbc.com/2026/08/28/biocryst-is-profitable-now-it-wants-to-buy-more-rare-disease-drugs.html",
-        "pubDate": "Fri, 28 Aug 2026 11:00:01 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi&apos;s Washington visit",
-        "link": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
-        "pubDate": "Fri, 28 Aug 2026 01:35:13 GMT",
         "category": "Top News"
       }
     ]
