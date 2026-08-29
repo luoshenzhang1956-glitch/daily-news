@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-29T16:34:58.856997",
+  "updated_at": "2026-08-29T20:47:56.307603",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Some US cities have begun rewarding careful drivers with fewer red lights",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9344e04aaa40b69b3321d73886418d&amp;url=https%3a%2f%2fapnews.com%2farticle%2frest-red-reward-drivers-portland-albuquerque-bcec5e0fe91dcaaaeb8f60e866ff7a37&amp;c=5308869796812821277&amp;mkt=en-us",
+        "pubDate": "Sat, 29 Aug 2026 03:07:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
       {
         "title": "Russian strike near Kyiv kills 37, in one of the year&apos;s deadliest attacks",
@@ -52,19 +59,43 @@
         "category": "Top News"
       },
       {
-        "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-        "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+        "title": "Why is one WNBA team calling in national security experts?",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
         "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Social media restrictions on young users: What do the kids say?",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5947170/social-media-restrictions-on-young-users-what-do-the-kids-say",
-        "pubDate": "Fri, 28 Aug 2026 16:26:06 -0400",
-        "category": "business"
+        "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+        "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+        "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 20:13:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Norway's new king remembers 'my dear father' in first speech",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 19:06:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man dies after train hits van on level crossing",
+        "link": "https://www.bbc.co.uk/news/articles/clylkwl5nd4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 18:38:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fundraiser launched to secure crafting shop future",
+        "link": "https://www.bbc.co.uk/news/articles/cz0zr3577glo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 18:15:54 GMT",
+        "category": "business"
+      },
       {
         "title": "Cleverly quits shadow cabinet to run for London mayor",
         "link": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&amp;at_campaign=rss",
@@ -78,21 +109,9 @@
         "category": "us"
       },
       {
-        "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
-        "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 29 Aug 2026 15:43:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 29 Aug 2026 15:27:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Christian festival 'devastated' as man dies after sign falls",
-        "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 29 Aug 2026 14:12:30 GMT",
+        "title": "Royal Navy warships track Russian vessels for three days in UK waters",
+        "link": "https://www.bbc.co.uk/news/articles/c93e88jzn54o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 12:05:03 GMT",
         "category": "Top News"
       },
       {
@@ -112,32 +131,20 @@
         "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 28 Aug 2026 21:17:54 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Wife of man who died after turbulence sues airline",
-        "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 17:47:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Satellite images reveal scale of flood devastation in Nepal villages",
-        "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 17:36:54 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Russia extends ban on diesel exports until September 30",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9309c67cdc4ea6b3081c51e9c80dbb&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2frussia-extends-ban-diesel-exports-until-september-30-2026-08-29%2f&amp;c=11072699478950175773&amp;mkt=en-us",
-        "pubDate": "Sat, 29 Aug 2026 06:53:00 GMT",
-        "category": "business"
+        "title": "Taiwan prosecutors search Unimicron in suspected China fraud case",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a934521f0734b96a932ea1a0e0e5980&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftaiwan-prosecutors-search-unimicron-suspected-china-fraud-case-2026-08-29%2f&amp;c=15855519031919072305&amp;mkt=en-us",
+        "pubDate": "Sat, 29 Aug 2026 08:44:00 GMT",
+        "category": "tech"
       },
       {
-        "title": "Taiwan prosecutors search Unimicron in suspected China fraud case",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9309c884064fd8a62122e2a78bf7d6&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2ftaiwan-prosecutors-search-unimicron-suspected-china-fraud-case-2026-08-29%2f&amp;c=15855519031919072305&amp;mkt=en-us",
-        "pubDate": "Sat, 29 Aug 2026 02:27:00 GMT",
-        "category": "tech"
+        "title": "Russia extends ban on diesel exports until September 30",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9345208f374e96a0100ecc9781bd2e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2frussia-extends-ban-diesel-exports-until-september-30-2026-08-29%2f&amp;c=11072699478950175773&amp;mkt=en-us",
+        "pubDate": "Sat, 29 Aug 2026 06:53:00 GMT",
+        "category": "business"
       }
     ],
     "markets": []
