@@ -1,27 +1,39 @@
 {
-  "updated_at": "2026-08-29T03:37:42.137159",
+  "updated_at": "2026-08-29T11:00:10.859810",
   "news": {
     "ap": [
       {
-        "title": "Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a925384ec204433a3a3da40be857b07&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-venezuela-oil-reserves-eb0ed5a1e99602c21a7f690c3368020e&amp;c=51131543677284469&amp;mkt=en-us",
-        "pubDate": "Fri, 28 Aug 2026 16:05:00 GMT",
-        "category": "us"
+        "title": "Measles deaths reported in Pennsylvania spark fight among politicians and health officials",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a92bb348d2f4796a60f2657b965748d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmeasles-deaths-pennsylvania-politics-health-f102d57041e1bd4757142c9ab927b123&amp;c=1934555632725050689&amp;mkt=en-us",
+        "pubDate": "Fri, 28 Aug 2026 16:12:00 GMT",
+        "category": "health"
       },
       {
         "title": "Juul gets OK to sell updated vaping device with age-gating technology",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a925386f56a49f6bdcca85129a6f35d&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjuul-vape-update-fda-age-verification-juul2-10c93d78a67bf5e4be25f437528fb416&amp;c=5898855715225392842&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a92bb33531c45e284225c05ce7e2592&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjuul-vape-update-fda-age-verification-juul2-10c93d78a67bf5e4be25f437528fb416&amp;c=5898855715225392842&amp;mkt=en-us",
         "pubDate": "Fri, 28 Aug 2026 13:30:00 GMT",
         "category": "tech"
-      },
-      {
-        "title": "US targets Egyptian bank\u2019s UAE branches under new push for Iran\u2019s economic isolation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a925385bcbe4b4f955ebef25cc22ffc&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-war-economic-isolation-sanctions-trump-bessent-ae1c438ff169effa0c63a56a93ca23ae&amp;c=14053783251606867743&amp;mkt=en-us",
-        "pubDate": "Fri, 28 Aug 2026 08:33:00 GMT",
-        "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
+        "pubDate": "Sat, 29 Aug 2026 06:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+        "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+        "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Why is one WNBA team calling in national security experts?",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
+        "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
         "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
@@ -32,7 +44,7 @@
         "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
         "link": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
         "pubDate": "Fri, 28 Aug 2026 20:06:04 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Social media restrictions on young users: What do the kids say?",
@@ -59,31 +71,31 @@
         "category": "Top News"
       },
       {
-        "title": "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address",
-        "link": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center",
-        "pubDate": "Fri, 28 Aug 2026 07:01:11 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "So long to shorts? In Silicon Valley, tech workers are showing less leg",
         "link": "https://www.npr.org/2026/08/28/nx-s1-5943596/shorts-work-office-silicon-valley-bloomberg",
         "pubDate": "Fri, 28 Aug 2026 07:00:00 -0400",
         "category": "tech"
-      },
-      {
-        "title": "&apos;It&apos;s essentially been one long day&apos;: A daughter details search for parents in Nepal",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
-        "pubDate": "Fri, 28 Aug 2026 06:54:22 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "4 ways to cope with constant thoughts about your body image",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help",
-        "pubDate": "Fri, 28 Aug 2026 05:01:00 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
+      {
+        "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 10:31:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Christian festival 'devastated' as man dies after sign falls",
+        "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 09:40:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 29 Aug 2026 03:54:11 GMT",
+        "category": "world"
+      },
       {
         "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
         "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
@@ -109,18 +121,6 @@
         "category": "Top News"
       },
       {
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 22:05:41 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Man dies and at least six injured after sign falls at Christian festival",
-        "link": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 21:41:12 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
         "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 28 Aug 2026 21:17:54 GMT",
@@ -133,44 +133,13 @@
         "category": "business"
       },
       {
-        "title": "What are the symptoms of Hypermobility Spectrum Disorder?",
-        "link": "https://www.bbc.co.uk/news/videos/c4gvx94djpdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 10:23:21 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-        "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 28 Aug 2026 05:11:16 GMT",
-        "category": "tech"
+        "title": "Satellite images reveal scale of flood devastation in Nepal villages",
+        "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 28 Aug 2026 17:36:54 GMT",
+        "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9253bb1e514d149872de2715bb31ad&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwill-warshs-jackson-hole-speech-be-course-correction-or-detour-2026-08-28%2f&amp;c=7030662553057389271&amp;mkt=en-us",
-        "pubDate": "Fri, 28 Aug 2026 19:02:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Trump says US is taking partial control of Venezuela's vast oil reserves",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9253b8ec74406ca948290b0a18ae6e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-enters-into-oil-agreement-with-venezuela-trump-says-2026-08-28%2f&amp;c=3813147139578450765&amp;mkt=en-us",
-        "pubDate": "Fri, 28 Aug 2026 15:55:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Explainer: What to know about postpartum mental illness",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9253c05b5c4d13b68afda8468ad473&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fwhat-know-about-postpartum-mental-illness-2026-08-28%2f&amp;c=15242446283716260929&amp;mkt=en-us",
-        "pubDate": "Fri, 28 Aug 2026 08:15:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Geely Auto Group Unveils AI-Powered Off-Road Technology to Combine All-Terrain Capability with Everyday Comfort",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9253bedf60421eb1839a6bc610b3a5&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fgeely-auto-ai-powered-off-road-technology-2026-08-28%2f&amp;c=13690489743545428539&amp;mkt=en-us",
-        "pubDate": "Fri, 28 Aug 2026 06:39:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
         "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
@@ -179,16 +148,22 @@
         "category": "Top News"
       },
       {
+        "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+        "link": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+        "pubDate": "Fri, 28 Aug 2026 23:42:26 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Stocks wrap up winning week even as inflation becomes top of mind for investors",
+        "link": "https://www.cnbc.com/2026/08/28/stocks-post-winning-week-as-inflation-becomes-top-of-mind-for-traders.html",
+        "pubDate": "Fri, 28 Aug 2026 20:28:04 GMT",
+        "category": "us"
+      },
+      {
         "title": "Corn and wheat prices jump to highest prices in more than three years",
         "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
         "pubDate": "Fri, 28 Aug 2026 20:00:56 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
-        "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
-        "pubDate": "Fri, 28 Aug 2026 17:44:02 GMT",
-        "category": "world"
       },
       {
         "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
