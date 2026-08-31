@@ -1,19 +1,62 @@
 {
-  "updated_at": "2026-08-31T17:31:27.023484",
+  "updated_at": "2026-08-31T22:43:45.122254",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Panda Diplomacy: A Mayor\u2019s Quest To Bring Pandas From China To Hawai\u02bbi",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960321b62c455b8a55e4778a17bd6b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhonolulu-mayor-rick-blangiardi-pandas-zoo-china-73fd11bd510b99edefc209335ba9158f&amp;c=13157655117001721618&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 15:17:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Japanese automakers Nissan and Honda agree to work together on software for cars",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960322041b4889a9c652174df3717b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnissan-honda-automakers-japan-software-collaboration-521bc44069a8d73fbd672e0cfd32a5bf&amp;c=15748954002732996424&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 02:30:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "Trump officials cut political interference ban after unusual Census Bureau report",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+        "pubDate": "Mon, 31 Aug 2026 18:24:12 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Some of the victims of the Nepal floods were pilgrims on a sacred journey",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5950037/some-of-the-victims-of-the-nepal-floods-were-pilgrims-on-a-sacred-journey",
+        "pubDate": "Mon, 31 Aug 2026 17:57:26 -0400",
+        "category": "world"
+      },
+      {
+        "title": "NPR&apos;s 2-year search for the truth about deaths from heat",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5950405/nprs-2-year-search-for-the-truth-about-deaths-from-heat",
+        "pubDate": "Mon, 31 Aug 2026 16:29:33 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
+        "pubDate": "Mon, 31 Aug 2026 16:21:47 -0400",
+        "category": "business"
+      },
+      {
+        "title": "The U.S. sues Amazon again",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
+        "pubDate": "Mon, 31 Aug 2026 16:17:03 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Paperwork, lines, hours on hold: There&apos;s a &apos;Time Tax&apos; on Americans who need help most",
         "link": "https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment",
         "pubDate": "Mon, 31 Aug 2026 13:06:39 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Lionel Messi says he&apos;s retiring from playing internationally for Argentina",
         "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
         "pubDate": "Mon, 31 Aug 2026 12:37:05 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Nepal&apos;s hesitance to accept foreign help for flood relief comes under scrutiny",
@@ -32,175 +75,132 @@
         "link": "https://www.npr.org/2026/08/31/g-s1-141181/russia-ukraine-war",
         "pubDate": "Mon, 31 Aug 2026 06:24:25 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Attacks flare between the U.S. and Iran after a monthlong pause",
-        "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
-        "pubDate": "Mon, 31 Aug 2026 06:04:30 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Why too many women are prescribed antibiotics for UTIs they don&apos;t have",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
-        "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Hit shows from Edinburgh&apos;s Fringe festival are coming to America. Here are our top picks",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5949346/edinburgh-fringe-scotland-best-shows-coming-to-america",
-        "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Singapore is scrambling to stabilize birth rates. Experts see lessons for the U.S.",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates",
-        "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The U.S.-Venezuela oil deal won&apos;t lower your gas prices. Here&apos;s what you need to know",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
-        "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Supreme Court clears way for Trump to keep building White House ballroom",
+        "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 31 Aug 2026 22:38:24 GMT",
+        "category": "us"
+      },
+      {
+        "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
+        "link": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 31 Aug 2026 21:51:13 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 31 Aug 2026 21:28:49 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Hundreds remember Heaton Park synagogue attack victims at memorial event",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z4wlxj04o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 31 Aug 2026 21:05:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+        "link": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 31 Aug 2026 20:27:52 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
         "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 31 Aug 2026 17:16:58 GMT",
+        "pubDate": "Mon, 31 Aug 2026 17:30:47 GMT",
         "category": "world"
+      },
+      {
+        "title": "Victoria Beckham's company makes its first profit after 18 years",
+        "link": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 31 Aug 2026 17:28:19 GMT",
+        "category": "Top News"
       },
       {
         "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
         "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 31 Aug 2026 16:49:11 GMT",
-        "category": "tech"
+        "category": "business"
       },
       {
-        "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
-        "link": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 31 Aug 2026 16:42:00 GMT",
+        "title": "Notting Hill Carnival revels in 60th anniversary celebrations",
+        "link": "https://www.bbc.co.uk/news/articles/c87vdj8j01xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 31 Aug 2026 16:09:54 GMT",
         "category": "Top News"
       },
       {
-        "title": "Messi retires from Argentina duty with 'nothing left to give'",
+        "title": "Messi retires from international football with 'nothing left to give'",
         "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 31 Aug 2026 15:18:39 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "The jury's options in Lindsay Clancy's murder trial",
-        "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 31 Aug 2026 11:53:21 GMT",
-        "category": "us"
-      },
-      {
-        "title": "The trial of Lindsay Clancy has gripped the US for weeks - here's what the jury must consider",
-        "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 31 Aug 2026 11:53:21 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Once a village, now barren land - BBC in the valley devastated by floods",
-        "link": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 31 Aug 2026 10:20:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dolly Parton laid to rest alongside husband in Nashville",
-        "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 31 Aug 2026 09:24:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New home means 'big ambitions' for wood enterprise",
-        "link": "https://www.bbc.co.uk/news/articles/cn078vqllgqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 31 Aug 2026 06:11:34 GMT",
-        "category": "health"
-      },
-      {
-        "title": "'My parents won't lend me \u00a310k but helped my brother': When families play financial favourites",
-        "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 30 Aug 2026 23:22:24 GMT",
-        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "Leaders gather in Kyrgyzstan for the World Nomad Games",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a95ba2577a44448890e776d35a8b6c0&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fleaders-gather-kyrgyzstan-world-nomad-games-2026-08-31%2f&amp;c=2720079250910020985&amp;mkt=en-us",
-        "pubDate": "Mon, 31 Aug 2026 08:54:00 GMT",
-        "category": "world"
+        "title": "Trump administration plans $4 million for right-wing media in Europe, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960335d6f14e16a64d4db5752db7dc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2ftrump-plans-4-million-right-wing-media-europe-sources-say-2026-08-31%2f&amp;c=7067813697171867804&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 15:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump vows to hit Iran hard after first exchanges of fire in a month",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960335d6f14e16a64d4db5752db7dc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-posts-ai-video-irans-kharg-smithereens-no-evidence-attack-2026-08-31%2f&amp;c=2043759498722750547&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 15:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Boeing, engineers union to resume contract negotiations on Sept 8, union says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960335d6f14e16a64d4db5752db7dc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fboeing-engineers-union-agree-resume-contract-talks-sept-8-union-says-2026-08-31%2f&amp;c=2159886602583601998&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 15:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Apple alleges OpenAI employee accessed circuit plans after joining startup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960335d6f14e16a64d4db5752db7dc&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fapple-alleges-openai-employee-accessed-circuit-plans-after-joining-startup-2026-08-31%2f&amp;c=4485820986740409477&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 13:41:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Amazon sued by FTC, 22 US states over ad sales practices",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960335d6f14e16a64d4db5752db7dc&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fftc-file-lawsuit-alleging-amazon-deceived-advertisers-wsj-reports-2026-08-31%2f&amp;c=15423276870127706465&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 11:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Two dead in Grand Canyon after flash flood, park service says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960335d6f14e16a64d4db5752db7dc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2ftwo-dead-grand-canyon-after-flash-flood-park-service-says-2026-08-31%2f&amp;c=14660788440602178292&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 10:45:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US irks G20 ministers by inviting Russia, barring some journalists",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960335d6f14e16a64d4db5752db7dc&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fg20-host-us-pushes-growth-agenda-allay-debt-market-concerns-2026-08-31%2f&amp;c=8231903487038057084&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 09:21:00 GMT",
+        "category": "Top News"
       },
       {
         "title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a95ba3b527b494187c079a4612a4b85&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchinese-ai-chipmaker-enflame-aims-raise-908-million-after-setting-shanghai-ipo-2026-08-31%2f&amp;c=5111951208707866280&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9603533a754cea8d0a7e6636118c82&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchinese-ai-chipmaker-enflame-aims-raise-908-million-after-setting-shanghai-ipo-2026-08-31%2f&amp;c=5111951208707866280&amp;mkt=en-us",
         "pubDate": "Mon, 31 Aug 2026 06:03:00 GMT",
         "category": "tech"
       },
       {
-        "title": "SLB expands data center business with $4.1 billion deal for Kelvion",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a95ba39089343dfab4a4a9e4a409c3b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fslb-acquire-kelvion-34-billion-2026-08-31%2f&amp;c=379123477444820422&amp;mkt=en-us",
-        "pubDate": "Mon, 31 Aug 2026 03:57:00 GMT",
-        "category": "business"
+        "title": "At Jackson Hole, global central bankers glimpse dystopian AI future",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960335d6f14e16a64d4db5752db7dc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fjackson-hole-global-central-bankers-glimpse-dystopian-ai-future-2026-08-31%2f&amp;c=11719522044166073999&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 03:02:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a960335d6f14e16a64d4db5752db7dc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-stock-index-futures-dip-middle-east-strikes-worsen-inflation-fears-2026-08-31%2f&amp;c=7304326494335366160&amp;mkt=en-us",
+        "pubDate": "Mon, 31 Aug 2026 02:27:00 GMT",
+        "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "G20 meeting live updates: Bessent, Warsh kick off summit with growth-focused remarks",
-        "link": "https://www.cnbc.com/2026/08/31/g20-finance-meeting-live-updates.html",
-        "pubDate": "Mon, 31 Aug 2026 17:29:33 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Trump reportedly plans to announce new drug pricing deals with nearly a dozen drugmakers",
-        "link": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html",
-        "pubDate": "Mon, 31 Aug 2026 17:20:45 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: PG&amp;E, Edison International, Apple, Howmet Aerospace, Eli Lilly &amp; more",
-        "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
-        "pubDate": "Mon, 31 Aug 2026 17:10:12 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "This software outperformer reports earnings this week. Jay Woods says to watch these key levels",
-        "link": "https://www.cnbc.com/2026/08/31/snowflake-reports-earnings-soon-watch-these-levels-jay-woods-says.html",
-        "pubDate": "Mon, 31 Aug 2026 17:02:16 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-        "link": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
-        "pubDate": "Mon, 31 Aug 2026 15:22:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Aon CEO says insurance broker seeks to build &apos;premiere middle market platform&apos; with purchase of rival USI",
-        "link": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
-        "pubDate": "Mon, 31 Aug 2026 15:15:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kalshi partners with brokerage Alpaca as it tries to build its international audience",
-        "link": "https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html",
-        "pubDate": "Mon, 31 Aug 2026 12:00:01 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Jackson Hole analyst roundup: Warsh&apos;s speech sends hike chances higher, may put Fed &apos;at odds&apos; with Treasury",
-        "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
-        "pubDate": "Mon, 31 Aug 2026 11:28:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China&apos;s Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
-        "link": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
-        "pubDate": "Mon, 31 Aug 2026 04:57:24 GMT",
-        "category": "Top News"
-      }
-    ]
+    "markets": []
   }
 }
