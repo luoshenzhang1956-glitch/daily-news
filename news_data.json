@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-09-01T16:26:32.256251",
+  "updated_at": "2026-09-01T20:54:54.524689",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Schools reopen in Congo\u2019s Ebola epicenter despite concerns from parents and teachers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a973b034c85412ea55ef240a60b33b6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-schools-resume-32efe12c400db42f99d554799498bc52&amp;c=2465481914297005473&amp;mkt=en-us",
+        "pubDate": "Tue, 01 Sep 2026 05:08:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Dry eyes are common among women. Here&apos;s why you shouldn&apos;t ignore it",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5943165-e1/dry-eyes-are-common-among-women-heres-why-you-shouldnt-ignore-it",
+        "pubDate": "Tue, 01 Sep 2026 16:24:11 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Congress averts a government shutdown ahead of the midterms",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
+        "pubDate": "Tue, 01 Sep 2026 14:06:33 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "ICE says it has enough body cameras now, after series of deadly shootings",
+        "link": "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
+        "pubDate": "Tue, 01 Sep 2026 13:52:37 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
         "link": "https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary",
@@ -19,7 +44,7 @@
         "title": "They live by a shrine to a saint. Why are their homes being demolished?",
         "link": "https://www.npr.org/2026/09/01/g-s1-139926/india-saint-slum-home-destruction",
         "pubDate": "Tue, 01 Sep 2026 07:21:41 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Why the Supreme Court&apos;s ballroom ruling could matter beyond the ballroom",
@@ -40,65 +65,53 @@
         "category": "business"
       },
       {
-        "title": "AI wealth is creating a &apos;mansion shortage&apos; and upending San Francisco&apos;s housing market",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "A makeover for college: No gym, no meal plan and two years of work",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
         "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "A NY hospital tried to close its birthing center. This city united to fight back",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
-        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
-        "pubDate": "Mon, 31 Aug 2026 16:21:47 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
+        "title": "Baby girl who died at Sheffield house was stabbed, police say",
+        "link": "https://www.bbc.co.uk/news/articles/cdx0n18z8ypo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 19:42:04 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham promises more devolution and public control of essential services",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 19:18:30 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Germany says Russia behind Leipzig airport drone attack",
         "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 16:13:48 GMT",
+        "pubDate": "Tue, 01 Sep 2026 19:13:03 GMT",
         "category": "world"
       },
       {
-        "title": "Spaces in male prisons fall to lowest level of year, sources say",
-        "link": "https://www.bbc.co.uk/news/articles/ce8ey8kzk3no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 16:03:10 GMT",
+        "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+        "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 18:06:58 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Keir Starmer announces he is standing down as MP",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 17:04:29 GMT",
         "category": "Top News"
       },
       {
         "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
         "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 15:54:09 GMT",
+        "pubDate": "Tue, 01 Sep 2026 16:36:42 GMT",
         "category": "business"
       },
       {
-        "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
-        "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 15:51:40 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 15:33:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Keir Starmer announces he is standing down as MP",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 15:23:20 GMT",
+        "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 16:11:18 GMT",
         "category": "Top News"
       },
       {
@@ -118,28 +131,27 @@
         "link": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 01 Sep 2026 08:55:27 GMT",
         "category": "health"
-      },
-      {
-        "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-        "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 05:00:34 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "CFTC Framework for Technology Service Vendors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a96fc54f2cb4a958ade35c96791dde6&amp;url=https%3a%2f%2fwww.reuters.com%2fpractical-law-the-journal%2ftransactional%2fcftc-framework-technology-service-vendors-2026-09-01%2f&amp;c=18190336340267349961&amp;mkt=en-us",
-        "pubDate": "Mon, 31 Aug 2026 17:00:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
-        "link": "https://www.cnbc.com/2026/09/01/bond-yields-iran-inflation-treasurys-japan-uk.html",
-        "pubDate": "Tue, 01 Sep 2026 12:39:23 GMT",
-        "category": "world"
+        "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+        "link": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+        "pubDate": "Tue, 01 Sep 2026 20:53:23 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "5 reasons to stay bullish on these dividend-paying assets, according to Morgan Stanley",
+        "link": "https://www.cnbc.com/2026/09/01/5-reasons-to-stay-bullish-on-these-dividend-paying-assets-according-to-morgan-stanley.html",
+        "pubDate": "Tue, 01 Sep 2026 19:51:30 GMT",
+        "category": "us"
+      },
+      {
+        "title": "We&apos;re adding 2 stocks to our Bullpen watchlist because they meet this criteria",
+        "link": "https://www.cnbc.com/2026/09/01/were-adding-2-stocks-to-our-bullpen-watchlist-because-they-meet-this-criteria.html",
+        "pubDate": "Tue, 01 Sep 2026 18:59:37 GMT",
+        "category": "health"
       }
     ]
   }
