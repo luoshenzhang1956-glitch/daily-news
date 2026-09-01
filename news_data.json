@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-09-01T20:54:54.524689",
+  "updated_at": "2026-09-01T23:57:35.740221",
   "news": {
-    "ap": [
-      {
-        "title": "Schools reopen in Congo\u2019s Ebola epicenter despite concerns from parents and teachers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a973b034c85412ea55ef240a60b33b6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-schools-resume-32efe12c400db42f99d554799498bc52&amp;c=2465481914297005473&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 05:08:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
+        "pubDate": "Tue, 01 Sep 2026 18:18:20 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "How Dolly Parton&apos;s literacy work affected Indigenous communities in Australia",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5950407/how-dolly-partons-literacy-work-affected-indigenous-communities-in-australia",
+        "pubDate": "Tue, 01 Sep 2026 18:13:12 -0400",
+        "category": "us"
+      },
       {
         "title": "Dry eyes are common among women. Here&apos;s why you shouldn&apos;t ignore it",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5943165-e1/dry-eyes-are-common-among-women-heres-why-you-shouldnt-ignore-it",
@@ -50,12 +55,6 @@
         "title": "Why the Supreme Court&apos;s ballroom ruling could matter beyond the ballroom",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers",
         "pubDate": "Tue, 01 Sep 2026 07:00:41 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Whistleblower claims USPS plan for Trump&apos;s mail voting order could &apos;derail&apos; midterms",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
-        "pubDate": "Tue, 01 Sep 2026 06:00:00 -0400",
         "category": "Top News"
       },
       {
@@ -63,32 +62,56 @@
         "link": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
         "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
         "category": "business"
-      },
-      {
-        "title": "A makeover for college: No gym, no meal plan and two years of work",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
-        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Baby girl who died at Sheffield house was stabbed, police say",
-        "link": "https://www.bbc.co.uk/news/articles/cdx0n18z8ypo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 19:42:04 GMT",
-        "category": "Top News"
+        "title": "Rising numbers of children in mental health crisis ending up in A&E",
+        "link": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 23:38:20 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Will self-flying planes transform the skies?",
+        "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 23:27:35 GMT",
+        "category": "tech"
       },
       {
         "title": "Burnham promises more devolution and public control of essential services",
         "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 19:18:30 GMT",
+        "pubDate": "Tue, 01 Sep 2026 21:48:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US strikes Iran as state media reports four killed at wedding party",
+        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 21:48:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ariana Grande completes tour and steps back from public life",
+        "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 21:41:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rybakina makes winning start in race to number one",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c0m3wv4e7vlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 21:18:05 GMT",
         "category": "Top News"
       },
       {
         "title": "Germany says Russia behind Leipzig airport drone attack",
         "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 19:13:03 GMT",
+        "pubDate": "Tue, 01 Sep 2026 21:05:22 GMT",
         "category": "world"
+      },
+      {
+        "title": "Baby girl who died at Sheffield house was stabbed, police say",
+        "link": "https://www.bbc.co.uk/news/articles/cdx0n18z8ypo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 19:42:04 GMT",
+        "category": "Top News"
       },
       {
         "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
@@ -97,61 +120,49 @@
         "category": "us"
       },
       {
-        "title": "Keir Starmer announces he is standing down as MP",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 17:04:29 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
         "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 01 Sep 2026 16:36:42 GMT",
         "category": "business"
-      },
-      {
-        "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 16:11:18 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: Norway's new king takes oath as mourners pay respects to his late father",
-        "link": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 14:06:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-        "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 10:18:47 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Flu vaccine rollout begins as NHS regroups from 'busiest summer'",
-        "link": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 08:55:27 GMT",
-        "category": "health"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
-        "link": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
-        "pubDate": "Tue, 01 Sep 2026 20:53:23 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "5 reasons to stay bullish on these dividend-paying assets, according to Morgan Stanley",
-        "link": "https://www.cnbc.com/2026/09/01/5-reasons-to-stay-bullish-on-these-dividend-paying-assets-according-to-morgan-stanley.html",
-        "pubDate": "Tue, 01 Sep 2026 19:51:30 GMT",
-        "category": "us"
-      },
-      {
-        "title": "We&apos;re adding 2 stocks to our Bullpen watchlist because they meet this criteria",
-        "link": "https://www.cnbc.com/2026/09/01/were-adding-2-stocks-to-our-bullpen-watchlist-because-they-meet-this-criteria.html",
-        "pubDate": "Tue, 01 Sep 2026 18:59:37 GMT",
+        "title": "Cramer: Here are 3 defensive stock market moves I&apos;m making as oil and rates surge",
+        "link": "https://www.cnbc.com/2026/09/01/cramer-here-are-3-defensive-stock-market-moves-im-making-as-oil-and-rates-surge.html",
+        "pubDate": "Tue, 01 Sep 2026 22:56:06 GMT",
         "category": "health"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Dell, MongoDB, GitLab and more",
+        "link": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-after-hours-dell-mdb-gtlb-and-more.html",
+        "pubDate": "Tue, 01 Sep 2026 20:52:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Prediction market traders think job creation rebounded in August",
+        "link": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
+        "pubDate": "Tue, 01 Sep 2026 18:57:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China&apos;s Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
+        "link": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
+        "pubDate": "Tue, 01 Sep 2026 18:51:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fed Governor Barr says he&apos;ll support rate hike if inflation doesn&apos;t ease",
+        "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+        "pubDate": "Tue, 01 Sep 2026 14:01:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Hugging Face&apos;s new duck robot is selling fast. A Chinese chip powers it",
+        "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+        "pubDate": "Tue, 01 Sep 2026 07:30:49 GMT",
+        "category": "Top News"
       }
     ]
   }
