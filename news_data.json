@@ -1,236 +1,138 @@
 {
-  "updated_at": "2026-09-02T08:42:19.781713",
+  "updated_at": "2026-09-02T14:17:00.012542",
   "news": {
-    "ap": [
-      {
-        "title": "Marlins play the Royals leading series 1-0",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e0a3bc8e4a22ba7834be410be5a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmiami-marlins-baseball-kansas-city-royals-illinois-athlete-injuries-92b9676e86084e7faa646654e5860d19&amp;c=2521509762271478986&amp;mkt=en-us",
-        "pubDate": "Wed, 02 Sep 2026 01:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pattaya, once Thailand\u2019s \u2018Sin City,\u2019 beckons weary sailors from the USS Abraham Lincoln",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e0a3bc8e4a22ba7834be410be5a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fthailand-navy-lincoln-sex-tourism-vietnam-war-d4ae5003b856940a522ef943deac4685&amp;c=15507677164808326356&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 21:11:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "America\u2019s story intertwined with its military history, but a military-civilian disconnect persists",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e0a3bc8e4a22ba7834be410be5a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmilitary-who-serves-us-america-250-7e3efd3353bac98cc904b8c1561cd00b&amp;c=11963178395498949063&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 21:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Rachael Gunn: From Olympic meme to Netflix spotlight in \u2018Untold Raygun: Breaking Badly\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e0a3bc8e4a22ba7834be410be5a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fraygun-breaking-bad-australia-olympic-1095e2b120952e8a8a01e0689ca2dbf9&amp;c=9654520810243161682&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 20:43:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prominent Hong Kong activist Joshua Wong pleads guilty in second national security case",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e0a3bc8e4a22ba7834be410be5a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhong-kong-joshua-wong-national-security-0b9419ce572826119a3830acf49b48ca&amp;c=15726880616768453527&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 19:09:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Sirens sound in Kuwait City as tension escalates between US and Iran",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e0a3bc8e4a22ba7834be410be5a9&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fsirens-sound-in-kuwait-city-as-tension-escalates-between-us-and-iran-e5ecf91da7b445438c74e7a719aed393&amp;c=1111442508317856766&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 18:49:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e0a3bc8e4a22ba7834be410be5a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fegypt-china-middle-east-iran-war-us-946c3b90b6251c08fdcb219e24a088a2&amp;c=5627573917077247420&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 18:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The USS Abraham Lincoln docks near Thai beach city of Pattaya after its Middle East deployment",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e0a3bc8e4a22ba7834be410be5a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fuss-abraham-lincoln-pattaya-thailand-1bbd568f1c2c6ce6ba1dcbb12b0784fa&amp;c=16342414848545275494&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 18:08:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "\u2018Aura farming': The video game-inspired youth trend sweeping Latin America",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e0a3bc8e4a22ba7834be410be5a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffarming-aura-trend-latin-america-farmeando-aura-5b82900616f7c4dc2a34566322ccc070&amp;c=11502795324165666950&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 18:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US military completes latest strikes against Iran, while Trump vows more for Tehran\u2019s retaliation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e0a3bc8e4a22ba7834be410be5a9&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-strikes-ad84a64884aedbbd1e5914182bb3cd8d&amp;c=9682410579714848874&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 09:47:00 GMT",
-        "category": "Top News"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
-        "title": "U.S. military strikes Iran, while Trump vows more for Tehran&apos;s retaliation",
-        "link": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
-        "pubDate": "Wed, 02 Sep 2026 02:15:11 -0400",
-        "category": "world"
+        "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
+        "pubDate": "Wed, 02 Sep 2026 10:08:03 -0400",
+        "category": "business"
       },
       {
-        "title": "Incumbent Sen. Ed Markey wins Massachusetts&apos; Democratic primary for US Senate",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton",
-        "pubDate": "Tue, 01 Sep 2026 20:38:46 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
-        "pubDate": "Tue, 01 Sep 2026 18:18:20 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A week after the deadly floods in Nepal, rescuers work to find survivors",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5951528/nepal-floods-rescuers-struggle-to-locate-power-plants-to-find-trapped-survivors",
-        "pubDate": "Tue, 01 Sep 2026 18:13:16 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "How Dolly Parton&apos;s literacy work affected Indigenous communities in Australia",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5950407/how-dolly-partons-literacy-work-affected-indigenous-communities-in-australia",
-        "pubDate": "Tue, 01 Sep 2026 18:13:12 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Dry eyes are common among women. Here&apos;s why you shouldn&apos;t ignore it",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5943165-e1/dry-eyes-are-common-among-women-heres-why-you-shouldnt-ignore-it",
-        "pubDate": "Tue, 01 Sep 2026 16:24:11 -0400",
+        "title": "Medical groups offer vaccine guidance to fill federal vacuum",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5947884/covid-flu-rsv-vaccine-recommendations",
+        "pubDate": "Wed, 02 Sep 2026 10:00:58 -0400",
         "category": "health"
       },
       {
-        "title": "Congress averts a government shutdown ahead of the midterms",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
-        "pubDate": "Tue, 01 Sep 2026 14:06:33 -0400",
+        "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
+        "pubDate": "Wed, 02 Sep 2026 08:22:42 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Whatever happened to ... children infected with HIV due to failures in healthcare?",
+        "link": "https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan",
+        "pubDate": "Wed, 02 Sep 2026 07:58:51 -0400",
         "category": "Top News"
       },
       {
-        "title": "ICE says it has enough body cameras now, after series of deadly shootings",
-        "link": "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
-        "pubDate": "Tue, 01 Sep 2026 13:52:37 -0400",
+        "title": "India&apos;s prime minister is wooing the Gen Z while cracking down on them",
+        "link": "https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests",
+        "pubDate": "Wed, 02 Sep 2026 07:11:04 -0400",
+        "category": "world"
+      },
+      {
+        "title": "ICE says it now has enough body cameras. And, Congress averts shutdown before midterms",
+        "link": "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
+        "pubDate": "Wed, 02 Sep 2026 07:08:04 -0400",
         "category": "Top News"
       },
       {
-        "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
-        "link": "https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary",
-        "pubDate": "Tue, 01 Sep 2026 09:52:18 -0400",
+        "title": "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
+        "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "&apos;It can outthink me&apos;: How a major manufacturer came to embrace AI",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
-        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-        "category": "business"
+        "title": "ICE detainee dies just hours after he was admitted into detention",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5953128/ice-detention-death-lianyong-wei",
+        "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "He died of &apos;natural causes.&apos; But his mother says she knows what killed him: heat",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5887544/heat-deaths-undercount",
+        "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "How will tariffs affect the midterms? In this Michigan border town, it&apos;s complicated",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
+        "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-        "link": "https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 08:29:42 GMT",
+        "title": "Lucy Letby 'boyfriend' doctor named as court order lifted",
+        "link": "https://www.bbc.co.uk/news/articles/cy8z3jv98xyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 13:49:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
+        "link": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 13:45:35 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+        "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 13:20:11 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
+        "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 13:18:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 13:04:47 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Four in court over murder of baby stabbed to death",
+        "link": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 13:02:08 GMT",
         "category": "Top News"
       },
       {
         "title": "Children as young as six going to A&E in mental health crisis",
         "link": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 06:18:31 GMT",
+        "pubDate": "Wed, 02 Sep 2026 12:21:27 GMT",
         "category": "health"
       },
       {
-        "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
-        "link": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 04:49:23 GMT",
+        "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+        "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 11:47:11 GMT",
         "category": "Top News"
       },
       {
-        "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-        "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 04:23:23 GMT",
-        "category": "world"
-      },
-      {
-        "title": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
-        "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 02:42:38 GMT",
-        "category": "Top News"
+        "title": "Criminals publish data of 8.7m people after airports hack",
+        "link": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 11:00:59 GMT",
+        "category": "tech"
       },
       {
         "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
         "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 02 Sep 2026 01:59:10 GMT",
         "category": "us"
-      },
-      {
-        "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
-        "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 01:32:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-        "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 01:27:34 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-        "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 01:23:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Ariana Grande makes emotional tour exit and steps back from public life",
-        "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 21:41:05 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [
-      {
-        "title": "BP appoints former Balfour Beatty CEO Ian Tyler as chair",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e122ac7345afb1530f910df26b77&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fbp-appoints-ian-tyler-chairman-board-2026-09-02%2f&amp;c=1540043623740454529&amp;mkt=en-us",
-        "pubDate": "Wed, 02 Sep 2026 00:16:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "US urges hands-off approach to AI regulation at G20 tech meeting",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a97e125deaa486aa6e1e569e77cd5f7&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-urges-hands-off-approach-ai-regulation-g20-tech-meeting-2026-09-01%2f&amp;c=6443827145009226930&amp;mkt=en-us",
-        "pubDate": "Tue, 01 Sep 2026 13:29:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "reuters": [],
     "markets": [
       {
-        "title": "Hugging Face&apos;s new duck robot is selling fast. A Chinese chip powers it",
-        "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-        "pubDate": "Wed, 02 Sep 2026 00:11:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves after hours: Dell, MongoDB, GitLab and more",
-        "link": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-after-hours-dell-mdb-gtlb-and-more.html",
-        "pubDate": "Tue, 01 Sep 2026 20:52:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prediction market traders think job creation rebounded in August",
-        "link": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
-        "pubDate": "Tue, 01 Sep 2026 18:57:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China&apos;s Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
-        "link": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
-        "pubDate": "Tue, 01 Sep 2026 18:51:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fed Governor Barr says he&apos;ll support rate hike if inflation doesn&apos;t ease",
-        "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-        "pubDate": "Tue, 01 Sep 2026 14:01:27 GMT",
-        "category": "Top News"
+        "title": "Cramer: Here are 3 defensive stock market moves I&apos;m making as oil and rates surge",
+        "link": "https://www.cnbc.com/2026/09/01/cramer-here-are-3-defensive-stock-market-moves-im-making-as-oil-and-rates-surge.html",
+        "pubDate": "Tue, 01 Sep 2026 22:56:06 GMT",
+        "category": "health"
       }
     ]
   }
