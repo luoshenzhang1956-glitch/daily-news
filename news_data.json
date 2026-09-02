@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-09-01T23:57:35.740221",
+  "updated_at": "2026-09-02T03:57:09.782077",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Incumbent Sen. Ed Markey wins Massachusetts&apos; Democratic primary for US Senate",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton",
+        "pubDate": "Tue, 01 Sep 2026 20:38:46 -0400",
+        "category": "Top News"
+      },
       {
         "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
@@ -52,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Why the Supreme Court&apos;s ballroom ruling could matter beyond the ballroom",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers",
-        "pubDate": "Tue, 01 Sep 2026 07:00:41 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "&apos;It can outthink me&apos;: How a major manufacturer came to embrace AI",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
         "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
@@ -66,16 +66,52 @@
     ],
     "bbc": [
       {
-        "title": "Rising numbers of children in mental health crisis ending up in A&E",
-        "link": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 23:38:20 GMT",
+        "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 03:19:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Germany says Russia behind Leipzig airport drone attack",
+        "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 01:59:54 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+        "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 01:59:10 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Families hit by long waits for dementia diagnosis",
+        "link": "https://www.bbc.co.uk/news/articles/cvgyp2n1e75o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 01:46:08 GMT",
         "category": "health"
       },
       {
-        "title": "Will self-flying planes transform the skies?",
-        "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 23:27:35 GMT",
+        "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+        "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 01:27:34 GMT",
         "category": "tech"
+      },
+      {
+        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+        "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 01:23:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Tiger Woods to change plea after crash arrest",
+        "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 00:26:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Rising numbers of children in mental health crisis ending up in A&E",
+        "link": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 01 Sep 2026 23:38:20 GMT",
+        "category": "Top News"
       },
       {
         "title": "Burnham promises more devolution and public control of essential services",
@@ -84,85 +120,19 @@
         "category": "Top News"
       },
       {
-        "title": "US strikes Iran as state media reports four killed at wedding party",
-        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 21:48:28 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Ariana Grande completes tour and steps back from public life",
         "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 01 Sep 2026 21:41:05 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Rybakina makes winning start in race to number one",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c0m3wv4e7vlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 21:18:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 21:05:22 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Baby girl who died at Sheffield house was stabbed, police say",
-        "link": "https://www.bbc.co.uk/news/articles/cdx0n18z8ypo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 19:42:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-        "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 18:06:58 GMT",
-        "category": "us"
-      },
-      {
-        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-        "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 01 Sep 2026 16:36:42 GMT",
-        "category": "business"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "Cramer: Here are 3 defensive stock market moves I&apos;m making as oil and rates surge",
-        "link": "https://www.cnbc.com/2026/09/01/cramer-here-are-3-defensive-stock-market-moves-im-making-as-oil-and-rates-surge.html",
-        "pubDate": "Tue, 01 Sep 2026 22:56:06 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Stocks making the biggest moves after hours: Dell, MongoDB, GitLab and more",
-        "link": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-after-hours-dell-mdb-gtlb-and-more.html",
-        "pubDate": "Tue, 01 Sep 2026 20:52:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prediction market traders think job creation rebounded in August",
-        "link": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
-        "pubDate": "Tue, 01 Sep 2026 18:57:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China&apos;s Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
-        "link": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
-        "pubDate": "Tue, 01 Sep 2026 18:51:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fed Governor Barr says he&apos;ll support rate hike if inflation doesn&apos;t ease",
-        "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-        "pubDate": "Tue, 01 Sep 2026 14:01:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hugging Face&apos;s new duck robot is selling fast. A Chinese chip powers it",
-        "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-        "pubDate": "Tue, 01 Sep 2026 07:30:49 GMT",
-        "category": "Top News"
+        "title": "Wednesday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/09/01/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Tue, 01 Sep 2026 23:03:48 GMT",
+        "category": "us"
       }
     ]
   }
