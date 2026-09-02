@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-09-02T19:21:14.910573",
+  "updated_at": "2026-09-02T22:33:06.436171",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case",
+        "pubDate": "Wed, 02 Sep 2026 17:59:14 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The IRS slashed its staff. One result? More taxes going uncollected",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
+        "pubDate": "Wed, 02 Sep 2026 15:56:58 -0400",
+        "category": "business"
+      },
+      {
+        "title": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
+        "pubDate": "Wed, 02 Sep 2026 15:48:18 -0400",
+        "category": "world"
+      },
       {
         "title": "New Jersey asks Supreme Court to resolve fight over Kalshi&apos;s future",
         "link": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
@@ -25,7 +43,7 @@
         "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
         "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
         "pubDate": "Wed, 02 Sep 2026 11:18:09 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Greetings from the Royal Pavilion, a stunning reminder of India in southern England",
@@ -37,34 +55,40 @@
         "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
         "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
         "pubDate": "Wed, 02 Sep 2026 10:08:03 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "Medical groups offer vaccine guidance to fill federal vacuum",
         "link": "https://www.npr.org/2026/09/02/nx-s1-5947884/covid-flu-rsv-vaccine-recommendations",
         "pubDate": "Wed, 02 Sep 2026 10:00:58 -0400",
         "category": "health"
-      },
-      {
-        "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
-        "link": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
-        "pubDate": "Wed, 02 Sep 2026 08:22:42 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Whatever happened to ... children infected with HIV due to failures in healthcare?",
-        "link": "https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan",
-        "pubDate": "Wed, 02 Sep 2026 07:58:51 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "India&apos;s prime minister is wooing the Gen Z while cracking down on them",
-        "link": "https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests",
-        "pubDate": "Wed, 02 Sep 2026 07:11:04 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "\u2018I'd be the last to know\u2019: Stars of The Gentlemen react to Meghan reports",
+        "link": "https://www.bbc.co.uk/news/articles/c05rg7mj2p1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 21:44:13 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+        "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 21:34:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
+        "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 20:43:06 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Below the dignity of the office': Canadian officials condemn Pete Hegseth cadet post",
+        "link": "https://www.bbc.co.uk/news/articles/clyk32nr1emo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 19:20:50 GMT",
+        "category": "us"
+      },
       {
         "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
         "link": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&amp;at_campaign=rss",
@@ -72,10 +96,10 @@
         "category": "Top News"
       },
       {
-        "title": "What famous scenes are in the epic Bayeux Tapestry?",
-        "link": "https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 18:40:57 GMT",
-        "category": "Top News"
+        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT",
+        "category": "world"
       },
       {
         "title": "Uber to cut over 3,000 jobs in major global restructuring",
@@ -84,27 +108,9 @@
         "category": "tech"
       },
       {
-        "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
-        "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 16:27:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT",
-        "category": "world"
-      },
-      {
-        "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
-        "link": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 15:16:42 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lucy Letby 'boyfriend' doctor named as court order lifted",
-        "link": "https://www.bbc.co.uk/news/articles/cy8z3jv98xyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 13:49:17 GMT",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 16:49:00 GMT",
         "category": "Top News"
       },
       {
@@ -118,28 +124,16 @@
         "link": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 02 Sep 2026 12:21:27 GMT",
         "category": "health"
-      },
-      {
-        "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-        "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 10:04:28 GMT",
-        "category": "us"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "Rubio urges partners to stop 'business as usual' with Nicaraguan government",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9876f38b434260b8288caa8ef4c868&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2frubio-urges-partners-stop-business-usual-with-nicaraguan-government-2026-09-02%2f&amp;c=8236413757833279700&amp;mkt=en-us",
-        "pubDate": "Wed, 02 Sep 2026 07:58:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Tango World Championships crowns Tango de Pista winners in Argentina",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9876dc5cf44aedb3425b4e90013e23&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW963802092026RP1%2f&amp;c=5373395607950877989&amp;mkt=en-us",
-        "pubDate": "Wed, 02 Sep 2026 01:49:00 GMT",
-        "category": "world"
+        "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+        "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+        "pubDate": "Wed, 02 Sep 2026 20:46:42 GMT",
+        "category": "tech"
       }
-    ],
-    "markets": []
+    ]
   }
 }
