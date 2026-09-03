@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-02T22:33:06.436171",
+  "updated_at": "2026-09-03T03:54:38.123729",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "The 49ers hope better health and aging stars can get them into contention in tough NFC West",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef2235494afba4c69ff3185fe164&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsan-francisco-49ers-preview-315035160fb9e2c8cc30ff6b329fd9a5&amp;c=10036565211454982479&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 10:31:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "US women look to jell quickly in Berlin as World Cup looms with little practice time",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef02359e475999d3d6e605bac603&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-world-cup-berlin-stewart-womens-basketball-0c43b614bc68bf4ffad7024d33990564&amp;c=16697954244135039390&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 08:05:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
         "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
@@ -66,16 +79,34 @@
     ],
     "bbc": [
       {
-        "title": "\u2018I'd be the last to know\u2019: Stars of The Gentlemen react to Meghan reports",
-        "link": "https://www.bbc.co.uk/news/articles/c05rg7mj2p1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 21:44:13 GMT",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 03 Sep 2026 03:21:24 GMT",
         "category": "Top News"
       },
       {
-        "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-        "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 21:34:27 GMT",
+        "title": "Chris Mason: Reform face headwinds as they gather for conference",
+        "link": "https://www.bbc.co.uk/news/articles/cgk5m42z1vpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 03 Sep 2026 01:55:46 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "The overlooked factor driving the childhood obesity crisis",
+        "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 03 Sep 2026 00:47:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 23:36:49 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+        "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 02 Sep 2026 23:08:05 GMT",
+        "category": "business"
       },
       {
         "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
@@ -102,37 +133,98 @@
         "category": "world"
       },
       {
-        "title": "Uber to cut over 3,000 jobs in major global restructuring",
-        "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 16:51:49 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-        "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 16:49:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-        "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 02 Sep 2026 13:20:11 GMT",
-        "category": "business"
-      },
-      {
         "title": "Children as young as six going to A&E in mental health crisis",
         "link": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 02 Sep 2026 12:21:27 GMT",
         "category": "health"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef2799b74c8fa4053d59f426c3f3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fbond-selloff-deepens-inflation-oil-prices-jolt-markets-2026-09-02%2f&amp;c=8137480421953222989&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 17:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran war escalation raises concern over civilian death toll",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef2799b74c8fa4053d59f426c3f3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-war-escalation-raises-concern-over-civilian-death-toll-2026-09-03%2f&amp;c=6016580958773007424&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thomson Reuters detects cybersecurity incident, says unauthorized party accessed files",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef2799b74c8fa4053d59f426c3f3&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fthomson-reuters-detects-cybersecurity-incident-says-unauthorized-party-accessed-2026-09-03%2f&amp;c=5097011875129045201&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Australia's Regis Healthcare slumps as aged-care funding raise falls short of cost pressures",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef2799b74c8fa4053d59f426c3f3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2faustralias-regis-healthcare-slumps-aged-care-funding-raise-falls-short-cost-2026-09-03%2f&amp;c=11434404417761529330&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Chinese students marooned in floods unleashed by Typhoon Saudel's rains",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef2799b74c8fa4053d59f426c3f3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fchinese-students-marooned-floods-unleashed-by-typhoon-saudels-rains-2026-09-03%2f&amp;c=13033028437144701877&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "South Korea to open Sejong presidential office by 2029, move 350 institutions from Seoul",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef2799b74c8fa4053d59f426c3f3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-korea-open-sejong-presidential-office-by-2029-move-350-institutions-seoul-2026-09-03%2f&amp;c=5000057557271480198&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Yen in the spotlight after sudden jump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef2799b74c8fa4053d59f426c3f3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fyen-spotlight-after-sudden-jump-2026-09-03%2f&amp;c=1612228969808647079&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Australia outback gas players eye Northern Territory to skip data centre power queue",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef2799b74c8fa4053d59f426c3f3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2faustralia-outback-gas-players-eye-northern-territory-skip-data-centre-power-2026-09-03%2f&amp;c=17007874549493942936&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US judge blocks Trump's newest order limiting birthright citizenship",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef2799b74c8fa4053d59f426c3f3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-judge-blocks-trumps-newest-order-limiting-birthright-citizenship-2026-09-02%2f&amp;c=16204836934822834813&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 15:01:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a98ef59a5df49dc86e454cb80d6356c&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fnovartis-signs-deal-worth-up-32-billion-alteogens-drug-delivery-technology-2026-09-02%2f&amp;c=15113419092135980176&amp;mkt=en-us",
+        "pubDate": "Wed, 02 Sep 2026 05:12:00 GMT",
+        "category": "tech"
+      }
+    ],
     "markets": [
       {
-        "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
-        "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
-        "pubDate": "Wed, 02 Sep 2026 20:46:42 GMT",
+        "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+        "link": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+        "pubDate": "Thu, 03 Sep 2026 03:28:07 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Thursday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/09/02/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Wed, 02 Sep 2026 23:38:16 GMT",
+        "category": "us"
+      },
+      {
+        "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+        "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+        "pubDate": "Wed, 02 Sep 2026 22:17:19 GMT",
+        "category": "business"
+      },
+      {
+        "title": "We&apos;re adding 2 stocks to our Bullpen watchlist because they meet these criteria",
+        "link": "https://www.cnbc.com/2026/09/01/were-adding-2-stocks-to-our-bullpen-watchlist-because-they-meet-this-criteria.html",
+        "pubDate": "Wed, 02 Sep 2026 14:51:01 GMT",
+        "category": "health"
       }
     ]
   }
