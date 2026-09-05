@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:44:57.003218",
+  "updated_at": "2026-09-05T20:13:46.300876",
   "news": {
     "ap": [],
     "npr": [
@@ -34,6 +34,12 @@
         "category": "health"
       },
       {
+        "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
+        "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
+        "pubDate": "Sat, 05 Sep 2026 07:43:14 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Whatever happened to the floating schools of Bangladesh?",
         "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
         "pubDate": "Sat, 05 Sep 2026 07:26:09 -0400",
@@ -52,12 +58,6 @@
         "category": "tech"
       },
       {
-        "title": "Flock cameras draw opposition from across the political spectrum",
-        "link": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
-        "pubDate": "Sat, 05 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "4 things investigators learned about the dysfunction at Trump&apos;s Labor Department",
         "link": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
         "pubDate": "Fri, 04 Sep 2026 17:47:19 -0400",
@@ -66,10 +66,22 @@
     ],
     "bbc": [
       {
+        "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
+        "link": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 05 Sep 2026 20:02:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 05 Sep 2026 19:01:31 GMT",
+        "category": "world"
+      },
+      {
         "title": "US hits three Iranian oil tankers after saying its warships were targeted",
         "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 05 Sep 2026 16:13:01 GMT",
-        "category": "world"
+        "pubDate": "Sat, 05 Sep 2026 18:48:37 GMT",
+        "category": "us"
       },
       {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
@@ -96,10 +108,10 @@
         "category": "Top News"
       },
       {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 05 Sep 2026 06:20:04 GMT",
-        "category": "Top News"
+        "title": "Live music to raise cash for Christmas dinners",
+        "link": "https://www.bbc.co.uk/news/articles/crl6dw4pzexo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 05 Sep 2026 06:03:29 GMT",
+        "category": "business"
       },
       {
         "title": "Tech Now",
@@ -112,18 +124,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 04 Sep 2026 23:47:40 GMT",
         "category": "health"
-      },
-      {
-        "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-        "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 04 Sep 2026 22:48:38 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 04 Sep 2026 17:23:13 GMT",
-        "category": "business"
       }
     ],
     "reuters": [],
