@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-06T13:32:54.762345",
+  "updated_at": "2026-09-06T16:51:23.161908",
   "news": {
     "ap": [
       {
-        "title": "Fire alarm forces 2 a.m. evacuation at Women\u2019s Basketball World Cup teams\u2019 hotel",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9d6ac17c0f4ba9b1825c8838faa5f8&amp;url=https%3a%2f%2fapnews.com%2farticle%2fhotel-fire-alarm-1fd536eea2119ed40fe8843bbce3eb6d&amp;c=5570506916815680945&amp;mkt=en-us",
-        "pubDate": "Sun, 06 Sep 2026 05:54:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Iran claims a strike on a US ship in the Strait of Hormuz but the US denies it",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9d6ac33c9b4aa3b678be102c04b98c&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-war-strait-hormuz-ship-attack-a52beec77dc90af3d040d0553837ad20&amp;c=4624684737646819931&amp;mkt=en-us",
-        "pubDate": "Sun, 06 Sep 2026 00:03:00 GMT",
-        "category": "us"
+        "title": "Africa\u2019s mother tongues are finding new life as youth connect with roots and relatives",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9d994161364c54b6860a791bffb063&amp;url=https%3a%2f%2fapnews.com%2farticle%2fafrican-languages-culture-revival-diaspora-online-business-9642df54fc4ad881418b8a4692f5cd3f&amp;c=16250696645517222465&amp;mkt=en-us",
+        "pubDate": "Sat, 05 Sep 2026 18:03:00 GMT",
+        "category": "business"
       }
     ],
     "npr": [
+      {
+        "title": "German exit polls suggest far-right party has big lead in regional election",
+        "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election",
+        "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
+        "category": "world"
+      },
       {
         "title": "Trump issues new executive orders on beef sales to pacify American cattle ranchers",
         "link": "https://www.npr.org/2026/09/06/nx-s1-5959146/trump-issues-new-executive-orders-on-beef-sales-to-pacify-american-cattle-ranchers",
@@ -38,7 +38,7 @@
         "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
         "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
         "pubDate": "Sun, 06 Sep 2026 05:51:04 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "QUIZ: Ugh, I&apos;ll do it later. How much do you know about procrastination?",
@@ -57,67 +57,61 @@
         "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
         "pubDate": "Sat, 05 Sep 2026 17:01:10 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-        "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-        "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
-        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 13:16:21 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Police slow to respond to Dover protest, says council boss",
-        "link": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 10:59:35 GMT",
+        "title": "Jamaica to bring slavery reparations petition to King Charles",
+        "link": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 06 Sep 2026 16:39:45 GMT",
         "category": "Top News"
       },
       {
         "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
         "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 10:29:03 GMT",
+        "pubDate": "Sun, 06 Sep 2026 16:32:59 GMT",
         "category": "business"
       },
       {
-        "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 09:56:39 GMT",
+        "title": "140 migrants in single dinghy rescued in English Channel",
+        "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 06 Sep 2026 16:28:59 GMT",
         "category": "Top News"
       },
       {
-        "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-        "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 08:05:22 GMT",
+        "title": "German far-right set for big win in eastern state - exit polls",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 06 Sep 2026 16:21:19 GMT",
         "category": "Top News"
       },
       {
-        "title": "Temperatures could climb to 28C in late burst of warmth",
-        "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 04:08:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
-        "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 00:17:05 GMT",
+        "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+        "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 06 Sep 2026 16:11:03 GMT",
         "category": "us"
       },
       {
-        "title": "The next James Bond: The (00)7 questions fans want answered",
-        "link": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 00:06:10 GMT",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 06 Sep 2026 16:00:21 GMT",
         "category": "Top News"
       },
       {
-        "title": "Why more women carry the 'mental load' - and how couples can share it",
-        "link": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 05 Sep 2026 23:31:14 GMT",
+        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 06 Sep 2026 15:32:27 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Dozens feared trapped in collapsed building in Delhi",
+        "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 06 Sep 2026 14:07:35 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Green Party deputy leader linked to property lets despite opposition to landlords",
+        "link": "https://www.bbc.co.uk/news/articles/clykgxp754no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 06 Sep 2026 12:23:03 GMT",
         "category": "Top News"
       },
       {
@@ -128,6 +122,13 @@
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Sugar is outperforming the stock market this year. Here&apos;s what&apos;s driving it, and where it can go from here",
+        "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
+        "pubDate": "Sun, 06 Sep 2026 13:19:01 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
