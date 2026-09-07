@@ -1,19 +1,44 @@
 {
-  "updated_at": "2026-09-07T03:59:45.498619",
+  "updated_at": "2026-09-07T09:16:44.888976",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Israeli airstrikes hit southern Lebanon village, killing 9, and other Mideast news",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9e80829e674fbea93e93baf52b7837&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmideast-iran-us-hormuz-lebanon-israel-691deb2ccb571ec83c552efb794568cd&amp;c=16847605406682686705&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 02:10:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
       {
-        "title": "U.S. envoys visit Kyiv for first time after meeting Putin in Moscow",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5959728/u-s-envoys-visit-kyiv-for-first-time-after-meeting-putin-in-moscow",
-        "pubDate": "Sun, 06 Sep 2026 17:06:49 -0400",
-        "category": "world"
+        "title": "The first day of school: Bells, bikes, buses and big feelings",
+        "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+        "category": "us"
       },
       {
-        "title": "The price of diesel is showing up in the price of almost everything",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5958002/the-price-of-diesel-is-showing-up-in-the-price-of-almost-everything",
-        "pubDate": "Sun, 06 Sep 2026 17:06:48 -0400",
-        "category": "us"
+        "title": "The copper peptide trend has gone from creams to injections \u2014 ahead of the science",
+        "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
+        "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
+        "pubDate": "Mon, 07 Sep 2026 04:44:02 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Rubio to visit 3 Latin American countries this week",
+        "link": "https://www.npr.org/2026/09/07/nx-s1-5953950/rubio-to-visit-3-latin-american-countries-this-week",
+        "pubDate": "Mon, 07 Sep 2026 04:43:28 -0400",
+        "category": "world"
       },
       {
         "title": "Five dead after Amazon cargo plane crashes at Miami airport",
@@ -22,8 +47,8 @@
         "category": "Top News"
       },
       {
-        "title": "German exit polls suggest far-right party has big lead in regional election",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
+        "title": "Germany&apos;s far-right achieves an electoral breakthrough in Saxony-Anhalt",
+        "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
         "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
         "category": "Top News"
       },
@@ -44,56 +69,50 @@
         "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
         "pubDate": "Sun, 06 Sep 2026 05:51:04 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "QUIZ: Ugh, I&apos;ll do it later. How much do you know about procrastination?",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
-        "pubDate": "Sun, 06 Sep 2026 05:01:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it&apos;s alive and well",
-        "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
-        "pubDate": "Sun, 06 Sep 2026 04:44:48 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Protesters block roads in Portsmouth after 140 migrants rescued",
-        "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 02:10:46 GMT",
-        "category": "Top News"
+        "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 08:52:04 GMT",
+        "category": "world"
       },
       {
-        "title": "Rapist serving life may face more assault charges",
-        "link": "https://www.bbc.co.uk/news/articles/cj06z37p0mlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 01:23:04 GMT",
+        "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+        "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 07:03:44 GMT",
         "category": "Top News"
       },
       {
         "title": "Five dead after Amazon cargo plane crashes at Miami airport",
         "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 00:57:38 GMT",
+        "pubDate": "Mon, 07 Sep 2026 06:59:57 GMT",
         "category": "us"
       },
       {
-        "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-        "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 23:34:18 GMT",
-        "category": "business"
-      },
-      {
-        "title": "The \u00a370 refund letter that isn't a scam",
-        "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 23:16:05 GMT",
+        "title": "Watch: Anti-migrant boat protesters block roads in Portsmouth",
+        "link": "https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 05:57:30 GMT",
         "category": "Top News"
       },
       {
-        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 23:02:45 GMT",
-        "category": "world"
+        "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
+        "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 05:31:06 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How significant are the historic gains of Germany's AfD for the rest of Europe?",
+        "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 04:07:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "PhD student jailed for drugging and raping 10 women could face further charges",
+        "link": "https://www.bbc.co.uk/news/articles/cj06z37p0mlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 01:23:04 GMT",
+        "category": "Top News"
       },
       {
         "title": "BBC News presenter reveals she has blood cancer",
@@ -108,32 +127,39 @@
         "category": "Top News"
       },
       {
-        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 06 Sep 2026 20:41:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "title": "Jaguar Land Rover boss to meet minister as thousands of job cuts expected",
         "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 06 Sep 2026 16:32:59 GMT",
-        "category": "Top News"
+        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "South Korea, US agree on more than $20 billion gas plant investment in Texas, media reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9e364b9a454937ab5d856d5030a497&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fsouth-korea-us-agree-more-than-20-billion-gas-plant-investment-texas-media-2026-09-07%2f&amp;c=12799996496346760072&amp;mkt=en-us",
-        "pubDate": "Sun, 06 Sep 2026 20:42:00 GMT",
-        "category": "business"
+        "title": "From dance floor to war: China readies humanoid robots for combat",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9e80b7f95d4990a912ae9b2fd9b70c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fdance-floor-war-china-readies-humanoid-robots-combat-2026-09-07%2f&amp;c=13346649776383539551&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 01:46:00 GMT",
+        "category": "tech"
       },
       {
-        "title": "Iran's Hormuz leverage wanes as US economic squeeze bites",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9e363d47b74a5995e8d6c93e29b818&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2firans-hormuz-leverage-wanes-us-economic-squeeze-bites-2026-09-06%2f&amp;c=15403862681633786254&amp;mkt=en-us",
-        "pubDate": "Sun, 06 Sep 2026 05:48:00 GMT",
-        "category": "us"
+        "title": "Seven Indonesian airports remain shut due to volcanic ash from Anak Krakatau",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9e80b9d74d43ce80bb83138f4cc2dd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2feight-indonesian-airports-remain-shut-due-to-volcanic-ash-anak-krakatau-2026-09-07%2f&amp;c=2047133993326559430&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 01:17:00 GMT",
+        "category": "health"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "European stocks fall and Asia-Pacific markets rise as investors assess renewed Middle East hostilities",
+        "link": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+        "pubDate": "Mon, 07 Sep 2026 09:09:26 GMT",
+        "category": "world"
+      },
+      {
+        "title": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace",
+        "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+        "pubDate": "Sun, 06 Sep 2026 12:13:49 GMT",
+        "category": "tech"
+      }
+    ]
   }
 }
