@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-07T15:44:21.237493",
+  "updated_at": "2026-09-07T19:48:26.519670",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "France sets 3-pointer record with 22 at women\u2019s FIBA World Cup, Spain and Germany safe",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f143f77fc4fb1b8e9586f7b9eebdf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwomens-basketball-world-cup-fiba-193274eff5c189ba75165cab995a8eac&amp;c=8231951557988261268&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 11:28:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
         "title": "As Nepal identifies those killed in the floods, questions grow over China&apos;s reporting",
@@ -46,19 +53,43 @@
         "category": "Top News"
       },
       {
-        "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
+        "title": "Investigators seek answers after Amazon cargo plane crash kills five at Miami airport",
         "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
         "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Germany&apos;s far-right achieves an electoral breakthrough in key state election",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
-        "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+        "link": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 19:04:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "King makes clear Harry and Meghan remain non-working royals",
+        "link": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 18:23:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Investigators begin work on why cargo plane overran Miami runway",
+        "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 17:46:25 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Next wins key appeal to overturn \u00a330m equal pay ruling",
+        "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 16:25:41 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+        "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 15:41:52 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Grindr to pay \u00a326m to settle claims it allegedly shared users' HIV status",
         "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss",
@@ -66,15 +97,9 @@
         "category": "tech"
       },
       {
-        "title": "What connects the Dover and Portsmouth anti-migrant protests?",
+        "title": "What we know about anti-migrant protests and organiser Danny Thomas",
         "link": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 07 Sep 2026 15:20:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "King makes clear Harry and Meghan remain non-working royals",
-        "link": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 15:11:56 GMT",
         "category": "Top News"
       },
       {
@@ -84,34 +109,10 @@
         "category": "Top News"
       },
       {
-        "title": "Why Jaguar Land Rover has decided change is needed",
-        "link": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 14:36:37 GMT",
-        "category": "business"
-      },
-      {
         "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
         "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT",
         "category": "world"
-      },
-      {
-        "title": "Chancellor John Healey refuses to rule out tax hikes in October Budget",
-        "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 12:48:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 12:22:07 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Probe begins into why cargo plane overran Miami runway",
-        "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 09:54:40 GMT",
-        "category": "us"
       },
       {
         "title": "BBC News presenter reveals she has blood cancer",
@@ -120,7 +121,27 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "Seven Indonesian airports remain shut due to volcanic ash from Anak Krakatau",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f14c1ff8a4341bcf041b8bdf8f6fd&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2feight-indonesian-airports-remain-shut-due-to-volcanic-ash-anak-krakatau-2026-09-07%2f&amp;c=2047133993326559430&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 10:51:00 GMT",
+        "category": "health"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Top Wall Street analysts like these 3 stocks for the long haul",
+        "link": "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html",
+        "pubDate": "Mon, 07 Sep 2026 10:37:16 GMT",
+        "category": "us"
+      },
+      {
+        "title": "China says it will pump $54 billion into banks and insurers \u2014 but their stocks still fell",
+        "link": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+        "pubDate": "Mon, 07 Sep 2026 09:26:54 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
