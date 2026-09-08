@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-07T22:43:58.574406",
+  "updated_at": "2026-09-08T04:01:08.476953",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Host Germany avoids early exit from women\u2019s FIBA World Cup, France sets 3-pointer record",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f87f065cc4905aba8e3cc711ec9d9&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwomens-basketball-world-cup-fiba-193274eff5c189ba75165cab995a8eac&amp;c=8231951557988261268&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 04:46:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
         "title": "The UN passed resolution ahead of General Assembly calling for end to child marriage",
@@ -40,14 +47,14 @@
         "category": "Top News"
       },
       {
-        "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
-        "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+        "title": "The first day of school: Bells, bikes, buses and big feelings",
+        "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
         "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "The first day of school: Bells, bikes, buses and big feelings",
-        "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+        "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
+        "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
         "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -60,10 +67,46 @@
     ],
     "bbc": [
       {
+        "title": "A&E did not get the basics right - now my son's life is ruined at 32",
+        "link": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 08 Sep 2026 03:49:39 GMT",
+        "category": "health"
+      },
+      {
+        "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+        "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 08 Sep 2026 01:50:55 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+        "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 23:06:14 GMT",
+        "category": "business"
+      },
+      {
+        "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+        "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 23:05:12 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
         "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 07 Sep 2026 22:23:03 GMT",
         "category": "world"
+      },
+      {
+        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+        "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 21:12:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Self-described 'genocidal racist monster' jailed after BBC investigation",
+        "link": "https://www.bbc.co.uk/news/articles/c5ywj92jwy1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 07 Sep 2026 19:58:04 GMT",
+        "category": "Top News"
       },
       {
         "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
@@ -78,116 +121,80 @@
         "category": "Top News"
       },
       {
-        "title": "Next wins key appeal to overturn \u00a330m equal pay ruling",
-        "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 16:25:41 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-        "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 15:41:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Grindr to pay \u00a326m to settle claims it allegedly shared users' HIV status",
-        "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 15:27:50 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "What we know about anti-migrant protests and organiser Danny Thomas",
-        "link": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 15:20:48 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-        "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 14:57:30 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Watch: Cargo plane overshoots runway at Miami airport",
         "link": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 07 Sep 2026 05:37:28 GMT",
         "category": "us"
-      },
-      {
-        "title": "Powerlifter wins golds despite endometriosis pain",
-        "link": "https://www.bbc.co.uk/news/articles/cjrx7299901o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 07 Sep 2026 05:11:21 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Seven Indonesian airports remain shut due to volcanic ash from Anak Krakatau",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f3df57db8412cb6eb886aa499159c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2feight-indonesian-airports-remain-shut-due-to-volcanic-ash-anak-krakatau-2026-09-07%2f&amp;c=2047133993326559430&amp;mkt=en-us",
-        "pubDate": "Mon, 07 Sep 2026 14:50:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "EverBank to combine with WaFd in $3.9 billion reverse merger",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f3dd004164a019464106c341076f2&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2feverbank-combine-with-wafd-39-billion-reverse-merger-2026-09-07%2f&amp;c=4485061585535224699&amp;mkt=en-us",
-        "pubDate": "Mon, 07 Sep 2026 14:50:00 GMT",
+        "title": "Explainer: Why isn't oil above $100 despite supply disruptions?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f881acf964e1fb7fd0050102dbf25&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fwhy-isnt-oil-above-100-despite-supply-disruptions-2026-09-08%2f&amp;c=12455125838172073327&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 17:00:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Poste Italiane raises Telecom Italia offer, waives threshold condition",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f3dd004164a019464106c341076f2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fposte-italiane-raises-telecom-italia-offer-waives-threshold-condition-2026-09-07%2f&amp;c=17663425563244190297&amp;mkt=en-us",
-        "pubDate": "Mon, 07 Sep 2026 13:16:00 GMT",
+        "title": "EXCLUSIVE - How two men survived nine days in a Nepal flood tunnel",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f881acf964e1fb7fd0050102dbf25&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fexclusive-how-two-men-survived-nine-days-nepal-flood-tunnel-2026-09-08%2f&amp;c=13318774744815327915&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 17:00:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Paris investigates claim women were hidden from Hindu delegation at Eiffel Tower",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f3dd004164a019464106c341076f2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fparis-investigates-claim-women-were-hidden-hindu-delegation-eiffel-tower-2026-09-07%2f&amp;c=6093585107781602320&amp;mkt=en-us",
-        "pubDate": "Mon, 07 Sep 2026 10:58:00 GMT",
+        "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f881acf964e1fb7fd0050102dbf25&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles-2026-09-08%2f&amp;c=44500671519671122&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 17:00:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "NTSB to give updates on deadly Amazon Prime Air cargo plane crash in Miami",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f3dd004164a019464106c341076f2&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fntsb-give-updates-deadly-amazon-prime-air-cargo-plane-crash-miami-2026-09-07%2f&amp;c=10276262478679632087&amp;mkt=en-us",
+        "title": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f881acf964e1fb7fd0050102dbf25&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fnvidia-backed-firmus-signs-deal-with-openai-malaysia-data-centre-capacity-2026-09-08%2f&amp;c=11695395123604015754&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Russia to strip contract soldiers of one-off payment if laws violated at home",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f881acf964e1fb7fd0050102dbf25&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2frussia-strip-contract-soldiers-one-off-payment-if-laws-violated-home-2026-09-08%2f&amp;c=8689326875571824648&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Indonesia reopens Jakarta airport, four others after Anak Krakatau ash clears",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f881acf964e1fb7fd0050102dbf25&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2findonesia-reopens-jakarta-airport-four-others-after-anak-krakatau-ash-clears-2026-09-08%2f&amp;c=14229735678932490586&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Investigators recover black boxes from cargo plane crash in Miami",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f881acf964e1fb7fd0050102dbf25&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fntsb-give-updates-deadly-amazon-prime-air-cargo-plane-crash-miami-2026-09-07%2f&amp;c=10276262478679632087&amp;mkt=en-us",
         "pubDate": "Mon, 07 Sep 2026 09:57:00 GMT",
         "category": "Top News"
       },
       {
+        "title": "Latvia plans 300% tariff on grain from Russia and Belarus",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f883c242f483c9a03411ca952e20b&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2flatvia-plans-300-tariff-grain-russia-belarus-2026-09-07%2f&amp;c=13454754445288788825&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 09:30:00 GMT",
+        "category": "business"
+      },
+      {
         "title": "ISS advises Conagra shareholders to reject proposed executive pay programme",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f3dd004164a019464106c341076f2&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fiss-advises-conagra-shareholders-reject-proposed-executive-pay-programme-2026-09-07%2f&amp;c=14022739503834276082&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f881acf964e1fb7fd0050102dbf25&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fiss-advises-conagra-shareholders-reject-proposed-executive-pay-programme-2026-09-07%2f&amp;c=14022739503834276082&amp;mkt=en-us",
         "pubDate": "Mon, 07 Sep 2026 08:12:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "ICE crackdown laid bare at Venice festival documentary",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f3dd004164a019464106c341076f2&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fice-crackdown-laid-bare-venice-festival-documentary-2026-09-07%2f&amp;c=205510975981932771&amp;mkt=en-us",
-        "pubDate": "Mon, 07 Sep 2026 07:52:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Warning signs abound for Trump's Republicans as midterm campaign begins final sprint",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f3dd004164a019464106c341076f2&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fwarning-signs-abound-trumps-republicans-midterm-campaign-begins-final-sprint-2026-09-07%2f&amp;c=11596252127230022136&amp;mkt=en-us",
-        "pubDate": "Mon, 07 Sep 2026 03:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Indonesia's 'Ring of Fire': Key facts about the world's most volcanic nation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f3dd2731c41f1996dfd9bb9ed72d0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2findonesias-ring-fire-key-facts-about-worlds-most-volcanic-nation-2026-09-07%2f&amp;c=18311289287350570495&amp;mkt=en-us",
-        "pubDate": "Mon, 07 Sep 2026 02:44:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "UBS forecasts two US Fed rate hikes in 2026 after strong jobs report",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f3dd4476446899ec28e230480e8c0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fubs-forecasts-two-us-fed-rate-hikes-2026-after-strong-jobs-report-2026-09-07%2f&amp;c=18153450410494137097&amp;mkt=en-us",
-        "pubDate": "Mon, 07 Sep 2026 02:07:00 GMT",
-        "category": "us"
+        "title": "Europe's largest carbon capture facility opens in Netherlands",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9f88408a604f0eb2a780c39c049980&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fcop%2feuropes-largest-carbon-capture-facility-opens-netherlands-2026-09-07%2f&amp;c=3513854410242140071&amp;mkt=en-us",
+        "pubDate": "Mon, 07 Sep 2026 05:59:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Top Wall Street analysts like these 3 stocks for the long haul",
-        "link": "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html",
-        "pubDate": "Mon, 07 Sep 2026 10:37:16 GMT",
-        "category": "us"
+        "title": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
+        "link": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
+        "pubDate": "Mon, 07 Sep 2026 21:36:12 GMT",
+        "category": "tech"
       }
     ]
   }
