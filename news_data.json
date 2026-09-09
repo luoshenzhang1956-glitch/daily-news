@@ -1,15 +1,38 @@
 {
-  "updated_at": "2026-09-09T11:05:21.764556",
+  "updated_at": "2026-09-09T16:22:06.516790",
   "news": {
-    "ap": [
-      {
-        "title": "LIV Golf files for bankruptcy protection as it tries to survive in a smaller version",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa13d044f054a2fb5cf1bd84aa4bcfb&amp;url=https%3a%2f%2fapnews.com%2farticle%2fliv-golf-bankruptcy-bc-partners-rahm-dechambeau-893e8af7c2ab9626f9d600435316c83e&amp;c=17048048276323185887&amp;mkt=en-us",
-        "pubDate": "Tue, 08 Sep 2026 15:44:00 GMT",
-        "category": "business"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+        "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
+        "pubDate": "Wed, 09 Sep 2026 09:56:23 -0400",
+        "category": "world"
+      },
+      {
+        "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
+        "link": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
+        "pubDate": "Wed, 09 Sep 2026 09:34:48 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Whatever happened to the measles outbreak that shocked a country this year?",
+        "link": "https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-bangladesh",
+        "pubDate": "Wed, 09 Sep 2026 09:04:43 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Trump officials propose sweeping changes to the census that would reshape voting maps",
+        "link": "https://www.npr.org/2026/09/09/nx-s1-5845147/trump-us-census-citizenship-question-race-categories",
+        "pubDate": "Wed, 09 Sep 2026 08:58:43 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+        "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+        "pubDate": "Wed, 09 Sep 2026 07:12:27 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
         "link": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
@@ -23,16 +46,10 @@
         "category": "Top News"
       },
       {
-        "title": "COMIC: If we fight, is our love doomed? And other honest questions about conflict",
+        "title": "How to fight with the people we care about, illustrated",
         "link": "https://www.npr.org/2026/09/09/nx-s1-5961264/conflict-and-relationships-comic-priya-parker",
         "pubDate": "Wed, 09 Sep 2026 05:01:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Citing the &apos;Deep State,&apos; Trump overhauls the intelligence community",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
-        "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
@@ -41,48 +58,60 @@
         "category": "Top News"
       },
       {
-        "title": "Judges may face unprecedented decisions this election. A new guide seeks to help",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
-        "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Republicans kick off a &apos;Trumpapalooza&apos; of a midterm convention Wednesday in Texas",
         "link": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
         "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5955573/morning-news-brief",
-        "pubDate": "Wed, 09 Sep 2026 04:46:34 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "TSA brings back gate access for some people without plane tickets 25 years after 9/11",
-        "link": "https://www.npr.org/2026/09/09/g-s1-142480/tsa-gate-access-25-years-after-9-11",
-        "pubDate": "Wed, 09 Sep 2026 01:41:56 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Australian social media users to be offered choice to opt out of algorithms",
-        "link": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-        "pubDate": "Tue, 08 Sep 2026 09:24:00 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
-        "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
-        "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 10:57:15 GMT",
+        "title": "Air traffic failure was avoidable, says Transport Secretary",
+        "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 16:13:40 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Police launch criminal investigation into Reform UK donations",
+        "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 15:50:12 GMT",
         "category": "Top News"
       },
       {
         "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
         "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 10:46:43 GMT",
+        "pubDate": "Wed, 09 Sep 2026 15:34:09 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+        "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 15:01:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "National security can't come at expense of social security, Burnham says",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 14:53:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
+        "link": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 13:29:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+        "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 13:29:33 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 13:28:58 GMT",
+        "category": "Top News"
       },
       {
         "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
@@ -91,67 +120,25 @@
         "category": "us"
       },
       {
-        "title": "Learner drivers still waiting 20 weeks to book tests",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 09:55:11 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 09:47:39 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Watch: Emotional moment as Alan Carr honoured at National Television Awards",
-        "link": "https://www.bbc.co.uk/news/videos/c8xk5rwvk74o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 09:34:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Shelton beats Alcaraz in late-night epic to reach US Open semis",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 09:03:44 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 04:59:08 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Very hot drinks may damage the food pipe and increase cancer risk",
         "link": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 08 Sep 2026 23:30:39 GMT",
         "category": "health"
-      },
-      {
-        "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-        "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 08 Sep 2026 23:11:32 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "German defence tech firm ARX Robotics enters Polish market",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa13d61fb5741a584f4391fb8d44275&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fgerman-defence-tech-firm-arx-robotics-enters-polish-market-2026-09-09%2f&amp;c=15681387005675795644&amp;mkt=en-us",
-        "pubDate": "Tue, 08 Sep 2026 23:52:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "US names acting FDA drug, vaccine chiefs to permanent posts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa13d658e2944158195e76f9cae43b9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fus-department-health-announces-key-leadership-changes-fda-2026-09-08%2f&amp;c=11019074586871978689&amp;mkt=en-us",
-        "pubDate": "Tue, 08 Sep 2026 13:35:00 GMT",
-        "category": "health"
+        "title": "Costa Rican man, 119, seeks recognition as world's oldest person",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa1872c58954e9ea6456005da908e71&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcosta-rican-man-119-seeks-recognition-worlds-oldest-person-2026-09-09%2f&amp;c=16056197276670970043&amp;mkt=en-us",
+        "pubDate": "Wed, 09 Sep 2026 05:04:00 GMT",
+        "category": "world"
       }
     ],
     "markets": [
       {
-        "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
-        "link": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
-        "pubDate": "Wed, 09 Sep 2026 10:00:01 GMT",
+        "title": "CoreWeave CEO chalks up public AI pushback to the speed of change: &apos;And that is frightening&apos;",
+        "link": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+        "pubDate": "Wed, 09 Sep 2026 15:37:30 GMT",
         "category": "tech"
       },
       {
@@ -159,12 +146,6 @@
         "link": "https://www.cnbc.com/2026/09/08/jim-cramer-investors-focused-ai-stocks.html",
         "pubDate": "Tue, 08 Sep 2026 22:25:23 GMT",
         "category": "health"
-      },
-      {
-        "title": "LIV Golf files for Chapter 11 bankruptcy protection",
-        "link": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
-        "pubDate": "Tue, 08 Sep 2026 21:45:55 GMT",
-        "category": "business"
       }
     ]
   }
