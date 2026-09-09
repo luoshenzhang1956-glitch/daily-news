@@ -1,104 +1,56 @@
 {
-  "updated_at": "2026-09-09T16:22:06.516790",
+  "updated_at": "2026-09-09T20:49:10.614055",
   "news": {
-    "ap": [],
-    "npr": [
+    "ap": [
       {
-        "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
-        "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
-        "pubDate": "Wed, 09 Sep 2026 09:56:23 -0400",
-        "category": "world"
-      },
-      {
-        "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
-        "pubDate": "Wed, 09 Sep 2026 09:34:48 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Whatever happened to the measles outbreak that shocked a country this year?",
-        "link": "https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-bangladesh",
-        "pubDate": "Wed, 09 Sep 2026 09:04:43 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Trump officials propose sweeping changes to the census that would reshape voting maps",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5845147/trump-us-census-citizenship-question-race-categories",
-        "pubDate": "Wed, 09 Sep 2026 08:58:43 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-        "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
-        "pubDate": "Wed, 09 Sep 2026 07:12:27 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
-        "link": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
-        "pubDate": "Wed, 09 Sep 2026 05:09:32 -0400",
-        "category": "us"
-      },
-      {
-        "title": "National Guard member arrested in DC, accused of drawing gun on fellow Guard member",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested",
-        "pubDate": "Wed, 09 Sep 2026 05:05:03 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "How to fight with the people we care about, illustrated",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5961264/conflict-and-relationships-comic-priya-parker",
-        "pubDate": "Wed, 09 Sep 2026 05:01:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
-        "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Republicans kick off a &apos;Trumpapalooza&apos; of a midterm convention Wednesday in Texas",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
-        "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      }
-    ],
-    "bbc": [
-      {
-        "title": "Air traffic failure was avoidable, says Transport Secretary",
-        "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 16:13:40 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Police launch criminal investigation into Reform UK donations",
-        "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 15:50:12 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 15:34:09 GMT",
+        "title": "Anthropic researcher resigns with warning about the dangers of AI development",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa1c5b1cf5d4f95a0b0f92a249354c1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fanthropic-ai-safety-jacob-coxon-2ed549e07f2f941600a135070487d83d&amp;c=11708987086494731588&amp;mkt=en-us",
+        "pubDate": "Wed, 09 Sep 2026 11:53:00 GMT",
         "category": "tech"
       },
       {
-        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-        "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 15:01:58 GMT",
+        "title": "Huawei, the world\u2019s biggest supplier of telecommunications network gear, faces criminal trial in New York",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa1c585f71a45bf8a247095a1b04d2b&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fhuawei-the-worlds-biggest-supplier-of-telecommunications-network-gear-faces-criminal-trial-in-new-york-b745c650603e4f37ac29e7541d91ad56&amp;c=479242473014964553&amp;mkt=en-us",
+        "pubDate": "Wed, 09 Sep 2026 08:51:00 GMT",
+        "category": "world"
+      }
+    ],
+    "npr": [],
+    "bbc": [
+      {
+        "title": "Police launch criminal investigation into Reform UK donations",
+        "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 20:22:00 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "BBC drops Drag Race UK after eight series",
+        "link": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 20:16:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Air traffic failure was avoidable, says transport secretary",
+        "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 18:21:16 GMT",
+        "category": "business"
+      },
+      {
+        "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
+        "link": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 17:33:27 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 09 Sep 2026 17:06:48 GMT",
+        "category": "tech"
       },
       {
         "title": "National security can't come at expense of social security, Burnham says",
         "link": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 09 Sep 2026 14:53:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
-        "link": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 09 Sep 2026 13:29:47 GMT",
         "category": "Top News"
       },
       {
@@ -128,24 +80,24 @@
     ],
     "reuters": [
       {
-        "title": "Costa Rican man, 119, seeks recognition as world's oldest person",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa1872c58954e9ea6456005da908e71&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcosta-rican-man-119-seeks-recognition-worlds-oldest-person-2026-09-09%2f&amp;c=16056197276670970043&amp;mkt=en-us",
-        "pubDate": "Wed, 09 Sep 2026 05:04:00 GMT",
-        "category": "world"
+        "title": "As Apple prepares to make a splash, a brief history of foldable phones",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa1c5ebe1404ada8a190664b4546dd9&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fapple-prepares-make-splash-brief-history-foldable-phones-2026-09-09%2f&amp;c=13395646820404155712&amp;mkt=en-us",
+        "pubDate": "Wed, 09 Sep 2026 06:56:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "CoreWeave CEO chalks up public AI pushback to the speed of change: &apos;And that is frightening&apos;",
+        "title": "Conversations from Goldman Sachs&apos; Communacopia: AI blowback, broadband and Disney&apos;s free tier",
         "link": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
-        "pubDate": "Wed, 09 Sep 2026 15:37:30 GMT",
+        "pubDate": "Wed, 09 Sep 2026 20:33:36 GMT",
         "category": "tech"
       },
       {
-        "title": "Jim Cramer says investors are too focused on AI stocks. Here\u2019s where he says to look instead",
-        "link": "https://www.cnbc.com/2026/09/08/jim-cramer-investors-focused-ai-stocks.html",
-        "pubDate": "Tue, 08 Sep 2026 22:25:23 GMT",
-        "category": "health"
+        "title": "Dump these loser stocks this fall, Wolfe Research says. It could help cut next year&apos;s tax bill",
+        "link": "https://www.cnbc.com/2026/09/09/dump-these-loser-stocks-this-fall-wolfe-research-says-it-could-help-cut-next-years-tax-bill.html",
+        "pubDate": "Wed, 09 Sep 2026 19:09:22 GMT",
+        "category": "us"
       }
     ]
   }
