@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-10T23:56:01.540788",
+  "updated_at": "2026-09-11T04:03:46.597618",
   "news": {
-    "ap": [
-      {
-        "title": "Africa\u2019s top health body warns Congo\u2019s Ebola outbreak is rapidly spreading beyond epicenter",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa34314fdcc49fb9fd216ce2d726b74&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-africa-cdc-spreading-beyond-ituri-d89532548b1b41245892d7e0cbe594d3&amp;c=7908725633664023019&amp;mkt=en-us",
-        "pubDate": "Thu, 10 Sep 2026 11:46:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Former Anthropic researcher outlines threat of AI going rogue",
+        "link": "https://www.npr.org/2026/09/10/nx-s1-5964864/former-anthropic-researcher-outlines-threat-of-ai-going-rogue",
+        "pubDate": "Thu, 10 Sep 2026 21:00:14 -0400",
+        "category": "tech"
+      },
       {
         "title": "This summer was hot. August shattered global heat records",
         "link": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest",
@@ -20,7 +19,7 @@
         "title": "Lawsuit challenges intimidation of DHS observers across the country",
         "link": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
         "pubDate": "Thu, 10 Sep 2026 17:07:38 -0400",
-        "category": "tech"
+        "category": "Top News"
       },
       {
         "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
@@ -59,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
-        "link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
-        "pubDate": "Thu, 10 Sep 2026 07:27:14 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Scientists say August was Earth&apos;s hottest month they&apos;ve measured",
         "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
         "pubDate": "Thu, 10 Sep 2026 04:54:00 -0400",
@@ -72,6 +65,18 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 02:46:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "MPs to vote on legalising assisted dying in England and Wales",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 02:05:23 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
         "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&amp;at_campaign=rss",
@@ -97,12 +102,6 @@
         "category": "business"
       },
       {
-        "title": "Labour mayors in England vow to cap tourist tax at 5%",
-        "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 10 Sep 2026 21:22:06 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
         "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 10 Sep 2026 18:15:47 GMT",
@@ -112,12 +111,6 @@
         "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
         "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 10 Sep 2026 17:38:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
-        "link": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 10 Sep 2026 16:57:06 GMT",
         "category": "Top News"
       },
       {
@@ -135,18 +128,72 @@
     ],
     "reuters": [
       {
-        "title": "India gets one of world's steepest iPhone price hikes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa3431a68dc486d94a516addaca3dd1&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2findia-gets-one-worlds-steepest-iphone-price-hikes-2026-09-10%2f&amp;c=15041906858974640023&amp;mkt=en-us",
-        "pubDate": "Thu, 10 Sep 2026 03:15:00 GMT",
-        "category": "world"
+        "title": "Trump's Iran campaign echoes the post-9/11 'forever wars'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa37d08d1cf483ea5cd16665823385a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrumps-iran-campaign-echoes-post-911-forever-wars-2026-09-10%2f&amp;c=4393918196361558190&amp;mkt=en-us",
+        "pubDate": "Thu, 10 Sep 2026 20:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Houthis advance along Yemeni coast, threaten Saudi oil exports in the Red Sea",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa37d08d1cf483ea5cd16665823385a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-says-iran-war-end-after-us-midterm-elections-threatens-attack-pickaxe-2026-09-10%2f&amp;c=7233146672549415934&amp;mkt=en-us",
+        "pubDate": "Thu, 10 Sep 2026 19:27:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa37d08d1cf483ea5cd16665823385a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fbrent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10%2f&amp;c=9427889895546047168&amp;mkt=en-us",
+        "pubDate": "Thu, 10 Sep 2026 17:39:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Five big takeaways from Trump's midterm convention",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa37d08d1cf483ea5cd16665823385a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffive-big-takeaways-trumps-midterm-convention-2026-09-11%2f&amp;c=10831138639507811221&amp;mkt=en-us",
+        "pubDate": "Thu, 10 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Kim Jong Un wants North Koreans to have more (state-sanctioned) fun",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa37d08d1cf483ea5cd16665823385a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fkim-jong-un-wants-north-koreans-have-more-state-sanctioned-fun-2026-09-11%2f&amp;c=4092269177560421322&amp;mkt=en-us",
+        "pubDate": "Thu, 10 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oil prices set to end week over $100 for first time in nearly 4 months",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa37d08d1cf483ea5cd16665823385a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11%2f&amp;c=7168583604473700852&amp;mkt=en-us",
+        "pubDate": "Thu, 10 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says he does not regret Iran war despite impact it may have on midterm elections",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa37d08d1cf483ea5cd16665823385a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-says-he-does-not-regret-iran-war-despite-impact-it-may-have-midterm-2026-09-11%2f&amp;c=5578179851205148277&amp;mkt=en-us",
+        "pubDate": "Thu, 10 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Texas judge rules TikTok misled users on child safety feature",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa37d08d1cf483ea5cd16665823385a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2ftexas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11%2f&amp;c=8463381969635154219&amp;mkt=en-us",
+        "pubDate": "Thu, 10 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa37d08d1cf483ea5cd16665823385a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faltman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11%2f&amp;c=10001671456435730123&amp;mkt=en-us",
+        "pubDate": "Thu, 10 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump's $5,000 dividend plan draws some Republican skepticism",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa37d08d1cf483ea5cd16665823385a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrumps-5000-dividend-plan-draws-some-republican-skepticism-2026-09-10%2f&amp;c=12921860827876073701&amp;mkt=en-us",
+        "pubDate": "Thu, 10 Sep 2026 12:07:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "U.S. crude oil tops $100 again \u2013 last seen in May \u2013 as market braces for prolonged Iran war",
-        "link": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-        "pubDate": "Thu, 10 Sep 2026 19:23:21 GMT",
-        "category": "world"
+        "title": "The iPhone Duo enters China\u2019s crowded foldable market \u2014 and faces a price test",
+        "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+        "pubDate": "Fri, 11 Sep 2026 02:05:24 GMT",
+        "category": "Top News"
       },
       {
         "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
@@ -164,12 +211,6 @@
         "title": "Stocks making the biggest moves premarket: Macy&apos;s, Meta, Apple, Novartis and more",
         "link": "https://www.cnbc.com/2026/09/10/stocks-making-the-biggest-moves-premarket-.html",
         "pubDate": "Thu, 10 Sep 2026 11:54:53 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ant International partners with Visa, Mastercard on developing AI payments",
-        "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
-        "pubDate": "Thu, 10 Sep 2026 01:53:50 GMT",
         "category": "Top News"
       }
     ]
