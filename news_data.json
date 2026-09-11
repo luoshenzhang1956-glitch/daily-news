@@ -1,61 +1,122 @@
 {
-  "updated_at": "2026-09-11T08:55:29.872930",
+  "updated_at": "2026-09-11T14:12:12.240478",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "US stocks jump after oil prices ease and inflation update comes in near expectations",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40bb0c3004d91be2d261def2ee6bb&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffinancial-markets-stocks-oil-iran-war-bonds-rates-8c3272812f5e9b9238c6a3301921c17a&amp;c=14029859440626992161&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 06:44:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Coach of German league\u2019s surprise package Elversberg cleared to face Bayern after ref admits error",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40b9c079f48c2ab2e2991c13c55df&amp;url=https%3a%2f%2fapnews.com%2farticle%2felversberg-coach-vincent-wagner-bayern-munich-bf27450195b0af45540bd9b2c64195fe&amp;c=18374097799825920774&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 06:42:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "A man fights for a new life in Cuba after the US expels him in an immigration crackdown",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40b9c079f48c2ab2e2991c13c55df&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcuba-deported-us-trump-immigration-06f21537bdb508d5c7ce2f17bbf75cfa&amp;c=17772516483233795909&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 06:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Designer Michael Kors recalls 9/11",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40b9c079f48c2ab2e2991c13c55df&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fdesigner-michael-kors-recalls-911-a2c253ac9e4b49918dfd286b21212e36&amp;c=18296572831304458143&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 06:30:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Emergency responders lift tour bus after accident leaves 5 dead and 40 injured in Switzerland",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40b9c079f48c2ab2e2991c13c55df&amp;url=https%3a%2f%2fapnews.com%2fvideo%2femergency-responders-lift-tour-bus-after-accident-leaves-5-dead-and-40-injured-in-switzerland-03649900f2dd41aca5fb248e4ee0decb&amp;c=18067302365688617613&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 06:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "FIA President Mohammed Ben Sulayem vows to keep Fernando Alonso in Formula 1",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40b9c079f48c2ab2e2991c13c55df&amp;url=https%3a%2f%2fapnews.com%2farticle%2ff1-spanishgp-fernando-alonso-ben-sulayem-fia-0c1d6d2a8cd1128a0a454683abdb7f0c&amp;c=5518174126637722823&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 05:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Poland warns Russia likely to intensify provocations on Ukraine\u2019s borders with European countries",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40b9c079f48c2ab2e2991c13c55df&amp;url=https%3a%2f%2fapnews.com%2farticle%2fpoland-russia-moldova-cia-border-crossing-ukraine-b1e2a19e2a9df1e84aec722896d38cab&amp;c=17503415203024569453&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 05:08:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Mushy, but in a good way: golf fans enjoy Dutch snacks at the Solheim Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40b9c079f48c2ab2e2991c13c55df&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsolheim-golf-food-netherlands-c3e3c1168685ca2b2ba1bfd4b4115ee7&amp;c=15704956413953466020&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 05:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "\u2018Mobland\u2019 cast addresses rumors of on-set tension",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40b9c079f48c2ab2e2991c13c55df&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fmobland-cast-addresses-rumors-of-on-set-tension-db63bd0ea280453181d237302900a073&amp;c=17169702607213920731&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 04:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40bae18094d7f84b609a5f845c128&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdiesel-prices-record-iran-war-636252b3b82326b41661ee5c4073dacb&amp;c=7331465148568388197&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 01:37:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/09/11/nx-s1-5955576/morning-news-brief",
-        "pubDate": "Fri, 11 Sep 2026 04:47:26 -0400",
+        "title": "The voices of Sept. 11: &apos;My first thought was ... I can&apos;t believe that I survived&apos;",
+        "link": "https://www.npr.org/2026/09/11/nx-s1-5965794/the-voices-of-sept-11-my-first-thought-was-i-cant-believe-that-i-survived",
+        "pubDate": "Fri, 11 Sep 2026 09:37:18 -0400",
         "category": "us"
       },
       {
-        "title": "Why Houthi military gains in Yemen may further increase gas prices",
-        "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-        "pubDate": "Fri, 11 Sep 2026 03:32:27 -0400",
+        "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
+        "link": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
+        "pubDate": "Fri, 11 Sep 2026 07:55:49 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+        "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
+        "pubDate": "Fri, 11 Sep 2026 06:04:04 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Will you get $5,000 to do the news quiz? No. But will it be fun? Maybe",
+        "link": "https://www.npr.org/2026/09/11/g-s1-142657/will-you-get-5-000-to-do-the-news-quiz-no-but-will-it-be-fun-maybe",
+        "pubDate": "Fri, 11 Sep 2026 05:01:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
+        "link": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+        "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
         "category": "world"
       },
       {
-        "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
-        "link": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
-        "pubDate": "Fri, 11 Sep 2026 02:42:04 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
-        "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
-        "pubDate": "Fri, 11 Sep 2026 01:40:21 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Former Anthropic researcher outlines threat of AI going rogue",
-        "link": "https://www.npr.org/2026/09/10/nx-s1-5964864/former-anthropic-researcher-outlines-threat-of-ai-going-rogue",
-        "pubDate": "Thu, 10 Sep 2026 21:00:14 -0400",
+        "title": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
+        "link": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
+        "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
         "category": "tech"
       },
       {
-        "title": "This summer was hot. August shattered global heat records",
-        "link": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest",
-        "pubDate": "Thu, 10 Sep 2026 17:30:52 -0400",
+        "title": "They cleaned up ground zero. Now many are hiding from ICE",
+        "link": "https://www.npr.org/2026/09/11/nx-s1-5965553/ground-zero-sept-11-undocumented-immigrants",
+        "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Lawsuit challenges intimidation of DHS observers across the country",
-        "link": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
-        "pubDate": "Thu, 10 Sep 2026 17:07:38 -0400",
+        "title": "Trump administration allows TPS to continue for Salvadorans \u2013 for now",
+        "link": "https://www.npr.org/2026/09/11/nx-s1-5963930/tps-salvadorans-immgiration",
+        "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
-        "link": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
-        "pubDate": "Thu, 10 Sep 2026 14:07:57 -0400",
+        "title": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
+        "link": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
+        "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Elon Musk threatens to sue over Gibney documentary&apos;s &quot;space lasers&quot; claim",
-        "link": "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
-        "pubDate": "Thu, 10 Sep 2026 11:13:09 -0400",
-        "category": "business"
       },
       {
         "title": "&apos;I&apos;ve never seen anything like this&apos; -- A U.S. doctor treats Ebola&apos;s youngest victims",
@@ -66,104 +127,86 @@
     ],
     "bbc": [
       {
-        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 11 Sep 2026 08:15:25 GMT",
-        "category": "tech"
+        "title": "US inflation holds steady as diesel prices pass $6 a gallon",
+        "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 13:58:20 GMT",
+        "category": "business"
       },
       {
-        "title": "AI boom helps drive surprise UK growth in July",
-        "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 11 Sep 2026 08:04:22 GMT",
-        "category": "business"
+        "title": "Assisted dying: How laws differ around the world",
+        "link": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 13:46:48 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Does this AI comic make you laugh?",
+        "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 12:49:30 GMT",
+        "category": "tech"
       },
       {
         "title": "Princess Diana's 'revenge dress' goes up for auction",
         "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 11 Sep 2026 06:54:46 GMT",
+        "pubDate": "Fri, 11 Sep 2026 12:04:46 GMT",
         "category": "Top News"
       },
       {
-        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
-        "link": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 11 Sep 2026 06:10:59 GMT",
+        "title": "Israel says it has destroyed major underground Hezbollah base",
+        "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 11:34:07 GMT",
         "category": "Top News"
       },
       {
-        "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-        "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 11 Sep 2026 05:53:06 GMT",
+        "title": "Polanski selected as Green Party candidate for Starmer's former seat",
+        "link": "https://www.bbc.co.uk/news/articles/cqxvzpg82yvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 11:06:46 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "AI boom helps drive surprise UK growth in July",
+        "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 10:17:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 08:15:25 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Is Trump's $5,000 pledge a sign of panic?",
+        "link": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 01:38:51 GMT",
+        "category": "us"
       },
       {
         "title": "New hurricane season record as 'historic' El Ni\u00f1o leaves Atlantic eerily quiet",
         "link": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 10 Sep 2026 23:22:33 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-        "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 10 Sep 2026 23:22:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
-        "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 10 Sep 2026 18:15:47 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-        "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 10 Sep 2026 13:23:37 GMT",
-        "category": "us"
-      },
-      {
-        "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
-        "link": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 10 Sep 2026 09:31:16 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "Zurich, Allianz insured transactions linked to Radiant World, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa3c17800f5483f96bd91c97aa21c94&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fzurich-allianz-insured-transactions-linked-radiant-world-ft-reports-2026-09-11%2f&amp;c=1094689658391224054&amp;mkt=en-us",
-        "pubDate": "Thu, 10 Sep 2026 17:00:00 GMT",
-        "category": "world"
+        "title": "Oil falls but on track for 8% weekly gain on supply concerns; US diesel hits record high",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40bf304764b5f9efbd3f8c3fb6dbc&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11%2f&amp;c=7168583604473700852&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 06:47:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Amazon Pay plans to expand insurance offerings in broader financial services push in India",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa40c0ab6b3495b8d084c73cec75e26&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2famazon-pay-plans-expand-insurance-offerings-broader-financial-services-push-2026-09-11%2f&amp;c=4271878604090971260&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 05:21:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "A Chinese humanoid startup flips &apos;distillation&apos; claim on OpenAI as it releases a new robotics model",
-        "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-        "pubDate": "Fri, 11 Sep 2026 06:02:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The iPhone Duo enters China\u2019s crowded foldable market \u2014 and faces a price test",
-        "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
-        "pubDate": "Fri, 11 Sep 2026 02:05:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-        "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-        "pubDate": "Thu, 10 Sep 2026 19:02:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kalshi launches \u2018perps\u2019 for gold and silver following CFTC approval, expanding futures offerings",
-        "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
-        "pubDate": "Thu, 10 Sep 2026 14:00:11 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Macy&apos;s, Meta, Apple, Novartis and more",
-        "link": "https://www.cnbc.com/2026/09/10/stocks-making-the-biggest-moves-premarket-.html",
-        "pubDate": "Thu, 10 Sep 2026 11:54:53 GMT",
-        "category": "Top News"
+        "title": "Here\u2019s a rapid-fire update on our 33-stock portfolio, including Cramer\u2019s 6 favorites to buy",
+        "link": "https://www.cnbc.com/2026/09/10/a-rapid-fire-update-on-our-33-stock-portfolio-including-6-to-buy-now.html",
+        "pubDate": "Thu, 10 Sep 2026 18:20:12 GMT",
+        "category": "health"
       }
     ]
   }
