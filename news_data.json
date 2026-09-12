@@ -1,38 +1,55 @@
 {
-  "updated_at": "2026-09-12T10:28:42.603164",
+  "updated_at": "2026-09-12T15:23:53.374749",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa528abae214f77b3c16e5e31e07203&amp;url=https%3a%2f%2fapnews.com%2farticle%2findia-brics-modi-russia-china-iran-wars-5393274f87a16461b195d13f324e747a&amp;c=3383301567701587612&amp;mkt=en-us",
-        "pubDate": "Fri, 11 Sep 2026 21:18:00 GMT",
+        "title": "&apos;People are still afraid of those three letters&apos;: Fighting the stigma of HIV",
+        "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
+        "pubDate": "Sat, 12 Sep 2026 09:03:20 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Manhattan&apos;s Trinity Church unveils new pipe organ, replacing one damaged in 9/11 attacks",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5936460/manhattans-trinity-church-unveils-new-pipe-organ-replacing-one-damaged-in-9-11-attacks",
+        "pubDate": "Sat, 12 Sep 2026 08:47:00 -0400",
         "category": "us"
       },
       {
-        "title": "For the US news industry, a tough summer draws to a close with McClatchy chain\u2019s cuts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa528b054944a22962b306e600d3680&amp;url=https%3a%2f%2fapnews.com%2farticle%2flayoffs-miami-herald-mcclatchy-c27bcd1a875f1b788afe8b49c1f8beaf&amp;c=7790390760897848366&amp;mkt=en-us",
-        "pubDate": "Fri, 11 Sep 2026 21:00:00 GMT",
-        "category": "business"
-      }
-    ],
-    "npr": [
+        "title": "OPINION: 25 years on, a nation still mourns",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
+        "pubDate": "Sat, 12 Sep 2026 08:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "A cancer survivor hoped to work \u2014 then she lost her Medicaid disability coverage",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
+        "pubDate": "Sat, 12 Sep 2026 07:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Trump meets Ireland&apos;s leaders before heading to his golf club in Doonbeg",
+        "link": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
+        "pubDate": "Sat, 12 Sep 2026 06:55:14 -0400",
+        "category": "Top News"
+      },
       {
         "title": "The secret quest to preserve Palestinian writer Raja Shehadeh&apos;s diaries",
         "link": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
         "pubDate": "Sat, 12 Sep 2026 06:00:00 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Neighbor turned on neighbor after Charlie Kirk&apos;s killing. Is the divide here to stay?",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-        "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Why are the people building the most powerful AI so worried about what it could do?",
         "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
         "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
         "category": "business"
+      },
+      {
+        "title": "Neighbor turned on neighbor after Charlie Kirk&apos;s killing. Is the divide here to stay?",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
+        "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
       },
       {
         "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
@@ -45,61 +62,37 @@
         "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
         "pubDate": "Sat, 12 Sep 2026 03:18:55 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Yemen&apos;s Houthis capture a Red Sea island in threat to shipping",
-        "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
-        "pubDate": "Sat, 12 Sep 2026 01:57:08 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
-        "link": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah",
-        "pubDate": "Fri, 11 Sep 2026 16:29:31 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-        "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-        "pubDate": "Fri, 11 Sep 2026 15:39:35 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/09/11/g-s1-142913/in-photos-remembering-the-sept-11-attacks-25-years-later",
-        "pubDate": "Fri, 11 Sep 2026 15:05:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "As diseases loom, CDC&apos;s response to measles deaths stirs fears about agency&apos;s reliability",
-        "link": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
-        "pubDate": "Fri, 11 Sep 2026 11:34:51 -0400",
-        "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
-        "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 10:07:00 GMT",
+        "title": "Reform receives second \u00a336m donation in two days as crypto investor matches record",
+        "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 15:13:40 GMT",
         "category": "Top News"
       },
       {
-        "title": "Reform receives record \u00a336m donation from crypto billionaire",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 06:19:50 GMT",
+        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
+        "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 12:51:24 GMT",
         "category": "Top News"
       },
       {
         "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
         "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 04:43:10 GMT",
+        "pubDate": "Sat, 12 Sep 2026 12:15:50 GMT",
         "category": "world"
       },
       {
-        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-        "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 00:43:00 GMT",
+        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 02:29:49 GMT",
         "category": "us"
       },
       {
@@ -109,15 +102,9 @@
         "category": "tech"
       },
       {
-        "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-        "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 00:24:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
-        "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 11 Sep 2026 23:06:39 GMT",
+        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+        "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 00:16:16 GMT",
         "category": "Top News"
       },
       {
@@ -142,28 +129,10 @@
     "reuters": [],
     "markets": [
       {
-        "title": "Stocks making the biggest moves midday: Dell, Skyworks Solutions, GameStop &amp; more",
-        "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-midday-dell-swks-gme.html",
-        "pubDate": "Fri, 11 Sep 2026 21:51:33 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-        "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-        "pubDate": "Fri, 11 Sep 2026 16:06:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
-        "link": "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html",
-        "pubDate": "Fri, 11 Sep 2026 15:36:45 GMT",
-        "category": "health"
-      },
-      {
-        "title": "The iPhone Duo enters China\u2019s crowded foldable market \u2014 and faces a price test",
-        "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
-        "pubDate": "Fri, 11 Sep 2026 14:30:29 GMT",
-        "category": "Top News"
+        "title": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish",
+        "link": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
+        "pubDate": "Sat, 12 Sep 2026 14:37:07 GMT",
+        "category": "tech"
       }
     ]
   }
