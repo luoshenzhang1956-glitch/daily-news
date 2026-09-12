@@ -1,26 +1,32 @@
 {
-  "updated_at": "2026-09-12T18:18:16.928420",
+  "updated_at": "2026-09-12T22:07:24.027086",
   "news": {
     "ap": [
       {
-        "title": "Chicago Fire take draw streak into matchup with the New England Revolution",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa596c523ae46029e2c10f4af4e34ea&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchicago-fire-mls-soccer-new-england-revolution-soccer-general-news-faf4fd5c25374fd79b70b553a0e2e786&amp;c=17049518385604676866&amp;mkt=en-us",
-        "pubDate": "Fri, 11 Sep 2026 23:15:00 GMT",
-        "category": "tech"
+        "title": "US women are back in the FIBA World Cup final after a gritty 76-66 win over Spain",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa5cc71a6584d08977445eeda9ee1f1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-world-cup-title-game-48ff974a12dd7eabe409546b83b7dcfc&amp;c=9699001085561563970&amp;mkt=en-us",
+        "pubDate": "Sat, 12 Sep 2026 14:05:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
+      {
+        "title": "25 years post 9/11, a grieving sister finds sense of peace at United 93 crash site",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5954542/25-years-post-9-11-a-grieving-sister-finds-sense-of-peace-at-united-93-crash-site",
+        "pubDate": "Sat, 12 Sep 2026 17:01:04 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
+        "pubDate": "Sat, 12 Sep 2026 14:29:18 -0400",
+        "category": "Top News"
+      },
       {
         "title": "&apos;People are still afraid of those three letters&apos;: Fighting the stigma of HIV",
         "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
         "pubDate": "Sat, 12 Sep 2026 09:03:20 -0400",
         "category": "world"
-      },
-      {
-        "title": "Manhattan&apos;s Trinity Church unveils new pipe organ, replacing one damaged in 9/11 attacks",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5936460/manhattans-trinity-church-unveils-new-pipe-organ-replacing-one-damaged-in-9-11-attacks",
-        "pubDate": "Sat, 12 Sep 2026 08:47:00 -0400",
-        "category": "us"
       },
       {
         "title": "OPINION: 25 years on, a nation still mourns",
@@ -47,7 +53,7 @@
         "category": "Top News"
       },
       {
-        "title": "Why are the people building the most powerful AI so worried about what it could do?",
+        "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
         "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
         "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
         "category": "business"
@@ -63,20 +69,32 @@
         "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
         "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
-        "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
-        "pubDate": "Sat, 12 Sep 2026 03:18:55 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+        "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 17:42:38 GMT",
+        "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT",
         "category": "world"
+      },
+      {
+        "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+        "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 20:37:29 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Fire at nursing home in Chile kills 16 residents",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 19:36:50 GMT",
+        "category": "health"
       },
       {
         "title": "Reform receives second \u00a336m donation in two days as crypto investor matches record",
@@ -88,31 +106,7 @@
         "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
         "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 12 Sep 2026 17:28:53 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Three arrests at Portsmouth protests including man, 76, suspected of concealing identity",
-        "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 16:50:08 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 16:32:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT",
         "category": "us"
-      },
-      {
-        "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT",
-        "category": "Top News"
       },
       {
         "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
@@ -127,6 +121,12 @@
         "category": "Top News"
       },
       {
+        "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 00:35:50 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
         "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 11 Sep 2026 23:06:39 GMT",
@@ -134,6 +134,19 @@
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+        "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+        "pubDate": "Sat, 12 Sep 2026 17:14:56 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "GM plans U.S. battery development as Trump&apos;s DOT attacks Ford for China ties",
+        "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+        "pubDate": "Sat, 12 Sep 2026 12:00:01 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
