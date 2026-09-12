@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-12T15:23:53.374749",
+  "updated_at": "2026-09-12T18:18:16.928420",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Chicago Fire take draw streak into matchup with the New England Revolution",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa596c523ae46029e2c10f4af4e34ea&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchicago-fire-mls-soccer-new-england-revolution-soccer-general-news-faf4fd5c25374fd79b70b553a0e2e786&amp;c=17049518385604676866&amp;mkt=en-us",
+        "pubDate": "Fri, 11 Sep 2026 23:15:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
       {
         "title": "&apos;People are still afraid of those three letters&apos;: Fighting the stigma of HIV",
@@ -46,14 +53,14 @@
         "category": "business"
       },
       {
-        "title": "Neighbor turned on neighbor after Charlie Kirk&apos;s killing. Is the divide here to stay?",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
+        "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
         "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+        "title": "Neighbor turned on neighbor after Charlie Kirk&apos;s killing. Is the divide here to stay?",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
         "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -66,13 +73,43 @@
     ],
     "bbc": [
       {
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 17:42:38 GMT",
+        "category": "world"
+      },
+      {
         "title": "Reform receives second \u00a336m donation in two days as crypto investor matches record",
         "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 15:13:40 GMT",
+        "pubDate": "Sat, 12 Sep 2026 17:36:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 17:28:53 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Three arrests at Portsmouth protests including man, 76, suspected of concealing identity",
+        "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 16:50:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
+        "link": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 16:32:27 GMT",
         "category": "Top News"
       },
       {
         "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
         "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT",
         "category": "Top News"
@@ -84,56 +121,19 @@
         "category": "Top News"
       },
       {
-        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-        "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 12:15:50 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-        "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 02:29:49 GMT",
-        "category": "us"
-      },
-      {
-        "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 00:35:50 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
-        "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 00:16:16 GMT",
+        "title": "I never got to experience my baby's scan, but blind parents like me can now feel them",
+        "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 00:37:41 GMT",
         "category": "Top News"
       },
       {
-        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT",
+        "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
+        "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 11 Sep 2026 23:06:39 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Running costs of vaccine damage scheme more than double amount paid to victims",
-        "link": "https://www.bbc.co.uk/news/articles/cj06762qegmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 11 Sep 2026 17:45:14 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-        "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 11 Sep 2026 15:37:25 GMT",
-        "category": "business"
       }
     ],
     "reuters": [],
-    "markets": [
-      {
-        "title": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish",
-        "link": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
-        "pubDate": "Sat, 12 Sep 2026 14:37:07 GMT",
-        "category": "tech"
-      }
-    ]
+    "markets": []
   }
 }
