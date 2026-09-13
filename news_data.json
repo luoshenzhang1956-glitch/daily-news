@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-09-13T15:59:40.550466",
+  "updated_at": "2026-09-13T18:47:15.802297",
   "news": {
-    "ap": [
-      {
-        "title": "Olympic rematch: US and France to meet for women\u2019s FIBA World Cup title",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa6c7d274c242ea885f2c029856ce0b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-france-rematch-world-cup-68209f835d3c7150a3558d3bf290cf8b&amp;c=16961739075870585288&amp;mkt=en-us",
-        "pubDate": "Sat, 12 Sep 2026 22:04:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
+        "pubDate": "Sun, 13 Sep 2026 13:45:33 -0400",
+        "category": "us"
+      },
       {
         "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
         "link": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
         "pubDate": "Sun, 13 Sep 2026 10:00:00 -0400",
         "category": "health"
-      },
-      {
-        "title": "A TikTok-famous masked superhero is roaming the streets of Roanoke, Virginia",
-        "link": "https://www.npr.org/2026/09/13/nx-s1-5959165/a-tiktok-famous-masked-superhero-is-roaming-the-streets-of-roanoke-virginia",
-        "pubDate": "Sun, 13 Sep 2026 08:05:49 -0400",
-        "category": "us"
       },
       {
         "title": "Could AI kill us all? Professor weighs in on former Anthropic employee&apos;s claim",
@@ -63,19 +56,37 @@
         "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
         "pubDate": "Sat, 12 Sep 2026 19:54:06 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
-        "pubDate": "Sat, 12 Sep 2026 14:29:18 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Trump doubles down on united Ireland comments on day two of visit",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 15:42:50 GMT",
+        "title": "Questions mount over what an AI 'slowdown' would look like",
+        "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 18:03:44 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+        "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 17:38:29 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Meghan shares glimpse of family life after Sussexes return to UK",
+        "link": "https://www.bbc.co.uk/news/articles/c62ml4lp6jlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 17:22:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Police searching for six men over anti-migrant protest in Portsmouth",
+        "link": "https://www.bbc.co.uk/news/articles/c158p587w4no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 16:51:35 GMT",
         "category": "Top News"
       },
       {
@@ -94,13 +105,7 @@
         "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
         "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 13 Sep 2026 14:53:40 GMT",
-        "category": "world"
-      },
-      {
-        "title": "US embassy child abuse images suspect flown from UK before police interview",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjw1j1eq7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 13:31:18 GMT",
-        "category": "Top News"
+        "category": "business"
       },
       {
         "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
@@ -109,51 +114,13 @@
         "category": "Top News"
       },
       {
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 09:05:10 GMT",
-        "category": "us"
-      },
-      {
         "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
         "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 13 Sep 2026 05:55:19 GMT",
         "category": "health"
-      },
-      {
-        "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 23:41:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT",
-        "category": "business"
       }
     ],
-    "reuters": [
-      {
-        "title": "Trump says US could stay in Iran and keep oil, like Venezuela deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa6c81c926f495fbd60f1628a5b3865&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftrump-says-us-could-stay-iran-keep-oil-like-venezuela-deal-2026-09-13%2f&amp;c=13671134829312412650&amp;mkt=en-us",
-        "pubDate": "Sun, 13 Sep 2026 08:10:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Trump says 'very negative forces' raising exaggerated concerns over AI",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa6c825d9884ab79711a3c6c137bf75&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13%2f&amp;c=5484091692415736445&amp;mkt=en-us",
-        "pubDate": "Sun, 13 Sep 2026 07:28:00 GMT",
-        "category": "tech"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
-        "link": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-        "pubDate": "Sun, 13 Sep 2026 11:53:35 GMT",
-        "category": "us"
-      }
-    ]
+    "reuters": [],
+    "markets": []
   }
 }
