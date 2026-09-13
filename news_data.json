@@ -1,20 +1,31 @@
 {
-  "updated_at": "2026-09-12T22:07:24.027086",
+  "updated_at": "2026-09-13T11:31:25.426250",
   "news": {
-    "ap": [
-      {
-        "title": "US women are back in the FIBA World Cup final after a gritty 76-66 win over Spain",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa5cc71a6584d08977445eeda9ee1f1&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-world-cup-title-game-48ff974a12dd7eabe409546b83b7dcfc&amp;c=9699001085561563970&amp;mkt=en-us",
-        "pubDate": "Sat, 12 Sep 2026 14:05:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
-        "title": "25 years post 9/11, a grieving sister finds sense of peace at United 93 crash site",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5954542/25-years-post-9-11-a-grieving-sister-finds-sense-of-peace-at-united-93-crash-site",
-        "pubDate": "Sat, 12 Sep 2026 17:01:04 -0400",
+        "title": "Can you imagine a universe without a new &apos;Star Trek&apos; on the horizon?",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
+        "pubDate": "Sun, 13 Sep 2026 07:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+        "link": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
+        "pubDate": "Sun, 13 Sep 2026 06:31:10 -0400",
+        "category": "world"
+      },
+      {
+        "title": "How a young woman became an ISIS bride \u2014 and then an informant, helping save others",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
+        "pubDate": "Sun, 13 Sep 2026 05:00:00 -0400",
         "category": "us"
+      },
+      {
+        "title": "Celine Dion returns to the stage after battling rare illness",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
+        "pubDate": "Sat, 12 Sep 2026 19:54:06 -0400",
+        "category": "Top News"
       },
       {
         "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
@@ -26,119 +37,138 @@
         "title": "&apos;People are still afraid of those three letters&apos;: Fighting the stigma of HIV",
         "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
         "pubDate": "Sat, 12 Sep 2026 09:03:20 -0400",
-        "category": "world"
+        "category": "health"
       },
       {
         "title": "OPINION: 25 years on, a nation still mourns",
         "link": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
         "pubDate": "Sat, 12 Sep 2026 08:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "A cancer survivor hoped to work \u2014 then she lost her Medicaid disability coverage",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
-        "pubDate": "Sat, 12 Sep 2026 07:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Trump meets Ireland&apos;s leaders before heading to his golf club in Doonbeg",
-        "link": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
-        "pubDate": "Sat, 12 Sep 2026 06:55:14 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The secret quest to preserve Palestinian writer Raja Shehadeh&apos;s diaries",
-        "link": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
-        "pubDate": "Sat, 12 Sep 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
-        "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
-        "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Neighbor turned on neighbor after Charlie Kirk&apos;s killing. Is the divide here to stay?",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-        "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT",
+        "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 11:16:06 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 11:13:07 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Reform's \u00a372m donations 'entirely in line with law', Jenrick says",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 10:54:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 09:05:10 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Europe must endure winter of hardship to keep pressure on Putin, says PM's security adviser",
+        "link": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 06:21:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 05:55:19 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Flattened molars and facial pain: Why are more young people grinding their teeth?",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 05:55:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+        "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 23:15:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Diljit Dosanjh makes history under the famous Wembley arch",
+        "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 23:06:08 GMT",
         "category": "Top News"
       },
       {
         "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT",
+        "category": "us"
+      }
+    ],
+    "reuters": [
+      {
+        "title": "Rescuers search for 130 people after Indonesia passenger ship flipped; six dead, government says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2findonesia-passenger-ship-with-243-people-reported-missing-sea-agency-says-2026-09-13%2f&amp;c=15987823479690710856&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 04:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "GE HealthCare in talks over possible $1 billion deal for Sofie Biosciences, FT reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fge-healthcare-talks-over-possible-1-billion-deal-sofie-biosciences-ft-reports-2026-09-13%2f&amp;c=1898855480190656426&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 04:17:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "While World Athletics firm on Russia ban, Coe acknowledges need for solution",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68918ad644f6ba1c94b12e2ca2164&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fwhile-world-athletics-firm-russia-ban-coe-acknowledges-need-solution-2026-09-13%2f&amp;c=6975606983030606678&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 04:12:00 GMT",
         "category": "world"
       },
       {
-        "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-        "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 20:37:29 GMT",
+        "title": "South Korea aims to finalise details of US investment plan this week, minister says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-korea-aims-finalise-details-us-investment-plan-this-week-minister-says-2026-09-13%2f&amp;c=3345637399599252104&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 04:11:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Philippine ferry fire victims may take months to identify, authorities say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fphilippine-ferry-fire-victims-may-take-months-identify-authorities-say-2026-09-13%2f&amp;c=16073485318716023053&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 03:15:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Xi pushes 'Greater BRICS' economic ties to give bloc larger global role",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fxi-pushes-greater-brics-economic-ties-give-bloc-larger-global-role-2026-09-13%2f&amp;c=2134710819901390180&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 01:44:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fnew-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-2026-09-13%2f&amp;c=10110196981026157474&amp;mkt=en-us",
+        "pubDate": "Sat, 12 Sep 2026 19:21:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fopenai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12%2f&amp;c=6351780408279495664&amp;mkt=en-us",
+        "pubDate": "Sat, 12 Sep 2026 13:38:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Larry Ellison cancels plan to sell Oracle stock worth up to $7.5 billion",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa6892809b448e29ef01946cba2baa7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2flarry-ellison-cancels-plan-sell-oracle-stock-2026-09-12%2f&amp;c=1369112765068208430&amp;mkt=en-us",
+        "pubDate": "Sat, 12 Sep 2026 11:38:00 GMT",
         "category": "business"
-      },
-      {
-        "title": "Fire at nursing home in Chile kills 16 residents",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 19:36:50 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Reform receives second \u00a336m donation in two days as crypto investor matches record",
-        "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 17:36:45 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 17:28:53 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
-        "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 12:51:24 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "I never got to experience my baby's scan, but blind parents like me can now feel them",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 00:37:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 00:35:50 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
-        "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 11 Sep 2026 23:06:39 GMT",
-        "category": "Top News"
       }
     ],
-    "reuters": [],
     "markets": [
       {
-        "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
-        "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
-        "pubDate": "Sat, 12 Sep 2026 17:14:56 GMT",
+        "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
+        "link": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+        "pubDate": "Sun, 13 Sep 2026 11:17:12 GMT",
         "category": "tech"
       },
       {
