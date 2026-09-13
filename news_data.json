@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-09-13T11:31:25.426250",
+  "updated_at": "2026-09-13T15:59:40.550466",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Olympic rematch: US and France to meet for women\u2019s FIBA World Cup title",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa6c7d274c242ea885f2c029856ce0b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-france-rematch-world-cup-68209f835d3c7150a3558d3bf290cf8b&amp;c=16961739075870585288&amp;mkt=en-us",
+        "pubDate": "Sat, 12 Sep 2026 22:04:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
+        "pubDate": "Sun, 13 Sep 2026 10:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "A TikTok-famous masked superhero is roaming the streets of Roanoke, Virginia",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5959165/a-tiktok-famous-masked-superhero-is-roaming-the-streets-of-roanoke-virginia",
+        "pubDate": "Sun, 13 Sep 2026 08:05:49 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Could AI kill us all? Professor weighs in on former Anthropic employee&apos;s claim",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5966638/could-ai-kill-us-all-professor-weighs-in-on-former-anthropic-employees-claim",
+        "pubDate": "Sun, 13 Sep 2026 08:04:30 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Politics chat: Trump&apos;s $5,000 promise to voters, Vance invokes Charlie Kirk",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
+        "pubDate": "Sun, 13 Sep 2026 08:04:27 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "A new tax incentive could lead to more films being made in the U.S. rather than abroad",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5962169/a-new-tax-incentive-could-lead-to-more-films-being-made-in-the-u-s-rather-than-abroad",
+        "pubDate": "Sun, 13 Sep 2026 08:04:25 -0400",
+        "category": "business"
+      },
       {
         "title": "Can you imagine a universe without a new &apos;Star Trek&apos; on the horizon?",
         "link": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
@@ -10,16 +47,16 @@
         "category": "Top News"
       },
       {
-        "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+        "title": "Indonesian passenger ship overturns, sparking search for at least 129 missing",
         "link": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
         "pubDate": "Sun, 13 Sep 2026 06:31:10 -0400",
         "category": "world"
       },
       {
-        "title": "How a young woman became an ISIS bride \u2014 and then an informant, helping save others",
+        "title": "How a young woman was recruited to ISIS \u2014 and how she eventually escaped",
         "link": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
         "pubDate": "Sun, 13 Sep 2026 05:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Celine Dion returns to the stage after battling rare illness",
@@ -32,21 +69,39 @@
         "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
         "pubDate": "Sat, 12 Sep 2026 14:29:18 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "&apos;People are still afraid of those three letters&apos;: Fighting the stigma of HIV",
-        "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
-        "pubDate": "Sat, 12 Sep 2026 09:03:20 -0400",
-        "category": "health"
-      },
-      {
-        "title": "OPINION: 25 years on, a nation still mourns",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
-        "pubDate": "Sat, 12 Sep 2026 08:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Trump doubles down on united Ireland comments on day two of visit",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 15:42:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Reform confident it won't need to repay any of \u00a372m under proposed new donor rules",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 15:40:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Andy Burnham among Great North Run finishers",
+        "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 14:54:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 14:53:40 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US embassy child abuse images suspect flown from UK before police interview",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjw1j1eq7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 13:31:18 GMT",
+        "category": "Top News"
+      },
       {
         "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
         "link": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&amp;at_campaign=rss",
@@ -54,28 +109,10 @@
         "category": "Top News"
       },
       {
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 11:13:07 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Reform's \u00a372m donations 'entirely in line with law', Jenrick says",
-        "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 10:54:50 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
         "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 13 Sep 2026 09:05:10 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Europe must endure winter of hardship to keep pressure on Putin, says PM's security adviser",
-        "link": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 06:21:12 GMT",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
@@ -84,98 +121,38 @@
         "category": "health"
       },
       {
-        "title": "Flattened molars and facial pain: Why are more young people grinding their teeth?",
-        "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 05:55:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Will the Thirlwall report change the debate about Lucy Letby?",
-        "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 23:15:54 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Diljit Dosanjh makes history under the famous Wembley arch",
-        "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 12 Sep 2026 23:06:08 GMT",
+        "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 12 Sep 2026 23:41:52 GMT",
         "category": "Top News"
       },
       {
         "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT",
-        "category": "us"
+        "category": "business"
       }
     ],
     "reuters": [
       {
-        "title": "Rescuers search for 130 people after Indonesia passenger ship flipped; six dead, government says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2findonesia-passenger-ship-with-243-people-reported-missing-sea-agency-says-2026-09-13%2f&amp;c=15987823479690710856&amp;mkt=en-us",
-        "pubDate": "Sun, 13 Sep 2026 04:19:00 GMT",
-        "category": "Top News"
+        "title": "Trump says US could stay in Iran and keep oil, like Venezuela deal",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa6c81c926f495fbd60f1628a5b3865&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftrump-says-us-could-stay-iran-keep-oil-like-venezuela-deal-2026-09-13%2f&amp;c=13671134829312412650&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 08:10:00 GMT",
+        "category": "us"
       },
       {
-        "title": "GE HealthCare in talks over possible $1 billion deal for Sofie Biosciences, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fge-healthcare-talks-over-possible-1-billion-deal-sofie-biosciences-ft-reports-2026-09-13%2f&amp;c=1898855480190656426&amp;mkt=en-us",
-        "pubDate": "Sun, 13 Sep 2026 04:17:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "While World Athletics firm on Russia ban, Coe acknowledges need for solution",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68918ad644f6ba1c94b12e2ca2164&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fwhile-world-athletics-firm-russia-ban-coe-acknowledges-need-solution-2026-09-13%2f&amp;c=6975606983030606678&amp;mkt=en-us",
-        "pubDate": "Sun, 13 Sep 2026 04:12:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "South Korea aims to finalise details of US investment plan this week, minister says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fsouth-korea-aims-finalise-details-us-investment-plan-this-week-minister-says-2026-09-13%2f&amp;c=3345637399599252104&amp;mkt=en-us",
-        "pubDate": "Sun, 13 Sep 2026 04:11:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Philippine ferry fire victims may take months to identify, authorities say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fphilippine-ferry-fire-victims-may-take-months-identify-authorities-say-2026-09-13%2f&amp;c=16073485318716023053&amp;mkt=en-us",
-        "pubDate": "Sun, 13 Sep 2026 03:15:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Xi pushes 'Greater BRICS' economic ties to give bloc larger global role",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fxi-pushes-greater-brics-economic-ties-give-bloc-larger-global-role-2026-09-13%2f&amp;c=2134710819901390180&amp;mkt=en-us",
-        "pubDate": "Sun, 13 Sep 2026 01:44:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fnew-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-2026-09-13%2f&amp;c=10110196981026157474&amp;mkt=en-us",
-        "pubDate": "Sat, 12 Sep 2026 19:21:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa68915677946f483d90a90d9efc692&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fopenai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12%2f&amp;c=6351780408279495664&amp;mkt=en-us",
-        "pubDate": "Sat, 12 Sep 2026 13:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Larry Ellison cancels plan to sell Oracle stock worth up to $7.5 billion",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa6892809b448e29ef01946cba2baa7&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2flarry-ellison-cancels-plan-sell-oracle-stock-2026-09-12%2f&amp;c=1369112765068208430&amp;mkt=en-us",
-        "pubDate": "Sat, 12 Sep 2026 11:38:00 GMT",
-        "category": "business"
+        "title": "Trump says 'very negative forces' raising exaggerated concerns over AI",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa6c825d9884ab79711a3c6c137bf75&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13%2f&amp;c=5484091692415736445&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 07:28:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-        "link": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
-        "pubDate": "Sun, 13 Sep 2026 11:17:12 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "GM plans U.S. battery development as Trump&apos;s DOT attacks Ford for China ties",
-        "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
-        "pubDate": "Sat, 12 Sep 2026 12:00:01 GMT",
-        "category": "business"
+        "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
+        "link": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
+        "pubDate": "Sun, 13 Sep 2026 11:53:35 GMT",
+        "category": "us"
       }
     ]
   }
