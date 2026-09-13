@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-09-13T18:47:15.802297",
+  "updated_at": "2026-09-13T22:17:24.116905",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Breanna Stewart continues winning tradtion with 4th World Cup championship",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa7208a54054dbcac91b2a6f722a04f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstewart-us-winner-fiba-world-cup-ed0ac2dfb5eef6841f34b09600c5ed62&amp;c=10094222804548880272&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 15:06:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US wins fifth straight women\u2019s FIBA World Cup title, beating France 97-79",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa7208cdc2b40a3a228d77be71954b7&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffrance-us-world-cup-score-e25ded41f7a4970a54e18909e6a6cdf7&amp;c=1216265759264620366&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 12:54:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Georgia Tech defensive back Jaylen Mbakwe released from hospital following scary collision in loss",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa72091d7fe4139b32385fdc9f822d6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fgeorgia-tech-mbakwe-injury-c5254e992862a04a2d4fd8d31011fa62&amp;c=5295429051645141437&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 10:38:00 GMT",
+        "category": "tech"
+      }
+    ],
     "npr": [
+      {
+        "title": "AI CEOs call for industry slowdown",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5967558/ai-ceos-call-for-industry-slowdown",
+        "pubDate": "Sun, 13 Sep 2026 17:03:16 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
+        "pubDate": "Sun, 13 Sep 2026 17:03:15 -0400",
+        "category": "world"
+      },
       {
         "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
         "link": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
@@ -14,12 +45,6 @@
         "link": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
         "pubDate": "Sun, 13 Sep 2026 10:00:00 -0400",
         "category": "health"
-      },
-      {
-        "title": "Could AI kill us all? Professor weighs in on former Anthropic employee&apos;s claim",
-        "link": "https://www.npr.org/2026/09/13/nx-s1-5966638/could-ai-kill-us-all-professor-weighs-in-on-former-anthropic-employees-claim",
-        "pubDate": "Sun, 13 Sep 2026 08:04:30 -0400",
-        "category": "tech"
       },
       {
         "title": "Politics chat: Trump&apos;s $5,000 promise to voters, Vance invokes Charlie Kirk",
@@ -34,6 +59,12 @@
         "category": "business"
       },
       {
+        "title": "From fracking to data centers: Hearing from people on both sides of the opposition",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5946724/from-fracking-to-data-centers-hearing-from-people-on-both-sides-of-the-opposition",
+        "pubDate": "Sun, 13 Sep 2026 08:04:24 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Can you imagine a universe without a new &apos;Star Trek&apos; on the horizon?",
         "link": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
         "pubDate": "Sun, 13 Sep 2026 07:00:00 -0400",
@@ -43,22 +74,52 @@
         "title": "Indonesian passenger ship overturns, sparking search for at least 129 missing",
         "link": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
         "pubDate": "Sun, 13 Sep 2026 06:31:10 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "How a young woman was recruited to ISIS \u2014 and how she eventually escaped",
         "link": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
         "pubDate": "Sun, 13 Sep 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Celine Dion returns to the stage after battling rare illness",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
-        "pubDate": "Sat, 12 Sep 2026 19:54:06 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Deep-fried food banned under new school dinner rules in England",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 21:30:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Culture shift' needed in how UK does business, PM urges",
+        "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 21:30:21 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Refereeing body admits judgement error over Haaland derby winner",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 20:29:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+        "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 19:14:21 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
+        "category": "us"
+      },
       {
         "title": "Questions mount over what an AI 'slowdown' would look like",
         "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&amp;at_campaign=rss",
@@ -66,51 +127,15 @@
         "category": "tech"
       },
       {
-        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 18:03:44 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-        "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 17:38:29 GMT",
-        "category": "world"
+        "title": "Will record donations to Reform go down as a moment of political change?",
+        "link": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 13 Sep 2026 17:51:19 GMT",
+        "category": "Top News"
       },
       {
         "title": "Meghan shares glimpse of family life after Sussexes return to UK",
         "link": "https://www.bbc.co.uk/news/articles/c62ml4lp6jlo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 13 Sep 2026 17:22:22 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Police searching for six men over anti-migrant protest in Portsmouth",
-        "link": "https://www.bbc.co.uk/news/articles/c158p587w4no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 16:51:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Reform confident it won't need to repay any of \u00a372m under proposed new donor rules",
-        "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 15:40:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Andy Burnham among Great North Run finishers",
-        "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 14:54:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 14:53:40 GMT",
-        "category": "business"
-      },
-      {
-        "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 11:16:06 GMT",
         "category": "Top News"
       },
       {
@@ -120,7 +145,39 @@
         "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": []
+    "reuters": [
+      {
+        "title": "UK PM Burnham to meet business leaders to discuss growth",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa720b6ff444956b6e741b32c8b03ea&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fuk-pm-burnham-meet-business-leaders-discuss-growth-2026-09-13%2f&amp;c=3141409525530840017&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 14:33:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Paris cheers the power of Celine Dion",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa720b91f6c493198bf50c84e8129fe&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fparis-cheers-power-celine-dion-2026-09-13%2f&amp;c=7148998843039582219&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 12:04:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa720a84d6b42088a7fe49c82394504&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fahead-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-2026-09-13%2f&amp;c=18361299491806249935&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 11:14:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Hyundai Motor to roll out in-house driver-assist system in 2029",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa720b7c3824f649186bccaa5af6c02&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fhyundai-motor-roll-out-in-house-driver-assist-system-2029-2026-09-13%2f&amp;c=3237719523764878988&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 11:14:00 GMT",
+        "category": "tech"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
+        "link": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
+        "pubDate": "Sun, 13 Sep 2026 11:53:35 GMT",
+        "category": "us"
+      }
+    ]
   }
 }
