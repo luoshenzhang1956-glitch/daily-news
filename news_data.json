@@ -1,20 +1,44 @@
 {
-  "updated_at": "2026-09-14T12:24:52.548921",
+  "updated_at": "2026-09-14T19:12:08.168290",
   "news": {
     "ap": [
       {
-        "title": "Carney pitches Canada to global investors as Trump tries to pull investment south",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa7e6d53dc74344b5c37036a8f0d9ff&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcanada-carney-investment-summit-toronto-trump-41a910eb2f0b6ddad5112e48746597e3&amp;c=10710349792263313308&amp;mkt=en-us",
-        "pubDate": "Sun, 13 Sep 2026 21:24:00 GMT",
-        "category": "business"
+        "title": "Ecuador hires Marcelo Gallardo as national team coach for the 2030 World Cup",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa84634aa504732a36daf8152b5abbf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmarcelo-gallardo-ecuador-world-cup-2030-baf880d9c4b2f7c390ba212e44e75874&amp;c=6779667130259055718&amp;mkt=en-us",
+        "pubDate": "Mon, 14 Sep 2026 08:59:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "New warnings about the risks of AI to humanity revive a long-running debate",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa84654138c478980f72866d960868f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fartificial-intelligence-threats-humanity-anthropic-openai-98316b0d64de17191f33c0fbf1d37858&amp;c=15125683460531460635&amp;mkt=en-us",
+        "pubDate": "Sun, 13 Sep 2026 21:09:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
       {
+        "title": "10 years after taking a knee, Colin Kaepernick is still waging a &apos;Perilous Fight&apos;",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+        "pubDate": "Mon, 14 Sep 2026 14:45:21 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Kennedy Center says it&apos;s on the brink of bankruptcy, might close as early as Tuesday",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
+        "pubDate": "Mon, 14 Sep 2026 14:25:04 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The producer of Fleabag and Baby Reindeer&apos;s tip for finding a hit? Don&apos;t look for one",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
+        "pubDate": "Mon, 14 Sep 2026 10:03:14 -0400",
+        "category": "world"
+      },
+      {
         "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
         "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
         "pubDate": "Mon, 14 Sep 2026 07:39:06 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
@@ -47,48 +71,60 @@
         "category": "Top News"
       },
       {
-        "title": "ChatGPT has a feature to help those in crisis. But where can you find it?",
+        "title": "NPR looked for ChatGPT&apos;s new crisis feature. It&apos;s hard to find",
         "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
         "pubDate": "Mon, 14 Sep 2026 05:00:00 -0400",
         "category": "health"
-      },
-      {
-        "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
-        "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-        "pubDate": "Mon, 14 Sep 2026 02:20:28 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-        "link": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
-        "pubDate": "Mon, 14 Sep 2026 01:46:26 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
-        "link": "https://www.npr.org/2026/09/14/g-s1-143138/amazon-suspends-21-air-cargo-carrier",
-        "pubDate": "Mon, 14 Sep 2026 01:26:01 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-        "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 14 Sep 2026 12:18:13 GMT",
-        "category": "Top News"
+        "title": "Government set to nationalise troubled steel firm",
+        "link": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 14 Sep 2026 19:06:46 GMT",
+        "category": "business"
       },
       {
-        "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-        "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 14 Sep 2026 12:00:08 GMT",
+        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+        "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 14 Sep 2026 18:54:16 GMT",
         "category": "tech"
       },
       {
-        "title": "Petrol and diesel prices hit highest since 2022",
-        "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 14 Sep 2026 11:42:52 GMT",
-        "category": "business"
+        "title": "Burnham cancels engagements after death of his father",
+        "link": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 14 Sep 2026 18:53:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Farage says \u00a372m donations are compliant 'with the law today'",
+        "link": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 14 Sep 2026 17:50:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man admits drugging and raping wife for 20 years",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 14 Sep 2026 16:54:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Staff slept while patient killed at NHS mental health unit",
+        "link": "https://www.bbc.co.uk/news/articles/c750vqp1wlxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 14 Sep 2026 15:19:26 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Oasis confirm second leg of reunion tour after weeks of social media teasers",
+        "link": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 14 Sep 2026 15:04:22 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 14 Sep 2026 15:03:39 GMT",
+        "category": "Top News"
       },
       {
         "title": "China criticises idea it is in 'malicious competition' over AI",
@@ -97,39 +133,9 @@
         "category": "world"
       },
       {
-        "title": "What you need to know about the latest donations to Reform UK",
-        "link": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 14 Sep 2026 11:07:25 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say",
-        "link": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 14 Sep 2026 10:59:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Amy Hunt tells Sydney Sweeney 'this is what a woman in sport looks like' after controversial ad",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 14 Sep 2026 09:43:18 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Deep-fried food banned under new school dinner rules in England",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 14 Sep 2026 08:25:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors",
-        "link": "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 23:18:39 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
+        "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
+        "link": "https://www.bbc.co.uk/news/articles/cj4jq50eew0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 14 Sep 2026 04:02:26 GMT",
         "category": "us"
       }
     ],
