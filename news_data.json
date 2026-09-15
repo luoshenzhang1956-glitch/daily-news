@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-09-15T11:30:57.002264",
+  "updated_at": "2026-09-15T16:43:24.086990",
   "news": {
     "ap": [
       {
-        "title": "WHO validates Chile as first South American country to eliminate dog-transmitted rabies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa92bde2b2a499b997e341b8f5ae3bf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchile-rabies-public-health-dogs-b01d6e95338eab23aa76145ec32939ea&amp;c=707977176290456999&amp;mkt=en-us",
-        "pubDate": "Mon, 14 Sep 2026 14:43:00 GMT",
-        "category": "health"
+        "title": "AI stocks hold steadier as Wall Street drifts lower ahead of the Federal Reserve\u2019s meeting",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa974fe8ef14dd6b861668729659f4f&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-oil-rates-inflation-ai-123ddc2d8ba06c324cbbd899f7eeebd2&amp;c=16242161368195730829&amp;mkt=en-us",
+        "pubDate": "Tue, 15 Sep 2026 06:47:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa974fc04774caeb5fa760b8cd6df4b&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-election-noncitizen-voting-homeland-security-whistleblower-57f6d4bbc11347815020d2e5f241d6f9&amp;c=12455075538557403075&amp;mkt=en-us",
+        "pubDate": "Mon, 14 Sep 2026 19:04:00 GMT",
+        "category": "us"
       }
     ],
     "npr": [
       {
-        "title": "Trump says Ukraine and Russia agreed to stop attacks on energy sites",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites",
-        "pubDate": "Tue, 15 Sep 2026 06:42:10 -0400",
+        "title": "Geopolitics and grain don&apos;t mix, say these Montana farmers",
+        "link": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
+        "pubDate": "Tue, 15 Sep 2026 08:33:19 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "SCOTUS rejects Trump&apos;s mail voting limits. And, the Kennedy Center financial crisis",
+        "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+        "pubDate": "Tue, 15 Sep 2026 07:35:49 -0400",
         "category": "world"
       },
       {
@@ -23,7 +35,7 @@
         "category": "health"
       },
       {
-        "title": "NATO jets down drone in Lithuanian airspace",
+        "title": "NATO jets shoot down a drone in Lithuanian airspace",
         "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
         "pubDate": "Tue, 15 Sep 2026 05:06:30 -0400",
         "category": "Top News"
@@ -35,8 +47,8 @@
         "category": "us"
       },
       {
-        "title": "This  bill could reshape crypto in America -- and it&apos;s sparking a major battle",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+        "title": "Get ready for yet another cost when buying a home: Junk fees",
+        "link": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
         "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
         "category": "business"
       },
@@ -53,48 +65,66 @@
         "category": "Top News"
       },
       {
-        "title": "Get ready for yet another cost when buying a home: Junk fees",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
+        "title": "This  bill could reshape crypto in America -- and it&apos;s sparking a major battle",
+        "link": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
         "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Anthropic co-founder Jack Clark on AI risks and potential solutions",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968852/anthropic-co-founder-jack-clark-on-ai-risks-and-potential-solutions",
+        "title": "Anthropic co-founder says slowing AI is a &apos;collective action problem&apos;",
+        "link": "https://www.npr.org/2026/09/15/nx-s1-5968852/anthropic-jack-clark-ai-risks-safety",
         "pubDate": "Tue, 15 Sep 2026 04:45:04 -0400",
         "category": "tech"
-      },
-      {
-        "title": "Supreme Court refuses to allow Trump&apos;s mail voting restrictions for the midterms",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
-        "pubDate": "Tue, 15 Sep 2026 04:44:26 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+        "link": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 15 Sep 2026 16:28:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
+        "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 15 Sep 2026 16:24:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 15 Sep 2026 16:01:54 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+        "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 15 Sep 2026 15:31:34 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The key findings and recommendations from the Lucy Letby inquiry",
+        "link": "https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 15 Sep 2026 15:11:40 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
+        "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 15 Sep 2026 11:49:33 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Assisted dying: How laws differ around the world",
+        "link": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 15 Sep 2026 11:29:53 GMT",
+        "category": "health"
+      },
       {
         "title": "State pension likely to top \u00a313,000 a year as UK wage growth slows to 3.9%",
         "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 15 Sep 2026 11:05:42 GMT",
         "category": "business"
-      },
-      {
-        "title": "Political donors could face tougher residency rules",
-        "link": "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 10:55:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Denmark says Russian warship fired flares at military helicopter",
-        "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 10:12:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fall in small boat Channel crossings down to law enforcement, agency says",
-        "link": "https://www.bbc.co.uk/news/articles/cjvgy1g932xro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 09:00:14 GMT",
-        "category": "Top News"
       },
       {
         "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
@@ -103,51 +133,32 @@
         "category": "world"
       },
       {
-        "title": "US confirms for first time it has deployed space weapons",
-        "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 08:48:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-        "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 03:50:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-        "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 01:15:15 GMT",
-        "category": "us"
-      },
-      {
         "title": "Pubs in England and Wales to allow digital ID apps to prove age",
         "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 14 Sep 2026 23:07:56 GMT",
         "category": "tech"
-      },
-      {
-        "title": "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors",
-        "link": "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 14 Sep 2026 20:39:48 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
-        "title": "UN says Ebola epidemic still huge and growing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa92c1dd1f048ae962792d94e867e76&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fun-says-ebola-epidemic-still-huge-growing-2026-09-15%2f&amp;c=12788322578650803944&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 02:38:00 GMT",
+        "title": "Gilead, PAHO agree on HIV prevention drug access in Latin America, Caribbean",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa975504db648849f9f8afa4a0f04e1&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fgilead-paho-agree-hiv-prevention-drug-access-latin-america-caribbean-2026-09-15%2f&amp;c=583715528022960808&amp;mkt=en-us",
+        "pubDate": "Tue, 15 Sep 2026 08:11:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "ALTANFEETHI Expands Business, Targets SAR 4.2 Billion Market Value",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa975436ed64ddbb35a988d6ed2f3c5&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2faltanfeethi-expands-business-sar-4-2-billion-2026-09-15%2f&amp;c=14470027232764701807&amp;mkt=en-us",
+        "pubDate": "Tue, 15 Sep 2026 07:34:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Ark's Wood says global AI leaders' pledge is positive for technology development",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa975504f4149ada086a17a49c4f67c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2farks-wood-says-global-ai-leaders-pledge-is-positive-technology-development-2026-09-15%2f&amp;c=14121417138600463921&amp;mkt=en-us",
+        "pubDate": "Tue, 15 Sep 2026 05:30:00 GMT",
+        "category": "tech"
       }
     ],
-    "markets": [
-      {
-        "title": "Mounjaro&apos;s maker has more room to run amid GLP-1 boom, Berenberg says",
-        "link": "https://www.cnbc.com/2026/09/15/mounjaros-maker-has-more-room-to-run-amid-glp-1-boom-berenberg-says.html",
-        "pubDate": "Tue, 15 Sep 2026 11:20:47 GMT",
-        "category": "us"
-      }
-    ]
+    "markets": []
   }
 }
