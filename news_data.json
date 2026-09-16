@@ -1,74 +1,50 @@
 {
-  "updated_at": "2026-09-16T00:03:56.804377",
+  "updated_at": "2026-09-16T07:31:29.290087",
   "news": {
     "ap": [
       {
-        "title": "Judge refers Philadelphia district attorney to federal prosecutors for investigation",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dce9d6654fe98fe129ffe52836dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fphiladelphia-district-attorney-larry-krasner-3dda4812ddf4ec5f4517f3d7b0e50611&amp;c=12934042032599405284&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 16:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Aw shucks: Dolly Parton corn mazes crop up across US",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dce965af410fbaefda5de539dddd&amp;url=https%3a%2f%2fapnews.com%2fvideo%2faw-shucks-dolly-parton-corn-mazes-crop-up-across-us-b1d18225bfcc4e8ea0643f081afad40c&amp;c=6185860269445360210&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 16:17:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Trump\u2019s push to restrict mail ballots has failed. Other efforts to reshape the midterms are ongoing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dce9d6654fe98fe129ffe52836dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdonald-trump-mail-ballots-voting-election-midterms-1437f497b384741c143c97db9803426c&amp;c=14017487169972647115&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 14:18:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Chile becomes first South American country to eliminate dog-transmitted rabies",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcead55243ce8ca5e37eaa3cde7c&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fchile-becomes-first-south-american-country-to-eliminate-dog-transmitted-rabies-f19f52d4ea34472d8b32e2f04e4d9aed&amp;c=6282439053819225793&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 11:57:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Kennedy Center will close for renovations after judge blocks returning Trump\u2019s name to building",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dce9d6654fe98fe129ffe52836dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkennedy-center-closure-board-trump-ruling-1dfbfaac695f6817719477101b971a54&amp;c=17909718675566127209&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 11:24:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nick Reiner avoids death penalty over his parents\u2019 killings but still faces life in prison",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dce9d6654fe98fe129ffe52836dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnick-reiner-death-penalty-rob-reiner-killing-731fc783c7a2bf6df61504732e15d4fc&amp;c=9431170407880605278&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 09:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dce9d6654fe98fe129ffe52836dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2fsenate-crypto-bill-midterms-trump-ethics-e3caf262dc138147941787299e5f0a66&amp;c=15734093319461777637&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 06:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "As AI debate flares, Melania Trump touts the technology as she tours North Carolina school",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dce94efb45c5a41d7ca4bcf25cdc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmelania-trump-first-lady-north-carolina-7e6588042539f7d04d69d980c7173823&amp;c=6985489872572330559&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 04:04:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Scotland call for Sevilla forward Robbie Ure in post-World Cup reset under new coach Pocognoli",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dce9c9ca481ab446278da43277b5&amp;url=https%3a%2f%2fapnews.com%2farticle%2fscotland-pocognoli-ure-nations-league-mctominay-e4a18c5f7524e2e4c879be41f7071b55&amp;c=941116363667315666&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 03:57:00 GMT",
+        "title": "TNT says 1.2 million viewers watched the US beat France in the women\u2019s FIBA World Cup final",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aaa4513a17d47acbb4522e023c76b0b&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffiba-world-cup-ratings-tnt-61fac074713c71d66ab290440fae1fbe&amp;c=11794355340496172858&amp;mkt=en-us",
+        "pubDate": "Tue, 15 Sep 2026 20:01:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dce9d6654fe98fe129ffe52836dd&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussia-ukraine-war-lithuania-drone-downed-nato-9671662649ebed2eca41879982f366ad&amp;c=9458029725668610592&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 01:18:00 GMT",
-        "category": "Top News"
       }
     ],
     "npr": [
       {
+        "title": "U.S. acknowledges for the first time that it has deployed weapons in space",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5970937/us-weapons-space",
+        "pubDate": "Wed, 16 Sep 2026 03:26:28 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Ed Sheeran&apos;s tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
+        "link": "https://www.npr.org/2026/09/16/g-s1-143549/ed-sheeran-tour-trouble",
+        "pubDate": "Wed, 16 Sep 2026 02:41:48 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "NBC news helicopter crashes and kills at least 3 in LA neighborhood",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles",
+        "pubDate": "Wed, 16 Sep 2026 00:06:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
+        "link": "https://www.npr.org/2026/09/15/nx-s1-5970459/ice-dhs-david-streever-free-speech",
+        "pubDate": "Tue, 15 Sep 2026 23:03:47 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Turkish habit of stashing gold &quot;under the pillow&apos; hurts economy, government says",
+        "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
+        "pubDate": "Tue, 15 Sep 2026 20:55:41 -0400",
+        "category": "world"
+      },
+      {
         "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey&apos;s future",
         "link": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
         "pubDate": "Tue, 15 Sep 2026 18:26:14 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "What to make of warnings that AI may pose an existential threat to humanity",
@@ -89,36 +65,6 @@
         "category": "business"
       },
       {
-        "title": "Kennedy Center board votes to close it, as judge again keeps Trump&apos;s name off",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name",
-        "pubDate": "Tue, 15 Sep 2026 13:49:07 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Prosecutors won&apos;t seek the death penalty for Nick Reiner",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5969890/nick-reiner-rob-reiner-murder-charges-death-penalty",
-        "pubDate": "Tue, 15 Sep 2026 13:36:49 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-        "link": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-        "pubDate": "Tue, 15 Sep 2026 13:35:14 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole",
-        "pubDate": "Tue, 15 Sep 2026 12:53:39 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Geopolitics and grain don&apos;t mix, say these Montana farmers",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
-        "pubDate": "Tue, 15 Sep 2026 08:33:19 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
         "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
         "pubDate": "Tue, 15 Sep 2026 06:26:08 -0400",
@@ -127,16 +73,40 @@
     ],
     "bbc": [
       {
+        "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
+        "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 16 Sep 2026 07:00:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 16 Sep 2026 06:57:32 GMT",
+        "category": "world"
+      },
+      {
+        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 16 Sep 2026 01:29:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+        "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 16 Sep 2026 00:25:34 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Prolific shoplifters behind more than 28,000 offences, BBC finds",
+        "link": "https://www.bbc.co.uk/news/articles/cvg7231pev5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 16 Sep 2026 00:11:25 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "UK in talks about joining global defence bank led by Canada",
         "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 15 Sep 2026 23:50:55 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Do you feel guilty when calling in sick at work? This might be why...",
-        "link": "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 23:40:07 GMT",
-        "category": "health"
       },
       {
         "title": "AI app ads promoting 'objectification of women' banned by watchdog",
@@ -145,21 +115,15 @@
         "category": "tech"
       },
       {
-        "title": "Complaints to watchdog about water firms jump 84%",
-        "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 23:14:08 GMT",
+        "title": "We are all new job starters - here's how we got through the first few days",
+        "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 15 Sep 2026 23:14:26 GMT",
         "category": "business"
       },
       {
-        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 21:07:13 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-        "link": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 20:41:35 GMT",
+        "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+        "link": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 15 Sep 2026 22:04:38 GMT",
         "category": "Top News"
       },
       {
@@ -167,86 +131,14 @@
         "link": "https://www.bbc.co.uk/news/videos/cmvgyp7n98zvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 15 Sep 2026 20:35:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-        "link": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 19:47:10 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-        "link": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 17:35:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
-        "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 15 Sep 2026 16:24:00 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "New York proposes $1 million per megawatt community investment for data centers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcec3e564d1aabbd39164acded88&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fnew-york-proposes-1-million-per-megawatt-community-investment-data-centers-2026-09-15%2f&amp;c=11358780055459199838&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 16:40:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Coast Guard boarded a Texas-bound oil tanker to investigate a cyberattack, Bloomberg News reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcec3e564d1aabbd39164acded88&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-coast-guard-boarded-texas-bound-oil-tanker-investigate-cyberattack-bloomberg-2026-09-15%2f&amp;c=9579270744369013175&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 16:33:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump keeps up attacks on mail voting, but election officials more confident",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcec3e564d1aabbd39164acded88&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-keeps-up-attacks-mail-voting-election-officials-more-confident-2026-09-15%2f&amp;c=3711008112757484473&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 15:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Congress Democrats probe Russian oligarch financing of Trump Jr. wedding parties",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcec3e564d1aabbd39164acded88&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-congress-democrats-probe-russian-oligarch-financing-trump-jr-wedding-parties-2026-09-15%2f&amp;c=14329363343044657571&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 12:22:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US agency orders Tesla to answer questions on Cybercab certification",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcec3e564d1aabbd39164acded88&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fus-agency-orders-tesla-answer-questions-cybercab-certification-2026-09-15%2f&amp;c=16950090852186522385&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 11:24:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Radiant World sues Glencore for $2 billion, Bloomberg News reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcec52144aacaf190d85e7f17df6&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fradiant-world-sues-glencore-2-billion-bloomberg-news-reports-2026-09-15%2f&amp;c=5461878823856443189&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 10:48:00 GMT",
+        "title": "World No.1 Pathirage's javelins damaged on flight ahead of Asian Games",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aaa4545187444de835691da31581856&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fworld-no1-pathirages-javelins-damaged-flight-ahead-asian-games-2026-09-16%2f&amp;c=7735475277930943837&amp;mkt=en-us",
+        "pubDate": "Tue, 15 Sep 2026 17:00:00 GMT",
         "category": "world"
-      },
-      {
-        "title": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcec3e564d1aabbd39164acded88&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-treasury-chief-says-rising-bond-yields-due-global-issues-2026-09-15%2f&amp;c=7464308481257183618&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 07:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kennedy Center board votes to close for renovations after judge blocks Trump's name from facade",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcec3e564d1aabbd39164acded88&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fkennedy-center-board-vote-venues-future-says-trump-name-critical-survival-2026-09-15%2f&amp;c=4240783141734911733&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 03:05:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "FBI's Patel defends change in 'bestiality' hiring practice as lawmakers seek answers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcec3e564d1aabbd39164acded88&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ffbi-director-kash-patel-face-grilling-over-travel-2020-election-probe-2026-09-15%2f&amp;c=11066106516861279468&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 03:04:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Noncitizens accused of illegal US voting challenge Trump's authority to prosecute them",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aa9dcec3e564d1aabbd39164acded88&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fnoncitizens-accused-illegal-us-voting-challenge-trumps-authority-prosecute-them-2026-09-15%2f&amp;c=16537920402814363591&amp;mkt=en-us",
-        "pubDate": "Tue, 15 Sep 2026 03:03:00 GMT",
-        "category": "Top News"
       }
     ],
     "markets": []
