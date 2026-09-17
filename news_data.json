@@ -1,68 +1,61 @@
 {
-  "updated_at": "2026-09-17T04:25:48.521321",
+  "updated_at": "2026-09-17T11:25:17.196323",
   "news": {
-    "ap": [
-      {
-        "title": "Divisions emerge in the tech industry over calls for a coordinated AI slowdown",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aab6b1bab7c4ace95482f016b716fc2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-slowdown-anthropic-openai-meta-nvidia-1d9615931af28a83cb97489178e90f2d&amp;c=14225621339316927326&amp;mkt=en-us",
-        "pubDate": "Wed, 16 Sep 2026 14:24:00 GMT",
-        "category": "tech"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
-        "title": "Here&apos;s why an Arizona medical examiner is working to track heat-related deaths",
-        "link": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
-        "pubDate": "Wed, 16 Sep 2026 19:07:40 -0400",
-        "category": "health"
-      },
-      {
-        "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump&apos;s desk",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
-        "pubDate": "Wed, 16 Sep 2026 18:30:46 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "You&apos;d expect homeowners to save their stuff. Federal policy pays them to leave it",
-        "link": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
-        "pubDate": "Wed, 16 Sep 2026 17:20:59 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
-        "pubDate": "Wed, 16 Sep 2026 17:12:27 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration plans ideological warning signs for Smithsonian",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
-        "pubDate": "Wed, 16 Sep 2026 16:55:54 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "The &apos;burnerverse&apos; exploiting young women in college",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5971222/the-burnerverse-exploiting-young-women-in-college",
-        "pubDate": "Wed, 16 Sep 2026 16:50:17 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "EU offers Canada &apos;associate member&apos; role; Trump calls it &apos;laughable&apos;",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
-        "pubDate": "Wed, 16 Sep 2026 16:08:27 -0400",
+        "title": "The Fed raises interest rates. And, EU proposes Canada become an &apos;associate member&apos;",
+        "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
+        "pubDate": "Thu, 17 Sep 2026 06:54:18 -0400",
         "category": "world"
       },
       {
-        "title": "Congress is under pressure to act on AI \u2014 here&apos;s what that could look like",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
-        "pubDate": "Wed, 16 Sep 2026 13:32:44 -0400",
-        "category": "tech"
+        "title": "Trump&apos;s surgeon general pick faces questions on vaccines and vaping at Senate hearing",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5971469/trumps-surgeon-general-pick-faces-questions-on-vaccines-and-vaping-at-senate-hearing",
+        "pubDate": "Thu, 17 Sep 2026 06:44:17 -0400",
+        "category": "health"
       },
       {
-        "title": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
-        "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
-        "pubDate": "Wed, 16 Sep 2026 13:19:49 -0400",
+        "title": "Pressure on global chokepoints drives Asia&apos;s increased use of Arctic Trade Routes",
+        "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
+        "pubDate": "Thu, 17 Sep 2026 06:00:00 -0400",
         "category": "Top News"
+      },
+      {
+        "title": "Why reshaping memories may hold the key to raising self-esteem",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
+        "pubDate": "Thu, 17 Sep 2026 05:02:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "D.C. airspace is complicated. Experts say Trump&apos;s arch would add one more risk",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa",
+        "pubDate": "Thu, 17 Sep 2026 05:01:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "People&apos;s houses are collapsing into the ocean. FEMA gives them no other option",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5844642/fema-homes-collapse-ocean-climate-north-carolina-maine",
+        "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Pediatricians raise the alarm on the effect of Trump&apos;s immigration crackdown on kids",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5953989/immigration-crackdown-children-medical-care",
+        "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "A Sikh truck driver is stabbed amid a rise in anti-South Asian rhetoric",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5971866/truck-driver-attack-wyoming-sikh-south-asian",
+        "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Amid growing AI fears, King Charles meets with industry leaders in Scotland",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5968741/amid-growing-ai-fears-king-charles-meets-with-industry-leaders-in-scotland",
+        "pubDate": "Thu, 17 Sep 2026 04:44:37 -0400",
+        "category": "tech"
       },
       {
         "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
@@ -73,34 +66,52 @@
     ],
     "bbc": [
       {
+        "title": "UK interest rates held at 3.75% despite rising inflation",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 11:15:10 GMT",
+        "category": "business"
+      },
+      {
         "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
         "link": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 04:09:17 GMT",
+        "pubDate": "Thu, 17 Sep 2026 10:19:04 GMT",
         "category": "Top News"
       },
       {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 03:09:21 GMT",
+        "title": "EU announces plan to restrict social media access for under-15s",
+        "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+        "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 09:18:57 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT",
         "category": "us"
       },
       {
-        "title": "Lena Dunham announces birth of first baby via surrogacy",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 00:55:10 GMT",
+        "title": "'Everybody was as one': Rector reflects on search effort for Noah Woods",
+        "link": "https://www.bbc.co.uk/news/articles/cqzrz03pvd43o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 08:13:34 GMT",
         "category": "Top News"
       },
       {
-        "title": "US interest rates raised for first time in three years",
-        "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT",
+        "title": "Palace in war of words with Earl Spencer over claims in Diana book",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 06:15:35 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+        "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT",
         "category": "world"
-      },
-      {
-        "title": "At least seven months of relentless rain needed to end drought, research shows",
-        "link": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 00:01:29 GMT",
-        "category": "Top News"
       },
       {
         "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
@@ -109,31 +120,26 @@
         "category": "health"
       },
       {
-        "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 16 Sep 2026 23:41:57 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Interest rates hold expected but Bank of England facing tough choices",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 16 Sep 2026 23:15:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
-        "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 16 Sep 2026 20:46:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Body found in search for missing three-year-old Noah Woods",
-        "link": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 16 Sep 2026 18:50:09 GMT",
+        "title": "'I can get more time - that's everything': Breast cancer patients get life-extending drug",
+        "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 16 Sep 2026 23:50:56 GMT",
         "category": "Top News"
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
+        "link": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
+        "pubDate": "Thu, 17 Sep 2026 11:00:01 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Kraft Heinz has lagged in the past year. RBC thinks that&apos;s about to change",
+        "link": "https://www.cnbc.com/2026/09/17/khc-has-lagged-in-the-past-year-rbc-thinks-thats-about-to-change.html",
+        "pubDate": "Thu, 17 Sep 2026 10:41:47 GMT",
+        "category": "us"
+      }
+    ]
   }
 }
