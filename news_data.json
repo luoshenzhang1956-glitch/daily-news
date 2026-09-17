@@ -1,13 +1,44 @@
 {
-  "updated_at": "2026-09-17T11:25:17.196323",
+  "updated_at": "2026-09-17T16:42:03.400481",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Former US Sen. Jon Kyl of Arizona, a \u2018workhorse\u2019 who shaped water policy, dies at 84",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aac17a817a74b229ce2693735501d90&amp;url=https%3a%2f%2fapnews.com%2farticle%2fjon-kyl-dies-627c1050f6e9ffd06afc277b6f32d5a6&amp;c=10273110486342414658&amp;mkt=en-us",
+        "pubDate": "Thu, 17 Sep 2026 09:02:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "At least 48 dead in Nigeria after consuming drink suspected to contain methanol, authorities say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aac17ca5b34494f89532a17ac4656b7&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnigeria-drink-deaths-arrests-953036190416f202f812700f58aba05c&amp;c=14522814130665422610&amp;mkt=en-us",
+        "pubDate": "Thu, 17 Sep 2026 08:37:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "&apos;American Scoundrel&apos; traces Roy Cohn&apos;s playbook from McCarthyism to Trump",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump",
+        "pubDate": "Thu, 17 Sep 2026 12:14:06 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Greetings from Beijing, where baozi are worth the wait in line",
+        "link": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
+        "pubDate": "Thu, 17 Sep 2026 09:59:17 -0400",
+        "category": "world"
+      },
+      {
+        "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
+        "pubDate": "Thu, 17 Sep 2026 08:33:36 -0400",
+        "category": "Top News"
+      },
       {
         "title": "The Fed raises interest rates. And, EU proposes Canada become an &apos;associate member&apos;",
         "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
         "pubDate": "Thu, 17 Sep 2026 06:54:18 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump&apos;s surgeon general pick faces questions on vaccines and vaping at Senate hearing",
@@ -31,18 +62,6 @@
         "title": "D.C. airspace is complicated. Experts say Trump&apos;s arch would add one more risk",
         "link": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa",
         "pubDate": "Thu, 17 Sep 2026 05:01:00 -0400",
-        "category": "us"
-      },
-      {
-        "title": "People&apos;s houses are collapsing into the ocean. FEMA gives them no other option",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5844642/fema-homes-collapse-ocean-climate-north-carolina-maine",
-        "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Pediatricians raise the alarm on the effect of Trump&apos;s immigration crackdown on kids",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5953989/immigration-crackdown-children-medical-care",
-        "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
@@ -56,89 +75,89 @@
         "link": "https://www.npr.org/2026/09/17/nx-s1-5968741/amid-growing-ai-fears-king-charles-meets-with-industry-leaders-in-scotland",
         "pubDate": "Thu, 17 Sep 2026 04:44:37 -0400",
         "category": "tech"
-      },
-      {
-        "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
-        "pubDate": "Wed, 16 Sep 2026 12:14:19 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
       {
-        "title": "UK interest rates held at 3.75% despite rising inflation",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 11:15:10 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 10:19:04 GMT",
+        "title": "Watch: Is Canada about to join the EU?",
+        "link": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 16:18:35 GMT",
         "category": "Top News"
       },
       {
-        "title": "EU announces plan to restrict social media access for under-15s",
-        "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-        "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 09:18:57 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-        "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT",
+        "title": "What could EU associate member status mean for Canada?",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgy3pq5ywyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 15:24:16 GMT",
         "category": "us"
       },
       {
-        "title": "'Everybody was as one': Rector reflects on search effort for Noah Woods",
-        "link": "https://www.bbc.co.uk/news/articles/cqzrz03pvd43o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 08:13:34 GMT",
+        "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+        "link": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 15:08:05 GMT",
         "category": "Top News"
       },
       {
-        "title": "Palace in war of words with Earl Spencer over claims in Diana book",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 06:15:35 GMT",
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 15:07:47 GMT",
         "category": "Top News"
       },
       {
-        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-        "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT",
-        "category": "world"
+        "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+        "link": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 14:54:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+        "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 14:33:12 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Interest rates held but Bank signals rise if energy prices stay high",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 14:05:38 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 13:47:36 GMT",
+        "category": "Top News"
       },
       {
         "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
         "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 16 Sep 2026 23:50:56 GMT",
+        "pubDate": "Thu, 17 Sep 2026 13:32:00 GMT",
         "category": "health"
       },
       {
-        "title": "'I can get more time - that's everything': Breast cancer patients get life-extending drug",
-        "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 16 Sep 2026 23:50:56 GMT",
-        "category": "Top News"
+        "title": "Canada welcomes EU proposal to become 'associate member'",
+        "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 17 Sep 2026 12:27:18 GMT",
+        "category": "world"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
-        "link": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
-        "pubDate": "Thu, 17 Sep 2026 11:00:01 GMT",
+        "title": "AI needs to have &apos;reasonable guidelines,&apos; Palantir&apos;s Karp tells CNBC",
+        "link": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
+        "pubDate": "Thu, 17 Sep 2026 16:37:28 GMT",
         "category": "tech"
       },
       {
-        "title": "Kraft Heinz has lagged in the past year. RBC thinks that&apos;s about to change",
-        "link": "https://www.cnbc.com/2026/09/17/khc-has-lagged-in-the-past-year-rbc-thinks-thats-about-to-change.html",
-        "pubDate": "Thu, 17 Sep 2026 10:41:47 GMT",
+        "title": "Generac shares surge on big Amazon deal. Wall Street thinks the generator stock has more to go",
+        "link": "https://www.cnbc.com/2026/09/17/generac-shares-surge-on-amazon-deal-wall-street-thinks-it-has-more-to-go-.html",
+        "pubDate": "Thu, 17 Sep 2026 15:55:51 GMT",
         "category": "us"
+      },
+      {
+        "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal \u2018laughable\u2019",
+        "link": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+        "pubDate": "Thu, 17 Sep 2026 12:36:54 GMT",
+        "category": "world"
       }
     ]
   }
