@@ -1,84 +1,121 @@
 {
-  "updated_at": "2026-09-18T04:35:42.264615",
+  "updated_at": "2026-09-18T10:58:05.795858",
   "news": {
-    "ap": [],
-    "npr": [
+    "ap": [
       {
-        "title": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice",
-        "pubDate": "Thu, 17 Sep 2026 17:17:39 -0400",
-        "category": "us"
-      },
-      {
-        "title": "With AI, what&apos;s more important for the U.S. \u2014 winning or safety?",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5973024/with-ai-whats-more-important-for-the-u-s-winning-or-safety",
-        "pubDate": "Thu, 17 Sep 2026 17:14:48 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "Behind the overture from the European Union to Canada",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5973029/behind-the-overture-from-the-european-union-to-canada",
-        "pubDate": "Thu, 17 Sep 2026 16:24:33 -0400",
-        "category": "world"
-      },
-      {
-        "title": "ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5973127/ice-agent-court-extradition-minnesota-immigrant-shooting",
-        "pubDate": "Thu, 17 Sep 2026 16:23:34 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "A bad year for the crypto industry just got a lot worse",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5971298/a-bad-year-for-the-crypto-industry-just-got-a-lot-worse",
-        "pubDate": "Thu, 17 Sep 2026 16:03:18 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Retired Olympic superstar Jessie Diggins wins her first-ever 100 mile trail race",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5948171/retired-olympic-superstar-jessie-diggins-wins-her-first-ever-100-mile-trail-race",
-        "pubDate": "Thu, 17 Sep 2026 16:00:35 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
-        "pubDate": "Thu, 17 Sep 2026 15:33:30 -0400",
+        "title": "At least 48 dead in Nigeria after consuming drink suspected to contain methanol, authorities say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad18d9569e43679a7fed9de84a59f2&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnigeria-drink-deaths-arrests-953036190416f202f812700f58aba05c&amp;c=14522814130665422610&amp;mkt=en-us",
+        "pubDate": "Thu, 17 Sep 2026 16:22:00 GMT",
         "category": "health"
       },
       {
-        "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation",
-        "pubDate": "Thu, 17 Sep 2026 12:45:58 -0400",
+        "title": "US stocks rally to their best day in 6 weeks after oil prices and bond yields ease",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad18c2d8124b78bb1b56692ae3716b&amp;url=https%3a%2f%2fapnews.com%2farticle%2fstock-markets-fed-oil-26a4da336d561d213a3f28f260f25d2c&amp;c=7709486009479290547&amp;mkt=en-us",
+        "pubDate": "Thu, 17 Sep 2026 13:59:00 GMT",
+        "category": "us"
+      }
+    ],
+    "npr": [
+      {
+        "title": "South Africa &apos;feels like a prison&apos; for women amid spate of femicides",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
+        "pubDate": "Fri, 18 Sep 2026 06:39:14 -0400",
+        "category": "world"
+      },
+      {
+        "title": "True or false: Trump&apos;s name is now on the Kennedy Center. The quiz has the answer",
+        "link": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
+        "pubDate": "Fri, 18 Sep 2026 05:01:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Could trees developed with gene-editing technology protect Florida&apos;s citrus industry?",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Google is helping write AI chatbot safety laws \u2014 while pushing for loopholes",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "A DHS email raises new questions about the Trump administration&apos;s election plans",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "&apos;American Scoundrel&apos; traces Roy Cohn&apos;s playbook from McCarthyism to Trump",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump",
-        "pubDate": "Thu, 17 Sep 2026 12:14:06 -0400",
+        "title": "Republican &apos;cavalry&apos; arrives with a Trump-backed $150 million ad blitz in key races",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "Greetings from Beijing, where baozi are worth the wait in line",
-        "link": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
-        "pubDate": "Thu, 17 Sep 2026 09:59:17 -0400",
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
+        "pubDate": "Fri, 18 Sep 2026 04:46:02 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Doctors raise concerns about views and experience of members on federal task force",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973135/doctors-raise-concerns-about-views-and-experience-of-members-on-federal-task-force",
+        "pubDate": "Fri, 18 Sep 2026 04:44:41 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Couple shares how chance encounter brought them together after meeting online",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5971450/couple-shares-how-chance-encounter-brought-them-together-after-meeting-online",
+        "pubDate": "Fri, 18 Sep 2026 04:44:14 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Poland&apos;s prime minister warns of Russian &apos;accidental&apos; attacks on Ukraine&apos;s allies",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
+        "pubDate": "Fri, 18 Sep 2026 04:44:08 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "British woman rescued in Malawi shootout that left four suspected kidnappers dead",
-        "link": "https://www.bbc.co.uk/news/articles/cmlyrzz2gpw4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 18 Sep 2026 03:59:17 GMT",
+        "title": "We bought our \u00a3242,000 home without a deposit - here's how",
+        "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 18 Sep 2026 10:43:03 GMT",
+        "category": "business"
+      },
+      {
+        "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+        "link": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 18 Sep 2026 10:19:46 GMT",
         "category": "Top News"
       },
       {
-        "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
-        "link": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 18 Sep 2026 02:55:18 GMT",
+        "title": "Three dead and eight injured in Philippines school shooting",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 18 Sep 2026 10:04:43 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
+        "link": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 18 Sep 2026 09:46:17 GMT",
         "category": "Top News"
       },
       {
-        "title": "US fans with Ed Sheeran tickets are left 'torn' by Macklemore controversy",
+        "title": "Woman tells BBC of trauma after unnecessary breast cancer surgery",
+        "link": "https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 18 Sep 2026 09:43:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Our brother did not match description of 'Putney pusher', suspect's sisters tell BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 18 Sep 2026 09:14:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US fans with Ed Sheeran tickets are left torn by Macklemore controversy",
         "link": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 18 Sep 2026 00:38:03 GMT",
         "category": "us"
@@ -90,68 +127,116 @@
         "category": "Top News"
       },
       {
-        "title": "New wild cat species discovered - with only one known living member",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 23:15:55 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "The virtual worlds where robots are trained",
         "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 17 Sep 2026 23:00:47 GMT",
         "category": "tech"
       },
       {
-        "title": "Healey to ask EU finance ministers to let UK into industry scheme",
-        "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 22:07:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-        "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Andy Burnham urged to set dementia waiting-time target",
         "link": "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 17 Sep 2026 19:13:59 GMT",
         "category": "health"
-      },
-      {
-        "title": "Canada welcomes EU proposal to become 'associate member'",
-        "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 17 Sep 2026 12:27:18 GMT",
-        "category": "world"
       }
     ],
     "reuters": [
       {
-        "title": "US Congress moves closer to restoring access to popular small business bankruptcy program",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aacbf6d79994854b8568e19230a80e1&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-congress-moves-closer-restoring-access-popular-small-business-bankruptcy-2026-09-17%2f&amp;c=2655579617753881248&amp;mkt=en-us",
-        "pubDate": "Thu, 17 Sep 2026 14:40:00 GMT",
+        "title": "Nestle weighing all options after Kremlin moves to seize Russia business",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad1906f58444b095c0e2f701513543&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fnestle-responds-putins-decision-put-its-russian-business-under-external-2026-09-18%2f&amp;c=1215078147323338183&amp;mkt=en-us",
+        "pubDate": "Fri, 18 Sep 2026 03:33:00 GMT",
         "category": "business"
       },
       {
-        "title": "Why are world leaders at the UN next week and what will they talk about?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aacbf581cec4fe380dc6e94df92a832&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fwhy-are-world-leaders-un-next-week-and-what-will-they-talk-about-2026-09-17%2f&amp;c=14547817958157764797&amp;mkt=en-us",
-        "pubDate": "Thu, 17 Sep 2026 08:52:00 GMT",
-        "category": "world"
+        "title": "US envoy raps Czech Republic for lagging on defence spending",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad18e1f1e04b87bdc0cd5abc7246b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-envoy-raps-czech-republic-lagging-defence-spending-2026-09-18%2f&amp;c=12424674220972923874&amp;mkt=en-us",
+        "pubDate": "Fri, 18 Sep 2026 03:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "France probes misuse of smart glasses in sexual harassment cases",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad18e1f1e04b87bdc0cd5abc7246b3&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2ffrench-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18%2f&amp;c=8186201383267940000&amp;mkt=en-us",
+        "pubDate": "Fri, 18 Sep 2026 03:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Record US diesel prices squeeze farmers; food prices may rise",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad18e1f1e04b87bdc0cd5abc7246b3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2frecord-us-diesel-prices-squeeze-farmers-food-prices-may-rise-2026-09-18%2f&amp;c=16545874227450054599&amp;mkt=en-us",
+        "pubDate": "Fri, 18 Sep 2026 03:06:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump-linked 'pop-up' PACs blitz Ohio with ads against Brown in costly Senate race",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad18e1f1e04b87bdc0cd5abc7246b3&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-linked-pop-up-pacs-blitz-ohio-with-ads-against-brown-costly-senate-race-2026-09-18%2f&amp;c=15948817704775371903&amp;mkt=en-us",
+        "pubDate": "Fri, 18 Sep 2026 03:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Investors buy US stocks at fastest pace in three months, BofA says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad18e1f1e04b87bdc0cd5abc7246b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2finvestors-buy-us-stocks-fastest-pace-three-months-bofa-says-2026-09-18%2f&amp;c=16962410657437546340&amp;mkt=en-us",
+        "pubDate": "Fri, 18 Sep 2026 02:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Italian Apple store employees strike on iPhone18 Pro launch day",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad18e1f1e04b87bdc0cd5abc7246b3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fitalian-apple-store-employees-strike-iphone18-pro-launch-day-2026-09-18%2f&amp;c=9140811617302423155&amp;mkt=en-us",
+        "pubDate": "Fri, 18 Sep 2026 02:38:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Yemen conflict displaces 112,000 people inside country, thousands flee to Djibouti, UN migration agency says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad18e1f1e04b87bdc0cd5abc7246b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fyemen-conflict-displaces-112000-people-inside-country-thousands-flee-djibouti-un-2026-09-18%2f&amp;c=8977317365008580563&amp;mkt=en-us",
+        "pubDate": "Fri, 18 Sep 2026 02:31:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad1908d43d4f7a9702b86b999bd73a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fanthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-2026-09-17%2f&amp;c=9420228227414245027&amp;mkt=en-us",
+        "pubDate": "Thu, 17 Sep 2026 15:10:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "What will Trump and Xi discuss in Washington next week?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aad18e1f1e04b87bdc0cd5abc7246b3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fwhat-will-trump-xi-discuss-washington-next-week-2026-09-17%2f&amp;c=13997422187888680462&amp;mkt=en-us",
+        "pubDate": "Thu, 17 Sep 2026 14:03:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
-        "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-        "link": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
-        "pubDate": "Thu, 17 Sep 2026 22:22:53 GMT",
+        "title": "Tyson Foods is set to come back on several tailwinds, JPMorgan says",
+        "link": "https://www.cnbc.com/2026/09/18/tyson-foods-is-set-to-come-back-on-several-tailwinds-jpmorgan-says.html",
+        "pubDate": "Fri, 18 Sep 2026 10:39:42 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway: &apos;Father Time always wins&apos;",
+        "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+        "pubDate": "Fri, 18 Sep 2026 10:36:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "AirAsia&apos;s Fernandes refutes financial concerns, points to new growth plans",
+        "link": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html",
+        "pubDate": "Fri, 18 Sep 2026 09:44:48 GMT",
         "category": "tech"
       },
       {
-        "title": "As Fed raises rates, income investors can buy these bonds for solid yields and a portfolio cushion",
-        "link": "https://www.cnbc.com/2026/09/17/as-fed-raises-rates-income-investors-can-buy-these-bonds-for-solid-yields-and-a-portfolio-cushion-.html",
-        "pubDate": "Thu, 17 Sep 2026 20:34:04 GMT",
-        "category": "us"
+        "title": "A Chinese AI company just connected its model to Wall Street&apos;s leading data providers",
+        "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+        "pubDate": "Fri, 18 Sep 2026 08:41:11 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+        "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+        "pubDate": "Thu, 17 Sep 2026 17:59:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Workday, Generac, Vital Farms, Vicor, Tower Semi &amp; more",
+        "link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-wday-gnrc-vicr-tsem-vitl.html",
+        "pubDate": "Thu, 17 Sep 2026 17:58:35 GMT",
+        "category": "Top News"
       },
       {
         "title": "GM touts new V-8 engines in revived \u2018truck wars\u2019 with Ford, Ram amid lackluster EV sales",
