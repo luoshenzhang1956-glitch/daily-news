@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-09-19T12:27:07.691054",
+  "updated_at": "2026-09-19T17:09:58.716674",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+        "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+        "pubDate": "Sat, 19 Sep 2026 11:26:31 -0400",
+        "category": "us"
+      },
       {
         "title": "Opinion: Remembering Annie Dillard, nature writer",
         "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
@@ -16,19 +22,19 @@
         "category": "world"
       },
       {
-        "title": "Tax relief or public danger? Florida voters weigh tax cuts against firefighter funding",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5947199/tax-relief-or-public-danger-florida-voters-weigh-tax-cuts-against-firefighter-funding",
-        "pubDate": "Sat, 19 Sep 2026 07:40:39 -0400",
-        "category": "us"
+        "title": "Life in Kabul 5 years after the Taliban&apos;s return",
+        "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
+        "pubDate": "Sat, 19 Sep 2026 07:40:40 -0400",
+        "category": "Top News"
       },
       {
-        "title": "Ancient teeth pose a mystery: What made those strange grooves?",
+        "title": "Betel nuts are a top mind-affecting substance. Now there&apos;s evidence of ancient use",
         "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
         "pubDate": "Sat, 19 Sep 2026 07:21:56 -0400",
         "category": "health"
       },
       {
-        "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what&apos;s left",
+        "title": "Archaeologists are racing to save precious artifacts in Alaska after last year&apos;s storm",
         "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
         "pubDate": "Sat, 19 Sep 2026 05:01:00 -0400",
         "category": "Top News"
@@ -52,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "U.S. and Denmark reach deal to build U.S. military presence in Greenland",
-        "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-        "pubDate": "Sat, 19 Sep 2026 00:44:46 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Despite calls for Congress to take action on AI, the House went home early",
         "link": "https://www.npr.org/2026/09/18/nx-s1-5973025/despite-calls-for-congress-to-take-action-on-ai-the-house-went-home-early",
         "pubDate": "Fri, 18 Sep 2026 19:09:36 -0400",
@@ -66,45 +66,57 @@
     ],
     "bbc": [
       {
-        "title": "Parents could lose benefits or face prison for child's crimes, minister says",
-        "link": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 12:10:38 GMT",
+        "title": "Major seaside hotel fire treated as suspicious",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 19 Sep 2026 16:43:21 GMT",
         "category": "Top News"
       },
       {
-        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "title": "Journalists denied White House access after Trump banned some media outlets",
+        "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 19 Sep 2026 15:19:39 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Journalists report being denied White House access after Trump bans some outlets",
+        "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 19 Sep 2026 15:19:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
+        "link": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 19 Sep 2026 15:00:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
+        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 19 Sep 2026 14:43:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Google's Gemini AI hacked three companies in security test",
+        "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 19 Sep 2026 13:39:32 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 19 Sep 2026 11:36:55 GMT",
         "category": "world"
       },
       {
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 05:36:36 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Google's Gemini AI hacked three companies in security test",
-        "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 04:27:11 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Billionaire Man United owner says he has lost confidence in the UK",
-        "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 18 Sep 2026 23:06:16 GMT",
+        "title": "Bitter row over Diana book brings back unhappy times for royals",
+        "link": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 19 Sep 2026 09:37:35 GMT",
         "category": "Top News"
       },
       {
-        "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-        "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 18 Sep 2026 23:04:41 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-        "link": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 18 Sep 2026 23:01:34 GMT",
+        "title": "When a cherished tree began withering away, locals suspected a killer in their midst",
+        "link": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 18 Sep 2026 22:03:40 GMT",
         "category": "Top News"
       },
       {
@@ -112,21 +124,16 @@
         "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 18 Sep 2026 17:57:30 GMT",
         "category": "business"
-      },
-      {
-        "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-        "link": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 18 Sep 2026 15:59:59 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
-        "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 18 Sep 2026 15:59:21 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+        "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+        "pubDate": "Fri, 18 Sep 2026 18:28:31 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
