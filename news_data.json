@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-09-20T18:39:42.459179",
+  "updated_at": "2026-09-20T22:19:49.559611",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+        "pubDate": "Sun, 20 Sep 2026 17:53:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+        "pubDate": "Sun, 20 Sep 2026 17:39:24 -0400",
+        "category": "world"
+      },
+      {
         "title": "Germany&apos;s Merz vows to press ahead with reforms after historic state election defeat",
         "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
         "pubDate": "Sun, 20 Sep 2026 13:29:29 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Trump says his D.C. arch will serve as &apos;military complex&apos; with snipers and drones",
         "link": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
         "pubDate": "Sun, 20 Sep 2026 11:05:47 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "PHOTOS: The precarious life of fisherfolk",
@@ -46,41 +58,29 @@
         "category": "Top News"
       },
       {
-        "title": "How the NPR College Podcast Challenge changed lives",
-        "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
-        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "NPR&apos;s College Podcast Challenge is back for 2026",
         "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
-        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
-        "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
         "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+        "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 20 Sep 2026 21:30:36 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
         "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 20 Sep 2026 18:32:55 GMT",
+        "pubDate": "Sun, 20 Sep 2026 20:21:40 GMT",
         "category": "world"
       },
       {
         "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
         "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 20 Sep 2026 17:25:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Kelsey Parker welcomes baby after 'devastating' stillbirth last year",
-        "link": "https://www.bbc.co.uk/news/articles/cmzxz260020qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 20 Sep 2026 17:04:51 GMT",
         "category": "Top News"
       },
       {
@@ -128,66 +128,73 @@
     ],
     "reuters": [
       {
-        "title": "Far-right tops another German state vote as Merz routed in worst result since 1949",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab027cf37c24807892b6edbc77403bf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fmerz-under-pressure-two-more-german-states-go-polls-2026-09-20%2f&amp;c=5084079632435530731&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 11:10:00 GMT",
+        "title": "World leaders return to UN amid wars in Middle East and Ukraine",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd62ab847deb9d19bca18ccedd5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fworld-leaders-return-un-amid-wars-middle-east-ukraine-2026-09-20%2f&amp;c=17984817161269616914&amp;mkt=en-us",
+        "pubDate": "Sun, 20 Sep 2026 14:25:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "AfD leads as Merz rues 'disaster' in worst state election result in postwar Germany",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fmerz-under-pressure-two-more-german-states-go-polls-2026-09-20%2f&amp;c=5084079632435530731&amp;mkt=en-us",
+        "pubDate": "Sun, 20 Sep 2026 14:25:00 GMT",
         "category": "Top News"
       },
       {
-        "title": "Suspects in 2021 killing of Haitian president flown to U.S. to face trial",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab027cf37c24807892b6edbc77403bf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fsuspects-2021-killing-haitian-president-flown-us-face-trial-2026-09-20%2f&amp;c=12219344640488923859&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 11:10:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Canada's Carney calls for stronger ties with France in face of new global threats",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab027cf37c24807892b6edbc77403bf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcanadas-carney-calls-stronger-ties-with-france-face-new-global-threats-2026-09-20%2f&amp;c=3023336101236616488&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 10:47:00 GMT",
+        "title": "Macron, Carney pledge closer ties in Atlantic island meeting amid strains with Trump",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fmacron-carney-meet-french-atlantic-archipelago-signal-trump-2026-09-20%2f&amp;c=12239037247538325257&amp;mkt=en-us",
+        "pubDate": "Sun, 20 Sep 2026 14:25:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Three dead in Moscow region, drones hit oil refinery in Russian capital",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab027cf37c24807892b6edbc77403bf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftwo-dead-moscow-region-drones-hit-oil-refinery-russian-capital-2026-09-20%2f&amp;c=2719446482192265383&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 10:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "World leaders return to UN amid wars in Middle East and Ukraine",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab027cf37c24807892b6edbc77403bf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fworld-leaders-return-un-amid-wars-middle-east-ukraine-2026-09-20%2f&amp;c=17984817161269616914&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 10:31:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Italy's Meloni vows to ban veils in schools, cap foreign students",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab027cf37c24807892b6edbc77403bf&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW411520092026RP1%2f&amp;c=14388557553627744616&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 09:32:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "North Korea fires two suspected ballistic missiles off east coast within three hours",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab027cf37c24807892b6edbc77403bf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fnorth-korea-fires-missile-off-east-coast-yonhap-says-2026-09-20%2f&amp;c=2040810116580567759&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 09:08:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftwo-dead-moscow-region-drones-hit-oil-refinery-russian-capital-2026-09-20%2f&amp;c=2719446482192265383&amp;mkt=en-us",
+        "pubDate": "Sun, 20 Sep 2026 14:25:00 GMT",
         "category": "Top News"
       },
       {
         "title": "US Treasury's Bessent and China's He launch talks on AI, trade and critical minerals",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab027cf37c24807892b6edbc77403bf&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20%2f&amp;c=16842233421129010053&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 08:06:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd932b2417788bd4c26361ed801&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20%2f&amp;c=16842233421129010053&amp;mkt=en-us",
+        "pubDate": "Sun, 20 Sep 2026 12:34:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Ukraine's Zelenskiy says he and Trump agree to meet in New York",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fukraines-zelenskiy-says-he-trump-agree-meet-new-york-2026-09-20%2f&amp;c=7413938769806299121&amp;mkt=en-us",
+        "pubDate": "Sun, 20 Sep 2026 12:13:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump administration prepares sanctions against International Criminal Court, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-administration-prepares-sanction-international-criminal-court-wsj-reports-2026-09-20%2f&amp;c=4901991732800084778&amp;mkt=en-us",
+        "pubDate": "Sun, 20 Sep 2026 11:45:00 GMT",
         "category": "Top News"
       },
       {
         "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab027cf37c24807892b6edbc77403bf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-warns-against-new-escalation-by-us-allies-2026-09-20%2f&amp;c=10951021409583923049&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd770224f21b8910883d08a1ef3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-warns-against-new-escalation-by-us-allies-2026-09-20%2f&amp;c=10951021409583923049&amp;mkt=en-us",
         "pubDate": "Sun, 20 Sep 2026 06:19:00 GMT",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "Trump wants to use Washington arch as military complex for drones and snipers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab027cf37c24807892b6edbc77403bf&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-convert-triumphal-arch-into-military-complex-2026-09-20%2f&amp;c=12070113186089070961&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-convert-triumphal-arch-into-military-complex-2026-09-20%2f&amp;c=12070113186089070961&amp;mkt=en-us",
         "pubDate": "Sun, 20 Sep 2026 04:57:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Billionaires abound in California. Why not tax their wealth?",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fbillionaires-abound-california-why-not-tax-their-wealth-2026-09-20%2f&amp;c=7796381895642025519&amp;mkt=en-us",
+        "pubDate": "Sun, 20 Sep 2026 03:03:00 GMT",
         "category": "Top News"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
+        "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+        "pubDate": "Sun, 20 Sep 2026 16:56:14 GMT",
+        "category": "tech"
+      }
+    ]
   }
 }
