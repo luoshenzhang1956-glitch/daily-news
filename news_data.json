@@ -1,32 +1,55 @@
 {
-  "updated_at": "2026-09-20T04:48:10.156091",
+  "updated_at": "2026-09-20T11:04:06.432997",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aaf64dbd24f40b688386f084fbc5eb3&amp;url=https%3a%2f%2fapnews.com%2farticle%2fantitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b&amp;c=9744650212001262830&amp;mkt=en-us",
-        "pubDate": "Sat, 19 Sep 2026 09:32:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "US lifts sanctions targeting Eritrea\u2019s ruling party and the military",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aaf64d5ed7b4808afbddd609bfaab09&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-eritrea-sanctions-tigray-houthi-red-sea-c3a4056f2c69b841d97b1bdd8d259716&amp;c=5907001665281629613&amp;mkt=en-us",
-        "pubDate": "Sat, 19 Sep 2026 05:01:00 GMT",
+        "title": "In New Orleans, an empty building becomes a free store \u2014 and roller skating rink",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
+        "pubDate": "Sun, 20 Sep 2026 07:00:00 -0400",
         "category": "us"
       },
       {
-        "title": "Telehealth companies keep exposing their customers\u2019 medical data. What should they do?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aaf64d96352486a9ea17150579907e4&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftelehealth-prescription-glp1-ftc-hims-e6821ac2ff88d76bbfe71c08ad21cc3a&amp;c=13470133906965162661&amp;mkt=en-us",
-        "pubDate": "Sat, 19 Sep 2026 05:00:00 GMT",
+        "title": "Judge orders Fox to hand over hundreds of documents in shareholders&apos; case",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
+        "pubDate": "Sun, 20 Sep 2026 06:01:00 -0400",
         "category": "business"
-      }
-    ],
-    "npr": [
+      },
+      {
+        "title": "U.S. childcare costs are astronomical. More families are turning to grandparents",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
+        "pubDate": "Sun, 20 Sep 2026 06:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+        "pubDate": "Sun, 20 Sep 2026 05:16:42 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
+        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "NPR&apos;s College Podcast Challenge is back for 2026",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
+        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "How the NPR College Podcast Challenge changed lives",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
+        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Saudi Arabia says Houthis tried to attack its capital",
         "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
         "pubDate": "Sat, 19 Sep 2026 23:57:23 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Ed Sheeran says situation in Gaza is &apos;catastrophic and unjustifiable&apos; as he opens solo concert",
@@ -35,77 +58,59 @@
         "category": "Top News"
       },
       {
-        "title": "The new lines of southern Lebanon",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
-        "pubDate": "Sat, 19 Sep 2026 15:00:24 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-        "pubDate": "Sat, 19 Sep 2026 11:26:31 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Opinion: Remembering Annie Dillard, nature writer",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
-        "pubDate": "Sat, 19 Sep 2026 08:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Life in Kabul 5 years after the Taliban&apos;s return",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
-        "pubDate": "Sat, 19 Sep 2026 07:40:40 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Betel nuts are a top mind-affecting substance. Now there&apos;s evidence of ancient use",
         "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
         "pubDate": "Sat, 19 Sep 2026 07:21:56 -0400",
         "category": "health"
-      },
-      {
-        "title": "Archaeologists are racing to save precious artifacts in Alaska after last year&apos;s storm",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
-        "pubDate": "Sat, 19 Sep 2026 05:01:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Ever wonder how the Fed&apos;s interest rate actually works? We&apos;ve got answers",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
-        "pubDate": "Sat, 19 Sep 2026 05:00:00 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-        "link": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-        "pubDate": "Sat, 19 Sep 2026 02:39:57 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 20 Sep 2026 01:38:30 GMT",
+        "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+        "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 20 Sep 2026 10:45:39 GMT",
         "category": "world"
       },
       {
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 23:49:26 GMT",
+        "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+        "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 20 Sep 2026 09:32:50 GMT",
+        "category": "business"
+      },
+      {
+        "title": "The deadly new drugs making Scotland's fight against addiction even harder",
+        "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 20 Sep 2026 08:04:55 GMT",
         "category": "Top News"
       },
       {
-        "title": "'People forget we exist': Why older LGBTQ+ community fears losing identity",
+        "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+        "link": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 20 Sep 2026 05:06:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 20 Sep 2026 05:00:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 20 Sep 2026 04:49:11 GMT",
+        "category": "us"
+      },
+      {
+        "title": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
         "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 19 Sep 2026 23:18:46 GMT",
         "category": "health"
       },
       {
-        "title": "Cultural treasures are being destroyed by war, and people want justice",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 23:18:18 GMT",
+        "title": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
+        "link": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 19 Sep 2026 23:18:34 GMT",
         "category": "Top News"
       },
       {
@@ -119,47 +124,16 @@
         "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 19 Sep 2026 23:01:38 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 23:00:27 GMT",
-        "category": "us"
-      },
-      {
-        "title": "The deadly new drugs reshaping Scotland's fight against addiction",
-        "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 22:51:14 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
-        "link": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 21:27:06 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 20:11:35 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Trump seeks to bring health-research funding under his control, Politico reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aaf65374dbd40afa0c294e79e183b02&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2ftrump-seeks-bring-health-research-funding-under-his-control-politico-reports-2026-09-20%2f&amp;c=8856654003156442350&amp;mkt=en-us",
-        "pubDate": "Sat, 19 Sep 2026 17:00:00 GMT",
-        "category": "health"
+        "title": "China's CXMT says new memory-chip platform enters mass production",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aafbd76002d4d048a54ffd797ffbe97&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20%2f&amp;c=1334519084580083450&amp;mkt=en-us",
+        "pubDate": "Sat, 19 Sep 2026 20:54:00 GMT",
+        "category": "tech"
       }
     ],
-    "markets": [
-      {
-        "title": "The S&amp;P 500 just logged another losing week, yet these stocks could be due for a bounce",
-        "link": "https://www.cnbc.com/2026/09/19/the-sp-500-just-logged-another-losing-week-these-stocks-could-be-due-for-a-bounce.html",
-        "pubDate": "Sat, 19 Sep 2026 13:02:42 GMT",
-        "category": "us"
-      }
-    ]
+    "markets": []
   }
 }
