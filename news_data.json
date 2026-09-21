@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-20T22:19:49.559611",
+  "updated_at": "2026-09-21T04:22:57.955471",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "What to stream: \u2018A Different World,\u2019 \u2018Toy Story 5' and Kenny Chesney",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab0b06a46694fdb91e69a3252446d7a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwhat-to-stream-september-2026-65cebed05f0efba4fe3f0e6fb41ea9ed&amp;c=3361966218534496897&amp;mkt=en-us",
+        "pubDate": "Sun, 20 Sep 2026 21:01:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
       {
         "title": "Federal immigration agent shoots and injures man in Austin, Texas",
@@ -66,16 +73,46 @@
     ],
     "bbc": [
       {
-        "title": "Specialist courts for rape cases to be rolled out across England and Wales",
-        "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 20 Sep 2026 21:30:36 GMT",
-        "category": "Top News"
+        "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 04:00:38 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+        "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 04:00:05 GMT",
+        "category": "health"
       },
       {
         "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
         "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 20 Sep 2026 20:21:40 GMT",
+        "pubDate": "Mon, 21 Sep 2026 03:22:44 GMT",
         "category": "world"
+      },
+      {
+        "title": "Watch: Dramatic moment a cargo ship crashes into another vessel",
+        "link": "https://www.bbc.co.uk/news/videos/cq0lr24x3ep1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 02:27:52 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
+        "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 20 Sep 2026 23:12:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Union calls for halt to graded Ofsted inspections over health concerns",
+        "link": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 20 Sep 2026 23:02:05 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+        "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 20 Sep 2026 22:43:31 GMT",
+        "category": "Top News"
       },
       {
         "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
@@ -90,111 +127,20 @@
         "category": "Top News"
       },
       {
-        "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
-        "link": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 20 Sep 2026 15:00:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
-        "link": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 20 Sep 2026 11:22:21 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 20 Sep 2026 10:45:39 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
         "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 20 Sep 2026 04:49:11 GMT",
         "category": "us"
-      },
-      {
-        "title": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
-        "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 23:18:46 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Not all AI workers think the tech could kill everyone",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 19 Sep 2026 23:01:57 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "World leaders return to UN amid wars in Middle East and Ukraine",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd62ab847deb9d19bca18ccedd5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fworld-leaders-return-un-amid-wars-middle-east-ukraine-2026-09-20%2f&amp;c=17984817161269616914&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 14:25:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "AfD leads as Merz rues 'disaster' in worst state election result in postwar Germany",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fmerz-under-pressure-two-more-german-states-go-polls-2026-09-20%2f&amp;c=5084079632435530731&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 14:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Macron, Carney pledge closer ties in Atlantic island meeting amid strains with Trump",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fmacron-carney-meet-french-atlantic-archipelago-signal-trump-2026-09-20%2f&amp;c=12239037247538325257&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 14:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Three dead in Moscow region, drones hit oil refinery in Russian capital",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftwo-dead-moscow-region-drones-hit-oil-refinery-russian-capital-2026-09-20%2f&amp;c=2719446482192265383&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 14:25:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Treasury's Bessent and China's He launch talks on AI, trade and critical minerals",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd932b2417788bd4c26361ed801&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20%2f&amp;c=16842233421129010053&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 12:34:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Ukraine's Zelenskiy says he and Trump agree to meet in New York",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fukraines-zelenskiy-says-he-trump-agree-meet-new-york-2026-09-20%2f&amp;c=7413938769806299121&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 12:13:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration prepares sanctions against International Criminal Court, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-administration-prepares-sanction-international-criminal-court-wsj-reports-2026-09-20%2f&amp;c=4901991732800084778&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 11:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd770224f21b8910883d08a1ef3&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-warns-against-new-escalation-by-us-allies-2026-09-20%2f&amp;c=10951021409583923049&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 06:19:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Trump wants to use Washington arch as military complex for drones and snipers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-convert-triumphal-arch-into-military-complex-2026-09-20%2f&amp;c=12070113186089070961&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 04:57:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Billionaires abound in California. Why not tax their wealth?",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab05bd5b35e42ffa1b75f56e0059c9d&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fbillionaires-abound-california-why-not-tax-their-wealth-2026-09-20%2f&amp;c=7796381895642025519&amp;mkt=en-us",
-        "pubDate": "Sun, 20 Sep 2026 03:03:00 GMT",
-        "category": "Top News"
-      }
-    ],
-    "markets": [
-      {
-        "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
-        "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-        "pubDate": "Sun, 20 Sep 2026 16:56:14 GMT",
+        "title": "China slows humanoid robot IPO rush as hype outruns reality",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab0b0b7bcfc401085758359008f9041&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fchina-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21%2f&amp;c=1834346757029854340&amp;mkt=en-us",
+        "pubDate": "Sun, 20 Sep 2026 17:00:00 GMT",
         "category": "tech"
       }
-    ]
+    ],
+    "markets": []
   }
 }
