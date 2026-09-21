@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-09-21T19:14:21.387370",
+  "updated_at": "2026-09-21T23:09:00.997294",
   "news": {
-    "ap": [
-      {
-        "title": "Mississippi Supreme Court raises bar for patients to sue. Here\u2019s how it could affect medical consent",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab18165f21d4af590b98d4b567f8257&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmedical-consent-mississippi-supreme-court-decision-5db633006c35d8ef206b91209b2002ff&amp;c=5909654428057006886&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 10:47:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Soaring living costs have many Nigerian couples rethinking the lavish wedding tradition",
+        "link": "https://www.npr.org/2026/09/21/nx-s1-5909146/soaring-living-costs-have-many-nigerian-couples-rethinking-the-lavish-wedding-tradition",
+        "pubDate": "Mon, 21 Sep 2026 18:44:05 -0400",
+        "category": "world"
+      },
+      {
+        "title": "What the equinox &apos;henge&apos; effect tells us about U.S. cities",
+        "link": "https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset",
+        "pubDate": "Mon, 21 Sep 2026 15:50:13 -0400",
+        "category": "us"
+      },
       {
         "title": "Aviation regulators turn to AI to help manage the nation&apos;s airspace",
         "link": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
         "pubDate": "Mon, 21 Sep 2026 13:37:56 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
@@ -26,7 +31,7 @@
         "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a &apos;military complex&apos;",
         "link": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
         "pubDate": "Mon, 21 Sep 2026 07:24:27 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "The data center backlash is reshaping American politics \u2014 one community at a time",
@@ -47,35 +52,59 @@
         "category": "Top News"
       },
       {
-        "title": "What to know as world leaders converge at the United Nations this week",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
-        "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Germany&apos;s leader stands his ground after his party loses in state elections",
         "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
         "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
-        "title": "18 suspects accused in the 2021 killing of Haiti&apos;s president being extradited to U.S.",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
-        "pubDate": "Mon, 21 Sep 2026 04:41:50 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Is homegrown food safer?",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5972971/is-homegrown-food-safer",
+        "title": "Is produce from a home garden safer than store bought? &apos;It depends&apos;",
+        "link": "https://www.npr.org/2026/09/21/nx-s1-5972971/garden-vegetables-lettuce-food-safety",
         "pubDate": "Mon, 21 Sep 2026 04:40:49 -0400",
         "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 18:42:44 GMT",
+        "title": "Vet prescription fees capped under rule changes",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 23:01:18 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 22:54:49 GMT",
+        "category": "us"
+      },
+      {
+        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+        "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 22:48:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 21:36:39 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Police raid organised crime targets in Teesside",
+        "link": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 20:21:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+        "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 20:21:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Infantino says he is open to Fifa reform",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 19:50:57 GMT",
         "category": "Top News"
       },
       {
@@ -85,46 +114,10 @@
         "category": "Top News"
       },
       {
-        "title": "Man charged with causing death by dangerous driving over crash that killed 6",
-        "link": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 17:01:32 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-        "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 16:39:16 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Repeated air traffic control failures leave us in worrying territory",
-        "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 16:39:01 GMT",
-        "category": "business"
-      },
-      {
-        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-        "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 15:58:53 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Seventeen arrested in Teesside organised crime raids",
-        "link": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 15:56:58 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
         "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 21 Sep 2026 14:14:16 GMT",
         "category": "world"
-      },
-      {
-        "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-        "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 14:06:12 GMT",
-        "category": "Top News"
       },
       {
         "title": "'Other generations just buried it' - Youths share their mental health concerns",
@@ -135,12 +128,19 @@
     ],
     "reuters": [
       {
-        "title": "Paramount settles with US states in big step towards closing Warner Bros merger",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab18189bda649cc9b98ef55171ba9dd&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fparamount-settles-with-california-other-states-clearing-major-hurdle-warner-bros-2026-09-21%2f&amp;c=17219845031238632319&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 07:50:00 GMT",
-        "category": "us"
+        "title": "World Food Programme ramps up response in Yemen as hunger fears escalate, official says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1b88e4a4848c79550d19a1fd09b3a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fworld-food-programme-ramps-up-response-yemen-hunger-fears-escalate-official-says-2026-09-21%2f&amp;c=14827695968589963864&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 11:49:00 GMT",
+        "category": "world"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Eli Lilly CEO says 700,000 new seniors have started GLP-1s after Medicare coverage, and 70% are on Lilly drugs",
+        "link": "https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html",
+        "pubDate": "Mon, 21 Sep 2026 19:37:01 GMT",
+        "category": "business"
+      }
+    ]
   }
 }
