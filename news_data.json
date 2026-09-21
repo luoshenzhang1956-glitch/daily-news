@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-09-21T12:31:39.905518",
+  "updated_at": "2026-09-21T19:14:21.387370",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Mississippi Supreme Court raises bar for patients to sue. Here\u2019s how it could affect medical consent",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab18165f21d4af590b98d4b567f8257&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmedical-consent-mississippi-supreme-court-decision-5db633006c35d8ef206b91209b2002ff&amp;c=5909654428057006886&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 10:47:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Aviation regulators turn to AI to help manage the nation&apos;s airspace",
+        "link": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
+        "pubDate": "Mon, 21 Sep 2026 13:37:56 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
+        "link": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
+        "pubDate": "Mon, 21 Sep 2026 12:40:28 -0400",
+        "category": "business"
+      },
       {
         "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a &apos;military complex&apos;",
         "link": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
@@ -13,13 +32,7 @@
         "title": "The data center backlash is reshaping American politics \u2014 one community at a time",
         "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
         "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
-        "category": "us"
-      },
-      {
-        "title": "This farm raised thousands of pigs for slaughter. Now it&apos;s growing mushrooms instead",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
-        "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
-        "category": "business"
+        "category": "tech"
       },
       {
         "title": "Many GOP candidates still echo Trump&apos;s 2020 claims. Lots of voters want to move on",
@@ -28,14 +41,20 @@
         "category": "Top News"
       },
       {
-        "title": "German chancellor stands his ground after his party loses in state elections",
-        "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+        "title": "This farm raised thousands of pigs for slaughter. Now it&apos;s growing mushrooms instead",
+        "link": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
         "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
         "title": "What to know as world leaders converge at the United Nations this week",
         "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+        "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Germany&apos;s leader stands his ground after his party loses in state elections",
+        "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
         "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
         "category": "Top News"
       },
@@ -50,151 +69,78 @@
         "link": "https://www.npr.org/2026/09/21/nx-s1-5972971/is-homegrown-food-safer",
         "pubDate": "Mon, 21 Sep 2026 04:40:49 -0400",
         "category": "health"
-      },
-      {
-        "title": "Trump says he&apos;ll create an AI task force. Industry insiders have a lot of questions",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5975522/trump-says-hell-create-an-ai-task-force-industry-insiders-have-a-lot-of-questions",
-        "pubDate": "Mon, 21 Sep 2026 04:40:10 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "CNN, MS NOW and Politico will sue Trump after being barred from White House",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
-        "pubDate": "Mon, 21 Sep 2026 04:39:38 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+        "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 18:42:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "First UK charges brought over 1994 Rwanda genocide",
+        "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 17:48:23 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man charged with causing death by dangerous driving over crash that killed 6",
+        "link": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 17:01:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+        "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 16:39:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Repeated air traffic control failures leave us in worrying territory",
+        "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 16:39:01 GMT",
+        "category": "business"
+      },
+      {
+        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
         "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 12:21:02 GMT",
+        "pubDate": "Mon, 21 Sep 2026 15:58:53 GMT",
         "category": "us"
+      },
+      {
+        "title": "Seventeen arrested in Teesside organised crime raids",
+        "link": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 15:56:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+        "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 14:14:16 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+        "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 14:06:12 GMT",
+        "category": "Top News"
       },
       {
         "title": "'Other generations just buried it' - Youths share their mental health concerns",
         "link": "https://www.bbc.co.uk/news/videos/ck1wx2z55nwyo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 21 Sep 2026 12:17:42 GMT",
         "category": "health"
-      },
-      {
-        "title": "Southport killer accused of throwing boiling water mixed with sugar at prison officer",
-        "link": "https://www.bbc.co.uk/news/articles/c6d79pzny7gjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 11:24:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 10:28:17 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-        "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 10:00:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-        "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 08:56:27 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
-        "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 07:01:25 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
-        "link": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 05:00:34 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
-        "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 04:00:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-        "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 00:05:11 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Xi rolls into Trump summit with China's trade engine roaring",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1232b090a4b9c911c19da899a8d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fxi-rolls-into-trump-summit-with-chinas-trade-engine-roaring-2026-09-21%2f&amp;c=7773211409946654982&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 04:50:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Houthis push for control of Yemen highlands as Trump reported to have called off airstrikes",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1232b090a4b9c911c19da899a8d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fhouthis-push-control-yemen-highlands-trump-reported-have-called-off-airstrikes-2026-09-21%2f&amp;c=6824887095401003981&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 04:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Gaza students return to in-person schooling for first time in three years",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1232b090a4b9c911c19da899a8d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fgaza-students-return-in-person-schooling-first-time-three-years-2026-09-21%2f&amp;c=1807657374317413074&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 03:54:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Novo says CagriSema tops Lilly rival in diabetes patients for weight loss",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1232b090a4b9c911c19da899a8d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fnovo-says-its-next-gen-obesity-drug-tops-lilly-rival-late-stage-study-2026-09-21%2f&amp;c=2760562531470985301&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 03:47:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Fed's Goolsbee: Strong demand may be adding to US inflation, 'no ambiguity' how Fed would react",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1233f06564d07af2b4fc59f246f8c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffeds-goolsbee-strong-demand-may-be-adding-us-inflation-no-ambiguity-how-fed-2026-09-21%2f&amp;c=594233294887067977&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 03:36:00 GMT",
+        "title": "Paramount settles with US states in big step towards closing Warner Bros merger",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab18189bda649cc9b98ef55171ba9dd&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fparamount-settles-with-california-other-states-clearing-major-hurdle-warner-bros-2026-09-21%2f&amp;c=17219845031238632319&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 07:50:00 GMT",
         "category": "us"
-      },
-      {
-        "title": "LNG buyers and sellers seek greater supply diversity amid Iran war",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1232b090a4b9c911c19da899a8d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2flng-buyers-sellers-seek-greater-supply-diversity-amid-iran-war-2026-09-21%2f&amp;c=8361072962918918753&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 03:19:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Aerospace suppliers test rare-earth alternatives to ease reliance on China",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1232b090a4b9c911c19da899a8d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2faerospace-suppliers-test-rare-earth-alternatives-ease-reliance-china-2026-09-21%2f&amp;c=10756808779496321338&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 03:08:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tesla faces major trial for alleged bias against Black workers, after years of lawsuits",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1232b090a4b9c911c19da899a8d3f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftesla-faces-major-trial-alleged-bias-against-black-workers-after-years-lawsuits-2026-09-21%2f&amp;c=4642243449485701352&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 03:03:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Wall St futures rise as AI stocks rally, crude prices fall",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1232b090a4b9c911c19da899a8d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-rise-ai-stocks-gain-oil-prices-slide-2026-09-21%2f&amp;c=11261818708636514633&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 02:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hormuz shuttles keep oil flowing, but at a high cost",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1232b090a4b9c911c19da899a8d3f&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2freuters-open-interest%2fhormuz-shuttles-keep-oil-flowing-high-cost-2026-09-21%2f&amp;c=13322307677809619161&amp;mkt=en-us",
-        "pubDate": "Mon, 21 Sep 2026 01:43:00 GMT",
-        "category": "Top News"
       }
     ],
-    "markets": [
-      {
-        "title": "Bitcoin hits highest level since January at $85,000, as the market debates whether the &apos;crypto winter&apos; is over",
-        "link": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
-        "pubDate": "Mon, 21 Sep 2026 11:10:55 GMT",
-        "category": "tech"
-      }
-    ]
+    "markets": []
   }
 }
