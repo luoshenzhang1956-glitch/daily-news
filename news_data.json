@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-09-21T23:09:00.997294",
+  "updated_at": "2026-09-22T04:17:00.897304",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "With the world\u2019s leaders waiting, Trump meets with Mamdani",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab200e23e4c47a39d6cff872da2a381&amp;url=https%3a%2f%2fapnews.com%2farticle%2fdonald-trump-zohran-mamdani-new-york-40a2a3e36c47e5ddec61cba145292344&amp;c=598333276296946878&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 16:23:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "The latest on MLB postseason clinches, Ohtani and Judge health updates, awards races and more",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab20109145445efbdc5adf783f43938&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmlb-postseason-guide-schedule-caf4f50997be16bf6cf962726b6d9016&amp;c=6246971401315728179&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 13:08:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "World leaders in New York to grapple with climate. Fuel prices, AI and disasters complicate things",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab200f7b5734be9b2b94b921a8e28ff&amp;url=https%3a%2f%2fapnews.com%2farticle%2fclimate-change-un-fuel-ai-renewables-f3208930e39c7d233bdc24315065dcd2&amp;c=10035269386374053664&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 06:00:00 GMT",
+        "category": "business"
+      }
+    ],
     "npr": [
       {
         "title": "Soaring living costs have many Nigerian couples rethinking the lavish wedding tradition",
@@ -66,28 +85,46 @@
     ],
     "bbc": [
       {
-        "title": "Vet prescription fees capped under rule changes",
-        "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 23:01:18 GMT",
-        "category": "business"
-      },
-      {
         "title": "Flights at major US airports delayed after cable cut by construction workers",
         "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 22:54:49 GMT",
+        "pubDate": "Tue, 22 Sep 2026 01:36:54 GMT",
         "category": "us"
       },
       {
-        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-        "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 22:48:33 GMT",
+        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+        "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 22 Sep 2026 01:31:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 22 Sep 2026 01:04:16 GMT",
         "category": "Top News"
       },
       {
         "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
         "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 21:36:39 GMT",
+        "pubDate": "Tue, 22 Sep 2026 00:58:52 GMT",
         "category": "Top News"
+      },
+      {
+        "title": "Scientists discover why Kent meningitis outbreak was so severe",
+        "link": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 22 Sep 2026 00:00:04 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Martha's Rule rolled out at every A&E department in England",
+        "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 23:38:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Vet prescription fees capped under rule changes",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 21 Sep 2026 23:01:18 GMT",
+        "category": "business"
       },
       {
         "title": "Watch: Police raid organised crime targets in Teesside",
@@ -102,44 +139,98 @@
         "category": "Top News"
       },
       {
-        "title": "Infantino says he is open to Fifa reform",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 19:50:57 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "First UK charges brought over 1994 Rwanda genocide",
-        "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 17:48:23 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
         "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 21 Sep 2026 14:14:16 GMT",
         "category": "world"
-      },
-      {
-        "title": "'Other generations just buried it' - Youths share their mental health concerns",
-        "link": "https://www.bbc.co.uk/news/videos/ck1wx2z55nwyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 21 Sep 2026 12:17:42 GMT",
-        "category": "health"
       }
     ],
     "reuters": [
       {
+        "title": "Converse pulls ad, apologizes after backlash over alleged KKK imagery, ABC News reports",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab2010fc072446fafd574f27802888e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fconverse-pulls-ad-apologizes-after-backlash-over-alleged-kkk-imagery-abc-news-2026-09-22%2f&amp;c=15670145980878456061&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 17:00:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Man shot by ICE agents in Texas says he is in detention with bullet in back",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab2010b33ff49a9997168953fd5fa33&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fman-shot-by-ice-agents-texas-says-he-is-detention-with-bullet-back-2026-09-22%2f&amp;c=11900021763612489182&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Seoul's green space a battleground for mayor and South Korea's president",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab2010b33ff49a9997168953fd5fa33&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fseouls-green-space-battleground-mayor-south-koreas-president-2026-09-22%2f&amp;c=8542608215431734400&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab2010b33ff49a9997168953fd5fa33&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2falibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22%2f&amp;c=5056191466537405974&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "G7 foreign ministers call on Iran to stop arming Houthis",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab2010b33ff49a9997168953fd5fa33&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fg7-foreign-ministers-call-iran-stop-arming-houthis-2026-09-22%2f&amp;c=6903403939195420077&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 17:00:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US awards $99 million for geothermal drilling, technology projects",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab201114bbf452788fba0b8f7a1a8b3&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fus-awards-99-million-geothermal-drilling-technology-projects-2026-09-21%2f&amp;c=16630967599299624057&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 14:52:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Critics say California got too little in deal to let Paramount buy Warner Bros",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab2010b33ff49a9997168953fd5fa33&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fcritics-say-california-got-too-little-deal-let-paramount-buy-warner-bros-2026-09-21%2f&amp;c=11422198644632736395&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 14:24:00 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "World Food Programme ramps up response in Yemen as hunger fears escalate, official says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab1b88e4a4848c79550d19a1fd09b3a&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fworld-food-programme-ramps-up-response-yemen-hunger-fears-escalate-official-says-2026-09-21%2f&amp;c=14827695968589963864&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab2010d4dbc4aa68753e34959e75973&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fworld-food-programme-ramps-up-response-yemen-hunger-fears-escalate-official-says-2026-09-21%2f&amp;c=14827695968589963864&amp;mkt=en-us",
         "pubDate": "Mon, 21 Sep 2026 11:49:00 GMT",
         "category": "world"
+      },
+      {
+        "title": "Mexico plans to boost US imports as part of trade treaty review, Sheinbaum says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab2010e5d994dc5be33d345c97ee2ff&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fmexico-plans-boost-us-imports-part-trade-treaty-review-sheinbaum-says-2026-09-21%2f&amp;c=15515589230645010838&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 08:08:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab2010b33ff49a9997168953fd5fa33&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fparamount-settles-with-california-other-states-clearing-major-hurdle-warner-bros-2026-09-21%2f&amp;c=17219845031238632319&amp;mkt=en-us",
+        "pubDate": "Mon, 21 Sep 2026 07:50:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": [
       {
+        "title": "Tesla makes a move on Southeast Asia&apos;s largest EV market. A homegrown giant awaits",
+        "link": "https://www.cnbc.com/2026/09/22/tesla-vinfast-ev-vietnam.html",
+        "pubDate": "Tue, 22 Sep 2026 02:22:23 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "All Iranian airlines to be &apos;shut down&apos; from Wednesday, Bessent tells CNBC",
+        "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+        "pubDate": "Tue, 22 Sep 2026 01:51:44 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Investors discover their new favorite consumer AI play in Meta. Options volume is surging",
+        "link": "https://www.cnbc.com/2026/09/21/meta-investors-discover-new-ai-play.html",
+        "pubDate": "Mon, 21 Sep 2026 20:13:33 GMT",
+        "category": "us"
+      },
+      {
         "title": "Eli Lilly CEO says 700,000 new seniors have started GLP-1s after Medicare coverage, and 70% are on Lilly drugs",
         "link": "https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html",
         "pubDate": "Mon, 21 Sep 2026 19:37:01 GMT",
-        "category": "business"
+        "category": "health"
       }
     ]
   }
