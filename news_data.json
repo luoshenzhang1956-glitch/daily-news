@@ -1,38 +1,56 @@
 {
-  "updated_at": "2026-09-26T04:28:18.068600",
+  "updated_at": "2026-09-26T11:11:00.095223",
   "news": {
     "ap": [
       {
-        "title": "New Mexico jury finds Facebook liable for deceiving users about privacy protections",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7496a464641faa5b941f8236d0e7e&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffacebook-meta-new-mexico-privacy-lawsuit-3f822af6a0628b983f942754d21b5ba6&amp;c=14400989005664661103&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 10:45:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "A data-sharing clause derailed US-Zimbabwe health talks. Now all funding ends this month",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7496c799b4c5aa57030dc63a38152&amp;url=https%3a%2f%2fapnews.com%2farticle%2fus-health-funding-ends-data-sharing-dispute-c272b37d589c313c886c35d52bc93382&amp;c=17078716490118578409&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 08:39:00 GMT",
+        "title": "As work requirements kick in for Medicaid, some states are taking a tougher stance",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7a7ad02c74b32aec4a78fc1e18dad&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmedicaid-work-requirement-self-attestation-012ebf8a94ce672bd8ae5c863db566e5&amp;c=16429114023717462035&amp;mkt=en-us",
+        "pubDate": "Sat, 26 Sep 2026 03:08:00 GMT",
         "category": "health"
-      },
-      {
-        "title": "Iran proposes a deal to reopen the Strait of Hormuz in 7 days if the US meets its conditions",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab74958abd14133a11635852ae495a7&amp;url=https%3a%2f%2fapnews.com%2farticle%2firan-us-war-negotiations-strait-hormuz-d8b9749fee99a11dd77513d326b824b6&amp;c=8675465717362331339&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 06:38:00 GMT",
-        "category": "us"
       }
     ],
     "npr": [
+      {
+        "title": "The U.S. has more thalidomide survivors than the government admits",
+        "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+        "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "The AI safety debate is confusing. Here&apos;s our guide to the different factions",
+        "link": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+        "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+        "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+        "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Pope warns a &apos;paradise of machines&apos; could undermine humanity as he opens France trip",
+        "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+        "pubDate": "Sat, 26 Sep 2026 02:59:45 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor&apos;easter take shape",
+        "link": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey",
+        "pubDate": "Sat, 26 Sep 2026 01:43:38 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "CNN left off Air Force One for Trump&apos;s upcoming trip, White House signals in new media restriction",
+        "link": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
+        "pubDate": "Sat, 26 Sep 2026 00:42:17 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Supreme Court blocks Trump-backed Missouri congressional map",
         "link": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
         "pubDate": "Fri, 25 Sep 2026 18:06:16 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Soybean farmers hopeful for Xi&apos;s White House visit",
-        "link": "https://www.npr.org/2026/09/25/nx-s1-5977838/soybean-farmers-hopeful-for-xis-white-house-visit",
-        "pubDate": "Fri, 25 Sep 2026 16:34:37 -0400",
-        "category": "us"
       },
       {
         "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Ni\u00f1o",
@@ -50,44 +68,38 @@
         "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
         "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
         "pubDate": "Fri, 25 Sep 2026 15:11:47 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
-        "link": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
-        "pubDate": "Fri, 25 Sep 2026 12:14:24 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "There&apos;s a global pandemic treaty that&apos;s signed -- and in &apos;limbo.&apos; What&apos;s the holdup?",
-        "link": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
-        "pubDate": "Fri, 25 Sep 2026 11:57:35 -0400",
-        "category": "health"
-      },
-      {
-        "title": "The Supreme Court revives a controversial data system for citizenship checks",
-        "link": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
-        "pubDate": "Fri, 25 Sep 2026 11:40:57 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Pope Leo warns a &apos;paradise of machines&apos; could undermine humanity on his France visit",
-        "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-        "pubDate": "Fri, 25 Sep 2026 10:55:12 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains",
-        "link": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
-        "pubDate": "Fri, 25 Sep 2026 10:46:28 -0400",
         "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "Rayner criticises visa rule proposals ahead of Labour conference",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 26 Sep 2026 10:39:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Could an iced coffee freeze you out of the job market?",
+        "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 26 Sep 2026 10:05:36 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Joshua fight at risk over promoter row, says Fury",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/cq3d77ppnzdro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 26 Sep 2026 08:39:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The computer hacker who tried to take down Man City",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 26 Sep 2026 05:56:40 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
         "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 26 Sep 2026 04:14:30 GMT",
+        "pubDate": "Sat, 26 Sep 2026 05:03:09 GMT",
         "category": "world"
       },
       {
@@ -103,40 +115,16 @@
         "category": "tech"
       },
       {
-        "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 25 Sep 2026 23:05:40 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "E-bikes seized by police sold on at auction, BBC finds",
+        "title": "E-motorbikes seized by police sold on at auction, BBC finds",
         "link": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 25 Sep 2026 23:02:42 GMT",
         "category": "Top News"
       },
       {
-        "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 25 Sep 2026 20:48:18 GMT",
+        "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 25 Sep 2026 20:13:53 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Man City found guilty of majority of 115 financial rule breaches",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 25 Sep 2026 20:11:12 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "I'm not tempted to call an early election, Burnham says",
-        "link": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 25 Sep 2026 17:15:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Sir David Beckham nets \u00a338.5m after World Cup ad deals",
-        "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 25 Sep 2026 16:00:44 GMT",
-        "category": "business"
       },
       {
         "title": "NHS to suspend staff suspected of snooping on patient records",
@@ -147,91 +135,12 @@
     ],
     "reuters": [
       {
-        "title": "Iran awaits US move after WSJ report says Trump rejects peace plan",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7497ab45d425aa93f8d1fb0a1fe0f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26%2f&amp;c=1724161383661671255&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 17:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "New Jersey's lieutenant governor resigns amid sexual harassment findings",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7497ab45d425aa93f8d1fb0a1fe0f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fnew-jerseys-lieutenant-governor-resigns-amid-sexual-harassment-findings-2026-09-25%2f&amp;c=10224125332593564959&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 13:35:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "ShinyHunters hackers say they stole psychiatric and medical records of FBI staff",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7497ab45d425aa93f8d1fb0a1fe0f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fshinyhunters-hackers-say-they-stole-psychiatric-medical-records-fbi-staff-2026-09-25%2f&amp;c=11505818359180837852&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 13:32:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US appeals court rules against Kalshi, says states can regulate prediction markets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7497ab45d425aa93f8d1fb0a1fe0f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fus-appeals-court-rules-against-kalshi-says-states-can-regulate-prediction-2026-09-25%2f&amp;c=5766020009023547389&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 12:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US immigration crackdown hits Kansas, disrupts beef processing",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7497ab45d425aa93f8d1fb0a1fe0f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-immigration-crackdown-hits-kansas-disrupts-beef-processing-2026-09-25%2f&amp;c=15663437169102965055&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 11:22:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7497ab45d425aa93f8d1fb0a1fe0f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fsk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-up-150-billion-sources-2026-09-25%2f&amp;c=227718196152419726&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 09:47:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Union at BHP's Escondida mine in Chile refuses to pause contract talks after fatal accident",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7497ab45d425aa93f8d1fb0a1fe0f&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2funions-chiles-escondida-mine-reject-bid-pause-contract-talks-after-workers-death-2026-09-25%2f&amp;c=3117828656560602553&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 09:46:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "China's first lady Peng Liyuan turns soft power on US audience",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7498c653a4c92b5c858e1739d3627&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fchinas-first-lady-peng-liyuan-turns-soft-power-us-audience-2026-09-25%2f&amp;c=24193369731068120&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 09:01:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Supreme Court restores Trump's mass voter verification system",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7497ab45d425aa93f8d1fb0a1fe0f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fsupreme-court-restores-trumps-mass-voter-verification-system-2026-09-25%2f&amp;c=7676567385907903901&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 08:34:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "TV networks resume covering White House as press access fight continues",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7497ab45d425aa93f8d1fb0a1fe0f&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftv-networks-resume-coverage-trump-events-cnn-says-2026-09-25%2f&amp;c=1086329776812341113&amp;mkt=en-us",
-        "pubDate": "Fri, 25 Sep 2026 06:40:00 GMT",
-        "category": "Top News"
+        "title": "Japan's Ohashi has touch of genius, Qin says after losing world record",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab7a7b7271646d397f6f34aab4a8588&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fjapans-ohashi-has-touch-genius-qin-says-after-losing-world-record-2026-09-25%2f&amp;c=2356506088812744943&amp;mkt=en-us",
+        "pubDate": "Fri, 25 Sep 2026 12:00:00 GMT",
+        "category": "world"
       }
     ],
-    "markets": [
-      {
-        "title": "Here&apos;s exactly what Paramount promised Hollywood to land WBD \u2014 and why some are still skeptical",
-        "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-        "pubDate": "Fri, 25 Sep 2026 22:53:52 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
-        "link": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
-        "pubDate": "Fri, 25 Sep 2026 21:38:38 GMT",
-        "category": "world"
-      },
-      {
-        "title": "How recent grads and college students should be thinking about AI, the CV, and the job market",
-        "link": "https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html",
-        "pubDate": "Fri, 25 Sep 2026 20:52:09 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
-        "link": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
-        "pubDate": "Fri, 25 Sep 2026 12:51:39 GMT",
-        "category": "health"
-      }
-    ]
+    "markets": []
   }
 }
