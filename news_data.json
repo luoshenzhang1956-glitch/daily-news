@@ -1,25 +1,50 @@
 {
-  "updated_at": "2026-09-27T18:15:43.265967",
+  "updated_at": "2026-09-27T22:57:29.883280",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Cramps derail Tigst Assefa\u2019s world record as Guye Adola wins Berlin Marathon",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab99e98cd93473382a9accfbe1783e6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fberlin-marathon-world-record-assefa-adola-f037a7546b40afce0df1eab1c9294691&amp;c=18324882793269713422&amp;mkt=en-us",
+        "pubDate": "Sun, 27 Sep 2026 01:56:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab99e9a88124a02af467f3914bb4a5e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbritain-explosives-us-air-base-fairford-49495441036e78763e106bbeadd1e839&amp;c=15855398502503486084&amp;mkt=en-us",
+        "pubDate": "Sun, 27 Sep 2026 00:52:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "Scientists discover two new species of sea spiders along Canadian coastline",
+        "link": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species",
+        "pubDate": "Sun, 27 Sep 2026 18:31:16 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
+        "link": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
+        "pubDate": "Sun, 27 Sep 2026 17:14:44 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Fall planting isn&apos;t over. Try greens, garlic or both",
+        "link": "https://www.npr.org/2026/09/27/nx-s1-5980348/fall-planting-isnt-over-try-greens-garlic-or-both",
+        "pubDate": "Sun, 27 Sep 2026 17:14:42 -0400",
+        "category": "us"
+      },
       {
         "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
         "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
         "pubDate": "Sun, 27 Sep 2026 09:01:27 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Everyone is racing to create an AI device. Meta thinks it has one",
         "link": "https://www.npr.org/2026/09/27/nx-s1-5980407/everyone-is-racing-to-create-an-ai-device-meta-thinks-it-has-one",
         "pubDate": "Sun, 27 Sep 2026 08:17:42 -0400",
         "category": "business"
-      },
-      {
-        "title": "Maricopa County official on how they&apos;re tackling mistrust around election security",
-        "link": "https://www.npr.org/2026/09/27/nx-s1-5971160/maricopa-county-official-on-how-theyre-tackling-mistrust-around-election-security",
-        "pubDate": "Sun, 27 Sep 2026 08:17:32 -0400",
-        "category": "us"
       },
       {
         "title": "Trump wants to remove a question about race in the census. We look back at the history",
@@ -46,35 +71,35 @@
         "category": "Top News"
       },
       {
-        "title": "Playing &apos;La Bamba&apos; for an hour? Must be a Mexican fandango!",
-        "link": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
-        "pubDate": "Sun, 27 Sep 2026 08:00:00 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Photos: This may be the most inspirational night school on Earth",
         "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
         "pubDate": "Sun, 27 Sep 2026 07:53:42 -0400",
         "category": "health"
-      },
-      {
-        "title": "From professor to patient: One man&apos;s journey on the frontier of lung cancer treatment",
-        "link": "https://www.npr.org/2026/09/27/nx-s1-5981264/lung-cancer-treatment-mrna-affordability",
-        "pubDate": "Sun, 27 Sep 2026 07:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "What we know about RAF base counter-terror investigation",
-        "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 27 Sep 2026 17:01:54 GMT",
+        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 27 Sep 2026 22:20:17 GMT",
         "category": "Top News"
       },
       {
-        "title": "England win series as Banton delivers on potential",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 27 Sep 2026 16:49:38 GMT",
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 27 Sep 2026 21:16:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 27 Sep 2026 20:10:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "What we know about RAF Fairford counter-terror probe",
+        "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 27 Sep 2026 19:47:44 GMT",
         "category": "Top News"
       },
       {
@@ -82,12 +107,6 @@
         "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 27 Sep 2026 16:35:41 GMT",
         "category": "us"
-      },
-      {
-        "title": "Two mass shootings in South Africa leave 27 dead",
-        "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 27 Sep 2026 14:09:22 GMT",
-        "category": "Top News"
       },
       {
         "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
@@ -99,12 +118,6 @@
         "title": "Burnham proposes NHS-style social care system for England",
         "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 27 Sep 2026 13:48:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ten NHS staff removed over Noah Woods data breach",
-        "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 27 Sep 2026 13:25:27 GMT",
         "category": "Top News"
       },
       {
@@ -126,7 +139,20 @@
         "category": "world"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental group says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab99eede8064ddfb895595f9aae6583&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2firan-linked-diesel-price-spike-makes-electric-trucks-cheaper-than-diesel-key-eu-2026-09-27%2f&amp;c=5148246603310820528&amp;mkt=en-us",
+        "pubDate": "Sun, 27 Sep 2026 15:02:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Trump says men arrested at UK air base used by US were looking to do 'big damage'",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab99eeb15a94e9e81f309ee74ed7405&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fsecurity-increased-us-fairford-air-base-england-2026-09-27%2f&amp;c=10365324276210823513&amp;mkt=en-us",
+        "pubDate": "Sun, 27 Sep 2026 00:11:00 GMT",
+        "category": "us"
+      }
+    ],
     "markets": []
   }
 }
