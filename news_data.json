@@ -1,21 +1,14 @@
 {
-  "updated_at": "2026-09-27T22:57:29.883280",
+  "updated_at": "2026-09-28T04:49:27.433851",
   "news": {
-    "ap": [
-      {
-        "title": "Cramps derail Tigst Assefa\u2019s world record as Guye Adola wins Berlin Marathon",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab99e98cd93473382a9accfbe1783e6&amp;url=https%3a%2f%2fapnews.com%2farticle%2fberlin-marathon-world-record-assefa-adola-f037a7546b40afce0df1eab1c9294691&amp;c=18324882793269713422&amp;mkt=en-us",
-        "pubDate": "Sun, 27 Sep 2026 01:56:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab99e9a88124a02af467f3914bb4a5e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbritain-explosives-us-air-base-fairford-49495441036e78763e106bbeadd1e839&amp;c=15855398502503486084&amp;mkt=en-us",
-        "pubDate": "Sun, 27 Sep 2026 00:52:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "Nantucket shipwreck uncovered by Nor&apos;easter",
+        "link": "https://www.npr.org/2026/09/27/nx-s1-5982785/nantucket-shipwreck-uncovered-by-noreaster",
+        "pubDate": "Sun, 27 Sep 2026 20:30:26 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Scientists discover two new species of sea spiders along Canadian coastline",
         "link": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species",
@@ -65,12 +58,6 @@
         "category": "Top News"
       },
       {
-        "title": "Ohio governor&apos;s race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
-        "link": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
-        "pubDate": "Sun, 27 Sep 2026 08:06:23 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "Photos: This may be the most inspirational night school on Earth",
         "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
         "pubDate": "Sun, 27 Sep 2026 07:53:42 -0400",
@@ -78,6 +65,30 @@
       }
     ],
     "bbc": [
+      {
+        "title": "Protesters disperse after blocking contentious Orange Order parade",
+        "link": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 28 Sep 2026 03:27:56 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+        "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 28 Sep 2026 01:16:18 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "My hometown shows that high streets have to change or die",
+        "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 27 Sep 2026 23:05:53 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+        "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 27 Sep 2026 23:01:47 GMT",
+        "category": "business"
+      },
       {
         "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
         "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&amp;at_campaign=rss",
@@ -88,13 +99,19 @@
         "title": "Inside Yemen's front-line city as Houthis battle for control",
         "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 27 Sep 2026 21:16:31 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+        "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 27 Sep 2026 21:00:06 GMT",
         "category": "Top News"
       },
       {
-        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "title": "Five arrested as counter-terror police investigate major incident near UK airbase used by US forces",
         "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 27 Sep 2026 20:10:51 GMT",
-        "category": "Top News"
+        "category": "us"
       },
       {
         "title": "What we know about RAF Fairford counter-terror probe",
@@ -103,56 +120,13 @@
         "category": "Top News"
       },
       {
-        "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
-        "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 27 Sep 2026 16:35:41 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
-        "link": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 27 Sep 2026 14:07:17 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Burnham proposes NHS-style social care system for England",
-        "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 27 Sep 2026 13:48:05 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Andy Burnham refuses to back third runway at Heathrow",
-        "link": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 27 Sep 2026 11:22:32 GMT",
-        "category": "business"
-      },
-      {
         "title": "'Broken social care will in the end break the NHS,' says Burnham",
         "link": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 27 Sep 2026 09:52:49 GMT",
         "category": "health"
-      },
-      {
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 27 Sep 2026 07:44:11 GMT",
-        "category": "world"
       }
     ],
-    "reuters": [
-      {
-        "title": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental group says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab99eede8064ddfb895595f9aae6583&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2firan-linked-diesel-price-spike-makes-electric-trucks-cheaper-than-diesel-key-eu-2026-09-27%2f&amp;c=5148246603310820528&amp;mkt=en-us",
-        "pubDate": "Sun, 27 Sep 2026 15:02:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Trump says men arrested at UK air base used by US were looking to do 'big damage'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ab99eeb15a94e9e81f309ee74ed7405&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fuk%2fsecurity-increased-us-fairford-air-base-england-2026-09-27%2f&amp;c=10365324276210823513&amp;mkt=en-us",
-        "pubDate": "Sun, 27 Sep 2026 00:11:00 GMT",
-        "category": "us"
-      }
-    ],
+    "reuters": [],
     "markets": []
   }
 }
