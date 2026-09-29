@@ -1,13 +1,49 @@
 {
-  "updated_at": "2026-09-29T16:28:02.378839",
+  "updated_at": "2026-09-29T22:06:58.713517",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Trump hosts tech executives as administration doubles down on AI",
+        "link": "https://www.npr.org/2026/09/29/nx-s1-5984657/trump-hosts-tech-executives-as-administration-doubles-down-on-ai",
+        "pubDate": "Tue, 29 Sep 2026 16:59:31 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Anger mounts over Cornell&apos;s response to student&apos;s sexual assault allegations",
+        "link": "https://www.npr.org/2026/09/29/nx-s1-5984943/anger-mounts-over-cornells-response-to-students-sexual-assault-allegations",
+        "pubDate": "Tue, 29 Sep 2026 16:58:45 -0400",
+        "category": "us"
+      },
+      {
+        "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
+        "link": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
+        "pubDate": "Tue, 29 Sep 2026 15:19:37 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Lindsay Clancy&apos;s lawyer now questions whether she killed her 3 children",
+        "link": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
+        "pubDate": "Tue, 29 Sep 2026 14:00:50 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Potential Taiwan tension sparked &apos;last minute&apos; change in Trump-Xi National Archives visit",
+        "link": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
+        "pubDate": "Tue, 29 Sep 2026 13:17:04 -0400",
+        "category": "world"
+      },
+      {
+        "title": "This startup wants to prove gene-editing embryos is safe for making healthy babies",
+        "link": "https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech",
+        "pubDate": "Tue, 29 Sep 2026 13:00:08 -0400",
+        "category": "health"
+      },
+      {
         "title": "This year&apos;s MacArthur Fellows include researchers who fuse science and justice",
         "link": "https://www.npr.org/2026/09/29/nx-s1-5983444/this-years-macarthur-fellows-include-researchers-who-fuse-science-and-justice",
         "pubDate": "Tue, 29 Sep 2026 12:03:34 -0400",
-        "category": "health"
+        "category": "Top News"
       },
       {
         "title": "Meet the 20 scholars and artists who&apos;ve just won MacArthur Fellowships",
@@ -19,105 +55,69 @@
         "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
         "link": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
         "pubDate": "Tue, 29 Sep 2026 07:36:24 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "How to hide your spending habits from retailers (so you don&apos;t get ripped off)",
         "link": "https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert",
         "pubDate": "Tue, 29 Sep 2026 05:01:00 -0400",
         "category": "business"
-      },
-      {
-        "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
-        "pubDate": "Tue, 29 Sep 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5979951/morning-news-brief",
-        "pubDate": "Tue, 29 Sep 2026 04:47:43 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration says it&apos;s scaling back fuel efficiency standards for new cars",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5983673/trump-administration-says-its-scaling-back-fuel-efficiency-standards-for-new-cars",
-        "pubDate": "Tue, 29 Sep 2026 04:46:49 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Democrat Pete Buttigieg criticizes Trump&apos;s rollback of fuel-economy standards",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5983537/pete-buttigieg-reaction-trump-fuel-economy-standards-rollback",
-        "pubDate": "Tue, 29 Sep 2026 04:46:41 -0400",
-        "category": "us"
-      },
-      {
-        "title": "OpenAI stops training latests models, citing safety concerns",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5983549/openai-stops-training-latests-models-citing-safety-concerns",
-        "pubDate": "Tue, 29 Sep 2026 04:46:33 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "News organizations ask court to bar White House enforcement of access ban",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban",
-        "pubDate": "Tue, 29 Sep 2026 04:13:11 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
+        "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 29 Sep 2026 21:42:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three teenagers die after car enters River Wear",
+        "link": "https://www.bbc.co.uk/news/articles/c8y5zxeq5dl3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 29 Sep 2026 20:01:45 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
+        "link": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 29 Sep 2026 19:54:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+        "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 29 Sep 2026 19:17:43 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+        "link": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 29 Sep 2026 19:13:14 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Man City guilty of 'sham' contracts and misleading accounts",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 29 Sep 2026 18:12:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
+        "link": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 29 Sep 2026 17:39:06 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
+        "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 29 Sep 2026 17:31:30 GMT",
+        "category": "us"
+      },
       {
         "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
         "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 29 Sep 2026 16:23:58 GMT",
         "category": "world"
-      },
-      {
-        "title": "Man City guilty of 'sham' contracts and misleading accounts",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 29 Sep 2026 16:13:17 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: How did Burnham's speech go down in the conference hall?",
-        "link": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 29 Sep 2026 15:31:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: US journalist Evan Gershkovich describes being detained by Russian agents",
-        "link": "https://www.bbc.co.uk/news/videos/c862ep9w5g2vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 29 Sep 2026 14:45:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Body of newborn baby found on shoreline in Wales as police search for mother",
-        "link": "https://www.bbc.co.uk/news/articles/c6n07lj4egn2o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 29 Sep 2026 12:51:37 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Daniel Sandford on what's next in the RAF Fairford investigation",
-        "link": "https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 29 Sep 2026 11:20:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Anti-migrant activist Daniel Thomas refused bail over alleged boat damage",
-        "link": "https://www.bbc.co.uk/news/articles/cm2kwlx2jg3do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 29 Sep 2026 11:14:46 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Warning more homes will be uninsurable due to flood risk",
-        "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 29 Sep 2026 09:42:48 GMT",
-        "category": "business"
-      },
-      {
-        "title": "OpenAI scraps rollout of new model over safety concerns",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 29 Sep 2026 09:14:13 GMT",
-        "category": "us"
       },
       {
         "title": "Scrapping pensions triple lock 'morally wrong', says union boss",
@@ -127,6 +127,43 @@
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "Goldman Sachs CEO succession planning faces one big problem",
+        "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+        "pubDate": "Tue, 29 Sep 2026 20:50:10 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
+        "link": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
+        "pubDate": "Tue, 29 Sep 2026 20:33:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump\u2019s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+        "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+        "pubDate": "Tue, 29 Sep 2026 14:37:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD &amp; more",
+        "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
+        "pubDate": "Tue, 29 Sep 2026 12:03:19 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+        "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+        "pubDate": "Tue, 29 Sep 2026 12:00:33 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+        "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+        "pubDate": "Tue, 29 Sep 2026 07:19:38 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
