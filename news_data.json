@@ -1,19 +1,37 @@
 {
-  "updated_at": "2026-09-30T19:03:37.157269",
+  "updated_at": "2026-09-30T23:39:14.700974",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Swiss glaciers suffer another year of record ice loss",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+        "pubDate": "Wed, 30 Sep 2026 19:00:00 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Meta&apos;s Muse: Killer app? Security nightmare? Both?",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5983755/metas-muse-killer-app-security-nightmare-both",
+        "pubDate": "Wed, 30 Sep 2026 17:59:43 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
+        "pubDate": "Wed, 30 Sep 2026 17:51:20 -0400",
+        "category": "us"
+      },
+      {
         "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
         "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
         "pubDate": "Wed, 30 Sep 2026 13:51:42 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Police questioning can shape a sexual assault case. Their approach is often wrong",
         "link": "https://www.npr.org/2026/09/30/nx-s1-5983868/cornell-rape-police-interview-investigation-victim-trauma-informed",
         "pubDate": "Wed, 30 Sep 2026 13:19:24 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
@@ -40,24 +58,6 @@
         "category": "health"
       },
       {
-        "title": "A pilot stabs the other pilot and tries to crash their flight to Tel Aviv, Israel says",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
-        "pubDate": "Wed, 30 Sep 2026 09:35:11 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "FBI hunting the hackers who stole its employees&apos; sensitive data",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
-        "pubDate": "Wed, 30 Sep 2026 08:29:05 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump meets with top tech leaders to discuss regulations and launch new website",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5984963/trump-meets-with-top-tech-leaders-to-discuss-regulations-and-launch-new-website",
-        "pubDate": "Wed, 30 Sep 2026 06:46:27 -0400",
-        "category": "tech"
-      },
-      {
         "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
         "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
         "pubDate": "Wed, 30 Sep 2026 05:01:00 -0400",
@@ -66,58 +66,58 @@
     ],
     "bbc": [
       {
-        "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
-        "link": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 30 Sep 2026 18:40:36 GMT",
-        "category": "Top News"
+        "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+        "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 30 Sep 2026 23:23:23 GMT",
+        "category": "us"
       },
       {
-        "title": "Teens who died in car that entered River Wear named",
-        "link": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 30 Sep 2026 18:40:18 GMT",
-        "category": "Top News"
+        "title": "Tiny image sparks big backlash in Nikon photo contest",
+        "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 30 Sep 2026 23:10:19 GMT",
+        "category": "tech"
       },
       {
-        "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
-        "link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 30 Sep 2026 18:15:15 GMT",
+        "title": "Vape prices to rise as new tax takes effect",
+        "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 30 Sep 2026 23:02:11 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
+        "link": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 30 Sep 2026 22:38:33 GMT",
         "category": "Top News"
       },
       {
         "title": "What we know about stabbing on Flydubai flight to Israel",
         "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 30 Sep 2026 17:51:49 GMT",
+        "pubDate": "Wed, 30 Sep 2026 21:36:31 GMT",
         "category": "world"
+      },
+      {
+        "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 30 Sep 2026 21:30:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "UK believes Iran involved in RAF Fairford incident, PM says",
+        "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 30 Sep 2026 21:26:59 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Dame Esther Rantzen: A presenter who campaigned for change",
+        "link": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 30 Sep 2026 19:00:50 GMT",
+        "category": "Top News"
       },
       {
         "title": "UK-France 'one in, one out' migrant scheme scrapped",
         "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 30 Sep 2026 17:11:08 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "UK believes Iran involved in RAF Fairford incident, PM says",
-        "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 30 Sep 2026 15:59:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-        "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 30 Sep 2026 15:29:11 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Household energy bills forecast to see biggest rise in four years",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 30 Sep 2026 14:36:45 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Regulating AI 'not the right place to start' says Bailey",
-        "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 30 Sep 2026 14:00:33 GMT",
-        "category": "tech"
       },
       {
         "title": "Family told to call locksmith over mental health fears",
