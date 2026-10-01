@@ -1,36 +1,60 @@
 {
-  "updated_at": "2026-10-01T19:25:11.537711",
+  "updated_at": "2026-10-01T23:51:09.918936",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Heat-related deaths in Phoenix rise, after two years of decline",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5936538/heat-related-deaths-in-phoenix-rise-after-two-years-of-decline",
+        "pubDate": "Thu, 01 Oct 2026 18:24:30 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Failed execution attempts are not uncommon in the U.S.",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5987815/failed-execution-attempts-are-not-uncommon-in-the-u-s",
+        "pubDate": "Thu, 01 Oct 2026 17:33:34 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Former federal regulator says existing laws already apply to AI",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5987776/former-federal-regulator-says-existing-laws-already-apply-to-ai",
+        "pubDate": "Thu, 01 Oct 2026 17:12:39 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Breweries adapt as tastes in beer change",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5973297/breweries-adapt-as-tastes-in-beer-change",
+        "pubDate": "Thu, 01 Oct 2026 16:51:54 -0400",
+        "category": "business"
+      },
+      {
+        "title": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis",
+        "pubDate": "Thu, 01 Oct 2026 16:15:07 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "&apos;It&apos;s a nightmare.&apos; Former refugee, professor on Trump&apos;s new Medicaid policy",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
+        "pubDate": "Thu, 01 Oct 2026 15:49:45 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "A new California law bans child marriage. What&apos;s the global outlook on the practice?",
+        "link": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
+        "pubDate": "Thu, 01 Oct 2026 15:44:41 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
         "link": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
         "pubDate": "Thu, 01 Oct 2026 14:41:07 -0400",
-        "category": "business"
+        "category": "Top News"
       },
       {
         "title": "A judge permanently dismisses former Olympian&apos;s Reflecting Pool charges",
         "link": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
         "pubDate": "Thu, 01 Oct 2026 14:22:59 -0400",
-        "category": "us"
-      },
-      {
-        "title": "AI data centers: How much are ratepayers on the hook for?",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
-        "pubDate": "Thu, 01 Oct 2026 12:47:53 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Cornell Jane Doe&apos;s attorney says she told police in 2024: &apos;I was raped&apos;",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5987703/cornell-fraternity-rape-case-updates",
-        "pubDate": "Thu, 01 Oct 2026 12:43:26 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "New space station crew launches from Florida on SpaceX&apos;s Crew Dragon capsule",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
-        "pubDate": "Thu, 01 Oct 2026 11:21:33 -0400",
         "category": "Top News"
       },
       {
@@ -38,95 +62,90 @@
         "link": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
         "pubDate": "Thu, 01 Oct 2026 10:13:38 -0400",
         "category": "world"
-      },
-      {
-        "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
-        "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
-        "pubDate": "Thu, 01 Oct 2026 07:37:10 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Picanha, prices and politics: What Brazil&apos;s favorite steak says about the election",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
-        "pubDate": "Thu, 01 Oct 2026 06:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump administration reverses stance on integration of people with disabilities",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5981375/integration-mandate-disabilities-reversed-trump",
-        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Meta&apos;s Muse: Killer app? Security nightmare? Both?",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5983755/metas-muse-killer-app-security-nightmare-both",
-        "pubDate": "Wed, 30 Sep 2026 17:59:43 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
       {
+        "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+        "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 01 Oct 2026 23:45:06 GMT",
+        "category": "tech"
+      },
+      {
         "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
         "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 01 Oct 2026 19:11:16 GMT",
+        "pubDate": "Thu, 01 Oct 2026 22:28:45 GMT",
         "category": "world"
       },
       {
-        "title": "Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'",
-        "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 01 Oct 2026 18:48:46 GMT",
+        "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+        "link": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 01 Oct 2026 22:22:43 GMT",
         "category": "Top News"
       },
       {
-        "title": "HMRC urged to scrutinise tax implications of Man City case",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 01 Oct 2026 18:21:22 GMT",
+        "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+        "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 01 Oct 2026 22:21:16 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Watch: Celebrity Traitors series two kicks off with a wild curveball",
+        "link": "https://www.bbc.co.uk/news/videos/cwd080ryxd42o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 01 Oct 2026 21:51:56 GMT",
         "category": "Top News"
       },
       {
-        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 01 Oct 2026 18:09:03 GMT",
+        "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
+        "link": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 01 Oct 2026 20:18:06 GMT",
         "category": "Top News"
       },
       {
         "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
         "link": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 01 Oct 2026 17:51:23 GMT",
+        "pubDate": "Thu, 01 Oct 2026 19:45:16 GMT",
         "category": "Top News"
       },
       {
-        "title": "UK in talks with EU partners to release strategic fuel reserves if needed, BBC understands",
-        "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 01 Oct 2026 17:27:37 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
-        "link": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 01 Oct 2026 17:26:40 GMT",
+        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+        "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 01 Oct 2026 19:38:30 GMT",
         "category": "Top News"
       },
       {
-        "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 01 Oct 2026 11:37:46 GMT",
-        "category": "tech"
+        "title": "'Why I'm donating 100 litres of my breast milk'",
+        "link": "https://www.bbc.co.uk/news/videos/cw99d94pn224o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 01 Oct 2026 10:06:25 GMT",
+        "category": "health"
       },
       {
         "title": "US death row inmate survives execution attempt after two lethal injections",
         "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 01 Oct 2026 09:59:59 GMT",
         "category": "us"
-      },
-      {
-        "title": "Inside India's forest villages, where a dangerous mix of crises led to 32 child deaths",
-        "link": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 30 Sep 2026 23:41:34 GMT",
-        "category": "health"
       }
     ],
     "reuters": [],
-    "markets": []
+    "markets": [
+      {
+        "title": "AI is a boon for 3 internet traffic cop stocks. Cramer says only 1 is a buy right now",
+        "link": "https://www.cnbc.com/2026/10/01/jim-cramer-akamai-ai-traffic.html",
+        "pubDate": "Thu, 01 Oct 2026 23:04:13 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
+        "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
+        "pubDate": "Thu, 01 Oct 2026 18:50:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+        "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+        "pubDate": "Thu, 01 Oct 2026 14:24:36 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
