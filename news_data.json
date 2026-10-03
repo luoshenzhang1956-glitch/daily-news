@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-02T23:41:45.169206",
+  "updated_at": "2026-10-03T04:48:06.133643",
   "news": {
     "ap": [],
     "npr": [
+      {
+        "title": "Brazil&apos;s big political rematch: What to know",
+        "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+        "pubDate": "Fri, 02 Oct 2026 22:57:07 -0400",
+        "category": "world"
+      },
       {
         "title": "As Trump&apos;s proposed arch looms over D.C., protesters pin their hopes on the midterms",
         "link": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
         "pubDate": "Fri, 02 Oct 2026 17:44:07 -0400",
         "category": "us"
-      },
-      {
-        "title": "How Brazil&apos;s two leading presidential candidates are talking about crime",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5986091/how-brazils-two-leading-presidential-candidates-are-talking-about-crime",
-        "pubDate": "Fri, 02 Oct 2026 17:07:41 -0400",
-        "category": "world"
       },
       {
         "title": "Germany&apos;s political center fights for relevance after far-right and far-left gains",
@@ -66,6 +66,30 @@
     ],
     "bbc": [
       {
+        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+        "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 03 Oct 2026 04:38:31 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Woman deceived ex-partner that she had given birth to his babies, judge rules",
+        "link": "https://www.bbc.co.uk/news/articles/cq073egz324zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 03 Oct 2026 04:07:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Suppliers pile pressure on government over energy bills",
+        "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 03 Oct 2026 03:47:32 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 03 Oct 2026 02:23:07 GMT",
+        "category": "us"
+      },
+      {
         "title": "Men charged over alleged plot to target Manchester Jewish community",
         "link": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 02 Oct 2026 21:38:05 GMT",
@@ -84,67 +108,50 @@
         "category": "Top News"
       },
       {
-        "title": "Tories pledge to build 50,000 new prison places",
-        "link": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Oct 2026 21:11:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-        "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Oct 2026 20:32:07 GMT",
-        "category": "us"
-      },
-      {
-        "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-        "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Oct 2026 20:25:19 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Watch: Why has UK diesel price hit an all time high?",
-        "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 02 Oct 2026 16:58:30 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "UK diesel prices top \u00a32 a litre for first time, RAC says",
         "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 02 Oct 2026 15:50:05 GMT",
         "category": "business"
       },
       {
+        "title": "'Here for Chris' mental health initiative launched",
+        "link": "https://www.bbc.co.uk/news/videos/cmz7x332dzv5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 02 Oct 2026 12:29:07 GMT",
+        "category": "health"
+      },
+      {
         "title": "OpenAI fires workers for 'mishandling sensitive information'",
         "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 02 Oct 2026 08:20:32 GMT",
         "category": "tech"
-      },
-      {
-        "title": "Coroner warns of risk of future deaths at mental health unit where patient was killed",
-        "link": "https://www.bbc.co.uk/news/articles/cqn747k6pem0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 01 Oct 2026 23:59:44 GMT",
-        "category": "health"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
-        "link": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
-        "pubDate": "Fri, 02 Oct 2026 22:38:49 GMT",
-        "category": "tech"
+        "title": "US judge dismisses DOJ lawsuit that used abortion clinic access law against protesters",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac088ab6d774dfda6287bea0a4c9a99&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-judge-dismisses-doj-lawsuit-that-used-abortion-clinic-access-law-against-2026-10-03%2f&amp;c=751544553961871756&amp;mkt=en-us",
+        "pubDate": "Fri, 02 Oct 2026 20:55:00 GMT",
+        "category": "us"
       },
+      {
+        "title": "Vance's fraud crackdown may raise costs for US health insurers, enrollees",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac088c3a83f4e489372fab57c67fdc5&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fvances-fraud-crackdown-may-raise-costs-us-health-insurers-enrollees-2026-10-02%2f&amp;c=16067154577679784106&amp;mkt=en-us",
+        "pubDate": "Fri, 02 Oct 2026 08:25:00 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Tesla's car business back on growth path as deliveries beat forecasts",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac088acc9bc42cf9fb62aec0571f629&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2ftesla-posts-stronger-than-expected-quarterly-deliveries-2026-10-02%2f&amp;c=3501141130134359026&amp;mkt=en-us",
+        "pubDate": "Fri, 02 Oct 2026 06:06:00 GMT",
+        "category": "business"
+      }
+    ],
+    "markets": [
       {
         "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
         "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
         "pubDate": "Fri, 02 Oct 2026 19:25:36 GMT",
         "category": "world"
-      },
-      {
-        "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
-        "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
-        "pubDate": "Fri, 02 Oct 2026 19:19:15 GMT",
-        "category": "business"
       },
       {
         "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new &apos;hottest skill&apos; by 1,721%",
@@ -157,12 +164,6 @@
         "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
         "pubDate": "Fri, 02 Oct 2026 17:52:39 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "BioMarin reports five-year Pompe disease data showing durable motor function",
-        "link": "https://www.cnbc.com/2026/10/02/biomarin-reports-five-year-pompe-disease-data-.html",
-        "pubDate": "Fri, 02 Oct 2026 16:18:35 GMT",
-        "category": "health"
       },
       {
         "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
