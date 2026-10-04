@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-10-04T19:25:11.476614",
+  "updated_at": "2026-10-04T22:58:40.576194",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "The Amazon&apos;s future is on the ballot in Brazil. Many voters aren&apos;t focused on it",
+        "link": "https://www.npr.org/2026/10/04/nx-s1-5986271/the-amazons-future-is-on-the-ballot-in-brazil-many-voters-arent-focused-on-it",
+        "pubDate": "Sun, 04 Oct 2026 17:57:06 -0400",
+        "category": "world"
+      },
+      {
+        "title": "What does marathon training do to your body? A reporter becomes the test subject",
+        "link": "https://www.npr.org/2026/10/04/nx-s1-5923942/what-does-marathon-training-do-to-your-body-a-reporter-becomes-the-test-subject",
+        "pubDate": "Sun, 04 Oct 2026 17:57:05 -0400",
+        "category": "health"
+      },
+      {
+        "title": "In &apos;Ply,&apos; Hern\u00e1n D\u00edaz imagines what we become after the world we know",
+        "link": "https://www.npr.org/2026/10/04/nx-s1-5985911/in-ply-hernan-diaz-imagines-what-we-become-after-the-world-we-know",
+        "pubDate": "Sun, 04 Oct 2026 17:57:04 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Brazil votes, with Lula facing Bolsonaro&apos;s son",
+        "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+        "pubDate": "Sun, 04 Oct 2026 17:52:09 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
         "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
         "pubDate": "Sun, 04 Oct 2026 14:36:48 -0400",
-        "category": "us"
+        "category": "tech"
       },
       {
         "title": "Cornell president calls gang rape allegations &apos;deeply disturbing&apos;",
@@ -19,7 +43,7 @@
         "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
         "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
         "pubDate": "Sun, 04 Oct 2026 11:15:09 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "How the Cornell case is affecting women who have experienced sexual assault",
@@ -38,31 +62,37 @@
         "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
         "pubDate": "Sun, 04 Oct 2026 06:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
-        "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
-        "pubDate": "Sun, 04 Oct 2026 05:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Coast Guard finds debris from medical plane carrying 6 people",
-        "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
-        "pubDate": "Sat, 03 Oct 2026 18:31:04 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Can the Cornell lawsuit force changes that make students safer?",
-        "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
-        "pubDate": "Sat, 03 Oct 2026 17:57:34 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
+        "title": "US removes all bombers from UK air base",
+        "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 04 Oct 2026 21:57:32 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Protesters gather as migrants brought ashore on south coast",
+        "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 04 Oct 2026 21:37:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+        "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 04 Oct 2026 21:35:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Polls close in Brazil as Lula and Fl\u00e1vio Bolsonaro remain neck and neck",
+        "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 04 Oct 2026 21:11:49 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "Green Party members back 'Zionism is racism' motion",
         "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 04 Oct 2026 18:08:52 GMT",
+        "pubDate": "Sun, 04 Oct 2026 20:51:36 GMT",
         "category": "Top News"
       },
       {
@@ -75,18 +105,12 @@
         "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
         "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 04 Oct 2026 16:24:48 GMT",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "I'm a classic old school Conservative, says Kemi Badenoch",
         "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 04 Oct 2026 16:20:02 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 04 Oct 2026 14:25:32 GMT",
         "category": "Top News"
       },
       {
@@ -100,24 +124,6 @@
         "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 04 Oct 2026 12:09:04 GMT",
         "category": "world"
-      },
-      {
-        "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-        "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 04 Oct 2026 11:59:35 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-        "link": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 04 Oct 2026 11:24:58 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 04 Oct 2026 11:19:58 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [],
