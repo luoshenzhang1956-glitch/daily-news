@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-10-06T13:09:37.174841",
+  "updated_at": "2026-10-06T19:24:55.638695",
   "news": {
     "ap": [],
     "npr": [
       {
+        "title": "Cornell names former acting U.S. attorney general to review rape case",
+        "link": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
+        "pubDate": "Tue, 06 Oct 2026 14:31:45 -0400",
+        "category": "us"
+      },
+      {
+        "title": "France&apos;s police fire tear gas and water cannons as school protests sweep the country",
+        "link": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+        "pubDate": "Tue, 06 Oct 2026 14:05:44 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Here are the finalists for the 2026 National Book Awards",
+        "link": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
+        "pubDate": "Tue, 06 Oct 2026 10:30:20 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "What to know about nationwide protests in India over voter list changes",
         "link": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
         "pubDate": "Tue, 06 Oct 2026 07:44:06 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
@@ -31,25 +49,7 @@
         "title": "What voters in 6 key states could tell us about the 2026 midterms",
         "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
         "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
-        "category": "us"
-      },
-      {
-        "title": "A history of presidents naming things after themselves (It&apos;s short. They rarely do)",
-        "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
-        "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "As Taiwan expands Arizona chip plant, China warns against developing political ties",
-        "link": "https://www.npr.org/2026/10/06/nx-s1-5991929/as-taiwan-expands-arizona-chip-plant-china-warns-against-developing-political-ties",
-        "pubDate": "Tue, 06 Oct 2026 06:52:56 -0400",
         "category": "business"
-      },
-      {
-        "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-        "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-        "pubDate": "Tue, 06 Oct 2026 06:16:28 -0400",
-        "category": "Top News"
       },
       {
         "title": "Elon Musk and Palmer Luckey&apos;s new Pentagon roles raise ethics worries",
@@ -58,59 +58,65 @@
         "category": "tech"
       },
       {
-        "title": "Wildfire smoke affects animals in unique ways. Scientists are trying to understand it",
-        "link": "https://www.npr.org/2026/10/06/nx-s1-5991854/wildfire-smoke-ecology-birds-wildlife-health",
+        "title": "What happened during Christa Pike&apos;s failed execution",
+        "link": "https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness",
         "pubDate": "Tue, 06 Oct 2026 05:00:00 -0400",
         "category": "health"
       }
     ],
     "bbc": [
       {
-        "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-        "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Oct 2026 12:59:51 GMT",
+        "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+        "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Oct 2026 18:42:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "PCs who used Taser and baton on amputee, 92, sacked",
+        "link": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Oct 2026 18:31:12 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Tear gas in Paris and Marseille as school protests grow across France",
+        "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Oct 2026 18:03:19 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
+        "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Oct 2026 17:50:19 GMT",
         "category": "business"
+      },
+      {
+        "title": "Finland orders halt to work on two Google data centres",
+        "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Oct 2026 17:15:46 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+        "link": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Oct 2026 17:00:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Oct 2026 16:22:37 GMT",
+        "category": "us"
       },
       {
         "title": "British national arrested in connection with RAF Fairford incident",
         "link": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Oct 2026 12:41:15 GMT",
+        "pubDate": "Tue, 06 Oct 2026 15:03:58 GMT",
         "category": "Top News"
       },
       {
-        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-        "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Oct 2026 11:42:52 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Childminder who left 27 children alone in her home pleads guilty to neglect",
-        "link": "https://www.bbc.co.uk/news/articles/cr9dzljq56ejo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Oct 2026 11:35:38 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Ghost particles' from space telescope wins physics Nobel",
-        "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Oct 2026 11:24:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Italian PM files to trademark her voice against AI threats",
-        "link": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Oct 2026 11:24:10 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Tories pledge \u00a310bn for British anti-missile defence system",
-        "link": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Oct 2026 11:20:36 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Watch: At the scene of student protests on the streets of Lille",
-        "link": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Oct 2026 10:22:42 GMT",
+        "title": "Watch: At the scene of student protests in Lille",
+        "link": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Tue, 06 Oct 2026 15:02:56 GMT",
         "category": "Top News"
       },
       {
@@ -118,33 +124,51 @@
         "link": "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 06 Oct 2026 10:09:28 GMT",
         "category": "health"
-      },
-      {
-        "title": "Former German spy chief arrested for espionage and treason",
-        "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 06 Oct 2026 10:05:42 GMT",
-        "category": "world"
       }
     ],
     "reuters": [],
     "markets": [
       {
-        "title": "Paramount&apos;s hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here&apos;s how we got here",
-        "link": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
-        "pubDate": "Tue, 06 Oct 2026 13:08:32 GMT",
-        "category": "business"
+        "title": "How event contract bundles are boosting volume on prediction markets",
+        "link": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+        "pubDate": "Tue, 06 Oct 2026 18:46:16 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+        "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+        "pubDate": "Tue, 06 Oct 2026 18:41:32 GMT",
+        "category": "Top News"
       },
       {
         "title": "Russian lab worker&apos;s suspected plague death leaves experts puzzled",
         "link": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
-        "pubDate": "Tue, 06 Oct 2026 12:59:40 GMT",
+        "pubDate": "Tue, 06 Oct 2026 15:23:41 GMT",
         "category": "health"
       },
       {
-        "title": "Here are Tuesday&apos;s biggest analyst calls of the day: Nvidia, AMD, Procter &amp; Gamble, Meta &amp; more",
-        "link": "https://www.cnbc.com/2026/10/06/tuesday-biggest-analyst-calls-like-nvidia.html",
-        "pubDate": "Tue, 06 Oct 2026 12:27:47 GMT",
-        "category": "us"
+        "title": "Stocks making the biggest moves premarket: Constellation Energy, Option Care Health, Lennar, P&amp;G and more",
+        "link": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-premarket-constellation-energy-option-care-health-lennar-pg-and-more.html",
+        "pubDate": "Tue, 06 Oct 2026 11:50:50 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+        "link": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
+        "pubDate": "Tue, 06 Oct 2026 08:47:30 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "House Democrat targets candidate prediction market trades after opponent\u2019s Kalshi penalty",
+        "link": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+        "pubDate": "Mon, 05 Oct 2026 21:24:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+        "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+        "pubDate": "Mon, 05 Oct 2026 20:41:23 GMT",
+        "category": "Top News"
       }
     ]
   }
