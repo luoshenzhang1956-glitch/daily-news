@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-10-08T17:21:54.540880",
+  "updated_at": "2026-10-08T23:10:48.519774",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "How major US stock indexes fared Thursday 10/8/2026",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac8229163b44ba683f675b94154c461&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwall-street-stocks-dow-nasdaq-4499d3b2906917ed3d8670095bf1c321&amp;c=4058803231461118939&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 13:20:00 GMT",
+        "category": "us"
+      }
+    ],
     "npr": [
+      {
+        "title": "Backlash as American tech giants look to build data centers in Australia",
+        "link": "https://www.npr.org/2026/10/08/nx-s1-5993509/backlash-as-american-tech-giants-look-to-build-data-centers-in-australia",
+        "pubDate": "Thu, 08 Oct 2026 18:20:37 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "The USS Abraham Lincoln is home in San Diego, after a record deployment",
+        "link": "https://www.npr.org/2026/10/08/nx-s1-5992708/the-uss-abraham-lincoln-is-home-in-san-diego-after-a-record-deployment",
+        "pubDate": "Thu, 08 Oct 2026 17:43:22 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Health Secretary Kennedy touts an initiative to study vaccine safety",
+        "link": "https://www.npr.org/2026/10/08/nx-s1-5995014/health-secretary-kennedy-touts-an-initiative-to-study-vaccine-safety",
+        "pubDate": "Thu, 08 Oct 2026 17:19:19 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Suicide is up among Black Americans. We need to talk about it.",
+        "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
+        "pubDate": "Thu, 08 Oct 2026 14:37:02 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The long-deployed USS Lincoln is returning home to San Diego",
+        "link": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
+        "pubDate": "Thu, 08 Oct 2026 12:18:20 -0400",
+        "category": "Top News"
+      },
       {
         "title": "New U.S. indictment charges former Venezuelan President Nicol\u00e1s Maduro with torture",
         "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
@@ -13,7 +50,7 @@
         "title": "4 people on NASA&apos;s Crew-12 mission return to Earth after 8 months in space",
         "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
         "pubDate": "Thu, 08 Oct 2026 11:34:39 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "White House correspondent April Ryan reflects on reporting while under attack",
@@ -28,54 +65,60 @@
         "category": "Top News"
       },
       {
-        "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-        "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-        "pubDate": "Thu, 08 Oct 2026 08:01:34 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
-        "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
-        "pubDate": "Thu, 08 Oct 2026 07:35:22 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
-        "link": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
-        "pubDate": "Thu, 08 Oct 2026 07:25:28 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "As crypto and prediction markets expand, their regulator shrinks",
         "link": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens",
         "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
         "category": "business"
-      },
-      {
-        "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
-        "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
-        "category": "health"
-      },
-      {
-        "title": "How &apos;Musk&apos; director Alex Gibney became a critic",
-        "link": "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney",
-        "pubDate": "Thu, 08 Oct 2026 04:45:37 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
+      {
+        "title": "ADHD and autism at risk of over-diagnosis, says government review",
+        "link": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 08 Oct 2026 23:01:30 GMT",
+        "category": "health"
+      },
+      {
+        "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+        "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 08 Oct 2026 22:57:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Burnham calls on Polanski to reverse Green Party's Zionism motion",
+        "link": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 08 Oct 2026 22:10:17 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "White House blocks Microsoft from foreign worker hiring program",
+        "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 08 Oct 2026 21:37:35 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Venezuela's ex-leader Nicol\u00e1s Maduro charged with conspiracy to commit torture",
+        "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 08 Oct 2026 17:38:59 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 08 Oct 2026 17:36:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: What does the ruling mean for the investigation into the former prince?",
+        "link": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 08 Oct 2026 17:26:49 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
         "link": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 08 Oct 2026 16:33:29 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-        "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 16:31:29 GMT",
-        "category": "world"
       },
       {
         "title": "Asos hackers took more personal details than first revealed, BBC finds",
@@ -84,62 +127,117 @@
         "category": "business"
       },
       {
-        "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 16:19:43 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Death of 12-year-old girl prompts call for allergy management ratings",
-        "link": "https://www.bbc.co.uk/news/articles/c674p508lk78o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 16:07:54 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-        "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 14:33:23 GMT",
-        "category": "us"
-      },
-      {
         "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
         "link": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 08 Oct 2026 13:11:01 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Royal Navy sailor in court accused of preparing to spy for Russia",
-        "link": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 12:44:03 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Ominous signs' of winter pressures as NHS waiting list grows",
-        "link": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 12:42:56 GMT",
-        "category": "health"
-      },
-      {
-        "title": "AI chip boom pushes Samsung profits to record $80bn",
-        "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 01:59:54 GMT",
-        "category": "tech"
       }
     ],
     "reuters": [
       {
-        "title": "US freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac7d0b5bef440e98ef19723f79feecb&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08%2f&amp;c=7865911393043672765&amp;mkt=en-us",
-        "pubDate": "Thu, 08 Oct 2026 07:39:00 GMT",
+        "title": "USS Lincoln docks in California after 10-month deployment",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac822b7752f401f9eef4afad11cb024&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW866108102026RP1%2f&amp;c=16069575013227034372&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 15:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US to livestream Army execution of Fort Hood shooter, Pentagon official says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac822b7752f401f9eef4afad11cb024&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-livestream-army-execution-fort-hood-shooter-pentagon-official-says-2026-10-08%2f&amp;c=11531089762659408510&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 14:53:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Botched Tennessee execution unlikely to end lethal injection, researcher says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac822b7752f401f9eef4afad11cb024&amp;url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW864508102026RP1%2f&amp;c=6471793213039401842&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 14:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac822b7752f401f9eef4afad11cb024&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fspacex-acquire-spectrum-that-enables-starlink-mobile-services-2026-10-08%2f&amp;c=16161054645177519497&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 13:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "US Supreme Court won't speed up Democratic challenge to FCC political ad policy, for now",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac822c8e3ef485290061c92f1f9c044&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-supreme-court-wont-speed-up-democratic-challenge-fcc-political-ad-policy-now-2026-10-08%2f&amp;c=3096281152783673186&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 12:56:00 GMT",
         "category": "us"
       },
       {
-        "title": "China has nominated health official Song Li as WHO head",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac7d0d7107749e0b4e1aa8d45f403a6&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fchina-has-nominated-health-official-song-li-who-head-2026-10-08%2f&amp;c=14829641348932090467&amp;mkt=en-us",
-        "pubDate": "Thu, 08 Oct 2026 00:29:00 GMT",
-        "category": "health"
+        "title": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac822ccc11e401e828559319e6910de&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fstarbucks-explored-chipotle-takeover-ft-reports-2026-10-08%2f&amp;c=11082264780782647810&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 07:10:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac822ce548449fcb541b9209ce0a71a&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fasml-zeiss-say-next-generation-chipmaking-technology-may-be-ready-10-years-2026-10-08%2f&amp;c=4721775101549083917&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 05:46:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Thousands of Spaniards march to mark death of octogenarian at heart of housing protests",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac822b7752f401f9eef4afad11cb024&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fspanish-politicians-trade-blame-after-death-octogenarian-heart-housing-protests-2026-10-08%2f&amp;c=6455305475606888419&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 05:19:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "S&amp;P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac822b7752f401f9eef4afad11cb024&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-slide-rising-oil-yields-dampen-mood-2026-10-08%2f&amp;c=12701077909689731380&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 03:50:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Venezuela's Maduro charged in US with ordering torture of opponents, Americans",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac822b7752f401f9eef4afad11cb024&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcilia-flores-wife-venezuelas-maduro-press-release-us-jail-2026-10-08%2f&amp;c=13576672383316218701&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 03:03:00 GMT",
+        "category": "Top News"
       }
     ],
-    "markets": []
+    "markets": [
+      {
+        "title": "Cramer says Thursday&apos;s AI sell-off proves the value of this age-old investing strategy",
+        "link": "https://www.cnbc.com/2026/10/08/jim-cramer-diversification-ai-selloff.html",
+        "pubDate": "Thu, 08 Oct 2026 22:15:53 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Why a Starbucks takeover of Chipotle would \u2014 and wouldn&apos;t \u2014 make sense for both companies",
+        "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
+        "pubDate": "Thu, 08 Oct 2026 20:12:33 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
+        "link": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
+        "pubDate": "Thu, 08 Oct 2026 17:51:51 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump says U.S. will not attack Iran before midterm election",
+        "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
+        "pubDate": "Thu, 08 Oct 2026 17:41:20 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed &amp; more",
+        "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
+        "pubDate": "Thu, 08 Oct 2026 12:28:26 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "After a yearslong slump, China&apos;s real estate market may be set for a turnaround",
+        "link": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
+        "pubDate": "Thu, 08 Oct 2026 09:27:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Huawei doubles down on smartphones as EV sales slow",
+        "link": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
+        "pubDate": "Thu, 08 Oct 2026 08:04:11 GMT",
+        "category": "Top News"
+      }
+    ]
   }
 }
