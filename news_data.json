@@ -1,182 +1,151 @@
 {
-  "updated_at": "2026-10-09T05:35:47.955381",
+  "updated_at": "2026-10-09T12:58:38.959861",
   "news": {
-    "ap": [
-      {
-        "title": "Halle Bailey: \u2018Music brings us together\u2019",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac87c84c5f24f6e83ed290e23391def&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fhalle-bailey-music-brings-us-together-0c1c66cf9fca4dc1952552ac537c0eb8&amp;c=11816095561090554017&amp;mkt=en-us",
-        "pubDate": "Thu, 08 Oct 2026 16:23:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
-        "title": "Isaias strengthens into Category 2 hurricane on collision course with the Gulf Coast",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
-        "pubDate": "Fri, 09 Oct 2026 01:20:03 -0400",
+        "title": "Trump says U.S. won&apos;t attack Iran before midterms. And, ICE agent shoots man in NYC",
+        "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+        "pubDate": "Fri, 09 Oct 2026 07:37:04 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Why American investors love European defense startups",
+        "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+        "pubDate": "Fri, 09 Oct 2026 07:00:00 -0400",
+        "category": "business"
+      },
+      {
+        "title": "In Central African Republic, deported immigrants find themselves in limbo",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Why we remember: One student&apos;s journey into memory",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
+        "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don&apos;t work",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
         "category": "Top News"
       },
       {
         "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
         "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
         "pubDate": "Thu, 08 Oct 2026 20:25:15 -0400",
-        "category": "business"
-      },
-      {
-        "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-        "pubDate": "Thu, 08 Oct 2026 20:05:48 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Backlash as American tech giants look to build data centers in Australia",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5993509/backlash-as-american-tech-giants-look-to-build-data-centers-in-australia",
-        "pubDate": "Thu, 08 Oct 2026 18:20:37 -0400",
         "category": "tech"
-      },
-      {
-        "title": "The USS Abraham Lincoln is home in San Diego, after a record deployment",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5992708/the-uss-abraham-lincoln-is-home-in-san-diego-after-a-record-deployment",
-        "pubDate": "Thu, 08 Oct 2026 17:43:22 -0400",
-        "category": "us"
-      },
-      {
-        "title": "Health Secretary Kennedy touts an initiative to study vaccine safety",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5995014/health-secretary-kennedy-touts-an-initiative-to-study-vaccine-safety",
-        "pubDate": "Thu, 08 Oct 2026 17:19:19 -0400",
-        "category": "health"
-      },
-      {
-        "title": "Suicide is up among Black Americans. We need to talk about it.",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
-        "pubDate": "Thu, 08 Oct 2026 14:37:02 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "New U.S. indictment charges former Venezuelan President Nicol\u00e1s Maduro with torture",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-        "pubDate": "Thu, 08 Oct 2026 12:05:37 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "4 people on NASA&apos;s Crew-12 mission return to Earth after 8 months in space",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
-        "pubDate": "Thu, 08 Oct 2026 11:34:39 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "White House correspondent April Ryan reflects on reporting while under attack",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
-        "pubDate": "Thu, 08 Oct 2026 11:24:23 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Polanski vows to stay on as Green leader as criticism mounts after by-election defeat",
+        "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 12:49:29 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Anthropic bans users from being 'cruel' to its AI systems",
+        "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 12:34:27 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "King pays Andrew's \u00a31.5m repair bill on Royal Lodge",
+        "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 12:29:02 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Firing squad execution to be livestreamed, Pentagon says",
+        "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 12:24:58 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Autism, ADHD and mental health review: What you need to know",
+        "link": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 12:16:11 GMT",
+        "category": "health"
+      },
+      {
+        "title": "France promises 3,000 extra teachers in first step to calm student protests",
+        "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 11:35:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'Deeply personal moment': Watch Sagal Abdi-Wali's by-election victory speech",
+        "link": "https://www.bbc.co.uk/news/videos/c95yn70e678po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 11:15:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 09:43:22 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Survivor of US Army shooting supports gunman's execution but questions livestream",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 09:43:22 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
         "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 09 Oct 2026 04:55:14 GMT",
         "category": "business"
-      },
-      {
-        "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
-        "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 09 Oct 2026 04:53:50 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Polanski defends leadership after Zionism row and by-election loss",
-        "link": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 09 Oct 2026 04:38:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "ICE agent shoots man in New York City",
-        "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 09 Oct 2026 04:26:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nvidia-backed AI data centre firm scraps landmark listing over market fears",
-        "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 09 Oct 2026 04:06:23 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Firing squad execution to be livestreamed, Pentagon says",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 09 Oct 2026 03:36:12 GMT",
-        "category": "us"
-      },
-      {
-        "title": "'I rage and I don't care': Why women are reclaiming their anger",
-        "link": "https://www.bbc.co.uk/news/articles/cmg47lx1pqlko?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 23:48:05 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
-        "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 23:11:10 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
-        "link": "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 23:08:09 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "ADHD and autism at risk of over-diagnosis, says government review",
-        "link": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 08 Oct 2026 23:01:30 GMT",
-        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "China's tax crackdown piles pressure on luxury brands as US spending falters",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac87ccc35104151a9db5a6d9bcf35a0&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fchinas-tax-crackdown-piles-pressure-luxury-brands-as-us-spending-falters-2026-10-09%2f&amp;c=1809831209956248506&amp;mkt=en-us",
-        "pubDate": "Thu, 08 Oct 2026 17:00:00 GMT",
-        "category": "us"
+        "title": "Inside the deadlock at the world's top climate science body",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac8e482f04742ec89918ce02afa243f&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fcop%2finside-deadlock-worlds-top-climate-science-body-2026-10-09%2f&amp;c=11758522242090571093&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Oct 2026 03:01:00 GMT",
+        "category": "world"
+      },
+      {
+        "title": "US health secretary Kennedy launches new push on vaccine injuries",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac8e4ac0a58442e8d19bc378c6aff3a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-health-secretary-kennedy-launches-new-push-vaccine-injuries-2026-10-08%2f&amp;c=8130535055502793773&amp;mkt=en-us",
+        "pubDate": "Thu, 08 Oct 2026 14:58:00 GMT",
+        "category": "health"
       }
     ],
     "markets": [
       {
-        "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-        "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-        "pubDate": "Thu, 08 Oct 2026 23:57:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Why a Starbucks takeover of Chipotle would \u2014 and wouldn&apos;t \u2014 make sense for both companies",
-        "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-        "pubDate": "Thu, 08 Oct 2026 20:12:33 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
-        "link": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
-        "pubDate": "Thu, 08 Oct 2026 17:51:51 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed &amp; more",
-        "link": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-        "pubDate": "Thu, 08 Oct 2026 12:28:26 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "After a yearslong slump, China&apos;s real estate market may be set for a turnaround",
-        "link": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-        "pubDate": "Thu, 08 Oct 2026 09:27:31 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Huawei doubles down on smartphones as EV sales slow",
-        "link": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
-        "pubDate": "Thu, 08 Oct 2026 08:04:11 GMT",
-        "category": "Top News"
+        "title": "For the final 10% of cystic fibrosis patients, the breakthrough still hasn&apos;t come",
+        "link": "https://www.cnbc.com/2026/10/09/for-the-final-10percent-of-cystic-fibrosis-the-breakthrough-hasnt-come.html",
+        "pubDate": "Fri, 09 Oct 2026 11:43:02 GMT",
+        "category": "health"
       }
     ]
   }
