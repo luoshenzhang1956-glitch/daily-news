@@ -1,136 +1,130 @@
 {
-  "updated_at": "2026-10-10T05:19:25.903877",
+  "updated_at": "2026-10-10T12:16:34.812729",
   "news": {
     "ap": [
       {
-        "title": "Trump names commentator Katie Zacharia of his media company as next White House press secretary",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca5273804d8b80334d40be9e96a8&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftrump-white-house-press-secretary-katie-zacharia-aaabf8627035da9bc4cd44173f22e02e&amp;c=4388216797680636311&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 13:52:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Foreign veterinary team examines ailing African elephant at Karachi safari park",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca628af846f0bcffeacefd24dc17&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fforeign-veterinary-team-examines-ailing-african-elephant-at-karachi-safari-park-5c2250ab4829458a9d65a9c53da76365&amp;c=17257580685640372426&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 10:16:00 GMT",
-        "category": "health"
+        "title": "Defense guru Shaun Edwards joins the Pumas for a Rugby World Cup push in Australia",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2bdca5044ed5901bc956eb39c9bf&amp;url=https%3a%2f%2fapnews.com%2farticle%2fshaun-edwards-ledesma-argentina-rugby-44b0392fb3c6395a908b538e49b3c00b&amp;c=10671184767552818786&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Oct 2026 12:31:00 GMT",
+        "category": "world"
       }
     ],
     "npr": [
+      {
+        "title": "Opinion: Can I keep the baseball I caught?",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
+        "pubDate": "Sat, 10 Oct 2026 08:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
+        "pubDate": "Sat, 10 Oct 2026 07:40:53 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Parallel parking is now a sport in Philly, complete with speed and flair",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5992995/parallel-parking-is-now-a-sport-in-philly-complete-with-speed-and-flair",
+        "pubDate": "Sat, 10 Oct 2026 07:40:47 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Ex-OpenAI safety lead David Robinson warns of &apos;broken&apos; tech culture",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
+        "pubDate": "Sat, 10 Oct 2026 07:40:46 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don&apos;t know how often",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
+        "pubDate": "Sat, 10 Oct 2026 07:00:00 -0400",
+        "category": "health"
+      },
+      {
+        "title": "A year of ceasefire in Gaza through the lens of NPR&apos;s reporter",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+        "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+        "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "16 cozy activities to add to your fall bucket list",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
+        "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "The Met puts a modern artist front and center (and there&apos;s some Jackson Pollock, too)",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
+        "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Kalshi taps former FBI agent to fight against money laundering",
         "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
         "pubDate": "Fri, 09 Oct 2026 18:23:11 -0400",
         "category": "business"
-      },
-      {
-        "title": "Fired OpenAI employees question the company&apos;s commitment to safety",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
-        "pubDate": "Fri, 09 Oct 2026 17:28:09 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
-        "pubDate": "Fri, 09 Oct 2026 17:25:59 -0400",
-        "category": "world"
-      },
-      {
-        "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-        "pubDate": "Fri, 09 Oct 2026 17:24:13 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "ICE shooting in NYC fuels tension between New York officials and Trump administration",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5996654/ice-shooting-in-nyc-fuels-tension-between-new-york-officials-and-trump-administration",
-        "pubDate": "Fri, 09 Oct 2026 16:38:50 -0400",
-        "category": "us"
-      },
-      {
-        "title": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter",
-        "pubDate": "Fri, 09 Oct 2026 14:55:38 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "U.S. working to reverse an Egyptian man&apos;s third-country deportation to Africa",
-        "link": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
-        "pubDate": "Fri, 09 Oct 2026 13:49:28 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Did Russia play by the rules in reporting lab worker&apos;s death?",
-        "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
-        "pubDate": "Fri, 09 Oct 2026 12:43:45 -0400",
-        "category": "health"
-      },
-      {
-        "title": "How the oil industry is preparing for Hurricane Isaias",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
-        "pubDate": "Fri, 09 Oct 2026 12:03:32 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says U.S. won&apos;t attack Iran before midterms. And, ICE agent shoots man in NYC",
-        "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
-        "pubDate": "Fri, 09 Oct 2026 07:37:04 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
-        "link": "https://www.bbc.co.uk/news/articles/cm70pee7l57do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 10 Oct 2026 05:00:18 GMT",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 10 Oct 2026 11:17:15 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+        "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 10 Oct 2026 10:06:23 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
+        "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 10 Oct 2026 09:19:53 GMT",
         "category": "Top News"
       },
       {
-        "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 10 Oct 2026 04:51:57 GMT",
+        "title": "Public executions in the US stopped nearly a century ago, why are they resuming now?",
+        "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 10 Oct 2026 09:17:36 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "I couldn't access my family's medical history. Not knowing was terrifying",
+        "link": "https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 10 Oct 2026 05:00:22 GMT",
         "category": "Top News"
       },
       {
         "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 10 Oct 2026 04:38:20 GMT",
-        "category": "world"
+        "category": "us"
       },
       {
-        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-        "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 10 Oct 2026 04:34:55 GMT",
+        "title": "France's school protests are about more than broken classrooms",
+        "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 23:24:33 GMT",
         "category": "Top News"
       },
       {
-        "title": "Boots has a new owner: Three ways it could affect you",
-        "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 09 Oct 2026 23:01:14 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-        "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 09 Oct 2026 22:51:57 GMT",
+        "title": "Ashe was too scared to cancel her wedding, then her story became a hit song",
+        "link": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 09 Oct 2026 23:01:22 GMT",
         "category": "Top News"
       },
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
         "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 09 Oct 2026 22:30:22 GMT",
-        "category": "us"
-      },
-      {
-        "title": "NI secretary to ban the Drumcree parade",
-        "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 09 Oct 2026 21:46:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-        "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 09 Oct 2026 15:32:30 GMT",
-        "category": "tech"
+        "category": "business"
       },
       {
         "title": "Autism, ADHD and mental health review: What you need to know",
@@ -141,64 +135,64 @@
     ],
     "reuters": [
       {
-        "title": "Isaias weakens to Category 1 hurricane after Florida landfall, NHC says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca6fac5b49c28260a52e3a2d3628&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fcategory-3-hurricane-isaias-makes-landfall-near-destin-florida-nhc-says-2026-10-10%2f&amp;c=4191542384548583473&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca6fac5b49c28260a52e3a2d3628&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrump-says-norway-has-indelible-stain-not-awarding-him-nobel-peace-prize-2026-10-10%2f&amp;c=11585634301119870095&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca6fac5b49c28260a52e3a2d3628&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-ukraine-european-negotiators-meet-miami-trump-announces-diesel-deal-with-2026-10-10%2f&amp;c=9889544541590420470&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "India detains protesters, locks down Delhi ahead of rally against election chief",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca6fac5b49c28260a52e3a2d3628&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fdelhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10%2f&amp;c=1953315392363100582&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Republican opposition widens to livestreamed execution; Trump still weighing it",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca6fac5b49c28260a52e3a2d3628&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fvance-says-he-does-not-know-if-pentagon-will-proceed-with-livestream-fort-hood-2026-10-09%2f&amp;c=15230251066623271638&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 12:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Treasury's Bessent to skip IMF-World Bank meetings in Bangkok",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca70dd5744c192e9204d4bc3c4c7&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fus-treasurys-bessent-skip-imf-world-bank-meetings-bangkok-2026-10-09%2f&amp;c=5555792333952007987&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 09:07:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Trump says Russia to supply diesel to US and global markets",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca6fac5b49c28260a52e3a2d3628&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftrump-big-announcement-coming-up-diesel-2026-10-09%2f&amp;c=17536390452650336535&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 08:42:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tesla renames 'Full Self-Driving' to 'Assisted Driving' in Europe as it chases clearance for software",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca6fac5b49c28260a52e3a2d3628&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2ftesla-renames-full-self-driving-assisted-driving-europe-it-chases-clearance-2026-10-09%2f&amp;c=8349161612019948663&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 07:56:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "\u201cThe Carbon Pursuit of Happiness\u201d Premieres October 10: A New Chapter for In-Depth Dialogue on Health and Humanity",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca9083f54155a092e4bac87ab9b3&amp;url=https%3a%2f%2fwww.reuters.com%2fpress-releases%2fcarbon-pursuit-happiness-premieres-october-10-health-humanity-2026-10-09%2f&amp;c=18067459403013729016&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 07:30:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac9ca75a20b453788a7499eb934d91e&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09%2f&amp;c=18374879338589713077&amp;mkt=en-us",
-        "pubDate": "Fri, 09 Oct 2026 07:02:00 GMT",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2c35f6354bf39849b4d4e3828c60&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-ukraine-european-negotiators-meet-miami-trump-announces-diesel-deal-with-2026-10-10%2f&amp;c=9889544541590420470&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Oct 2026 04:33:00 GMT",
         "category": "us"
+      },
+      {
+        "title": "French policing under scrutiny as student protest injuries mount",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2c1e9790470da0034afc70dcd706&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ffrench-policing-under-scrutiny-student-protest-injuries-mount-2026-10-10%2f&amp;c=11983522434486361993&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Oct 2026 04:33:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "India detains hundreds, locks down Delhi to foil election chief protest",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2c1e9790470da0034afc70dcd706&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2fdelhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10%2f&amp;c=1953315392363100582&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Oct 2026 04:33:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "EU's Irish presidency wants 8% cut to proposed 2028-2034 budget plan",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2c1e9790470da0034afc70dcd706&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2feus-irish-presidency-wants-8-cut-proposed-2028-2034-budget-plan-2026-10-10%2f&amp;c=15871532487875263851&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Oct 2026 04:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "China proposes stricter car design, testing rules, including ban on fully hidden door handles",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2c1e9790470da0034afc70dcd706&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fchina-proposes-stricter-car-design-testing-rules-including-ban-fully-hidden-door-2026-10-10%2f&amp;c=9248520783155596870&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Oct 2026 04:16:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "The midterm strategy driving Democrats deep into Trump country",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2c1e9790470da0034afc70dcd706&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fmidterm-strategy-driving-democrats-deep-into-trump-country-2026-10-10%2f&amp;c=2558761822035624397&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Oct 2026 03:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Thailand prepares to host IMF-World Bank meetings",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2c36a94c4bdfb3d417015e08f3e2&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fthailand-prepares-host-imf-world-bank-meetings-2026-10-10%2f&amp;c=16176139724008945931&amp;mkt=en-us",
+        "pubDate": "Sat, 10 Oct 2026 01:44:00 GMT",
+        "category": "business"
+      },
+      {
+        "title": "US announces effort to disrupt hacking infrastructure run by China's Integrity Tech Group",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2c38be6347d4998e2a053c33e538&amp;url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fus-announces-effort-disrupt-hacking-infrastructure-run-by-chinas-integrity-tech-2026-10-09%2f&amp;c=2667118036904663209&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Oct 2026 17:02:00 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Erik Prince's forces suffer battlefield loss in Congo, former UFC fighter among wounded, sources say",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2c1e9790470da0034afc70dcd706&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2ferik-princes-forces-suffer-battlefield-loss-congo-former-ufc-fighter-among-2026-10-09%2f&amp;c=16690413289526415793&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Oct 2026 12:56:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Anthropic discloses fake tip to police among new rogue AI incidents",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aca2c1e9790470da0034afc70dcd706&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fanthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09%2f&amp;c=17389254179535998602&amp;mkt=en-us",
+        "pubDate": "Fri, 09 Oct 2026 12:21:00 GMT",
+        "category": "Top News"
       }
     ],
     "markets": []
