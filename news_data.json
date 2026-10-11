@@ -1,13 +1,32 @@
 {
-  "updated_at": "2026-10-11T18:46:20.175696",
+  "updated_at": "2026-10-11T23:33:56.926593",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "Floods, droughts, and poor crops inflict serious mental stress on farmers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acc1c83307b4f0e969924fae3e4afb3&amp;url=https%3a%2f%2fapnews.com%2fvideo%2ffloods-droughts-and-poor-crops-inflict-serious-mental-stress-on-farmers-3fce5c68d4f0422fa48ecac31757e1b3&amp;c=5663453038503385376&amp;mkt=en-us",
+        "pubDate": "Sun, 11 Oct 2026 15:57:00 GMT",
+        "category": "health"
+      }
+    ],
     "npr": [
+      {
+        "title": "Seafarer&apos;s union official says crews offered big money to transit Strait of Hormuz",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
+        "pubDate": "Sun, 11 Oct 2026 17:16:36 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Demand rising for death doulas, who help with end-of-life care",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5843096/demand-rising-for-death-doulas-who-help-with-end-of-life-care",
+        "pubDate": "Sun, 11 Oct 2026 17:16:33 -0400",
+        "category": "us"
+      },
       {
         "title": "Pope Leo XIV to undergo lung surgery this week",
         "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
         "pubDate": "Sun, 11 Oct 2026 08:54:25 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
@@ -19,7 +38,7 @@
         "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
         "link": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
         "pubDate": "Sun, 11 Oct 2026 08:04:00 -0400",
-        "category": "us"
+        "category": "business"
       },
       {
         "title": "How one antibiotic morning-after pill came to be widely available in San Francisco",
@@ -49,22 +68,46 @@
         "title": "It&apos;s taking longer to find a new job after losing one",
         "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
         "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
-        "category": "business"
-      },
-      {
-        "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
-        "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
-        "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "For reporters covering AI, keeping up with story is both tough and exciting",
-        "link": "https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting",
-        "pubDate": "Sat, 10 Oct 2026 17:47:03 -0400",
-        "category": "tech"
       }
     ],
     "bbc": [
+      {
+        "title": "AI is less regulated than milk, says Microsoft president",
+        "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Oct 2026 23:07:35 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Iran war threatens Healey's Budget plans, think tank warns",
+        "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Oct 2026 23:04:07 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Childhood cancer symptoms can be easily missed - here's what to look out for",
+        "link": "https://www.bbc.co.uk/news/articles/cwm237z77dgyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Oct 2026 23:03:45 GMT",
+        "category": "health"
+      },
+      {
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Oct 2026 22:45:58 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+        "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Oct 2026 21:36:40 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Watch: What's behind Trump's energy ceasefire claim?",
+        "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Oct 2026 20:55:02 GMT",
+        "category": "us"
+      },
       {
         "title": "PM says it is 'clear' Russia interfered with Brexit vote",
         "link": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&amp;at_campaign=rss",
@@ -72,39 +115,9 @@
         "category": "Top News"
       },
       {
-        "title": "Citroen revives the 2CV for an electric age",
-        "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 11 Oct 2026 17:00:05 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Saudi capital airport hit by second Houthi strike in two days",
-        "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 11 Oct 2026 16:41:37 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-        "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 11 Oct 2026 15:32:32 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-        "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 11 Oct 2026 15:32:23 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-        "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 11 Oct 2026 15:18:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Pope Leo to have surgery after lump found on lung",
-        "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 11 Oct 2026 13:38:55 GMT",
+        "title": "Poland detains man suspected of planning assassination of PM Tusk",
+        "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Oct 2026 17:27:24 GMT",
         "category": "Top News"
       },
       {
@@ -114,78 +127,18 @@
         "category": "Top News"
       },
       {
-        "title": "Carys lived with endometriosis pain for decades, then everything changed",
-        "link": "https://www.bbc.co.uk/news/articles/cxj0ljzz1pj1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 11 Oct 2026 06:23:53 GMT",
-        "category": "health"
-      },
-      {
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 11 Oct 2026 01:41:29 GMT",
-        "category": "us"
+        "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
+        "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sun, 11 Oct 2026 10:43:17 GMT",
+        "category": "Top News"
       }
     ],
     "reuters": [
       {
-        "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acbd91a52654b4f8194fc3517fd2369&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fmiddle-east-war-high-debt-levels-dominate-imf-world-bank-meetings-bangkok-2026-10-11%2f&amp;c=2651243063104710830&amp;mkt=en-us",
-        "pubDate": "Sun, 11 Oct 2026 11:21:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acbd917a3d047a3a27b3be122885b0c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2findian-capital-braces-second-day-protests-against-poll-chief-2026-10-11%2f&amp;c=10003148588409127314&amp;mkt=en-us",
-        "pubDate": "Sun, 11 Oct 2026 11:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acbd917a3d047a3a27b3be122885b0c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fus-threatens-block-arms-ukraine-over-refinery-attacks-ft-reports-2026-10-11%2f&amp;c=12412626978065940220&amp;mkt=en-us",
-        "pubDate": "Sun, 11 Oct 2026 11:01:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Mexico's Sheinbaum urges coastal residents to remain indoors as Hurricane Simon nears coast",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acbd917a3d047a3a27b3be122885b0c&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fmexicos-sheinbaum-urges-coastal-residents-remain-indoors-hurricane-simon-nears-2026-10-11%2f&amp;c=6479744155201703066&amp;mkt=en-us",
-        "pubDate": "Sun, 11 Oct 2026 10:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Indian national injured in Riyadh airport attack dies, embassy says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acbd917a3d047a3a27b3be122885b0c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2findia%2findian-national-injured-riyadh-airport-attack-dies-embassy-says-2026-10-11%2f&amp;c=11236799549275906999&amp;mkt=en-us",
-        "pubDate": "Sun, 11 Oct 2026 10:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Iran says US response to its proposal to reopen Hormuz was 'insufficient'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acbd91dc87b4caaa919fc7633acf134&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-says-us-response-its-proposal-reopen-hormuz-was-insufficient-2026-10-11%2f&amp;c=8066111087811019813&amp;mkt=en-us",
-        "pubDate": "Sun, 11 Oct 2026 10:08:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Manchester City met at Anfield with boos and 'cheat' taunts",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acbd917a3d047a3a27b3be122885b0c&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fboos-cheat-taunts-greet-manchester-city-anfield-2026-10-11%2f&amp;c=190949187584207311&amp;mkt=en-us",
-        "pubDate": "Sun, 11 Oct 2026 08:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acbd917a3d047a3a27b3be122885b0c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fyemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11%2f&amp;c=8345176759583315126&amp;mkt=en-us",
-        "pubDate": "Sun, 11 Oct 2026 03:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "At least 139 migrants dead, including some children, after boat from Djibouti to Yemen capsizes, UN agency says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acbd917a3d047a3a27b3be122885b0c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fafrica%2f109-migrants-including-15-children-dead-after-boat-djibouti-yemen-capsizes-un-2026-10-11%2f&amp;c=12475597289065884085&amp;mkt=en-us",
-        "pubDate": "Sun, 11 Oct 2026 03:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acbd917a3d047a3a27b3be122885b0c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraine-will-halt-strikes-refineries-if-russia-stops-energy-attacks-zelenskiy-2026-10-11%2f&amp;c=9545046889043642105&amp;mkt=en-us",
-        "pubDate": "Sun, 11 Oct 2026 02:47:00 GMT",
-        "category": "Top News"
+        "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acc1c96a36646bc8eba7898f10bfbb4&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fmusk-vows-affordable-starlink-india-days-before-ambanis-record-jio-ipo-2026-10-11%2f&amp;c=2367118900482103739&amp;mkt=en-us",
+        "pubDate": "Sun, 11 Oct 2026 00:11:00 GMT",
+        "category": "business"
       }
     ],
     "markets": [
@@ -194,12 +147,6 @@
         "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
         "pubDate": "Sun, 11 Oct 2026 17:08:30 GMT",
         "category": "business"
-      },
-      {
-        "title": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-        "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-        "pubDate": "Sun, 11 Oct 2026 16:29:55 GMT",
-        "category": "world"
       },
       {
         "title": "Top Wall Street analysts prefer these 3 dividend stocks for stable income",
