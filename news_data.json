@@ -1,39 +1,14 @@
 {
-  "updated_at": "2026-10-14T01:03:11.772614",
+  "updated_at": "2026-10-14T07:24:07.435563",
   "news": {
-    "ap": [
+    "ap": [],
+    "npr": [
       {
-        "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced44fff3c425db0463a3c927c3383&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkroger-layoffs-grocery-job-cuts-30f0a5d88377e9969ce8994644e14498&amp;c=3760320264602408925&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 15:20:00 GMT",
+        "title": "CNN, MS NOW and Politico prevail against White House \u2014 for now",
+        "link": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
+        "pubDate": "Wed, 14 Oct 2026 03:16:02 -0400",
         "category": "business"
       },
-      {
-        "title": "Cost of living, Iran, health care, migration among top issues driving Ohio voters to midterm polls",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced45e23994e20b49456a168355f3d&amp;url=https%3a%2f%2fapnews.com%2fvideo%2fcost-of-living-iran-health-care-migration-among-top-issues-driving-ohio-voters-to-midterm-polls-f1306cc81bff43d5a84575373379984f&amp;c=6436342650174319723&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 15:04:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Employee arrested after listening device found in OpenAI conference room, FBI and the company say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced45de6bb4743ae7fc942d9b4331a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-fbi-justice-department-7f512b2552ffcbbf8f1ebbb18f81a9ba&amp;c=15687771569168457894&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 14:10:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced44a1d764f47976278c10edb2d52&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftreasury-bank-of-america-money-laundering-29013b2c8f08a3a8d579a96721ed1aa4&amp;c=17056784931978642174&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 13:19:00 GMT",
-        "category": "us"
-      },
-      {
-        "title": "Netflix buys 2030 World Cup broadcast rights in co-host and defending champion Spain",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced445ceb04b0a8d1e6896aea98645&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnetflix-fifa-spain-2030-world-cup-0c46950ea08a6b5240b9958f78638e81&amp;c=10326524825182629014&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 06:10:00 GMT",
-        "category": "world"
-      }
-    ],
-    "npr": [
       {
         "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
         "link": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
@@ -87,15 +62,39 @@
         "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
         "pubDate": "Tue, 13 Oct 2026 07:08:14 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "What ice cream has to do with this year&apos;s Nobel Prize in economics",
-        "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
-        "pubDate": "Tue, 13 Oct 2026 06:30:00 -0400",
-        "category": "business"
       }
     ],
     "bbc": [
+      {
+        "title": "'Spray and pray': How AI job applications can backfire",
+        "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Oct 2026 06:52:33 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+        "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Oct 2026 05:01:07 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: BBC joins police on front line against car theft",
+        "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Oct 2026 05:00:37 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+        "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Oct 2026 04:59:06 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Oct 2026 04:36:06 GMT",
+        "category": "Top News"
+      },
       {
         "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
         "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss",
@@ -109,33 +108,9 @@
         "category": "Top News"
       },
       {
-        "title": "How long will humans be needed for translation?",
-        "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 13 Oct 2026 23:05:29 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Royal Mail losing 400 postal workers a week, says union",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 13 Oct 2026 23:03:59 GMT",
-        "category": "business"
-      },
-      {
         "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
         "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 13 Oct 2026 21:42:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Zelensky and Burnham to meet in Downing Street",
-        "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 13 Oct 2026 21:31:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-        "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 13 Oct 2026 19:51:14 GMT",
         "category": "Top News"
       },
       {
@@ -143,12 +118,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 13 Oct 2026 19:23:28 GMT",
         "category": "us"
-      },
-      {
-        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-        "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 13 Oct 2026 15:52:15 GMT",
-        "category": "Top News"
       },
       {
         "title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
@@ -159,85 +128,12 @@
     ],
     "reuters": [
       {
-        "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced46466a348ac8c45b20897b15968&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-shifting-tactics-step-up-attacks-shipping-before-us-vote-officials-say-2026-10-14%2f&amp;c=13699472361252450978&amp;mkt=en-us",
+        "title": "AI didn\u2019t fail your company, outdated data did",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6acf2db56bf5493eb8fbadf3183499f3&amp;url=https%3a%2f%2fwww.reuters.com%2fplus%2fai-didnt-fail-your-company-outdated-data-did&amp;c=12314955716207659408&amp;mkt=en-us",
         "pubDate": "Tue, 13 Oct 2026 17:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "World stocks dip on AI spending concerns; Brent settles lower",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced46f803941b7ad02188796c5452f&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fglobal-markets-wrapup-1-2026-10-13%2f&amp;c=4861416802745541475&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 16:04:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Fed Governor Cook's lawyer denounces Trump's latest attempt to remove her",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced46466a348ac8c45b20897b15968&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2flawyer-feds-cook-denounces-trumps-latest-attempt-remove-her-2026-10-13%2f&amp;c=13420045509725316390&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 14:38:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "TRADING DAY Earnings season debuts to mixed reviews",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced46466a348ac8c45b20897b15968&amp;url=https%3a%2f%2fwww.reuters.com%2fcommentary%2freuters-open-interest%2fglobal-markets-trading-day-2026-10-13%2f&amp;c=1008832889587199176&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 14:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "BofA fined $1.2 billion by US government for failing to police suspicious activity",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced46466a348ac8c45b20897b15968&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2fbofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13%2f&amp;c=3708652364104058440&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 13:40:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced46466a348ac8c45b20897b15968&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffbi-arrests-former-openai-employee-planting-listening-device-2026-10-13%2f&amp;c=1222241761255233528&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 12:59:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "'Gift to our adversary': More Republicans criticize Trump's Russia diesel deal",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced46466a348ac8c45b20897b15968&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fgift-our-adversary-more-republicans-balk-trumps-russia-diesel-deal-2026-10-13%2f&amp;c=12976110381826322088&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 10:57:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced46466a348ac8c45b20897b15968&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fsp-500-futures-muted-investors-await-big-bank-earnings-chip-weakness-weighs-2026-10-13%2f&amp;c=4436936829415514878&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 03:19:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Behind AI industry's call for independent reviews, a fight over what gets made public",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced46466a348ac8c45b20897b15968&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fbehind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13%2f&amp;c=2504025944452709677&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 03:02:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Ex-gang leader sentenced to 40 years to life in prison for Tupac Shakur murder",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6aced46466a348ac8c45b20897b15968&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fex-gang-leader-faces-maximum-penalty-life-prison-tupac-shakur-murder-2026-10-13%2f&amp;c=2943049558399313009&amp;mkt=en-us",
-        "pubDate": "Tue, 13 Oct 2026 02:03:00 GMT",
-        "category": "Top News"
+        "category": "tech"
       }
     ],
-    "markets": [
-      {
-        "title": "Here&apos;s where Jim Cramer stands on this newly public AI infrastructure stock",
-        "link": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
-        "pubDate": "Tue, 13 Oct 2026 22:47:07 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
-        "link": "https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html",
-        "pubDate": "Tue, 13 Oct 2026 21:02:43 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
-        "link": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
-        "pubDate": "Tue, 13 Oct 2026 20:29:06 GMT",
-        "category": "health"
-      }
-    ]
+    "markets": []
   }
 }
