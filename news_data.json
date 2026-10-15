@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-10-14T23:08:22.529929",
+  "updated_at": "2026-10-15T04:06:22.160129",
   "news": {
     "ap": [
       {
         "title": "Warriors\u2019 Kristaps Porzingis remains out indefinitely, says he\u2019s seeing doctors to figure out health",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad00abc207d45768d96679361843083&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkristaps-porzingis-warriors-d0ea594631b2966b770a2d3f9ecae635&amp;c=2545938251400495933&amp;mkt=en-us",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad050aacedc466cabbfa643b2f0e9fc&amp;url=https%3a%2f%2fapnews.com%2farticle%2fkristaps-porzingis-warriors-d0ea594631b2966b770a2d3f9ecae635&amp;c=2545938251400495933&amp;mkt=en-us",
         "pubDate": "Wed, 14 Oct 2026 14:50:00 GMT",
         "category": "health"
+      },
+      {
+        "title": "Zimbabwe\u2019s Caine Prize winner rejects claim he used AI to write his story",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad050a9b970487ea61445d4bb7fcd11&amp;url=https%3a%2f%2fapnews.com%2farticle%2fwriting-prize-winner-artificial-intelligence-allegations-denial-64793e57050247acdab1ddef0ea48141&amp;c=2805485439443851637&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Oct 2026 13:16:00 GMT",
+        "category": "tech"
       }
     ],
     "npr": [
@@ -53,6 +59,12 @@
         "category": "Top News"
       },
       {
+        "title": "In Kansas, a newly competitive Senate race tests limit of Trump&apos;s unpopular policies",
+        "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
+        "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
+        "category": "Top News"
+      },
+      {
         "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
         "link": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
         "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
@@ -63,15 +75,21 @@
         "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
         "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
-        "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
-        "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+        "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 15 Oct 2026 03:33:08 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 15 Oct 2026 02:26:07 GMT",
+        "category": "Top News"
+      },
       {
         "title": "How backlash against data centres could shape the US midterm elections",
         "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&amp;at_campaign=rss",
@@ -91,21 +109,21 @@
         "category": "Top News"
       },
       {
-        "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+        "title": "UK threatens to ban Eritreans over migrant return policy",
+        "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Oct 2026 21:30:13 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
         "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 14 Oct 2026 20:55:24 GMT",
         "category": "world"
       },
       {
-        "title": "We are behind you and that will not change, PM tells Zelensky",
-        "link": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Oct 2026 19:22:28 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
-        "link": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Oct 2026 17:55:53 GMT",
+        "title": "Why Zelensky's meeting with Burnham matters",
+        "link": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 14 Oct 2026 20:41:03 GMT",
         "category": "Top News"
       },
       {
@@ -119,21 +137,47 @@
         "link": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Wed, 14 Oct 2026 16:56:21 GMT",
         "category": "Top News"
-      },
+      }
+    ],
+    "reuters": [
       {
-        "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-        "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Oct 2026 15:54:04 GMT",
+        "title": "Warriors' Kristaps Porzingis out indefinitely due to health issue",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad050f6ec5341cea5c4d2738b6362e2&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fwarriors-kristaps-porzingis-out-indefinitely-due-health-issue--flm-2026-10-15%2f&amp;c=5516313957071046838&amp;mkt=en-us",
+        "pubDate": "Wed, 14 Oct 2026 17:00:00 GMT",
+        "category": "health"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Anthropic&apos;s third-quarter revenue is said to hit $16.8 billion ahead of IPO",
+        "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+        "pubDate": "Thu, 15 Oct 2026 03:48:58 GMT",
         "category": "tech"
       },
       {
-        "title": "What we know about the Pope's lung cancer diagnosis",
-        "link": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 14 Oct 2026 12:37:33 GMT",
+        "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+        "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+        "pubDate": "Wed, 14 Oct 2026 20:22:09 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+        "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+        "pubDate": "Wed, 14 Oct 2026 20:20:46 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic&apos;s Mythos",
+        "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+        "pubDate": "Wed, 14 Oct 2026 20:06:28 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE &amp; more",
+        "link": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
+        "pubDate": "Wed, 14 Oct 2026 11:36:25 GMT",
         "category": "Top News"
       }
-    ],
-    "reuters": [],
-    "markets": []
+    ]
   }
 }
