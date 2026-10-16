@@ -1,38 +1,25 @@
 {
-  "updated_at": "2026-10-16T00:13:44.077791",
+  "updated_at": "2026-10-16T06:57:28.560761",
   "news": {
-    "ap": [
-      {
-        "title": "A New York City college student died after being drugged and raped in her dorm, prosecutors say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b90aa144fb9b213290728168f0c&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffit-drug-death-charges-4c70052fb8874da8482cced4a012d996&amp;c=7662163795520342746&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 16:22:00 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "California orders lenders to report on their handling of insurance payouts to LA fire survivors",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b8f85364e19841b8ff4a681a54e&amp;url=https%3a%2f%2fapnews.com%2farticle%2fla-fires-insurance-payouts-lenders-banks-newsom-2d8dd6b9db2c083066eaf8048c51e85e&amp;c=264619331411556977&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 10:01:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Massachusetts adopts regulations strengthening nursing home oversight",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b92a77d40ac98b8830ef262df0a&amp;url=https%3a%2f%2fapnews.com%2farticle%2fmassachusetts-public-health-oversight-regulations-nursing-homes-c6e387ef06a12b37396979f71d3be54e&amp;c=8925550904891850292&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 09:23:00 GMT",
-        "category": "health"
-      }
-    ],
+    "ap": [],
     "npr": [
+      {
+        "title": "A rare family of barn owls moved into Manhattan&apos;s Upper West Side. New Yorkers are captivated",
+        "link": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
+        "pubDate": "Fri, 16 Oct 2026 02:27:30 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Brewers sweep the Dodgers to reach the World Series for the first time since 1982",
+        "link": "https://www.npr.org/2026/10/16/nx-s1-6004787/brewers-sweep-dodgers-mlb",
+        "pubDate": "Fri, 16 Oct 2026 02:12:04 -0400",
+        "category": "Top News"
+      },
       {
         "title": "To train robots, AI companies are paying people in India to film themselves doing chores",
         "link": "https://www.npr.org/2026/10/15/nx-s1-5991368/to-train-robots-ai-companies-are-paying-people-in-india-to-film-themselves-doing-chores",
         "pubDate": "Thu, 15 Oct 2026 17:41:19 -0400",
         "category": "tech"
-      },
-      {
-        "title": "The planned public execution has been canceled, but what message did it send?",
-        "link": "https://www.npr.org/2026/10/15/nx-s1-6003637/the-planned-public-execution-has-been-canceled-but-what-message-did-it-send",
-        "pubDate": "Thu, 15 Oct 2026 17:30:36 -0400",
-        "category": "us"
       },
       {
         "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
@@ -75,15 +62,33 @@
         "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
         "pubDate": "Thu, 15 Oct 2026 06:05:58 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Greetings from Mexico City, where a bullfighting ban doesn&apos;t stop this matador training",
-        "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
-        "pubDate": "Thu, 15 Oct 2026 06:00:00 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Banks say Healey planning to increase tax on their profits in Budget",
+        "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 16 Oct 2026 06:42:12 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Watch: Will disenchanted Iowa Republicans reject Trump in the midterms?",
+        "link": "https://www.bbc.co.uk/news/videos/c32l4kqg2q4ro?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 16 Oct 2026 04:16:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Three children and teacher killed in US primary school shooting",
+        "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 16 Oct 2026 03:45:09 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+        "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Fri, 16 Oct 2026 00:34:45 GMT",
+        "category": "health"
+      },
       {
         "title": "Reform faces questions over candidate vetting after undercover filming",
         "link": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&amp;at_campaign=rss",
@@ -103,116 +108,55 @@
         "category": "Top News"
       },
       {
-        "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-        "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 15 Oct 2026 22:46:49 GMT",
-        "category": "us"
-      },
-      {
         "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
         "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 15 Oct 2026 22:37:21 GMT",
         "category": "Top News"
       },
       {
-        "title": "London housing project wins top architecture award",
-        "link": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 15 Oct 2026 20:36:32 GMT",
+        "title": "Mother of Henry Nowak killer could be deported",
+        "link": "https://www.bbc.co.uk/news/articles/cqze4l9l2eywo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Thu, 15 Oct 2026 19:43:07 GMT",
         "category": "Top News"
       },
       {
         "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
         "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Thu, 15 Oct 2026 17:47:22 GMT",
+        "category": "us"
+      }
+    ],
+    "reuters": [],
+    "markets": [
+      {
+        "title": "Fed&apos;s Warsh withholds rate signal, praises recent global tightening with &apos;no free riders&apos;",
+        "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+        "pubDate": "Fri, 16 Oct 2026 06:18:12 GMT",
         "category": "world"
       },
       {
-        "title": "Banks say Healey is planning Budget tax raid on their profits",
-        "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 15 Oct 2026 17:14:36 GMT",
-        "category": "business"
+        "title": "Elon Musk helps GOP Senate super PAC raise record $273 million",
+        "link": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
+        "pubDate": "Thu, 15 Oct 2026 23:53:29 GMT",
+        "category": "tech"
       },
       {
-        "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
-        "link": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 15 Oct 2026 16:07:26 GMT",
-        "category": "health"
+        "title": "Friday&apos;s big stock stories: What\u2019s likely to move the market in the next trading session",
+        "link": "https://www.cnbc.com/2026/10/15/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "pubDate": "Thu, 15 Oct 2026 23:49:14 GMT",
+        "category": "us"
       },
-      {
-        "title": "This 75,000-year-old wound suggests Neanderthal life was more violent than we thought",
-        "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Thu, 15 Oct 2026 15:00:05 GMT",
-        "category": "Top News"
-      }
-    ],
-    "reuters": [
-      {
-        "title": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b9aa27b4d9faa7af5b7227f18f5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fzelenskiy-says-ukraine-will-resume-strikes-russian-refineries-ft-reports-2026-10-15%2f&amp;c=5555707950960819385&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 16:17:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b9aa27b4d9faa7af5b7227f18f5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2forder-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15%2f&amp;c=17624143776682420235&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 16:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "UN chief frontrunner Rebeca Grynspan says UN has 'become too risk-averse'",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b9aa27b4d9faa7af5b7227f18f5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-risk-averse-2026-10-15%2f&amp;c=7215759844562037130&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 15:06:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Shooter killed at Oregon elementary school; CNN, CBS report four dead in violence",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b9aa27b4d9faa7af5b7227f18f5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fshooter-is-killed-oregon-elementary-school-least-two-taken-away-ambulance-2026-10-15%2f&amp;c=12550304103505566042&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 14:55:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b9aa27b4d9faa7af5b7227f18f5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2finvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15%2f&amp;c=12632828417367360884&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 14:00:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Senate Republicans plan post-election blitz to confirm Trump's judicial nominees",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b9aa27b4d9faa7af5b7227f18f5&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fsenate-republicans-plan-post-election-blitz-confirm-trumps-judicial-nominees-2026-10-15%2f&amp;c=17053911293298035801&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 13:07:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US Justice Dept sues California to block votes from alleged noncitizens",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b9aa27b4d9faa7af5b7227f18f5&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fdoj-sues-california-to-block-votes-alleged-non-citizens-2026-10-15%2f&amp;c=310326182036643793&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 10:12:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Market selloff, rising rates test AI data centre deal boom",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b9aa27b4d9faa7af5b7227f18f5&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fmarket-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15%2f&amp;c=3803237594100138791&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 05:43:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Just over half of candidates in key US Senate races say they will accept results, others hedge",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b9aa27b4d9faa7af5b7227f18f5&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fjust-over-half-candidates-key-us-senate-races-say-they-will-accept-results-2026-10-15%2f&amp;c=15798738024480560043&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 03:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Seven subpoenas engulf Nevada election chief in key midterm battle",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad16b9aa27b4d9faa7af5b7227f18f5&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fseven-subpoenas-engulf-nevada-election-chief-key-midterm-battle-2026-10-15%2f&amp;c=8908511079761251818&amp;mkt=en-us",
-        "pubDate": "Thu, 15 Oct 2026 03:04:00 GMT",
-        "category": "Top News"
-      }
-    ],
-    "markets": [
       {
         "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
         "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
         "pubDate": "Thu, 15 Oct 2026 21:03:50 GMT",
         "category": "business"
+      },
+      {
+        "title": "Here&apos;s our monthly update on our 32 stocks, including 2 more names to buy",
+        "link": "https://www.cnbc.com/investingclub/2026/10/15/heres-our-monthly-update-on-our-32-stocks-including-2-more-names-to-buy.html",
+        "pubDate": "Thu, 15 Oct 2026 19:08:05 GMT",
+        "category": "health"
       }
     ]
   }
