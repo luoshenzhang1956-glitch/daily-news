@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-17T16:58:25.207022",
+  "updated_at": "2026-10-17T20:23:08.016578",
   "news": {
-    "ap": [
-      {
-        "title": "Shrewd moves helped the Brewers become annual contenders. Here\u2019s how they got to the World Series",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3a87c052d40d887d3a72da3e1566c&amp;url=https%3a%2f%2fapnews.com%2farticle%2fbrewers-world-series-202059e95ba08672e097251993902ba7&amp;c=12860139265236311087&amp;mkt=en-us",
-        "pubDate": "Sat, 17 Oct 2026 09:31:00 GMT",
-        "category": "world"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
         "title": "Scuffles and fires break out as protesters rally across France, joining students",
@@ -73,15 +66,33 @@
     ],
     "bbc": [
       {
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 17 Oct 2026 19:19:19 GMT",
+        "category": "world"
+      },
+      {
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 17 Oct 2026 18:38:57 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Swinney's emotional explanation for his commitment to independence",
+        "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 17 Oct 2026 18:11:42 GMT",
+        "category": "Top News"
+      },
+      {
         "title": "More NHS staff sacked over attacks victims' records",
         "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 17 Oct 2026 16:34:39 GMT",
         "category": "Top News"
       },
       {
-        "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 17 Oct 2026 15:36:05 GMT",
+        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Sat, 17 Oct 2026 16:02:31 GMT",
         "category": "Top News"
       },
       {
@@ -103,18 +114,6 @@
         "category": "Top News"
       },
       {
-        "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-        "link": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 17 Oct 2026 12:14:52 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sat, 17 Oct 2026 11:56:06 GMT",
-        "category": "world"
-      },
-      {
         "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
         "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sat, 17 Oct 2026 01:55:45 GMT",
@@ -125,22 +124,70 @@
         "link": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Fri, 16 Oct 2026 23:27:01 GMT",
         "category": "Top News"
-      },
-      {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Fri, 16 Oct 2026 18:11:29 GMT",
-        "category": "tech"
       }
     ],
-    "reuters": [],
-    "markets": [
+    "reuters": [
       {
-        "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
-        "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-        "pubDate": "Sat, 17 Oct 2026 10:20:44 GMT",
-        "category": "world"
+        "title": "Capitals score 4 unanswered goals, double up Devils",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3d91bc4ce473dac81d3793c20bd57&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fnhl%2fcapitals-score-4-unanswered-goals-double-up-devils--flm-2026-10-17%2f&amp;c=8736059142114115808&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Oct 2026 13:07:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Police and protesters clash in some of France's worst unrest in years",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3d91bc4ce473dac81d3793c20bd57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fstudents-trade-unions-yellow-vests-set-protest-across-france-2026-10-17%2f&amp;c=12138939788460749898&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Oct 2026 12:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3d91bc4ce473dac81d3793c20bd57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fukrainian-foreign-minister-says-russian-held-town-is-death-trap-with-starving-2026-10-17%2f&amp;c=7901237505202118141&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Oct 2026 12:29:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Albanian police fire rubber bullets as student protests rage",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3d91bc4ce473dac81d3793c20bd57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2falbanian-anti-government-protesters-clash-with-police-tirana-2026-10-17%2f&amp;c=13863390081610554291&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Oct 2026 05:04:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump faults aides as Republican midterm prospects dim",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3d91bc4ce473dac81d3793c20bd57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-faults-aides-republican-midterm-prospects-dim-2026-10-17%2f&amp;c=16733596630104768372&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Oct 2026 03:09:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Exotic species appear off California thanks to an unusually strong El Ni&#241;o",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3d91bc4ce473dac81d3793c20bd57&amp;url=https%3a%2f%2fwww.reuters.com%2fsustainability%2fcop%2fexotic-species-appear-off-california-thanks-an-unusually-strong-el-nio-2026-10-17%2f&amp;c=6278177263473120747&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Oct 2026 03:05:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Trump-Zelenskiy rift threatens vital support for Kyiv",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3d91bc4ce473dac81d3793c20bd57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ftrump-zelenskiy-rift-threatens-vital-support-kyiv-2026-10-17%2f&amp;c=15177708712209252190&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Oct 2026 03:03:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Pope Leo returns to Vatican four days after cancer surgery",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3d91bc4ce473dac81d3793c20bd57&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fpope-leo-be-discharged-hospital-vatican-2026-10-17%2f&amp;c=4857561810270705627&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Oct 2026 02:46:00 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3d9260aaa42ca94f7dd5967adde98&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fanthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17%2f&amp;c=1302860914156608003&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Oct 2026 02:15:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad3d927b217489eb58da4435f5bf471&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fchina-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17%2f&amp;c=539509928558572275&amp;mkt=en-us",
+        "pubDate": "Sat, 17 Oct 2026 00:25:00 GMT",
+        "category": "business"
       }
-    ]
+    ],
+    "markets": []
   }
 }
