@@ -1,80 +1,25 @@
 {
-  "updated_at": "2026-10-19T00:01:32.723035",
+  "updated_at": "2026-10-19T07:35:38.888617",
   "news": {
-    "ap": [
-      {
-        "title": "Chiefs move to 5-0 as Kenneth Walker runs for two TDs in a 22-6 win over Chargers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55dd8a5c7405690eecf535840f311&amp;url=https%3a%2f%2fapnews.com%2farticle%2fchargers-chiefs-score-140954d25bc38abd9c7d8181c18ac620&amp;c=14156992514151008651&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 16:37:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "SEC fines Tennessee $500,000 for allowing fans to storm the field after beating Alabama",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55dd8a5c7405690eecf535840f311&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftennessee-fined-500000-storm-field-72b768f566bda5e45e3c6bd69f6d0d8b&amp;c=2500224364034507428&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 16:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "More refereeing controversy involving Real Madrid. Sevilla complains and Madrid attacks Tebas again",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55dd8a5c7405690eecf535840f311&amp;url=https%3a%2f%2fapnews.com%2farticle%2freal-madrid-sevilla-arda-guler-referees-dc899a4f7952b0b759e9caad545e8129&amp;c=7653377738651019238&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 16:23:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Tapia, Habroune score goals, Schulte has 8 saves for Crew in 2-0 win over Cincinnati",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55dd8a5c7405690eecf535840f311&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcrew-cincinnati-score-26f7537c0c0ba2cd6221582d47d7a657&amp;c=14154967345554236789&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 16:22:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Reddick wins in Phoenix as NASCAR Cup Series championship tightens after miserable day for Larson",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55dd8a5c7405690eecf535840f311&amp;url=https%3a%2f%2fapnews.com%2farticle%2fnascar-phoenix-postseason-larson-hamlin-blaney-2577a5e6e713fa034af6f7c70de75779&amp;c=15012129068000385503&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 15:28:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Congo\u2019s fast-moving Ebola outbreak spreads to eighth province",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55dda2df04dcfa7422a3dd9e97039&amp;url=https%3a%2f%2fapnews.com%2farticle%2fcongo-ebola-nordubangi-3396281be43acbd33c4a87bff132dd50&amp;c=18058302905132872671&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 14:42:00 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55dd8a5c7405690eecf535840f311&amp;url=https%3a%2f%2fapnews.com%2farticle%2fisrael-west-bank-palestinians-settlers-journalist-levine-d2e75c3c3b9e256e3ad581c28ce49b62&amp;c=6434517800318973769&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 08:54:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Macron condemns those who \u2018sought to bring down the Republic\u2019 after rioting mars nationwide protests",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55dd9e4c74d5f93e1222046204339&amp;url=https%3a%2f%2fapnews.com%2farticle%2ffrance-protests-violence-looting-f5ce07c2ef46ad0c02c6ff7018532a59&amp;c=2403185241250893796&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 03:11:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55dd8a5c7405690eecf535840f311&amp;url=https%3a%2f%2fapnews.com%2farticle%2frussia-ukraine-war-energy-diesel-trump-f813d3725b8b5f23958a68a95729fd0d&amp;c=9241902460361748736&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 02:49:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55dd957a946b788df6aa628d9c920&amp;url=https%3a%2f%2fapnews.com%2farticle%2fai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857&amp;c=6242244464222798071&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 00:07:00 GMT",
-        "category": "us"
-      }
-    ],
+    "ap": [],
     "npr": [
       {
-        "title": "Political rivals implicated under Pakistan&apos;s anti-terror law",
-        "link": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
-        "pubDate": "Sun, 18 Oct 2026 17:00:11 -0400",
+        "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+        "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+        "pubDate": "Mon, 19 Oct 2026 01:35:39 -0400",
         "category": "world"
       },
       {
-        "title": "Disgruntled farmers may help flip Senate seat in Kansas",
-        "link": "https://www.npr.org/2026/10/18/nx-s1-6002946/disgruntled-farmers-may-help-flip-senate-seat-in-kansas",
-        "pubDate": "Sun, 18 Oct 2026 17:00:10 -0400",
+        "title": "Trump to close and renovate D.C. golf course, despite legal battle",
+        "link": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle",
+        "pubDate": "Sun, 18 Oct 2026 22:09:43 -0400",
         "category": "us"
+      },
+      {
+        "title": "What does a White House press secretary do?",
+        "link": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
+        "pubDate": "Sun, 18 Oct 2026 21:41:24 -0400",
+        "category": "Top News"
       },
       {
         "title": "Ukraine and the U.S. are at odds over Starshield. Here&apos;s what to know",
@@ -121,10 +66,46 @@
     ],
     "bbc": [
       {
-        "title": "Don't fall for this - how to protect yourself from AI scams",
-        "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Oct 2026 23:24:59 GMT",
+        "title": "'Postcode lottery' driving children's inequality in England, commissioner warns",
+        "link": "https://www.bbc.co.uk/news/articles/cmd7qypglylxo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 07:06:20 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "NHS bosses say smaller maternity units may have to close",
+        "link": "https://www.bbc.co.uk/news/articles/cm040rgv7wz4o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 06:24:25 GMT",
+        "category": "health"
+      },
+      {
+        "title": "China's growth accelerates as AI boom helps boost exports",
+        "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 06:08:02 GMT",
         "category": "tech"
+      },
+      {
+        "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+        "link": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 04:59:47 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "France's government under pressure after weekend of widespread violence",
+        "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 04:16:46 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+        "link": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 00:28:44 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+        "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 00:06:25 GMT",
+        "category": "Top News"
       },
       {
         "title": "Major fire at Canada military base leaves four dead, dozens injured",
@@ -136,113 +117,29 @@
         "title": "Home sellers cut asking prices on 3,000 properties a day",
         "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 18 Oct 2026 23:00:45 GMT",
-        "category": "Top News"
+        "category": "business"
       },
       {
-        "title": "What we know so far about deadly fire at Canadian military base",
-        "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Oct 2026 21:37:56 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "title": "Watch: Inside Chicago's battle against the synthetic drugs flooding the US",
         "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Sun, 18 Oct 2026 21:00:22 GMT",
-        "category": "health"
-      },
-      {
-        "title": "Macron calls for 'calm and order' after riots across France",
-        "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Oct 2026 20:33:21 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-        "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Oct 2026 19:53:27 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Microsoft pulls out of UK's largest AI data centre",
-        "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Oct 2026 16:46:42 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-        "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Oct 2026 14:57:19 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-        "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Sun, 18 Oct 2026 05:04:31 GMT",
         "category": "Top News"
       }
     ],
-    "reuters": [
+    "reuters": [],
+    "markets": [
       {
-        "title": "Australia's Cleanaway agrees to $6.5 billion EQT takeover, shares surge",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55ddb0fd24f66b48c7d62dd37ac95&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2faustralias-cleanaway-agrees-65-billion-eqt-takeover-shares-surge-2026-10-18%2f&amp;c=12839242296901124286&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 16:44:00 GMT",
-        "category": "Top News"
+        "title": "China&apos;s CXMT sees shares drop over 6% as investors look past chipmaker&apos;s profit turnaround",
+        "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+        "pubDate": "Mon, 19 Oct 2026 01:56:34 GMT",
+        "category": "tech"
       },
       {
-        "title": "Driver released after pickup truck kills 2, injures 10 at Kansas youth soccer game",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55ddb0fd24f66b48c7d62dd37ac95&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fdriver-released-after-pickup-truck-kills-2-injures-10-kansas-youth-soccer-game-2026-10-18%2f&amp;c=13372873786134228273&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 16:39:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Australia's Ampol third-quarter Lytton refining margin more than doubles",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55ddb0fd24f66b48c7d62dd37ac95&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2faustralias-ampol-third-quarter-lytton-refining-margin-more-than-doubles-2026-10-18%2f&amp;c=11400526183325324123&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 16:33:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Macron condemns &quot;shocking&quot; scenes of violence across France",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55ddb0fd24f66b48c7d62dd37ac95&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2fmacron-condemns-shocking-scenes-violence-across-france-2026-10-18%2f&amp;c=6528998635604922513&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 11:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Captain of flydubai plane describes blocking axe blows as co-pilot attacked",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55ddb0fd24f66b48c7d62dd37ac95&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fcaptain-flydubai-plane-describes-blocking-axe-blows-co-pilot-attacked-2026-10-18%2f&amp;c=5546460696602218917&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 09:45:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55ddb99244d41bc60cc276fd96079&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskiy-says-2026-10-18%2f&amp;c=7554170852816353788&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 06:56:00 GMT",
+        "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+        "link": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+        "pubDate": "Sun, 18 Oct 2026 12:34:51 GMT",
         "category": "us"
-      },
-      {
-        "title": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55ddb0fd24f66b48c7d62dd37ac95&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2ffrances-limoges-fire-ravaged-town-hall-rekindles-memories-notre-dame-2026-10-18%2f&amp;c=9037537152895419774&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 04:48:00 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "India widens cancer drug price caps, lowering prices of 137 medicines",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55ddc586d4e61b61c02d732ed654e&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2findia-widens-cancer-drug-price-caps-lowering-prices-137-medicines-2026-10-18%2f&amp;c=12221144793023245247&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 04:19:00 GMT",
-        "category": "business"
-      },
-      {
-        "title": "IMF/World Bank meetings leave developing countries with more questions than answers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55ddba83c4ad9a3def1c14c2a0056&amp;url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fimfworld-bank-meetings-leave-developing-countries-with-more-questions-than-2026-10-18%2f&amp;c=6190286963517329439&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 03:45:00 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Macron urges calm as France counts cost of worst unrest in years",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad55ddb0fd24f66b48c7d62dd37ac95&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ffrance-faces-aftermath-worst-unrest-years-2026-10-18%2f&amp;c=14829241831665379554&amp;mkt=en-us",
-        "pubDate": "Sun, 18 Oct 2026 02:49:00 GMT",
-        "category": "Top News"
       }
-    ],
-    "markets": []
+    ]
   }
 }
