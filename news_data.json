@@ -1,13 +1,56 @@
 {
-  "updated_at": "2026-10-19T21:00:13.935491",
+  "updated_at": "2026-10-20T01:02:13.798549",
   "news": {
-    "ap": [],
+    "ap": [
+      {
+        "title": "UEFA gives FIFA a Nov. 2 deadline to release Infantino World Cup plan documents",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad6bcdc57b844a1817e8dc509e5c7e4&amp;url=https%3a%2f%2fapnews.com%2farticle%2fuefa-fifa-infantino-world-cup-990606fe29b10fcb5a03f3f9b610608a&amp;c=5233611362006433482&amp;mkt=en-us",
+        "pubDate": "Mon, 19 Oct 2026 10:10:00 GMT",
+        "category": "world"
+      }
+    ],
     "npr": [
+      {
+        "title": "The Ebola crisis is far outpacing the response, Congo&apos;s IRC director says",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-6005499/the-ebola-crisis-is-far-outpacing-the-response-congos-irc-director-says",
+        "pubDate": "Mon, 19 Oct 2026 18:38:29 -0400",
+        "category": "health"
+      },
+      {
+        "title": "Alberta voters decide whether to take a step toward separating from Canada",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
+        "pubDate": "Mon, 19 Oct 2026 18:29:57 -0400",
+        "category": "world"
+      },
+      {
+        "title": "In Dublin, tech workers raise concerns about AI",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-6003512/in-dublin-tech-workers-raise-concerns-about-ai",
+        "pubDate": "Mon, 19 Oct 2026 18:20:52 -0400",
+        "category": "tech"
+      },
+      {
+        "title": "Difficult times in agriculture are making it tough for the next generation of farmers",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-5966889/difficult-times-in-agriculture-are-making-it-tough-for-the-next-generation-of-farmers",
+        "pubDate": "Mon, 19 Oct 2026 17:57:57 -0400",
+        "category": "business"
+      },
+      {
+        "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
+        "pubDate": "Mon, 19 Oct 2026 17:56:37 -0400",
+        "category": "us"
+      },
+      {
+        "title": "Schools struggle to measure how much AI experiments are helping",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
+        "pubDate": "Mon, 19 Oct 2026 16:59:57 -0400",
+        "category": "Top News"
+      },
       {
         "title": "Australian prime minister says lawmaker critically injured by car is &apos;no accident&apos;",
         "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
         "pubDate": "Mon, 19 Oct 2026 07:38:43 -0400",
-        "category": "world"
+        "category": "Top News"
       },
       {
         "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
@@ -19,52 +62,46 @@
         "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
         "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
         "pubDate": "Mon, 19 Oct 2026 05:00:00 -0400",
-        "category": "us"
+        "category": "Top News"
       },
       {
         "title": "The real reason it&apos;s going to take a while to know who won in some midterm races",
         "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
         "pubDate": "Mon, 19 Oct 2026 05:00:00 -0400",
         "category": "Top News"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
-        "pubDate": "Mon, 19 Oct 2026 04:46:44 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Michigan&apos;s Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
-        "link": "https://www.npr.org/2026/10/19/nx-s1-6005195/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
-        "pubDate": "Mon, 19 Oct 2026 04:46:18 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues",
-        "link": "https://www.npr.org/2026/10/19/nx-s1-5993523/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
-        "pubDate": "Mon, 19 Oct 2026 04:45:58 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Alberta voters weigh future in Canada",
-        "link": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
-        "pubDate": "Mon, 19 Oct 2026 04:45:01 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "AI models are changing how forecasters predict the paths of hurricanes",
-        "link": "https://www.npr.org/2026/10/19/nx-s1-5996666/ai-models-are-changing-how-forecasters-predict-the-paths-of-hurricanes",
-        "pubDate": "Mon, 19 Oct 2026 04:44:31 -0400",
-        "category": "tech"
-      },
-      {
-        "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-        "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
-        "pubDate": "Mon, 19 Oct 2026 01:35:39 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
+      {
+        "title": "Criminals detained in hospital set to lose benefits",
+        "link": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 23:21:38 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Watch: Clean up begins after French riots but police remain",
+        "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 21:30:08 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+        "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 21:30:06 GMT",
+        "category": "business"
+      },
+      {
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 21:14:53 GMT",
+        "category": "world"
+      },
+      {
+        "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+        "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT",
+        "category": "tech"
+      },
       {
         "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
         "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&amp;at_campaign=rss",
@@ -84,36 +121,6 @@
         "category": "Top News"
       },
       {
-        "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-        "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 19 Oct 2026 18:21:54 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 19 Oct 2026 17:18:04 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Vinted blocks French looters listing stolen goods for sale",
-        "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 19 Oct 2026 16:46:35 GMT",
-        "category": "business"
-      },
-      {
-        "title": "Australian MP critically injured after being hit by car in apparent attack",
-        "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 19 Oct 2026 14:09:54 GMT",
-        "category": "world"
-      },
-      {
-        "title": "Watch: Are the French riots a warning of an intense election to come?",
-        "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Mon, 19 Oct 2026 13:43:27 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "The father and son on opposite sides of Alberta\u2019s separation vote",
         "link": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Mon, 19 Oct 2026 07:55:32 GMT",
@@ -126,7 +133,20 @@
         "category": "health"
       }
     ],
-    "reuters": [],
+    "reuters": [
+      {
+        "title": "Cuba accuses US of letting terrorists to operate with impunity after speedboat raid",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad6bd25272e4b06a86f3d48fcaa532c&amp;url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcuba-accuses-us-letting-terrorists-operate-with-impunity-after-speedboat-raid-2026-10-20%2f&amp;c=7832371916657275714&amp;mkt=en-us",
+        "pubDate": "Mon, 19 Oct 2026 17:00:00 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Trump signs order creating NIH division, task force for women's health",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad6bd457475439d87c4ec85102bf36a&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2ftrump-create-new-nih-division-task-force-womens-health-2026-10-19%2f&amp;c=12268280491686542815&amp;mkt=en-us",
+        "pubDate": "Mon, 19 Oct 2026 06:29:00 GMT",
+        "category": "health"
+      }
+    ],
     "markets": [
       {
         "title": "Robot factories and hypersonic missiles: JPMorgan Chase&apos;s first $5 billion of defense investments",
