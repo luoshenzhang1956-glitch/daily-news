@@ -1,42 +1,67 @@
 {
-  "updated_at": "2026-10-21T11:31:52.166421",
+  "updated_at": "2026-10-21T17:00:23.988567",
   "news": {
-    "ap": [],
-    "npr": [
+    "ap": [
       {
-        "title": "Former U.S. Ambassador to Ukraine on Trump&apos;s turn toward Russia",
-        "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
-        "pubDate": "Wed, 21 Oct 2026 06:56:00 -0400",
+        "title": "US is a big reason for the world losing ground in the fight against climate change, UN report says",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad8eed602cf4778835b7144251906ee&amp;url=https%3a%2f%2fapnews.com%2farticle%2fclimate-change-global-warming-united-states-projections-0eff0561e0af1f3d7421a96d9db02ba9&amp;c=9466417491580841285&amp;mkt=en-us",
+        "pubDate": "Tue, 20 Oct 2026 22:07:00 GMT",
         "category": "world"
       },
       {
-        "title": "Mississippi AG says use of force was &apos;justified&apos; in fatal shooting of toddler",
-        "link": "https://www.npr.org/2026/10/21/nx-s1-6009535/mississippi-ag-says-use-of-force-was-justified-in-fatal-shooting-of-toddler",
-        "pubDate": "Wed, 21 Oct 2026 06:55:56 -0400",
+        "title": "Human rights commission urges oversight of technology used in Latin American environmental crime",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad8eef80d0f41b9b1f0d98a711545a5&amp;url=https%3a%2f%2fapnews.com%2farticle%2ftechnology-environmental-crime-latin-america-satellite-internet-drones-881bf050994b0a36e8fd6f90e9d5e260&amp;c=17629512549276944220&amp;mkt=en-us",
+        "pubDate": "Tue, 20 Oct 2026 20:12:00 GMT",
+        "category": "tech"
+      }
+    ],
+    "npr": [
+      {
+        "title": "How Trump&apos;s attacks on voting system integrity might affect upcoming elections",
+        "link": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+        "pubDate": "Wed, 21 Oct 2026 12:01:44 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Why local officials are feeling &apos;on edge&apos; as election day approaches",
+        "link": "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+        "pubDate": "Wed, 21 Oct 2026 12:01:17 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "Supreme Court upholds pause on Trump&apos;s anti-trans prison policy",
+        "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
+        "pubDate": "Wed, 21 Oct 2026 11:46:27 -0400",
         "category": "us"
       },
       {
-        "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump&apos;s request",
-        "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
-        "pubDate": "Wed, 21 Oct 2026 06:20:50 -0400",
-        "category": "Top News"
-      },
-      {
-        "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
-        "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
-        "pubDate": "Wed, 21 Oct 2026 05:00:00 -0400",
+        "title": "New human data hints at psychedelics&apos; potential to combat inflammation",
+        "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
+        "pubDate": "Wed, 21 Oct 2026 11:33:18 -0400",
         "category": "health"
       },
       {
-        "title": "2025 policing trend: Fewer serious crimes, more minor arrests",
-        "link": "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase",
-        "pubDate": "Wed, 21 Oct 2026 05:00:00 -0400",
+        "title": "Sentenced to death at 17, at 68, quilt artist receives solo museum exhibition",
+        "link": "https://www.npr.org/2026/10/21/nx-s1-6003634/sentenced-to-death-at-17-at-68-quilt-artist-receives-solo-museum-exhibition",
+        "pubDate": "Wed, 21 Oct 2026 11:21:47 -0400",
         "category": "Top News"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief",
-        "pubDate": "Wed, 21 Oct 2026 04:42:59 -0400",
+        "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
+        "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+        "pubDate": "Wed, 21 Oct 2026 09:28:04 -0400",
+        "category": "world"
+      },
+      {
+        "title": "Trump leans into unprecedented power ahead of midterm elections",
+        "link": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
+        "pubDate": "Wed, 21 Oct 2026 08:09:41 -0400",
+        "category": "Top News"
+      },
+      {
+        "title": "DOJ&apos;s noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+        "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+        "pubDate": "Wed, 21 Oct 2026 07:46:59 -0400",
         "category": "Top News"
       },
       {
@@ -46,42 +71,60 @@
         "category": "tech"
       },
       {
-        "title": "LeBron James talks smack with Knicks fans in victorious 76ers debut",
-        "link": "https://www.npr.org/2026/10/21/nx-s1-6010350/lebron-knicks-76ers",
-        "pubDate": "Wed, 21 Oct 2026 02:07:16 -0400",
-        "category": "Top News"
-      },
-      {
         "title": "FAA clears the way for airlines to put Boeing&apos;s long-delayed 737 Max 10 into service",
         "link": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
         "pubDate": "Wed, 21 Oct 2026 02:05:18 -0400",
         "category": "business"
-      },
-      {
-        "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
-        "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-        "pubDate": "Wed, 21 Oct 2026 01:43:24 -0400",
-        "category": "Top News"
       }
     ],
     "bbc": [
       {
-        "title": "Student who murdered uni housemate jailed for life",
-        "link": "https://www.bbc.co.uk/news/articles/c6pvglvpln91o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Oct 2026 11:27:49 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Hackers steal children's data after company used 'Password1' to protect old account",
-        "link": "https://www.bbc.co.uk/news/articles/c6r7y03e9m3ro?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Oct 2026 10:56:47 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
-        "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Oct 2026 10:52:00 GMT",
+        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Oct 2026 16:38:06 GMT",
         "category": "world"
+      },
+      {
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Oct 2026 16:07:19 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+        "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Oct 2026 16:06:37 GMT",
+        "category": "us"
+      },
+      {
+        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
+        "link": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Oct 2026 15:56:03 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Google staff resign in backlash over its AI contracts with military",
+        "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Oct 2026 15:41:25 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Oct 2026 15:36:31 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+        "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Oct 2026 14:26:24 GMT",
+        "category": "Top News"
+      },
+      {
+        "title": "'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster",
+        "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&amp;at_campaign=rss",
+        "pubDate": "Wed, 21 Oct 2026 11:21:58 GMT",
+        "category": "Top News"
       },
       {
         "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
@@ -90,74 +133,26 @@
         "category": "business"
       },
       {
-        "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-        "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Oct 2026 08:42:49 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Australian MP loses both legs after alleged car attack, husband says",
-        "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Oct 2026 07:56:30 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Undercover filming shows lawyer advising how to avoid \u00a345,000 illegal-worker fine",
-        "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Oct 2026 05:00:54 GMT",
-        "category": "Top News"
-      },
-      {
-        "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
-        "link": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Wed, 21 Oct 2026 05:00:35 GMT",
-        "category": "Top News"
-      },
-      {
         "title": "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong",
         "link": "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o?at_medium=RSS&amp;at_campaign=rss",
         "pubDate": "Tue, 20 Oct 2026 23:06:07 GMT",
         "category": "health"
-      },
-      {
-        "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-        "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&amp;at_campaign=rss",
-        "pubDate": "Tue, 20 Oct 2026 22:22:17 GMT",
-        "category": "us"
       }
     ],
     "reuters": [
       {
-        "title": "Monitoring the monitors: US states prepare for surge of Justice Dept election watchers",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad8a274d4544e7b9226a88373bcf9c3&amp;url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fmonitoring-monitors-us-states-prepare-surge-justice-dept-election-watchers-2026-10-21%2f&amp;c=8845468562638855294&amp;mkt=en-us",
-        "pubDate": "Wed, 21 Oct 2026 03:06:00 GMT",
-        "category": "us"
+        "title": "Police to deploy live facial recognition technology at Chelsea-Spurs game",
+        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ad8ef44848645f9aa0954f12d29d464&amp;url=https%3a%2f%2fwww.reuters.com%2fsports%2fsoccer%2fpolice-deploy-live-facial-recognition-technology-chelsea-spurs-game-2026-10-21%2f&amp;c=9020492166979729972&amp;mkt=en-us",
+        "pubDate": "Wed, 21 Oct 2026 05:52:00 GMT",
+        "category": "tech"
       }
     ],
     "markets": [
       {
-        "title": "SpaceX is ripping higher after strong earnings. Analysts see more gains ahead",
-        "link": "https://www.cnbc.com/2026/10/21/spacex-stock-q3-earnings-analysts.html",
-        "pubDate": "Wed, 21 Oct 2026 11:28:47 GMT",
-        "category": "us"
-      },
-      {
-        "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-        "link": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-        "pubDate": "Wed, 21 Oct 2026 11:27:59 GMT",
-        "category": "business"
-      },
-      {
-        "title": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
-        "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-        "pubDate": "Wed, 21 Oct 2026 10:52:39 GMT",
-        "category": "tech"
-      },
-      {
-        "title": "Novo&apos;s next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-        "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-        "pubDate": "Tue, 20 Oct 2026 16:11:02 GMT",
-        "category": "health"
+        "title": "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second largest diesel supplier",
+        "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+        "pubDate": "Wed, 21 Oct 2026 16:18:27 GMT",
+        "category": "world"
       }
     ]
   }
